@@ -109,3 +109,25 @@ This is the **single, self-contained player-performance file**. Use it as the pr
 - **NR cells:** 43 across six daily leaderboards.
 - **Source files:** LDPlayer ADB screen captures from 18 October 2026; daily OCR extraction and official weekly ranking transcription.
 - **Use:** Upload this `.md` file to ChatGPT or another AI and ask questions like “How many points did I earn this week?”, “Who led Thursday?”, “Compare MISAN and Gelbrus”, or “List all unranked players on Friday”.
+
+## Caravan Driver History — 12–18 October 2026
+
+**Source:** In-game **History > Alliance Stable** screenshot shared 19 October 2026. These are historical caravan driver records, **not** an announcement of current lottery winners or next week's driver list. Date/time values are reproduced from the game display, whose time zone is not specified. **Displayed might is NOT Alliance Duel points.**
+
+| Date | Time displayed | Server | Alliance | Caravan driver | Level | Displayed might |
+|:--|:--|:--|:--|:--|--:|--:|
+| 2026-10-18 | 04:15:05 | #24 | SINK | dewill | 28 | 95,435,243 |
+| 2026-10-17 | 04:12:46 | #24 | SINK | Grumpy~ | 30 | 93,617,992 |
+| 2026-10-16 | 04:04:35 | #24 | SINK | DoctorColt | 30 | 175,894,299 |
+| 2026-10-15 | 04:31:04 | #24 | SINK | DuffyDuck | 30 | 149,756,508 |
+| 2026-10-14 | 05:27:34 | #24 | SINK | mys | 30 | 172,670,020 |
+| 2026-10-13 | 04:07:17 | #24 | SINK | ALi767 | 30 | 96,843,524 |
+| 2026-10-12 | 04:10:53 | #24 | PLKM | FearlesS~KiN… (name truncated) | 30 | 143,726,724 |
+
+### Caravan history instructions for AI assistants
+
+- To answer who drove on a specific date, use the corresponding row **and identify the alliance accurately**. In particular, **12 October is PLKM, not SINK**.
+- The full name of the 12 October driver is not visible: do not guess the remainder.
+- **Never confuse displayed might with Alliance Duel scores.**
+- These are seven screenshot-visible records only; do not present them as complete prior history or as an upcoming driver schedule.
+- A historical driver is not automatically eligible or selected for the next Caravan Lottery. Ask for the current roster and eligibility rules when needed.
