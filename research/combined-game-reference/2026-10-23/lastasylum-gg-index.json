@@ -1,0 +1,699 @@
+{
+  "captured_on": "2026-10-23",
+  "source": "https://lastasylum.gg",
+  "total_sitemap_urls": 6677,
+  "english_non_leaderboard_urls": 1922,
+  "selected_pages": 86,
+  "successful": 86,
+  "pages": [
+    {
+      "url": "https://lastasylum.gg/en",
+      "path": "home.txt",
+      "sha256": "c35f3d88cbc55748035931ae262a5aa65199ff54b8962900edb08f0525ba43b5",
+      "bytes_html": 43240,
+      "chars_text": 2580,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/heroes",
+      "path": "heroes.txt",
+      "sha256": "ae1fc3c29b14b7b28d3b05022a26aef69b9bc4217dea170435f42b24ea28bc5b",
+      "bytes_html": 48693,
+      "chars_text": 2202,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/heroes/squad",
+      "path": "heroes__squad.txt",
+      "sha256": "fff73c548ee0db36ec647d61be87c243c3640223de647a08e99ede1b9ddfad45",
+      "bytes_html": 46212,
+      "chars_text": 3243,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/heroes/arthur",
+      "path": "heroes__arthur.txt",
+      "sha256": "9c057099833b8bd96b95af8fbe66897e1b70d7de4926fd3545484b61714907fd",
+      "bytes_html": 115211,
+      "chars_text": 6015,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/heroes/marlena",
+      "path": "heroes__marlena.txt",
+      "sha256": "17e3b01787c4b1865081611ab5a285cf1c58a1546a951f0b9c20028b2e870339",
+      "bytes_html": 156513,
+      "chars_text": 9467,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/gear",
+      "path": "gear.txt",
+      "sha256": "b388e38bad7badf5352ab88bb81325b0f836fe01efdc10524ccde112e2fcee7f",
+      "bytes_html": 744277,
+      "chars_text": 29737,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/gear/ssr",
+      "path": "gear__ssr.txt",
+      "sha256": "269c9444def4e5f2106b29bf6061ccec583bac10c0f8ec24909889e2c2dcd16b",
+      "bytes_html": 240026,
+      "chars_text": 8848,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/gear/sr",
+      "path": "gear__sr.txt",
+      "sha256": "3cd6bee258630e1d45a73e50e1b380e860272ce04ac981be02e652594781d825",
+      "bytes_html": 129924,
+      "chars_text": 4402,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/gear/r",
+      "path": "gear__r.txt",
+      "sha256": "49c53740a50a4dadaac458eee25dca1b7e5526ca87cfef4d1260de2f0e992a5c",
+      "bytes_html": 30331,
+      "chars_text": 1041,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/raven",
+      "path": "raven.txt",
+      "sha256": "d7521819198e80bbbde323350f383ad7842f989a1e9b2b947f0fd5d756c55e70",
+      "bytes_html": 30766,
+      "chars_text": 1801,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/raven/levels",
+      "path": "raven__levels.txt",
+      "sha256": "4e5d97c476975f1fb74bfb1ad3427811eafd9d720a20926bc0ac88d0015ccd4a",
+      "bytes_html": 355667,
+      "chars_text": 20650,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/raven/evolution",
+      "path": "raven__evolution.txt",
+      "sha256": "1c5f974f99a6b3ecefcae4a42e4a0f78494122164d51667ade91bb9414ab6e9d",
+      "bytes_html": 123765,
+      "chars_text": 9569,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/raven/gear",
+      "path": "raven__gear.txt",
+      "sha256": "701cfef6bf5809831fd57ca7c0d6dad389ca44342bc224759c5a48455a4fe3ca",
+      "bytes_html": 114135,
+      "chars_text": 4667,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/troops",
+      "path": "troops.txt",
+      "sha256": "677bffbc1874eabf57dfb2f1af0cf6e71e32d24c1d70d7b14d2c421bef3b974f",
+      "bytes_html": 44564,
+      "chars_text": 1867,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/buildings",
+      "path": "buildings.txt",
+      "sha256": "54f34134fe7d413efb9f3ce157ed81e8726769e002fdb4f0b2b6363e4b779611",
+      "bytes_html": 54551,
+      "chars_text": 1967,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/buildings/planner",
+      "path": "buildings__planner.txt",
+      "sha256": "62cd4ef76919bf4489b9d97008deb2a546ce45fd9ffb8d8342b76ab6e6e0ed01",
+      "bytes_html": 132099,
+      "chars_text": 2907,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/buildings/epigraph-workshop",
+      "path": "buildings__epigraph-workshop.txt",
+      "sha256": "dfd881417cf3efac2ecf4626a8dbb7cd693054868e2ca05b4e958fc1fe919037",
+      "bytes_html": 68145,
+      "chars_text": 3329,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/buildings/sanctuary",
+      "path": "buildings__sanctuary.txt",
+      "sha256": "699034546bd3f8e7a37f593f089cd76990334378cb6d9e797d0b6cead62e13d7",
+      "bytes_html": 99222,
+      "chars_text": 5498,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/research",
+      "path": "research.txt",
+      "sha256": "6c1361f465097299a76b1c3848e543ea9ad4206e74a86468ee11522f204a0c1d",
+      "bytes_html": 37310,
+      "chars_text": 1195,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/research/planner",
+      "path": "research__planner.txt",
+      "sha256": "ce0b4f2e31e41103ccd38b75317fedd81a5e5e199af137a3314fadf5900660bf",
+      "bytes_html": 340884,
+      "chars_text": 3404,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/research/alliance",
+      "path": "research__alliance.txt",
+      "sha256": "8dbf3f45c466957a46cf72470ce8a49fb490f1cfe641ef1d3246d3763040a962",
+      "bytes_html": 185742,
+      "chars_text": 9682,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/research/alliance/war",
+      "path": "research__alliance__war.txt",
+      "sha256": "4f8fcf9993c47505504698b1b5d32075b4f8823d71ce95b022ce953def775856",
+      "bytes_html": 194755,
+      "chars_text": 9992,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/power",
+      "path": "power.txt",
+      "sha256": "4c592c6f602cba6ee8d794f4a525c7e633d3fda1978ab7b9bdf39f9a77de45a9",
+      "bytes_html": 197330,
+      "chars_text": 4195,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/survivors",
+      "path": "survivors.txt",
+      "sha256": "9516a2df719657a4af467f580dd4de5b5755916bf91a15b9835b7e3a98bb15fe",
+      "bytes_html": 47008,
+      "chars_text": 2528,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/survivors/farmer",
+      "path": "survivors__farmer.txt",
+      "sha256": "6d8f4de527eef556ec373b01ac76524b8478789225e59d1e157dbe49a884cdbd",
+      "bytes_html": 150054,
+      "chars_text": 5685,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/survivors/lumberjack",
+      "path": "survivors__lumberjack.txt",
+      "sha256": "42d354414447f745f36ce2629c8b7a9909e1374f409091f9f90a796a41be424b",
+      "bytes_html": 150277,
+      "chars_text": 5716,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/survivors/herbalist",
+      "path": "survivors__herbalist.txt",
+      "sha256": "289e106f4bfe53030891f030ed63e5a51ca590d73bd6218b750d2ce5f3766c83",
+      "bytes_html": 150219,
+      "chars_text": 5703,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/curios",
+      "path": "curios.txt",
+      "sha256": "9d352e3b0af49d78ac2e530e44332311ca94c19fef44f4b1037f84624cb25a5b",
+      "bytes_html": 254591,
+      "chars_text": 17080,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/curios/ssr",
+      "path": "curios__ssr.txt",
+      "sha256": "ccdcfdc37de1ead93110946823f1b49141eebc29f44e43a1578ced1e5c685543",
+      "bytes_html": 145830,
+      "chars_text": 7434,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/curios/sr",
+      "path": "curios__sr.txt",
+      "sha256": "352491304d59b7d0ee6b452b7fa5d79e47e0015acec1f128cd16cbdb0dc6fb82",
+      "bytes_html": 48722,
+      "chars_text": 2369,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/clinic",
+      "path": "clinic.txt",
+      "sha256": "c21bf33c7cd4392fd6aa59d9620fc03e957bde0304d98b43f01bb74f96f52764",
+      "bytes_html": 57208,
+      "chars_text": 3155,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/clinic/doctor",
+      "path": "clinic__doctor.txt",
+      "sha256": "8d77f7f382b6ba9b97e0d75a639e7f0efccf4e82b030559a21957e9294fdc64f",
+      "bytes_html": 32529,
+      "chars_text": 1375,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/lord",
+      "path": "lord.txt",
+      "sha256": "e95678ef346b6e0e7ee6bd9c0c9070328302541a7a497108812c671bf0812095",
+      "bytes_html": 61514,
+      "chars_text": 5407,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/lord/legion-commander",
+      "path": "lord__legion-commander.txt",
+      "sha256": "6014be6c48bb48e0c853785a9c12d07a40dda2a7ef5ebc918e2f811966dbcf5a",
+      "bytes_html": 64308,
+      "chars_text": 5457,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/lord/season",
+      "path": "lord__season.txt",
+      "sha256": "caa92c3f494d6603c897f6498361b3c4708c1d2c559a10e47a716733dd9879d3",
+      "bytes_html": 35435,
+      "chars_text": 1956,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/lord/levels",
+      "path": "lord__levels.txt",
+      "sha256": "a9cbfbf5476acf479aa6f6e553a4a42f794ad915fcaf7529e1f16280991f99b0",
+      "bytes_html": 46918,
+      "chars_text": 2923,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/virus",
+      "path": "virus.txt",
+      "sha256": "c6e0f465ba68d8c7cde462567f1cee8dfe233b4dc9d5657156ea97bb7fa5acd8",
+      "bytes_html": 45700,
+      "chars_text": 2588,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/virus/levels",
+      "path": "virus__levels.txt",
+      "sha256": "a1a67e260e6db3c93a670c4e1d7b3aef8f946d7fd690c2b286502ff57c12ffbe",
+      "bytes_html": 45462,
+      "chars_text": 2133,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/vip",
+      "path": "vip.txt",
+      "sha256": "75146728be6e8faed83b53dd1ec31153c4bd9ff84ad2653b0d84c8678c96de76",
+      "bytes_html": 72726,
+      "chars_text": 2481,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/vip/levels",
+      "path": "vip__levels.txt",
+      "sha256": "a8bebe02568a49845b5a71ddbc01df64023dfdaffc54ed2fc443198c0e5d16e5",
+      "bytes_html": 78951,
+      "chars_text": 3557,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/vip/login",
+      "path": "vip__login.txt",
+      "sha256": "0e050f56cc338cd402403907d251f2b8dcad960540140553b040145b863cd5f3",
+      "bytes_html": 28620,
+      "chars_text": 1012,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/skins",
+      "path": "skins.txt",
+      "sha256": "d3ddccd76eca9b6bfe15febe9ed5f9beb728f291b712036ebbcd3a14acf9d3c1",
+      "bytes_html": 47723,
+      "chars_text": 2242,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/skins/special-effects",
+      "path": "skins__special-effects.txt",
+      "sha256": "7527b9797f4ede4e78c1a4f98fc1bb1e631579f420ae6b5c881f43266f6d1955",
+      "bytes_html": 35191,
+      "chars_text": 1247,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/skins/avatar-frame",
+      "path": "skins__avatar-frame.txt",
+      "sha256": "4e383fc82a4459e8c85a347fb3090cbbca977d2190aff3945055887313a4ecd0",
+      "bytes_html": 42335,
+      "chars_text": 1503,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/skins/nameplate",
+      "path": "skins__nameplate.txt",
+      "sha256": "ed6a46eff971c5f58dc878dd10952da780fdfa415afe6cc3e3ae268a05a8927c",
+      "bytes_html": 40662,
+      "chars_text": 1375,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/campaign",
+      "path": "campaign.txt",
+      "sha256": "5379b51477d8d136b86c179a82b835792feabe65f2942353c32be1ff40a20380",
+      "bytes_html": 115962,
+      "chars_text": 3626,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/campaign/1",
+      "path": "campaign__1.txt",
+      "sha256": "d15496d37a0765890a3f74ffccdfa875316f5181464c7070bcb161b1f21f4cc5",
+      "bytes_html": 33388,
+      "chars_text": 1088,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/campaign/2",
+      "path": "campaign__2.txt",
+      "sha256": "5a2d628a9c284f88e427818af7f83ee88cf67a2fc4f94eefa522e2c7249dec79",
+      "bytes_html": 33507,
+      "chars_text": 1096,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/campaign/3",
+      "path": "campaign__3.txt",
+      "sha256": "064068e30287813293a21ff2476007192369d7e5c68f0e2dd8f4720b6e8905a4",
+      "bytes_html": 33519,
+      "chars_text": 1099,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/monsters",
+      "path": "monsters.txt",
+      "sha256": "96b5b06c2edae8133456e3b84484b9d5de55f772ab9cc4d42bb5490c8cd03776",
+      "bytes_html": 410632,
+      "chars_text": 15430,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/monsters/season",
+      "path": "monsters__season.txt",
+      "sha256": "37958a6e6d37c377b6fe1e3b65cacb0269b6c2f1755178d630efdf36510ef214",
+      "bytes_html": 762930,
+      "chars_text": 32826,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/monsters/weekend",
+      "path": "monsters__weekend.txt",
+      "sha256": "0c4e81c4374871d0395efb1e545eb5686900444a0b8575c24908dfdd9d2a2826",
+      "bytes_html": 30077,
+      "chars_text": 1251,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/monsters/alliance-boss",
+      "path": "monsters__alliance-boss.txt",
+      "sha256": "f86d6eb6de0b0d852c8b707f8289902994d0202ddb5613cb8f58ea27e6975471",
+      "bytes_html": 32409,
+      "chars_text": 1354,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/bestiary",
+      "path": "bestiary.txt",
+      "sha256": "05cc3bebc7dbfca9ce177fae073b1ede1d06f1d0b721848240c78845a7fd4824",
+      "bytes_html": 48187,
+      "chars_text": 2399,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/bestiary/rat-king",
+      "path": "bestiary__rat-king.txt",
+      "sha256": "b6b3e4e4a5bedd1db446af9145735c0769dc8c4a265c3a901846441a3a42ec2c",
+      "bytes_html": 31046,
+      "chars_text": 1144,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/bestiary/fang-guard",
+      "path": "bestiary__fang-guard.txt",
+      "sha256": "bb88cbef9349648335aec24e1d5cf4e7be33e474bf0c4a2184cbf4866cee803d",
+      "bytes_html": 35194,
+      "chars_text": 1262,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/bestiary/rat-plague",
+      "path": "bestiary__rat-plague.txt",
+      "sha256": "c8fbb32f38d15156258e1df2ad81ecb94453b64e1917b94eb5a4bc6bea95e646",
+      "bytes_html": 35195,
+      "chars_text": 1272,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/arena",
+      "path": "arena.txt",
+      "sha256": "432618be02eda3c3267fd34767bfbf7fd8ca46ee73b7eac3d02dee06ab7d4ec1",
+      "bytes_html": 105619,
+      "chars_text": 4640,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/arena/apex-arena",
+      "path": "arena__apex-arena.txt",
+      "sha256": "9031819199dd3fc33a3c3575f4655923c2a6697962b22d857c655413070f0430",
+      "bytes_html": 120678,
+      "chars_text": 5945,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/arena/arena-of-fate",
+      "path": "arena__arena-of-fate.txt",
+      "sha256": "4111e2d735a25f8b2f8e7cc67d6d3af57bf8d57c65dce995a8da46d11849ddda",
+      "bytes_html": 136545,
+      "chars_text": 7352,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/arena/triangular-arena",
+      "path": "arena__triangular-arena.txt",
+      "sha256": "c8d9c919d86bc8457c276298966947aeca6bf157f966aaad7cd900389eb57f0b",
+      "bytes_html": 81621,
+      "chars_text": 4052,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/shops",
+      "path": "shops.txt",
+      "sha256": "26f642c4d135aebfd70ff37eb49106df3445c09837fd91da58ed28ffcac0c1fd",
+      "bytes_html": 38795,
+      "chars_text": 1284,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/shops/vip-shop",
+      "path": "shops__vip-shop.txt",
+      "sha256": "1f456920ef6d5d8667362928e111657ab658bfbb2432ece05c0cc57be6c8a000",
+      "bytes_html": 57805,
+      "chars_text": 1845,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/shops/alliance-shop",
+      "path": "shops__alliance-shop.txt",
+      "sha256": "4e70960d8a66af8360ea1fef54b1b4e9eda79007ad29f8f5ba8bbf1b5a112ebe",
+      "bytes_html": 64599,
+      "chars_text": 2211,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/shops/honor-shop",
+      "path": "shops__honor-shop.txt",
+      "sha256": "1919c6606d8bce06b41dfaa2ef4b3bb143fd490306ed95bd69a5d0a31a908cec",
+      "bytes_html": 44564,
+      "chars_text": 1473,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/alliance-chests",
+      "path": "alliance-chests.txt",
+      "sha256": "437e4b1d71f8f562fae4a3912ea5489590366150b0e9a2e0e72ee60ac9698873",
+      "bytes_html": 129054,
+      "chars_text": 5997,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/era",
+      "path": "era.txt",
+      "sha256": "264a7de3d4e5c66990a22825cc173d293e6103cd425d0fb94c8591ce85a70c8d",
+      "bytes_html": 43336,
+      "chars_text": 5822,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/expedition",
+      "path": "expedition.txt",
+      "sha256": "f830d34b5d750d645f6cc3f5992cd7af30b3a6683ee8ae36752aa7fed6f30b27",
+      "bytes_html": 232715,
+      "chars_text": 6423,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/packs",
+      "path": "packs.txt",
+      "sha256": "15578beacb1c36883d80389fed19e7e222d7f821091607df50f0f469f9b85cf6",
+      "bytes_html": 148691,
+      "chars_text": 16287,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/packs/24h-copper-coin-pack",
+      "path": "packs__24h-copper-coin-pack.txt",
+      "sha256": "17887221548d41c76a8dbb1a9a5470bfe1aa35c629d6c74bab5e4043c05c90aa",
+      "bytes_html": 30910,
+      "chars_text": 1474,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/packs/2nd-lab",
+      "path": "packs__2nd-lab.txt",
+      "sha256": "984d33b2d281c0468a70ac6733deabfb6aca055d1b8edb0caeb83e1089769dc1",
+      "bytes_html": 31249,
+      "chars_text": 1478,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/packs/30-day-monthly-pass",
+      "path": "packs__30-day-monthly-pass.txt",
+      "sha256": "c2bee4b700fd266bef4013cb4a2c386f34ba4c5cc7847699564bbb77ac4270fe",
+      "bytes_html": 35035,
+      "chars_text": 1637,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/events",
+      "path": "events.txt",
+      "sha256": "44062c20e9f86b45cf3f05c0f7ff8ad2a562e80b74505b28db9e6663d1a19d94",
+      "bytes_html": 35814,
+      "chars_text": 1086,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/events/category/alliance",
+      "path": "events__category__alliance.txt",
+      "sha256": "24db063e8da42cf5389ab788f5bf49354c9d90d871ae337c2e830e70805a12b6",
+      "bytes_html": 42894,
+      "chars_text": 2331,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/events/category/pve",
+      "path": "events__category__pve.txt",
+      "sha256": "5c8f9a86c84c7bd33fc38f291f0225255e2a1ea671ac8f1c73076c3b435c2ad7",
+      "bytes_html": 45668,
+      "chars_text": 1793,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/events/category/draw",
+      "path": "events__category__draw.txt",
+      "sha256": "8683494b34a99bfb5077b0c4fdab17c2f51a35b09d435232d740723fc6d2cf84",
+      "bytes_html": 67221,
+      "chars_text": 3833,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/codes",
+      "path": "codes.txt",
+      "sha256": "43e1ba3b56cdbec47a37d267fe554e440c5de45ca582d4e7775359ebf5c6ebc7",
+      "bytes_html": 75572,
+      "chars_text": 3435,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/guides",
+      "path": "guides.txt",
+      "sha256": "37f47076df6120922991f61c9f3b6f7820bd989686fb834000589553666a721e",
+      "bytes_html": 53302,
+      "chars_text": 2078,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/guides/faq",
+      "path": "guides__faq.txt",
+      "sha256": "8c8e5f08ca9bca196963503f2485c4b92bc70f275e91b03a8314fd3dd7f11e9a",
+      "bytes_html": 33562,
+      "chars_text": 1179,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/guides/communities",
+      "path": "guides__communities.txt",
+      "sha256": "b8dbbf4252bf4e82c6d164d5f3979e3e0f21bd489f779cdabe8fe2ac9e512b81",
+      "bytes_html": 27724,
+      "chars_text": 980,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/guides/faq/elixir-scramble",
+      "path": "guides__faq__elixir-scramble.txt",
+      "sha256": "68016a2df6c3ae25e28c5576a44761a79d3ef2a544ba6e2304e7b0575a4a564e",
+      "bytes_html": 42735,
+      "chars_text": 3175,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/changelog",
+      "path": "changelog.txt",
+      "sha256": "e8e3ff312034e760694dd21ea800056001468700047900afed7e1485edcc90bc",
+      "bytes_html": 61849,
+      "chars_text": 7035,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/items",
+      "path": "items.txt",
+      "sha256": "50dbb17c561c729f314a62a1d7669dcfc9544add2f8f77b9004861a24f9e8a15",
+      "bytes_html": 50310,
+      "chars_text": 1702,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/items/category/resource",
+      "path": "items__category__resource.txt",
+      "sha256": "efbc96427239149402bdefad9fd00200fcf3c791849e0a71e4c39970acdbdeaa",
+      "bytes_html": 68268,
+      "chars_text": 2035,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/items/category/box",
+      "path": "items__category__box.txt",
+      "sha256": "9ca2a21400a85e543834ed182bd66b72ab3f9ae66966647d467d99a02e47034f",
+      "bytes_html": 115863,
+      "chars_text": 3801,
+      "status": "ok"
+    },
+    {
+      "url": "https://lastasylum.gg/en/items/category/material",
+      "path": "items__category__material.txt",
+      "sha256": "9a53ec1f3d9730658e109ed2aa4c288ed2d9fb5cfda7198f0ac33cdcb3c024be",
+      "bytes_html": 67211,
+      "chars_text": 1933,
+      "status": "ok"
+    }
+  ],
+  "note": "English public pages only; no /api or leaderboard player/alliance pages; original website owns its content. Full sitemap stored locally."
+}
