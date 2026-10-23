@@ -1,0 +1,3020 @@
+{
+  "week_start": "2026-10-19",
+  "through": "2026-10-22",
+  "alliance": "SINK",
+  "current_roster_size": 84,
+  "filter": "My Alliance checked",
+  "status": "midweek capture, provisional OCR; Friday/Saturday/Weekly not captured",
+  "summary": {
+    "Mon": {
+      "raw_ocr_names": 85,
+      "deduplicated_score_records": 83,
+      "alias_groups": [
+        {
+          "score": 11074747,
+          "variants": [
+            "KTAMA~",
+            "KIAMA~"
+          ]
+        },
+        {
+          "score": 7793758,
+          "variants": [
+            "JikapManiok",
+            "JIkapManok"
+          ]
+        }
+      ],
+      "capture_complete": true
+    },
+    "Tue": {
+      "raw_ocr_names": 82,
+      "deduplicated_score_records": 80,
+      "alias_groups": [
+        {
+          "score": 8137693,
+          "variants": [
+            "JikapManrok",
+            "JikapManiok"
+          ]
+        },
+        {
+          "score": 7227600,
+          "variants": [
+            "Jerickoo",
+            "Jericko"
+          ]
+        }
+      ],
+      "capture_complete": true
+    },
+    "Wed": {
+      "raw_ocr_names": 84,
+      "deduplicated_score_records": 79,
+      "alias_groups": [
+        {
+          "score": 12879350,
+          "variants": [
+            "60HM",
+            "60HW"
+          ]
+        },
+        {
+          "score": 9546400,
+          "variants": [
+            "KIAMA~",
+            "KIAA~"
+          ]
+        },
+        {
+          "score": 9073350,
+          "variants": [
+            "Ank1e",
+            "Ankle"
+          ]
+        },
+        {
+          "score": 8210700,
+          "variants": [
+            "Jerickoo",
+            "Jericko"
+          ]
+        },
+        {
+          "score": 7884138,
+          "variants": [
+            "Jalt40",
+            "Jatt40"
+          ]
+        }
+      ],
+      "capture_complete": true
+    },
+    "Thu": {
+      "raw_ocr_names": 83,
+      "deduplicated_score_records": 79,
+      "alias_groups": [
+        {
+          "score": 28563820,
+          "variants": [
+            "Xa6eH9",
+            "Ka6eH9"
+          ]
+        },
+        {
+          "score": 26257000,
+          "variants": [
+            "KIANA~",
+            "KIAMA~"
+          ]
+        },
+        {
+          "score": 15062000,
+          "variants": [
+            "'Skye?",
+            "'Skye"
+          ]
+        },
+        {
+          "score": 10254413,
+          "variants": [
+            "Jericko",
+            "Jerickoo"
+          ]
+        }
+      ],
+      "capture_complete": true
+    }
+  },
+  "records": [
+    {
+      "day": "Mon",
+      "name": "TH3KING",
+      "points": 50034938,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.749,
+      "ocr_observations": 1,
+      "rank_by_points": 1
+    },
+    {
+      "day": "Mon",
+      "name": "Doctorious",
+      "points": 45288758,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.753,
+      "ocr_observations": 1,
+      "rank_by_points": 2
+    },
+    {
+      "day": "Mon",
+      "name": "MrPacMan",
+      "points": 43100185,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.816,
+      "ocr_observations": 1,
+      "rank_by_points": 3
+    },
+    {
+      "day": "Mon",
+      "name": "Fordragon",
+      "points": 39062951,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.841,
+      "ocr_observations": 1,
+      "rank_by_points": 4
+    },
+    {
+      "day": "Mon",
+      "name": "ARGENTO",
+      "points": 36584424,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.868,
+      "ocr_observations": 1,
+      "rank_by_points": 5
+    },
+    {
+      "day": "Mon",
+      "name": "SirEvo~Pirate",
+      "points": 27030025,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.773,
+      "ocr_observations": 2,
+      "rank_by_points": 6
+    },
+    {
+      "day": "Mon",
+      "name": "Hoodhunter",
+      "points": 20068250,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 2,
+      "rank_by_points": 7
+    },
+    {
+      "day": "Mon",
+      "name": "EliMiller",
+      "points": 19891562,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.854,
+      "ocr_observations": 2,
+      "rank_by_points": 8
+    },
+    {
+      "day": "Mon",
+      "name": "patopmp",
+      "points": 17570062,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.838,
+      "ocr_observations": 1,
+      "rank_by_points": 9
+    },
+    {
+      "day": "Mon",
+      "name": "Phantasy-Phantom",
+      "points": 16210554,
+      "game_rank_label": "10",
+      "ocr_confidence": 0.791,
+      "ocr_observations": 1,
+      "rank_by_points": 10
+    },
+    {
+      "day": "Mon",
+      "name": "BulucChabatan",
+      "points": 15214918,
+      "game_rank_label": "11",
+      "ocr_confidence": 0.85,
+      "ocr_observations": 1,
+      "rank_by_points": 11
+    },
+    {
+      "day": "Mon",
+      "name": "08Zlyuka96",
+      "points": 14471379,
+      "game_rank_label": "12",
+      "ocr_confidence": 0.848,
+      "ocr_observations": 2,
+      "rank_by_points": 12
+    },
+    {
+      "day": "Mon",
+      "name": "Lex2022",
+      "points": 14454398,
+      "game_rank_label": "13",
+      "ocr_confidence": 0.807,
+      "ocr_observations": 2,
+      "rank_by_points": 13
+    },
+    {
+      "day": "Mon",
+      "name": "mys",
+      "points": 13958120,
+      "game_rank_label": "14",
+      "ocr_confidence": 0.664,
+      "ocr_observations": 1,
+      "rank_by_points": 14
+    },
+    {
+      "day": "Mon",
+      "name": "Gelbrus",
+      "points": 13539571,
+      "game_rank_label": "15",
+      "ocr_confidence": 0.816,
+      "ocr_observations": 1,
+      "rank_by_points": 15
+    },
+    {
+      "day": "Mon",
+      "name": "JawsAndPaws",
+      "points": 13504459,
+      "game_rank_label": "16",
+      "ocr_confidence": 0.82,
+      "ocr_observations": 1,
+      "rank_by_points": 16
+    },
+    {
+      "day": "Mon",
+      "name": "PartyBoy",
+      "points": 13088435,
+      "game_rank_label": "17",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 17
+    },
+    {
+      "day": "Mon",
+      "name": "'Skye?",
+      "points": 12528777,
+      "game_rank_label": "18",
+      "ocr_confidence": 0.629,
+      "ocr_observations": 2,
+      "rank_by_points": 18
+    },
+    {
+      "day": "Mon",
+      "name": "Chromei",
+      "points": 12478904,
+      "game_rank_label": "19",
+      "ocr_confidence": 0.809,
+      "ocr_observations": 2,
+      "rank_by_points": 19
+    },
+    {
+      "day": "Mon",
+      "name": "dewill",
+      "points": 12446017,
+      "game_rank_label": "20",
+      "ocr_confidence": 0.76,
+      "ocr_observations": 1,
+      "rank_by_points": 20
+    },
+    {
+      "day": "Mon",
+      "name": "Mariza",
+      "points": 12397186,
+      "game_rank_label": "21",
+      "ocr_confidence": 0.78,
+      "ocr_observations": 1,
+      "rank_by_points": 21
+    },
+    {
+      "day": "Mon",
+      "name": "DoctorColt",
+      "points": 12349210,
+      "game_rank_label": "22",
+      "ocr_confidence": 0.866,
+      "ocr_observations": 1,
+      "rank_by_points": 22
+    },
+    {
+      "day": "Mon",
+      "name": "SirAhlbin",
+      "points": 12129308,
+      "game_rank_label": "23",
+      "ocr_confidence": 0.8,
+      "ocr_observations": 1,
+      "rank_by_points": 23
+    },
+    {
+      "day": "Mon",
+      "name": "DoctorDamaal",
+      "points": 11872927,
+      "game_rank_label": "24",
+      "ocr_confidence": 0.856,
+      "ocr_observations": 2,
+      "rank_by_points": 24
+    },
+    {
+      "day": "Mon",
+      "name": "KIAMA~",
+      "points": 11074747,
+      "game_rank_label": "25",
+      "ocr_confidence": 0.664,
+      "ocr_observations": 2,
+      "rank_by_points": 25
+    },
+    {
+      "day": "Mon",
+      "name": "Jericko",
+      "points": 10652141,
+      "game_rank_label": "26",
+      "ocr_confidence": 0.771,
+      "ocr_observations": 1,
+      "rank_by_points": 26
+    },
+    {
+      "day": "Mon",
+      "name": "-Pro-",
+      "points": 10591016,
+      "game_rank_label": "27",
+      "ocr_confidence": 0.814,
+      "ocr_observations": 1,
+      "rank_by_points": 27
+    },
+    {
+      "day": "Mon",
+      "name": "willychavex27",
+      "points": 10589304,
+      "game_rank_label": "28",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 28
+    },
+    {
+      "day": "Mon",
+      "name": "FayBae",
+      "points": 10436121,
+      "game_rank_label": "29",
+      "ocr_confidence": 0.788,
+      "ocr_observations": 2,
+      "rank_by_points": 29
+    },
+    {
+      "day": "Mon",
+      "name": "DuffyDuck",
+      "points": 10378743,
+      "game_rank_label": "30",
+      "ocr_confidence": 0.796,
+      "ocr_observations": 2,
+      "rank_by_points": 30
+    },
+    {
+      "day": "Mon",
+      "name": "axel",
+      "points": 10349344,
+      "game_rank_label": "31",
+      "ocr_confidence": 0.736,
+      "ocr_observations": 2,
+      "rank_by_points": 31
+    },
+    {
+      "day": "Mon",
+      "name": "6aBOBHATKO",
+      "points": 10061722,
+      "game_rank_label": "32",
+      "ocr_confidence": 0.824,
+      "ocr_observations": 1,
+      "rank_by_points": 32
+    },
+    {
+      "day": "Mon",
+      "name": "pasha483",
+      "points": 9938719,
+      "game_rank_label": "33",
+      "ocr_confidence": 0.781,
+      "ocr_observations": 1,
+      "rank_by_points": 33
+    },
+    {
+      "day": "Mon",
+      "name": "meerjungfrau",
+      "points": 9814750,
+      "game_rank_label": "34",
+      "ocr_confidence": 0.868,
+      "ocr_observations": 2,
+      "rank_by_points": 34
+    },
+    {
+      "day": "Mon",
+      "name": "DrYuuki",
+      "points": 9783543,
+      "game_rank_label": "35",
+      "ocr_confidence": 0.857,
+      "ocr_observations": 2,
+      "rank_by_points": 35
+    },
+    {
+      "day": "Mon",
+      "name": "MCH31",
+      "points": 9697583,
+      "game_rank_label": "36",
+      "ocr_confidence": 0.782,
+      "ocr_observations": 2,
+      "rank_by_points": 36
+    },
+    {
+      "day": "Mon",
+      "name": "sergrety",
+      "points": 9687250,
+      "game_rank_label": "37",
+      "ocr_confidence": 0.809,
+      "ocr_observations": 1,
+      "rank_by_points": 37
+    },
+    {
+      "day": "Mon",
+      "name": "Kfh",
+      "points": 9406603,
+      "game_rank_label": "38",
+      "ocr_confidence": 0.694,
+      "ocr_observations": 1,
+      "rank_by_points": 38
+    },
+    {
+      "day": "Mon",
+      "name": "ViolentVixen",
+      "points": 9370663,
+      "game_rank_label": "39",
+      "ocr_confidence": 0.853,
+      "ocr_observations": 2,
+      "rank_by_points": 39
+    },
+    {
+      "day": "Mon",
+      "name": "Xa6eH9",
+      "points": 9344562,
+      "game_rank_label": "40",
+      "ocr_confidence": 0.744,
+      "ocr_observations": 2,
+      "rank_by_points": 40
+    },
+    {
+      "day": "Mon",
+      "name": "izya",
+      "points": 9181547,
+      "game_rank_label": "41",
+      "ocr_confidence": 0.799,
+      "ocr_observations": 2,
+      "rank_by_points": 41
+    },
+    {
+      "day": "Mon",
+      "name": "Anke",
+      "points": 9179761,
+      "game_rank_label": "42",
+      "ocr_confidence": 0.799,
+      "ocr_observations": 1,
+      "rank_by_points": 42
+    },
+    {
+      "day": "Mon",
+      "name": "60HW",
+      "points": 9165226,
+      "game_rank_label": "43",
+      "ocr_confidence": 0.554,
+      "ocr_observations": 1,
+      "rank_by_points": 43
+    },
+    {
+      "day": "Mon",
+      "name": "Fluffy-Menace",
+      "points": 9111177,
+      "game_rank_label": "44",
+      "ocr_confidence": 0.771,
+      "ocr_observations": 1,
+      "rank_by_points": 44
+    },
+    {
+      "day": "Mon",
+      "name": "THEKINg",
+      "points": 9040618,
+      "game_rank_label": "45",
+      "ocr_confidence": 0.798,
+      "ocr_observations": 2,
+      "rank_by_points": 45
+    },
+    {
+      "day": "Mon",
+      "name": "Kalinera",
+      "points": 9031370,
+      "game_rank_label": "46",
+      "ocr_confidence": 0.866,
+      "ocr_observations": 2,
+      "rank_by_points": 46
+    },
+    {
+      "day": "Mon",
+      "name": "NoGrass",
+      "points": 9019202,
+      "game_rank_label": "47",
+      "ocr_confidence": 0.816,
+      "ocr_observations": 1,
+      "rank_by_points": 47
+    },
+    {
+      "day": "Mon",
+      "name": "ALi767",
+      "points": 9000510,
+      "game_rank_label": "48",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 1,
+      "rank_by_points": 48
+    },
+    {
+      "day": "Mon",
+      "name": "Fetagallina",
+      "points": 8981386,
+      "game_rank_label": "49",
+      "ocr_confidence": 0.871,
+      "ocr_observations": 1,
+      "rank_by_points": 49
+    },
+    {
+      "day": "Mon",
+      "name": "MoraNa",
+      "points": 8796713,
+      "game_rank_label": "50",
+      "ocr_confidence": 0.834,
+      "ocr_observations": 2,
+      "rank_by_points": 50
+    },
+    {
+      "day": "Mon",
+      "name": "Missjakarta",
+      "points": 8664386,
+      "game_rank_label": "51",
+      "ocr_confidence": 0.824,
+      "ocr_observations": 2,
+      "rank_by_points": 51
+    },
+    {
+      "day": "Mon",
+      "name": "XxLestxX",
+      "points": 8601128,
+      "game_rank_label": "52",
+      "ocr_confidence": 0.854,
+      "ocr_observations": 2,
+      "rank_by_points": 52
+    },
+    {
+      "day": "Mon",
+      "name": "DeathWaltz",
+      "points": 8497113,
+      "game_rank_label": "53",
+      "ocr_confidence": 0.83,
+      "ocr_observations": 1,
+      "rank_by_points": 53
+    },
+    {
+      "day": "Mon",
+      "name": "FearlesS~KiNG",
+      "points": 8421292,
+      "game_rank_label": "54",
+      "ocr_confidence": 0.845,
+      "ocr_observations": 1,
+      "rank_by_points": 54
+    },
+    {
+      "day": "Mon",
+      "name": "Nierka",
+      "points": 8319976,
+      "game_rank_label": "55",
+      "ocr_confidence": 0.752,
+      "ocr_observations": 1,
+      "rank_by_points": 55
+    },
+    {
+      "day": "Mon",
+      "name": "Frolx",
+      "points": 8266731,
+      "game_rank_label": "56",
+      "ocr_confidence": 0.759,
+      "ocr_observations": 2,
+      "rank_by_points": 56
+    },
+    {
+      "day": "Mon",
+      "name": "RunaHvelgrima",
+      "points": 8245625,
+      "game_rank_label": "57",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 2,
+      "rank_by_points": 57
+    },
+    {
+      "day": "Mon",
+      "name": "FhaeBrightside",
+      "points": 8234286,
+      "game_rank_label": "58",
+      "ocr_confidence": 0.828,
+      "ocr_observations": 1,
+      "rank_by_points": 58
+    },
+    {
+      "day": "Mon",
+      "name": "KuSTaH",
+      "points": 8217222,
+      "game_rank_label": "59",
+      "ocr_confidence": 0.807,
+      "ocr_observations": 1,
+      "rank_by_points": 59
+    },
+    {
+      "day": "Mon",
+      "name": "VLAD1",
+      "points": 8194508,
+      "game_rank_label": "60",
+      "ocr_confidence": 0.748,
+      "ocr_observations": 1,
+      "rank_by_points": 60
+    },
+    {
+      "day": "Mon",
+      "name": "saw11c",
+      "points": 8190082,
+      "game_rank_label": "61",
+      "ocr_confidence": 0.845,
+      "ocr_observations": 1,
+      "rank_by_points": 61
+    },
+    {
+      "day": "Mon",
+      "name": "Grumpy~",
+      "points": 8158676,
+      "game_rank_label": "62",
+      "ocr_confidence": 0.87,
+      "ocr_observations": 2,
+      "rank_by_points": 62
+    },
+    {
+      "day": "Mon",
+      "name": "MISAN",
+      "points": 8091060,
+      "game_rank_label": "63",
+      "ocr_confidence": 0.797,
+      "ocr_observations": 2,
+      "rank_by_points": 63
+    },
+    {
+      "day": "Mon",
+      "name": "NidraDevi",
+      "points": 7849686,
+      "game_rank_label": "64",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 1,
+      "rank_by_points": 64
+    },
+    {
+      "day": "Mon",
+      "name": "BeardedTrouble",
+      "points": 7828108,
+      "game_rank_label": "65",
+      "ocr_confidence": 0.793,
+      "ocr_observations": 1,
+      "rank_by_points": 65
+    },
+    {
+      "day": "Mon",
+      "name": "Mrazota",
+      "points": 7809020,
+      "game_rank_label": "66",
+      "ocr_confidence": 0.783,
+      "ocr_observations": 1,
+      "rank_by_points": 66
+    },
+    {
+      "day": "Mon",
+      "name": "JikapManiok",
+      "points": 7793758,
+      "game_rank_label": "67",
+      "ocr_confidence": 0.735,
+      "ocr_observations": 2,
+      "rank_by_points": 67
+    },
+    {
+      "day": "Mon",
+      "name": "bubis",
+      "points": 7783057,
+      "game_rank_label": "68",
+      "ocr_confidence": 0.833,
+      "ocr_observations": 2,
+      "rank_by_points": 68
+    },
+    {
+      "day": "Mon",
+      "name": "melisamrt2",
+      "points": 7755866,
+      "game_rank_label": "69",
+      "ocr_confidence": 0.854,
+      "ocr_observations": 2,
+      "rank_by_points": 69
+    },
+    {
+      "day": "Mon",
+      "name": "Flight32",
+      "points": 7686248,
+      "game_rank_label": "70",
+      "ocr_confidence": 0.876,
+      "ocr_observations": 1,
+      "rank_by_points": 70
+    },
+    {
+      "day": "Mon",
+      "name": "StDrakara",
+      "points": 7657473,
+      "game_rank_label": "71",
+      "ocr_confidence": 0.762,
+      "ocr_observations": 1,
+      "rank_by_points": 71
+    },
+    {
+      "day": "Mon",
+      "name": "Kenward",
+      "points": 7656732,
+      "game_rank_label": "72",
+      "ocr_confidence": 0.821,
+      "ocr_observations": 1,
+      "rank_by_points": 72
+    },
+    {
+      "day": "Mon",
+      "name": "DoctorDaVida",
+      "points": 7592406,
+      "game_rank_label": "73",
+      "ocr_confidence": 0.865,
+      "ocr_observations": 2,
+      "rank_by_points": 73
+    },
+    {
+      "day": "Mon",
+      "name": "Tricksterr",
+      "points": 7429474,
+      "game_rank_label": "74",
+      "ocr_confidence": 0.881,
+      "ocr_observations": 2,
+      "rank_by_points": 74
+    },
+    {
+      "day": "Mon",
+      "name": "Selytson",
+      "points": 7401616,
+      "game_rank_label": "75",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 1,
+      "rank_by_points": 75
+    },
+    {
+      "day": "Mon",
+      "name": "Smackone",
+      "points": 7336624,
+      "game_rank_label": "76",
+      "ocr_confidence": 0.845,
+      "ocr_observations": 4,
+      "rank_by_points": 76
+    },
+    {
+      "day": "Mon",
+      "name": "KristinA",
+      "points": 7314510,
+      "game_rank_label": "77",
+      "ocr_confidence": 0.862,
+      "ocr_observations": 4,
+      "rank_by_points": 77
+    },
+    {
+      "day": "Mon",
+      "name": "valeria",
+      "points": 7257651,
+      "game_rank_label": "78",
+      "ocr_confidence": 0.864,
+      "ocr_observations": 4,
+      "rank_by_points": 78
+    },
+    {
+      "day": "Mon",
+      "name": "Jalt40",
+      "points": 7092224,
+      "game_rank_label": "79",
+      "ocr_confidence": 0.827,
+      "ocr_observations": 4,
+      "rank_by_points": 79
+    },
+    {
+      "day": "Mon",
+      "name": "Kraz",
+      "points": 6605828,
+      "game_rank_label": "80",
+      "ocr_confidence": 0.798,
+      "ocr_observations": 4,
+      "rank_by_points": 80
+    },
+    {
+      "day": "Mon",
+      "name": "Monkey.",
+      "points": 4073640,
+      "game_rank_label": "81",
+      "ocr_confidence": 0.803,
+      "ocr_observations": 3,
+      "rank_by_points": 81
+    },
+    {
+      "day": "Mon",
+      "name": "LoCash",
+      "points": 3028125,
+      "game_rank_label": "82",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 3,
+      "rank_by_points": 82
+    },
+    {
+      "day": "Mon",
+      "name": "Frank36",
+      "points": 1282500,
+      "game_rank_label": "83",
+      "ocr_confidence": 0.874,
+      "ocr_observations": 3,
+      "rank_by_points": 83
+    },
+    {
+      "day": "Tue",
+      "name": "ARGENTO",
+      "points": 20174000,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.816,
+      "ocr_observations": 1,
+      "rank_by_points": 1
+    },
+    {
+      "day": "Tue",
+      "name": "dewill",
+      "points": 14149600,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.763,
+      "ocr_observations": 1,
+      "rank_by_points": 2
+    },
+    {
+      "day": "Tue",
+      "name": "Phantasy-Phantom",
+      "points": 14055850,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.819,
+      "ocr_observations": 1,
+      "rank_by_points": 3
+    },
+    {
+      "day": "Tue",
+      "name": "Gelbrus",
+      "points": 13274350,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 1,
+      "rank_by_points": 4
+    },
+    {
+      "day": "Tue",
+      "name": "Fordragon",
+      "points": 13158100,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.837,
+      "ocr_observations": 1,
+      "rank_by_points": 5
+    },
+    {
+      "day": "Tue",
+      "name": "bubis",
+      "points": 12876050,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.794,
+      "ocr_observations": 1,
+      "rank_by_points": 6
+    },
+    {
+      "day": "Tue",
+      "name": "NoGrass",
+      "points": 12568500,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.84,
+      "ocr_observations": 2,
+      "rank_by_points": 7
+    },
+    {
+      "day": "Tue",
+      "name": "Nierka",
+      "points": 12435400,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.794,
+      "ocr_observations": 2,
+      "rank_by_points": 8
+    },
+    {
+      "day": "Tue",
+      "name": "XxLestxX",
+      "points": 11148250,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 9
+    },
+    {
+      "day": "Tue",
+      "name": "VLAD1",
+      "points": 10762350,
+      "game_rank_label": "10",
+      "ocr_confidence": 0.745,
+      "ocr_observations": 1,
+      "rank_by_points": 10
+    },
+    {
+      "day": "Tue",
+      "name": "Tricksterr",
+      "points": 10629650,
+      "game_rank_label": "11",
+      "ocr_confidence": 0.825,
+      "ocr_observations": 1,
+      "rank_by_points": 11
+    },
+    {
+      "day": "Tue",
+      "name": "Fluffy-Menace",
+      "points": 10268650,
+      "game_rank_label": "12",
+      "ocr_confidence": 0.827,
+      "ocr_observations": 2,
+      "rank_by_points": 12
+    },
+    {
+      "day": "Tue",
+      "name": "Doctorious",
+      "points": 10033650,
+      "game_rank_label": "13",
+      "ocr_confidence": 0.805,
+      "ocr_observations": 2,
+      "rank_by_points": 13
+    },
+    {
+      "day": "Tue",
+      "name": "KristinA",
+      "points": 10011650,
+      "game_rank_label": "14",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 2,
+      "rank_by_points": 14
+    },
+    {
+      "day": "Tue",
+      "name": "pasha483",
+      "points": 9698100,
+      "game_rank_label": "15",
+      "ocr_confidence": 0.763,
+      "ocr_observations": 1,
+      "rank_by_points": 15
+    },
+    {
+      "day": "Tue",
+      "name": "60HW",
+      "points": 9515700,
+      "game_rank_label": "16",
+      "ocr_confidence": 0.59,
+      "ocr_observations": 1,
+      "rank_by_points": 16
+    },
+    {
+      "day": "Tue",
+      "name": "Ank1e",
+      "points": 9416894,
+      "game_rank_label": "17",
+      "ocr_confidence": 0.748,
+      "ocr_observations": 1,
+      "rank_by_points": 17
+    },
+    {
+      "day": "Tue",
+      "name": "Lex2022",
+      "points": 9348000,
+      "game_rank_label": "18",
+      "ocr_confidence": 0.871,
+      "ocr_observations": 2,
+      "rank_by_points": 18
+    },
+    {
+      "day": "Tue",
+      "name": "DoctorColt",
+      "points": 9160750,
+      "game_rank_label": "19",
+      "ocr_confidence": 0.855,
+      "ocr_observations": 2,
+      "rank_by_points": 19
+    },
+    {
+      "day": "Tue",
+      "name": "MCH31",
+      "points": 9148450,
+      "game_rank_label": "20",
+      "ocr_confidence": 0.83,
+      "ocr_observations": 1,
+      "rank_by_points": 20
+    },
+    {
+      "day": "Tue",
+      "name": "6aBOBH9TKO",
+      "points": 9076950,
+      "game_rank_label": "21",
+      "ocr_confidence": 0.785,
+      "ocr_observations": 1,
+      "rank_by_points": 21
+    },
+    {
+      "day": "Tue",
+      "name": "Xa6eH9",
+      "points": 8906100,
+      "game_rank_label": "22",
+      "ocr_confidence": 0.627,
+      "ocr_observations": 1,
+      "rank_by_points": 22
+    },
+    {
+      "day": "Tue",
+      "name": "Chromei",
+      "points": 8870600,
+      "game_rank_label": "23",
+      "ocr_confidence": 0.841,
+      "ocr_observations": 2,
+      "rank_by_points": 23
+    },
+    {
+      "day": "Tue",
+      "name": "ALi767",
+      "points": 8697800,
+      "game_rank_label": "24",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 2,
+      "rank_by_points": 24
+    },
+    {
+      "day": "Tue",
+      "name": "MISAN",
+      "points": 8536950,
+      "game_rank_label": "25",
+      "ocr_confidence": 0.79,
+      "ocr_observations": 2,
+      "rank_by_points": 25
+    },
+    {
+      "day": "Tue",
+      "name": "DuffyDuck",
+      "points": 8410200,
+      "game_rank_label": "26",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 26
+    },
+    {
+      "day": "Tue",
+      "name": "TH3KING",
+      "points": 8390100,
+      "game_rank_label": "27",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 1,
+      "rank_by_points": 27
+    },
+    {
+      "day": "Tue",
+      "name": "MoraNa",
+      "points": 8357250,
+      "game_rank_label": "28",
+      "ocr_confidence": 0.806,
+      "ocr_observations": 1,
+      "rank_by_points": 28
+    },
+    {
+      "day": "Tue",
+      "name": "-Pro-",
+      "points": 8320600,
+      "game_rank_label": "29",
+      "ocr_confidence": 0.785,
+      "ocr_observations": 2,
+      "rank_by_points": 29
+    },
+    {
+      "day": "Tue",
+      "name": "JawsAndPaws",
+      "points": 8263250,
+      "game_rank_label": "30",
+      "ocr_confidence": 0.857,
+      "ocr_observations": 2,
+      "rank_by_points": 30
+    },
+    {
+      "day": "Tue",
+      "name": "PartyBoy",
+      "points": 8228850,
+      "game_rank_label": "31",
+      "ocr_confidence": 0.814,
+      "ocr_observations": 1,
+      "rank_by_points": 31
+    },
+    {
+      "day": "Tue",
+      "name": "Kfh",
+      "points": 8193450,
+      "game_rank_label": "32",
+      "ocr_confidence": 0.734,
+      "ocr_observations": 1,
+      "rank_by_points": 32
+    },
+    {
+      "day": "Tue",
+      "name": "NidraDevi",
+      "points": 8158935,
+      "game_rank_label": "33",
+      "ocr_confidence": 0.819,
+      "ocr_observations": 1,
+      "rank_by_points": 33
+    },
+    {
+      "day": "Tue",
+      "name": "DoctorDamaal",
+      "points": 8148000,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.858,
+      "ocr_observations": 2,
+      "rank_by_points": 34
+    },
+    {
+      "day": "Tue",
+      "name": "SirAhlbin",
+      "points": 8142750,
+      "game_rank_label": "35",
+      "ocr_confidence": 0.857,
+      "ocr_observations": 2,
+      "rank_by_points": 35
+    },
+    {
+      "day": "Tue",
+      "name": "JikapManrok",
+      "points": 8137693,
+      "game_rank_label": "36",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 2,
+      "rank_by_points": 36
+    },
+    {
+      "day": "Tue",
+      "name": "saw11c",
+      "points": 8134050,
+      "game_rank_label": "37",
+      "ocr_confidence": 0.785,
+      "ocr_observations": 1,
+      "rank_by_points": 37
+    },
+    {
+      "day": "Tue",
+      "name": "FearlesS~KiNG",
+      "points": 8130610,
+      "game_rank_label": "38",
+      "ocr_confidence": 0.865,
+      "ocr_observations": 1,
+      "rank_by_points": 38
+    },
+    {
+      "day": "Tue",
+      "name": "Fetagallina",
+      "points": 8115500,
+      "game_rank_label": "39",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 39
+    },
+    {
+      "day": "Tue",
+      "name": "BulucChabatan",
+      "points": 8086270,
+      "game_rank_label": "40",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 2,
+      "rank_by_points": 40
+    },
+    {
+      "day": "Tue",
+      "name": "SirEvO~Pirate",
+      "points": 8057000,
+      "game_rank_label": "41",
+      "ocr_confidence": 0.844,
+      "ocr_observations": 2,
+      "rank_by_points": 41
+    },
+    {
+      "day": "Tue",
+      "name": "EliMiller",
+      "points": 8047050,
+      "game_rank_label": "42",
+      "ocr_confidence": 0.812,
+      "ocr_observations": 1,
+      "rank_by_points": 42
+    },
+    {
+      "day": "Tue",
+      "name": "08Zlyuka96",
+      "points": 7996500,
+      "game_rank_label": "43",
+      "ocr_confidence": 0.85,
+      "ocr_observations": 1,
+      "rank_by_points": 43
+    },
+    {
+      "day": "Tue",
+      "name": "KIANA~",
+      "points": 7942650,
+      "game_rank_label": "44",
+      "ocr_confidence": 0.664,
+      "ocr_observations": 1,
+      "rank_by_points": 44
+    },
+    {
+      "day": "Tue",
+      "name": "MrPacMan",
+      "points": 7939786,
+      "game_rank_label": "45",
+      "ocr_confidence": 0.807,
+      "ocr_observations": 1,
+      "rank_by_points": 45
+    },
+    {
+      "day": "Tue",
+      "name": "Frolx",
+      "points": 7896605,
+      "game_rank_label": "46",
+      "ocr_confidence": 0.777,
+      "ocr_observations": 2,
+      "rank_by_points": 46
+    },
+    {
+      "day": "Tue",
+      "name": "mys",
+      "points": 7879250,
+      "game_rank_label": "47",
+      "ocr_confidence": 0.749,
+      "ocr_observations": 2,
+      "rank_by_points": 47
+    },
+    {
+      "day": "Tue",
+      "name": "Smackone",
+      "points": 7855750,
+      "game_rank_label": "48",
+      "ocr_confidence": 0.789,
+      "ocr_observations": 1,
+      "rank_by_points": 48
+    },
+    {
+      "day": "Tue",
+      "name": "FayBae",
+      "points": 7839400,
+      "game_rank_label": "49",
+      "ocr_confidence": 0.848,
+      "ocr_observations": 1,
+      "rank_by_points": 49
+    },
+    {
+      "day": "Tue",
+      "name": "meerjungfrau",
+      "points": 7821900,
+      "game_rank_label": "50",
+      "ocr_confidence": 0.854,
+      "ocr_observations": 1,
+      "rank_by_points": 50
+    },
+    {
+      "day": "Tue",
+      "name": "DeathWaltz",
+      "points": 7771800,
+      "game_rank_label": "51",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 2,
+      "rank_by_points": 51
+    },
+    {
+      "day": "Tue",
+      "name": "willychavex27",
+      "points": 7760250,
+      "game_rank_label": "52",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 2,
+      "rank_by_points": 52
+    },
+    {
+      "day": "Tue",
+      "name": "KuSTaH",
+      "points": 7748220,
+      "game_rank_label": "53",
+      "ocr_confidence": 0.823,
+      "ocr_observations": 2,
+      "rank_by_points": 53
+    },
+    {
+      "day": "Tue",
+      "name": "'Skye\"",
+      "points": 7730500,
+      "game_rank_label": "54",
+      "ocr_confidence": 0.626,
+      "ocr_observations": 1,
+      "rank_by_points": 54
+    },
+    {
+      "day": "Tue",
+      "name": "RunaHvelgrima",
+      "points": 7665750,
+      "game_rank_label": "55",
+      "ocr_confidence": 0.846,
+      "ocr_observations": 1,
+      "rank_by_points": 55
+    },
+    {
+      "day": "Tue",
+      "name": "Mrazota",
+      "points": 7564950,
+      "game_rank_label": "56",
+      "ocr_confidence": 0.817,
+      "ocr_observations": 1,
+      "rank_by_points": 56
+    },
+    {
+      "day": "Tue",
+      "name": "Missjakarta",
+      "points": 7484400,
+      "game_rank_label": "57",
+      "ocr_confidence": 0.82,
+      "ocr_observations": 2,
+      "rank_by_points": 57
+    },
+    {
+      "day": "Tue",
+      "name": "izya",
+      "points": 7476150,
+      "game_rank_label": "58",
+      "ocr_confidence": 0.797,
+      "ocr_observations": 2,
+      "rank_by_points": 58
+    },
+    {
+      "day": "Tue",
+      "name": "Hoodhunter",
+      "points": 7432350,
+      "game_rank_label": "59",
+      "ocr_confidence": 0.821,
+      "ocr_observations": 1,
+      "rank_by_points": 59
+    },
+    {
+      "day": "Tue",
+      "name": "DoctorDaVida",
+      "points": 7428435,
+      "game_rank_label": "60",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 1,
+      "rank_by_points": 60
+    },
+    {
+      "day": "Tue",
+      "name": "Jalt40",
+      "points": 7386807,
+      "game_rank_label": "61",
+      "ocr_confidence": 0.726,
+      "ocr_observations": 1,
+      "rank_by_points": 61
+    },
+    {
+      "day": "Tue",
+      "name": "StDrakara",
+      "points": 7374450,
+      "game_rank_label": "62",
+      "ocr_confidence": 0.785,
+      "ocr_observations": 1,
+      "rank_by_points": 62
+    },
+    {
+      "day": "Tue",
+      "name": "FhaeBrightside",
+      "points": 7354800,
+      "game_rank_label": "63",
+      "ocr_confidence": 0.85,
+      "ocr_observations": 2,
+      "rank_by_points": 63
+    },
+    {
+      "day": "Tue",
+      "name": "Kenward",
+      "points": 7352895,
+      "game_rank_label": "64",
+      "ocr_confidence": 0.857,
+      "ocr_observations": 2,
+      "rank_by_points": 64
+    },
+    {
+      "day": "Tue",
+      "name": "Mariza",
+      "points": 7350617,
+      "game_rank_label": "65",
+      "ocr_confidence": 0.792,
+      "ocr_observations": 1,
+      "rank_by_points": 65
+    },
+    {
+      "day": "Tue",
+      "name": "axel",
+      "points": 7346650,
+      "game_rank_label": "66",
+      "ocr_confidence": 0.752,
+      "ocr_observations": 1,
+      "rank_by_points": 66
+    },
+    {
+      "day": "Tue",
+      "name": "Kalinera",
+      "points": 7307600,
+      "game_rank_label": "67",
+      "ocr_confidence": 0.784,
+      "ocr_observations": 1,
+      "rank_by_points": 67
+    },
+    {
+      "day": "Tue",
+      "name": "Selytson",
+      "points": 7261000,
+      "game_rank_label": "68",
+      "ocr_confidence": 0.855,
+      "ocr_observations": 2,
+      "rank_by_points": 68
+    },
+    {
+      "day": "Tue",
+      "name": "valeria",
+      "points": 7242350,
+      "game_rank_label": "69",
+      "ocr_confidence": 0.786,
+      "ocr_observations": 2,
+      "rank_by_points": 69
+    },
+    {
+      "day": "Tue",
+      "name": "Jericko",
+      "points": 7227600,
+      "game_rank_label": "70",
+      "ocr_confidence": 0.828,
+      "ocr_observations": 2,
+      "rank_by_points": 70
+    },
+    {
+      "day": "Tue",
+      "name": "Grumpy~",
+      "points": 7211611,
+      "game_rank_label": "71",
+      "ocr_confidence": 0.8,
+      "ocr_observations": 1,
+      "rank_by_points": 71
+    },
+    {
+      "day": "Tue",
+      "name": "patopmp",
+      "points": 7201550,
+      "game_rank_label": "72",
+      "ocr_confidence": 0.762,
+      "ocr_observations": 1,
+      "rank_by_points": 72
+    },
+    {
+      "day": "Tue",
+      "name": "DrYuuki",
+      "points": 6811050,
+      "game_rank_label": "73",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 4,
+      "rank_by_points": 73
+    },
+    {
+      "day": "Tue",
+      "name": "sergrety",
+      "points": 5048500,
+      "game_rank_label": "74",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 4,
+      "rank_by_points": 74
+    },
+    {
+      "day": "Tue",
+      "name": "melisamrt2",
+      "points": 4938250,
+      "game_rank_label": "75",
+      "ocr_confidence": 0.877,
+      "ocr_observations": 4,
+      "rank_by_points": 75
+    },
+    {
+      "day": "Tue",
+      "name": "LoCash",
+      "points": 4665700,
+      "game_rank_label": "76",
+      "ocr_confidence": 0.845,
+      "ocr_observations": 3,
+      "rank_by_points": 76
+    },
+    {
+      "day": "Tue",
+      "name": "Kraz",
+      "points": 4542000,
+      "game_rank_label": "77",
+      "ocr_confidence": 0.798,
+      "ocr_observations": 3,
+      "rank_by_points": 77
+    },
+    {
+      "day": "Tue",
+      "name": "BeardedTrouble",
+      "points": 4361532,
+      "game_rank_label": "78",
+      "ocr_confidence": 0.847,
+      "ocr_observations": 3,
+      "rank_by_points": 78
+    },
+    {
+      "day": "Tue",
+      "name": "Monkey.",
+      "points": 3762252,
+      "game_rank_label": "79",
+      "ocr_confidence": 0.787,
+      "ocr_observations": 3,
+      "rank_by_points": 79
+    },
+    {
+      "day": "Tue",
+      "name": "ViolentVixen",
+      "points": 2944399,
+      "game_rank_label": "80",
+      "ocr_confidence": 0.88,
+      "ocr_observations": 3,
+      "rank_by_points": 80
+    },
+    {
+      "day": "Wed",
+      "name": "NoGrass",
+      "points": 54868600,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 1,
+      "rank_by_points": 1
+    },
+    {
+      "day": "Wed",
+      "name": "pasha483",
+      "points": 45861300,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.767,
+      "ocr_observations": 1,
+      "rank_by_points": 2
+    },
+    {
+      "day": "Wed",
+      "name": "ARGENTO",
+      "points": 25472950,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.805,
+      "ocr_observations": 1,
+      "rank_by_points": 3
+    },
+    {
+      "day": "Wed",
+      "name": "KristinA",
+      "points": 24036400,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.82,
+      "ocr_observations": 1,
+      "rank_by_points": 4
+    },
+    {
+      "day": "Wed",
+      "name": "Nierka",
+      "points": 23968350,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 1,
+      "rank_by_points": 5
+    },
+    {
+      "day": "Wed",
+      "name": "JawsAndPaws",
+      "points": 23277750,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.85,
+      "ocr_observations": 2,
+      "rank_by_points": 6
+    },
+    {
+      "day": "Wed",
+      "name": "StDrakara",
+      "points": 23202400,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.863,
+      "ocr_observations": 2,
+      "rank_by_points": 7
+    },
+    {
+      "day": "Wed",
+      "name": "mys",
+      "points": 22868150,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.66,
+      "ocr_observations": 2,
+      "rank_by_points": 8
+    },
+    {
+      "day": "Wed",
+      "name": "Fluffy-Menace",
+      "points": 22420650,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.871,
+      "ocr_observations": 1,
+      "rank_by_points": 9
+    },
+    {
+      "day": "Wed",
+      "name": "PartyBoy",
+      "points": 22202450,
+      "game_rank_label": "10",
+      "ocr_confidence": 0.842,
+      "ocr_observations": 1,
+      "rank_by_points": 10
+    },
+    {
+      "day": "Wed",
+      "name": "Doctorious",
+      "points": 20505900,
+      "game_rank_label": "11",
+      "ocr_confidence": 0.841,
+      "ocr_observations": 1,
+      "rank_by_points": 11
+    },
+    {
+      "day": "Wed",
+      "name": "bubis",
+      "points": 19075350,
+      "game_rank_label": "12",
+      "ocr_confidence": 0.807,
+      "ocr_observations": 2,
+      "rank_by_points": 12
+    },
+    {
+      "day": "Wed",
+      "name": "Tricksterr",
+      "points": 18887150,
+      "game_rank_label": "13",
+      "ocr_confidence": 0.855,
+      "ocr_observations": 2,
+      "rank_by_points": 13
+    },
+    {
+      "day": "Wed",
+      "name": "Grumpy~",
+      "points": 17279130,
+      "game_rank_label": "14",
+      "ocr_confidence": 0.782,
+      "ocr_observations": 1,
+      "rank_by_points": 14
+    },
+    {
+      "day": "Wed",
+      "name": "MCH31",
+      "points": 17278900,
+      "game_rank_label": "15",
+      "ocr_confidence": 0.744,
+      "ocr_observations": 1,
+      "rank_by_points": 15
+    },
+    {
+      "day": "Wed",
+      "name": "SirEvo~Pirate",
+      "points": 17016250,
+      "game_rank_label": "16",
+      "ocr_confidence": 0.823,
+      "ocr_observations": 1,
+      "rank_by_points": 16
+    },
+    {
+      "day": "Wed",
+      "name": "LoCash",
+      "points": 13573950,
+      "game_rank_label": "17",
+      "ocr_confidence": 0.761,
+      "ocr_observations": 1,
+      "rank_by_points": 17
+    },
+    {
+      "day": "Wed",
+      "name": "axel",
+      "points": 12975350,
+      "game_rank_label": "18",
+      "ocr_confidence": 0.793,
+      "ocr_observations": 2,
+      "rank_by_points": 18
+    },
+    {
+      "day": "Wed",
+      "name": "60HW",
+      "points": 12879350,
+      "game_rank_label": "19",
+      "ocr_confidence": 0.583,
+      "ocr_observations": 2,
+      "rank_by_points": 19
+    },
+    {
+      "day": "Wed",
+      "name": "meerjungfrau",
+      "points": 12822950,
+      "game_rank_label": "20",
+      "ocr_confidence": 0.805,
+      "ocr_observations": 1,
+      "rank_by_points": 20
+    },
+    {
+      "day": "Wed",
+      "name": "FearlesS~KiNG",
+      "points": 12340711,
+      "game_rank_label": "21",
+      "ocr_confidence": 0.752,
+      "ocr_observations": 1,
+      "rank_by_points": 21
+    },
+    {
+      "day": "Wed",
+      "name": "RunaHvelgrima",
+      "points": 12271600,
+      "game_rank_label": "22",
+      "ocr_confidence": 0.788,
+      "ocr_observations": 1,
+      "rank_by_points": 22
+    },
+    {
+      "day": "Wed",
+      "name": "DuffyDuck",
+      "points": 12229050,
+      "game_rank_label": "23",
+      "ocr_confidence": 0.822,
+      "ocr_observations": 1,
+      "rank_by_points": 23
+    },
+    {
+      "day": "Wed",
+      "name": "FhaeBrightside",
+      "points": 11775250,
+      "game_rank_label": "24",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 2,
+      "rank_by_points": 24
+    },
+    {
+      "day": "Wed",
+      "name": "Monkey.",
+      "points": 11758721,
+      "game_rank_label": "25",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 2,
+      "rank_by_points": 25
+    },
+    {
+      "day": "Wed",
+      "name": "MrPacMan",
+      "points": 11736950,
+      "game_rank_label": "26",
+      "ocr_confidence": 0.88,
+      "ocr_observations": 1,
+      "rank_by_points": 26
+    },
+    {
+      "day": "Wed",
+      "name": "Kfh",
+      "points": 11664700,
+      "game_rank_label": "27",
+      "ocr_confidence": 0.714,
+      "ocr_observations": 1,
+      "rank_by_points": 27
+    },
+    {
+      "day": "Wed",
+      "name": "Chromei",
+      "points": 11367950,
+      "game_rank_label": "28",
+      "ocr_confidence": 0.835,
+      "ocr_observations": 1,
+      "rank_by_points": 28
+    },
+    {
+      "day": "Wed",
+      "name": "Missjakarta",
+      "points": 11304450,
+      "game_rank_label": "29",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 29
+    },
+    {
+      "day": "Wed",
+      "name": "DoctorColt",
+      "points": 11150450,
+      "game_rank_label": "30",
+      "ocr_confidence": 0.856,
+      "ocr_observations": 2,
+      "rank_by_points": 30
+    },
+    {
+      "day": "Wed",
+      "name": "MoraNa",
+      "points": 11140250,
+      "game_rank_label": "31",
+      "ocr_confidence": 0.799,
+      "ocr_observations": 2,
+      "rank_by_points": 31
+    },
+    {
+      "day": "Wed",
+      "name": "willychavex27",
+      "points": 10749700,
+      "game_rank_label": "32",
+      "ocr_confidence": 0.806,
+      "ocr_observations": 1,
+      "rank_by_points": 32
+    },
+    {
+      "day": "Wed",
+      "name": "Fordragon",
+      "points": 10602500,
+      "game_rank_label": "33",
+      "ocr_confidence": 0.88,
+      "ocr_observations": 1,
+      "rank_by_points": 33
+    },
+    {
+      "day": "Wed",
+      "name": "SirAhlbin",
+      "points": 10382300,
+      "game_rank_label": "34",
+      "ocr_confidence": 0.81,
+      "ocr_observations": 1,
+      "rank_by_points": 34
+    },
+    {
+      "day": "Wed",
+      "name": "Phantasy-Phantom",
+      "points": 10130500,
+      "game_rank_label": "35",
+      "ocr_confidence": 0.818,
+      "ocr_observations": 2,
+      "rank_by_points": 35
+    },
+    {
+      "day": "Wed",
+      "name": "DeathWaltz",
+      "points": 10033000,
+      "game_rank_label": "36",
+      "ocr_confidence": 0.861,
+      "ocr_observations": 2,
+      "rank_by_points": 36
+    },
+    {
+      "day": "Wed",
+      "name": "ViolentVixen",
+      "points": 9985873,
+      "game_rank_label": "37",
+      "ocr_confidence": 0.869,
+      "ocr_observations": 1,
+      "rank_by_points": 37
+    },
+    {
+      "day": "Wed",
+      "name": "ALi767",
+      "points": 9775050,
+      "game_rank_label": "39",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 1,
+      "rank_by_points": 38
+    },
+    {
+      "day": "Wed",
+      "name": "VLAD1",
+      "points": 9605900,
+      "game_rank_label": "40",
+      "ocr_confidence": 0.717,
+      "ocr_observations": 1,
+      "rank_by_points": 39
+    },
+    {
+      "day": "Wed",
+      "name": "Lex2022",
+      "points": 9596900,
+      "game_rank_label": "41",
+      "ocr_confidence": 0.846,
+      "ocr_observations": 2,
+      "rank_by_points": 40
+    },
+    {
+      "day": "Wed",
+      "name": "KIAMA~",
+      "points": 9546400,
+      "game_rank_label": "42",
+      "ocr_confidence": 0.592,
+      "ocr_observations": 2,
+      "rank_by_points": 41
+    },
+    {
+      "day": "Wed",
+      "name": "BulucChabatan",
+      "points": 9535102,
+      "game_rank_label": "43",
+      "ocr_confidence": 0.834,
+      "ocr_observations": 1,
+      "rank_by_points": 42
+    },
+    {
+      "day": "Wed",
+      "name": "dewill",
+      "points": 9374300,
+      "game_rank_label": "44",
+      "ocr_confidence": 0.825,
+      "ocr_observations": 1,
+      "rank_by_points": 43
+    },
+    {
+      "day": "Wed",
+      "name": "XxLestxX",
+      "points": 9332700,
+      "game_rank_label": "45",
+      "ocr_confidence": 0.839,
+      "ocr_observations": 1,
+      "rank_by_points": 44
+    },
+    {
+      "day": "Wed",
+      "name": "valeria",
+      "points": 9194150,
+      "game_rank_label": "46",
+      "ocr_confidence": 0.798,
+      "ocr_observations": 2,
+      "rank_by_points": 45
+    },
+    {
+      "day": "Wed",
+      "name": "Frolx",
+      "points": 9123609,
+      "game_rank_label": "47",
+      "ocr_confidence": 0.771,
+      "ocr_observations": 2,
+      "rank_by_points": 46
+    },
+    {
+      "day": "Wed",
+      "name": "Ank1e",
+      "points": 9073350,
+      "game_rank_label": "48",
+      "ocr_confidence": 0.705,
+      "ocr_observations": 2,
+      "rank_by_points": 47
+    },
+    {
+      "day": "Wed",
+      "name": "Kalinera",
+      "points": 8973070,
+      "game_rank_label": "50",
+      "ocr_confidence": 0.831,
+      "ocr_observations": 1,
+      "rank_by_points": 48
+    },
+    {
+      "day": "Wed",
+      "name": "6aBOBH9TKO",
+      "points": 8877500,
+      "game_rank_label": "51",
+      "ocr_confidence": 0.79,
+      "ocr_observations": 1,
+      "rank_by_points": 49
+    },
+    {
+      "day": "Wed",
+      "name": "Gelbrus",
+      "points": 8557200,
+      "game_rank_label": "52",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 2,
+      "rank_by_points": 50
+    },
+    {
+      "day": "Wed",
+      "name": "saw11c",
+      "points": 8541550,
+      "game_rank_label": "53",
+      "ocr_confidence": 0.84,
+      "ocr_observations": 2,
+      "rank_by_points": 51
+    },
+    {
+      "day": "Wed",
+      "name": "melisamrt2",
+      "points": 8522738,
+      "game_rank_label": "54",
+      "ocr_confidence": 0.775,
+      "ocr_observations": 1,
+      "rank_by_points": 52
+    },
+    {
+      "day": "Wed",
+      "name": "Mrazota",
+      "points": 8405600,
+      "game_rank_label": "55",
+      "ocr_confidence": 0.815,
+      "ocr_observations": 1,
+      "rank_by_points": 53
+    },
+    {
+      "day": "Wed",
+      "name": "JikapManiok",
+      "points": 8349809,
+      "game_rank_label": "56",
+      "ocr_confidence": 0.723,
+      "ocr_observations": 1,
+      "rank_by_points": 54
+    },
+    {
+      "day": "Wed",
+      "name": "Hoodhunter",
+      "points": 8292600,
+      "game_rank_label": "57",
+      "ocr_confidence": 0.825,
+      "ocr_observations": 1,
+      "rank_by_points": 55
+    },
+    {
+      "day": "Wed",
+      "name": "TH3KING",
+      "points": 8256150,
+      "game_rank_label": "58",
+      "ocr_confidence": 0.818,
+      "ocr_observations": 2,
+      "rank_by_points": 56
+    },
+    {
+      "day": "Wed",
+      "name": "Jericko",
+      "points": 8210700,
+      "game_rank_label": "59",
+      "ocr_confidence": 0.818,
+      "ocr_observations": 2,
+      "rank_by_points": 57
+    },
+    {
+      "day": "Wed",
+      "name": "DoctorDamaal",
+      "points": 8018350,
+      "game_rank_label": "60",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 58
+    },
+    {
+      "day": "Wed",
+      "name": "EliMiller",
+      "points": 8001400,
+      "game_rank_label": "61",
+      "ocr_confidence": 0.814,
+      "ocr_observations": 1,
+      "rank_by_points": 59
+    },
+    {
+      "day": "Wed",
+      "name": "Kenward",
+      "points": 7896895,
+      "game_rank_label": "62",
+      "ocr_confidence": 0.74,
+      "ocr_observations": 1,
+      "rank_by_points": 60
+    },
+    {
+      "day": "Wed",
+      "name": "Jalt40",
+      "points": 7884138,
+      "game_rank_label": "63",
+      "ocr_confidence": 0.806,
+      "ocr_observations": 2,
+      "rank_by_points": 61
+    },
+    {
+      "day": "Wed",
+      "name": "FayBae",
+      "points": 7704900,
+      "game_rank_label": "64",
+      "ocr_confidence": 0.806,
+      "ocr_observations": 2,
+      "rank_by_points": 62
+    },
+    {
+      "day": "Wed",
+      "name": "Fetagallina",
+      "points": 7568750,
+      "game_rank_label": "65",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 2,
+      "rank_by_points": 63
+    },
+    {
+      "day": "Wed",
+      "name": "'Skye",
+      "points": 7552300,
+      "game_rank_label": "66",
+      "ocr_confidence": 0.698,
+      "ocr_observations": 1,
+      "rank_by_points": 64
+    },
+    {
+      "day": "Wed",
+      "name": "Selytson",
+      "points": 7538900,
+      "game_rank_label": "67",
+      "ocr_confidence": 0.847,
+      "ocr_observations": 1,
+      "rank_by_points": 65
+    },
+    {
+      "day": "Wed",
+      "name": "-Pro-",
+      "points": 7533600,
+      "game_rank_label": "68",
+      "ocr_confidence": 0.806,
+      "ocr_observations": 1,
+      "rank_by_points": 66
+    },
+    {
+      "day": "Wed",
+      "name": "patopmp",
+      "points": 7531100,
+      "game_rank_label": "69",
+      "ocr_confidence": 0.87,
+      "ocr_observations": 2,
+      "rank_by_points": 67
+    },
+    {
+      "day": "Wed",
+      "name": "izya",
+      "points": 7516700,
+      "game_rank_label": "70",
+      "ocr_confidence": 0.788,
+      "ocr_observations": 2,
+      "rank_by_points": 68
+    },
+    {
+      "day": "Wed",
+      "name": "Mariza",
+      "points": 7485508,
+      "game_rank_label": "71",
+      "ocr_confidence": 0.793,
+      "ocr_observations": 1,
+      "rank_by_points": 69
+    },
+    {
+      "day": "Wed",
+      "name": "08Zlyuka96",
+      "points": 7483850,
+      "game_rank_label": "72",
+      "ocr_confidence": 0.845,
+      "ocr_observations": 1,
+      "rank_by_points": 70
+    },
+    {
+      "day": "Wed",
+      "name": "NidraDevi",
+      "points": 7414786,
+      "game_rank_label": "73",
+      "ocr_confidence": 0.853,
+      "ocr_observations": 4,
+      "rank_by_points": 71
+    },
+    {
+      "day": "Wed",
+      "name": "DoctorDaVida",
+      "points": 7315995,
+      "game_rank_label": "74",
+      "ocr_confidence": 0.841,
+      "ocr_observations": 4,
+      "rank_by_points": 72
+    },
+    {
+      "day": "Wed",
+      "name": "Kraz",
+      "points": 6025300,
+      "game_rank_label": "75",
+      "ocr_confidence": 0.798,
+      "ocr_observations": 4,
+      "rank_by_points": 73
+    },
+    {
+      "day": "Wed",
+      "name": "BeardedTrouble",
+      "points": 5653282,
+      "game_rank_label": "76",
+      "ocr_confidence": 0.88,
+      "ocr_observations": 4,
+      "rank_by_points": 74
+    },
+    {
+      "day": "Wed",
+      "name": "DrYuuki",
+      "points": 4940800,
+      "game_rank_label": "77",
+      "ocr_confidence": 0.838,
+      "ocr_observations": 3,
+      "rank_by_points": 75
+    },
+    {
+      "day": "Wed",
+      "name": "KuSTaH",
+      "points": 3938040,
+      "game_rank_label": "78",
+      "ocr_confidence": 0.841,
+      "ocr_observations": 3,
+      "rank_by_points": 76
+    },
+    {
+      "day": "Wed",
+      "name": "sergrety",
+      "points": 2806055,
+      "game_rank_label": "79",
+      "ocr_confidence": 0.861,
+      "ocr_observations": 3,
+      "rank_by_points": 77
+    },
+    {
+      "day": "Wed",
+      "name": "PipsBers1999",
+      "points": 2049140,
+      "game_rank_label": "80",
+      "ocr_confidence": 0.833,
+      "ocr_observations": 3,
+      "rank_by_points": 78
+    },
+    {
+      "day": "Wed",
+      "name": "MISAN",
+      "points": 6,
+      "game_rank_label": "49",
+      "ocr_confidence": 0.789,
+      "ocr_observations": 1,
+      "rank_by_points": 79
+    },
+    {
+      "day": "Thu",
+      "name": "PartyBoy",
+      "points": 131425136,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.766,
+      "ocr_observations": 1,
+      "rank_by_points": 1
+    },
+    {
+      "day": "Thu",
+      "name": "Tricksterr",
+      "points": 87371785,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.715,
+      "ocr_observations": 1,
+      "rank_by_points": 2
+    },
+    {
+      "day": "Thu",
+      "name": "FearlesS~KiNG",
+      "points": 72711046,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.81,
+      "ocr_observations": 1,
+      "rank_by_points": 3
+    },
+    {
+      "day": "Thu",
+      "name": "Doctorious",
+      "points": 52686715,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.86,
+      "ocr_observations": 1,
+      "rank_by_points": 4
+    },
+    {
+      "day": "Thu",
+      "name": "bubis",
+      "points": 41254730,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.8,
+      "ocr_observations": 1,
+      "rank_by_points": 5
+    },
+    {
+      "day": "Thu",
+      "name": "FhaeBrightside",
+      "points": 38073795,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.835,
+      "ocr_observations": 2,
+      "rank_by_points": 6
+    },
+    {
+      "day": "Thu",
+      "name": "Lex2022",
+      "points": 35009694,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.856,
+      "ocr_observations": 2,
+      "rank_by_points": 7
+    },
+    {
+      "day": "Thu",
+      "name": "ALi767",
+      "points": 34936080,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.831,
+      "ocr_observations": 2,
+      "rank_by_points": 8
+    },
+    {
+      "day": "Thu",
+      "name": "Nierka",
+      "points": 33918311,
+      "game_rank_label": "unreadable",
+      "ocr_confidence": 0.76,
+      "ocr_observations": 1,
+      "rank_by_points": 9
+    },
+    {
+      "day": "Thu",
+      "name": "6aBOBHATKO",
+      "points": 33451316,
+      "game_rank_label": "10",
+      "ocr_confidence": 0.785,
+      "ocr_observations": 1,
+      "rank_by_points": 10
+    },
+    {
+      "day": "Thu",
+      "name": "Mrazota",
+      "points": 29708773,
+      "game_rank_label": "11",
+      "ocr_confidence": 0.833,
+      "ocr_observations": 1,
+      "rank_by_points": 11
+    },
+    {
+      "day": "Thu",
+      "name": "DoctorDaVida",
+      "points": 29158219,
+      "game_rank_label": "12",
+      "ocr_confidence": 0.84,
+      "ocr_observations": 2,
+      "rank_by_points": 12
+    },
+    {
+      "day": "Thu",
+      "name": "Xa6eH9",
+      "points": 28563820,
+      "game_rank_label": "13",
+      "ocr_confidence": 0.665,
+      "ocr_observations": 2,
+      "rank_by_points": 13
+    },
+    {
+      "day": "Thu",
+      "name": "SirAhlbin",
+      "points": 27923914,
+      "game_rank_label": "14",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 14
+    },
+    {
+      "day": "Thu",
+      "name": "EliMiller",
+      "points": 27678222,
+      "game_rank_label": "15",
+      "ocr_confidence": 0.852,
+      "ocr_observations": 1,
+      "rank_by_points": 15
+    },
+    {
+      "day": "Thu",
+      "name": "axel",
+      "points": 26713366,
+      "game_rank_label": "17",
+      "ocr_confidence": 0.778,
+      "ocr_observations": 2,
+      "rank_by_points": 16
+    },
+    {
+      "day": "Thu",
+      "name": "KIAMA~",
+      "points": 26257000,
+      "game_rank_label": "18",
+      "ocr_confidence": 0.595,
+      "ocr_observations": 2,
+      "rank_by_points": 17
+    },
+    {
+      "day": "Thu",
+      "name": "MCH31",
+      "points": 26253042,
+      "game_rank_label": "19",
+      "ocr_confidence": 0.813,
+      "ocr_observations": 2,
+      "rank_by_points": 18
+    },
+    {
+      "day": "Thu",
+      "name": "Kalinera",
+      "points": 25789363,
+      "game_rank_label": "20",
+      "ocr_confidence": 0.829,
+      "ocr_observations": 1,
+      "rank_by_points": 19
+    },
+    {
+      "day": "Thu",
+      "name": "Missjakarta",
+      "points": 24702746,
+      "game_rank_label": "21",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 20
+    },
+    {
+      "day": "Thu",
+      "name": "Grumpy~",
+      "points": 23503224,
+      "game_rank_label": "22",
+      "ocr_confidence": 0.834,
+      "ocr_observations": 2,
+      "rank_by_points": 21
+    },
+    {
+      "day": "Thu",
+      "name": "DoctorDamaal",
+      "points": 23103695,
+      "game_rank_label": "23",
+      "ocr_confidence": 0.828,
+      "ocr_observations": 2,
+      "rank_by_points": 22
+    },
+    {
+      "day": "Thu",
+      "name": "mys",
+      "points": 23057196,
+      "game_rank_label": "24",
+      "ocr_confidence": 0.672,
+      "ocr_observations": 2,
+      "rank_by_points": 23
+    },
+    {
+      "day": "Thu",
+      "name": "meerjungfrau",
+      "points": 23000307,
+      "game_rank_label": "25",
+      "ocr_confidence": 0.838,
+      "ocr_observations": 1,
+      "rank_by_points": 24
+    },
+    {
+      "day": "Thu",
+      "name": "Monkey",
+      "points": 22155146,
+      "game_rank_label": "26",
+      "ocr_confidence": 0.827,
+      "ocr_observations": 1,
+      "rank_by_points": 25
+    },
+    {
+      "day": "Thu",
+      "name": "saw11c",
+      "points": 21256137,
+      "game_rank_label": "27",
+      "ocr_confidence": 0.823,
+      "ocr_observations": 1,
+      "rank_by_points": 26
+    },
+    {
+      "day": "Thu",
+      "name": "KristinA",
+      "points": 21179500,
+      "game_rank_label": "28",
+      "ocr_confidence": 0.853,
+      "ocr_observations": 2,
+      "rank_by_points": 27
+    },
+    {
+      "day": "Thu",
+      "name": "FayBae",
+      "points": 21167685,
+      "game_rank_label": "29",
+      "ocr_confidence": 0.824,
+      "ocr_observations": 2,
+      "rank_by_points": 28
+    },
+    {
+      "day": "Thu",
+      "name": "LoCash",
+      "points": 20318183,
+      "game_rank_label": "30",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 29
+    },
+    {
+      "day": "Thu",
+      "name": "Chromei",
+      "points": 20015997,
+      "game_rank_label": "31",
+      "ocr_confidence": 0.851,
+      "ocr_observations": 1,
+      "rank_by_points": 30
+    },
+    {
+      "day": "Thu",
+      "name": "Phantasy-Phantom",
+      "points": 19887419,
+      "game_rank_label": "32",
+      "ocr_confidence": 0.812,
+      "ocr_observations": 1,
+      "rank_by_points": 31
+    },
+    {
+      "day": "Thu",
+      "name": "Jalt40",
+      "points": 19689781,
+      "game_rank_label": "33",
+      "ocr_confidence": 0.843,
+      "ocr_observations": 1,
+      "rank_by_points": 32
+    },
+    {
+      "day": "Thu",
+      "name": "Gelbrus",
+      "points": 18482803,
+      "game_rank_label": "34",
+      "ocr_confidence": 0.844,
+      "ocr_observations": 2,
+      "rank_by_points": 33
+    },
+    {
+      "day": "Thu",
+      "name": "Mariza",
+      "points": 18252565,
+      "game_rank_label": "35",
+      "ocr_confidence": 0.836,
+      "ocr_observations": 2,
+      "rank_by_points": 34
+    },
+    {
+      "day": "Thu",
+      "name": "Fordragon",
+      "points": 17929849,
+      "game_rank_label": "36",
+      "ocr_confidence": 0.827,
+      "ocr_observations": 1,
+      "rank_by_points": 35
+    },
+    {
+      "day": "Thu",
+      "name": "KuSTaH",
+      "points": 17826599,
+      "game_rank_label": "37",
+      "ocr_confidence": 0.835,
+      "ocr_observations": 1,
+      "rank_by_points": 36
+    },
+    {
+      "day": "Thu",
+      "name": "willychavex27",
+      "points": 17807574,
+      "game_rank_label": "38",
+      "ocr_confidence": 0.784,
+      "ocr_observations": 1,
+      "rank_by_points": 37
+    },
+    {
+      "day": "Thu",
+      "name": "izya",
+      "points": 17548632,
+      "game_rank_label": "39",
+      "ocr_confidence": 0.799,
+      "ocr_observations": 2,
+      "rank_by_points": 38
+    },
+    {
+      "day": "Thu",
+      "name": "patopmp",
+      "points": 17472894,
+      "game_rank_label": "40",
+      "ocr_confidence": 0.861,
+      "ocr_observations": 2,
+      "rank_by_points": 39
+    },
+    {
+      "day": "Thu",
+      "name": "SirEvO~Pirate",
+      "points": 17417000,
+      "game_rank_label": "41",
+      "ocr_confidence": 0.821,
+      "ocr_observations": 2,
+      "rank_by_points": 40
+    },
+    {
+      "day": "Thu",
+      "name": "MoraNa",
+      "points": 17336536,
+      "game_rank_label": "42",
+      "ocr_confidence": 0.793,
+      "ocr_observations": 1,
+      "rank_by_points": 41
+    },
+    {
+      "day": "Thu",
+      "name": "VLAD1",
+      "points": 17253004,
+      "game_rank_label": "43",
+      "ocr_confidence": 0.807,
+      "ocr_observations": 1,
+      "rank_by_points": 42
+    },
+    {
+      "day": "Thu",
+      "name": "08Zlyuka96",
+      "points": 17172944,
+      "game_rank_label": "44",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 2,
+      "rank_by_points": 43
+    },
+    {
+      "day": "Thu",
+      "name": "ARGENTO",
+      "points": 16833000,
+      "game_rank_label": "45",
+      "ocr_confidence": 0.87,
+      "ocr_observations": 2,
+      "rank_by_points": 44
+    },
+    {
+      "day": "Thu",
+      "name": "Fluffy-Menace",
+      "points": 16525587,
+      "game_rank_label": "46",
+      "ocr_confidence": 0.828,
+      "ocr_observations": 2,
+      "rank_by_points": 45
+    },
+    {
+      "day": "Thu",
+      "name": "ViolentVixen",
+      "points": 16130257,
+      "game_rank_label": "47",
+      "ocr_confidence": 0.822,
+      "ocr_observations": 1,
+      "rank_by_points": 46
+    },
+    {
+      "day": "Thu",
+      "name": "Flight32",
+      "points": 15489500,
+      "game_rank_label": "48",
+      "ocr_confidence": 0.823,
+      "ocr_observations": 1,
+      "rank_by_points": 47
+    },
+    {
+      "day": "Thu",
+      "name": "DuffyDuck",
+      "points": 15449000,
+      "game_rank_label": "49",
+      "ocr_confidence": 0.76,
+      "ocr_observations": 1,
+      "rank_by_points": 48
+    },
+    {
+      "day": "Thu",
+      "name": "'Skye",
+      "points": 15062000,
+      "game_rank_label": "50",
+      "ocr_confidence": 0.652,
+      "ocr_observations": 2,
+      "rank_by_points": 49
+    },
+    {
+      "day": "Thu",
+      "name": "MrPacMan",
+      "points": 14892064,
+      "game_rank_label": "51",
+      "ocr_confidence": 0.783,
+      "ocr_observations": 2,
+      "rank_by_points": 50
+    },
+    {
+      "day": "Thu",
+      "name": "Ankle",
+      "points": 14666684,
+      "game_rank_label": "52",
+      "ocr_confidence": 0.793,
+      "ocr_observations": 1,
+      "rank_by_points": 51
+    },
+    {
+      "day": "Thu",
+      "name": "MISAN",
+      "points": 14304877,
+      "game_rank_label": "53",
+      "ocr_confidence": 0.832,
+      "ocr_observations": 1,
+      "rank_by_points": 52
+    },
+    {
+      "day": "Thu",
+      "name": "XxLestxX",
+      "points": 14003250,
+      "game_rank_label": "54",
+      "ocr_confidence": 0.824,
+      "ocr_observations": 1,
+      "rank_by_points": 53
+    },
+    {
+      "day": "Thu",
+      "name": "DoctorColt",
+      "points": 13397832,
+      "game_rank_label": "55",
+      "ocr_confidence": 0.824,
+      "ocr_observations": 2,
+      "rank_by_points": 54
+    },
+    {
+      "day": "Thu",
+      "name": "melisamrt2",
+      "points": 13262665,
+      "game_rank_label": "56",
+      "ocr_confidence": 0.858,
+      "ocr_observations": 2,
+      "rank_by_points": 55
+    },
+    {
+      "day": "Thu",
+      "name": "RunaHvelgrima",
+      "points": 13249000,
+      "game_rank_label": "57",
+      "ocr_confidence": 0.84,
+      "ocr_observations": 2,
+      "rank_by_points": 56
+    },
+    {
+      "day": "Thu",
+      "name": "valeria",
+      "points": 13232689,
+      "game_rank_label": "58",
+      "ocr_confidence": 0.718,
+      "ocr_observations": 1,
+      "rank_by_points": 57
+    },
+    {
+      "day": "Thu",
+      "name": "Frolx",
+      "points": 13039752,
+      "game_rank_label": "59",
+      "ocr_confidence": 0.698,
+      "ocr_observations": 1,
+      "rank_by_points": 58
+    },
+    {
+      "day": "Thu",
+      "name": "StDrakara",
+      "points": 13014737,
+      "game_rank_label": "60",
+      "ocr_confidence": 0.808,
+      "ocr_observations": 1,
+      "rank_by_points": 59
+    },
+    {
+      "day": "Thu",
+      "name": "Kraz",
+      "points": 12632188,
+      "game_rank_label": "61",
+      "ocr_confidence": 0.795,
+      "ocr_observations": 2,
+      "rank_by_points": 60
+    },
+    {
+      "day": "Thu",
+      "name": "DeathWaltz",
+      "points": 12381384,
+      "game_rank_label": "62",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 2,
+      "rank_by_points": 61
+    },
+    {
+      "day": "Thu",
+      "name": "pasha483",
+      "points": 11465000,
+      "game_rank_label": "63",
+      "ocr_confidence": 0.85,
+      "ocr_observations": 1,
+      "rank_by_points": 62
+    },
+    {
+      "day": "Thu",
+      "name": "JawsAndPaws",
+      "points": 11153645,
+      "game_rank_label": "64",
+      "ocr_confidence": 0.864,
+      "ocr_observations": 1,
+      "rank_by_points": 63
+    },
+    {
+      "day": "Thu",
+      "name": "TH3KING",
+      "points": 11118500,
+      "game_rank_label": "65",
+      "ocr_confidence": 0.717,
+      "ocr_observations": 1,
+      "rank_by_points": 64
+    },
+    {
+      "day": "Thu",
+      "name": "BulucChabatan",
+      "points": 10710275,
+      "game_rank_label": "66",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 2,
+      "rank_by_points": 65
+    },
+    {
+      "day": "Thu",
+      "name": "JikapManok",
+      "points": 10363981,
+      "game_rank_label": "67",
+      "ocr_confidence": 0.781,
+      "ocr_observations": 2,
+      "rank_by_points": 66
+    },
+    {
+      "day": "Thu",
+      "name": "Jerickoo",
+      "points": 10254413,
+      "game_rank_label": "68",
+      "ocr_confidence": 0.775,
+      "ocr_observations": 2,
+      "rank_by_points": 67
+    },
+    {
+      "day": "Thu",
+      "name": "dewill",
+      "points": 10024650,
+      "game_rank_label": "69",
+      "ocr_confidence": 0.826,
+      "ocr_observations": 1,
+      "rank_by_points": 68
+    },
+    {
+      "day": "Thu",
+      "name": "-Pro-",
+      "points": 9780000,
+      "game_rank_label": "70",
+      "ocr_confidence": 0.788,
+      "ocr_observations": 1,
+      "rank_by_points": 69
+    },
+    {
+      "day": "Thu",
+      "name": "sergrety",
+      "points": 9628569,
+      "game_rank_label": "71",
+      "ocr_confidence": 0.855,
+      "ocr_observations": 2,
+      "rank_by_points": 70
+    },
+    {
+      "day": "Thu",
+      "name": "NoGrass",
+      "points": 9590907,
+      "game_rank_label": "72",
+      "ocr_confidence": 0.849,
+      "ocr_observations": 2,
+      "rank_by_points": 71
+    },
+    {
+      "day": "Thu",
+      "name": "Kfh",
+      "points": 8667500,
+      "game_rank_label": "73",
+      "ocr_confidence": 0.74,
+      "ocr_observations": 5,
+      "rank_by_points": 72
+    },
+    {
+      "day": "Thu",
+      "name": "DrYuuki",
+      "points": 7841437,
+      "game_rank_label": "74",
+      "ocr_confidence": 0.858,
+      "ocr_observations": 4,
+      "rank_by_points": 73
+    },
+    {
+      "day": "Thu",
+      "name": "Smackone",
+      "points": 7772500,
+      "game_rank_label": "75",
+      "ocr_confidence": 0.847,
+      "ocr_observations": 4,
+      "rank_by_points": 74
+    },
+    {
+      "day": "Thu",
+      "name": "Fetagallina",
+      "points": 7719772,
+      "game_rank_label": "76",
+      "ocr_confidence": 0.854,
+      "ocr_observations": 4,
+      "rank_by_points": 75
+    },
+    {
+      "day": "Thu",
+      "name": "Hoodhunter",
+      "points": 7595750,
+      "game_rank_label": "77",
+      "ocr_confidence": 0.855,
+      "ocr_observations": 4,
+      "rank_by_points": 76
+    },
+    {
+      "day": "Thu",
+      "name": "BeardedTrouble",
+      "points": 7530552,
+      "game_rank_label": "78",
+      "ocr_confidence": 0.87,
+      "ocr_observations": 4,
+      "rank_by_points": 77
+    },
+    {
+      "day": "Thu",
+      "name": "Kenward",
+      "points": 7398821,
+      "game_rank_label": "79",
+      "ocr_confidence": 0.818,
+      "ocr_observations": 3,
+      "rank_by_points": 78
+    },
+    {
+      "day": "Thu",
+      "name": "Selytson",
+      "points": 7338750,
+      "game_rank_label": "80",
+      "ocr_confidence": 0.833,
+      "ocr_observations": 3,
+      "rank_by_points": 79
+    }
+  ]
+}
