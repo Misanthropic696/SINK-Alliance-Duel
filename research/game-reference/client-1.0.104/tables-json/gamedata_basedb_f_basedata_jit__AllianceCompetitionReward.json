@@ -1,0 +1,137 @@
+{
+  "key": "id",
+  "len": 3,
+  "data": {
+    "1004": {
+      "title_name": "",
+      "score": 550000,
+      "activityRewardEffect": "",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 420,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 8,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 8,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 8,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 8,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "stageId": 0,
+      "id": 1004,
+      "tips_des": ""
+    },
+    "1002": {
+      "title_name": "",
+      "score": 180000,
+      "activityRewardEffect": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 25,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 25,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 25,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "stageId": 0,
+      "id": 1002,
+      "tips_des": ""
+    },
+    "1003": {
+      "title_name": "",
+      "score": 550000,
+      "activityRewardEffect": "",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 840,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 9,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Box_gem_100",
+          "count": 6,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Metal_3",
+          "count": 12,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Energy_3",
+          "count": 12,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "stageId": 0,
+      "id": 1003,
+      "tips_des": ""
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1002,
+  "excelName": "Activity_AllianceCompetition_联盟竞赛",
+  "enum": {
+    "AWARDTYPE": {
+      "DAILYPARTICIPATIONAWARD": 1,
+      "DAILYWINREWARD": 4,
+      "WEEKLYVICTORYAWARD": 2,
+      "WEEKLYFAILEDAWARD": 3
+    }
+  }
+}

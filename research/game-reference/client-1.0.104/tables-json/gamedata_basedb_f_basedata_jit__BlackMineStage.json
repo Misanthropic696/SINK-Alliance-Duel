@@ -1,0 +1,33 @@
+{
+  "key": "id",
+  "len": 4,
+  "data": {
+    "4": {
+      "maxLevel": 45,
+      "minLevel": 37,
+      "id": 4,
+      "maxMemberCount": 350
+    },
+    "1": {
+      "maxLevel": 25,
+      "minLevel": 15,
+      "id": 1,
+      "maxMemberCount": 350
+    },
+    "2": {
+      "maxLevel": 30,
+      "minLevel": 26,
+      "id": 2,
+      "maxMemberCount": 350
+    },
+    "3": {
+      "maxLevel": 36,
+      "minLevel": 31,
+      "id": 3,
+      "maxMemberCount": 350
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

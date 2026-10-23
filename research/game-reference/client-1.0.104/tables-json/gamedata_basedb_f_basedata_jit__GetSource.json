@@ -1,0 +1,2520 @@
+{
+  "excelName": "Goto_跳转表",
+  "isNeedTransform": true,
+  "data": {
+    "15": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        }
+      },
+      "id": 15,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300011": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        },
+        "2": {
+          "id": "giftshop_week"
+        }
+      },
+      "id": 300011,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "95": {
+      "gotoItem": {
+        "1": {
+          "id": "item_Talent_Material1"
+        }
+      },
+      "id": 95,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400203": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day43"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_6"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "Vip_shop_season"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "allianceshop_season"
+        }
+      },
+      "id": 400203,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900017": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_mid_autumn_activity"
+        }
+      },
+      "id": 900017,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1003": {
+      "gotoItem": {
+        "1": {
+          "id": "visitbuild_rally_monster"
+        },
+        "2": {
+          "id": "visitbuild_matchlevel"
+        },
+        "3": {
+          "id": "visitbuild_arena"
+        },
+        "4": {
+          "id": "visitbuild_gift"
+        }
+      },
+      "id": 1003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300106": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_2"
+        }
+      },
+      "id": 300106,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000007": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10006"
+        }
+      },
+      "id": 1000007,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900011": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_season_skincoin"
+        }
+      },
+      "id": 900011,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400102": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day22"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_2"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "getItem_tower_shop"
+        }
+      },
+      "id": 400102,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300102": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_1"
+        }
+      },
+      "id": 300102,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "12": {
+      "gotoItem": {
+        "1": {
+          "id": "mine"
+        }
+      },
+      "id": 12,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "502": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_T2_get_more1"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more2"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv2_get_more4"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "item_mecha_wandering_T2_get_more4"
+        }
+      },
+      "id": 502,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "302": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "recruitHero2"
+        },
+        "2": {
+          "id": "recruitHero1"
+        }
+      },
+      "id": 302,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "202": {
+      "gotoItem": {
+        "1": {
+          "id": "pub"
+        },
+        "2": {
+          "id": "Vip_shop"
+        }
+      },
+      "id": 202,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300317": {
+      "gotoItem": {
+        "1": {
+          "id": "getItem_radar"
+        },
+        "2": {
+          "id": "Vip_shop"
+        }
+      },
+      "id": 300317,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300312": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Vip_shop"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "allianceshop"
+        }
+      },
+      "id": 300312,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300310": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Vip_shop"
+        }
+      },
+      "id": 300310,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300320": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_activity_airDrop"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_activity_airDrop1"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_activity_airDrop2"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "item_activity_airDrop3"
+        }
+      },
+      "id": 300320,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1009": {
+      "gotoItem": {
+        "1": {
+          "id": "gift_discount"
+        },
+        "2": {
+          "id": "goto_visit_npc_activity"
+        }
+      },
+      "id": 1009,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "500003": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Radar_dangqian"
+        }
+      },
+      "id": 500003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000005": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10006"
+        }
+      },
+      "id": 1000005,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000005": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10006"
+        },
+        "3": {
+          "id": "goto_10013"
+        }
+      },
+      "id": 2000005,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1004": {
+      "gotoItem": {
+        "1": {
+          "id": "allianceshop2_4"
+        }
+      },
+      "id": 1004,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900003": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_BP_3"
+        },
+        "2": {
+          "id": "goto_BP_7"
+        }
+      },
+      "id": 900003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300311": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "recruitHero2"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "kill_monster"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "getItem_tower_shop"
+        }
+      },
+      "id": 300311,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300201": {
+      "gotoItem": {
+        "1": {
+          "id": "month_card"
+        }
+      },
+      "id": 300201,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300316": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_UseUp_targetMove_1"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_UseUp_targetMove_2"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_UseUp_targetMove_3"
+        }
+      },
+      "id": 300316,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400201": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day15"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_4"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "Vip_shop_season"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "allianceshop_season"
+        }
+      },
+      "id": 400201,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900007": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_VIP_18"
+        }
+      },
+      "id": 900007,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "512": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 512,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300301": {
+      "gotoItem": {
+        "1": {
+          "id": "kill_monster"
+        }
+      },
+      "id": 300301,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1005": {
+      "gotoItem": {
+        "1": {
+          "id": "dailyQuest"
+        }
+      },
+      "id": 1005,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "97": {
+      "gotoItem": {
+        "1": {
+          "id": "getItem_radar"
+        },
+        "2": {
+          "id": "kill_monster"
+        },
+        "3": {
+          "id": "getItem_rally"
+        }
+      },
+      "id": 97,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900006": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_VIP_19"
+        }
+      },
+      "id": 900006,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300103": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_1"
+        }
+      },
+      "id": 300103,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900012": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_season_skinexchangeshop"
+        }
+      },
+      "id": 900012,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300107": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_1"
+        }
+      },
+      "id": 300107,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400103": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day36"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "getItem_tower_shop"
+        }
+      },
+      "id": 400103,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1002": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_rare"
+        },
+        "2": {
+          "id": "dailyQuest"
+        }
+      },
+      "id": 1002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "500000": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Monopoly_dangqian"
+        }
+      },
+      "id": 500000,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300313": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "cangbaotu_goto_1"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "cangbaotu_goto_2"
+        }
+      },
+      "id": 300313,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1010": {
+      "gotoItem": {
+        "1": {
+          "id": "gift_discount"
+        },
+        "2": {
+          "id": "goto_rally_activity"
+        }
+      },
+      "id": 1010,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "40002001": {
+      "gotoItem": {
+        "1": {
+          "id": "powerUpgrade_hero"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "powerUpgrade_soldier"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "powerUpgrade_build"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "powerUpgrade_science"
+        },
+        "5": {
+          "id": "powerUpgrade_equip"
+        }
+      },
+      "id": 40002001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "14": {
+      "gotoItem": {
+        "1": {
+          "id": "23"
+        }
+      },
+      "id": 14,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "106": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 106,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "522": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more2"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_T1_get_more1"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more7"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "item_mecha_wandering_T1_get_more4"
+        }
+      },
+      "id": 522,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1001": {
+      "gotoItem": {
+        "1": {
+          "id": "battlepass_rally_monster"
+        },
+        "2": {
+          "id": "battlepass_daily_mission"
+        },
+        "3": {
+          "id": "battlepass_matchlevel"
+        },
+        "4": {
+          "id": "battlepass_arena"
+        },
+        "5": {
+          "id": "battlegift"
+        }
+      },
+      "id": 1001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300315": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_UseUp_randomMove"
+        }
+      },
+      "id": 300315,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "108": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_Bekka_BP"
+        }
+      },
+      "id": 108,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300309": {
+      "gotoItem": {
+        "1": {
+          "id": "decor"
+        }
+      },
+      "id": 300309,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900016": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_mid_autumn_activity"
+        }
+      },
+      "id": 900016,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300105": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "RNS_pifu_xinshouleichong"
+        }
+      },
+      "id": 300105,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "123": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 123,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300303": {
+      "gotoItem": {
+        "1": {
+          "id": "kill_monster"
+        }
+      },
+      "id": 300303,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "506": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more6"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv3_get_more4"
+        }
+      },
+      "id": 506,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "523": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more7"
+        }
+      },
+      "id": 523,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "116": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 116,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "132": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 132,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "521": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 521,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000004": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10005"
+        }
+      },
+      "id": 1000004,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "40001001": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_gift"
+        },
+        "2": {
+          "id": "bp_dailyTask"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "bp_rally_monster"
+        },
+        "4": {
+          "id": "bp_arena"
+        },
+        "5": {
+          "id": "bp_radar"
+        },
+        "6": {
+          "id": "bp_secret"
+        }
+      },
+      "id": 40001001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "11": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_DragonSkin"
+        }
+      },
+      "id": 11,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300325": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        }
+      },
+      "id": 300325,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "129": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 129,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000006": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop_daily"
+        }
+      },
+      "id": 2000006,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000006": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10005"
+        }
+      },
+      "id": 1000006,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "9999": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_100"
+        },
+        "2": {
+          "id": "goto_101"
+        },
+        "3": {
+          "id": "goto_yase"
+        },
+        "4": {
+          "id": "goto_102"
+        },
+        "5": {
+          "id": "goto_103"
+        },
+        "6": {
+          "id": "goto_104"
+        },
+        "7": {
+          "id": "goto_105"
+        },
+        "8": {
+          "id": "goto_106"
+        },
+        "9": {
+          "id": "goto_107"
+        },
+        "10": {
+          "id": "goto_108"
+        },
+        "11": {
+          "id": "goto_109"
+        }
+      },
+      "id": 9999,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "98": {
+      "gotoItem": {
+        "1": {
+          "id": "getItem_radar"
+        },
+        "2": {
+          "id": "allianceshop"
+        }
+      },
+      "id": 98,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900005": {
+      "gotoItem": {
+        "1": {
+          "id": "getItem_arena_shop"
+        },
+        "2": {
+          "id": "goto_equiptriggergift"
+        },
+        "3": {
+          "id": "goto_equipchangeactivity1"
+        },
+        "4": {
+          "id": "goto_equipchangeactivity2"
+        }
+      },
+      "id": 900005,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "118": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 118,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "96": {
+      "gotoItem": {
+        "1": {
+          "id": "arsenal_goto_1"
+        },
+        "2": {
+          "id": "kill_monster"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "recruitHero2"
+        }
+      },
+      "id": 96,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300104": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_1"
+        }
+      },
+      "id": 300104,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "913": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_res_bui_equ"
+        }
+      },
+      "id": 913,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "912": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_res_bui_equ"
+        }
+      },
+      "id": 912,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "110": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 110,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "911": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_battle_equ"
+        },
+        "2": {
+          "id": "allianceshop"
+        }
+      },
+      "id": 911,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900015": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_mid_autumn_activity"
+        }
+      },
+      "id": 900015,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900014": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_mid_autumn_activity"
+        }
+      },
+      "id": 900014,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300318": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_dailyTask_c"
+        }
+      },
+      "id": 300318,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "516": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 516,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900013": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_recluse_coin"
+        },
+        "2": {
+          "id": "goto_recluse_coin_activity1"
+        },
+        "3": {
+          "id": "goto_recluse_coin_activity2"
+        },
+        "4": {
+          "id": "goto_recluse_coin_activity3"
+        },
+        "5": {
+          "id": "goto_recluse_coin_activity4"
+        }
+      },
+      "id": 900013,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400002": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_saijizhouka"
+        },
+        "2": {
+          "id": "goto_kangxingdengji"
+        }
+      },
+      "id": 400002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "126": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 126,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2": {
+      "gotoItem": {
+        "1": {
+          "id": "patrol_level_direct"
+        }
+      },
+      "id": 2,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1007": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_build"
+        }
+      },
+      "id": 1007,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "4": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1007"
+        }
+      },
+      "id": 4,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "7": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1005"
+        },
+        "2": {
+          "id": "1_1007"
+        },
+        "3": {
+          "id": "1_1003"
+        }
+      },
+      "id": 7,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "6": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1004"
+        },
+        "2": {
+          "id": "1_1005"
+        },
+        "3": {
+          "id": "1_1003"
+        }
+      },
+      "id": 6,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "9": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1005"
+        },
+        "2": {
+          "id": "1_1003"
+        }
+      },
+      "id": 9,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "8": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1007"
+        },
+        "2": {
+          "id": "1_1004"
+        }
+      },
+      "id": 8,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "135": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 135,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "41001001": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_gift_c"
+        },
+        "2": {
+          "id": "bp_dailyTask_c"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "bp_rally_monster_c"
+        },
+        "4": {
+          "id": "bp_arena_c"
+        },
+        "5": {
+          "id": "bp_radar_c"
+        },
+        "6": {
+          "id": "bp_secret_c"
+        }
+      },
+      "id": 41001001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900009": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_item_atmosphereSkin_childrensday_permanent"
+        }
+      },
+      "id": 900009,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300319": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_Escort_Convoy_Quality"
+        }
+      },
+      "id": 300319,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1011": {
+      "gotoItem": {
+        "1": {
+          "id": "itemsummon_daily_mission"
+        },
+        "2": {
+          "id": "itemsummon_matchlevel"
+        },
+        "3": {
+          "id": "itemsummon_arena"
+        }
+      },
+      "id": 1011,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900008": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_item_childrensday_permanent"
+        }
+      },
+      "id": 900008,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "rally_monster_3"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "125_1"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "getHeroExp_Building"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "recruitHero2"
+        },
+        "5": {
+          "id": "Vip_shop"
+        },
+        "6": {
+          "id": "gift_hero"
+        }
+      },
+      "id": 1,
+      "displayConditionText": 1,
+      "name": ""
+    },
+    "300326": {
+      "gotoItem": {
+        "1": {
+          "id": "allianceshop"
+        },
+        "2": {
+          "id": "goto_meiribimai_common"
+        },
+        "3": {
+          "id": "giftshop_weekly_common"
+        }
+      },
+      "id": 300326,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300101": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_1"
+        }
+      },
+      "id": 300101,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900002": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_BP_2"
+        },
+        "2": {
+          "id": "goto_BP_6"
+        }
+      },
+      "id": 900002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "104": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 104,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900001": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_BP_1"
+        },
+        "2": {
+          "id": "goto_BP_5"
+        }
+      },
+      "id": 900001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000008": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10005"
+        }
+      },
+      "id": 1000008,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "204": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day8"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "getItem_tower_shop"
+        }
+      },
+      "id": 204,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300108": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_decorate_get_more_3"
+        }
+      },
+      "id": 300108,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "507": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv4_get_more4"
+        }
+      },
+      "id": 507,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "524": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 524,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "120": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 120,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "520": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 520,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "107": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        },
+        "2": {
+          "id": "giftshop_hero"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 107,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "519": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 519,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "503": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more6"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv3_get_more4"
+        }
+      },
+      "id": 503,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "203": {
+      "gotoItem": {
+        "1": {
+          "id": "Vip_shop"
+        },
+        "2": {
+          "id": "allianceshop"
+        }
+      },
+      "id": 203,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1006": {
+      "gotoItem": {
+        "1": {
+          "id": "gift_discount"
+        }
+      },
+      "id": 1006,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300307": {
+      "gotoItem": {
+        "1": {
+          "id": "vip"
+        }
+      },
+      "id": 300307,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "501": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_T1_get_more1"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more2"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv1_get_more4"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "item_mecha_wandering_T1_get_more4"
+        }
+      },
+      "id": 501,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "13": {
+      "gotoItem": {
+        "1": {
+          "id": "rookieQuest_radar"
+        },
+        "2": {
+          "id": "Vip_shop"
+        },
+        "3": {
+          "id": "giftshop"
+        }
+      },
+      "id": 13,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "301": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_weekly"
+        },
+        "2": {
+          "id": "allianceshop"
+        },
+        "3": {
+          "id": "Vip_shop"
+        }
+      },
+      "id": 301,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "201": {
+      "gotoItem": {
+        "1": {
+          "id": "pub"
+        },
+        "2": {
+          "id": "Vip_shop"
+        }
+      },
+      "id": 201,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "509": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv4_get_more4"
+        }
+      },
+      "id": 509,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300322": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_dailyTask_d"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "GotoWorldWoodZombie"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "GotoWorldWood"
+        }
+      },
+      "id": 300322,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400202": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day29"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_5"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "Vip_shop_season"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "allianceshop_season"
+        }
+      },
+      "id": 400202,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "517": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 517,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "109": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_Leah_roulette"
+        }
+      },
+      "id": 109,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300323": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_dailyTask_d"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "GotoWorldHerbZombie"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "GotoWorldHerb"
+        }
+      },
+      "id": 300323,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "105": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 105,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "205": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day15"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "Vip_shop_season"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "allianceshop_season"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "goto_clientexchangeshop"
+        }
+      },
+      "id": 205,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "514": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 514,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "513": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 513,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "505": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more6"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv3_get_more4"
+        }
+      },
+      "id": 505,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000003": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_10003"
+        },
+        "2": {
+          "id": "goto_10004"
+        }
+      },
+      "id": 1000003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000009": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10006"
+        }
+      },
+      "id": 1000009,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "138": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 138,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400003": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_saijizhouka"
+        },
+        "2": {
+          "id": "alliance_competition_goto"
+        },
+        "3": {
+          "id": "goto_saijiyeguai"
+        },
+        "4": {
+          "id": "goto_saijijijieguai"
+        },
+        "5": {
+          "id": "goto_kuaguoyuanzheng_goto"
+        }
+      },
+      "id": 400003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300302": {
+      "gotoItem": {
+        "1": {
+          "id": "kill_monster"
+        }
+      },
+      "id": 300302,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "510": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv4_get_more4"
+        }
+      },
+      "id": 510,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "508": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv4_get_more4"
+        }
+      },
+      "id": 508,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000003": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_10003"
+        }
+      },
+      "id": 2000003,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400101": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_dailySpecial_day8"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "goto_season1_BP_1"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "alliance_competition_goto"
+        },
+        "4": {
+          "close": "TRUE",
+          "id": "getItem_arena_shop"
+        },
+        "5": {
+          "close": "TRUE",
+          "id": "getItem_tower_shop"
+        }
+      },
+      "id": 400101,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000001": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "goto_10001"
+        },
+        "2": {
+          "id": "goto_10002"
+        }
+      },
+      "id": 2000001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000002": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "goto_10006"
+        }
+      },
+      "id": 1000002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "504": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more6"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "item_mecha_get_more3"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv3_get_more4"
+        }
+      },
+      "id": 504,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300314": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_UseUp_unionMove"
+        }
+      },
+      "id": 300314,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000002": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_10003"
+        },
+        "2": {
+          "id": "125_0"
+        }
+      },
+      "id": 2000002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300304": {
+      "gotoItem": {
+        "1": {
+          "id": "kill_monster"
+        }
+      },
+      "id": 300304,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "119": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 119,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300002": {
+      "gotoItem": {
+        "1": {
+          "id": "rally_monster_3"
+        },
+        "2": {
+          "id": "dailyQuest"
+        },
+        "3": {
+          "id": "giftshop"
+        }
+      },
+      "id": 300002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "111": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 111,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "500001": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Hosital_dangqian"
+        }
+      },
+      "id": 500001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "5": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1003"
+        },
+        "2": {
+          "id": "1_1004"
+        }
+      },
+      "id": 5,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "40001002": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_gift"
+        },
+        "2": {
+          "id": "bp_dailyTask"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "bp_rally_monster"
+        },
+        "4": {
+          "id": "bp_arena"
+        },
+        "5": {
+          "id": "bp_radar"
+        },
+        "6": {
+          "id": "bp_secret"
+        }
+      },
+      "id": 40001002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "511": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 511,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1000001": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop"
+        },
+        "2": {
+          "id": "allianceshop"
+        },
+        "3": {
+          "id": "goto_10005"
+        }
+      },
+      "id": 1000001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300321": {
+      "gotoItem": {
+        "1": {
+          "id": "bp_dailyTask_d"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "GotoWorldFoodZombie"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "GotoWorldFood"
+        }
+      },
+      "id": 300321,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "10": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1007"
+        },
+        "2": {
+          "id": "1_1004"
+        },
+        "3": {
+          "id": "1_1003"
+        }
+      },
+      "id": 10,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900010": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_AllianceLeague"
+        }
+      },
+      "id": 900010,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "115": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 115,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "400001": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_lingzhudengji"
+        },
+        "2": {
+          "id": "goto_saijijijieguaishoupo"
+        }
+      },
+      "id": 400001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "399999": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "recruitHero399999"
+        }
+      },
+      "id": 399999,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300324": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "rally_monster_3"
+        },
+        "2": {
+          "id": "Vip_shop"
+        },
+        "3": {
+          "close": "TRUE",
+          "id": "goto_meiribimai"
+        }
+      },
+      "id": 300324,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "515": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_mecha_factory_lv5_get_more4"
+        }
+      },
+      "id": 515,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "518": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "giftshop"
+        }
+      },
+      "id": 518,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "124": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 124,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300308": {
+      "gotoItem": {},
+      "id": 300308,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300306": {
+      "gotoItem": {
+        "1": {
+          "id": "recruitWorker"
+        }
+      },
+      "id": 300306,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300305": {
+      "gotoItem": {
+        "1": {
+          "id": "kill_monster"
+        }
+      },
+      "id": 300305,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "50002": {
+      "gotoItem": {
+        "1": {
+          "id": "Vip_shop"
+        },
+        "2": {
+          "id": "dailyQuest"
+        }
+      },
+      "id": 50002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300109": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "item_getsource_monthcard"
+        }
+      },
+      "id": 300109,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "900004": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_BP_4"
+        }
+      },
+      "id": 900004,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "300001": {
+      "gotoItem": {
+        "1": {
+          "id": "rally_monster_3"
+        },
+        "2": {
+          "id": "dailyQuest"
+        },
+        "3": {
+          "id": "giftshop"
+        }
+      },
+      "id": 300001,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "3": {
+      "gotoItem": {
+        "1": {
+          "id": "1_1005"
+        },
+        "2": {
+          "id": "1_1007"
+        }
+      },
+      "id": 3,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "130": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        }
+      },
+      "id": 130,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "2000004": {
+      "gotoItem": {
+        "1": {
+          "id": "goto_10003"
+        },
+        "2": {
+          "id": "goto_10004"
+        },
+        "3": {
+          "id": "999_9_2"
+        }
+      },
+      "id": 2000004,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "140": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 140,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "125": {
+      "gotoItem": {
+        "1": {
+          "id": "giftshop_daily"
+        }
+      },
+      "id": 125,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "122": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "pub"
+        },
+        "2": {
+          "close": "TRUE",
+          "id": "Activity"
+        }
+      },
+      "id": 122,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "500002": {
+      "gotoItem": {
+        "1": {
+          "close": "TRUE",
+          "id": "Moster_dangqian"
+        }
+      },
+      "id": 500002,
+      "displayConditionText": 0,
+      "name": ""
+    },
+    "1008": {
+      "gotoItem": {
+        "1": {
+          "id": "visit_rally_monster"
+        },
+        "2": {
+          "id": "visit_matchlevel"
+        },
+        "3": {
+          "id": "visit_arena"
+        },
+        "4": {
+          "id": "visit_gift"
+        }
+      },
+      "id": 1008,
+      "displayConditionText": 0,
+      "name": ""
+    }
+  },
+  "first": 1,
+  "len": 179,
+  "key": "id"
+}

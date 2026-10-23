@@ -1,0 +1,27 @@
+{
+  "first": 1,
+  "excelName": "L-领主专长",
+  "data": {
+    "3": {
+      "maxUseSkillExp": 15,
+      "seasonAge": 3,
+      "id": 3,
+      "overflowExpRate": 0.3
+    },
+    "2": {
+      "maxUseSkillExp": 10,
+      "seasonAge": 2,
+      "id": 2,
+      "overflowExpRate": 0.3
+    },
+    "1": {
+      "maxUseSkillExp": 8,
+      "seasonAge": 1,
+      "id": 1,
+      "overflowExpRate": 0.3
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 3
+}

@@ -1,0 +1,2150 @@
+{
+  "key": "id",
+  "len": 46,
+  "data": {
+    "3003000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 4,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3003000,
+      "gift1": 300002001,
+      "rewardGroupID": 3003000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3003000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000200": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000200,
+      "gift1": 300000045,
+      "rewardGroupID": 3000200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000200,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001900": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001900,
+      "gift1": 300000075,
+      "rewardGroupID": 3001600,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001900,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002800": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002800,
+      "gift1": 300001002,
+      "rewardGroupID": 3002800,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 250,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002800,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 7000,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000500": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000500,
+      "gift1": 300000047,
+      "rewardGroupID": 3000500,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000500,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000600": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000600,
+      "gift1": 300000048,
+      "rewardGroupID": 3000600,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000600,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000900": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000900,
+      "gift1": 300000051,
+      "rewardGroupID": 3000900,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000900,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100300": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100300,
+      "gift1": 300000061,
+      "rewardGroupID": 3100300,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100300,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002300": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002300,
+      "gift1": 300000079,
+      "rewardGroupID": 3002300,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002300,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002200": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002200,
+      "gift1": 300000078,
+      "rewardGroupID": 3002200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002200,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3003600": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3003600,
+      "gift1": 300003001,
+      "rewardGroupID": 3003600,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3003600,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001100": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001100,
+      "gift1": 300000053,
+      "rewardGroupID": 3001100,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001100,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002000,
+      "gift1": 300000076,
+      "rewardGroupID": 3001700,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000000,
+      "gift1": 300000044,
+      "rewardGroupID": 3000000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 0,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 450,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "battlepass_newSoilder",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000700": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000700,
+      "gift1": 300000049,
+      "rewardGroupID": 3000700,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000700,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3000800": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000800,
+      "gift1": 300000050,
+      "rewardGroupID": 3000800,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000800,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001800": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001800,
+      "gift1": 300000074,
+      "rewardGroupID": 3001500,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001800,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001700": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001700,
+      "gift1": 300000073,
+      "rewardGroupID": 3001700,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001700,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "8200302": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 996001002,
+      "launchTriggerPanelEnd": 0,
+      "id": 8200302,
+      "gift1": 996001001,
+      "rewardGroupID": 8200302,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 8200302,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3003700": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 300003003,
+      "launchTriggerPanelEnd": 0,
+      "id": 3003700,
+      "gift1": 300003002,
+      "rewardGroupID": 3003700,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3003700,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 35000,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100200": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100200,
+      "gift1": 300000060,
+      "rewardGroupID": 3100200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100200,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001200": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001200,
+      "gift1": 300000054,
+      "rewardGroupID": 3001200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001200,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002900": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002900,
+      "gift1": 300001003,
+      "rewardGroupID": 3002900,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 250,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002900,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 7000,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100500": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 2,
+      "prefab": "",
+      "gift2": 300000065,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100500,
+      "gift1": 300000064,
+      "rewardGroupID": 3100500,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100500,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002500": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002500,
+      "gift1": 300000081,
+      "rewardGroupID": 3002200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002500,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3120000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "UI_Panel/Activity/BattlePass/CityWarfareBattlePassSub.prefab",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3120000,
+      "gift1": 0,
+      "rewardGroupID": 3120000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 0,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3120000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 0,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "",
+      "front": false,
+      "extraReward": {}
+    },
+    "3000300": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3000300,
+      "gift1": 300000046,
+      "rewardGroupID": 3000300,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3000300,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001600": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001600,
+      "gift1": 300000072,
+      "rewardGroupID": 3001600,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001600,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001500": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001500,
+      "gift1": 300000071,
+      "rewardGroupID": 3001500,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001500,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "8200402": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 997001002,
+      "launchTriggerPanelEnd": 0,
+      "id": 8200402,
+      "gift1": 997001001,
+      "rewardGroupID": 8200402,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 8200402,
+      "panelStyle": 1,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3110000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 3,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3110000,
+      "gift1": 311000001,
+      "rewardGroupID": 3110000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3110000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001000,
+      "gift1": 300000052,
+      "rewardGroupID": 3001000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "8200201": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 994001002,
+      "launchTriggerPanelEnd": 0,
+      "id": 8200201,
+      "gift1": 994001001,
+      "rewardGroupID": 8200201,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 8200201,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "8200102": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 992000002,
+      "launchTriggerPanelEnd": 0,
+      "id": 8200102,
+      "gift1": 992000001,
+      "rewardGroupID": 8200102,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 8200102,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100401": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 2,
+      "prefab": "",
+      "gift2": 300000067,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100401,
+      "gift1": 300000066,
+      "rewardGroupID": 3100401,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100401,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100400": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 2,
+      "prefab": "",
+      "gift2": 300000063,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100400,
+      "gift1": 300000062,
+      "rewardGroupID": 3100400,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100400,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100100": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 300000059,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100100,
+      "gift1": 300000058,
+      "rewardGroupID": 3100100,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100100,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002700": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002700,
+      "gift1": 300001001,
+      "rewardGroupID": 3002700,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 250,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002700,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 7000,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001400": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001400,
+      "gift1": 300000056,
+      "rewardGroupID": 3001400,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 200,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001400,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 5900,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002600": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002600,
+      "gift1": 300000082,
+      "rewardGroupID": 3002300,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002600,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3003100": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 4,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3003100,
+      "gift1": 300002002,
+      "rewardGroupID": 3003100,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3003100,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3100000": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3100000,
+      "gift1": 300000057,
+      "rewardGroupID": 3100000,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3100000,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002400": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002400,
+      "gift1": 300000080,
+      "rewardGroupID": 3002100,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002400,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3003200": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 4,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3003200,
+      "gift1": 300002003,
+      "rewardGroupID": 3003200,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3003200,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3002100": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 1,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3002100,
+      "gift1": 300000077,
+      "rewardGroupID": 3002100,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 50,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3002100,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 1500,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "dailyQuest",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "3001300": {
+      "activityItem": "",
+      "launchTriggerPanel": false,
+      "battlepassType": 2,
+      "uiType": 1,
+      "prefab": "",
+      "gift2": 0,
+      "launchTriggerPanelEnd": 0,
+      "id": 3001300,
+      "gift1": 300000055,
+      "rewardGroupID": 3001300,
+      "desc": "",
+      "critRule": 0,
+      "extraPoint": 1000,
+      "rankReward": {},
+      "launchTriggerPanelHeroSkillID": 0,
+      "taskGroupID": 3001300,
+      "panelStyle": 0,
+      "launchTriggerPanelResource": 0,
+      "unlockPoint": 9100,
+      "launchTriggerPanelStart": 0,
+      "gotoID": "",
+      "extraIcon": "BattlePass_img_box",
+      "front": false,
+      "extraReward": {
+        "1": {
+          "id": "item_secret_rescue_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_optionalBox_Resource2",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": false,
+  "first": 3000000,
+  "excelName": "Activity_BattlePass_节日通行证"
+}

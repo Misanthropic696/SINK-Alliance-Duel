@@ -1,0 +1,2095 @@
+{
+  "data": {
+    "2001": {
+      "des2": "Grain Output↑",
+      "id": 2001,
+      "name": "Grain Output I",
+      "des": "Grain Output↑"
+    },
+    "3001": {
+      "des2": "Warrior Hero DMG↑",
+      "id": 3001,
+      "name": "Warrior Mastery I",
+      "des": "Warrior Hero DMG↑"
+    },
+    "4001": {
+      "des2": "Increases Soldier ATK",
+      "id": 4001,
+      "name": "Attack Training III",
+      "des": "Increases Soldier ATK"
+    },
+    "5001": {
+      "des2": "Squad 1 DMG to Monsters↑",
+      "id": 5001,
+      "name": "Blight Slayer I",
+      "des": "Squad 1 DMG to Monsters↑"
+    },
+    "3011": {
+      "des2": "Warlock Hero DEF↑",
+      "id": 3011,
+      "name": "Warlock DEF I",
+      "des": "Warlock Hero DEF↑"
+    },
+    "4011": {
+      "des2": "Soldier HP↑",
+      "id": 4011,
+      "name": "Survival Training V",
+      "des": "Soldier HP↑"
+    },
+    "5011": {
+      "des2": "Squad 1 March Speed↑",
+      "id": 5011,
+      "name": "Lightning March I",
+      "des": "Squad 1 March Speed↑"
+    },
+    "6011": {
+      "des2": "Squad 2 March Speed↑",
+      "id": 6011,
+      "name": "Lightning March II",
+      "des": "Squad 2 March Speed↑"
+    },
+    "13001": {
+      "des2": "Max Infirmaries",
+      "id": 13001,
+      "name": "Extra Infirmaries",
+      "des": "Max Infirmaries"
+    },
+    "1001": {
+      "des2": "Building Construction Speed↑",
+      "id": 1001,
+      "name": "Rapid Construction I",
+      "des": "Building Construction Speed↑"
+    },
+    "17012": {
+      "des2": "Ranger Hero DMG↑",
+      "id": 17012,
+      "name": "Ranger: DMG I",
+      "des": "Ranger Hero DMG↑"
+    },
+    "13003": {
+      "des2": "Hero ATK↑ in PvP Battles (Defender)",
+      "id": 13003,
+      "name": "Counterattack I",
+      "des": "Hero ATK↑ in PvP Battles (Defender)"
+    },
+    "1011": {
+      "des2": "Research Speed↑",
+      "id": 1011,
+      "name": "Research Upgrade II",
+      "des": "Research Speed↑"
+    },
+    "2011": {
+      "des2": "Grain Gathering Speed",
+      "id": 2011,
+      "name": "Grain Gathering II",
+      "des": "Grain Gathering Speed"
+    },
+    "12015": {
+      "des2": "Hero DEF↑ in PvP Battles (Attacker)",
+      "id": 12015,
+      "name": "High Alert III",
+      "des": "Hero DEF↑ in PvP Battles (Attacker)"
+    },
+    "13008": {
+      "des2": "Hero HP↑ in PvP Battles (Defender)",
+      "id": 13008,
+      "name": "Burn the Boats II",
+      "des": "Hero HP↑ in PvP Battles (Defender)"
+    },
+    "5004": {
+      "des2": "Increases Squad 1 Hero DEF",
+      "id": 5004,
+      "name": "Load Training I",
+      "des": "Increases Squad 1 Hero DEF"
+    },
+    "6004": {
+      "des2": "Increases Squad 2 Hero DEF",
+      "id": 6004,
+      "name": "Load Training II",
+      "des": "Increases Squad 2 Hero DEF"
+    },
+    "7004": {
+      "des2": "Increases Squad 3 Hero DEF",
+      "id": 7004,
+      "name": "Load Training III",
+      "des": "Increases Squad 3 Hero DEF"
+    },
+    "8004": {
+      "des2": "Increases Squad 4 Hero DEF",
+      "id": 8004,
+      "name": "Load Training IV",
+      "des": "Increases Squad 4 Hero DEF"
+    },
+    "1004": {
+      "des2": "Research Speed↑",
+      "id": 1004,
+      "name": "Research Upgrade I",
+      "des": "Research Speed↑"
+    },
+    "2004": {
+      "des2": "Grain Gathering Speed",
+      "id": 2004,
+      "name": "Grain Gathering I",
+      "des": "Grain Gathering Speed"
+    },
+    "3004": {
+      "des2": "Warrior Hero DEF↑",
+      "id": 3004,
+      "name": "Warrior DEF I",
+      "des": "Warrior Hero DEF↑"
+    },
+    "4004": {
+      "des2": "Increases Soldier Load",
+      "id": 4004,
+      "name": "Load Training III",
+      "des": "Increases Soldier Load"
+    },
+    "18009": {
+      "des2": "Warlock Hero HP↑",
+      "id": 18009,
+      "name": "Warlock: HP II",
+      "des": "Warlock Hero HP↑"
+    },
+    "16003": {
+      "des2": "Warrior Hero DEF↑",
+      "id": 16003,
+      "name": "Warrior: DEF I",
+      "des": "Warrior Hero DEF↑"
+    },
+    "12005": {
+      "des2": "Barracks Limit",
+      "id": 12005,
+      "name": "Extra Barracks",
+      "des": "Barracks Limit"
+    },
+    "16018": {
+      "des2": "Warrior Hero CMD↑",
+      "id": 16018,
+      "name": "Warrior: CMD II",
+      "des": "Warrior Hero CMD↑"
+    },
+    "18019": {
+      "des2": "Warlock Hero HP↑",
+      "id": 18019,
+      "name": "Warlock: HP III",
+      "des": "Warlock Hero HP↑"
+    },
+    "17007": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' Damage Dealt in your team",
+      "id": 17007,
+      "name": "Ranger Synergy: DMG I",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' Damage Dealt in your team"
+    },
+    "17009": {
+      "des2": "Ranger Hero HP↑",
+      "id": 17009,
+      "name": "Ranger: HP II",
+      "des": "Ranger Hero HP↑"
+    },
+    "11001": {
+      "des2": "Soldier HP",
+      "id": 11001,
+      "name": "HP Boost I",
+      "des": "Soldier HP"
+    },
+    "17021": {
+      "des2": "Ranger Hero DEF↑",
+      "id": 17021,
+      "name": "Ranger: DEF III",
+      "des": "Ranger Hero DEF↑"
+    },
+    "12002": {
+      "des2": "Hero HP↑ in PvP Battles (Attacker)",
+      "id": 12002,
+      "name": "Bloody Battle I",
+      "des": "Hero HP↑ in PvP Battles (Attacker)"
+    },
+    "11016": {
+      "des2": "Soldier HP↑",
+      "id": 11016,
+      "name": "Survival Training VIII",
+      "des": "Soldier HP↑"
+    },
+    "17022": {
+      "des2": "Ranger Hero DMG↑",
+      "id": 17022,
+      "name": "Ranger: DMG II",
+      "des": "Ranger Hero DMG↑"
+    },
+    "9004": {
+      "des2": "[Alliance Duel] Event - Unlock Tier 4-6 Rewards",
+      "id": 9004,
+      "name": "Super Rewards",
+      "des": "Unlocks  Tier 4–6 rewards"
+    },
+    "10006": {
+      "des2": "Chance to reclaim 1 cargo upon a failed plunder defense",
+      "id": 10006,
+      "name": "Luck",
+      "des": "Chance to reclaim 1 cargo upon a failed plunder defense"
+    },
+    "13004": {
+      "des2": "Hero DEF↑ in PvP Battles (Defender)",
+      "id": 13004,
+      "name": "Defensive Stance I",
+      "des": "Hero DEF↑ in PvP Battles (Defender)"
+    },
+    "17010": {
+      "des2": "Ranger Hero ATK↑",
+      "id": 17010,
+      "name": "Ranger: ATK II",
+      "des": "Ranger Hero ATK↑"
+    },
+    "18007": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' Damage Dealt in your team",
+      "id": 18007,
+      "name": "Warlock Synergy: DMG I",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' Damage Dealt in your team"
+    },
+    "12001": {
+      "des2": "Increases Soldier Load",
+      "id": 12001,
+      "name": "Heavy Duty 1",
+      "des": "Increases Soldier Load"
+    },
+    "10003": {
+      "des2": "Increases Hero's HP/ATK/DEF when guarding their own Caravan",
+      "id": 10003,
+      "name": "Defense Mastery",
+      "des": "Increases Hero's HP/ATK/DEF when guarding their own Caravan"
+    },
+    "12016": {
+      "des2": "Enemy Troop Death Rate↑ in PvP",
+      "id": 12016,
+      "name": "Critical Strike I",
+      "des": "Enemy Troop Death Rate↑ in PvP"
+    },
+    "13002": {
+      "des2": "Hero HP↑ in PvP Battles (Defender)",
+      "id": 13002,
+      "name": "Burn the Boats I",
+      "des": "Hero HP↑ in PvP Battles (Defender)"
+    },
+    "18022": {
+      "des2": "Warlock Hero DMG↑",
+      "id": 18022,
+      "name": "Warlock: DMG II",
+      "des": "Warlock Hero DMG↑"
+    },
+    "11006": {
+      "des2": "Increases Soldier ATK",
+      "id": 11006,
+      "name": "Attack Training VII",
+      "des": "Increases Soldier ATK"
+    },
+    "13015": {
+      "des2": "Hero DEF↑ in PvP Battles (Defender)",
+      "id": 13015,
+      "name": "Defensive Stance III",
+      "des": "Hero DEF↑ in PvP Battles (Defender)"
+    },
+    "18005": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' ATK in your team",
+      "id": 18005,
+      "name": "Warlock Synergy: ATK I",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' ATK in your team"
+    },
+    "16019": {
+      "des2": "Warrior Hero HP↑",
+      "id": 16019,
+      "name": "Warrior: HP III",
+      "des": "Warrior Hero HP↑"
+    },
+    "16020": {
+      "des2": "Warrior Hero ATK↑",
+      "id": 16020,
+      "name": "Warrior: ATK III",
+      "des": "Warrior Hero ATK↑"
+    },
+    "11022": {
+      "des2": "Soldier DEF",
+      "id": 11022,
+      "name": "DEF Boost III",
+      "des": "Soldier DEF"
+    },
+    "1033": {
+      "des2": "Increases Healing Speed",
+      "id": 1033,
+      "name": "Quick Bandage III",
+      "des": "Increases Healing Speed"
+    },
+    "2033": {
+      "des2": "Herb Output↑",
+      "id": 2033,
+      "name": "Herb Output III",
+      "des": "Herb Output↑"
+    },
+    "13016": {
+      "des2": "Soldier Fatality Rate↓ in PvP",
+      "id": 13016,
+      "name": "Battlefield Veteran",
+      "des": "Soldier Fatality Rate↓ in PvP"
+    },
+    "11018": {
+      "des2": "Infirmary Capacity",
+      "id": 11018,
+      "name": "Infirmary Expansion I",
+      "des": "Infirmary Capacity"
+    },
+    "12011": {
+      "des2": "Increases soldier capacity in barracks",
+      "id": 12011,
+      "name": "Barracks Expansion",
+      "des": "Increases soldier capacity in barracks"
+    },
+    "12006": {
+      "des2": "Increases Training Capacity",
+      "id": 12006,
+      "name": "Training Grounds Expansion I",
+      "des": "Increases Training Capacity"
+    },
+    "13013": {
+      "des2": "Hero HP↑ in PvP Battles (Defender)",
+      "id": 13013,
+      "name": "Burn the Boats III",
+      "des": "Hero HP↑ in PvP Battles (Defender)"
+    },
+    "18021": {
+      "des2": "Warlock Hero DEF↑",
+      "id": 18021,
+      "name": "Warlock: DEF III",
+      "des": "Warlock Hero DEF↑"
+    },
+    "12003": {
+      "des2": "Hero ATK↑ in PvP Battles (Attacker)",
+      "id": 12003,
+      "name": "Rapid Assault I",
+      "des": "Hero ATK↑ in PvP Battles (Attacker)"
+    },
+    "5020": {
+      "des2": "Squad hero increases enemy troop Death Rate in PVP combat.",
+      "id": 5020,
+      "name": "Critical Strike I",
+      "des": "Squad hero increases enemy troop Death Rate in PVP combat."
+    },
+    "6020": {
+      "des2": "Squad hero increases enemy troop Death Rate in PVP combat.",
+      "id": 6020,
+      "name": "Critical Strike II",
+      "des": "Squad hero increases enemy troop Death Rate in PVP combat."
+    },
+    "7020": {
+      "des2": "Squad hero increases enemy troop Death Rate in PVP combat.",
+      "id": 7020,
+      "name": "Critical Strike III",
+      "des": "Squad hero increases enemy troop Death Rate in PVP combat."
+    },
+    "8020": {
+      "des2": "Squad hero increases enemy troop Death Rate in PVP combat.",
+      "id": 8020,
+      "name": "Critical Strike IV",
+      "des": "Squad hero increases enemy troop Death Rate in PVP combat."
+    },
+    "1020": {
+      "des2": "Increases Training Speed",
+      "id": 1020,
+      "name": "Training Specialization IV",
+      "des": "Increases Training Speed"
+    },
+    "2020": {
+      "des2": "Herb Gathering Speed",
+      "id": 2020,
+      "name": "Herb Gathering IV",
+      "des": "Herb Gathering Speed"
+    },
+    "3020": {
+      "des2": "Ranger Hero HP↑",
+      "id": 3020,
+      "name": "Ranger HP II",
+      "des": "Ranger Hero HP↑"
+    },
+    "4020": {
+      "des2": "Increases Soldier Load",
+      "id": 4020,
+      "name": "Load Training VII",
+      "des": "Increases Soldier Load"
+    },
+    "13011": {
+      "des2": "Increase protection cap for Grain, Timber, and Herb",
+      "id": 13011,
+      "name": "Resource Protection",
+      "des": "Increase protection cap for Grain, Timber, and Herb"
+    },
+    "2034": {
+      "des2": "Grain Gathering Speed",
+      "id": 2034,
+      "name": "Grain Gathering III",
+      "des": "Grain Gathering Speed"
+    },
+    "1034": {
+      "des2": "Increases Training Speed",
+      "id": 1034,
+      "name": "Training Specialization III",
+      "des": "Increases Training Speed"
+    },
+    "18017": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' Damage Dealt in your team",
+      "id": 18017,
+      "name": "Warlock Synergy: DMG II",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' Damage Dealt in your team"
+    },
+    "1031": {
+      "des2": "Increases soldier capacity in barracks",
+      "id": 1031,
+      "name": "Barracks Expansion III",
+      "des": "Increases soldier capacity in barracks"
+    },
+    "2031": {
+      "des2": "Grain Output↑",
+      "id": 2031,
+      "name": "Grain Output III",
+      "des": "Grain Output↑"
+    },
+    "18020": {
+      "des2": "Warlock Hero ATK↑",
+      "id": 18020,
+      "name": "Warlock: ATK III",
+      "des": "Warlock Hero ATK↑"
+    },
+    "6010": {
+      "des2": "Squad 2 March Speed to Resource Spots↑",
+      "id": 6010,
+      "name": "Gathering March II",
+      "des": "Squad 2 March Speed to Resource Spots↑"
+    },
+    "5010": {
+      "des2": "Squad 1 March Speed to Resource Spots↑",
+      "id": 5010,
+      "name": "Gathering March I",
+      "des": "Squad 1 March Speed to Resource Spots↑"
+    },
+    "8010": {
+      "des2": "Squad 4 March Speed to Resource Spots↑",
+      "id": 8010,
+      "name": "Gathering March IV",
+      "des": "Squad 4 March Speed to Resource Spots↑"
+    },
+    "7010": {
+      "des2": "Squad 3 March Speed to Resource Spots↑",
+      "id": 7010,
+      "name": "Gathering March III",
+      "des": "Squad 3 March Speed to Resource Spots↑"
+    },
+    "11003": {
+      "des2": "Soldier DEF",
+      "id": 11003,
+      "name": "DEF Boost I",
+      "des": "Soldier DEF"
+    },
+    "13014": {
+      "des2": "Hero ATK↑ in PvP Battles (Defender)",
+      "id": 13014,
+      "name": "Counterattack III",
+      "des": "Hero ATK↑ in PvP Battles (Defender)"
+    },
+    "11008": {
+      "des2": "Increases Training Speed",
+      "id": 11008,
+      "name": "Training Specialization I",
+      "des": "Increases Training Speed"
+    },
+    "11012": {
+      "des2": "Soldier DEF",
+      "id": 11012,
+      "name": "DEF Boost II",
+      "des": "Soldier DEF"
+    },
+    "3022": {
+      "des2": "Warlock Hero ATK↑",
+      "id": 3022,
+      "name": "Warlock ATK II",
+      "des": "Warlock Hero ATK↑"
+    },
+    "1022": {
+      "des2": "Building Construction Speed↑",
+      "id": 1022,
+      "name": "Rapid Construction IV",
+      "des": "Building Construction Speed↑"
+    },
+    "2022": {
+      "des2": "Grain Output↑",
+      "id": 2022,
+      "name": "Grain Output V",
+      "des": "Grain Output↑"
+    },
+    "17020": {
+      "des2": "Ranger Hero ATK↑",
+      "id": 17020,
+      "name": "Ranger: ATK III",
+      "des": "Ranger Hero ATK↑"
+    },
+    "16001": {
+      "des2": "Warrior Hero HP↑",
+      "id": 16001,
+      "name": "Warrior: HP I",
+      "des": "Warrior Hero HP↑"
+    },
+    "16021": {
+      "des2": "Warrior Hero DEF↑",
+      "id": 16021,
+      "name": "Warrior: DEF III",
+      "des": "Warrior Hero DEF↑"
+    },
+    "2010": {
+      "des2": "Herb Output↑",
+      "id": 2010,
+      "name": "Herb Output II",
+      "des": "Herb Output↑"
+    },
+    "1010": {
+      "des2": "Increases Training Capacity",
+      "id": 1010,
+      "name": "Training Grounds Expansion II",
+      "des": "Increases Training Capacity"
+    },
+    "3013": {
+      "des2": "Warrior Hero DMG↑",
+      "id": 3013,
+      "name": "Warrior Mastery II",
+      "des": "Warrior Hero DMG↑"
+    },
+    "3010": {
+      "des2": "Warlock Hero ATK↑",
+      "id": 3010,
+      "name": "Warlock ATK I",
+      "des": "Warlock Hero ATK↑"
+    },
+    "1013": {
+      "des2": "Increases Training Speed",
+      "id": 1013,
+      "name": "Training Specialization II",
+      "des": "Increases Training Speed"
+    },
+    "2013": {
+      "des2": "Herb Gathering Speed",
+      "id": 2013,
+      "name": "Herb Gathering II",
+      "des": "Herb Gathering Speed"
+    },
+    "16016": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' DEF in your team",
+      "id": 16016,
+      "name": "Warrior Synergy: DEF II",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' DEF in your team"
+    },
+    "12008": {
+      "des2": "Hero HP↑ in PvP Battles (Attacker)",
+      "id": 12008,
+      "name": "Bloody Battle II",
+      "des": "Hero HP↑ in PvP Battles (Attacker)"
+    },
+    "9013": {
+      "des2": "[Alliance Duel] Event - Survivor Recruit Points increased",
+      "id": 9013,
+      "name": "Survivor Recruitment Points",
+      "des": "Increases Survivor Recruitment Points"
+    },
+    "7013": {
+      "des2": "Hero ATK↑ when Squad 3 defends a city",
+      "id": 7013,
+      "name": "Counterattack III",
+      "des": "Hero ATK↑ when Squad 3 defends a city"
+    },
+    "8013": {
+      "des2": "Hero ATK↑ when Squad 4 defends a city",
+      "id": 8013,
+      "name": "Counterattack IV",
+      "des": "Hero ATK↑ when Squad 4 defends a city"
+    },
+    "2029": {
+      "des2": "Timber Protection Limit↑",
+      "id": 2029,
+      "name": "Timber Protection II",
+      "des": "Timber Protection Limit↑"
+    },
+    "1029": {
+      "des2": "Soldier Fatality Rate↓ in PvP",
+      "id": 1029,
+      "name": "Battlefield Veteran",
+      "des": "Soldier Fatality Rate↓ in PvP"
+    },
+    "11021": {
+      "des2": "Soldier ATK",
+      "id": 11021,
+      "name": "ATK Boost III",
+      "des": "Soldier ATK"
+    },
+    "3019": {
+      "des2": "Ranger Hero DEF↑",
+      "id": 3019,
+      "name": "Ranger DEF II",
+      "des": "Ranger Hero DEF↑"
+    },
+    "18018": {
+      "des2": "Warlock Hero CMD↑",
+      "id": 18018,
+      "name": "Warlock: CMD II",
+      "des": "Warlock Hero CMD↑"
+    },
+    "11015": {
+      "des2": "Increases Soldier ATK",
+      "id": 11015,
+      "name": "Attack Training VIII",
+      "des": "Increases Soldier ATK"
+    },
+    "18016": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' DEF in your team",
+      "id": 18016,
+      "name": "Warlock Synergy: DEF II",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' DEF in your team"
+    },
+    "2008": {
+      "des2": "Grain Output↑",
+      "id": 2008,
+      "name": "Grain Output II",
+      "des": "Grain Output↑"
+    },
+    "3008": {
+      "des2": "Ranger Hero HP↑",
+      "id": 3008,
+      "name": "Ranger HP I",
+      "des": "Ranger Hero HP↑"
+    },
+    "4008": {
+      "des2": "Increases Soldier Load",
+      "id": 4008,
+      "name": "Load Training IV",
+      "des": "Increases Soldier Load"
+    },
+    "5008": {
+      "des2": "Squad 1 March Speed to Monsters↑",
+      "id": 5008,
+      "name": "Bounty Hunter I",
+      "des": "Squad 1 March Speed to Monsters↑"
+    },
+    "6008": {
+      "des2": "Squad 2 March Speed to Monsters↑",
+      "id": 6008,
+      "name": "Bounty Hunter II",
+      "des": "Squad 2 March Speed to Monsters↑"
+    },
+    "7008": {
+      "des2": "Squad 3 March Speed to Monsters↑",
+      "id": 7008,
+      "name": "Bounty Hunter III",
+      "des": "Squad 3 March Speed to Monsters↑"
+    },
+    "8008": {
+      "des2": "Squad 4 March Speed to Monsters↑",
+      "id": 8008,
+      "name": "Bounty Hunter IV",
+      "des": "Squad 4 March Speed to Monsters↑"
+    },
+    "9008": {
+      "des2": "[Alliance Duel] Event - Soldier Training Points increased",
+      "id": 9008,
+      "name": "Training Points",
+      "des": "Soldier Training Points↑"
+    },
+    "8012": {
+      "des2": "Hero ATK↑ when Squad 4 attacks a city",
+      "id": 8012,
+      "name": "Rapid Assault IV",
+      "des": "Hero ATK↑ when Squad 4 attacks a city"
+    },
+    "7012": {
+      "des2": "Hero ATK↑ when Squad 3 attacks a city",
+      "id": 7012,
+      "name": "Rapid Assault III",
+      "des": "Hero ATK↑ when Squad 3 attacks a city"
+    },
+    "6012": {
+      "des2": "Hero ATK↑ when Squad 2 attacks a city",
+      "id": 6012,
+      "name": "Rapid Assault II",
+      "des": "Hero ATK↑ when Squad 2 attacks a city"
+    },
+    "5012": {
+      "des2": "Hero ATK↑ when Squad 1 attacks a city",
+      "id": 5012,
+      "name": "Rapid Assault I",
+      "des": "Hero ATK↑ when Squad 1 attacks a city"
+    },
+    "4012": {
+      "des2": "Increases Soldier Load",
+      "id": 4012,
+      "name": "Load Training V",
+      "des": "Increases Soldier Load"
+    },
+    "3012": {
+      "des2": "Warlock Hero HP↑",
+      "id": 3012,
+      "name": "Warlock HP I",
+      "des": "Warlock Hero HP↑"
+    },
+    "2012": {
+      "des2": "Timber Gathering Speed",
+      "id": 2012,
+      "name": "Timber Gathering II",
+      "des": "Timber Gathering Speed"
+    },
+    "1008": {
+      "des2": "Building Construction Speed↑",
+      "id": 1008,
+      "name": "Rapid Construction II",
+      "des": "Building Construction Speed↑"
+    },
+    "18015": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' ATK in your team",
+      "id": 18015,
+      "name": "Warlock Synergy: ATK II",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' ATK in your team"
+    },
+    "18014": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' HP in your team",
+      "id": 18014,
+      "name": "Warlock Synergy: HP II",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' HP in your team"
+    },
+    "10009": {
+      "des2": "Unlock Special Caravans",
+      "id": 10009,
+      "name": "Pumpkin Carriage",
+      "des": "When refreshing with a Trade Agreement, there's a chance to get a Pumpkin Wagon, which can be plundered once upon a failed defense."
+    },
+    "17013": {
+      "des2": "Ranger Hero gains additional DMG↓ in battle",
+      "id": 17013,
+      "name": "Ranger: Ultimate Guard I",
+      "des": "Ranger Hero gains additional DMG↓ in battle"
+    },
+    "18001": {
+      "des2": "Warlock Hero HP↑",
+      "id": 18001,
+      "name": "Warlock: HP I",
+      "des": "Warlock Hero HP↑"
+    },
+    "9014": {
+      "des2": "All Points↑ (Excluding Diamond Purchases)",
+      "id": 9014,
+      "name": "Arena Master",
+      "des": "All Points↑ (Excluding Diamond Purchases)"
+    },
+    "18012": {
+      "des2": "Warlock Hero DMG↑",
+      "id": 18012,
+      "name": "Warlock: DMG I",
+      "des": "Warlock Hero DMG↑"
+    },
+    "11020": {
+      "des2": "Soldier HP",
+      "id": 11020,
+      "name": "HP Boost III",
+      "des": "Soldier HP"
+    },
+    "6014": {
+      "des2": "Hero DEF↑ when Squad 2 attacks a city",
+      "id": 6014,
+      "name": "High Alert II",
+      "des": "Hero DEF↑ when Squad 2 attacks a city"
+    },
+    "5014": {
+      "des2": "Hero DEF↑ when Squad 1 attacks a city",
+      "id": 5014,
+      "name": "High Alert I",
+      "des": "Hero DEF↑ when Squad 1 attacks a city"
+    },
+    "8014": {
+      "des2": "Hero DEF↑ when Squad 4 attacks a city",
+      "id": 8014,
+      "name": "High Alert IV",
+      "des": "Hero DEF↑ when Squad 4 attacks a city"
+    },
+    "7014": {
+      "des2": "Hero DEF↑ when Squad 3 attacks a city",
+      "id": 7014,
+      "name": "High Alert III",
+      "des": "Hero DEF↑ when Squad 3 attacks a city"
+    },
+    "2014": {
+      "des2": "Lumberyard Limit",
+      "id": 2014,
+      "name": "Extra Lumberyard",
+      "des": "Lumberyard Limit"
+    },
+    "1014": {
+      "des2": "Training Grounds Limit",
+      "id": 1014,
+      "name": "Extra Training Grounds",
+      "des": "Training Grounds Limit"
+    },
+    "4014": {
+      "des2": "Increases Soldier DEF",
+      "id": 4014,
+      "name": "DEF Drill VI",
+      "des": "Increases Soldier DEF"
+    },
+    "3014": {
+      "des2": "Warrior Hero ATK↑",
+      "id": 3014,
+      "name": "Warrior ATK II",
+      "des": "Warrior Hero ATK↑"
+    },
+    "5013": {
+      "des2": "Hero ATK↑ when Squad 1 defends a city",
+      "id": 5013,
+      "name": "Counterattack I",
+      "des": "Hero ATK↑ when Squad 1 defends a city"
+    },
+    "9007": {
+      "des2": "[Alliance Duel] Event - Tech Might Points increased",
+      "id": 9007,
+      "name": "Technology Points",
+      "des": "Tech Might Points↑"
+    },
+    "8007": {
+      "des2": "Squad 4 Load↑",
+      "id": 8007,
+      "name": "Heavy Duty 4",
+      "des": "Squad 4 Load↑"
+    },
+    "7007": {
+      "des2": "Squad 3 Load↑",
+      "id": 7007,
+      "name": "Heavy Duty 3",
+      "des": "Squad 3 Load↑"
+    },
+    "3024": {
+      "des2": "Warlock Hero HP↑",
+      "id": 3024,
+      "name": "Warlock HP II",
+      "des": "Warlock Hero HP↑"
+    },
+    "5007": {
+      "des2": "Squad 1 Load↑",
+      "id": 5007,
+      "name": "Heavy Duty 1",
+      "des": "Squad 1 Load↑"
+    },
+    "1024": {
+      "des2": "Increases Training Capacity",
+      "id": 1024,
+      "name": "Training Grounds Expansion IV",
+      "des": "Increases Training Capacity"
+    },
+    "2024": {
+      "des2": "Herb Output↑",
+      "id": 2024,
+      "name": "Herb Output V",
+      "des": "Herb Output↑"
+    },
+    "16014": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' HP in your team",
+      "id": 16014,
+      "name": "Warrior Synergy: HP II",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' HP in your team"
+    },
+    "18010": {
+      "des2": "Warlock Hero ATK↑",
+      "id": 18010,
+      "name": "Warlock: ATK II",
+      "des": "Warlock Hero ATK↑"
+    },
+    "16006": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' DEF in your team",
+      "id": 16006,
+      "name": "Warrior Synergy: DEF I",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' DEF in your team"
+    },
+    "2037": {
+      "des2": "Grain Protection Limit↑",
+      "id": 2037,
+      "name": "Grain Protection I",
+      "des": "Grain Protection Limit↑"
+    },
+    "16022": {
+      "des2": "Warrior Hero DMG↑",
+      "id": 16022,
+      "name": "Warrior: DMG II",
+      "des": "Warrior Hero DMG↑"
+    },
+    "18006": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' DEF in your team",
+      "id": 18006,
+      "name": "Warlock Synergy: DEF I",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' DEF in your team"
+    },
+    "2039": {
+      "des2": "Herb Protection Limit↑",
+      "id": 2039,
+      "name": "Herb Protection I",
+      "des": "Herb Protection Limit↑"
+    },
+    "18004": {
+      "des2": "Each Warlock Hero deployed in battle increases all Warlock Heroes' HP in your team",
+      "id": 18004,
+      "name": "Warlock Synergy: HP I",
+      "des": "Each Warlock Hero deployed in battle increases all Warlock Heroes' HP in your team"
+    },
+    "16008": {
+      "des2": "Warrior Hero CMD↑",
+      "id": 16008,
+      "name": "Warrior: CMD I",
+      "des": "Warrior Hero CMD↑"
+    },
+    "18002": {
+      "des2": "Warlock Hero ATK↑",
+      "id": 18002,
+      "name": "Warlock: ATK I",
+      "des": "Warlock Hero ATK↑"
+    },
+    "18013": {
+      "des2": "Warlock Hero gains additional DMG↓ in battle",
+      "id": 18013,
+      "name": "Warlock: Ultimate Guard I",
+      "des": "Warlock Hero gains additional DMG↓ in battle"
+    },
+    "3025": {
+      "des2": "Hero DMG Dealt↑",
+      "id": 3025,
+      "name": "Hero DMG",
+      "des": "Hero DMG Dealt↑"
+    },
+    "2025": {
+      "des2": "Grain Gathering Speed",
+      "id": 2025,
+      "name": "Grain Gathering V",
+      "des": "Grain Gathering Speed"
+    },
+    "1025": {
+      "des2": "Research Speed↑",
+      "id": 1025,
+      "name": "Research Upgrade IV",
+      "des": "Research Speed↑"
+    },
+    "1012": {
+      "des2": "Increases Healing Speed",
+      "id": 1012,
+      "name": "Quick Bandage II",
+      "des": "Increases Healing Speed"
+    },
+    "7009": {
+      "des2": "Squad 3 March Speed to Doctors↑",
+      "id": 7009,
+      "name": "Decapitation Tactics III",
+      "des": "Squad 3 March Speed to Doctors↑"
+    },
+    "1026": {
+      "des2": "Increases Healing Speed",
+      "id": 1026,
+      "name": "Quick Bandage V",
+      "des": "Increases Healing Speed"
+    },
+    "2026": {
+      "des2": "Timber Gathering Speed",
+      "id": 2026,
+      "name": "Timber Gathering V",
+      "des": "Timber Gathering Speed"
+    },
+    "3026": {
+      "des2": "Hero ATK↑",
+      "id": 3026,
+      "name": "Hero ATK",
+      "des": "Hero ATK↑"
+    },
+    "1019": {
+      "des2": "Increases Healing Speed",
+      "id": 1019,
+      "name": "Quick Bandage IV",
+      "des": "Increases Healing Speed"
+    },
+    "2023": {
+      "des2": "Timber Output↑",
+      "id": 2023,
+      "name": "Timber Output V",
+      "des": "Timber Output↑"
+    },
+    "1023": {
+      "des2": "Infirmary Capacity",
+      "id": 1023,
+      "name": "Infirmary Expansion IV",
+      "des": "Infirmary Capacity"
+    },
+    "4019": {
+      "des2": "Soldier HP↑",
+      "id": 4019,
+      "name": "Survival Training VII",
+      "des": "Soldier HP↑"
+    },
+    "5019": {
+      "des2": "Squad 1 Hero Energy DMG↑",
+      "id": 5019,
+      "name": "Energy DMG Mastery I",
+      "des": "Squad 1 Hero Energy DMG↑"
+    },
+    "17018": {
+      "des2": "Ranger Hero CMD↑",
+      "id": 17018,
+      "name": "Ranger: CMD II",
+      "des": "Ranger Hero CMD↑"
+    },
+    "1003": {
+      "des2": "Increases Training Capacity",
+      "id": 1003,
+      "name": "Training Grounds Expansion I",
+      "des": "Increases Training Capacity"
+    },
+    "8019": {
+      "des2": "Squad 4 Hero Energy DMG↑",
+      "id": 8019,
+      "name": "Energy DMG Mastery IV",
+      "des": "Squad 4 Hero Energy DMG↑"
+    },
+    "17017": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' Damage Dealt in your team",
+      "id": 17017,
+      "name": "Ranger Synergy: DMG II",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' Damage Dealt in your team"
+    },
+    "4003": {
+      "des2": "Soldier HP↑",
+      "id": 4003,
+      "name": "Survival Training III",
+      "des": "Soldier HP↑"
+    },
+    "5003": {
+      "des2": "Increases Squad 1 Hero ATK",
+      "id": 5003,
+      "name": "Assault Drill I",
+      "des": "Increases Squad 1 Hero ATK"
+    },
+    "2003": {
+      "des2": "Herb Output↑",
+      "id": 2003,
+      "name": "Herb Output I",
+      "des": "Herb Output↑"
+    },
+    "3003": {
+      "des2": "Warrior Hero HP↑",
+      "id": 3003,
+      "name": "Warrior HP I",
+      "des": "Warrior Hero HP↑"
+    },
+    "17016": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' DEF in your team",
+      "id": 17016,
+      "name": "Ranger Synergy: DEF II",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' DEF in your team"
+    },
+    "17014": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' HP in your team",
+      "id": 17014,
+      "name": "Ranger Synergy: HP II",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' HP in your team"
+    },
+    "17015": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' ATK in your team",
+      "id": 17015,
+      "name": "Ranger Synergy: ATK II",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' ATK in your team"
+    },
+    "8009": {
+      "des2": "Squad 4 March Speed to Doctors↑",
+      "id": 8009,
+      "name": "Decapitation Tactics IV",
+      "des": "Squad 4 March Speed to Doctors↑"
+    },
+    "12010": {
+      "des2": "Hero DEF↑ in PvP Battles (Attacker)",
+      "id": 12010,
+      "name": "High Alert II",
+      "des": "Hero DEF↑ in PvP Battles (Attacker)"
+    },
+    "17006": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' DEF in your team",
+      "id": 17006,
+      "name": "Ranger Synergy: DEF I",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' DEF in your team"
+    },
+    "17005": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' ATK in your team",
+      "id": 17005,
+      "name": "Ranger Synergy: ATK I",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' ATK in your team"
+    },
+    "6001": {
+      "des2": "Squad 2 DMG to Monsters↑",
+      "id": 6001,
+      "name": "Blight Slayer II",
+      "des": "Squad 2 DMG to Monsters↑"
+    },
+    "4016": {
+      "des2": "Increases Soldier Load",
+      "id": 4016,
+      "name": "Load Training VI",
+      "des": "Increases Soldier Load"
+    },
+    "3016": {
+      "des2": "Warrior Hero HP↑",
+      "id": 3016,
+      "name": "Warrior HP II",
+      "des": "Warrior Hero HP↑"
+    },
+    "2016": {
+      "des2": "Timber Output↑",
+      "id": 2016,
+      "name": "Timber Output IV",
+      "des": "Timber Output↑"
+    },
+    "1016": {
+      "des2": "Infirmary Capacity",
+      "id": 1016,
+      "name": "Infirmary Expansion III",
+      "des": "Infirmary Capacity"
+    },
+    "11013": {
+      "des2": "Soldier Morale↑",
+      "id": 11013,
+      "name": "Morale",
+      "des": "Soldier Morale↑"
+    },
+    "17003": {
+      "des2": "Ranger Hero DEF↑",
+      "id": 17003,
+      "name": "Ranger: DEF I",
+      "des": "Ranger Hero DEF↑"
+    },
+    "12009": {
+      "des2": "Hero ATK↑ in PvP Battles (Attacker)",
+      "id": 12009,
+      "name": "Rapid Assault II",
+      "des": "Hero ATK↑ in PvP Battles (Attacker)"
+    },
+    "11017": {
+      "des2": "Increases Healing Speed",
+      "id": 11017,
+      "name": "Quick Bandage I",
+      "des": "Increases Healing Speed"
+    },
+    "3015": {
+      "des2": "Warrior Hero DEF↑",
+      "id": 3015,
+      "name": "Warrior DEF II",
+      "des": "Warrior Hero DEF↑"
+    },
+    "4015": {
+      "des2": "Soldier HP↑",
+      "id": 4015,
+      "name": "Survival Training VI",
+      "des": "Soldier HP↑"
+    },
+    "5015": {
+      "des2": "Hero DEF↑ when Squad 1 defends a city",
+      "id": 5015,
+      "name": "Defensive Stance I",
+      "des": "Hero DEF↑ when Squad 1 defends a city"
+    },
+    "6015": {
+      "des2": "Hero DEF↑ when Squad 2 defends a city",
+      "id": 6015,
+      "name": "Defensive Stance II",
+      "des": "Hero DEF↑ when Squad 2 defends a city"
+    },
+    "17001": {
+      "des2": "Ranger Hero HP↑",
+      "id": 17001,
+      "name": "Ranger: HP I",
+      "des": "Ranger Hero HP↑"
+    },
+    "1028": {
+      "des2": "Increases soldier capacity in barracks",
+      "id": 1028,
+      "name": "Barracks Expansion I",
+      "des": "Increases soldier capacity in barracks"
+    },
+    "1015": {
+      "des2": "Building Construction Speed↑",
+      "id": 1015,
+      "name": "Rapid Construction III",
+      "des": "Building Construction Speed↑"
+    },
+    "2015": {
+      "des2": "Grain Output↑",
+      "id": 2015,
+      "name": "Grain Output IV",
+      "des": "Grain Output↑"
+    },
+    "10005": {
+      "des2": "Chance to seize 1 extra cargo upon plunder victory",
+      "id": 10005,
+      "name": "Plunder",
+      "des": "Chance to seize 1 extra cargo upon a successful plunder attack"
+    },
+    "16023": {
+      "des2": "Warrior Hero gains additional DMG↓ in battle",
+      "id": 16023,
+      "name": "Warrior: Ultimate Guard II",
+      "des": "Warrior Hero gains additional DMG↓ in battle"
+    },
+    "16017": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' Damage Dealt in your team",
+      "id": 16017,
+      "name": "Warrior Synergy: DMG II",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' Damage Dealt in your team"
+    },
+    "11011": {
+      "des2": "Soldier ATK",
+      "id": 11011,
+      "name": "ATK Boost II",
+      "des": "Soldier ATK"
+    },
+    "7015": {
+      "des2": "Hero DEF↑ when Squad 3 defends a city",
+      "id": 7015,
+      "name": "Defensive Stance III",
+      "des": "Hero DEF↑ when Squad 3 defends a city"
+    },
+    "8015": {
+      "des2": "Hero DEF↑ when Squad 4 defends a city",
+      "id": 8015,
+      "name": "Defensive Stance IV",
+      "des": "Hero DEF↑ when Squad 4 defends a city"
+    },
+    "16007": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' Damage Dealt in your team",
+      "id": 16007,
+      "name": "Warrior Synergy: DMG I",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' Damage Dealt in your team"
+    },
+    "16012": {
+      "des2": "Warrior Hero DMG↑",
+      "id": 16012,
+      "name": "Warrior: DMG I",
+      "des": "Warrior Hero DMG↑"
+    },
+    "16011": {
+      "des2": "Warrior Hero DEF↑",
+      "id": 16011,
+      "name": "Warrior: DEF II",
+      "des": "Warrior Hero DEF↑"
+    },
+    "16010": {
+      "des2": "Warrior Hero ATK↑",
+      "id": 16010,
+      "name": "Warrior: ATK II",
+      "des": "Warrior Hero ATK↑"
+    },
+    "4013": {
+      "des2": "Increases Soldier ATK",
+      "id": 4013,
+      "name": "Attack Training VI",
+      "des": "Increases Soldier ATK"
+    },
+    "18003": {
+      "des2": "Warlock Hero DEF↑",
+      "id": 18003,
+      "name": "Warlock: DEF I",
+      "des": "Warlock Hero DEF↑"
+    },
+    "8016": {
+      "des2": "Hero HP↑ when Squad 4 attacks a city",
+      "id": 8016,
+      "name": "Bloody Battle IV",
+      "des": "Hero HP↑ when Squad 4 attacks a city"
+    },
+    "7016": {
+      "des2": "Hero HP↑ when Squad 3 attacks a city",
+      "id": 7016,
+      "name": "Bloody Battle III",
+      "des": "Hero HP↑ when Squad 3 attacks a city"
+    },
+    "6016": {
+      "des2": "Hero HP↑ when Squad 2 attacks a city",
+      "id": 6016,
+      "name": "Bloody Battle II",
+      "des": "Hero HP↑ when Squad 2 attacks a city"
+    },
+    "5016": {
+      "des2": "Hero HP↑ when Squad 1 attacks a city",
+      "id": 5016,
+      "name": "Bloody Battle I",
+      "des": "Hero HP↑ when Squad 1 attacks a city"
+    },
+    "16013": {
+      "des2": "Warrior Hero gains additional DMG↓ in battle",
+      "id": 16013,
+      "name": "Warrior: Ultimate Guard I",
+      "des": "Warrior Hero gains additional DMG↓ in battle"
+    },
+    "16005": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' ATK in your team",
+      "id": 16005,
+      "name": "Warrior Synergy: ATK I",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' ATK in your team"
+    },
+    "8011": {
+      "des2": "Squad 4 March Speed↑",
+      "id": 8011,
+      "name": "Lightning March IV",
+      "des": "Squad 4 March Speed↑"
+    },
+    "16002": {
+      "des2": "Warrior Hero ATK↑",
+      "id": 16002,
+      "name": "Warrior: ATK I",
+      "des": "Warrior Hero ATK↑"
+    },
+    "13012": {
+      "des2": "Overall March Speed↑",
+      "id": 13012,
+      "name": "Lightning March I",
+      "des": "Overall March Speed↑"
+    },
+    "13010": {
+      "des2": "Hero DEF↑ in PvP Battles (Defender)",
+      "id": 13010,
+      "name": "Defensive Stance II",
+      "des": "Hero DEF↑ in PvP Battles (Defender)"
+    },
+    "13009": {
+      "des2": "Hero ATK↑ in PvP Battles (Defender)",
+      "id": 13009,
+      "name": "Counterattack II",
+      "des": "Hero ATK↑ in PvP Battles (Defender)"
+    },
+    "16004": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' HP in your team",
+      "id": 16004,
+      "name": "Warrior Synergy: HP I",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' HP in your team"
+    },
+    "13006": {
+      "des2": "Infirmary Capacity",
+      "id": 13006,
+      "name": "Infirmary Expansion I",
+      "des": "Infirmary Capacity"
+    },
+    "13005": {
+      "des2": "Reduces soldier casualties in Barracks when your town is breached",
+      "id": 13005,
+      "name": "Fortifications",
+      "des": "Reduces soldier casualties in Barracks when your town is breached"
+    },
+    "12014": {
+      "des2": "Hero ATK↑ in PvP Battles (Attacker)",
+      "id": 12014,
+      "name": "Rapid Assault III",
+      "des": "Hero ATK↑ in PvP Battles (Attacker)"
+    },
+    "11023": {
+      "des2": "Unlocks Lv.10 Soldier Training",
+      "id": 11023,
+      "name": "Lv.10 Soldier",
+      "des": "Unlocks Lv.10 Soldier Training"
+    },
+    "11007": {
+      "des2": "Soldier HP↑",
+      "id": 11007,
+      "name": "Survival Training VII",
+      "des": "Soldier HP↑"
+    },
+    "12013": {
+      "des2": "Hero HP↑ in PvP Battles (Attacker)",
+      "id": 12013,
+      "name": "Bloody Battle III",
+      "des": "Hero HP↑ in PvP Battles (Attacker)"
+    },
+    "12012": {
+      "des2": "Overall March Speed↑",
+      "id": 12012,
+      "name": "Lightning March I",
+      "des": "Overall March Speed↑"
+    },
+    "17008": {
+      "des2": "Ranger Hero CMD↑",
+      "id": 17008,
+      "name": "Ranger: CMD I",
+      "des": "Ranger Hero CMD↑"
+    },
+    "2036": {
+      "des2": "Herb Gathering Speed",
+      "id": 2036,
+      "name": "Herb Gathering III",
+      "des": "Herb Gathering Speed"
+    },
+    "10002": {
+      "des2": "Increases Hero's HP/ATK/DEF when plundering others' Caravans",
+      "id": 10002,
+      "name": "Plunder Mastery",
+      "des": "Increases Hero's HP/ATK/DEF when plundering others' Caravans"
+    },
+    "17002": {
+      "des2": "Ranger Hero ATK↑",
+      "id": 17002,
+      "name": "Ranger: ATK I",
+      "des": "Ranger Hero ATK↑"
+    },
+    "12007": {
+      "des2": "Increases Training Speed",
+      "id": 12007,
+      "name": "Training Specialization I",
+      "des": "Increases Training Speed"
+    },
+    "12004": {
+      "des2": "Hero DEF↑ in PvP Battles (Attacker)",
+      "id": 12004,
+      "name": "High Alert I",
+      "des": "Hero DEF↑ in PvP Battles (Attacker)"
+    },
+    "11019": {
+      "des2": "Hero DMG Taken↓",
+      "id": 11019,
+      "name": "Survival Skills",
+      "des": "Hero DMG Taken↓"
+    },
+    "11014": {
+      "des2": "Increases Soldier DEF",
+      "id": 11014,
+      "name": "DEF Drill VIII",
+      "des": "Increases Soldier DEF"
+    },
+    "16015": {
+      "des2": "Each Warrior Hero deployed in battle increases all Warrior Heroes' ATK in your team",
+      "id": 16015,
+      "name": "Warrior Synergy: ATK II",
+      "des": "Each Warrior Hero deployed in battle increases all Warrior Heroes' ATK in your team"
+    },
+    "5018": {
+      "des2": "Squad 1 Hero Physical DMG↑",
+      "id": 5018,
+      "name": "Physical DMG Mastery I",
+      "des": "Squad 1 Hero Physical DMG↑"
+    },
+    "4018": {
+      "des2": "Increases Soldier DEF",
+      "id": 4018,
+      "name": "DEF Drill VII",
+      "des": "Increases Soldier DEF"
+    },
+    "3018": {
+      "des2": "Ranger Hero ATK↑",
+      "id": 3018,
+      "name": "Ranger ATK II",
+      "des": "Ranger Hero ATK↑"
+    },
+    "2018": {
+      "des2": "Grain Gathering Speed",
+      "id": 2018,
+      "name": "Grain Gathering IV",
+      "des": "Grain Gathering Speed"
+    },
+    "11010": {
+      "des2": "Soldier HP",
+      "id": 11010,
+      "name": "HP Boost II",
+      "des": "Soldier HP"
+    },
+    "8018": {
+      "des2": "Squad 4 Hero Physical DMG↑",
+      "id": 8018,
+      "name": "Physical DMG Mastery IV",
+      "des": "Squad 4 Hero Physical DMG↑"
+    },
+    "7018": {
+      "des2": "Squad 3 Hero Physical DMG↑",
+      "id": 7018,
+      "name": "Physical DMG Mastery III",
+      "des": "Squad 3 Hero Physical DMG↑"
+    },
+    "6018": {
+      "des2": "Squad 2 Hero Physical DMG↑",
+      "id": 6018,
+      "name": "Physical DMG Mastery II",
+      "des": "Squad 2 Hero Physical DMG↑"
+    },
+    "11009": {
+      "des2": "Increases Training Capacity",
+      "id": 11009,
+      "name": "Training Grounds Expansion I",
+      "des": "Increases Training Capacity"
+    },
+    "11005": {
+      "des2": "Increases Soldier DEF",
+      "id": 11005,
+      "name": "DEF Drill VII",
+      "des": "Increases Soldier DEF"
+    },
+    "2030": {
+      "des2": "Herb Protection Limit↑",
+      "id": 2030,
+      "name": "Herb Protection II",
+      "des": "Herb Protection Limit↑"
+    },
+    "1030": {
+      "des2": "Increases soldier capacity in barracks",
+      "id": 1030,
+      "name": "Barracks Expansion II",
+      "des": "Increases soldier capacity in barracks"
+    },
+    "1018": {
+      "des2": "Research Speed↑",
+      "id": 1018,
+      "name": "Research Upgrade III",
+      "des": "Research Speed↑"
+    },
+    "3027": {
+      "des2": "Hero DEF↑",
+      "id": 3027,
+      "name": "Hero DEF",
+      "des": "Hero DEF↑"
+    },
+    "11004": {
+      "des2": "Hero DMG Taken↓",
+      "id": 11004,
+      "name": "Survival Skills",
+      "des": "Hero DMG Taken↓"
+    },
+    "11002": {
+      "des2": "Soldier ATK",
+      "id": 11002,
+      "name": "ATK Boost I",
+      "des": "Soldier ATK"
+    },
+    "8003": {
+      "des2": "Increases Squad 4 Hero ATK",
+      "id": 8003,
+      "name": "Assault Drill IV",
+      "des": "Increases Squad 4 Hero ATK"
+    },
+    "9003": {
+      "des2": "[Alliance Duel] Event - Recruit Hero Points increased",
+      "id": 9003,
+      "name": "Recruitment Points",
+      "des": "Hero Recruitment Points↑"
+    },
+    "6003": {
+      "des2": "Increases Squad 2 Hero ATK",
+      "id": 6003,
+      "name": "Assault Drill II",
+      "des": "Increases Squad 2 Hero ATK"
+    },
+    "7003": {
+      "des2": "Increases Squad 3 Hero ATK",
+      "id": 7003,
+      "name": "Assault Drill III",
+      "des": "Increases Squad 3 Hero ATK"
+    },
+    "10008": {
+      "des2": "When the same Doctor attacks your Caravan, the number of allowed failures is limited.",
+      "id": 10008,
+      "name": "Defense Measures",
+      "des": "When the same Doctor attacks your Caravan, the number of allowed failures is limited."
+    },
+    "10007": {
+      "des2": "Increases Daily Caravan Dispatch Attempts",
+      "id": 10007,
+      "name": "Extra Caravan",
+      "des": "Daily Dispatch Attempts↑"
+    },
+    "18008": {
+      "des2": "Warlock Hero CMD↑",
+      "id": 18008,
+      "name": "Warlock: CMD I",
+      "des": "Warlock Hero CMD↑"
+    },
+    "10001": {
+      "des2": "Increases basic goods carried by the player Caravan",
+      "id": 10001,
+      "name": "Caravan Expansion",
+      "des": "Increases basic goods carried by the player Caravan"
+    },
+    "4005": {
+      "des2": "Increases Soldier ATK",
+      "id": 4005,
+      "name": "Attack Training IV",
+      "des": "Increases Soldier ATK"
+    },
+    "3005": {
+      "des2": "Ranger Hero DMG↑",
+      "id": 3005,
+      "name": "Ranger Mastery I",
+      "des": "Ranger Hero DMG↑"
+    },
+    "6005": {
+      "des2": "Increases Squad 2 Hero HP",
+      "id": 6005,
+      "name": "Survival Drill II",
+      "des": "Increases Squad 2 Hero HP"
+    },
+    "5005": {
+      "des2": "Increases Squad 1 Hero HP",
+      "id": 5005,
+      "name": "Survival Drill I",
+      "des": "Increases Squad 1 Hero HP"
+    },
+    "9012": {
+      "des2": "[Alliance Duel] Event - Covert Operation Points increased",
+      "id": 9012,
+      "name": "Covert Operation Points",
+      "des": "Increases Covert Operation Quest Points"
+    },
+    "9011": {
+      "des2": "[Alliance Duel] Event - Caravan Trade Points increased",
+      "id": 9011,
+      "name": "Caravan Trade Points",
+      "des": "Increases Caravan Points"
+    },
+    "2005": {
+      "des2": "Timber Gathering Speed",
+      "id": 2005,
+      "name": "Timber Gathering I",
+      "des": "Timber Gathering Speed"
+    },
+    "1005": {
+      "des2": "Increases Healing Speed",
+      "id": 1005,
+      "name": "Quick Bandage I",
+      "des": "Increases Healing Speed"
+    },
+    "9010": {
+      "des2": "[Alliance Duel] Event - Unlock Tier 7-9 Rewards",
+      "id": 9010,
+      "name": "Top Rewards",
+      "des": "Unlocks Tier 7–9 rewards"
+    },
+    "9009": {
+      "des2": "[Alliance Duel] Event - Kills Points increased",
+      "id": 9009,
+      "name": "Kill Points",
+      "des": "Kill Points↑"
+    },
+    "2027": {
+      "des2": "Herb Gathering Speed",
+      "id": 2027,
+      "name": "Herb Gathering V",
+      "des": "Herb Gathering Speed"
+    },
+    "1027": {
+      "des2": "Increases Training Speed",
+      "id": 1027,
+      "name": "Training Specialization V",
+      "des": "Increases Training Speed"
+    },
+    "8005": {
+      "des2": "Increases Squad 4 Hero HP",
+      "id": 8005,
+      "name": "Survival Drill IV",
+      "des": "Increases Squad 4 Hero HP"
+    },
+    "7005": {
+      "des2": "Increases Squad 3 Hero HP",
+      "id": 7005,
+      "name": "Survival Drill III",
+      "des": "Increases Squad 3 Hero HP"
+    },
+    "9006": {
+      "des2": "[Alliance Duel] Event - Building Might Points increased",
+      "id": 9006,
+      "name": "Building Points",
+      "des": "Building Might Points↑"
+    },
+    "9005": {
+      "des2": "[Alliance Duel] Event - All Points (Excluding Diamond Purchases) increased",
+      "id": 9005,
+      "name": "Arena Expert",
+      "des": "All Points↑ (Excluding Diamond Purchases)"
+    },
+    "1017": {
+      "des2": "Increases Training Capacity",
+      "id": 1017,
+      "name": "Training Grounds Expansion III",
+      "des": "Increases Training Capacity"
+    },
+    "2017": {
+      "des2": "Herb Output↑",
+      "id": 2017,
+      "name": "Herb Output IV",
+      "des": "Herb Output↑"
+    },
+    "10004": {
+      "des2": "Increases Caravan Movement Speed",
+      "id": 10004,
+      "name": "Rapid Caravan",
+      "des": "Increases Caravan Movement Speed"
+    },
+    "9001": {
+      "des2": "[Alliance Duel] Event - Falcon Quest Points increased",
+      "id": 9001,
+      "name": "Falcon Points",
+      "des": "Falcon Quests Points↑"
+    },
+    "17023": {
+      "des2": "Ranger Hero gains additional DMG↓ in battle",
+      "id": 17023,
+      "name": "Ranger: Ultimate Guard II",
+      "des": "Ranger Hero gains additional DMG↓ in battle"
+    },
+    "13007": {
+      "des2": "Healing Resource Cost↓",
+      "id": 13007,
+      "name": "Fast Healing",
+      "des": "Healing Resource Cost↓"
+    },
+    "17011": {
+      "des2": "Ranger Hero DEF↑",
+      "id": 17011,
+      "name": "Ranger: DEF II",
+      "des": "Ranger Hero DEF↑"
+    },
+    "7011": {
+      "des2": "Squad 3 March Speed↑",
+      "id": 7011,
+      "name": "Lightning March III",
+      "des": "Squad 3 March Speed↑"
+    },
+    "2007": {
+      "des2": "Farm Limit",
+      "id": 2007,
+      "name": "Additional Farmland",
+      "des": "Farm Limit"
+    },
+    "1007": {
+      "des2": "Construction Resource Cost↓",
+      "id": 1007,
+      "name": "Construction Master",
+      "des": "Construction Resource Cost↓"
+    },
+    "7017": {
+      "des2": "Hero HP↑ when Squad 3 defends a city",
+      "id": 7017,
+      "name": "Burn the Boats III",
+      "des": "Hero HP↑ when Squad 3 defends a city"
+    },
+    "8017": {
+      "des2": "Hero HP↑ when Squad 4 defends a city",
+      "id": 8017,
+      "name": "Burn the Boats IV",
+      "des": "Hero HP↑ when Squad 4 defends a city"
+    },
+    "5017": {
+      "des2": "Hero HP↑ when Squad 1 defends a city",
+      "id": 5017,
+      "name": "Burn the Boats I",
+      "des": "Hero HP↑ when Squad 1 defends a city"
+    },
+    "2038": {
+      "des2": "Timber Protection Limit↑",
+      "id": 2038,
+      "name": "Protected Timber I",
+      "des": "Timber Protection Limit↑"
+    },
+    "3017": {
+      "des2": "Ranger Hero DMG↑",
+      "id": 3017,
+      "name": "Ranger Mastery II",
+      "des": "Ranger Hero DMG↑"
+    },
+    "4017": {
+      "des2": "Increases Soldier ATK",
+      "id": 4017,
+      "name": "Attack Training VII",
+      "des": "Increases Soldier ATK"
+    },
+    "8001": {
+      "des2": "Squad 4 DMG to Monsters↑",
+      "id": 8001,
+      "name": "Blight Slayer IV",
+      "des": "Squad 4 DMG to Monsters↑"
+    },
+    "7019": {
+      "des2": "Squad 3 Hero Energy DMG↑",
+      "id": 7019,
+      "name": "Energy DMG Mastery III",
+      "des": "Squad 3 Hero Energy DMG↑"
+    },
+    "2021": {
+      "des2": "Herb Garden Limit",
+      "id": 2021,
+      "name": "Extra Herb Garden",
+      "des": "Herb Garden Limit"
+    },
+    "1021": {
+      "des2": "Healing Resource Cost↓",
+      "id": 1021,
+      "name": "Fast Healing",
+      "des": "Healing Resource Cost↓"
+    },
+    "7006": {
+      "des2": "Increases Squad 3 Gathering Speed",
+      "id": 7006,
+      "name": "Resource Gathering III",
+      "des": "Increases Squad 3 Gathering Speed"
+    },
+    "8006": {
+      "des2": "Increases Squad 4 Gathering Speed",
+      "id": 8006,
+      "name": "Resource Gathering IV",
+      "des": "Increases Squad 4 Gathering Speed"
+    },
+    "5006": {
+      "des2": "Increases Squad 1 Gathering Speed",
+      "id": 5006,
+      "name": "Resource Gathering I",
+      "des": "Increases Squad 1 Gathering Speed"
+    },
+    "6006": {
+      "des2": "Increases Squad 2 Gathering Speed",
+      "id": 6006,
+      "name": "Resource Gathering II",
+      "des": "Increases Squad 2 Gathering Speed"
+    },
+    "3006": {
+      "des2": "Ranger Hero ATK↑",
+      "id": 3006,
+      "name": "Ranger ATK I",
+      "des": "Ranger Hero ATK↑"
+    },
+    "4006": {
+      "des2": "Increases Soldier DEF",
+      "id": 4006,
+      "name": "DEF Drill IV",
+      "des": "Increases Soldier DEF"
+    },
+    "1006": {
+      "des2": "Increases Training Speed",
+      "id": 1006,
+      "name": "Training Specialization I",
+      "des": "Increases Training Speed"
+    },
+    "2006": {
+      "des2": "Herb Gathering Speed",
+      "id": 2006,
+      "name": "Herb Gathering I",
+      "des": "Herb Gathering Speed"
+    },
+    "17019": {
+      "des2": "Ranger Hero HP↑",
+      "id": 17019,
+      "name": "Ranger: HP III",
+      "des": "Ranger Hero HP↑"
+    },
+    "3021": {
+      "des2": "Warlock Hero DMG↑",
+      "id": 3021,
+      "name": "Warlock Mastery II",
+      "des": "Warlock Hero DMG↑"
+    },
+    "3023": {
+      "des2": "Warlock Hero DEF↑",
+      "id": 3023,
+      "name": "Warlock DEF II",
+      "des": "Warlock Hero DEF↑"
+    },
+    "7001": {
+      "des2": "Squad 3 DMG to Monsters↑",
+      "id": 7001,
+      "name": "Blight Slayer III",
+      "des": "Squad 3 DMG to Monsters↑"
+    },
+    "6019": {
+      "des2": "Squad 2 Hero Energy DMG↑",
+      "id": 6019,
+      "name": "Energy DMG Mastery II",
+      "des": "Squad 2 Hero Energy DMG↑"
+    },
+    "6017": {
+      "des2": "Hero HP↑ when Squad 2 defends a city",
+      "id": 6017,
+      "name": "Burn the Boats II",
+      "des": "Hero HP↑ when Squad 2 defends a city"
+    },
+    "6013": {
+      "des2": "Hero ATK↑ when Squad 2 defends a city",
+      "id": 6013,
+      "name": "Counterattack II",
+      "des": "Hero ATK↑ when Squad 2 defends a city"
+    },
+    "3028": {
+      "des2": "Hero HP↑",
+      "id": 3028,
+      "name": "Hero HP",
+      "des": "Hero HP↑"
+    },
+    "6007": {
+      "des2": "Squad 2 Load↑",
+      "id": 6007,
+      "name": "Heavy Duty 2",
+      "des": "Squad 2 Load↑"
+    },
+    "18023": {
+      "des2": "Warlock Hero gains additional DMG↓ in battle",
+      "id": 18023,
+      "name": "Warlock: Ultimate Guard II",
+      "des": "Warlock Hero gains additional DMG↓ in battle"
+    },
+    "17004": {
+      "des2": "Each Ranger Hero deployed in battle increases all Ranger Heroes' HP in your team",
+      "id": 17004,
+      "name": "Ranger Synergy: HP I",
+      "des": "Each Ranger Hero deployed in battle increases all Ranger Heroes' HP in your team"
+    },
+    "18011": {
+      "des2": "Warlock Hero DEF↑",
+      "id": 18011,
+      "name": "Warlock: DEF II",
+      "des": "Warlock Hero DEF↑"
+    },
+    "5009": {
+      "des2": "Squad 1 March Speed to Doctors Increased",
+      "id": 5009,
+      "name": "Decapitation Tactics I",
+      "des": "Squad 1 March Speed to Doctors Increased"
+    },
+    "3007": {
+      "des2": "Ranger Hero DEF↑",
+      "id": 3007,
+      "name": "Ranger DEF I",
+      "des": "Ranger Hero DEF↑"
+    },
+    "16009": {
+      "des2": "Warrior Hero HP↑",
+      "id": 16009,
+      "name": "Warrior: HP II",
+      "des": "Warrior Hero HP↑"
+    },
+    "4010": {
+      "des2": "Increases Soldier DEF",
+      "id": 4010,
+      "name": "DEF Drill V",
+      "des": "Increases Soldier DEF"
+    },
+    "2032": {
+      "des2": "Timber Output↑",
+      "id": 2032,
+      "name": "Timber Output III",
+      "des": "Timber Output↑"
+    },
+    "1032": {
+      "des2": "Increases soldier capacity in barracks",
+      "id": 1032,
+      "name": "Barracks Expansion IV",
+      "des": "Increases soldier capacity in barracks"
+    },
+    "4009": {
+      "des2": "Increases Soldier ATK",
+      "id": 4009,
+      "name": "Attack Training V",
+      "des": "Increases Soldier ATK"
+    },
+    "4007": {
+      "des2": "Soldier HP↑",
+      "id": 4007,
+      "name": "Survival Training IV",
+      "des": "Soldier HP↑"
+    },
+    "1009": {
+      "des2": "Infirmary Capacity",
+      "id": 1009,
+      "name": "Infirmary Expansion II",
+      "des": "Infirmary Capacity"
+    },
+    "2028": {
+      "des2": "Grain Protection Limit↑",
+      "id": 2028,
+      "name": "Grain Protection II",
+      "des": "Grain Protection Limit↑"
+    },
+    "3009": {
+      "des2": "Warlock Hero DMG↑",
+      "id": 3009,
+      "name": "Warlock Mastery I",
+      "des": "Warlock Hero DMG↑"
+    },
+    "2009": {
+      "des2": "Timber Output↑",
+      "id": 2009,
+      "name": "Timber Output II",
+      "des": "Timber Output↑"
+    },
+    "3002": {
+      "des2": "Warrior Hero ATK↑",
+      "id": 3002,
+      "name": "Warrior ATK I",
+      "des": "Warrior Hero ATK↑"
+    },
+    "2002": {
+      "des2": "Timber Output↑",
+      "id": 2002,
+      "name": "Timber Output I",
+      "des": "Timber Output↑"
+    },
+    "1002": {
+      "des2": "Infirmary Capacity",
+      "id": 1002,
+      "name": "Infirmary Expansion I",
+      "des": "Infirmary Capacity"
+    },
+    "6009": {
+      "des2": "Squad 2 March Speed to Doctors↑",
+      "id": 6009,
+      "name": "Decapitation Tactics II",
+      "des": "Squad 2 March Speed to Doctors↑"
+    },
+    "7002": {
+      "des2": "Squad 3 Hero DMG Taken from Monsters↓",
+      "id": 7002,
+      "name": "Boost RES 3",
+      "des": "Squad 3 Hero DMG Taken from Monsters↓"
+    },
+    "6002": {
+      "des2": "Squad 2 Hero DMG Taken from Monsters↓",
+      "id": 6002,
+      "name": "Boost RES 2",
+      "des": "Squad 2 Hero DMG Taken from Monsters↓"
+    },
+    "5002": {
+      "des2": "Squad 1 Hero DMG Taken from Monsters↓",
+      "id": 5002,
+      "name": "Boost RES 1",
+      "des": "Squad 1 Hero DMG Taken from Monsters↓"
+    },
+    "4002": {
+      "des2": "Increases Soldier DEF",
+      "id": 4002,
+      "name": "DEF Drill III",
+      "des": "Increases Soldier DEF"
+    },
+    "2019": {
+      "des2": "Timber Gathering Speed",
+      "id": 2019,
+      "name": "Timber Gathering IV",
+      "des": "Timber Gathering Speed"
+    },
+    "2035": {
+      "des2": "Timber Gathering Speed",
+      "id": 2035,
+      "name": "Timber Gathering III",
+      "des": "Timber Gathering Speed"
+    },
+    "9002": {
+      "des2": "[Alliance Duel] Event - Speed Points increased",
+      "id": 9002,
+      "name": "Speedup Points",
+      "des": "Speedup Points↑"
+    },
+    "8002": {
+      "des2": "Squad 4 Hero DMG Taken from Monsters↓",
+      "id": 8002,
+      "name": "Boost RES 4",
+      "des": "Squad 4 Hero DMG Taken from Monsters↓"
+    }
+  },
+  "len": 348,
+  "key": "id",
+  "source_format": "locale rows"
+}

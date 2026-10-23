@@ -1,0 +1,120 @@
+{
+  "key": "id",
+  "excelName": "Like_点赞功能表",
+  "data": {
+    "5": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 5,
+      "languageId": "",
+      "likeLimit": 100
+    },
+    "6": {
+      "bound": 100,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Box_gem",
+          "count": 30
+        }
+      },
+      "rewardLimit": 5,
+      "probability": 100,
+      "id": 6,
+      "languageId": "",
+      "likeLimit": 5
+    },
+    "3": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 3,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "4": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 4,
+      "languageId": "",
+      "likeLimit": 1
+    },
+    "1": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 1,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "2": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 2,
+      "languageId": "",
+      "likeLimit": 0
+    },
+    "10": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 10,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "0": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 0,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "9": {
+      "bound": 100,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 5
+        }
+      },
+      "rewardLimit": 10,
+      "probability": 100,
+      "id": 9,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "7": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 7,
+      "languageId": "",
+      "likeLimit": 10
+    },
+    "8": {
+      "bound": 100,
+      "reward": {},
+      "rewardLimit": 0,
+      "probability": 0,
+      "id": 8,
+      "languageId": "",
+      "likeLimit": 100
+    }
+  },
+  "first": 0,
+  "len": 11,
+  "isNeedTransform": false
+}

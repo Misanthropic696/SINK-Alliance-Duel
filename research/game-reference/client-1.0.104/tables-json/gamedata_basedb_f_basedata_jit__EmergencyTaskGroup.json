@@ -1,0 +1,168 @@
+{
+  "data": {
+    "7": {
+      "stage": 0,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Settle",
+      "emergencyId": 3,
+      "taskArray": {
+        "1": 1100018,
+        "2": 1100019,
+        "3": 1100020
+      },
+      "reward": {},
+      "id": 7,
+      "afkBornMonsterId": 0,
+      "stageName": "",
+      "groupId": 2
+    },
+    "2": {
+      "stage": 1,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Zombie1",
+      "emergencyId": 2,
+      "taskArray": {
+        "1": 1100004,
+        "2": 1100005,
+        "3": 1100006
+      },
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource",
+          "count": 25
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Box_gem",
+          "count": 20
+        }
+      },
+      "id": 2,
+      "afkBornMonsterId": 1002,
+      "stageName": "",
+      "groupId": 1
+    },
+    "1": {
+      "stage": 0,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_UAV",
+      "emergencyId": 1,
+      "taskArray": {
+        "1": 1100001,
+        "2": 1100002,
+        "3": 1100003
+      },
+      "reward": {},
+      "id": 1,
+      "afkBornMonsterId": 0,
+      "stageName": "",
+      "groupId": 0
+    },
+    "4": {
+      "stage": 1,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Zombie1",
+      "emergencyId": 2,
+      "taskArray": {
+        "1": 1100010,
+        "2": 1100011
+      },
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource",
+          "count": 25
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Box_gem",
+          "count": 20
+        }
+      },
+      "id": 4,
+      "afkBornMonsterId": 1002,
+      "stageName": "",
+      "groupId": 3
+    },
+    "3": {
+      "stage": 1,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Zombie1",
+      "emergencyId": 2,
+      "taskArray": {
+        "1": 1100007,
+        "2": 1100008,
+        "3": 1100009
+      },
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_drone_data_10k",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 5
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Box_gem",
+          "count": 30
+        }
+      },
+      "id": 3,
+      "afkBornMonsterId": 1002,
+      "stageName": "",
+      "groupId": 2
+    },
+    "6": {
+      "stage": 0,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Settle",
+      "emergencyId": 3,
+      "taskArray": {
+        "1": 1100015,
+        "2": 1100016,
+        "3": 1100017
+      },
+      "reward": {},
+      "id": 6,
+      "afkBornMonsterId": 0,
+      "stageName": "",
+      "groupId": 1
+    },
+    "5": {
+      "stage": 2,
+      "groupName": "",
+      "stagePic": "Main_btn_Emergency_Zombie2",
+      "emergencyId": 2,
+      "taskArray": {
+        "1": 1100012,
+        "2": 1100013,
+        "3": 1100014
+      },
+      "reward": {},
+      "id": 5,
+      "afkBornMonsterId": 0,
+      "stageName": "",
+      "groupId": 1
+    }
+  },
+  "len": 7,
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "EmergencyTask_紧急任务",
+  "key": "id"
+}

@@ -1,0 +1,51 @@
+{
+  "data": {
+    "10": {
+      "desc": "Wandering Blight",
+      "id": 10
+    },
+    "11": {
+      "desc": "Crystal Cluster Valley",
+      "id": 11
+    },
+    "9": {
+      "desc": "Zombie Siege",
+      "id": 9
+    },
+    "7": {
+      "desc": "Elixir Scramble",
+      "id": 7
+    },
+    "8": {
+      "desc": "Alliance Hunt",
+      "id": 8
+    },
+    "5": {
+      "desc": "Trade Caravan - Attacker",
+      "id": 5
+    },
+    "6": {
+      "desc": "Trade Caravan - Defender",
+      "id": 6
+    },
+    "3": {
+      "desc": "Territory Assault - Attacker",
+      "id": 3
+    },
+    "4": {
+      "desc": "Territory Assault - Defender",
+      "id": 4
+    },
+    "1": {
+      "desc": "World Map Monster",
+      "id": 1
+    },
+    "2": {
+      "desc": "City Garrison",
+      "id": 2
+    }
+  },
+  "len": 11,
+  "key": "id",
+  "source_format": "locale rows"
+}

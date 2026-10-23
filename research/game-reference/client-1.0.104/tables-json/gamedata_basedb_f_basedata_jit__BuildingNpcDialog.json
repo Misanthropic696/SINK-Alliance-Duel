@@ -1,0 +1,919 @@
+{
+  "excelName": "Building_建筑",
+  "key": "id",
+  "len": 70,
+  "first": 1,
+  "isNeedTransform": true,
+  "data": {
+    "19": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 19
+    },
+    "29": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 29
+    },
+    "39": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 5,
+      "id": 39
+    },
+    "49": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 49
+    },
+    "59": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 59
+    },
+    "69": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 69
+    },
+    "30": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 30
+    },
+    "20": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 20
+    },
+    "50": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 50
+    },
+    "40": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 5,
+      "id": 40
+    },
+    "24": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 2,
+      "id": 24
+    },
+    "14": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 14
+    },
+    "44": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 44
+    },
+    "34": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 4,
+      "id": 34
+    },
+    "10": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 10
+    },
+    "18": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 18
+    },
+    "38": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 5,
+      "id": 38
+    },
+    "28": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 28
+    },
+    "58": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 58
+    },
+    "48": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 48
+    },
+    "68": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 68
+    },
+    "21": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 2,
+      "id": 21
+    },
+    "31": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 31
+    },
+    "41": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 41
+    },
+    "51": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 51
+    },
+    "15": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 15
+    },
+    "25": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 2,
+      "id": 25
+    },
+    "35": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 4,
+      "id": 35
+    },
+    "45": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 45
+    },
+    "11": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 11
+    },
+    "52": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 52
+    },
+    "42": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 42
+    },
+    "32": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 32
+    },
+    "22": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 2,
+      "id": 22
+    },
+    "46": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 46
+    },
+    "36": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 4,
+      "id": 36
+    },
+    "26": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 26
+    },
+    "16": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 16
+    },
+    "12": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 12
+    },
+    "2": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 2
+    },
+    "3": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 3
+    },
+    "1": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 1
+    },
+    "6": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 6
+    },
+    "7": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 7
+    },
+    "4": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 4
+    },
+    "5": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 5
+    },
+    "43": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 43
+    },
+    "53": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 53
+    },
+    "23": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 2,
+      "id": 23
+    },
+    "33": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 33
+    },
+    "37": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 4,
+      "id": 37
+    },
+    "47": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 47
+    },
+    "17": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 17
+    },
+    "27": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 3,
+      "id": 27
+    },
+    "9": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 9
+    },
+    "8": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 8
+    },
+    "70": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 70
+    },
+    "67": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 67
+    },
+    "66": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 66
+    },
+    "13": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 1,
+      "id": 13
+    },
+    "65": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 65
+    },
+    "64": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 64
+    },
+    "63": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 63
+    },
+    "62": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 62
+    },
+    "61": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 61
+    },
+    "60": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 60
+    },
+    "57": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 57
+    },
+    "56": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 56
+    },
+    "55": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 55
+    },
+    "54": {
+      "condtionMeet": {
+        "1": {
+          "id": 20103,
+          "param1": "1001",
+          "param2": "4"
+        }
+      },
+      "dialog": "",
+      "state": "normal",
+      "speaker": 0,
+      "id": 54
+    }
+  }
+}

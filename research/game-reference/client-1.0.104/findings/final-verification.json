@@ -1,0 +1,21 @@
+{
+  "status": "passed",
+  "verified_at": "2026-10-13T05:31:47.413975+00:00",
+  "checks": 9962,
+  "tables": 1003,
+  "base_tables": 750,
+  "english_tables": 253,
+  "records": 123853,
+  "client_program_resources": 6187,
+  "client_sources_syntax_valid": 6187,
+  "table_errors": 0,
+  "source_errors": 0,
+  "scope": "Static client reference for 1.0.104; live/server combat not validated",
+  "checks_summary": [
+    "Source hash, per-table hashes and declared counts",
+    "SQLite integrity and per-table counts",
+    "Hero defaults, skill links and current-level awakening costs",
+    "Offline HTML payload",
+    "Fresh Lua54 bytecode loading and source syntax checks"
+  ]
+}

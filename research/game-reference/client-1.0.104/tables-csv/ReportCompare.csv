@@ -1,0 +1,29 @@
+﻿record_key,title2,functionId,id,faq,title,type,condition,repel,order,icon
+2,,,2,"Faction Advantage:
+1. Heroes are divided into 3 types: Warrior, Warlock, Ranger.
+2. Their countering relationships:
+Warrior takes 20% less damage from Warlock
+Warlock takes 20% less damage from Ranger
+Ranger takes 20% less damage from Warrior.",Hero countered!,1,1,"{""1"": 1}",8000,
+1,,,1,"Hero Deployment:
+1. Up to 5 heroes can be deployed to each formation.
+2. Deployed heroes can activate faction effects.
+3. Deployed heroes can influence Soldier Morale.
+4. The squad's might will be higher when all heroes are deployed.",Insufficient Heroes deployed!,1,1,"{""1"": 2, ""2"": 3}",10000,
+18,Sanctuary Level,,18,,[c][feed89]Sanctuary Level[-][/c] significantly increased,2,1,{},9000,
+17,Raven Level,,17,,[c][feed89]Raven Might[-][/c] significantly increased,2,1,{},7000,
+4,,,4,"Hero Classes:
+1. Heroes are categorized into 3 classes: Tank, DPS, and Support.
+2. Tank heroes can soak up more damage. Placing them in the front row best utilizes their role.",Place tank Heroes in the front row!,1,1,{},5000,
+3,,,3,"Soldier Morale:
+1. The side with higher morale in combat gains a damage bonus.
+2. Morale is influenced by each deployed soldier.
+3. Increase soldier capacity, upgrade soldier level, and advance technology to raise the morale cap.",[c][e47514]Soldier Morale[-][/c] significantly increased,1,1,"{""1"": 1}",5000,
+22,,,22,,"What rotten luck. The enemy inflicted {0} stuns in this battle, exerting strong control.",3,1,{},900,
+21,,,21,,"What rotten luck. The enemy dealt a {0}% critical hit in this battle, causing massive damage.",3,1,{},1000,
+16,Soldier Level,,16,,[c][feed89]Soldier Might[-][/c] significantly increased,2,1,{},8000,
+15,Hero Stars,,15,,[c][feed89]Hero Stars[-][/c] significantly increased,2,1,{},7000,
+12,Average Skill Level,,12,,[c][feed89]Hero Skill[-][/c] significantly increased,2,1,{},7000,
+11,Average Hero Level,,11,,[c][feed89]Hero Level[-][/c] significantly increased,2,1,{},7000,
+13,Gear Might,,13,,[c][feed89]Gear Might[-][/c] significantly increased,2,1,{},6000,
+14,Tech Might,,14,,[c][feed89]Tech[-][/c] significantly increased,2,1,{},5000,

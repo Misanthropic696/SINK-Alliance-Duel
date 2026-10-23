@@ -1,0 +1,68 @@
+{
+  "len": 2,
+  "excelName": "Gift_礼包表",
+  "data": {
+    "2": {
+      "day": 3,
+      "welfareId": 1010,
+      "specialDisaplayNo": {
+        "1": 1
+      },
+      "item": {
+        "1": {
+          "count": 5,
+          "id": "item_Material_fragment_30006",
+          "type": 99
+        },
+        "2": {
+          "count": 20,
+          "id": "item_equip_produce_materials_05",
+          "type": 99
+        },
+        "3": {
+          "count": 15,
+          "id": "item_wood_1k",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_food_1k",
+          "type": 99
+        }
+      },
+      "id": 2
+    },
+    "1": {
+      "day": 2,
+      "welfareId": 1010,
+      "specialDisaplayNo": {
+        "1": 1
+      },
+      "item": {
+        "1": {
+          "count": 10,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "2": {
+          "type": 5,
+          "count": 200000
+        },
+        "3": {
+          "count": 15,
+          "id": "item_wood_1k",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_food_1k",
+          "type": 99
+        }
+      },
+      "id": 1
+    }
+  },
+  "first": 1,
+  "isNeedTransform": false,
+  "key": "id"
+}

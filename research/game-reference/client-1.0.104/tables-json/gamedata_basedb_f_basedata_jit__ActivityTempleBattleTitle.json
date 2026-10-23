@@ -1,0 +1,561 @@
+{
+  "enum": {
+    "TYPE": {
+      "ZONECONTEST": 1,
+      "TEMPLE": 0
+    }
+  },
+  "len": 10,
+  "first": 1,
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "key": "id",
+  "isNeedTransform": true,
+  "data": {
+    "1": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer.prefab",
+      "warKingExtraBenefit": {},
+      "appoint": 1,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 101,
+      "icon": "Icon_UI_Power_Main_Title_01",
+      "showType": 1,
+      "isKing": 1,
+      "titleIcon": "pic_sj_zqgz0",
+      "benefit": {
+        "1": {
+          "Type": 10005,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "2": {
+          "Type": 10006,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "3": {
+          "Type": 10007,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "sort": 1,
+      "benefitShow": {
+        "1": {
+          "Type": 10005,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "2": {
+          "Type": 10006,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "3": {
+          "Type": 10007,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "id": 1,
+      "name": "",
+      "grant": 1
+    },
+    "3": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20021,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 20022,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "appoint": 0,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 103,
+      "icon": "Icon_UI_Power_Main_Title_03",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz2",
+      "benefit": {
+        "1": {
+          "Type": 20021,
+          "Source": 1401,
+          "Value": 0.2
+        },
+        "2": {
+          "Type": 20022,
+          "Source": 1401,
+          "Value": 0.2
+        }
+      },
+      "sort": 3,
+      "benefitShow": {
+        "1": {
+          "Type": 20021,
+          "Source": 1401,
+          "Value": 0.3
+        },
+        "2": {
+          "Type": 20022,
+          "Source": 1401,
+          "Value": 0.25
+        }
+      },
+      "id": 3,
+      "name": "",
+      "grant": 0
+    },
+    "10": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {},
+      "appoint": 0,
+      "iconBG": "",
+      "type": 1,
+      "chatColor": "",
+      "HqBenefitInfo": 110,
+      "icon": "",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz9",
+      "benefit": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.6
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.6
+        }
+      },
+      "sort": 10,
+      "benefitShow": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.6
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.6
+        }
+      },
+      "id": 10,
+      "name": "",
+      "grant": 0
+    },
+    "5": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.1
+        }
+      },
+      "appoint": 0,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 105,
+      "icon": "Icon_UI_Power_Main_Title_05",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz4",
+      "benefit": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.5
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.25
+        }
+      },
+      "sort": 5,
+      "benefitShow": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.6
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.35
+        }
+      },
+      "id": 5,
+      "name": "",
+      "grant": 0
+    },
+    "4": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20017,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "2": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.1
+        }
+      },
+      "appoint": 0,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 104,
+      "icon": "Icon_UI_Power_Main_Title_04",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz3",
+      "benefit": {
+        "1": {
+          "Type": 20017,
+          "Source": 1401,
+          "Value": 0.2
+        },
+        "2": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.2
+        }
+      },
+      "sort": 4,
+      "benefitShow": {
+        "1": {
+          "Type": 20017,
+          "Source": 1401,
+          "Value": 0.25
+        },
+        "2": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.3
+        }
+      },
+      "id": 4,
+      "name": "",
+      "grant": 0
+    },
+    "7": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20001,
+          "Source": 1401,
+          "Value": 0.65
+        },
+        "2": {
+          "Type": 20002,
+          "Source": 1401,
+          "Value": 0.65
+        },
+        "3": {
+          "Type": 20003,
+          "Source": 1401,
+          "Value": 0.55
+        }
+      },
+      "appoint": 0,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 107,
+      "icon": "Icon_UI_Power_Main_Title_07",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz6",
+      "benefit": {
+        "1": {
+          "Type": 20001,
+          "Source": 1401,
+          "Value": 1
+        },
+        "2": {
+          "Type": 20002,
+          "Source": 1401,
+          "Value": 1
+        },
+        "3": {
+          "Type": 20003,
+          "Source": 1401,
+          "Value": 1
+        }
+      },
+      "sort": 7,
+      "benefitShow": {
+        "1": {
+          "Type": 20001,
+          "Source": 1401,
+          "Value": 1.65
+        },
+        "2": {
+          "Type": 20002,
+          "Source": 1401,
+          "Value": 1.65
+        },
+        "3": {
+          "Type": 20003,
+          "Source": 1401,
+          "Value": 1.55
+        }
+      },
+      "id": 7,
+      "name": "",
+      "grant": 0
+    },
+    "6": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.1
+        }
+      },
+      "appoint": 0,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 106,
+      "icon": "Icon_UI_Power_Main_Title_06",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz5",
+      "benefit": {
+        "1": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.5
+        },
+        "2": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.25
+        }
+      },
+      "sort": 6,
+      "benefitShow": {
+        "1": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.6
+        },
+        "2": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.35
+        }
+      },
+      "id": 6,
+      "name": "",
+      "grant": 0
+    },
+    "9": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {},
+      "appoint": 0,
+      "iconBG": "",
+      "type": 1,
+      "chatColor": "",
+      "HqBenefitInfo": 109,
+      "icon": "",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz8",
+      "benefit": {
+        "1": {
+          "Type": 10101,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "2": {
+          "Type": 10107,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "sort": 9,
+      "benefitShow": {
+        "1": {
+          "Type": 10101,
+          "Source": 1401,
+          "Value": 0.05
+        },
+        "2": {
+          "Type": 10107,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "id": 9,
+      "name": "",
+      "grant": 0
+    },
+    "8": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer.prefab",
+      "warKingExtraBenefit": {},
+      "appoint": 1,
+      "iconBG": "",
+      "type": 1,
+      "chatColor": "",
+      "HqBenefitInfo": 108,
+      "icon": "",
+      "showType": 1,
+      "isKing": 1,
+      "titleIcon": "pic_sj_zqgz10",
+      "benefit": {
+        "1": {
+          "Type": 10005,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 10006,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "3": {
+          "Type": 10007,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "4": {
+          "Type": 10107,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "sort": 8,
+      "benefitShow": {
+        "1": {
+          "Type": 10005,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 10006,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "3": {
+          "Type": 10007,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "4": {
+          "Type": 10107,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "id": 8,
+      "name": "",
+      "grant": 1
+    },
+    "2": {
+      "buffDesc": "",
+      "effect": "Prefab/Effect/UI_Effect/EU_officer_small.prefab",
+      "warKingExtraBenefit": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.1
+        },
+        "3": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.05
+        }
+      },
+      "appoint": 1,
+      "iconBG": "",
+      "type": 0,
+      "chatColor": "",
+      "HqBenefitInfo": 102,
+      "icon": "Icon_UI_Power_Main_Title_02",
+      "showType": 1,
+      "isKing": false,
+      "titleIcon": "pic_sj_zqgz1",
+      "benefit": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.2
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.2
+        },
+        "3": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.1
+        }
+      },
+      "sort": 2,
+      "benefitShow": {
+        "1": {
+          "Type": 20005,
+          "Source": 1401,
+          "Value": 0.3
+        },
+        "2": {
+          "Type": 20008,
+          "Source": 1401,
+          "Value": 0.3
+        },
+        "3": {
+          "Type": 20018,
+          "Source": 1401,
+          "Value": 0.15
+        }
+      },
+      "id": 2,
+      "name": "",
+      "grant": 0
+    }
+  }
+}

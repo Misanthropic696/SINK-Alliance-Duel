@@ -1,0 +1,227 @@
+{
+  "data": {
+    "1011": {
+      "name": "Combat EXP",
+      "id": 1011,
+      "desc": "Era monster kills grant +{0} Specialty EXP"
+    },
+    "2011": {
+      "name": "Boost Morale",
+      "id": 2011,
+      "desc": "Morale +{0}"
+    },
+    "1002": {
+      "name": "Outstanding Contribution",
+      "id": 1002,
+      "desc": "Contribution from donating Tech and assisting Alliance Members increased by {0}"
+    },
+    "2001": {
+      "name": "Return Now",
+      "id": 2001,
+      "desc": "During relocation, troops outside the territory return immediately. Limited to first {0}x daily"
+    },
+    "1001": {
+      "name": "Instant Produce",
+      "id": 1001,
+      "desc": "Upon use, instantly gain {0}h of Grain/Timber/Herb production from your territory. CD: 23.5h"
+    },
+    "1004": {
+      "name": "Siege Frenzy",
+      "id": 1004,
+      "desc": "Soldier Durability Damage +{0}; Unlock Ruin Demolition function"
+    },
+    "2002": {
+      "name": "Train Now",
+      "id": 2002,
+      "desc": "Instantly gain x{0} max-level soldiers (cannot exceed Barracks Cap). CD: 23.5h"
+    },
+    "1019": {
+      "name": "Raven Supply",
+      "id": 1019,
+      "desc": "Obtain a Raven Reward based on your level."
+    },
+    "1012": {
+      "name": "Alliance Aid",
+      "id": 1012,
+      "desc": "When reinforcing an Alliance member's territory, the casualty rate of their troops is reduced by {0}."
+    },
+    "2008": {
+      "name": "Intensive Training",
+      "id": 2008,
+      "desc": "Soldier Training Speed +{0}"
+    },
+    "1008": {
+      "name": "Instant Research",
+      "id": 1008,
+      "desc": "Instantly reduce all research queue time by {0}m. CD: 47.5h"
+    },
+    "2012": {
+      "name": "Reinforcement Speedup",
+      "id": 2012,
+      "desc": "March Speed +{0} when reinforcing Alliance Member territories"
+    },
+    "1014": {
+      "name": "Help Research",
+      "id": 1014,
+      "desc": "Use on an Alliance Member. Increases your and the Alliance Member's research speed by {0}, lasts 60m (non-stackable). CD: 23.5h"
+    },
+    "2016": {
+      "name": "Reinforcement Enhance",
+      "id": 2016,
+      "desc": "When reinforcing an Alliance Member's territory, all defending Heroes' ATK, DEF, and HP increase by {0} (non-stackable)"
+    },
+    "1016": {
+      "name": "Material Recycle",
+      "id": 1016,
+      "desc": "Research resource cost reduced by {0}"
+    },
+    "2006": {
+      "name": "Emergency Treatment",
+      "id": 2006,
+      "desc": "Heal up to {0} soldiers in the Infirmary; CD: 71.5h"
+    },
+    "1006": {
+      "name": "Free Research",
+      "id": 1006,
+      "desc": "Free Research Time +{0} (min)"
+    },
+    "1010": {
+      "name": "Siege War Flag",
+      "id": 1010,
+      "desc": "Deploys a [War Flag] on empty terrain. Allies within its range: Durability Damage +{0} for 30 mins. CD: 71.5h. (Durability Damage boost stacks)"
+    },
+    "2022": {
+      "name": "Eliminate Threats",
+      "id": 2022,
+      "desc": "Deploys on vacant terrain in this Kingdom. Once triggered, {0} soldiers in the target's Barracks will die. The trap lasts 24h; up to 2 traps can exist at the same time. CD: 72h"
+    },
+    "1020": {
+      "name": "Solid Defense",
+      "id": 1020,
+      "desc": "When defending the territory, inflict casualty rate +{0} on attacking soldiers based on your fallen soldiers' levels"
+    },
+    "2009": {
+      "name": "Wasteland March",
+      "id": 2009,
+      "desc": "March Speed in Cursed Land +{0} during Royal City Scramble"
+    },
+    "2013": {
+      "name": "Team Raid",
+      "id": 2013,
+      "desc": "Damage +{0} when participating in or initiating a rally (non-stackable)"
+    },
+    "1013": {
+      "name": "Help Building",
+      "id": 1013,
+      "desc": "Use on an Alliance Member. Increases your and the Alliance Member's building speed by {0}, lasts 60m (non-stackable). CD: 23.5h"
+    },
+    "2020": {
+      "name": "Rally Guardian",
+      "id": 2020,
+      "desc": "When launching a rally in World PvP battles, reduces the casualty rate of all squads in the rally by {0}."
+    },
+    "1015": {
+      "name": "Art of Architecture",
+      "id": 1015,
+      "desc": "Building resource cost reduced by {0}"
+    },
+    "2019": {
+      "name": "Hold the Line",
+      "id": 2019,
+      "desc": "Heroes defending inside Walls gain +{0} ATK, DEF, and HP"
+    },
+    "1017": {
+      "name": "Healing Force",
+      "id": 1017,
+      "desc": "Use on an Alliance Member. Increases your and the Alliance Member's Infirmary Capacity by {0}, lasts 240m (non-stackable). CD: 71.5h"
+    },
+    "2015": {
+      "name": "Full Power Buff",
+      "id": 2015,
+      "desc": "When reinforcing an Alliance Member's territory, attacking soldiers' casualty rate increases by {0}"
+    },
+    "2003": {
+      "name": "Barracks Expansion",
+      "id": 2003,
+      "desc": "Barracks Capacity +{0}"
+    },
+    "1022": {
+      "name": "Hidden Peril",
+      "id": 1022,
+      "desc": "Deploys on vacant terrain in this Kingdom. Once triggered, reduces the target's Durability by {0}. At max level, ignites the territory. The trap lasts 24h; up to 2 traps can exist at the same time. CD: 72h"
+    },
+    "1009": {
+      "name": "Swift Stride",
+      "id": 1009,
+      "desc": "Rally participation and return speed increased by {0}"
+    },
+    "1003": {
+      "name": "Vitality & Vigor",
+      "id": 1003,
+      "desc": "Daily free Stamina increased by {0}"
+    },
+    "1007": {
+      "name": "Instant Build",
+      "id": 1007,
+      "desc": "Instantly reduce all build queue time by {0}m. CD: 47.5h"
+    },
+    "1005": {
+      "name": "Free Build",
+      "id": 1005,
+      "desc": "Free Building Time +{0} (min)"
+    },
+    "2005": {
+      "name": "Frenzy",
+      "id": 2005,
+      "desc": "Damage +{0} in Frenzy State"
+    },
+    "2017": {
+      "name": "Weakened",
+      "id": 2017,
+      "desc": "During combat with enemies, heavily wounded enemy Soldiers are [Weakened] at a certain ratio: Soldier level reduced by 1 (Lv.1 Soldiers remain unchanged). Up to {0} Soldiers can be weakened each day."
+    },
+    "1021": {
+      "name": "Random Visitor",
+      "id": 1021,
+      "desc": "Obtain 1 random survivor. CD: {0}"
+    },
+    "2014": {
+      "name": "Concealed Identity",
+      "id": 2014,
+      "desc": "Enter Disguise Mode: Hide personal information and won't appear in enemy battle reports, lasts 30m. CD: 47.5h"
+    },
+    "2010": {
+      "name": "War Supply",
+      "id": 2010,
+      "desc": "Daily Plunder Resource Cap +{0}"
+    },
+    "2021": {
+      "name": "Territory Raid",
+      "id": 2021,
+      "desc": "Heroes attacking territories gain +{0} ATK, DEF, and HP"
+    },
+    "2007": {
+      "name": "Concentrated Fire",
+      "id": 2007,
+      "desc": "Enemies' Casualty Rate +{0} when attacking burning targets"
+    },
+    "2004": {
+      "name": "Infirmary Expansion",
+      "id": 2004,
+      "desc": "Infirmary Capacity up by {0}"
+    },
+    "2018": {
+      "name": "Charging War Flag",
+      "id": 2018,
+      "desc": "Place [War Flag] on vacant terrain. Allies within range gain +{0} ATK, lasting 30 mins (stacks up to 5x). CD: 71.5h"
+    },
+    "1018": {
+      "name": "Bond Shield",
+      "id": 1018,
+      "desc": "Use on yourself or an Alliance Member. Grants the target {0}h of shield (non-stackable). CD: 71.5h"
+    }
+  },
+  "len": 44,
+  "key": "id",
+  "source_format": "locale rows"
+}

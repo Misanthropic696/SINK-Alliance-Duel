@@ -1,0 +1,1563 @@
+{
+  "len": 37,
+  "key": "id",
+  "excelName": "RadarIntelligence_k3新版情报站",
+  "data": {
+    "1010020": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 640,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010020,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010028": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 61,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 61,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 61,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 61,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010028,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010002": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 25,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 480,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010002,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010040": {
+      "unfinishModelId": 10019,
+      "reward": {
+        "1": {
+          "count": 30,
+          "type": 99,
+          "id": "item_Box_gem"
+        }
+      },
+      "gatherReward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Box_gem"
+        }
+      },
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj_02",
+      "des": "",
+      "id": 1010040,
+      "giftPickTime": 86400,
+      "finishModelId": 10019,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt2",
+      "gatherDrop": {}
+    },
+    "1010036": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 19,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 19,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010036,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010008": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 21,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 21,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 21,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010008,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010016": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010016,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010025": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 850,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010025,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010027": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 150,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 3100,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010027,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010024": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 1000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010024,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010009": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 4,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 410,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010009,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010019": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 8,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 820,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010019,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010022": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 125,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 2550,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010022,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010005": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 160,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010005,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010018": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 39,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 39,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 39,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 39,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010018,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010004": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 190,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010004,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010001": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010001,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010003": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 9,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 9,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 9,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010003,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010014": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 6,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 620,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010014,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010015": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 450,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010015,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010034": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 11,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 11,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010034,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010035": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 14,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 14,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010035,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010033": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 8,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010033,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010032": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 6,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010032,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010012": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 75,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 1440,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010012,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010030": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 990,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010030,
+      "giftPickTime": 86400,
+      "finishModelId": 10016,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010029": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 12,
+          "type": 99,
+          "id": "item_Resource_strength001_10"
+        },
+        "2": {
+          "count": 12,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "count": 1200,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010029,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010026": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 31,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 31,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010026,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010023": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 51,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 51,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 51,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 51,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010023,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010010": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 310,
+          "type": 99,
+          "id": "item_Box_gem"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010010,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010017": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 100,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 1980,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010017,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010013": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "2": {
+          "count": 31,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "3": {
+          "count": 31,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 31,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010013,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010031": {
+      "unfinishModelId": 10014,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 4,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010031,
+      "giftPickTime": 86400,
+      "finishModelId": 10017,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010011": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010011,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010007": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 50,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        },
+        "2": {
+          "count": 1050,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010007,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010021": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010021,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    },
+    "1010006": {
+      "unfinishModelId": 10013,
+      "reward": {
+        "1": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_1"
+        },
+        "2": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "gatherReward": {},
+      "doubleGiftPax": 1,
+      "digTime": 7200,
+      "maxJoinPax": 100,
+      "maxGiftNum": 10,
+      "chatBackBG": "pic_lt_wjj",
+      "des": "",
+      "id": 1010006,
+      "giftPickTime": 86400,
+      "finishModelId": 10018,
+      "digSpeedGroup": 1,
+      "name": "",
+      "chatBackIcon": "pic_lt_hdt1",
+      "gatherDrop": {
+        "1": {
+          "id": 10016,
+          "count": 3
+        }
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1010001
+}

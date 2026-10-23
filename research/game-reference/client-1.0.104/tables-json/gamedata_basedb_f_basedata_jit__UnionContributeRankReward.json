@@ -1,0 +1,93 @@
+{
+  "len": 4,
+  "data": {
+    "1": {
+      "contributeValue": 2000,
+      "maxRank": 1,
+      "minRank": 1,
+      "id": 1,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_3h",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1,
+          "count": 500000
+        },
+        "3": {
+          "type": 2,
+          "count": 500000
+        }
+      }
+    },
+    "2": {
+      "contributeValue": 2000,
+      "maxRank": 2,
+      "minRank": 2,
+      "id": 2,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_3h",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "type": 1,
+          "count": 300000
+        },
+        "3": {
+          "type": 2,
+          "count": 300000
+        }
+      }
+    },
+    "3": {
+      "contributeValue": 2000,
+      "maxRank": 3,
+      "minRank": 3,
+      "id": 3,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_60m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1,
+          "count": 200000
+        },
+        "3": {
+          "type": 2,
+          "count": 200000
+        }
+      }
+    },
+    "4": {
+      "contributeValue": 2000,
+      "maxRank": 10,
+      "minRank": 4,
+      "id": 4,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_60m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "type": 1,
+          "count": 100000
+        },
+        "3": {
+          "type": 2,
+          "count": 100000
+        }
+      }
+    }
+  },
+  "key": "id",
+  "first": 1,
+  "excelName": "UnionTech_联盟科技",
+  "isNeedTransform": false
+}

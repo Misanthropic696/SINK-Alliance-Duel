@@ -1,0 +1,22 @@
+{
+  "data": {
+    "2": {
+      "name": "Ranger",
+      "desc": "Ranger Arena",
+      "id": 2
+    },
+    "3": {
+      "name": "Warlock",
+      "desc": "Warlock Arena",
+      "id": 3
+    },
+    "1": {
+      "name": "Warrior",
+      "desc": "Warrior Arena",
+      "id": 1
+    }
+  },
+  "len": 3,
+  "key": "id",
+  "source_format": "locale rows"
+}

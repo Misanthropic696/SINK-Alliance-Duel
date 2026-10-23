@@ -1,0 +1,5 @@
+﻿record_key,taskGroupID,reward,taskName,functionId,dayReset,desc1,target,showSort,id
+4,5610111,"{""1"": {""type"": 99, ""id"": ""item_activity_flipCard"", ""count"": 4}}",,12000_06,1,Donate to Alliance Tech 6 times,"{""1"": {""param1"": 6, ""id"": 50104}}",1,4
+1,5610111,"{""1"": {""type"": 99, ""id"": ""item_activity_flipCard"", ""count"": 6}}",,12000_20,1,Top Up once,"{""1"": {""param1"": 1, ""id"": 200120}}",4,1
+2,5610111,"{""1"": {""type"": 99, ""id"": ""item_activity_flipCard"", ""count"": 4}}",,12000_14,1,Train {0} Soldier(s),"{""1"": {""param1"": ""1"", ""param3"": ""280"", ""param2"": ""1"", ""id"": 90024}}",3,2
+3,5610111,"{""1"": {""type"": 99, ""id"": ""item_activity_flipCard"", ""count"": 4}}",,12000_05,1,Complete Falcon Quest once,"{""1"": {""param1"": 1, ""id"": 200060}}",2,3

@@ -1,0 +1,339 @@
+{
+  "key": "id",
+  "len": 3,
+  "data": {
+    "101002": {
+      "score": 6200000,
+      "winReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 1050,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 18,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 18,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 18,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 18,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "dailyScore": 1100000,
+      "dailyReward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 32,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 32,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 32,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 32,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "winScore": 3150000,
+      "type": 2,
+      "activityID": 996010101,
+      "id": 101002,
+      "failScore": 3150000,
+      "failReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 840,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 6,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 12,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 12,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 12,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      }
+    },
+    "101001": {
+      "score": 12500000,
+      "winReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 1250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 20,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 24,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 24,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 24,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 24,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "dailyScore": 2050000,
+      "dailyReward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 38,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 38,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 38,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 38,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "winScore": 6200000,
+      "type": 3,
+      "activityID": 996010101,
+      "id": 101001,
+      "failScore": 6200000,
+      "failReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 1050,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 18,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 18,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 18,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 18,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      }
+    },
+    "101003": {
+      "score": 3150000,
+      "winReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 840,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 6,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 12,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 12,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 12,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "dailyScore": 600000,
+      "dailyReward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 25,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 25,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 25,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "winScore": 1600000,
+      "type": 1,
+      "activityID": 996010101,
+      "id": 101003,
+      "failScore": 1600000,
+      "failReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 420,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 8,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 8,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 8,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 8,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": false,
+  "first": 101001,
+  "excelName": "AllianceLeague_公会联赛"
+}

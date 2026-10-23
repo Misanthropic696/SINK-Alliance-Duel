@@ -1,0 +1,386 @@
+{
+  "key": "id",
+  "len": 12,
+  "data": {
+    "400103": {
+      "rewardCondition": 2,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 400103,
+      "item": {
+        "1": {
+          "id": "item_research_info",
+          "count": 50,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 20,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "count": 200,
+          "type": 11
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 4001,
+      "count": 5
+    },
+    "300103": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 2,
+      "id": 300103,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 300,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 5
+    },
+    "400102": {
+      "rewardCondition": 2,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 400102,
+      "item": {
+        "1": {
+          "id": "item_research_info",
+          "count": 30,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "count": 100,
+          "type": 11
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 4001,
+      "count": 3
+    },
+    "400101": {
+      "rewardCondition": 2,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 400101,
+      "item": {
+        "1": {
+          "id": "item_research_info",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "count": 50,
+          "type": 11
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 4001,
+      "count": 1
+    },
+    "200101": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 200101,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_1",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "count": 20,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 2001,
+      "count": 1
+    },
+    "300101": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 2,
+      "id": 300101,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "count": 20,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 1
+    },
+    "200103": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 200103,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_1",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 2001,
+      "count": 5
+    },
+    "300203": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 1,
+      "id": 300203,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 5
+    },
+    "300202": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 1,
+      "id": 300202,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 3
+    },
+    "300201": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 1,
+      "id": 300201,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "count": 20,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 1
+    },
+    "200102": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 0,
+      "id": 200102,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_1",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 2001,
+      "count": 3
+    },
+    "300102": {
+      "rewardCondition": 1,
+      "title_name": "",
+      "rankGroup": 2,
+      "id": 300102,
+      "item": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "title_des": "",
+      "arenaId": 3001,
+      "count": 3
+    }
+  },
+  "isNeedTransform": true,
+  "first": 200101,
+  "excelName": "AEArena_竞技场",
+  "enum": {
+    "AEARENARANKGROUP": {
+      "HIGH": 2,
+      "COMMON": 0,
+      "MIDDLE": 1
+    },
+    "AEARENAREWARDCONDITION": {
+      "VICTORY": 2,
+      "COMMON": 0,
+      "CHALLENGE": 1
+    }
+  }
+}

@@ -1,0 +1,4997 @@
+{
+  "data": {
+    "bp_secret": {
+      "description": "Claim quest rewards",
+      "id": "bp_secret",
+      "name": "Covert Rescue"
+    },
+    "2_5032": {
+      "id": "2_5032"
+    },
+    "tower_glory_up": {
+      "id": "tower_glory_up",
+      "name": "Building Enhancement Upgrade"
+    },
+    "christams_goto3": {
+      "id": "christams_goto3",
+      "name": "Elite Blight"
+    },
+    "maintask_rally_38": {
+      "id": "maintask_rally_38",
+      "description": "Main Quest: Rally Lv.38 Monsters"
+    },
+    "80307": {
+      "id": "80307"
+    },
+    "goto_Hospital_315": {
+      "id": "goto_Hospital_315"
+    },
+    "visitbuild_daily_mission": {
+      "description": "Obtained by completing Daily Quests",
+      "id": "visitbuild_daily_mission",
+      "name": "From Daily Quests"
+    },
+    "goto_season1_BP_3": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_3",
+      "name": "Buy Awaken Pass"
+    },
+    "SendWorker_5043": {
+      "id": "SendWorker_5043"
+    },
+    "battle_shiguiqinxi_3": {
+      "id": "battle_shiguiqinxi_3"
+    },
+    "SendWorker_5006": {
+      "id": "SendWorker_5006"
+    },
+    "Build_5018": {
+      "id": "Build_5018"
+    },
+    "commander_1624": {
+      "description": "Train 1 Lv.10 soldier",
+      "id": "commander_1624",
+      "name": "Train 1 Lv.10 soldier"
+    },
+    "goto_109": {
+      "id": "goto_109",
+      "name": "Complete Falcon Quest"
+    },
+    "visit_matchlevel": {
+      "id": "visit_matchlevel"
+    },
+    "commander_1615": {
+      "description": "Train 1 Lv.1 soldier",
+      "id": "commander_1615",
+      "name": "Train 1 Lv.1 soldier"
+    },
+    "999_30_1": {
+      "description": "Use Item",
+      "id": "999_30_1",
+      "name": "Bag"
+    },
+    "goto_wuya_triggerGift_4": {
+      "id": "goto_wuya_triggerGift_4",
+      "name": "Timed Offer"
+    },
+    "80511": {
+      "id": "80511"
+    },
+    "build_2_6_1004": {
+      "id": "build_2_6_1004"
+    },
+    "goto_xiaochou_1": {
+      "id": "goto_xiaochou_1",
+      "name": "Growth Pack"
+    },
+    "roller_become_stronger_Monroe5": {
+      "id": "roller_become_stronger_Monroe5"
+    },
+    "building_unlock_guide_05": {
+      "id": "building_unlock_guide_05"
+    },
+    "goto_yase": {
+      "id": "goto_yase",
+      "name": "Get Arthur Now"
+    },
+    "RNS_leida_jiemian": {
+      "description": "Complete a Radar Quest",
+      "id": "RNS_leida_jiemian",
+      "name": "Complete a Radar Quest"
+    },
+    "goto_become_stronger_03": {
+      "description": "[Curios and Building Attributes] provide basic and advanced combat attributes (Skill DMG, Crit DMG, etc.)",
+      "id": "goto_become_stronger_03",
+      "name": "Curio and Building Stats"
+    },
+    "build_1024": {
+      "id": "build_1024",
+      "description": "Construct X"
+    },
+    "33_1021": {
+      "id": "33_1021"
+    },
+    "999_200_5_0": {
+      "id": "999_200_5_0"
+    },
+    "Goto_1027": {
+      "id": "Goto_1027"
+    },
+    "goto_quyu_1": {
+      "id": "goto_quyu_1"
+    },
+    "2_1027": {
+      "id": "2_1027"
+    },
+    "12000_26": {
+      "description": "Like {0} times in the personal Might ranking",
+      "id": "12000_26",
+      "name": "Like {0} times in the personal Might ranking"
+    },
+    "rookieQuest_camp": {
+      "description": "Training Grounds",
+      "id": "rookieQuest_camp",
+      "name": "Training Grounds"
+    },
+    "12000_05": {
+      "description": "Complete Falcon Quest once",
+      "id": "12000_05",
+      "name": "Complete Falcon Quest once"
+    },
+    "commander_1607": {
+      "description": "Consume 1 Stamina",
+      "id": "commander_1607",
+      "name": "Consume 1 Stamina"
+    },
+    "1_1027": {
+      "id": "1_1027"
+    },
+    "Goto_5018": {
+      "id": "Goto_5018"
+    },
+    "goto_drawing_gift1": {
+      "id": "goto_drawing_gift1",
+      "name": "UR Blueprint Offer"
+    },
+    "goto_dailySpecial_day43": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day43",
+      "name": "Daily Offer"
+    },
+    "2_5025": {
+      "id": "2_5025"
+    },
+    "commander_1621": {
+      "description": "Train 1 Lv.7 soldier",
+      "id": "commander_1621",
+      "name": "Train 1 Lv.7 soldier"
+    },
+    "Build_5045": {
+      "id": "Build_5045"
+    },
+    "999_52_1": {
+      "id": "999_52_1"
+    },
+    "Build_5041": {
+      "id": "Build_5041"
+    },
+    "battlepass_newSoilder": {
+      "id": "battlepass_newSoilder",
+      "description": "Seven-Day Event Redirect"
+    },
+    "goto_season_skincoin": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "goto_season_skincoin",
+      "name": "Era Skin Coin Pack"
+    },
+    "999_200_1_13": {
+      "id": "999_200_1_13"
+    },
+    "555_1022_1_40": {
+      "id": "555_1022_1_40"
+    },
+    "12000_18": {
+      "description": "Recruit survivor once",
+      "id": "12000_18",
+      "name": "Recruit survivor once"
+    },
+    "7_22": {
+      "id": "7_22"
+    },
+    "2_5045": {
+      "id": "2_5045"
+    },
+    "maintask_rally_32": {
+      "id": "maintask_rally_32",
+      "description": "Main Quest: Rally Lv.32 Monsters"
+    },
+    "visitbuild_gift": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "visitbuild_gift",
+      "name": "Purchase Pack"
+    },
+    "999_200_1_20": {
+      "id": "999_200_1_20"
+    },
+    "goto_ying_4": {
+      "id": "goto_ying_4",
+      "name": "Growth Pack"
+    },
+    "powerUpgrade_drone": {
+      "id": "powerUpgrade_drone",
+      "name": "Raven Level"
+    },
+    "commander_1626": {
+      "description": "Execute 1 Orange Covert Operation",
+      "id": "commander_1626",
+      "name": "Execute 1 Orange Covert Operation"
+    },
+    "2_1003": {
+      "id": "2_1003"
+    },
+    "1_1003": {
+      "id": "1_1003"
+    },
+    "1_5002": {
+      "id": "1_5002"
+    },
+    "2_5002": {
+      "id": "2_5002"
+    },
+    "goto_103": {
+      "id": "goto_103",
+      "name": "Recruit Heroes"
+    },
+    "goto_Hospital_19": {
+      "id": "goto_Hospital_19"
+    },
+    "build_3_12_1004": {
+      "id": "build_3_12_1004"
+    },
+    "goto_10003": {
+      "description": "Available for purchase in the Diamond Shop",
+      "id": "goto_10003",
+      "name": "Diamond Purchase"
+    },
+    "Build_5002": {
+      "id": "Build_5002"
+    },
+    "tower_module_up": {
+      "id": "tower_module_up"
+    },
+    "dailyQuest": {
+      "description": "Obtained by completing Daily Quests",
+      "id": "dailyQuest",
+      "name": "From Daily Quests"
+    },
+    "goto_10010": {
+      "id": "goto_10010"
+    },
+    "research_3013": {
+      "id": "research_3013",
+      "description": "Research: Construct I"
+    },
+    "80508": {
+      "id": "80508"
+    },
+    "2_5024": {
+      "id": "2_5024"
+    },
+    "goto_anni_5": {
+      "id": "goto_anni_5",
+      "name": "Growth Pack"
+    },
+    "build_1023": {
+      "id": "build_1023",
+      "description": "Construct X"
+    },
+    "roller_become_stronger_11": {
+      "id": "roller_become_stronger_11"
+    },
+    "goto_Victor_roulette": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Victor_roulette",
+      "name": "Purchase Hero Pass"
+    },
+    "goto_level_10_9": {
+      "id": "goto_level_10_9"
+    },
+    "100_1004_2_2": {
+      "id": "100_1004_2_2"
+    },
+    "rallyHunt_goto": {
+      "id": "rallyHunt_goto"
+    },
+    "goto_season1_BP_6": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_6",
+      "name": "Buy Exclusive Weapon Pass"
+    },
+    "goto_item_atmosphereSkin_childrensday_permanent": {
+      "description": "Obtain through events",
+      "id": "goto_item_atmosphereSkin_childrensday_permanent",
+      "name": "Event Rewards"
+    },
+    "3_3002": {
+      "id": "3_3002"
+    },
+    "81107": {
+      "id": "81107"
+    },
+    "commander_1602": {
+      "description": "Increase 1 Building Might",
+      "id": "commander_1602",
+      "name": "Increase 1 Building Might"
+    },
+    "81303": {
+      "id": "81303"
+    },
+    "alliance_milestone_rally": {
+      "id": "alliance_milestone_rally"
+    },
+    "item_activity_airDrop2": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "item_activity_airDrop2",
+      "name": "Purchase Pack"
+    },
+    "12000_17": {
+      "id": "12000_17",
+      "description": "To Gear Workshop (Production Building)"
+    },
+    "Build_5036": {
+      "id": "Build_5036"
+    },
+    "81103": {
+      "id": "81103"
+    },
+    "item_mecha_factory_lv4_get_more4": {
+      "id": "item_mecha_factory_lv4_get_more4"
+    },
+    "build_3_14_1004": {
+      "id": "build_3_14_1004"
+    },
+    "commander_1601": {
+      "description": "Recruit 1 worker",
+      "id": "commander_1601",
+      "name": "Recruit 1 worker"
+    },
+    "Goto_5040": {
+      "id": "Goto_5040"
+    },
+    "trainwarrior": {
+      "id": "trainwarrior"
+    },
+    "maintask_rally_12": {
+      "id": "maintask_rally_12",
+      "description": "Main Quest: Rally Lv.12 Monsters"
+    },
+    "999_2_1001": {
+      "id": "999_2_1001"
+    },
+    "999_200_1_14": {
+      "id": "999_200_1_14"
+    },
+    "goto_Hospital_16": {
+      "id": "goto_Hospital_16"
+    },
+    "goto_Hospital_314": {
+      "id": "goto_Hospital_314"
+    },
+    "sevendays_tutorial_radar": {
+      "id": "sevendays_tutorial_radar",
+      "name": "Falcon Quest"
+    },
+    "roller_become_stronger_10": {
+      "id": "roller_become_stronger_10"
+    },
+    "107_0": {
+      "id": "107_0"
+    },
+    "SendWorker_5051": {
+      "id": "SendWorker_5051"
+    },
+    "battlepass_daily_mission": {
+      "description": "Obtained by completing Daily Quests",
+      "id": "battlepass_daily_mission",
+      "name": "From Daily Quests"
+    },
+    "81307": {
+      "id": "81307"
+    },
+    "giftshop": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop",
+      "name": "Purchase Pack"
+    },
+    "100_1004_2_8": {
+      "id": "100_1004_2_8"
+    },
+    "building_unlock_guide_09": {
+      "id": "building_unlock_guide_09"
+    },
+    "kill_monster_1_8": {
+      "id": "kill_monster_1_8",
+      "description": "Go to the wild and slay a Lv.8 Blight"
+    },
+    "SendWorker_5029": {
+      "id": "SendWorker_5029"
+    },
+    "goto_hongfuren_1": {
+      "id": "goto_hongfuren_1",
+      "name": "Growth Pack"
+    },
+    "building_unlock_guide_19": {
+      "id": "building_unlock_guide_19"
+    },
+    "SendWorker_5037": {
+      "id": "SendWorker_5037"
+    },
+    "bp_secret_c": {
+      "id": "bp_secret_c",
+      "description": "Claim quest rewards"
+    },
+    "goto_xinxiya_4": {
+      "id": "goto_xinxiya_4",
+      "name": "Growth Pack"
+    },
+    "arsenal_goto_1": {
+      "id": "arsenal_goto_1",
+      "description": "No Gear: Redirect to Armory"
+    },
+    "81618": {
+      "description": "Explore Dense Forest No.17",
+      "id": "81618",
+      "name": "Explore Dense Forest No.13"
+    },
+    "goto_level_14_9": {
+      "id": "goto_level_14_9"
+    },
+    "1_1008": {
+      "id": "1_1008"
+    },
+    "2_1008": {
+      "id": "2_1008"
+    },
+    "cube": {
+      "id": "cube"
+    },
+    "Goto_5041": {
+      "id": "Goto_5041"
+    },
+    "Goto_1001": {
+      "id": "Goto_1001"
+    },
+    "hermit_getitem_goto7": {
+      "description": "Defeat Thieves during the event to earn Recluse Coins",
+      "id": "hermit_getitem_goto7",
+      "name": "Thief Hunt"
+    },
+    "7_7": {
+      "id": "7_7"
+    },
+    "building_unlock_guide_18": {
+      "id": "building_unlock_guide_18",
+      "name": "Proceed to Assembly Point"
+    },
+    "bp_rally_monster": {
+      "description": "Initiate or join a rally",
+      "id": "bp_rally_monster",
+      "name": "Rally"
+    },
+    "778_1007": {
+      "id": "778_1007"
+    },
+    "GetWood": {
+      "id": "GetWood"
+    },
+    "build_2_12_1027": {
+      "id": "build_2_12_1027"
+    },
+    "goto_malianna_6": {
+      "id": "goto_malianna_6",
+      "name": "Growth Pack"
+    },
+    "dailytask_goto_17": {
+      "id": "dailytask_goto_17",
+      "description": "Daily Quest: Patrol"
+    },
+    "dailytask_goto_33": {
+      "id": "dailytask_goto_33",
+      "description": "Daily Quest: Dungeon"
+    },
+    "7_1": {
+      "id": "7_1"
+    },
+    "1_1011": {
+      "id": "1_1011"
+    },
+    "2_1011": {
+      "id": "2_1011"
+    },
+    "Build_5024": {
+      "id": "Build_5024"
+    },
+    "778_1004": {
+      "id": "778_1004"
+    },
+    "80507": {
+      "id": "80507"
+    },
+    "building_unlock_guide_10": {
+      "id": "building_unlock_guide_10"
+    },
+    "80402": {
+      "id": "80402"
+    },
+    "999_200_1_9": {
+      "id": "999_200_1_9"
+    },
+    "powerUpgrade_science": {
+      "description": "Complete research, increase tech level",
+      "id": "powerUpgrade_science",
+      "name": "Tech Research"
+    },
+    "goto_Hospital_wuya": {
+      "id": "goto_Hospital_wuya"
+    },
+    "roller_become_stronger_pay4": {
+      "id": "roller_become_stronger_pay4"
+    },
+    "maintask_rally_45": {
+      "id": "maintask_rally_45",
+      "description": "Main Quest: Rally Lv.45 Monsters"
+    },
+    "commander_1629": {
+      "id": "commander_1629"
+    },
+    "80602": {
+      "id": "80602"
+    },
+    "SendWorker_5023": {
+      "id": "SendWorker_5023"
+    },
+    "roller_become_stronger_Equip100": {
+      "id": "roller_become_stronger_Equip100"
+    },
+    "maintask_rally_26": {
+      "id": "maintask_rally_26",
+      "description": "Main Quest: Rally Lv.26 Monsters"
+    },
+    "80210": {
+      "id": "80210"
+    },
+    "goto_Hospital_3": {
+      "id": "goto_Hospital_3"
+    },
+    "999_200_1_18": {
+      "id": "999_200_1_18"
+    },
+    "goto_BP_beier": {
+      "id": "goto_BP_beier",
+      "name": "Hero Pass"
+    },
+    "win_secondhero1": {
+      "id": "win_secondhero1"
+    },
+    "4_3": {
+      "id": "4_3"
+    },
+    "7_3": {
+      "id": "7_3"
+    },
+    "81507": {
+      "id": "81507"
+    },
+    "100_1004_2_5": {
+      "id": "100_1004_2_5"
+    },
+    "555_1021_1_40": {
+      "id": "555_1021_1_40"
+    },
+    "Goto_5029": {
+      "id": "Goto_5029"
+    },
+    "goto_wuya_triggerGift_9": {
+      "id": "goto_wuya_triggerGift_9",
+      "name": "Timed Offer"
+    },
+    "goto_weekSpecial_wuya_3": {
+      "id": "goto_weekSpecial_wuya_3",
+      "name": "Daily Offer"
+    },
+    "goto_hapo_2": {
+      "id": "goto_hapo_2",
+      "name": "Growth Pack"
+    },
+    "80601": {
+      "id": "80601"
+    },
+    "commander_1610": {
+      "description": "Gather 60 Herbs",
+      "id": "commander_1610",
+      "name": "Gather 60 Herbs"
+    },
+    "80907": {
+      "id": "80907"
+    },
+    "item_getsource_monthcard": {
+      "description": "Buy the Super Monthly Pass to unlock 30 days of benefits.",
+      "id": "item_getsource_monthcard",
+      "name": "Shop"
+    },
+    "commander_1620": {
+      "description": "Train 1 Lv.6 soldier",
+      "id": "commander_1620",
+      "name": "Train 1 Lv.6 soldier"
+    },
+    "999_200_1_24": {
+      "id": "999_200_1_24"
+    },
+    "goto_dilyGift_wuya_6": {
+      "id": "goto_dilyGift_wuya_6",
+      "name": "Daily Must-Buy"
+    },
+    "goto_hapo_1": {
+      "id": "goto_hapo_1",
+      "name": "Growth Pack"
+    },
+    "giftshop_rare": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_rare",
+      "name": "Purchase Pack"
+    },
+    "sevenGift": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "sevenGift",
+      "name": "Purchase Pack"
+    },
+    "Goto_5046": {
+      "id": "Goto_5046"
+    },
+    "Goto_5014": {
+      "id": "Goto_5014"
+    },
+    "7_27": {
+      "id": "7_27"
+    },
+    "7_02": {
+      "id": "7_02"
+    },
+    "maintask_rally_16": {
+      "id": "maintask_rally_16",
+      "description": "Main Quest: Rally Lv.16 Monsters"
+    },
+    "999_50_1": {
+      "id": "999_50_1"
+    },
+    "7_28": {
+      "id": "7_28"
+    },
+    "train_shooter": {
+      "id": "train_shooter"
+    },
+    "itemsummon_daily_mission": {
+      "description": "Obtained by completing Daily Quests",
+      "id": "itemsummon_daily_mission",
+      "name": "From Daily Quests"
+    },
+    "goto_10002": {
+      "description": "Assisting alliance members grants Alliance Coins.",
+      "id": "goto_10002",
+      "name": "Alliance Help"
+    },
+    "SendWorker_5021": {
+      "id": "SendWorker_5021"
+    },
+    "999_200_1_11": {
+      "id": "999_200_1_11"
+    },
+    "SendWorker_5040": {
+      "id": "SendWorker_5040"
+    },
+    "Build_5052": {
+      "id": "Build_5052"
+    },
+    "goto_Hospital_18": {
+      "id": "goto_Hospital_18"
+    },
+    "81609": {
+      "description": "Explore the Dense Forest No.8",
+      "id": "81609",
+      "name": "Explore Dense Forest No.4"
+    },
+    "81017": {
+      "id": "81017"
+    },
+    "goto_level": {
+      "id": "goto_level"
+    },
+    "1_5005": {
+      "id": "1_5005"
+    },
+    "goto_zhuoya_2": {
+      "id": "goto_zhuoya_2",
+      "name": "Growth Pack"
+    },
+    "SendWorker_5052": {
+      "id": "SendWorker_5052"
+    },
+    "goto_become_stronger_04": {
+      "description": "[Hero Stars] offers substantial attributes (ATK, DEF, HP) and significantly enhances hero Skill effects.",
+      "id": "goto_become_stronger_04",
+      "name": "Hero Stars"
+    },
+    "7_20": {
+      "id": "7_20"
+    },
+    "109_2": {
+      "id": "109_2"
+    },
+    "Build_5040": {
+      "id": "Build_5040"
+    },
+    "goto_10004": {
+      "description": "Available for purchase in the Diamond Shop",
+      "id": "goto_10004",
+      "name": "Diamond Purchase"
+    },
+    "goto_anni_3": {
+      "id": "goto_anni_3",
+      "name": "Growth Pack"
+    },
+    "goto_anni_1": {
+      "id": "goto_anni_1",
+      "name": "Growth Pack"
+    },
+    "magicguild": {
+      "id": "magicguild"
+    },
+    "81003": {
+      "id": "81003"
+    },
+    "7_29": {
+      "id": "7_29"
+    },
+    "Build_1001": {
+      "id": "Build_1001"
+    },
+    "roller_become_stronger_pay3": {
+      "id": "roller_become_stronger_pay3"
+    },
+    "build_2_8_1027": {
+      "id": "build_2_8_1027"
+    },
+    "battlepass_matchlevel": {
+      "id": "battlepass_matchlevel",
+      "description": "Can be obtained by winning battles"
+    },
+    "80707": {
+      "id": "80707"
+    },
+    "100_1016_2_3": {
+      "id": "100_1016_2_3"
+    },
+    "SendWorker_5049": {
+      "id": "SendWorker_5049"
+    },
+    "visit_rally_monster": {
+      "description": "Participate in rallying Elite Blights to obtain",
+      "id": "visit_rally_monster",
+      "name": "Elite Blight"
+    },
+    "powerUpgrade_hero": {
+      "description": "Upgrade hero level, star level, and skill level",
+      "id": "powerUpgrade_hero",
+      "name": "Hero Development"
+    },
+    "commander_1616": {
+      "description": "Train 1 Lv.2 soldier",
+      "id": "commander_1616",
+      "name": "Train 1 Lv.2 soldier"
+    },
+    "SendWorker_1008": {
+      "id": "SendWorker_1008"
+    },
+    "81402": {
+      "id": "81402"
+    },
+    "SendWorker_1020": {
+      "id": "SendWorker_1020"
+    },
+    "Build_5008": {
+      "id": "Build_5008"
+    },
+    "maintask_rally_43": {
+      "id": "maintask_rally_43",
+      "description": "Main Quest: Rally Lv.43 Monsters"
+    },
+    "item_activity_airDrop3": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "item_activity_airDrop3",
+      "name": "Purchase Pack"
+    },
+    "goto_10007": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "goto_10007",
+      "name": "Purchase Pack"
+    },
+    "999_200_1_16": {
+      "id": "999_200_1_16"
+    },
+    "Goto_5024": {
+      "id": "Goto_5024"
+    },
+    "item_mecha_factory_lv5_get_more4": {
+      "id": "item_mecha_factory_lv5_get_more4"
+    },
+    "Build_5025": {
+      "id": "Build_5025"
+    },
+    "Build_5010": {
+      "id": "Build_5010"
+    },
+    "80802": {
+      "id": "80802"
+    },
+    "maintask_rally_7": {
+      "id": "maintask_rally_7",
+      "description": "Main Quest: Rally Lv.7 Monsters"
+    },
+    "goto_10009": {
+      "id": "goto_10009"
+    },
+    "80708": {
+      "id": "80708"
+    },
+    "building_unlock_guide_06": {
+      "id": "building_unlock_guide_06"
+    },
+    "arena_shop_button_survival": {
+      "id": "arena_shop_button_survival"
+    },
+    "SendWorker_5024": {
+      "id": "SendWorker_5024"
+    },
+    "3_3009": {
+      "id": "3_3009"
+    },
+    "goto_Leah_Recharge_1": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Leah_Recharge_1",
+      "name": "Purchase Hero Pass"
+    },
+    "goto_Hospital_600": {
+      "id": "goto_Hospital_600"
+    },
+    "12000_11": {
+      "description": "Gather {0} Grain",
+      "id": "12000_11",
+      "name": "Gather {0} Grain"
+    },
+    "item_mecha_factory_lv2_get_more4": {
+      "id": "item_mecha_factory_lv2_get_more4"
+    },
+    "100_1003_8_30": {
+      "id": "100_1003_8_30"
+    },
+    "giftshop_weekly": {
+      "description": "Buy Weekly Offer to obtain Omni Shards",
+      "id": "giftshop_weekly",
+      "name": "Weekly Special"
+    },
+    "goto_level_8_4": {
+      "id": "goto_level_8_4"
+    },
+    "999_6": {
+      "description": "Obtain Hero Shards in the Points Shop",
+      "id": "999_6",
+      "name": "Points Shop"
+    },
+    "999_5": {
+      "description": "Recruit in the Tavern to obtain Hero Shards",
+      "id": "999_5",
+      "name": "Tavern"
+    },
+    "Goto_5047": {
+      "id": "Goto_5047"
+    },
+    "80501": {
+      "id": "80501"
+    },
+    "SendWorker_5014": {
+      "id": "SendWorker_5014"
+    },
+    "Goto_5025": {
+      "id": "Goto_5025"
+    },
+    "goto_xinxiya_6": {
+      "id": "goto_xinxiya_6",
+      "name": "Growth Pack"
+    },
+    "bp_rally_monster_c": {
+      "description": "Initiate or join a rally",
+      "id": "bp_rally_monster_c",
+      "name": "Rally"
+    },
+    "SendWorker_1006": {
+      "id": "SendWorker_1006"
+    },
+    "goto_Hospital_6": {
+      "id": "goto_Hospital_6"
+    },
+    "goto_10005": {
+      "id": "goto_10005"
+    },
+    "7_9": {
+      "id": "7_9"
+    },
+    "SendWorker_5002": {
+      "id": "SendWorker_5002"
+    },
+    "goto_level_8_9": {
+      "id": "goto_level_8_9"
+    },
+    "Build_5046": {
+      "id": "Build_5046"
+    },
+    "building_unlock_guide_20": {
+      "id": "building_unlock_guide_20"
+    },
+    "goto_DragonSkin": {
+      "id": "goto_DragonSkin"
+    },
+    "recruitHero": {
+      "id": "recruitHero"
+    },
+    "goto_season1_BP_4": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_4",
+      "name": "Buy Exclusive Weapon Pass"
+    },
+    "100_1016_3_2": {
+      "id": "100_1016_3_2"
+    },
+    "queue_build_1": {
+      "id": "queue_build_1"
+    },
+    "welfarePanel": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "welfarePanel",
+      "name": "Purchase Pack"
+    },
+    "goto_daily_must_buy": {
+      "description": "Available via [Daily Must-Buy] Packs",
+      "id": "goto_daily_must_buy",
+      "name": "Daily Must-Buy"
+    },
+    "81301": {
+      "id": "81301"
+    },
+    "goto_equip_all": {
+      "id": "goto_equip_all"
+    },
+    "goto_Hospital_100": {
+      "id": "goto_Hospital_100"
+    },
+    "goto_BP_yase": {
+      "id": "goto_BP_yase",
+      "name": "Hero Pass"
+    },
+    "goto_saijiyeguai": {
+      "description": "Defeat wild Resource monsters to obtain",
+      "id": "goto_saijiyeguai",
+      "name": "Resource Monster"
+    },
+    "goto_visit_npc_activity": {
+      "id": "goto_visit_npc_activity"
+    },
+    "999_200_1_29": {
+      "id": "999_200_1_29"
+    },
+    "Goto_5013": {
+      "id": "Goto_5013"
+    },
+    "999_10": {
+      "id": "999_10"
+    },
+    "999_1": {
+      "id": "999_1"
+    },
+    "goto_level_17_9": {
+      "id": "goto_level_17_9"
+    },
+    "12000_22": {
+      "id": "12000_22",
+      "description": "Plunder another's Covert Operation once"
+    },
+    "commander_1617": {
+      "description": "Train 1 Lv.3 soldier",
+      "id": "commander_1617",
+      "name": "Train 1 Lv.3 soldier"
+    },
+    "2_1017": {
+      "id": "2_1017"
+    },
+    "1_1017": {
+      "id": "1_1017"
+    },
+    "SendWorker_5008": {
+      "id": "SendWorker_5008"
+    },
+    "80301": {
+      "id": "80301"
+    },
+    "goto_enhance_gift2": {
+      "id": "goto_enhance_gift2",
+      "name": "Enhancement Special Pack"
+    },
+    "999_200_1_19": {
+      "id": "999_200_1_19"
+    },
+    "81101": {
+      "id": "81101"
+    },
+    "rookieQuest_headquarter": {
+      "description": "Upgrade Sanctuary",
+      "id": "rookieQuest_headquarter",
+      "name": "Upgrade Sanctuary"
+    },
+    "81006": {
+      "id": "81006"
+    },
+    "build_2_10_1004": {
+      "id": "build_2_10_1004"
+    },
+    "goto_dailySpecial": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial",
+      "name": "Daily Offer"
+    },
+    "goto_mid_autumn_activity": {
+      "description": "Obtain through events",
+      "id": "goto_mid_autumn_activity",
+      "name": "Event Rewards"
+    },
+    "81501": {
+      "id": "81501"
+    },
+    "bp_dailyTask_c": {
+      "description": "Claim stage rewards",
+      "id": "bp_dailyTask_c",
+      "name": "Daily Quests"
+    },
+    "2_5043": {
+      "id": "2_5043"
+    },
+    "goto_level_9_4": {
+      "id": "goto_level_9_4"
+    },
+    "goto_bulaien_6": {
+      "id": "goto_bulaien_6",
+      "name": "Growth Pack"
+    },
+    "goto_Hospital_204": {
+      "id": "goto_Hospital_204"
+    },
+    "goto_monopoly_1004": {
+      "id": "goto_monopoly_1004"
+    },
+    "goto_Hospital_300": {
+      "id": "goto_Hospital_300"
+    },
+    "goto_cichong": {
+      "id": "goto_cichong",
+      "name": "New Server Reward"
+    },
+    "goto_union_chat": {
+      "id": "goto_union_chat"
+    },
+    "2_1019": {
+      "id": "2_1019"
+    },
+    "item_decorate_get_more_3": {
+      "description": "Purchase Pack",
+      "id": "item_decorate_get_more_3",
+      "name": "Alliance Supplies"
+    },
+    "Goto_1016": {
+      "id": "Goto_1016"
+    },
+    "2_5008": {
+      "id": "2_5008"
+    },
+    "1_5008": {
+      "id": "1_5008"
+    },
+    "bp_radar": {
+      "description": "Claim quest rewards",
+      "id": "bp_radar",
+      "name": "Intel Quest"
+    },
+    "maintask_rally_33": {
+      "id": "maintask_rally_33",
+      "description": "Main Quest: Rally Lv.33 Monsters"
+    },
+    "1_1019": {
+      "id": "1_1019"
+    },
+    "GotoWorldWood": {
+      "description": "Gather Timber in the World",
+      "id": "GotoWorldWood",
+      "name": "Gather Timber"
+    },
+    "commander_1628": {
+      "id": "commander_1628"
+    },
+    "goto_BP_4": {
+      "description": "Obtain via Easter Celebration",
+      "id": "goto_BP_4",
+      "name": "Buy Easter Celebration Gift"
+    },
+    "allianceshop2_4": {
+      "description": "Redeemable at Alliance Shop",
+      "id": "allianceshop2_4",
+      "name": "Alliance Shop"
+    },
+    "goto_Hospital_2": {
+      "id": "goto_Hospital_2"
+    },
+    "build_2_4_1004": {
+      "id": "build_2_4_1004"
+    },
+    "citywar_task_open_list": {
+      "id": "citywar_task_open_list"
+    },
+    "81002": {
+      "id": "81002"
+    },
+    "goto_yase_2": {
+      "id": "goto_yase_2",
+      "name": "Growth Pack"
+    },
+    "goto_ying_6": {
+      "id": "goto_ying_6",
+      "name": "Growth Pack"
+    },
+    "goto_Hospital_104": {
+      "id": "goto_Hospital_104"
+    },
+    "12000_04": {
+      "description": "Consume {0} Stamina",
+      "id": "12000_04",
+      "name": "Consume {0} Stamina"
+    },
+    "goto_enhance_gift5": {
+      "id": "goto_enhance_gift5",
+      "name": "Enhancement Special Pack"
+    },
+    "goto_saijijijieguaishoupo": {
+      "description": "Defeat each level Elite Blight for the first time to earn RES EXP.",
+      "id": "goto_saijijijieguaishoupo",
+      "name": "Elite Blight First Kill"
+    },
+    "arena": {
+      "description": "Arena",
+      "id": "arena",
+      "name": "Arena"
+    },
+    "mine": {
+      "id": "mine"
+    },
+    "125_1_15": {
+      "description": "Defeat Lv.15 or higher Elite Blights to obtain",
+      "id": "125_1_15",
+      "name": "Elite Blight"
+    },
+    "maintask_rally_27": {
+      "id": "maintask_rally_27",
+      "description": "Main Quest: Rally Lv.27 Monsters"
+    },
+    "giftshop_res_bui_equ": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_res_bui_equ",
+      "name": "Purchase Pack"
+    },
+    "Goto_5010": {
+      "id": "Goto_5010"
+    },
+    "commander_1627": {
+      "description": "Use 1m Healing Speedup",
+      "id": "commander_1627",
+      "name": "Use 1m Healing Speedup"
+    },
+    "goto_102": {
+      "id": "goto_102",
+      "name": "Upgrade Heroes"
+    },
+    "2_5039": {
+      "id": "2_5039"
+    },
+    "tower_dragon_up": {
+      "id": "tower_dragon_up"
+    },
+    "goto_Hospital_313": {
+      "id": "goto_Hospital_313"
+    },
+    "999_4": {
+      "id": "999_4"
+    },
+    "item_mecha_wandering_T1_get_more4": {
+      "id": "item_mecha_wandering_T1_get_more4"
+    },
+    "80711": {
+      "id": "80711"
+    },
+    "visitbuild_rally_monster": {
+      "description": "Participate in rallying Elite Blights to obtain",
+      "id": "visitbuild_rally_monster",
+      "name": "Elite Blight"
+    },
+    "goto_baseGift_7": {
+      "id": "goto_baseGift_7",
+      "name": "Pack Shop"
+    },
+    "7_11": {
+      "id": "7_11"
+    },
+    "goto_level_4_9": {
+      "id": "goto_level_4_9"
+    },
+    "SendWorker_1004": {
+      "id": "SendWorker_1004"
+    },
+    "goto_become_stronger_02": {
+      "description": "[Hero Skills] amplify the combat abilities gained from enhanced hero attributes.",
+      "id": "goto_become_stronger_02",
+      "name": "Hero Skill"
+    },
+    "Goto_1007": {
+      "id": "Goto_1007"
+    },
+    "80904": {
+      "id": "80904"
+    },
+    "goto_Hospital_202": {
+      "id": "goto_Hospital_202"
+    },
+    "4_5": {
+      "id": "4_5"
+    },
+    "7_5": {
+      "id": "7_5"
+    },
+    "goto_107": {
+      "id": "goto_107",
+      "name": "Obtain higher level Soldiers"
+    },
+    "999_40": {
+      "id": "999_40"
+    },
+    "maintask_rally_17": {
+      "id": "maintask_rally_17",
+      "description": "Main Quest: Rally Lv.17 Monsters"
+    },
+    "2_5006": {
+      "id": "2_5006"
+    },
+    "Goto_5030": {
+      "id": "Goto_5030"
+    },
+    "2_1024": {
+      "id": "2_1024"
+    },
+    "1_1024": {
+      "id": "1_1024"
+    },
+    "rookieQuest_monster": {
+      "description": "Defeat the Blight",
+      "id": "rookieQuest_monster",
+      "name": "Defeat the Blight"
+    },
+    "7_13": {
+      "id": "7_13"
+    },
+    "goto_dilyGift_wuya_2": {
+      "id": "goto_dilyGift_wuya_2",
+      "name": "Daily Must-Buy"
+    },
+    "999_200_3_0": {
+      "id": "999_200_3_0"
+    },
+    "51_0": {
+      "id": "51_0"
+    },
+    "100_1003_2_8": {
+      "id": "100_1003_2_8"
+    },
+    "91_0": {
+      "id": "91_0"
+    },
+    "christams_goto4": {
+      "id": "christams_goto4",
+      "name": "Black Ops"
+    },
+    "80203": {
+      "id": "80203"
+    },
+    "101_0": {
+      "id": "101_0"
+    },
+    "12000_13": {
+      "description": "Gather {0} Herbs",
+      "id": "12000_13",
+      "name": "Gather {0} Herbs"
+    },
+    "goto_Hospital_302": {
+      "id": "goto_Hospital_302"
+    },
+    "rookieQuest_monopoly_01": {
+      "id": "rookieQuest_monopoly_01"
+    },
+    "Build_1004": {
+      "id": "Build_1004"
+    },
+    "Build_5006": {
+      "id": "Build_5006"
+    },
+    "80206": {
+      "id": "80206"
+    },
+    "7_15": {
+      "id": "7_15"
+    },
+    "100_1004_5_30": {
+      "id": "100_1004_5_30"
+    },
+    "win_mall": {
+      "id": "win_mall"
+    },
+    "goto_level_18_9": {
+      "id": "goto_level_18_9"
+    },
+    "goto_dasikaer_1": {
+      "id": "goto_dasikaer_1",
+      "name": "Growth Pack"
+    },
+    "2_1004": {
+      "id": "2_1004"
+    },
+    "goto_Hospital_308": {
+      "id": "goto_Hospital_308"
+    },
+    "81104": {
+      "id": "81104"
+    },
+    "30_0": {
+      "id": "30_0"
+    },
+    "goto_level_12_9": {
+      "id": "goto_level_12_9"
+    },
+    "1_1004": {
+      "id": "1_1004"
+    },
+    "build_2_10_1003": {
+      "id": "build_2_10_1003"
+    },
+    "999_200_1_7": {
+      "id": "999_200_1_7"
+    },
+    "80506": {
+      "id": "80506"
+    },
+    "build_2_6_1027": {
+      "id": "build_2_6_1027"
+    },
+    "goto_wuya_triggerGift_1": {
+      "id": "goto_wuya_triggerGift_1",
+      "name": "Timed Offer"
+    },
+    "build_5006": {
+      "id": "build_5006",
+      "description": "Construct X"
+    },
+    "100_1017_2_3": {
+      "id": "100_1017_2_3"
+    },
+    "hospital_ui": {
+      "id": "hospital_ui"
+    },
+    "alliance_milestone_radar": {
+      "id": "alliance_milestone_radar"
+    },
+    "80403": {
+      "id": "80403"
+    },
+    "building_unlock_guide_01": {
+      "id": "building_unlock_guide_01"
+    },
+    "goto_rally_activity": {
+      "id": "goto_rally_activity"
+    },
+    "maintask_rally_23": {
+      "id": "maintask_rally_23",
+      "description": "Main Quest: Rally Lv.23 Monsters"
+    },
+    "item_UseUp_randomMove": {
+      "description": "Purchase with diamonds.",
+      "id": "item_UseUp_randomMove",
+      "name": "Diamond Shop"
+    },
+    "999_2_3005": {
+      "id": "999_2_3005"
+    },
+    "80104": {
+      "id": "80104"
+    },
+    "goto_Hospital_12": {
+      "id": "goto_Hospital_12"
+    },
+    "goto_Hospital_103": {
+      "id": "goto_Hospital_103"
+    },
+    "81305": {
+      "id": "81305"
+    },
+    "105_0": {
+      "id": "105_0"
+    },
+    "7_30": {
+      "id": "7_30"
+    },
+    "81506": {
+      "id": "81506"
+    },
+    "alliance_milestone_tech": {
+      "id": "alliance_milestone_tech"
+    },
+    "roller_become_stronger_Monroe20": {
+      "id": "roller_become_stronger_Monroe20"
+    },
+    "2_5031": {
+      "id": "2_5031"
+    },
+    "100_1003_3_1": {
+      "id": "100_1003_3_1"
+    },
+    "81105": {
+      "id": "81105"
+    },
+    "giftshop_battle_equ": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_battle_equ",
+      "name": "Purchase Pack"
+    },
+    "goto_wuya_triggerGift_7": {
+      "id": "goto_wuya_triggerGift_7",
+      "name": "Timed Offer"
+    },
+    "81616": {
+      "description": "Explore Dense Forest No.15",
+      "id": "81616",
+      "name": "Explore Dense Forest No.11"
+    },
+    "66_0": {
+      "id": "66_0"
+    },
+    "goto_BP_nike": {
+      "id": "goto_BP_nike",
+      "name": "Hero Pass"
+    },
+    "goto_level_1_4": {
+      "id": "goto_level_1_4"
+    },
+    "build_5003": {
+      "id": "build_5003",
+      "description": "Construct X"
+    },
+    "100_1003_3_7": {
+      "id": "100_1003_3_7"
+    },
+    "100_1003_2_30": {
+      "id": "100_1003_2_30"
+    },
+    "firstCharge": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "firstCharge",
+      "name": "Purchase Pack"
+    },
+    "Build_5021": {
+      "id": "Build_5021"
+    },
+    "999_100_2": {
+      "id": "999_100_2"
+    },
+    "roller_become_stronger_Arnold50": {
+      "id": "roller_become_stronger_Arnold50"
+    },
+    "roller_become_stronger_05": {
+      "id": "roller_become_stronger_05"
+    },
+    "goto_level_19_9": {
+      "id": "goto_level_19_9"
+    },
+    "999_9_2": {
+      "description": "Obtained by completing Daily Quests",
+      "id": "999_9_2",
+      "name": "From Daily Quests"
+    },
+    "gift_hero": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "gift_hero",
+      "name": "Purchase Pack"
+    },
+    "rookieQuest_rally": {
+      "id": "rookieQuest_rally"
+    },
+    "100_1004_2_6": {
+      "id": "100_1004_2_6"
+    },
+    "goto_equip_wear": {
+      "id": "goto_equip_wear"
+    },
+    "goto_level_15_9": {
+      "id": "goto_level_15_9"
+    },
+    "80202": {
+      "id": "80202"
+    },
+    "rookieQuest_monopoly_04": {
+      "id": "rookieQuest_monopoly_04"
+    },
+    "maintask_rally_2": {
+      "id": "maintask_rally_2",
+      "description": "Main Quest: Rally Lv.2 Monsters"
+    },
+    "maintask_rally_8": {
+      "id": "maintask_rally_8",
+      "description": "Main Quest: Rally Lv.8 Monsters"
+    },
+    "80901": {
+      "id": "80901"
+    },
+    "goto_wuya_triggerGift_2": {
+      "id": "goto_wuya_triggerGift_2",
+      "name": "Timed Offer"
+    },
+    "item_UseUp_targetMove_3": {
+      "description": "Purchase with diamonds.",
+      "id": "item_UseUp_targetMove_3",
+      "name": "Diamond Shop"
+    },
+    "100_1019_2_30": {
+      "id": "100_1019_2_30"
+    },
+    "SendWorker_5010": {
+      "id": "SendWorker_5010"
+    },
+    "powerUpgrade_build": {
+      "description": "Complete building construction, increase building level",
+      "id": "powerUpgrade_build",
+      "name": "City Building"
+    },
+    "7_14": {
+      "id": "7_14"
+    },
+    "999_200_1_0": {
+      "id": "999_200_1_0"
+    },
+    "81202": {
+      "id": "81202"
+    },
+    "goto_Zara_BP_2": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Zara_BP_2",
+      "name": "Purchase Hero Pass"
+    },
+    "999_9": {
+      "id": "999_9"
+    },
+    "125_1_10": {
+      "description": "Defeat Lv.10 or higher Elite Blights to obtain",
+      "id": "125_1_10",
+      "name": "Elite Blight"
+    },
+    "80305": {
+      "id": "80305"
+    },
+    "bp_radar_c": {
+      "description": "Claim quest rewards",
+      "id": "bp_radar_c",
+      "name": "Intel Quest"
+    },
+    "goto_Brooks_BP_1": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Brooks_BP_1",
+      "name": "Purchase Hero Pass"
+    },
+    "Goto_5008": {
+      "id": "Goto_5008"
+    },
+    "81612": {
+      "description": "Explore Dense Forest No.11",
+      "id": "81612",
+      "name": "Explore the Dense Forest No.7"
+    },
+    "7_21": {
+      "id": "7_21"
+    },
+    "extreme": {
+      "id": "extreme"
+    },
+    "Goto_5043": {
+      "id": "Goto_5043"
+    },
+    "goto_Hospital_307": {
+      "id": "goto_Hospital_307"
+    },
+    "43_0": {
+      "id": "43_0"
+    },
+    "53_0": {
+      "id": "53_0"
+    },
+    "maintask_rally_25": {
+      "id": "maintask_rally_25",
+      "description": "Main Quest: Rally Lv.25 Monsters"
+    },
+    "kill_monster_1_7": {
+      "id": "kill_monster_1_7",
+      "description": "Go to the wild and slay a Lv.7 Blight"
+    },
+    "build_3_14_1027": {
+      "id": "build_3_14_1027"
+    },
+    "building_unlock_guide_13": {
+      "id": "building_unlock_guide_13"
+    },
+    "goto_104": {
+      "id": "goto_104",
+      "name": "Upgrade Sanctuary"
+    },
+    "rookieQuest_enhance": {
+      "description": "Enhance",
+      "id": "rookieQuest_enhance",
+      "name": "Enhance"
+    },
+    "goto_Hospital_111": {
+      "id": "goto_Hospital_111"
+    },
+    "roller_become_stronger_Monroe50": {
+      "id": "roller_become_stronger_Monroe50"
+    },
+    "13_0": {
+      "id": "13_0"
+    },
+    "goto_meiribimai_common": {
+      "description": "Available via [Daily Must-Buy] Packs",
+      "id": "goto_meiribimai_common",
+      "name": "Daily Must-Buy"
+    },
+    "80805": {
+      "id": "80805"
+    },
+    "12000_21": {
+      "description": "Dispatch Personal Trade Caravan 3 times",
+      "id": "12000_21",
+      "name": "Dispatch Personal Trade Caravan 3 times"
+    },
+    "999_2_1002": {
+      "id": "999_2_1002"
+    },
+    "100_1004_8_30": {
+      "id": "100_1004_8_30"
+    },
+    "2_5044": {
+      "id": "2_5044"
+    },
+    "roller_become_stronger_09": {
+      "id": "roller_become_stronger_09"
+    },
+    "giftshop_weekly_common": {
+      "description": "Buy Weekly Offer Pack for more rewards",
+      "id": "giftshop_weekly_common",
+      "name": "Weekly Special"
+    },
+    "Goto_5039": {
+      "id": "Goto_5039"
+    },
+    "80706": {
+      "id": "80706"
+    },
+    "arena_shop_button_region": {
+      "id": "arena_shop_button_region"
+    },
+    "22_0": {
+      "id": "22_0"
+    },
+    "trainrider": {
+      "id": "trainrider"
+    },
+    "building_unlock_guide_08": {
+      "id": "building_unlock_guide_08"
+    },
+    "92_0": {
+      "id": "92_0"
+    },
+    "999_200_1_4": {
+      "id": "999_200_1_4"
+    },
+    "item_mecha_T2_get_more1": {
+      "id": "item_mecha_T2_get_more1"
+    },
+    "goto_bulaien_1": {
+      "id": "goto_bulaien_1",
+      "name": "Growth Pack"
+    },
+    "7_16": {
+      "id": "7_16"
+    },
+    "Goto_5049": {
+      "id": "Goto_5049"
+    },
+    "goto_Alia_BP_3": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Alia_BP_3",
+      "name": "Purchase Hero Pass"
+    },
+    "goto_yase_3": {
+      "id": "goto_yase_3",
+      "name": "Growth Pack"
+    },
+    "100_1003_4_30": {
+      "id": "100_1003_4_30"
+    },
+    "goto_Hospital_9": {
+      "id": "goto_Hospital_9"
+    },
+    "1_1022": {
+      "id": "1_1022"
+    },
+    "tower": {
+      "id": "tower"
+    },
+    "goto_dilyGift_wuya_7": {
+      "id": "goto_dilyGift_wuya_7",
+      "name": "Daily Must-Buy"
+    },
+    "999_200_1_5": {
+      "id": "999_200_1_5"
+    },
+    "2_1022": {
+      "id": "2_1022"
+    },
+    "goto_nike_5": {
+      "id": "goto_nike_5",
+      "name": "Growth Pack"
+    },
+    "goto_Hospital_23": {
+      "id": "goto_Hospital_23"
+    },
+    "commander_1625": {
+      "description": "Dispatch 1 Orange Trade Caravan",
+      "id": "commander_1625",
+      "name": "Dispatch 1 Orange Trade Caravan"
+    },
+    "maintask_rally_9": {
+      "id": "maintask_rally_9",
+      "description": "Main Quest: Rally Lv.9 Monsters"
+    },
+    "maintask_rally_14": {
+      "id": "maintask_rally_14",
+      "description": "Main Quest: Rally Lv.14 Monsters"
+    },
+    "goto_9999": {
+      "id": "goto_9999"
+    },
+    "goto_Hospital_7": {
+      "id": "goto_Hospital_7"
+    },
+    "allianceshop": {
+      "description": "Redeemable at Alliance Shop",
+      "id": "allianceshop",
+      "name": "Alliance Shop"
+    },
+    "commander_1609": {
+      "description": "Gather 100 Timber",
+      "id": "commander_1609",
+      "name": "Gather 100 Timber"
+    },
+    "999_200_1_21": {
+      "id": "999_200_1_21"
+    },
+    "goto_Hospital_200": {
+      "id": "goto_Hospital_200"
+    },
+    "kill_monster": {
+      "description": "Defeat Resource Monsters to obtain more resources!",
+      "id": "kill_monster",
+      "name": "Resource Monster"
+    },
+    "999_200_2_0": {
+      "id": "999_200_2_0"
+    },
+    "100_1027_3_2": {
+      "id": "100_1027_3_2"
+    },
+    "125_1": {
+      "description": "Defeat Resource Monsters on World Map",
+      "id": "125_1",
+      "name": "Resource Monster"
+    },
+    "goto_wuya_triggerGift_12": {
+      "id": "goto_wuya_triggerGift_12",
+      "name": "Timed Offer"
+    },
+    "roller_become_stronger_Arnold5": {
+      "id": "roller_become_stronger_Arnold5"
+    },
+    "999_2_3021": {
+      "id": "999_2_3021"
+    },
+    "38_0": {
+      "id": "38_0"
+    },
+    "18_0": {
+      "id": "18_0"
+    },
+    "12000_16": {
+      "description": "Conduct research once",
+      "id": "12000_16",
+      "name": "Conduct research once"
+    },
+    "storehouse": {
+      "id": "storehouse"
+    },
+    "train_chariot": {
+      "id": "train_chariot"
+    },
+    "alliance_competition_tech_02": {
+      "description": "Unlock 7-9 Chests",
+      "id": "alliance_competition_tech_02",
+      "name": "Unlock 7-9 Chests"
+    },
+    "goto_alliance_uav_10": {
+      "id": "goto_alliance_uav_10",
+      "name": "Raven Enhancement"
+    },
+    "goto_dailySpecial_hero": {
+      "id": "goto_dailySpecial_hero",
+      "name": "Daily Offer"
+    },
+    "recruitWorker": {
+      "id": "recruitWorker"
+    },
+    "battlepass_rally_monster": {
+      "description": "Participate in rallying Elite Blights to obtain",
+      "id": "battlepass_rally_monster",
+      "name": "Elite Blight"
+    },
+    "goto_108": {
+      "id": "goto_108",
+      "name": "Enhance Raven"
+    },
+    "Goto_5052": {
+      "id": "Goto_5052"
+    },
+    "goto_baseGift_6": {
+      "id": "goto_baseGift_6",
+      "name": "Pack Shop"
+    },
+    "29_0": {
+      "id": "29_0"
+    },
+    "39_0": {
+      "id": "39_0"
+    },
+    "81020": {
+      "id": "81020"
+    },
+    "commander_1612": {
+      "description": "Consume 1 Skill Book",
+      "id": "commander_1612",
+      "name": "Consume 1 Skill Book"
+    },
+    "goto_Monroe_Recharge_2": {
+      "description": "Available through top-up rebate",
+      "id": "goto_Monroe_Recharge_2",
+      "name": "New Server Total Top-up"
+    },
+    "roller_become_stronger_04": {
+      "id": "roller_become_stronger_04"
+    },
+    "goto_Arnold_1": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Arnold_1",
+      "name": "Purchase Hero Pass"
+    },
+    "mineshop": {
+      "id": "mineshop"
+    },
+    "Build_1017": {
+      "id": "Build_1017"
+    },
+    "goto_level_6_4": {
+      "id": "goto_level_6_4"
+    },
+    "Build_1008": {
+      "id": "Build_1008"
+    },
+    "goto_VIP_19": {
+      "description": "Buy VIP19 Special Pack to get",
+      "id": "goto_VIP_19",
+      "name": "VIP Pack"
+    },
+    "100_1004_2_30": {
+      "id": "100_1004_2_30"
+    },
+    "hero": {
+      "description": "Have 2 Lv.11 Heroes",
+      "id": "hero",
+      "name": "Have 2 Lv.11 Heroes"
+    },
+    "rally_monster_5": {
+      "id": "rally_monster_5"
+    },
+    "sevendays_tutorial_stage": {
+      "id": "sevendays_tutorial_stage"
+    },
+    "12000_01": {
+      "description": "Log in daily",
+      "id": "12000_01",
+      "name": "Log in daily"
+    },
+    "neichenggongcheng_boss": {
+      "id": "neichenggongcheng_boss"
+    },
+    "goto_level_1_2": {
+      "id": "goto_level_1_2"
+    },
+    "80207": {
+      "id": "80207"
+    },
+    "goto_xiaochou_3": {
+      "id": "goto_xiaochou_3",
+      "name": "Growth Pack"
+    },
+    "goto_Hospital_110": {
+      "id": "goto_Hospital_110"
+    },
+    "build_1008": {
+      "id": "build_1008",
+      "description": "Construct X"
+    },
+    "80408": {
+      "id": "80408"
+    },
+    "rookieQuest_monopoly_05": {
+      "id": "rookieQuest_monopoly_05"
+    },
+    "7_12": {
+      "id": "7_12"
+    },
+    "gift_discount": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "gift_discount",
+      "name": "Purchase Pack"
+    },
+    "100_1027_2_8": {
+      "id": "100_1027_2_8"
+    },
+    "getItem_arena": {
+      "description": "Participate in the Arena to earn various rewards!",
+      "id": "getItem_arena",
+      "name": "Arena"
+    },
+    "35_0": {
+      "id": "35_0"
+    },
+    "25_0": {
+      "id": "25_0"
+    },
+    "3_3001": {
+      "id": "3_3001"
+    },
+    "goto_dasikaer_3": {
+      "id": "goto_dasikaer_3",
+      "name": "Growth Pack"
+    },
+    "778_1021": {
+      "id": "778_1021"
+    },
+    "12000_07": {
+      "description": "Recruit heroes once",
+      "id": "12000_07",
+      "name": "Recruit heroes once"
+    },
+    "80604": {
+      "id": "80604"
+    },
+    "module": {
+      "id": "module"
+    },
+    "100_1017_2_1": {
+      "id": "100_1017_2_1"
+    },
+    "7_19": {
+      "id": "7_19"
+    },
+    "goto_Hospital_301": {
+      "id": "goto_Hospital_301"
+    },
+    "1_6001": {
+      "id": "1_6001"
+    },
+    "80813": {
+      "id": "80813"
+    },
+    "999_2_3009": {
+      "id": "999_2_3009"
+    },
+    "100_1004_7_30": {
+      "id": "100_1004_7_30"
+    },
+    "1_1005": {
+      "id": "1_1005"
+    },
+    "2_1005": {
+      "id": "2_1005"
+    },
+    "goto_BP_hongfuren": {
+      "id": "goto_BP_hongfuren",
+      "name": "Hero Pass"
+    },
+    "33_1020": {
+      "id": "33_1020"
+    },
+    "100_1016_2_2": {
+      "id": "100_1016_2_2"
+    },
+    "Goto_5016": {
+      "id": "Goto_5016"
+    },
+    "54_0": {
+      "id": "54_0"
+    },
+    "81007": {
+      "id": "81007"
+    },
+    "24_0": {
+      "id": "24_0"
+    },
+    "goto_hapo_5": {
+      "id": "goto_hapo_5",
+      "name": "Growth Pack"
+    },
+    "80703": {
+      "id": "80703"
+    },
+    "towershop": {
+      "id": "towershop"
+    },
+    "81203": {
+      "id": "81203"
+    },
+    "106_0": {
+      "id": "106_0"
+    },
+    "999_200_1_30": {
+      "id": "999_200_1_30"
+    },
+    "goto_101": {
+      "id": "goto_101",
+      "name": "Get Arthur Now"
+    },
+    "12000_12": {
+      "description": "Gather {0} Timber",
+      "id": "12000_12",
+      "name": "Gather {0} Timber"
+    },
+    "100_1017_3_1": {
+      "id": "100_1017_3_1"
+    },
+    "12000_24": {
+      "id": "12000_24"
+    },
+    "SendWorker_5033": {
+      "id": "SendWorker_5033"
+    },
+    "build_2_2_1003": {
+      "id": "build_2_2_1003"
+    },
+    "christams_goto5": {
+      "id": "christams_goto5",
+      "name": "Wandering Blight"
+    },
+    "12000_06": {
+      "description": "Donate to Alliance Tech 5 times",
+      "id": "12000_06",
+      "name": "Donate to Alliance Tech 5 times"
+    },
+    "battle_shiguiqinxi_1": {
+      "id": "battle_shiguiqinxi_1"
+    },
+    "maintask_rally_31": {
+      "id": "maintask_rally_31",
+      "description": "Main Quest: Rally Lv.31 Monsters"
+    },
+    "win_firsthero5": {
+      "id": "win_firsthero5"
+    },
+    "goto_drawing_gift3": {
+      "id": "goto_drawing_gift3",
+      "name": "UR Blueprint Offer"
+    },
+    "81207": {
+      "id": "81207"
+    },
+    "goto_malianna_4": {
+      "id": "goto_malianna_4",
+      "name": "Growth Pack"
+    },
+    "81403": {
+      "id": "81403"
+    },
+    "goto_dailySpecial_day8": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day8",
+      "name": "Daily Offer"
+    },
+    "SendWorker_5013": {
+      "id": "SendWorker_5013"
+    },
+    "Build_5031": {
+      "id": "Build_5031"
+    },
+    "goto_level_2_3": {
+      "id": "goto_level_2_3"
+    },
+    "goto_xinxiya_1": {
+      "id": "goto_xinxiya_1",
+      "name": "Growth Pack"
+    },
+    "christams_goto2": {
+      "id": "christams_goto2",
+      "name": "Resource Monster"
+    },
+    "maintask_rally_28": {
+      "id": "maintask_rally_28",
+      "description": "Main Quest: Rally Lv.28 Monsters"
+    },
+    "2_1020": {
+      "id": "2_1020"
+    },
+    "build_2_12_1003": {
+      "id": "build_2_12_1003"
+    },
+    "goto_wuya_triggerGift_14": {
+      "id": "goto_wuya_triggerGift_14",
+      "name": "Timed Offer"
+    },
+    "item_mecha_get_more6": {
+      "description": "Join Alliance Hunt",
+      "id": "item_mecha_get_more6",
+      "name": "Alliance Hunt"
+    },
+    "goto_dailychest": {
+      "id": "goto_dailychest"
+    },
+    "goto_Alia_BP_1": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Alia_BP_1",
+      "name": "Purchase Hero Pass"
+    },
+    "1_1020": {
+      "id": "1_1020"
+    },
+    "goto_BP_luyisi": {
+      "id": "goto_BP_luyisi",
+      "name": "Hero Pass"
+    },
+    "goto_world_chat": {
+      "id": "goto_world_chat"
+    },
+    "research": {
+      "id": "research",
+      "name": "Access the Tech interface"
+    },
+    "Goto_5035": {
+      "id": "Goto_5035"
+    },
+    "2_5033": {
+      "id": "2_5033"
+    },
+    "999_50_2": {
+      "id": "999_50_2"
+    },
+    "hero_1": {
+      "id": "hero_1"
+    },
+    "goto_Brooks_BP_2": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Brooks_BP_2",
+      "name": "Purchase Hero Pass"
+    },
+    "1005008": {
+      "id": "1005008",
+      "name": "Challenge in Arena"
+    },
+    "goto_xiaochou_4": {
+      "id": "goto_xiaochou_4",
+      "name": "Growth Pack"
+    },
+    "maintask_rally_1": {
+      "id": "maintask_rally_1",
+      "description": "Main Quest: Rally Lv.1 Monsters"
+    },
+    "goto_bulaien_4": {
+      "id": "goto_bulaien_4",
+      "name": "Growth Pack"
+    },
+    "building_unlock_guide_17": {
+      "id": "building_unlock_guide_17"
+    },
+    "81407": {
+      "id": "81407"
+    },
+    "tower_equment_up": {
+      "id": "tower_equment_up",
+      "name": "Gear Enhancement"
+    },
+    "goto_level_20_9": {
+      "id": "goto_level_20_9"
+    },
+    "giftshop_weekly_enhance": {
+      "description": "Buy Weekly Offer to obtain Omni Shards",
+      "id": "giftshop_weekly_enhance",
+      "name": "Weekly Special"
+    },
+    "train_warrior": {
+      "id": "train_warrior"
+    },
+    "item_mecha_factory_lv1_get_more4": {
+      "id": "item_mecha_factory_lv1_get_more4"
+    },
+    "goto_enhance_gift4": {
+      "id": "goto_enhance_gift4",
+      "name": "Enhancement Special Pack"
+    },
+    "building_unlock_guide_16": {
+      "id": "building_unlock_guide_16"
+    },
+    "building_unlock_guide_14": {
+      "id": "building_unlock_guide_14"
+    },
+    "goto_beier_2": {
+      "id": "goto_beier_2",
+      "name": "Growth Pack"
+    },
+    "goto_equip_upgrade": {
+      "id": "goto_equip_upgrade"
+    },
+    "80702": {
+      "id": "80702"
+    },
+    "goto_10006": {
+      "id": "goto_10006"
+    },
+    "goto_enhance_gift1": {
+      "id": "goto_enhance_gift1",
+      "name": "Enhancement Special Pack"
+    },
+    "goto_xiaochou_2": {
+      "id": "goto_xiaochou_2",
+      "name": "Growth Pack"
+    },
+    "goto_drawing_gift4": {
+      "id": "goto_drawing_gift4",
+      "name": "UR Blueprint Offer"
+    },
+    "goto_drawing_gift2": {
+      "id": "goto_drawing_gift2",
+      "name": "UR Blueprint Offer"
+    },
+    "999_200_1_28": {
+      "id": "999_200_1_28"
+    },
+    "goto_level_13_9": {
+      "id": "goto_level_13_9"
+    },
+    "goto_championduel": {
+      "id": "goto_championduel",
+      "name": "Supreme Duel"
+    },
+    "12000_23": {
+      "description": "Enhance the Raven once",
+      "id": "12000_23",
+      "name": "Enhance the Raven once"
+    },
+    "hermit_getitem_goto6": {
+      "description": "Complete Recluse Challenges to earn Recluse Coins",
+      "id": "hermit_getitem_goto6",
+      "name": "Pandemic Experience"
+    },
+    "hermit_getitem_goto5": {
+      "description": "Defeat Wandering Blights to earn Recluse Coins",
+      "id": "hermit_getitem_goto5",
+      "name": "Wandering Blight"
+    },
+    "hermit_getitem_goto4": {
+      "id": "hermit_getitem_goto4",
+      "name": "Elite Blight"
+    },
+    "hermit_getitem_goto3": {
+      "id": "hermit_getitem_goto3",
+      "name": "Resource Monster"
+    },
+    "win_firsthero2": {
+      "id": "win_firsthero2"
+    },
+    "maintask_rally_21": {
+      "id": "maintask_rally_21",
+      "description": "Main Quest: Rally Lv.21 Monsters"
+    },
+    "hermit_getitem_goto2": {
+      "description": "Complete Falcon Quests to earn Recluse Coins",
+      "id": "hermit_getitem_goto2",
+      "name": "Falcon Tower"
+    },
+    "1_1021": {
+      "id": "1_1021"
+    },
+    "hermit_getitem_goto1": {
+      "description": "Recluse Coins earned this way don't count toward the Cap. Recluse Coin amounts vary by Quest Quality.",
+      "id": "hermit_getitem_goto1",
+      "name": "Black Ops"
+    },
+    "goto_recluse_coin_activity4": {
+      "id": "goto_recluse_coin_activity4",
+      "name": "Path of the Recluse III"
+    },
+    "goto_Hospital_303": {
+      "id": "goto_Hospital_303"
+    },
+    "goto_recluse_coin_activity3": {
+      "id": "goto_recluse_coin_activity3",
+      "name": "Path of the Recluse II"
+    },
+    "2_1021": {
+      "id": "2_1021"
+    },
+    "goto_bili_1": {
+      "id": "goto_bili_1",
+      "name": "Growth Pack"
+    },
+    "goto_activity_pirate": {
+      "id": "goto_activity_pirate"
+    },
+    "goto_recluse_coin_activity1": {
+      "id": "goto_recluse_coin_activity1",
+      "name": "Recluse's Enigma"
+    },
+    "81617": {
+      "description": "Explore Dense Forest No.16",
+      "id": "81617",
+      "name": "Explore Dense Forest No.12"
+    },
+    "goto_BP_bili": {
+      "id": "goto_BP_bili",
+      "name": "Hero Pass"
+    },
+    "999_200_1_6": {
+      "id": "999_200_1_6"
+    },
+    "goto_BP_zhuoya": {
+      "id": "goto_BP_zhuoya",
+      "name": "Hero Pass"
+    },
+    "goto_BP_bulaien": {
+      "id": "goto_BP_bulaien",
+      "name": "Hero Pass"
+    },
+    "goto_BP_dasikaer": {
+      "id": "goto_BP_dasikaer",
+      "name": "Hero Pass"
+    },
+    "goto_Hospital_20": {
+      "id": "goto_Hospital_20"
+    },
+    "4_6": {
+      "id": "4_6"
+    },
+    "Build_5030": {
+      "id": "Build_5030"
+    },
+    "81519": {
+      "id": "81519"
+    },
+    "999_200_1_15": {
+      "id": "999_200_1_15"
+    },
+    "7_2": {
+      "id": "7_2"
+    },
+    "7_6": {
+      "id": "7_6"
+    },
+    "goto_wuya_triggerGift_13": {
+      "id": "goto_wuya_triggerGift_13",
+      "name": "Timed Offer"
+    },
+    "goto_BP_ying": {
+      "id": "goto_BP_ying",
+      "name": "Hero Pass"
+    },
+    "building_unlock_guide_15": {
+      "id": "building_unlock_guide_15"
+    },
+    "goto_nike_4": {
+      "id": "goto_nike_4",
+      "name": "Growth Pack"
+    },
+    "999_300_1": {
+      "id": "999_300_1"
+    },
+    "goto_nike_3": {
+      "id": "goto_nike_3",
+      "name": "Growth Pack"
+    },
+    "goto_wuya_triggerGift_6": {
+      "id": "goto_wuya_triggerGift_6",
+      "name": "Timed Offer"
+    },
+    "goto_Hospital_304": {
+      "id": "goto_Hospital_304"
+    },
+    "100_1019_2_4": {
+      "id": "100_1019_2_4"
+    },
+    "Build_1006": {
+      "id": "Build_1006"
+    },
+    "goto_nike_1": {
+      "id": "goto_nike_1",
+      "name": "Growth Pack"
+    },
+    "goto_bili_6": {
+      "id": "goto_bili_6",
+      "name": "Growth Pack"
+    },
+    "4_4": {
+      "id": "4_4"
+    },
+    "7_4": {
+      "id": "7_4"
+    },
+    "9_0": {
+      "id": "9_0"
+    },
+    "goto_beier_1": {
+      "id": "goto_beier_1",
+      "name": "Growth Pack"
+    },
+    "7_0": {
+      "id": "7_0"
+    },
+    "goto_bili_5": {
+      "id": "goto_bili_5",
+      "name": "Growth Pack"
+    },
+    "goto_bili_4": {
+      "id": "goto_bili_4",
+      "name": "Growth Pack"
+    },
+    "999_200_4_0": {
+      "id": "999_200_4_0"
+    },
+    "goto_bili_3": {
+      "id": "goto_bili_3",
+      "name": "Growth Pack"
+    },
+    "goto_bili_2": {
+      "id": "goto_bili_2",
+      "name": "Growth Pack"
+    },
+    "item_mecha_factory_lv3_get_more4": {
+      "id": "item_mecha_factory_lv3_get_more4"
+    },
+    "Hosital_dangqian": {
+      "description": "Upgrade clinic rooms to earn stars",
+      "id": "Hosital_dangqian",
+      "name": "Clinic Upgrade"
+    },
+    "80509": {
+      "id": "80509"
+    },
+    "goto_recluse_coin_activity2": {
+      "id": "goto_recluse_coin_activity2",
+      "name": "Path of the Recluse I"
+    },
+    "sevendays_tutorial_main": {
+      "id": "sevendays_tutorial_main"
+    },
+    "building_unlock_guide_02": {
+      "id": "building_unlock_guide_02"
+    },
+    "GotoWorldHerb": {
+      "description": "Gather Herb in the World",
+      "id": "GotoWorldHerb",
+      "name": "Gather Herb"
+    },
+    "giftshop_limited": {
+      "id": "giftshop_limited"
+    },
+    "12000_15": {
+      "description": "Upgrade buildings once",
+      "id": "12000_15",
+      "name": "Upgrade buildings once"
+    },
+    "goto_bulaien_3": {
+      "id": "goto_bulaien_3",
+      "name": "Growth Pack"
+    },
+    "goto_beier_5": {
+      "id": "goto_beier_5",
+      "name": "Growth Pack"
+    },
+    "Goto_5037": {
+      "id": "Goto_5037"
+    },
+    "goto_beier_4": {
+      "id": "goto_beier_4",
+      "name": "Growth Pack"
+    },
+    "goto_hapo_6": {
+      "id": "goto_hapo_6",
+      "name": "Growth Pack"
+    },
+    "goto_luyisi_6": {
+      "id": "goto_luyisi_6",
+      "name": "Growth Pack"
+    },
+    "Goto_1010": {
+      "id": "Goto_1010"
+    },
+    "goto_luyisi_5": {
+      "id": "goto_luyisi_5",
+      "name": "Growth Pack"
+    },
+    "goto_luyisi_4": {
+      "id": "goto_luyisi_4",
+      "name": "Growth Pack"
+    },
+    "12000_14": {
+      "description": "Go to Training Grounds",
+      "id": "12000_14",
+      "name": "Go to Training Grounds"
+    },
+    "2_1002": {
+      "id": "2_1002"
+    },
+    "build_2_12_1004": {
+      "id": "build_2_12_1004"
+    },
+    "12000_20": {
+      "description": "Make any purchase",
+      "id": "12000_20",
+      "name": "Make any purchase"
+    },
+    "rookieQuest_building": {
+      "description": "Upgrade Buildings",
+      "id": "rookieQuest_building",
+      "name": "Upgrade Buildings"
+    },
+    "goto_Bekka_BP": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Bekka_BP",
+      "name": "Purchase Hero Pass"
+    },
+    "80407": {
+      "id": "80407"
+    },
+    "goto_season_skinexchangeshop": {
+      "description": "Obtainable via Appearance Shop Exchange",
+      "id": "goto_season_skinexchangeshop",
+      "name": "Appearance Shop Exchange"
+    },
+    "goto_Hospital_309": {
+      "id": "goto_Hospital_309"
+    },
+    "goto_ying_1": {
+      "id": "goto_ying_1",
+      "name": "Growth Pack"
+    },
+    "goto_ying_5": {
+      "id": "goto_ying_5",
+      "name": "Growth Pack"
+    },
+    "999_100_1": {
+      "id": "999_100_1"
+    },
+    "999_1_2": {
+      "id": "999_1_2"
+    },
+    "maintask_rally_11": {
+      "id": "maintask_rally_11",
+      "description": "Main Quest: Rally Lv.11 Monsters"
+    },
+    "100_1003_2_5": {
+      "id": "100_1003_2_5"
+    },
+    "AllianceGift": {
+      "id": "AllianceGift"
+    },
+    "goto_luyisi_1": {
+      "id": "goto_luyisi_1",
+      "name": "Growth Pack"
+    },
+    "goto_zhuoya_6": {
+      "id": "goto_zhuoya_6",
+      "name": "Growth Pack"
+    },
+    "tower_chip_up": {
+      "id": "tower_chip_up"
+    },
+    "Goto_5034": {
+      "id": "Goto_5034"
+    },
+    "getItem_tower_shop": {
+      "description": "Visit the Shop to buy more",
+      "id": "getItem_tower_shop",
+      "name": "Expedition Shop"
+    },
+    "1_1025": {
+      "id": "1_1025"
+    },
+    "2_1025": {
+      "id": "2_1025"
+    },
+    "goto_zhuoya_3": {
+      "id": "goto_zhuoya_3",
+      "name": "Growth Pack"
+    },
+    "battlepass_arena": {
+      "description": "Can be obtained by initiating challenges",
+      "id": "battlepass_arena",
+      "name": "Go to Arena"
+    },
+    "goto_bulaien_5": {
+      "id": "goto_bulaien_5",
+      "name": "Growth Pack"
+    },
+    "giftshop_daily": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_daily",
+      "name": "Purchase Pack"
+    },
+    "build_3_12_1027": {
+      "id": "build_3_12_1027"
+    },
+    "goto_bulaien_2": {
+      "id": "goto_bulaien_2",
+      "name": "Growth Pack"
+    },
+    "roller_become_stronger_Monroe10": {
+      "id": "roller_become_stronger_Monroe10"
+    },
+    "alliance_competition_tech_01": {
+      "description": "Unlock 4-6 Chests",
+      "id": "alliance_competition_tech_01",
+      "name": "Unlock 4-6 Chests"
+    },
+    "goto_hongfuren_6": {
+      "id": "goto_hongfuren_6",
+      "name": "Growth Pack"
+    },
+    "goto_hongfuren_5": {
+      "id": "goto_hongfuren_5",
+      "name": "Growth Pack"
+    },
+    "build_2_4_1027": {
+      "id": "build_2_4_1027"
+    },
+    "goto_hongfuren_4": {
+      "id": "goto_hongfuren_4",
+      "name": "Growth Pack"
+    },
+    "goto_hongfuren_3": {
+      "id": "goto_hongfuren_3",
+      "name": "Growth Pack"
+    },
+    "goto_hongfuren_2": {
+      "id": "goto_hongfuren_2",
+      "name": "Growth Pack"
+    },
+    "goto_dasikaer_6": {
+      "id": "goto_dasikaer_6",
+      "name": "Growth Pack"
+    },
+    "goto_105": {
+      "id": "goto_105",
+      "name": "Technology Research"
+    },
+    "maintask_rally_22": {
+      "id": "maintask_rally_22",
+      "description": "Main Quest: Rally Lv.22 Monsters"
+    },
+    "rookieQuest_drone": {
+      "id": "rookieQuest_drone"
+    },
+    "2_1007": {
+      "id": "2_1007"
+    },
+    "1_1007": {
+      "id": "1_1007"
+    },
+    "goto_dasikaer_5": {
+      "id": "goto_dasikaer_5",
+      "name": "Growth Pack"
+    },
+    "goto_dasikaer_4": {
+      "id": "goto_dasikaer_4",
+      "name": "Growth Pack"
+    },
+    "goto_dasikaer_2": {
+      "id": "goto_dasikaer_2",
+      "name": "Growth Pack"
+    },
+    "goto_beier_3": {
+      "id": "goto_beier_3",
+      "name": "Growth Pack"
+    },
+    "999_200_1_17": {
+      "id": "999_200_1_17"
+    },
+    "goto_hapo_4": {
+      "id": "goto_hapo_4",
+      "name": "Growth Pack"
+    },
+    "goto_hapo_3": {
+      "id": "goto_hapo_3",
+      "name": "Growth Pack"
+    },
+    "goto_xiaochou_6": {
+      "id": "goto_xiaochou_6",
+      "name": "Growth Pack"
+    },
+    "100_1015_2_4": {
+      "id": "100_1015_2_4"
+    },
+    "goto_xiaochou_5": {
+      "id": "goto_xiaochou_5",
+      "name": "Growth Pack"
+    },
+    "build_2_10_1027": {
+      "id": "build_2_10_1027"
+    },
+    "Build_1020": {
+      "id": "Build_1020"
+    },
+    "goto_anni_6": {
+      "id": "goto_anni_6",
+      "name": "Growth Pack"
+    },
+    "SendWorker_5015": {
+      "id": "SendWorker_5015"
+    },
+    "goto_Alliance_Duel": {
+      "id": "goto_Alliance_Duel"
+    },
+    "goto_10013": {
+      "description": "Item Use - Equip Star Up Box",
+      "id": "goto_10013",
+      "name": "Item Use - Equip Star Up Box"
+    },
+    "goto_anni_4": {
+      "id": "goto_anni_4",
+      "name": "Growth Pack"
+    },
+    "goto_malianna_5": {
+      "id": "goto_malianna_5",
+      "name": "Growth Pack"
+    },
+    "goto_anni_2": {
+      "id": "goto_anni_2",
+      "name": "Growth Pack"
+    },
+    "80709": {
+      "id": "80709"
+    },
+    "goto_xinxiya_5": {
+      "id": "goto_xinxiya_5",
+      "name": "Growth Pack"
+    },
+    "goto_baseGift_11": {
+      "id": "goto_baseGift_11",
+      "name": "Pack Shop"
+    },
+    "goto_xinxiya_2": {
+      "id": "goto_xinxiya_2",
+      "name": "Growth Pack"
+    },
+    "goto_luyisi_2": {
+      "id": "goto_luyisi_2",
+      "name": "Growth Pack"
+    },
+    "hospital": {
+      "id": "hospital"
+    },
+    "goto_ying_3": {
+      "id": "goto_ying_3",
+      "name": "Growth Pack"
+    },
+    "goto_level_5_9": {
+      "id": "goto_level_5_9"
+    },
+    "goto_malianna_3": {
+      "id": "goto_malianna_3",
+      "name": "Growth Pack"
+    },
+    "RNS_pifu_xinshouleichong": {
+      "description": "From New Server Top Up Reward Event",
+      "id": "RNS_pifu_xinshouleichong",
+      "name": "Top Up Reward"
+    },
+    "goto_malianna_2": {
+      "id": "goto_malianna_2",
+      "name": "Growth Pack"
+    },
+    "goto_level_5_4": {
+      "id": "goto_level_5_4"
+    },
+    "roller_become_stronger_03": {
+      "id": "roller_become_stronger_03"
+    },
+    "52_0": {
+      "id": "52_0"
+    },
+    "goto_yase_6": {
+      "id": "goto_yase_6",
+      "name": "Growth Pack"
+    },
+    "goto_yase_5": {
+      "id": "goto_yase_5",
+      "name": "Growth Pack"
+    },
+    "goto_yase_4": {
+      "id": "goto_yase_4",
+      "name": "Growth Pack"
+    },
+    "1_1006": {
+      "id": "1_1006"
+    },
+    "2_1006": {
+      "id": "2_1006"
+    },
+    "80808": {
+      "id": "80808"
+    },
+    "goto_yase_1": {
+      "id": "goto_yase_1",
+      "name": "Growth Pack"
+    },
+    "goto_wuya_triggerGift_15": {
+      "id": "goto_wuya_triggerGift_15",
+      "name": "Timed Offer"
+    },
+    "goto_Hospital_305": {
+      "id": "goto_Hospital_305"
+    },
+    "commander_1614": {
+      "description": "Use 1m Training Boost",
+      "id": "commander_1614",
+      "name": "Use 1m Training Boost"
+    },
+    "goto_100": {
+      "id": "goto_100",
+      "name": "Obtain Marlena Immediately"
+    },
+    "goto_wuya_triggerGift_10": {
+      "id": "goto_wuya_triggerGift_10",
+      "name": "Timed Offer"
+    },
+    "goto_dailySpecial_day22": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day22",
+      "name": "Daily Offer"
+    },
+    "goto_become_stronger_12": {
+      "description": "[Epigraph] grants powerful Skill to Ravens and Heroes",
+      "id": "goto_become_stronger_12",
+      "name": "Raven Epigraph"
+    },
+    "GotoWorldFood": {
+      "description": "Gather Grain in the World",
+      "id": "GotoWorldFood",
+      "name": "Gather Grain"
+    },
+    "goto_nike_2": {
+      "id": "goto_nike_2",
+      "name": "Growth Pack"
+    },
+    "goto_wuya_triggerGift_5": {
+      "id": "goto_wuya_triggerGift_5",
+      "name": "Timed Offer"
+    },
+    "goto_wuya_triggerGift_3": {
+      "id": "goto_wuya_triggerGift_3",
+      "name": "Timed Offer"
+    },
+    "goto_uav_Module_5": {
+      "id": "goto_uav_Module_5",
+      "name": "Inscription Offer"
+    },
+    "SendWorker_5032": {
+      "id": "SendWorker_5032"
+    },
+    "SendWorker_5039": {
+      "id": "SendWorker_5039"
+    },
+    "goto_uav_Module_4": {
+      "id": "goto_uav_Module_4",
+      "name": "Inscription Offer"
+    },
+    "125_0": {
+      "description": "Participate in rallying Elite Blights to obtain",
+      "id": "125_0",
+      "name": "Elite Blight"
+    },
+    "80902": {
+      "id": "80902"
+    },
+    "goto_xinxiya_3": {
+      "id": "goto_xinxiya_3",
+      "name": "Growth Pack"
+    },
+    "goto_uav_Module_1": {
+      "id": "goto_uav_Module_1",
+      "name": "Inscription Offer"
+    },
+    "goto_alliance_uav_9": {
+      "id": "goto_alliance_uav_9",
+      "name": "Raven Enhancement"
+    },
+    "80502": {
+      "id": "80502"
+    },
+    "Build_5016": {
+      "id": "Build_5016"
+    },
+    "goto_alliance_uav_8": {
+      "id": "goto_alliance_uav_8",
+      "name": "Raven Enhancement"
+    },
+    "goto_alliance_uav_7": {
+      "id": "goto_alliance_uav_7",
+      "name": "Raven Enhancement"
+    },
+    "commander_1604": {
+      "description": "Increase 1 Tech Might",
+      "id": "commander_1604",
+      "name": "Increase 1 Tech Might"
+    },
+    "chip": {
+      "id": "chip"
+    },
+    "goto_alliance_uav_6": {
+      "id": "goto_alliance_uav_6",
+      "name": "Raven Enhancement"
+    },
+    "goto_alliance_uav_5": {
+      "id": "goto_alliance_uav_5",
+      "name": "Raven Enhancement"
+    },
+    "Build_5037": {
+      "id": "Build_5037"
+    },
+    "item_UseUp_targetMove_2": {
+      "description": "Limited purchase in Alliance Shop",
+      "id": "item_UseUp_targetMove_2",
+      "name": "Alliance Shop"
+    },
+    "goto_alliance_uav_2": {
+      "id": "goto_alliance_uav_2",
+      "name": "Raven Enhancement"
+    },
+    "2_1001": {
+      "id": "2_1001"
+    },
+    "5_1020_1_10": {
+      "id": "5_1020_1_10"
+    },
+    "7_17": {
+      "id": "7_17"
+    },
+    "goto_alliance_uav_1": {
+      "id": "goto_alliance_uav_1",
+      "name": "Raven Enhancement"
+    },
+    "goto_baseGift_13": {
+      "id": "goto_baseGift_13",
+      "name": "Pack Shop"
+    },
+    "81607": {
+      "description": "Explore the Dense Forest No.6",
+      "id": "81607",
+      "name": "Explore Dense Forest No.2"
+    },
+    "outcity_alliance": {
+      "id": "outcity_alliance"
+    },
+    "goto_baseGift_12": {
+      "id": "goto_baseGift_12",
+      "name": "Pack Shop"
+    },
+    "goto_uav_Module_2": {
+      "id": "goto_uav_Module_2",
+      "name": "Inscription Offer"
+    },
+    "Build_5033": {
+      "id": "Build_5033"
+    },
+    "999_3_3": {
+      "id": "999_3_3"
+    },
+    "goto_baseGift_10": {
+      "id": "goto_baseGift_10",
+      "name": "Pack Shop"
+    },
+    "goto_baseGift_9": {
+      "id": "goto_baseGift_9",
+      "name": "Pack Shop"
+    },
+    "goto_baseGift_8": {
+      "id": "goto_baseGift_8",
+      "name": "Pack Shop"
+    },
+    "goto_baseGift_5": {
+      "id": "goto_baseGift_5",
+      "name": "Pack Shop"
+    },
+    "maintask_rally_34": {
+      "id": "maintask_rally_34",
+      "description": "Main Quest: Rally Lv.34 Monsters"
+    },
+    "goto_baseGift_3": {
+      "id": "goto_baseGift_3",
+      "name": "Pack Shop"
+    },
+    "alliance_milestone_gift": {
+      "id": "alliance_milestone_gift"
+    },
+    "battle_shiguiqinxi_2": {
+      "id": "battle_shiguiqinxi_2"
+    },
+    "goto_baseGift_2": {
+      "id": "goto_baseGift_2",
+      "name": "Pack Shop"
+    },
+    "sevendays_tutorial_monica": {
+      "id": "sevendays_tutorial_monica"
+    },
+    "goto_weekSpecial_wuya_2": {
+      "id": "goto_weekSpecial_wuya_2",
+      "name": "Daily Offer"
+    },
+    "81502": {
+      "id": "81502"
+    },
+    "7_18": {
+      "id": "7_18"
+    },
+    "goto_weekSpecial_wuya_1": {
+      "id": "goto_weekSpecial_wuya_1",
+      "name": "Daily Offer"
+    },
+    "goto_dilyGift_wuya_5": {
+      "id": "goto_dilyGift_wuya_5",
+      "name": "Daily Must-Buy"
+    },
+    "GetHerb": {
+      "id": "GetHerb"
+    },
+    "maintask_rally_13": {
+      "id": "maintask_rally_13",
+      "description": "Main Quest: Rally Lv.13 Monsters"
+    },
+    "goto_dilyGift_wuya_3": {
+      "id": "goto_dilyGift_wuya_3",
+      "name": "Daily Must-Buy"
+    },
+    "999_200_1_8": {
+      "id": "999_200_1_8"
+    },
+    "roller_become_stronger_07": {
+      "id": "roller_become_stronger_07"
+    },
+    "item_mecha_T1_get_more1": {
+      "id": "item_mecha_T1_get_more1"
+    },
+    "decor": {
+      "id": "decor",
+      "name": "Universal Curio Shard"
+    },
+    "goto_dailySpecial_hero_juexing": {
+      "id": "goto_dailySpecial_hero_juexing",
+      "name": "Daily Offer"
+    },
+    "goto_dailySpecial_hero_zhuanwu": {
+      "id": "goto_dailySpecial_hero_zhuanwu",
+      "name": "Daily Offer"
+    },
+    "maintask_rally_39": {
+      "id": "maintask_rally_39",
+      "description": "Main Quest: Rally Lv.39 Monsters"
+    },
+    "108_0": {
+      "id": "108_0"
+    },
+    "goto_shouchong": {
+      "id": "goto_shouchong",
+      "name": "1st Top Up"
+    },
+    "SendWorker_1017": {
+      "id": "SendWorker_1017"
+    },
+    "goto_clientexchangeshop": {
+      "description": "Unlocks at Lord's Specialty Lv.40",
+      "id": "goto_clientexchangeshop",
+      "name": "Sanctuary Shop"
+    },
+    "commander_1600": {
+      "description": "Buy a pack containing Diamonds [1 Diamond]",
+      "id": "commander_1600",
+      "name": "Buy a pack containing Diamonds [1 Diamond]"
+    },
+    "goto_dailySpecial_day36": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day36",
+      "name": "Daily Offer"
+    },
+    "goto_dailySpecial_day29": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day29",
+      "name": "Daily Offer"
+    },
+    "goto_dailySpecial_day15": {
+      "description": "Available through Daily Offer purchase",
+      "id": "goto_dailySpecial_day15",
+      "name": "Daily Offer"
+    },
+    "Vip_shop_season": {
+      "description": "Unlocks at Lord's Specialty Lv.25",
+      "id": "Vip_shop_season",
+      "name": "VIP Shop"
+    },
+    "allianceshop_season": {
+      "description": "Unlocks at Lord's Specialty Lv.35",
+      "id": "allianceshop_season",
+      "name": "Alliance Shop"
+    },
+    "goto_luyisi_3": {
+      "id": "goto_luyisi_3",
+      "name": "Growth Pack"
+    },
+    "goto_season1_BP_5": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_5",
+      "name": "Buy Exclusive Weapon Pass"
+    },
+    "goto_season1_BP_2": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_2",
+      "name": "Buy Awaken Pass"
+    },
+    "goto_season1_BP_1": {
+      "description": "Unlock Pass to gain more Shards",
+      "id": "goto_season1_BP_1",
+      "name": "Buy Awaken Pass"
+    },
+    "goto_lingzhudengji": {
+      "description": "Upgrade Specialty Level to increase RES EXP Output.",
+      "id": "goto_lingzhudengji",
+      "name": "Specialty Level"
+    },
+    "Build_5043": {
+      "id": "Build_5043"
+    },
+    "goto_saijijijieguai": {
+      "description": "Obtained by defeating Elite Blight",
+      "id": "goto_saijijijieguai",
+      "name": "Elite Blight"
+    },
+    "goto_saijizhouka": {
+      "description": "Obtain by buying Era Weekly Pass",
+      "id": "goto_saijizhouka",
+      "name": "Era Weekly Pass"
+    },
+    "RNS_zhangjie_07_01": {
+      "id": "RNS_zhangjie_07_01"
+    },
+    "goto_AllianceLeague": {
+      "description": "Earn via Alliance League",
+      "id": "goto_AllianceLeague",
+      "name": "Alliance League"
+    },
+    "goto_item_childrensday_permanent": {
+      "description": "Obtain through events",
+      "id": "goto_item_childrensday_permanent",
+      "name": "Event Rewards"
+    },
+    "goto_VIP_18": {
+      "description": "Buy VIP18 Special Pack to get",
+      "id": "goto_VIP_18",
+      "name": "VIP Pack"
+    },
+    "gate": {
+      "id": "gate"
+    },
+    "maintask_rally_19": {
+      "id": "maintask_rally_19",
+      "description": "Main Quest: Rally Lv.19 Monsters"
+    },
+    "goto_equipchangeactivity1": {
+      "description": "Obtain via Strange Shop Event Exchange",
+      "id": "goto_equipchangeactivity1",
+      "name": "Strange Shop Event"
+    },
+    "Goto_5045": {
+      "id": "Goto_5045"
+    },
+    "goto_BP_7": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_7",
+      "name": "Buy Hero Summon"
+    },
+    "Goto_5006": {
+      "id": "Goto_5006"
+    },
+    "103_0": {
+      "id": "103_0"
+    },
+    "goto_BP_6": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_6",
+      "name": "Buy Hero Summon"
+    },
+    "Goto_5051": {
+      "id": "Goto_5051"
+    },
+    "goto_become_stronger_07": {
+      "description": "[Raven Gear] provides substantial basic and advanced attributes to both the Raven and heroes (Skill DMG, Crit DMG, etc).",
+      "id": "goto_become_stronger_07",
+      "name": "Raven Gear"
+    },
+    "goto_BP_3": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_3",
+      "name": "Buy Hero Summon"
+    },
+    "80401": {
+      "id": "80401"
+    },
+    "win_equip1": {
+      "id": "win_equip1"
+    },
+    "81001": {
+      "id": "81001"
+    },
+    "goto_BP_2": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_2",
+      "name": "Buy Hero Summon"
+    },
+    "maintask_rally_18": {
+      "id": "maintask_rally_18",
+      "description": "Main Quest: Rally Lv.18 Monsters"
+    },
+    "SendWorker_5045": {
+      "id": "SendWorker_5045"
+    },
+    "goto_BP_1": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_1",
+      "name": "Buy Hero Summon"
+    },
+    "goto_become_stronger_09": {
+      "description": "[Survivors] offer substantial economic attributes, accelerating your growth.",
+      "id": "goto_become_stronger_09",
+      "name": "Survivor"
+    },
+    "goto_allianceexpedition_boss": {
+      "id": "goto_allianceexpedition_boss",
+      "description": "Chat Link: Alliance Expedition Boss"
+    },
+    "goto_meiribimai": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "goto_meiribimai",
+      "name": "Purchase Pack"
+    },
+    "item_decorate_get_more_1": {
+      "description": "Glory Pass",
+      "id": "item_decorate_get_more_1",
+      "name": "Glory Pass"
+    },
+    "cangbaotu_goto_1": {
+      "description": "Exchange treasure shards with alliance members.",
+      "id": "cangbaotu_goto_1",
+      "name": "Alliance Member Trade"
+    },
+    "GotoWorldWoodZombie": {
+      "description": "Defeat Resource Monsters on World Map",
+      "id": "GotoWorldWoodZombie",
+      "name": "Resource Monster"
+    },
+    "rookieQuest_recruit": {
+      "description": "Recruit",
+      "id": "rookieQuest_recruit",
+      "name": "Recruit"
+    },
+    "goto_wuya_triggerGift_8": {
+      "id": "goto_wuya_triggerGift_8",
+      "name": "Timed Offer"
+    },
+    "goto_Hospital_102": {
+      "id": "goto_Hospital_102"
+    },
+    "goto_level_4_4": {
+      "id": "goto_level_4_4"
+    },
+    "bp_gift_c": {
+      "description": "Purchase Event Item Pack",
+      "id": "bp_gift_c",
+      "name": "Shop Pack"
+    },
+    "goto_become_stronger_08": {
+      "description": "[Buildings] grant partial CMD, aiding heroes.",
+      "id": "goto_become_stronger_08",
+      "name": "Building"
+    },
+    "win_firsthero4": {
+      "id": "win_firsthero4"
+    },
+    "win_firsthero1": {
+      "id": "win_firsthero1"
+    },
+    "win_firsthero3": {
+      "id": "win_firsthero3"
+    },
+    "win_secondhero5": {
+      "id": "win_secondhero5"
+    },
+    "win_secondhero4": {
+      "id": "win_secondhero4"
+    },
+    "win_secondhero3": {
+      "id": "win_secondhero3"
+    },
+    "win_secondhero2": {
+      "id": "win_secondhero2"
+    },
+    "win_secondbbppay": {
+      "id": "win_secondbbppay"
+    },
+    "win_doomsdaybp": {
+      "id": "win_doomsdaybp"
+    },
+    "goto_level_2_6": {
+      "id": "goto_level_2_6"
+    },
+    "win_secondpay": {
+      "id": "win_secondpay"
+    },
+    "100_1015_3_4": {
+      "id": "100_1015_3_4"
+    },
+    "giftshop_build": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_build",
+      "name": "Purchase Pack"
+    },
+    "giftshop_week": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_week",
+      "name": "Purchase Pack"
+    },
+    "2_5034": {
+      "id": "2_5034"
+    },
+    "7_8": {
+      "id": "7_8"
+    },
+    "win_firstpay": {
+      "id": "win_firstpay"
+    },
+    "GotoWorldFoodZombie": {
+      "description": "Defeat Resource Monsters on World Map",
+      "id": "GotoWorldFoodZombie",
+      "name": "Resource Monster"
+    },
+    "rookieQuest_help": {
+      "description": "Help",
+      "id": "rookieQuest_help",
+      "name": "Help"
+    },
+    "2_5046": {
+      "id": "2_5046"
+    },
+    "building_unlock_guide_04": {
+      "id": "building_unlock_guide_04"
+    },
+    "goto_Hospital_311": {
+      "id": "goto_Hospital_311"
+    },
+    "999_200_1_3": {
+      "id": "999_200_1_3"
+    },
+    "goto_Alia_BP_2": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Alia_BP_2",
+      "name": "Purchase Hero Pass"
+    },
+    "80807": {
+      "id": "80807"
+    },
+    "battery_not_enough_goto1": {
+      "id": "battery_not_enough_goto1"
+    },
+    "1_1029": {
+      "id": "1_1029"
+    },
+    "goto_UniversalFragment_roulette": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_UniversalFragment_roulette",
+      "name": "Purchase Hero Pass"
+    },
+    "Goto_1008": {
+      "id": "Goto_1008"
+    },
+    "goto_level_11_9": {
+      "id": "goto_level_11_9"
+    },
+    "goto_Monroe_Recharge_1": {
+      "description": "Available through top-up rebate",
+      "id": "goto_Monroe_Recharge_1",
+      "name": "Week 1 New Server Total Top-up"
+    },
+    "item_Escort_Convoy_Quality": {
+      "description": "Purchase with diamonds.",
+      "id": "item_Escort_Convoy_Quality",
+      "name": "Diamond Shop"
+    },
+    "commander_1619": {
+      "description": "Train 1 Lv.5 soldier",
+      "id": "commander_1619",
+      "name": "Train 1 Lv.5 soldier"
+    },
+    "goto_alliance_uav_3": {
+      "id": "goto_alliance_uav_3",
+      "name": "Raven Enhancement"
+    },
+    "item_UseUp_targetMove_1": {
+      "description": "Unlock VIP level for purchase",
+      "id": "item_UseUp_targetMove_1",
+      "name": "VIP Shop"
+    },
+    "SendWorker_1016": {
+      "id": "SendWorker_1016"
+    },
+    "81004": {
+      "id": "81004"
+    },
+    "Build_5049": {
+      "id": "Build_5049"
+    },
+    "Goto_1019": {
+      "id": "Goto_1019"
+    },
+    "cangbaotu_goto_2": {
+      "description": "Complete purple or higher quality quests to obtain shards.",
+      "id": "cangbaotu_goto_2",
+      "name": "Rescue Quest"
+    },
+    "125_0_13": {
+      "description": "Defeat Lv.13 or higher Elite Blights to obtain",
+      "id": "125_0_13",
+      "name": "Elite Blight"
+    },
+    "GotoWorldHerbZombie": {
+      "description": "Defeat Resource Monsters on World Map",
+      "id": "GotoWorldHerbZombie",
+      "name": "Resource Monster"
+    },
+    "equment": {
+      "id": "equment",
+      "name": "Gear Enhancement"
+    },
+    "commander_1606": {
+      "description": "Complete Falcon Quest once",
+      "id": "commander_1606",
+      "name": "Complete Falcon Quest once"
+    },
+    "2_1015": {
+      "id": "2_1015"
+    },
+    "1_1015": {
+      "id": "1_1015"
+    },
+    "battlegift": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "battlegift",
+      "name": "Purchase Pack"
+    },
+    "SendWorker_5046": {
+      "id": "SendWorker_5046"
+    },
+    "80209": {
+      "id": "80209"
+    },
+    "rally_monster_7": {
+      "id": "rally_monster_7"
+    },
+    "SendWorker_5044": {
+      "id": "SendWorker_5044"
+    },
+    "81102": {
+      "id": "81102"
+    },
+    "SendWorker_5042": {
+      "id": "SendWorker_5042"
+    },
+    "100_1003_7_30": {
+      "id": "100_1003_7_30"
+    },
+    "goto_alliance_uav_4": {
+      "id": "goto_alliance_uav_4",
+      "name": "Raven Enhancement"
+    },
+    "SendWorker_5038": {
+      "id": "SendWorker_5038"
+    },
+    "building_unlock_guide_12": {
+      "id": "building_unlock_guide_12"
+    },
+    "1_1030": {
+      "id": "1_1030"
+    },
+    "5_1023_2_10": {
+      "id": "5_1023_2_10"
+    },
+    "goto_10001": {
+      "description": "Donating to alliance research grants Alliance Coins.",
+      "id": "goto_10001",
+      "name": "Alliance Research"
+    },
+    "999_200_1_1": {
+      "id": "999_200_1_1"
+    },
+    "bp_gift": {
+      "description": "Purchase Event Item Pack",
+      "id": "bp_gift",
+      "name": "Shop Pack"
+    },
+    "SendWorker_5035": {
+      "id": "SendWorker_5035"
+    },
+    "Build_5014": {
+      "id": "Build_5014"
+    },
+    "giftshop_totem": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_totem",
+      "name": "Purchase Pack"
+    },
+    "trainshooter": {
+      "id": "trainshooter"
+    },
+    "SendWorker_5034": {
+      "id": "SendWorker_5034"
+    },
+    "SendWorker_5031": {
+      "id": "SendWorker_5031"
+    },
+    "Build_5042": {
+      "id": "Build_5042"
+    },
+    "SendWorker_5030": {
+      "id": "SendWorker_5030"
+    },
+    "SendWorker_5025": {
+      "id": "SendWorker_5025"
+    },
+    "SendWorker_5018": {
+      "id": "SendWorker_5018"
+    },
+    "tower_cube_up": {
+      "id": "tower_cube_up"
+    },
+    "SendWorker_5016": {
+      "id": "SendWorker_5016"
+    },
+    "100_1016_2_1": {
+      "id": "100_1016_2_1"
+    },
+    "100_1003_2_3": {
+      "id": "100_1003_2_3"
+    },
+    "SendWorker_1019": {
+      "id": "SendWorker_1019"
+    },
+    "build_2_8_1004": {
+      "id": "build_2_8_1004"
+    },
+    "81401": {
+      "id": "81401"
+    },
+    "SendWorker_1010": {
+      "id": "SendWorker_1010"
+    },
+    "goto_become_stronger_01": {
+      "description": "[Hero Level] grants massive attributes (ATK, DEF, HP) and unlocks new Hero Skills.",
+      "id": "goto_become_stronger_01",
+      "name": "Hero Level"
+    },
+    "SendWorker_1007": {
+      "id": "SendWorker_1007"
+    },
+    "SendWorker_1002": {
+      "id": "SendWorker_1002"
+    },
+    "sevendays_tutorial_event": {
+      "id": "sevendays_tutorial_event"
+    },
+    "Moster_dangqian": {
+      "description": "Defeat resource monsters of each level in the World Map for the first time to earn Stars",
+      "id": "Moster_dangqian",
+      "name": "Blight First Kill"
+    },
+    "christams_goto1": {
+      "id": "christams_goto1",
+      "name": "Falcon Tower"
+    },
+    "Goto_5044": {
+      "id": "Goto_5044"
+    },
+    "Goto_5042": {
+      "id": "Goto_5042"
+    },
+    "build_2_4_1003": {
+      "id": "build_2_4_1003"
+    },
+    "build_3_14_1003": {
+      "id": "build_3_14_1003"
+    },
+    "100_1015_2_30": {
+      "id": "100_1015_2_30"
+    },
+    "Goto_5038": {
+      "id": "Goto_5038"
+    },
+    "2_5042": {
+      "id": "2_5042"
+    },
+    "Goto_5036": {
+      "id": "Goto_5036"
+    },
+    "81611": {
+      "description": "Explore the Dense Forest No.10",
+      "id": "81611",
+      "name": "Explore the Dense Forest No.6"
+    },
+    "goto_zhuoya_4": {
+      "id": "goto_zhuoya_4",
+      "name": "Growth Pack"
+    },
+    "1_1028": {
+      "id": "1_1028"
+    },
+    "Goto_5033": {
+      "id": "Goto_5033"
+    },
+    "goto_level_7_4": {
+      "id": "goto_level_7_4"
+    },
+    "Goto_5032": {
+      "id": "Goto_5032"
+    },
+    "recruitHero2": {
+      "description": "Get more through Campaign",
+      "id": "recruitHero2",
+      "name": "Campaign"
+    },
+    "1_1009": {
+      "id": "1_1009"
+    },
+    "2_1009": {
+      "id": "2_1009"
+    },
+    "Goto_5031": {
+      "id": "Goto_5031"
+    },
+    "Goto_5023": {
+      "id": "Goto_5023"
+    },
+    "Goto_5021": {
+      "id": "Goto_5021"
+    },
+    "Goto_5015": {
+      "id": "Goto_5015"
+    },
+    "maintask_rally_40": {
+      "id": "maintask_rally_40",
+      "description": "Main Quest: Rally Lv.40 Monsters"
+    },
+    "visitbuild_arena": {
+      "description": "Can be obtained by initiating challenges",
+      "id": "visitbuild_arena",
+      "name": "Go to Arena"
+    },
+    "100_1004_3_30": {
+      "id": "100_1004_3_30"
+    },
+    "Goto_5002": {
+      "id": "Goto_5002"
+    },
+    "Goto_1020": {
+      "id": "Goto_1020"
+    },
+    "2_5023": {
+      "id": "2_5023"
+    },
+    "item_UseUp_unionMove": {
+      "description": "Allows you to relocate your Sanctuary near the alliance.",
+      "id": "item_UseUp_unionMove",
+      "name": "Alliance Relocate"
+    },
+    "maintask_rally_4": {
+      "id": "maintask_rally_4",
+      "description": "Main Quest: Rally Lv.4 Monsters"
+    },
+    "Goto_1017": {
+      "id": "Goto_1017"
+    },
+    "Goto_1006": {
+      "id": "Goto_1006"
+    },
+    "Goto_1004": {
+      "id": "Goto_1004"
+    },
+    "Build_5032": {
+      "id": "Build_5032"
+    },
+    "Goto_1002": {
+      "id": "Goto_1002"
+    },
+    "80611": {
+      "id": "80611"
+    },
+    "goto_level_16_9": {
+      "id": "goto_level_16_9"
+    },
+    "item_mecha_get_more2": {
+      "id": "item_mecha_get_more2",
+      "description": "Complete Falcon Quest"
+    },
+    "80201": {
+      "id": "80201"
+    },
+    "Build_5047": {
+      "id": "Build_5047"
+    },
+    "Build_5044": {
+      "id": "Build_5044"
+    },
+    "goto_Hospital_101": {
+      "id": "goto_Hospital_101"
+    },
+    "goto_kuaguoyuanzheng_goto": {
+      "description": "Obtain through events",
+      "id": "goto_kuaguoyuanzheng_goto",
+      "name": "Kingdom War"
+    },
+    "Build_5039": {
+      "id": "Build_5039"
+    },
+    "alliancehelp": {
+      "id": "alliancehelp"
+    },
+    "roller_become_stronger_Arnold20": {
+      "id": "roller_become_stronger_Arnold20"
+    },
+    "2_1026": {
+      "id": "2_1026"
+    },
+    "80905": {
+      "id": "80905"
+    },
+    "Build_5038": {
+      "id": "Build_5038"
+    },
+    "1_1026": {
+      "id": "1_1026"
+    },
+    "commander_1618": {
+      "description": "Train 1 Lv.4 soldier",
+      "id": "commander_1618",
+      "name": "Train 1 Lv.4 soldier"
+    },
+    "SendWorker_5041": {
+      "id": "SendWorker_5041"
+    },
+    "Build_5035": {
+      "id": "Build_5035"
+    },
+    "alliance_milestone_help": {
+      "id": "alliance_milestone_help"
+    },
+    "goto_Leah_roulette": {
+      "id": "goto_Leah_roulette",
+      "description": "Join Wishing Wheel Event"
+    },
+    "779_5002": {
+      "id": "779_5002"
+    },
+    "Build_5034": {
+      "id": "Build_5034"
+    },
+    "Build_5029": {
+      "id": "Build_5029"
+    },
+    "999_51_1": {
+      "id": "999_51_1"
+    },
+    "Build_5015": {
+      "id": "Build_5015"
+    },
+    "80102": {
+      "id": "80102"
+    },
+    "Build_5013": {
+      "id": "Build_5013"
+    },
+    "7_26": {
+      "id": "7_26"
+    },
+    "Build_1027": {
+      "id": "Build_1027"
+    },
+    "Build_1019": {
+      "id": "Build_1019"
+    },
+    "Build_1016": {
+      "id": "Build_1016"
+    },
+    "Build_1010": {
+      "id": "Build_1010"
+    },
+    "Build_1007": {
+      "id": "Build_1007"
+    },
+    "Build_1002": {
+      "id": "Build_1002"
+    },
+    "GetFood": {
+      "id": "GetFood"
+    },
+    "bp_dailyTask": {
+      "description": "Claim stage rewards",
+      "id": "bp_dailyTask",
+      "name": "Daily Quests"
+    },
+    "goto_Hospital_800": {
+      "id": "goto_Hospital_800",
+      "description": "Jump to the Clinic's default location"
+    },
+    "getItem_rally": {
+      "description": "Obtained by defeating Elite Blight",
+      "id": "getItem_rally",
+      "name": "Rally"
+    },
+    "rookieQuest_monopoly_02": {
+      "id": "rookieQuest_monopoly_02"
+    },
+    "goto_Hospital_500": {
+      "id": "goto_Hospital_500"
+    },
+    "80803": {
+      "id": "80803"
+    },
+    "goto_Hospital_310": {
+      "id": "goto_Hospital_310"
+    },
+    "goto_Hospital_306": {
+      "id": "goto_Hospital_306"
+    },
+    "citadel": {
+      "description": "Sanctuary",
+      "id": "citadel",
+      "name": "Sanctuary"
+    },
+    "rally_monster_8": {
+      "id": "rally_monster_8"
+    },
+    "sevendays_tutorial_arena": {
+      "id": "sevendays_tutorial_arena"
+    },
+    "goto_Hospital_13": {
+      "id": "goto_Hospital_13"
+    },
+    "80503": {
+      "id": "80503"
+    },
+    "research_3021": {
+      "id": "research_3021",
+      "description": "Research: Construct I"
+    },
+    "80306": {
+      "id": "80306"
+    },
+    "123_0": {
+      "id": "123_0",
+      "description": "Obtain Antitoxin"
+    },
+    "goto_Hospital_201": {
+      "id": "goto_Hospital_201"
+    },
+    "goto_Hospital_203": {
+      "id": "goto_Hospital_203"
+    },
+    "33_1022": {
+      "id": "33_1022"
+    },
+    "goto_Hospital_1": {
+      "id": "goto_Hospital_1"
+    },
+    "1_1023": {
+      "id": "1_1023"
+    },
+    "81504": {
+      "id": "81504"
+    },
+    "goto_Hospital_17": {
+      "id": "goto_Hospital_17"
+    },
+    "goto_Hospital_14": {
+      "id": "goto_Hospital_14"
+    },
+    "goto_Hospital_11": {
+      "id": "goto_Hospital_11"
+    },
+    "100_1003_6_30": {
+      "id": "100_1003_6_30"
+    },
+    "build_1003": {
+      "id": "build_1003"
+    },
+    "2_1023": {
+      "id": "2_1023"
+    },
+    "Monopoly_Area": {
+      "id": "Monopoly_Area"
+    },
+    "Monopoly_1004": {
+      "id": "Monopoly_1004"
+    },
+    "Radar_dangqian": {
+      "description": "Complete Celia's Trials in Falcon Tower to earn Stars",
+      "id": "Radar_dangqian",
+      "name": "Celia's Trial"
+    },
+    "goto_Hospital_5": {
+      "id": "goto_Hospital_5"
+    },
+    "goto_Hospital_24": {
+      "id": "goto_Hospital_24"
+    },
+    "80211": {
+      "id": "80211"
+    },
+    "goto_Hospital_22": {
+      "id": "goto_Hospital_22"
+    },
+    "goto_Hospital_21": {
+      "id": "goto_Hospital_21"
+    },
+    "bp_arena_c": {
+      "description": "Complete 1 battle",
+      "id": "bp_arena_c",
+      "name": "Arena"
+    },
+    "goto_Hospital_700": {
+      "id": "goto_Hospital_700",
+      "description": "Jump to Clinic Chest"
+    },
+    "Monopoly_dangqian": {
+      "description": "Earn stars by exploring the Cursed Forest",
+      "id": "Monopoly_dangqian",
+      "name": "Forest Exploration"
+    },
+    "goto_Hospital_4": {
+      "id": "goto_Hospital_4"
+    },
+    "810001_event_3003901": {
+      "id": "810001_event_3003901"
+    },
+    "train_rider": {
+      "id": "train_rider"
+    },
+    "aliya_heroStar": {
+      "id": "aliya_heroStar"
+    },
+    "778_1024": {
+      "id": "778_1024"
+    },
+    "giftshop_diamond": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_diamond",
+      "name": "Purchase Pack"
+    },
+    "first_pay": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "first_pay",
+      "name": "Purchase Pack"
+    },
+    "arsenal_goto_le_1": {
+      "id": "arsenal_goto_le_1"
+    },
+    "23": {
+      "description": "Train soldiers in the Training Grounds",
+      "id": "23",
+      "name": "Soldier Training"
+    },
+    "getItem_arena_shop": {
+      "description": "Visit the Shop to buy more",
+      "id": "getItem_arena_shop",
+      "name": "Glory Shop"
+    },
+    "roller_become_stronger_Equip20": {
+      "id": "roller_become_stronger_Equip20"
+    },
+    "roller_become_stronger_Arnold100": {
+      "id": "roller_become_stronger_Arnold100"
+    },
+    "maintask_rally_20": {
+      "id": "maintask_rally_20",
+      "description": "Main Quest: Rally Lv.20 Monsters"
+    },
+    "124_0": {
+      "id": "124_0",
+      "description": "Obtain Tactical Guide"
+    },
+    "roller_become_stronger_Monroe100": {
+      "id": "roller_become_stronger_Monroe100"
+    },
+    "roller_become_stronger_06": {
+      "id": "roller_become_stronger_06"
+    },
+    "999_200_1_26": {
+      "id": "999_200_1_26"
+    },
+    "getItem_NextMonopolyEvent": {
+      "id": "getItem_NextMonopolyEvent"
+    },
+    "rookieQuest_train": {
+      "description": "Train",
+      "id": "rookieQuest_train",
+      "name": "Train"
+    },
+    "100_1027_4_6": {
+      "id": "100_1027_4_6"
+    },
+    "train_all_count": {
+      "id": "train_all_count"
+    },
+    "80510": {
+      "id": "80510"
+    },
+    "goto_106": {
+      "id": "goto_106",
+      "name": "Upgrade Warrior Statue"
+    },
+    "80204": {
+      "id": "80204"
+    },
+    "roller_become_stronger_01": {
+      "id": "roller_become_stronger_01"
+    },
+    "goto_Escort": {
+      "id": "goto_Escort",
+      "name": "Go to Caravan Interface"
+    },
+    "goto_become_stronger_11": {
+      "description": "[Technology] provides economic and combat bonuses across different gameplay modes, helping you gain the upper hand.",
+      "id": "goto_become_stronger_11",
+      "name": "Technology"
+    },
+    "goto_become_stronger_10": {
+      "description": "[Soldiers] provide significant attribute bonuses to heroes in battle. High-level Soldiers can also suppress the Morale of lower-level ones, greatly influencing the outcome of combat.",
+      "id": "goto_become_stronger_10",
+      "name": "Soldier"
+    },
+    "rookieQuest_monopoly_03": {
+      "id": "rookieQuest_monopoly_03"
+    },
+    "win_equip2": {
+      "id": "win_equip2"
+    },
+    "goto_BP_5": {
+      "description": "Obtain via Hero Summon",
+      "id": "goto_BP_5",
+      "name": "Buy Hero Summon"
+    },
+    "goto_become_stronger_06": {
+      "description": "[Raven Level] grants basic attributes to the Raven and unlocks Raven Skill Stars and appearance.",
+      "id": "goto_become_stronger_06",
+      "name": "Raven Level"
+    },
+    "80404": {
+      "id": "80404"
+    },
+    "goto_baseGift_4": {
+      "id": "goto_baseGift_4",
+      "name": "Pack Shop"
+    },
+    "getItem_Drone_Workshop": {
+      "id": "getItem_Drone_Workshop"
+    },
+    "goto_Hospital_8": {
+      "id": "goto_Hospital_8"
+    },
+    "999_200_1_22": {
+      "id": "999_200_1_22"
+    },
+    "goto_equipchangeactivity2": {
+      "description": "Obtain via Blades Out Event Exchange",
+      "id": "goto_equipchangeactivity2",
+      "name": "Blades Out Event"
+    },
+    "32_1": {
+      "id": "32_1"
+    },
+    "item_mecha_get_more7": {
+      "description": "Join the Survival Battle",
+      "id": "item_mecha_get_more7",
+      "name": "Survival Battle"
+    },
+    "commander_1611": {
+      "description": "Recruit heroes once",
+      "id": "commander_1611",
+      "name": "Recruit heroes once"
+    },
+    "kill_monster_1_9": {
+      "id": "kill_monster_1_9",
+      "description": "Go to the wild and slay a Lv.9 Blight"
+    },
+    "SendWorker_1001": {
+      "id": "SendWorker_1001"
+    },
+    "giftshop_rune": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_rune",
+      "name": "Purchase Pack"
+    },
+    "goto_baseGift_1": {
+      "id": "goto_baseGift_1",
+      "name": "Pack Shop"
+    },
+    "giftshop_holystone": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_holystone",
+      "name": "Purchase Pack"
+    },
+    "item_monthcard_build_queue": {
+      "id": "item_monthcard_build_queue"
+    },
+    "recruitHero1": {
+      "description": "Get more by purchasing packs",
+      "id": "recruitHero1",
+      "name": "Get More"
+    },
+    "maintask_rally_3": {
+      "id": "maintask_rally_3",
+      "description": "Main Quest: Rally Lv.3 Monsters"
+    },
+    "alliance_milestone_city": {
+      "id": "alliance_milestone_city"
+    },
+    "alliance_milestone_recruit": {
+      "id": "alliance_milestone_recruit"
+    },
+    "81516": {
+      "id": "81516"
+    },
+    "month_card": {
+      "description": "Purchase Event Item Pack",
+      "id": "month_card",
+      "name": "Shop Pack"
+    },
+    "item_activity_airDrop": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "item_activity_airDrop",
+      "name": "Purchase Pack"
+    },
+    "bp_dailyTask_d": {
+      "description": "Complete quests to claim rewards",
+      "id": "bp_dailyTask_d",
+      "name": "Daily Quests"
+    },
+    "2_5021": {
+      "id": "2_5021"
+    },
+    "80705": {
+      "id": "80705"
+    },
+    "80303": {
+      "id": "80303"
+    },
+    "item_decorate_get_more_2": {
+      "description": "1st Top Up Pack",
+      "id": "item_decorate_get_more_2",
+      "name": "1st Top Up Pack"
+    },
+    "research_1001": {
+      "id": "research_1001",
+      "name": "Research Rapid Construction"
+    },
+    "item_mecha_wandering_T2_get_more4": {
+      "id": "item_mecha_wandering_T2_get_more4"
+    },
+    "81405": {
+      "id": "81405"
+    },
+    "item_mecha_get_more3": {
+      "id": "item_mecha_get_more3"
+    },
+    "Build_5051": {
+      "id": "Build_5051"
+    },
+    "goto_dilyGift_wuya_1": {
+      "id": "goto_dilyGift_wuya_1",
+      "name": "Daily Must-Buy"
+    },
+    "alliance_competition_goto": {
+      "description": "Obtain through events",
+      "id": "alliance_competition_goto",
+      "name": "Alliance Duel"
+    },
+    "hub": {
+      "id": "hub"
+    },
+    "powerUpgrade_equip": {
+      "description": "Equip high-quality gear, enhance gear",
+      "id": "powerUpgrade_equip",
+      "name": "Gear Enhancement"
+    },
+    "powerUpgrade_soldier": {
+      "description": "Unlock advanced soldiers, complete soldier training",
+      "id": "powerUpgrade_soldier",
+      "name": "Soldier Training"
+    },
+    "bp_arena": {
+      "description": "Complete 1 battle",
+      "id": "bp_arena",
+      "name": "Arena"
+    },
+    "80505": {
+      "id": "80505"
+    },
+    "goto_nike_6": {
+      "id": "goto_nike_6",
+      "name": "Growth Pack"
+    },
+    "building_unlock_guide_11": {
+      "id": "building_unlock_guide_11"
+    },
+    "building_unlock_guide_07": {
+      "id": "building_unlock_guide_07"
+    },
+    "999_1_0": {
+      "id": "999_1_0"
+    },
+    "999_52_2": {
+      "id": "999_52_2"
+    },
+    "100_1003_3_30": {
+      "id": "100_1003_3_30"
+    },
+    "999_100_0": {
+      "id": "999_100_0"
+    },
+    "itemsummon_matchlevel": {
+      "id": "itemsummon_matchlevel"
+    },
+    "104_0": {
+      "id": "104_0"
+    },
+    "80603": {
+      "id": "80603"
+    },
+    "goto_Zara_BP_3": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Zara_BP_3",
+      "name": "Purchase Hero Pass"
+    },
+    "999_200_1_12": {
+      "id": "999_200_1_12"
+    },
+    "778_1020": {
+      "id": "778_1020"
+    },
+    "dragoncave": {
+      "id": "dragoncave"
+    },
+    "Activity": {
+      "description": "Obtainable in various Rank Events",
+      "id": "Activity",
+      "name": "Event Rewards"
+    },
+    "equ": {
+      "id": "equ"
+    },
+    "81005": {
+      "id": "81005"
+    },
+    "999_200_1_10": {
+      "id": "999_200_1_10"
+    },
+    "rookieQuest_arena": {
+      "description": "Recruit Training Camp",
+      "id": "rookieQuest_arena",
+      "name": "Recruit Training Camp"
+    },
+    "rookieQuest_radar": {
+      "description": "Falcon Tower",
+      "id": "rookieQuest_radar",
+      "name": "Falcon Tower"
+    },
+    "12000_08": {
+      "description": "Welcome visitors 3 times",
+      "id": "12000_08",
+      "name": "Welcome visitors 3 times"
+    },
+    "12000_09": {
+      "description": "Eliminate 5 Blights in the wild",
+      "id": "12000_09",
+      "name": "Eliminate 5 Blights in the wild"
+    },
+    "rookieQuest_gather": {
+      "description": "Gather",
+      "id": "rookieQuest_gather",
+      "name": "Gather"
+    },
+    "rookieQuest_hero": {
+      "description": "Hero",
+      "id": "rookieQuest_hero",
+      "name": "Hero"
+    },
+    "81304": {
+      "id": "81304"
+    },
+    "roller_become_stronger_08": {
+      "id": "roller_become_stronger_08"
+    },
+    "goto_10012": {
+      "id": "goto_10012"
+    },
+    "80606": {
+      "id": "80606"
+    },
+    "maintask_rally_41": {
+      "id": "maintask_rally_41",
+      "description": "Main Quest: Rally Lv.41 Monsters"
+    },
+    "patrol_level_direct": {
+      "id": "patrol_level_direct"
+    },
+    "81505": {
+      "id": "81505"
+    },
+    "goto_Arnold_2": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Arnold_2",
+      "name": "Purchase Hero Pass"
+    },
+    "rookieQuest_tech": {
+      "description": "Research Technology",
+      "id": "rookieQuest_tech",
+      "name": "Research Technology"
+    },
+    "81404": {
+      "id": "81404"
+    },
+    "goto_level_7_9": {
+      "id": "goto_level_7_9"
+    },
+    "12000_27": {
+      "description": "Challenge the Arena {0} times",
+      "id": "12000_27",
+      "name": "Challenge the Arena {0} times"
+    },
+    "12000_25": {
+      "id": "12000_25",
+      "description": "Dismantle {0}x"
+    },
+    "778_1017": {
+      "id": "778_1017"
+    },
+    "hermit_getitem_goto8": {
+      "id": "hermit_getitem_goto8",
+      "name": "Alliance Gift"
+    },
+    "12000_19": {
+      "description": "Activate VIP",
+      "id": "12000_19",
+      "name": "Activate VIP"
+    },
+    "goto_beier_6": {
+      "id": "goto_beier_6",
+      "name": "Growth Pack"
+    },
+    "80906": {
+      "id": "80906"
+    },
+    "12000_10": {
+      "description": "Attack another doctor once",
+      "id": "12000_10",
+      "name": "Attack another doctor once"
+    },
+    "rookieQuest_donate": {
+      "description": "Donate",
+      "id": "rookieQuest_donate",
+      "name": "Donate"
+    },
+    "goto_zhuoya_5": {
+      "id": "goto_zhuoya_5",
+      "name": "Growth Pack"
+    },
+    "778_1026": {
+      "id": "778_1026"
+    },
+    "commander_1623": {
+      "description": "Train 1 Lv.9 soldier",
+      "id": "commander_1623",
+      "name": "Train 1 Lv.9 soldier"
+    },
+    "81204": {
+      "id": "81204"
+    },
+    "2_1010": {
+      "id": "2_1010"
+    },
+    "1_1010": {
+      "id": "1_1010"
+    },
+    "commander_1622": {
+      "description": "Train 1 Lv.8 soldier",
+      "id": "commander_1622",
+      "name": "Train 1 Lv.8 soldier"
+    },
+    "goto_wuya_triggerGift_11": {
+      "id": "goto_wuya_triggerGift_11",
+      "name": "Timed Offer"
+    },
+    "maintask_rally_10": {
+      "id": "maintask_rally_10",
+      "description": "Main Quest: Rally Lv.10 Monsters"
+    },
+    "commander_1608": {
+      "description": "Gather 100 Grain",
+      "id": "commander_1608",
+      "name": "Gather 100 Grain"
+    },
+    "getHeroExp_Building": {
+      "description": "Construct/upgrade buildings to gain more",
+      "id": "getHeroExp_Building",
+      "name": "Construct"
+    },
+    "80304": {
+      "id": "80304"
+    },
+    "commander_1605": {
+      "description": "Use 1m Research Speedup",
+      "id": "commander_1605",
+      "name": "Use 1m Research Speedup"
+    },
+    "commander_1603": {
+      "description": "Use 1m Construction Speedup",
+      "id": "commander_1603",
+      "name": "Use 1m Construction Speedup"
+    },
+    "81606": {
+      "description": "Explore Dense Forest No.5",
+      "id": "81606",
+      "name": "Explore Dense Forest No.1"
+    },
+    "Vip_shop": {
+      "description": "Available in limited quantities for VIPs",
+      "id": "Vip_shop",
+      "name": "VIP Shop"
+    },
+    "battery_not_enough_goto2": {
+      "id": "battery_not_enough_goto2"
+    },
+    "80903": {
+      "id": "80903"
+    },
+    "maintask_rally_42": {
+      "id": "maintask_rally_42",
+      "description": "Main Quest: Rally Lv.42 Monsters"
+    },
+    "81306": {
+      "id": "81306"
+    },
+    "maintask_rally_37": {
+      "id": "maintask_rally_37",
+      "description": "Main Quest: Rally Lv.37 Monsters"
+    },
+    "2_5035": {
+      "id": "2_5035"
+    },
+    "maintask_rally_36": {
+      "id": "maintask_rally_36",
+      "description": "Main Quest: Rally Lv.36 Monsters"
+    },
+    "maintask_rally_35": {
+      "id": "maintask_rally_35",
+      "description": "Main Quest: Rally Lv.35 Monsters"
+    },
+    "getItem_Building": {
+      "id": "getItem_Building",
+      "name": "Construct"
+    },
+    "build_2_8_1003": {
+      "id": "build_2_8_1003"
+    },
+    "2_1016": {
+      "id": "2_1016"
+    },
+    "1_1016": {
+      "id": "1_1016"
+    },
+    "maintask_rally_30": {
+      "id": "maintask_rally_30",
+      "description": "Main Quest: Rally Lv.30 Monsters"
+    },
+    "maintask_rally_6": {
+      "id": "maintask_rally_6",
+      "description": "Main Quest: Rally Lv.6 Monsters"
+    },
+    "maintask_rally_24": {
+      "id": "maintask_rally_24",
+      "description": "Main Quest: Rally Lv.24 Monsters"
+    },
+    "roller_become_stronger_Arnold10": {
+      "id": "roller_become_stronger_Arnold10"
+    },
+    "getItem_radar": {
+      "description": "Complete the Falcon Quest to earn",
+      "id": "getItem_radar",
+      "name": "Falcon Tower"
+    },
+    "maintask_rally_15": {
+      "id": "maintask_rally_15",
+      "description": "Main Quest: Rally Lv.15 Monsters"
+    },
+    "999_200_1_23": {
+      "id": "999_200_1_23"
+    },
+    "goto_dilyGift_wuya_4": {
+      "id": "goto_dilyGift_wuya_4",
+      "name": "Daily Must-Buy"
+    },
+    "commander_1613": {
+      "description": "Use Antitoxin Potion",
+      "id": "commander_1613",
+      "name": "Use Antitoxin Potion"
+    },
+    "story_guide_next_stage": {
+      "id": "story_guide_next_stage"
+    },
+    "999_2_3045": {
+      "id": "999_2_3045"
+    },
+    "maintask_rally_29": {
+      "id": "maintask_rally_29",
+      "description": "Main Quest: Rally Lv.29 Monsters"
+    },
+    "7_10": {
+      "id": "7_10"
+    },
+    "vip": {
+      "id": "vip"
+    },
+    "item_Talent_Material1": {
+      "id": "item_Talent_Material1"
+    },
+    "item_recruitcoin_complement": {
+      "description": "Recruit Card Refill",
+      "id": "item_recruitcoin_complement",
+      "name": "Recruit Card Refill"
+    },
+    "itemsummon_arena": {
+      "description": "Can be obtained by initiating challenges",
+      "id": "itemsummon_arena",
+      "name": "Go to Arena"
+    },
+    "goto_BP_hapo": {
+      "id": "goto_BP_hapo",
+      "name": "Hero Pass"
+    },
+    "build_5012": {
+      "id": "build_5012"
+    },
+    "visit_gift": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "visit_gift",
+      "name": "Purchase Pack"
+    },
+    "80405": {
+      "id": "80405"
+    },
+    "build_5007": {
+      "id": "build_5007"
+    },
+    "visit_arena": {
+      "description": "Can be obtained by initiating challenges",
+      "id": "visit_arena",
+      "name": "Go to Arena"
+    },
+    "rally_monster_3": {
+      "description": "Participate in rallying Elite Blights to obtain",
+      "id": "rally_monster_3",
+      "name": "Elite Blight"
+    },
+    "80103": {
+      "id": "80103"
+    },
+    "research_idle": {
+      "id": "research_idle"
+    },
+    "80302": {
+      "id": "80302"
+    },
+    "visitbuild_matchlevel": {
+      "id": "visitbuild_matchlevel",
+      "description": "Can be obtained by winning battles"
+    },
+    "goto_Leah_Recharge_2": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Leah_Recharge_2",
+      "name": "Purchase Hero Pass"
+    },
+    "goto_level_9_9": {
+      "id": "goto_level_9_9"
+    },
+    "goto_level_6_9": {
+      "id": "goto_level_6_9"
+    },
+    "80712": {
+      "id": "80712"
+    },
+    "goto_ying_2": {
+      "id": "goto_ying_2",
+      "name": "Growth Pack"
+    },
+    "item_activity_airDrop1": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "item_activity_airDrop1",
+      "name": "Purchase Pack"
+    },
+    "80205": {
+      "id": "80205"
+    },
+    "goto_level_3_9": {
+      "id": "goto_level_3_9"
+    },
+    "recruitHero399999": {
+      "id": "recruitHero399999",
+      "name": "Hero Recruitment"
+    },
+    "tower_rapid_up": {
+      "id": "tower_rapid_up",
+      "name": "Rapid Boost"
+    },
+    "tower_science_up": {
+      "id": "tower_science_up",
+      "name": "Tech Upgrade"
+    },
+    "12000_03": {
+      "description": "Defeat any Elite Blight 1 time",
+      "id": "12000_03",
+      "name": "Defeat any Elite Blight 1 time"
+    },
+    "tower_hero_up": {
+      "id": "tower_hero_up",
+      "name": "Enhance Heroes"
+    },
+    "SendWorker_5047": {
+      "id": "SendWorker_5047"
+    },
+    "1_1000": {
+      "id": "1_1000"
+    },
+    "goto_zhuoya_1": {
+      "id": "goto_zhuoya_1",
+      "name": "Growth Pack"
+    },
+    "111_0": {
+      "id": "111_0"
+    },
+    "goto_10008": {
+      "id": "goto_10008"
+    },
+    "giftshop_hero": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "giftshop_hero",
+      "name": "Purchase Pack"
+    },
+    "outcity": {
+      "id": "outcity"
+    },
+    "100_1004_4_30": {
+      "id": "100_1004_4_30"
+    },
+    "goto_enhance_gift3": {
+      "id": "goto_enhance_gift3",
+      "name": "Enhancement Special Pack"
+    },
+    "goto_recluse_coin": {
+      "description": "Obtainable through purchasing Packs",
+      "id": "goto_recluse_coin",
+      "name": "Recluse Coin Pack"
+    },
+    "80704": {
+      "id": "80704"
+    },
+    "81615": {
+      "description": "Explore Dense Forest No.14",
+      "id": "81615",
+      "name": "Explore the Dense Forest No.10"
+    },
+    "81614": {
+      "description": "Explore Dense Forest No.13",
+      "id": "81614",
+      "name": "Explore the Dense Forest No.9"
+    },
+    "81613": {
+      "description": "Explore Dense Forest No.12",
+      "id": "81613",
+      "name": "Explore the Dense Forest No.8"
+    },
+    "81610": {
+      "description": "Explore the Dense Forest No.9",
+      "id": "81610",
+      "name": "Explore Dense Forest No.5"
+    },
+    "81608": {
+      "description": "Explore the Dense Forest No.7",
+      "id": "81608",
+      "name": "Explore Dense Forest No.3"
+    },
+    "goto_Hospital_15": {
+      "id": "goto_Hospital_15"
+    },
+    "81503": {
+      "id": "81503"
+    },
+    "81302": {
+      "id": "81302"
+    },
+    "81408": {
+      "id": "81408"
+    },
+    "81406": {
+      "id": "81406"
+    },
+    "81209": {
+      "id": "81209"
+    },
+    "7_23": {
+      "id": "7_23"
+    },
+    "81208": {
+      "id": "81208"
+    },
+    "81206": {
+      "id": "81206"
+    },
+    "999_200_1_27": {
+      "id": "999_200_1_27"
+    },
+    "81205": {
+      "id": "81205"
+    },
+    "81201": {
+      "id": "81201"
+    },
+    "80806": {
+      "id": "80806"
+    },
+    "81106": {
+      "id": "81106"
+    },
+    "999_200_6_0": {
+      "id": "999_200_6_0"
+    },
+    "81108": {
+      "id": "81108"
+    },
+    "building_unlock_guide_03": {
+      "id": "building_unlock_guide_03"
+    },
+    "80914": {
+      "id": "80914"
+    },
+    "pub": {
+      "description": "Recruit in the Tavern to obtain Hero Shards",
+      "id": "pub",
+      "name": "Tavern"
+    },
+    "maintask_rally_44": {
+      "id": "maintask_rally_44",
+      "description": "Main Quest: Rally Lv.44 Monsters"
+    },
+    "SendWorker_1027": {
+      "id": "SendWorker_1027"
+    },
+    "80809": {
+      "id": "80809"
+    },
+    "goto_Nora": {
+      "description": "Obtain through Hero Pass",
+      "id": "goto_Nora",
+      "name": "Purchase Hero Pass"
+    },
+    "80804": {
+      "id": "80804"
+    },
+    "goto_Hospital_312": {
+      "id": "goto_Hospital_312"
+    },
+    "goto_Hospital_10": {
+      "id": "goto_Hospital_10"
+    },
+    "80701": {
+      "id": "80701"
+    },
+    "999_200_1_2": {
+      "id": "999_200_1_2"
+    },
+    "80605": {
+      "id": "80605"
+    },
+    "roller_become_stronger_02": {
+      "id": "roller_become_stronger_02"
+    },
+    "80504": {
+      "id": "80504"
+    },
+    "80801": {
+      "id": "80801"
+    },
+    "80406": {
+      "id": "80406"
+    },
+    "goto_become_stronger_05": {
+      "description": "[Hero Gear] provides basic and advanced combat attributes (Crit, RES, etc).",
+      "id": "goto_become_stronger_05",
+      "name": "Hero Gear"
+    },
+    "80208": {
+      "id": "80208"
+    },
+    "80105": {
+      "id": "80105"
+    },
+    "queue_research_1": {
+      "id": "queue_research_1"
+    },
+    "2_5036": {
+      "id": "2_5036"
+    },
+    "80101": {
+      "id": "80101"
+    },
+    "125_0_8": {
+      "description": "Defeat Lv.8 or higher Elite Blights to obtain",
+      "id": "125_0_8",
+      "name": "Elite Blight"
+    },
+    "goto_uav_Module_3": {
+      "id": "goto_uav_Module_3",
+      "name": "Inscription Offer"
+    },
+    "8_0": {
+      "id": "8_0"
+    },
+    "build_3_12_1003": {
+      "id": "build_3_12_1003"
+    },
+    "12000_02": {
+      "description": "Help allies 5 times",
+      "id": "12000_02",
+      "name": "Help allies 5 times"
+    },
+    "778_1023": {
+      "id": "778_1023"
+    },
+    "778_1022": {
+      "id": "778_1022"
+    },
+    "1_1002": {
+      "id": "1_1002"
+    },
+    "7_24": {
+      "id": "7_24"
+    },
+    "maintask_rally_5": {
+      "id": "maintask_rally_5",
+      "description": "Main Quest: Rally Lv.5 Monsters"
+    },
+    "55_0": {
+      "id": "55_0"
+    },
+    "goto_malianna_1": {
+      "id": "goto_malianna_1",
+      "name": "Growth Pack"
+    },
+    "SendWorker_5036": {
+      "id": "SendWorker_5036"
+    },
+    "33_1023": {
+      "id": "33_1023"
+    },
+    "31_0": {
+      "id": "31_0"
+    },
+    "goto_10011": {
+      "id": "goto_10011"
+    },
+    "999_200_1_25": {
+      "id": "999_200_1_25"
+    },
+    "goto_BP_anni": {
+      "id": "goto_BP_anni",
+      "name": "Hero Pass"
+    },
+    "Build_5023": {
+      "id": "Build_5023"
+    },
+    "999_3_2": {
+      "id": "999_3_2"
+    },
+    "999_3_1": {
+      "id": "999_3_1"
+    },
+    "100_1027_2_1": {
+      "id": "100_1027_2_1"
+    },
+    "100_1016_3_1": {
+      "id": "100_1016_3_1"
+    },
+    "80815": {
+      "id": "80815"
+    },
+    "build_2_6_1003": {
+      "id": "build_2_6_1003"
+    },
+    "100_1004_6_30": {
+      "id": "100_1004_6_30"
+    },
+    "100_1003_5_30": {
+      "id": "100_1003_5_30"
+    },
+    "100_1003_2_1": {
+      "id": "100_1003_2_1"
+    },
+    "2_5013": {
+      "id": "2_5013"
+    },
+    "7_25": {
+      "id": "7_25"
+    }
+  },
+  "len": 1385,
+  "key": "id",
+  "source_format": "locale rows"
+}

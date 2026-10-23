@@ -1,0 +1,7779 @@
+{
+  "isNeedTransform": false,
+  "key": "id",
+  "first": 101,
+  "len": 180,
+  "data": {
+    "346": {
+      "id": 346,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 46,
+      "levelPower": "25657344",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "322": {
+      "id": 322,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 22,
+      "levelPower": "11784298",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "244": {
+      "id": 244,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 44,
+      "levelPower": "25237275",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "260": {
+      "id": 260,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 60,
+      "levelPower": "48738131",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "160": {
+      "id": 160,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 60,
+      "levelPower": "48865309",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "144": {
+      "id": 144,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 44,
+      "levelPower": "25886290",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "145": {
+      "id": 145,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 45,
+      "levelPower": "26726400",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "101": {
+      "id": 101,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 1,
+      "levelPower": "1151340",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "349": {
+      "id": 349,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 49,
+      "levelPower": "27695540",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "249": {
+      "id": 249,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 49,
+      "levelPower": "28849520",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "149": {
+      "id": 149,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 49,
+      "levelPower": "29136720",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "122": {
+      "id": 122,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 22,
+      "levelPower": "12792225",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "222": {
+      "id": 222,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 22,
+      "levelPower": "12275310",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "246": {
+      "id": 246,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 46,
+      "levelPower": "26726400",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "146": {
+      "id": 146,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 46,
+      "levelPower": "27031850",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "345": {
+      "id": 345,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 45,
+      "levelPower": "24850839",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "301": {
+      "id": 301,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1003,
+      "levelSoldier": "3",
+      "difficult": 1,
+      "levelPower": "350938",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T1"
+    },
+    "233": {
+      "id": 233,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 33,
+      "levelPower": "17741180",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "333": {
+      "id": 333,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 33,
+      "levelPower": "17031533",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "133": {
+      "id": 133,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 33,
+      "levelPower": "18237300",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "154": {
+      "id": 154,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 54,
+      "levelPower": "37509043",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "354": {
+      "id": 354,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 54,
+      "levelPower": "35672084",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "254": {
+      "id": 254,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 54,
+      "levelPower": "37403930",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "111": {
+      "id": 111,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 11,
+      "levelPower": "6571475",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "211": {
+      "id": 211,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 11,
+      "levelPower": "5752395",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "255": {
+      "id": 255,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 55,
+      "levelPower": "39292963",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "155": {
+      "id": 155,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 55,
+      "levelPower": "39401754",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "156": {
+      "id": 156,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 56,
+      "levelPower": "41294465",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "256": {
+      "id": 256,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 56,
+      "levelPower": "41181997",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "355": {
+      "id": 355,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 55,
+      "levelPower": "37473194",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "311": {
+      "id": 311,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 11,
+      "levelPower": "5545309",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "159": {
+      "id": 159,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 59,
+      "levelPower": "46972598",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "147": {
+      "id": 147,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 47,
+      "levelPower": "27862385",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "247": {
+      "id": 247,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 47,
+      "levelPower": "27031850",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "302": {
+      "id": 302,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 2,
+      "levelPower": "936841",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T3"
+    },
+    "243": {
+      "id": 243,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 43,
+      "levelPower": "24427640",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "143": {
+      "id": 143,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 43,
+      "levelPower": "25237275",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "248": {
+      "id": 248,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 48,
+      "levelPower": "27862385",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "148": {
+      "id": 148,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 48,
+      "levelPower": "28849520",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "124": {
+      "id": 124,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 24,
+      "levelPower": "13668765",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "224": {
+      "id": 224,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 24,
+      "levelPower": "13321660",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "347": {
+      "id": 347,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 47,
+      "levelPower": "25950576",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "225": {
+      "id": 225,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 25,
+      "levelPower": "13668765",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "129": {
+      "id": 129,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 29,
+      "levelPower": "16672770",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "358": {
+      "id": 358,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 58,
+      "levelPower": "42876524",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "125": {
+      "id": 125,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 25,
+      "levelPower": "15310750",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "102": {
+      "id": 102,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 2,
+      "levelPower": "1362670",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "202": {
+      "id": 202,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 2,
+      "levelPower": "948220",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T3"
+    },
+    "150": {
+      "id": 150,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 50,
+      "levelPower": "29436840",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "226": {
+      "id": 226,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 26,
+      "levelPower": "15310750",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "126": {
+      "id": 126,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 26,
+      "levelPower": "15540195",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "257": {
+      "id": 257,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 57,
+      "levelPower": "43071030",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "157": {
+      "id": 157,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 57,
+      "levelPower": "43187176",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "113": {
+      "id": 113,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 13,
+      "levelPower": "7956005",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "213": {
+      "id": 213,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 13,
+      "levelPower": "7036645",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "158": {
+      "id": 158,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 58,
+      "levelPower": "45079887",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "258": {
+      "id": 258,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 58,
+      "levelPower": "44960064",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "313": {
+      "id": 313,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 13,
+      "levelPower": "6755179",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "234": {
+      "id": 234,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 34,
+      "levelPower": "18237300",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "134": {
+      "id": 134,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 34,
+      "levelPower": "18453885",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "357": {
+      "id": 357,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 57,
+      "levelPower": "41075414",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "335": {
+      "id": 335,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 35,
+      "levelPower": "17715730",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "235": {
+      "id": 235,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 35,
+      "levelPower": "18453885",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "135": {
+      "id": 135,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 35,
+      "levelPower": "20075485",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "239": {
+      "id": 239,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 39,
+      "levelPower": "21259310",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "236": {
+      "id": 236,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 36,
+      "levelPower": "20075485",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "252": {
+      "id": 252,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 52,
+      "levelPower": "33625863",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "152": {
+      "id": 152,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 52,
+      "levelPower": "33723621",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "136": {
+      "id": 136,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 36,
+      "levelPower": "20075485",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "223": {
+      "id": 223,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 23,
+      "levelPower": "12792225",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "123": {
+      "id": 123,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 23,
+      "levelPower": "13321660",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "127": {
+      "id": 127,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 27,
+      "levelPower": "15725865",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "227": {
+      "id": 227,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 27,
+      "levelPower": "15540195",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "327": {
+      "id": 327,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 27,
+      "levelPower": "14918588",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "104": {
+      "id": 104,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 4,
+      "levelPower": "2055925",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "204": {
+      "id": 204,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 4,
+      "levelPower": "1598000",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "128": {
+      "id": 128,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 28,
+      "levelPower": "16126250",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "323": {
+      "id": 323,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 23,
+      "levelPower": "12280536",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "328": {
+      "id": 328,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 28,
+      "levelPower": "15096831",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "228": {
+      "id": 228,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 28,
+      "levelPower": "15725865",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "141": {
+      "id": 141,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 41,
+      "levelPower": "23367660",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "105": {
+      "id": 105,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 5,
+      "levelPower": "2895720",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "205": {
+      "id": 205,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 5,
+      "levelPower": "2055925",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "241": {
+      "id": 241,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 41,
+      "levelPower": "22773645",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "106": {
+      "id": 106,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 6,
+      "levelPower": "3598220",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "130": {
+      "id": 130,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 30,
+      "levelPower": "16864655",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "206": {
+      "id": 206,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 6,
+      "levelPower": "2895720",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "360": {
+      "id": 360,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 60,
+      "levelPower": "46478744",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "137": {
+      "id": 137,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 37,
+      "levelPower": "20681700",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "359": {
+      "id": 359,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 59,
+      "levelPower": "44677634",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "337": {
+      "id": 337,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 37,
+      "levelPower": "19272466",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "237": {
+      "id": 237,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 37,
+      "levelPower": "20075485",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "309": {
+      "id": 309,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 9,
+      "levelPower": "4810514",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "209": {
+      "id": 209,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 9,
+      "levelPower": "4990160",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "109": {
+      "id": 109,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 9,
+      "levelPower": "5329835",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "114": {
+      "id": 114,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 14,
+      "levelPower": "8360725",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "356": {
+      "id": 356,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 56,
+      "levelPower": "39274304",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "138": {
+      "id": 138,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 38,
+      "levelPower": "21259310",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "238": {
+      "id": 238,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 38,
+      "levelPower": "20681700",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "338": {
+      "id": 338,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 38,
+      "levelPower": "19854432",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "353": {
+      "id": 353,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 53,
+      "levelPower": "33870974",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "352": {
+      "id": 352,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 52,
+      "levelPower": "32069864",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "351": {
+      "id": 351,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 51,
+      "levelPower": "30238553",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "350": {
+      "id": 350,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 50,
+      "levelPower": "27971251",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "115": {
+      "id": 115,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 15,
+      "levelPower": "8685490",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "219": {
+      "id": 219,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 19,
+      "levelPower": "10947555",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "315": {
+      "id": 315,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 15,
+      "levelPower": "8026296",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "151": {
+      "id": 151,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 51,
+      "levelPower": "31830910",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "348": {
+      "id": 348,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 48,
+      "levelPower": "26747890",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "344": {
+      "id": 344,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 44,
+      "levelPower": "24227784",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "343": {
+      "id": 343,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 43,
+      "levelPower": "23450534",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "342": {
+      "id": 342,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 42,
+      "levelPower": "22432954",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "132": {
+      "id": 132,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 32,
+      "levelPower": "17741180",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "116": {
+      "id": 116,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 16,
+      "levelPower": "9213050",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "216": {
+      "id": 216,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 16,
+      "levelPower": "8685490",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "232": {
+      "id": 232,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 32,
+      "levelPower": "17275990",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "203": {
+      "id": 203,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 3,
+      "levelPower": "1362670",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "103": {
+      "id": 103,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 3,
+      "levelPower": "1598000",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "341": {
+      "id": 341,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 41,
+      "levelPower": "21862699",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "340": {
+      "id": 340,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 40,
+      "levelPower": "21349004",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "207": {
+      "id": 207,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 7,
+      "levelPower": "3598220",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "307": {
+      "id": 307,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 7,
+      "levelPower": "3483077",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "339": {
+      "id": 339,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 39,
+      "levelPower": "20408937",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "107": {
+      "id": 107,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 7,
+      "levelPower": "4393275",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "336": {
+      "id": 336,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 36,
+      "levelPower": "19272466",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "334": {
+      "id": 334,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 34,
+      "levelPower": "17507808",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "332": {
+      "id": 332,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 32,
+      "levelPower": "16584950",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "215": {
+      "id": 215,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 15,
+      "levelPower": "8360725",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "308": {
+      "id": 308,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 8,
+      "levelPower": "4252690",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "208": {
+      "id": 208,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 8,
+      "levelPower": "4393275",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T5"
+    },
+    "108": {
+      "id": 108,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 8,
+      "levelPower": "4990160",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "303": {
+      "id": 303,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 3,
+      "levelPower": "1335416",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "221": {
+      "id": 221,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 21,
+      "levelPower": "11756375",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "121": {
+      "id": 121,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 21,
+      "levelPower": "12275310",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "330": {
+      "id": 330,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 30,
+      "levelPower": "16005860",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "329": {
+      "id": 329,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 29,
+      "levelPower": "15481200",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "326": {
+      "id": 326,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 26,
+      "levelPower": "14698320",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "325": {
+      "id": 325,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 25,
+      "levelPower": "13122014",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "324": {
+      "id": 324,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 24,
+      "levelPower": "12788793",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "305": {
+      "id": 305,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 5,
+      "levelPower": "2006583",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "210": {
+      "id": 210,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 10,
+      "levelPower": "5329835",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "310": {
+      "id": 310,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1006,
+      "levelSoldier": "6",
+      "difficult": 10,
+      "levelPower": "5137961",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "139": {
+      "id": 139,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 39,
+      "levelPower": "22238545",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "319": {
+      "id": 319,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 19,
+      "levelPower": "10509653",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "250": {
+      "id": 250,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 50,
+      "levelPower": "29136720",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "142": {
+      "id": 142,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 42,
+      "levelPower": "24427640",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "242": {
+      "id": 242,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 42,
+      "levelPower": "23367660",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "321": {
+      "id": 321,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 21,
+      "levelPower": "11286120",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "316": {
+      "id": 316,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 16,
+      "levelPower": "8338071",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "314": {
+      "id": 314,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 14,
+      "levelPower": "7637765",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "312": {
+      "id": 312,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 12,
+      "levelPower": "6308616",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "306": {
+      "id": 306,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1005,
+      "levelSoldier": "5",
+      "difficult": 6,
+      "levelPower": "2814640",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "317": {
+      "id": 317,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 17,
+      "levelPower": "8844528",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "153": {
+      "id": 153,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 53,
+      "levelPower": "35616332",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "117": {
+      "id": 117,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 17,
+      "levelPower": "9721800",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "110": {
+      "id": 110,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 10,
+      "levelPower": "5752395",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "304": {
+      "id": 304,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1004,
+      "levelSoldier": "4",
+      "difficult": 4,
+      "levelPower": "1559648",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T4"
+    },
+    "259": {
+      "id": 259,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 59,
+      "levelPower": "46849097",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "253": {
+      "id": 253,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 53,
+      "levelPower": "35514896",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "251": {
+      "id": 251,
+      "iconID": 90001,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": "1",
+          "param3": "1",
+          "param1": "1"
+        }
+      },
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 51,
+      "levelPower": "31736830",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_4",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "218": {
+      "id": 218,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 18,
+      "levelPower": "9721800",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "318": {
+      "id": 318,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 18,
+      "levelPower": "9332928",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "245": {
+      "id": 245,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 45,
+      "levelPower": "25886290",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "118": {
+      "id": 118,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 18,
+      "levelPower": "10947555",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "240": {
+      "id": 240,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 40,
+      "levelPower": "22238545",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "217": {
+      "id": 217,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 17,
+      "levelPower": "9213050",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "230": {
+      "id": 230,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 30,
+      "levelPower": "16672770",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "229": {
+      "id": 229,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 29,
+      "levelPower": "16126250",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "119": {
+      "id": 119,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 19,
+      "levelPower": "11582785",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "131": {
+      "id": 131,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 31,
+      "levelPower": "17275990",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "231": {
+      "id": 231,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 31,
+      "levelPower": "16864655",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "331": {
+      "id": 331,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1009,
+      "levelSoldier": "9",
+      "difficult": 31,
+      "levelPower": "16190069",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T9"
+    },
+    "212": {
+      "id": 212,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 12,
+      "levelPower": "6571475",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T6"
+    },
+    "112": {
+      "id": 112,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 12,
+      "levelPower": "7036645",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "214": {
+      "id": 214,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1007,
+      "levelSoldier": "7",
+      "difficult": 14,
+      "levelPower": "7956005",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T7"
+    },
+    "201": {
+      "id": 201,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1003,
+      "levelSoldier": "3",
+      "difficult": 1,
+      "levelPower": "355200",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_0",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T1"
+    },
+    "140": {
+      "id": 140,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1010,
+      "levelSoldier": "10",
+      "difficult": 40,
+      "levelPower": "22773645",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_3",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T10"
+    },
+    "320": {
+      "id": 320,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 20,
+      "levelPower": "11119474",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 3,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "220": {
+      "id": 220,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 20,
+      "levelPower": "11582785",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 2,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    },
+    "120": {
+      "id": 120,
+      "iconID": 90001,
+      "openCondition": {},
+      "soldierID": 1008,
+      "levelSoldier": "8",
+      "difficult": 20,
+      "levelPower": "11756375",
+      "rewardPreview": {
+        "1": {
+          "id": "item_activity_expedition_special",
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_expedition",
+          "type": 99
+        },
+        "3": {
+          "id": "item_expedition_randomBox_1",
+          "type": 99
+        },
+        "4": {
+          "id": "item_expedition_randomBox_2",
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "7": {
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        }
+      },
+      "frameID": 5001,
+      "campType": 1,
+      "soldierIcon": "Icon_Soldier_Head_T8"
+    }
+  },
+  "excelName": "荣耀远征"
+}

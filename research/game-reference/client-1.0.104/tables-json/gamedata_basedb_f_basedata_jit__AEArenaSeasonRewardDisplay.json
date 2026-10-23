@@ -1,0 +1,89 @@
+{
+  "key": "id",
+  "len": 5,
+  "data": {
+    "200101": {
+      "maxRank": 1,
+      "minRound": 1,
+      "minRank": 1,
+      "headFrameId": 2005,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_general_7d",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200101
+    },
+    "200103": {
+      "maxRank": 10,
+      "minRound": 1,
+      "minRank": 4,
+      "headFrameId": 2007,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_majorGeneral_7d",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200103
+    },
+    "200105": {
+      "maxRank": 40,
+      "minRound": 1,
+      "minRank": 21,
+      "headFrameId": 2009,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantColonel_7d",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200105
+    },
+    "200102": {
+      "maxRank": 3,
+      "minRound": 1,
+      "minRank": 2,
+      "headFrameId": 2006,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantGeneral_7d",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200102
+    },
+    "200104": {
+      "maxRank": 20,
+      "minRound": 1,
+      "minRank": 11,
+      "headFrameId": 2008,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_colonel_7d",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200104
+    }
+  },
+  "isNeedTransform": false,
+  "first": 200101,
+  "excelName": "AEArena_竞技场"
+}

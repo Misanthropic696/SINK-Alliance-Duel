@@ -1,0 +1,2263 @@
+{
+  "key": "id",
+  "excelName": "BlackMine_燃霜矿场",
+  "len": 322,
+  "first": 101,
+  "data": {
+    "319": {
+      "count": 34000,
+      "id": 319,
+      "zoneId": 3,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "219": {
+      "count": 34000,
+      "id": 219,
+      "zoneId": 2,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "519": {
+      "count": 34000,
+      "id": 519,
+      "zoneId": 5,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "1019": {
+      "count": 34000,
+      "id": 1019,
+      "zoneId": 10,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "719": {
+      "count": 34000,
+      "id": 719,
+      "zoneId": 7,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "619": {
+      "count": 34000,
+      "id": 619,
+      "zoneId": 6,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "919": {
+      "count": 34000,
+      "id": 919,
+      "zoneId": 9,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "819": {
+      "count": 34000,
+      "id": 819,
+      "zoneId": 8,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "506": {
+      "count": 150000,
+      "id": 506,
+      "zoneId": 5,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1016": {
+      "count": 46000,
+      "id": 1016,
+      "zoneId": 10,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "1009": {
+      "count": 110000,
+      "id": 1009,
+      "zoneId": 10,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "806": {
+      "count": 150000,
+      "id": 806,
+      "zoneId": 8,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1007": {
+      "count": 130000,
+      "id": 1007,
+      "zoneId": 10,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "206": {
+      "count": 150000,
+      "id": 206,
+      "zoneId": 2,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "119": {
+      "count": 34000,
+      "id": 119,
+      "zoneId": 1,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "406": {
+      "count": 150000,
+      "id": 406,
+      "zoneId": 4,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1410": {
+      "count": 100000,
+      "id": 1410,
+      "zoneId": 14,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "1223": {
+      "count": 18000,
+      "id": 1223,
+      "zoneId": 12,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "903": {
+      "count": 210000,
+      "id": 903,
+      "zoneId": 9,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "409": {
+      "count": 110000,
+      "id": 409,
+      "zoneId": 4,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "509": {
+      "count": 110000,
+      "id": 509,
+      "zoneId": 5,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "209": {
+      "count": 110000,
+      "id": 209,
+      "zoneId": 2,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "309": {
+      "count": 110000,
+      "id": 309,
+      "zoneId": 3,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "809": {
+      "count": 110000,
+      "id": 809,
+      "zoneId": 8,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "909": {
+      "count": 110000,
+      "id": 909,
+      "zoneId": 9,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "609": {
+      "count": 110000,
+      "id": 609,
+      "zoneId": 6,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "709": {
+      "count": 110000,
+      "id": 709,
+      "zoneId": 7,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "322": {
+      "count": 22000,
+      "id": 322,
+      "zoneId": 3,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "222": {
+      "count": 22000,
+      "id": 222,
+      "zoneId": 2,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "522": {
+      "count": 22000,
+      "id": 522,
+      "zoneId": 5,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "422": {
+      "count": 22000,
+      "id": 422,
+      "zoneId": 4,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "722": {
+      "count": 22000,
+      "id": 722,
+      "zoneId": 7,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "109": {
+      "count": 110000,
+      "id": 109,
+      "zoneId": 1,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "922": {
+      "count": 22000,
+      "id": 922,
+      "zoneId": 9,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "822": {
+      "count": 22000,
+      "id": 822,
+      "zoneId": 8,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "517": {
+      "count": 42000,
+      "id": 517,
+      "zoneId": 5,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "617": {
+      "count": 42000,
+      "id": 617,
+      "zoneId": 6,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1018": {
+      "count": 38000,
+      "id": 1018,
+      "zoneId": 10,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "817": {
+      "count": 42000,
+      "id": 817,
+      "zoneId": 8,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "117": {
+      "count": 42000,
+      "id": 117,
+      "zoneId": 1,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1214": {
+      "count": 60000,
+      "id": 1214,
+      "zoneId": 12,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "122": {
+      "count": 22000,
+      "id": 122,
+      "zoneId": 1,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "417": {
+      "count": 42000,
+      "id": 417,
+      "zoneId": 4,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "218": {
+      "count": 38000,
+      "id": 218,
+      "zoneId": 2,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "318": {
+      "count": 38000,
+      "id": 318,
+      "zoneId": 3,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "418": {
+      "count": 38000,
+      "id": 418,
+      "zoneId": 4,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "518": {
+      "count": 38000,
+      "id": 518,
+      "zoneId": 5,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "618": {
+      "count": 38000,
+      "id": 618,
+      "zoneId": 6,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "718": {
+      "count": 38000,
+      "id": 718,
+      "zoneId": 7,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "818": {
+      "count": 38000,
+      "id": 818,
+      "zoneId": 8,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "1313": {
+      "count": 70000,
+      "id": 1313,
+      "zoneId": 13,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "1412": {
+      "count": 80000,
+      "id": 1412,
+      "zoneId": 14,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1219": {
+      "count": 34000,
+      "id": 1219,
+      "zoneId": 12,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "1103": {
+      "count": 210000,
+      "id": 1103,
+      "zoneId": 11,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "1209": {
+      "count": 110000,
+      "id": 1209,
+      "zoneId": 12,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "312": {
+      "count": 80000,
+      "id": 312,
+      "zoneId": 3,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1320": {
+      "count": 30000,
+      "id": 1320,
+      "zoneId": 13,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1008": {
+      "count": 120000,
+      "id": 1008,
+      "zoneId": 10,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1004": {
+      "count": 190000,
+      "id": 1004,
+      "zoneId": 10,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "712": {
+      "count": 80000,
+      "id": 712,
+      "zoneId": 7,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "812": {
+      "count": 80000,
+      "id": 812,
+      "zoneId": 8,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "912": {
+      "count": 80000,
+      "id": 912,
+      "zoneId": 9,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1015": {
+      "count": 50000,
+      "id": 1015,
+      "zoneId": 10,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1318": {
+      "count": 38000,
+      "id": 1318,
+      "zoneId": 13,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "112": {
+      "count": 80000,
+      "id": 112,
+      "zoneId": 1,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "508": {
+      "count": 120000,
+      "id": 508,
+      "zoneId": 5,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "408": {
+      "count": 120000,
+      "id": 408,
+      "zoneId": 4,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "308": {
+      "count": 120000,
+      "id": 308,
+      "zoneId": 3,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1205": {
+      "count": 170000,
+      "id": 1205,
+      "zoneId": 12,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "908": {
+      "count": 120000,
+      "id": 908,
+      "zoneId": 9,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "808": {
+      "count": 120000,
+      "id": 808,
+      "zoneId": 8,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "708": {
+      "count": 120000,
+      "id": 708,
+      "zoneId": 7,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "608": {
+      "count": 120000,
+      "id": 608,
+      "zoneId": 6,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1119": {
+      "count": 34000,
+      "id": 1119,
+      "zoneId": 11,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "108": {
+      "count": 120000,
+      "id": 108,
+      "zoneId": 1,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1017": {
+      "count": 42000,
+      "id": 1017,
+      "zoneId": 10,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1003": {
+      "count": 210000,
+      "id": 1003,
+      "zoneId": 10,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "1109": {
+      "count": 110000,
+      "id": 1109,
+      "zoneId": 11,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "1104": {
+      "count": 190000,
+      "id": 1104,
+      "zoneId": 11,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "1115": {
+      "count": 50000,
+      "id": 1115,
+      "zoneId": 11,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1307": {
+      "count": 130000,
+      "id": 1307,
+      "zoneId": 13,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1305": {
+      "count": 170000,
+      "id": 1305,
+      "zoneId": 13,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "1306": {
+      "count": 150000,
+      "id": 1306,
+      "zoneId": 13,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1402": {
+      "count": 250000,
+      "id": 1402,
+      "zoneId": 14,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1311": {
+      "count": 90000,
+      "id": 1311,
+      "zoneId": 13,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1212": {
+      "count": 80000,
+      "id": 1212,
+      "zoneId": 12,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1322": {
+      "count": 22000,
+      "id": 1322,
+      "zoneId": 13,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "1206": {
+      "count": 150000,
+      "id": 1206,
+      "zoneId": 12,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1010": {
+      "count": 100000,
+      "id": 1010,
+      "zoneId": 10,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "1420": {
+      "count": 30000,
+      "id": 1420,
+      "zoneId": 14,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1302": {
+      "count": 250000,
+      "id": 1302,
+      "zoneId": 13,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1418": {
+      "count": 38000,
+      "id": 1418,
+      "zoneId": 14,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "1201": {
+      "count": 300000,
+      "id": 1201,
+      "zoneId": 12,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "1411": {
+      "count": 90000,
+      "id": 1411,
+      "zoneId": 14,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1110": {
+      "count": 100000,
+      "id": 1110,
+      "zoneId": 11,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "1122": {
+      "count": 22000,
+      "id": 1122,
+      "zoneId": 11,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "1408": {
+      "count": 120000,
+      "id": 1408,
+      "zoneId": 14,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1221": {
+      "count": 26000,
+      "id": 1221,
+      "zoneId": 12,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1202": {
+      "count": 250000,
+      "id": 1202,
+      "zoneId": 12,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1317": {
+      "count": 42000,
+      "id": 1317,
+      "zoneId": 13,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1111": {
+      "count": 90000,
+      "id": 1111,
+      "zoneId": 11,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1012": {
+      "count": 80000,
+      "id": 1012,
+      "zoneId": 10,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1301": {
+      "count": 300000,
+      "id": 1301,
+      "zoneId": 13,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "1321": {
+      "count": 26000,
+      "id": 1321,
+      "zoneId": 13,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1210": {
+      "count": 100000,
+      "id": 1210,
+      "zoneId": 12,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "1102": {
+      "count": 250000,
+      "id": 1102,
+      "zoneId": 11,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1417": {
+      "count": 42000,
+      "id": 1417,
+      "zoneId": 14,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1211": {
+      "count": 90000,
+      "id": 1211,
+      "zoneId": 12,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1312": {
+      "count": 80000,
+      "id": 1312,
+      "zoneId": 13,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1001": {
+      "count": 300000,
+      "id": 1001,
+      "zoneId": 10,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "1422": {
+      "count": 22000,
+      "id": 1422,
+      "zoneId": 14,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "1421": {
+      "count": 26000,
+      "id": 1421,
+      "zoneId": 14,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1310": {
+      "count": 100000,
+      "id": 1310,
+      "zoneId": 13,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "1220": {
+      "count": 30000,
+      "id": 1220,
+      "zoneId": 12,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1002": {
+      "count": 250000,
+      "id": 1002,
+      "zoneId": 10,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1021": {
+      "count": 26000,
+      "id": 1021,
+      "zoneId": 10,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1413": {
+      "count": 70000,
+      "id": 1413,
+      "zoneId": 14,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "1101": {
+      "count": 300000,
+      "id": 1101,
+      "zoneId": 11,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "223": {
+      "count": 18000,
+      "id": 223,
+      "zoneId": 2,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "323": {
+      "count": 18000,
+      "id": 323,
+      "zoneId": 3,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "423": {
+      "count": 18000,
+      "id": 423,
+      "zoneId": 4,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "523": {
+      "count": 18000,
+      "id": 523,
+      "zoneId": 5,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "623": {
+      "count": 18000,
+      "id": 623,
+      "zoneId": 6,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "723": {
+      "count": 18000,
+      "id": 723,
+      "zoneId": 7,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "1222": {
+      "count": 22000,
+      "id": 1222,
+      "zoneId": 12,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "923": {
+      "count": 18000,
+      "id": 923,
+      "zoneId": 9,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "1121": {
+      "count": 26000,
+      "id": 1121,
+      "zoneId": 11,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "123": {
+      "count": 18000,
+      "id": 123,
+      "zoneId": 1,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "1011": {
+      "count": 90000,
+      "id": 1011,
+      "zoneId": 10,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1112": {
+      "count": 80000,
+      "id": 1112,
+      "zoneId": 11,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "313": {
+      "count": 70000,
+      "id": 313,
+      "zoneId": 3,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "213": {
+      "count": 70000,
+      "id": 213,
+      "zoneId": 2,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "513": {
+      "count": 70000,
+      "id": 513,
+      "zoneId": 5,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "1106": {
+      "count": 150000,
+      "id": 1106,
+      "zoneId": 11,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "713": {
+      "count": 70000,
+      "id": 713,
+      "zoneId": 7,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "110": {
+      "count": 100000,
+      "id": 110,
+      "zoneId": 1,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "913": {
+      "count": 70000,
+      "id": 913,
+      "zoneId": 9,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "813": {
+      "count": 70000,
+      "id": 813,
+      "zoneId": 8,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "921": {
+      "count": 26000,
+      "id": 921,
+      "zoneId": 9,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "920": {
+      "count": 30000,
+      "id": 920,
+      "zoneId": 9,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1020": {
+      "count": 30000,
+      "id": 1020,
+      "zoneId": 10,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "918": {
+      "count": 38000,
+      "id": 918,
+      "zoneId": 9,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "917": {
+      "count": 42000,
+      "id": 917,
+      "zoneId": 9,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "916": {
+      "count": 46000,
+      "id": 916,
+      "zoneId": 9,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "113": {
+      "count": 70000,
+      "id": 113,
+      "zoneId": 1,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "915": {
+      "count": 50000,
+      "id": 915,
+      "zoneId": 9,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "914": {
+      "count": 60000,
+      "id": 914,
+      "zoneId": 9,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "1308": {
+      "count": 120000,
+      "id": 1308,
+      "zoneId": 13,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "501": {
+      "count": 300000,
+      "id": 501,
+      "zoneId": 5,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "317": {
+      "count": 42000,
+      "id": 317,
+      "zoneId": 3,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "906": {
+      "count": 150000,
+      "id": 906,
+      "zoneId": 9,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "301": {
+      "count": 300000,
+      "id": 301,
+      "zoneId": 3,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "904": {
+      "count": 190000,
+      "id": 904,
+      "zoneId": 9,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "315": {
+      "count": 50000,
+      "id": 315,
+      "zoneId": 3,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "115": {
+      "count": 50000,
+      "id": 115,
+      "zoneId": 1,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "823": {
+      "count": 18000,
+      "id": 823,
+      "zoneId": 8,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "821": {
+      "count": 26000,
+      "id": 821,
+      "zoneId": 8,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "820": {
+      "count": 30000,
+      "id": 820,
+      "zoneId": 8,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "207": {
+      "count": 130000,
+      "id": 207,
+      "zoneId": 2,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "622": {
+      "count": 22000,
+      "id": 622,
+      "zoneId": 6,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "1304": {
+      "count": 190000,
+      "id": 1304,
+      "zoneId": 13,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "1309": {
+      "count": 110000,
+      "id": 1309,
+      "zoneId": 13,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "107": {
+      "count": 130000,
+      "id": 107,
+      "zoneId": 1,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "807": {
+      "count": 130000,
+      "id": 807,
+      "zoneId": 8,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1006": {
+      "count": 150000,
+      "id": 1006,
+      "zoneId": 10,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "607": {
+      "count": 130000,
+      "id": 607,
+      "zoneId": 6,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1022": {
+      "count": 22000,
+      "id": 1022,
+      "zoneId": 10,
+      "minRank": 31,
+      "maxRank": 40
+    },
+    "804": {
+      "count": 190000,
+      "id": 804,
+      "zoneId": 8,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "1416": {
+      "count": 46000,
+      "id": 1416,
+      "zoneId": 14,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "902": {
+      "count": 250000,
+      "id": 902,
+      "zoneId": 9,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "802": {
+      "count": 250000,
+      "id": 802,
+      "zoneId": 8,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1120": {
+      "count": 30000,
+      "id": 1120,
+      "zoneId": 11,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "602": {
+      "count": 250000,
+      "id": 602,
+      "zoneId": 6,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "502": {
+      "count": 250000,
+      "id": 502,
+      "zoneId": 5,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "402": {
+      "count": 250000,
+      "id": 402,
+      "zoneId": 4,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "302": {
+      "count": 250000,
+      "id": 302,
+      "zoneId": 3,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "202": {
+      "count": 250000,
+      "id": 202,
+      "zoneId": 2,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "102": {
+      "count": 250000,
+      "id": 102,
+      "zoneId": 1,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "1414": {
+      "count": 60000,
+      "id": 1414,
+      "zoneId": 14,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "721": {
+      "count": 26000,
+      "id": 721,
+      "zoneId": 7,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "720": {
+      "count": 30000,
+      "id": 720,
+      "zoneId": 7,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "717": {
+      "count": 42000,
+      "id": 717,
+      "zoneId": 7,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "1423": {
+      "count": 18000,
+      "id": 1423,
+      "zoneId": 14,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "715": {
+      "count": 50000,
+      "id": 715,
+      "zoneId": 7,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1217": {
+      "count": 42000,
+      "id": 1217,
+      "zoneId": 12,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "711": {
+      "count": 90000,
+      "id": 711,
+      "zoneId": 7,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "420": {
+      "count": 30000,
+      "id": 420,
+      "zoneId": 4,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "707": {
+      "count": 130000,
+      "id": 707,
+      "zoneId": 7,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "706": {
+      "count": 150000,
+      "id": 706,
+      "zoneId": 7,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "705": {
+      "count": 170000,
+      "id": 705,
+      "zoneId": 7,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "704": {
+      "count": 190000,
+      "id": 704,
+      "zoneId": 7,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "217": {
+      "count": 42000,
+      "id": 217,
+      "zoneId": 2,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "702": {
+      "count": 250000,
+      "id": 702,
+      "zoneId": 7,
+      "minRank": 2,
+      "maxRank": 2
+    },
+    "611": {
+      "count": 90000,
+      "id": 611,
+      "zoneId": 6,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1419": {
+      "count": 34000,
+      "id": 1419,
+      "zoneId": 14,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "815": {
+      "count": 50000,
+      "id": 815,
+      "zoneId": 8,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "515": {
+      "count": 50000,
+      "id": 515,
+      "zoneId": 5,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "615": {
+      "count": 50000,
+      "id": 615,
+      "zoneId": 6,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1303": {
+      "count": 210000,
+      "id": 1303,
+      "zoneId": 13,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "415": {
+      "count": 50000,
+      "id": 415,
+      "zoneId": 4,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1117": {
+      "count": 42000,
+      "id": 1117,
+      "zoneId": 11,
+      "minRank": 17,
+      "maxRank": 17
+    },
+    "215": {
+      "count": 50000,
+      "id": 215,
+      "zoneId": 2,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "621": {
+      "count": 26000,
+      "id": 621,
+      "zoneId": 6,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1208": {
+      "count": 120000,
+      "id": 1208,
+      "zoneId": 12,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "620": {
+      "count": 30000,
+      "id": 620,
+      "zoneId": 6,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "616": {
+      "count": 46000,
+      "id": 616,
+      "zoneId": 6,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "901": {
+      "count": 300000,
+      "id": 901,
+      "zoneId": 9,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "613": {
+      "count": 70000,
+      "id": 613,
+      "zoneId": 6,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "1204": {
+      "count": 190000,
+      "id": 1204,
+      "zoneId": 12,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "612": {
+      "count": 80000,
+      "id": 612,
+      "zoneId": 6,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1215": {
+      "count": 50000,
+      "id": 1215,
+      "zoneId": 12,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "1118": {
+      "count": 38000,
+      "id": 1118,
+      "zoneId": 11,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "701": {
+      "count": 300000,
+      "id": 701,
+      "zoneId": 7,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "801": {
+      "count": 300000,
+      "id": 801,
+      "zoneId": 8,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "101": {
+      "count": 300000,
+      "id": 101,
+      "zoneId": 1,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "201": {
+      "count": 300000,
+      "id": 201,
+      "zoneId": 2,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "1114": {
+      "count": 60000,
+      "id": 1114,
+      "zoneId": 11,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "401": {
+      "count": 300000,
+      "id": 401,
+      "zoneId": 4,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "520": {
+      "count": 30000,
+      "id": 520,
+      "zoneId": 5,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1005": {
+      "count": 170000,
+      "id": 1005,
+      "zoneId": 10,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "320": {
+      "count": 30000,
+      "id": 320,
+      "zoneId": 3,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "220": {
+      "count": 30000,
+      "id": 220,
+      "zoneId": 2,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1013": {
+      "count": 70000,
+      "id": 1013,
+      "zoneId": 10,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "404": {
+      "count": 190000,
+      "id": 404,
+      "zoneId": 4,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "104": {
+      "count": 190000,
+      "id": 104,
+      "zoneId": 1,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "204": {
+      "count": 190000,
+      "id": 204,
+      "zoneId": 2,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "805": {
+      "count": 170000,
+      "id": 805,
+      "zoneId": 8,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "1319": {
+      "count": 34000,
+      "id": 1319,
+      "zoneId": 13,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "605": {
+      "count": 170000,
+      "id": 605,
+      "zoneId": 6,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "505": {
+      "count": 170000,
+      "id": 505,
+      "zoneId": 5,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "120": {
+      "count": 30000,
+      "id": 120,
+      "zoneId": 1,
+      "minRank": 20,
+      "maxRank": 20
+    },
+    "1203": {
+      "count": 210000,
+      "id": 1203,
+      "zoneId": 12,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "205": {
+      "count": 170000,
+      "id": 205,
+      "zoneId": 2,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "105": {
+      "count": 170000,
+      "id": 105,
+      "zoneId": 1,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "1108": {
+      "count": 120000,
+      "id": 1108,
+      "zoneId": 11,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "606": {
+      "count": 150000,
+      "id": 606,
+      "zoneId": 6,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "1316": {
+      "count": 46000,
+      "id": 1316,
+      "zoneId": 13,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "604": {
+      "count": 190000,
+      "id": 604,
+      "zoneId": 6,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "212": {
+      "count": 80000,
+      "id": 212,
+      "zoneId": 2,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "601": {
+      "count": 300000,
+      "id": 601,
+      "zoneId": 6,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "521": {
+      "count": 26000,
+      "id": 521,
+      "zoneId": 5,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1107": {
+      "count": 130000,
+      "id": 1107,
+      "zoneId": 11,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "208": {
+      "count": 120000,
+      "id": 208,
+      "zoneId": 2,
+      "minRank": 8,
+      "maxRank": 8
+    },
+    "1315": {
+      "count": 50000,
+      "id": 1315,
+      "zoneId": 13,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "106": {
+      "count": 150000,
+      "id": 106,
+      "zoneId": 1,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "512": {
+      "count": 80000,
+      "id": 512,
+      "zoneId": 5,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1123": {
+      "count": 18000,
+      "id": 1123,
+      "zoneId": 11,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "511": {
+      "count": 90000,
+      "id": 511,
+      "zoneId": 5,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "504": {
+      "count": 190000,
+      "id": 504,
+      "zoneId": 5,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "507": {
+      "count": 130000,
+      "id": 507,
+      "zoneId": 5,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1105": {
+      "count": 170000,
+      "id": 1105,
+      "zoneId": 11,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "510": {
+      "count": 100000,
+      "id": 510,
+      "zoneId": 5,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "210": {
+      "count": 100000,
+      "id": 210,
+      "zoneId": 2,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "310": {
+      "count": 100000,
+      "id": 310,
+      "zoneId": 3,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "810": {
+      "count": 100000,
+      "id": 810,
+      "zoneId": 8,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "910": {
+      "count": 100000,
+      "id": 910,
+      "zoneId": 9,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "610": {
+      "count": 100000,
+      "id": 610,
+      "zoneId": 6,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "710": {
+      "count": 100000,
+      "id": 710,
+      "zoneId": 7,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "419": {
+      "count": 34000,
+      "id": 419,
+      "zoneId": 4,
+      "minRank": 19,
+      "maxRank": 19
+    },
+    "1409": {
+      "count": 110000,
+      "id": 1409,
+      "zoneId": 14,
+      "minRank": 9,
+      "maxRank": 9
+    },
+    "414": {
+      "count": 60000,
+      "id": 414,
+      "zoneId": 4,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "413": {
+      "count": 70000,
+      "id": 413,
+      "zoneId": 4,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "412": {
+      "count": 80000,
+      "id": 412,
+      "zoneId": 4,
+      "minRank": 12,
+      "maxRank": 12
+    },
+    "1405": {
+      "count": 170000,
+      "id": 1405,
+      "zoneId": 14,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "410": {
+      "count": 100000,
+      "id": 410,
+      "zoneId": 4,
+      "minRank": 10,
+      "maxRank": 10
+    },
+    "118": {
+      "count": 38000,
+      "id": 118,
+      "zoneId": 1,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "1404": {
+      "count": 190000,
+      "id": 1404,
+      "zoneId": 14,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "405": {
+      "count": 170000,
+      "id": 405,
+      "zoneId": 4,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "403": {
+      "count": 210000,
+      "id": 403,
+      "zoneId": 4,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "1216": {
+      "count": 46000,
+      "id": 1216,
+      "zoneId": 12,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "314": {
+      "count": 60000,
+      "id": 314,
+      "zoneId": 3,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "907": {
+      "count": 130000,
+      "id": 907,
+      "zoneId": 9,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1207": {
+      "count": 130000,
+      "id": 1207,
+      "zoneId": 12,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "1407": {
+      "count": 130000,
+      "id": 1407,
+      "zoneId": 14,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "421": {
+      "count": 26000,
+      "id": 421,
+      "zoneId": 4,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1415": {
+      "count": 50000,
+      "id": 1415,
+      "zoneId": 14,
+      "minRank": 15,
+      "maxRank": 15
+    },
+    "221": {
+      "count": 26000,
+      "id": 221,
+      "zoneId": 2,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "321": {
+      "count": 26000,
+      "id": 321,
+      "zoneId": 3,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1314": {
+      "count": 60000,
+      "id": 1314,
+      "zoneId": 13,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "1023": {
+      "count": 18000,
+      "id": 1023,
+      "zoneId": 10,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "407": {
+      "count": 130000,
+      "id": 407,
+      "zoneId": 4,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "307": {
+      "count": 130000,
+      "id": 307,
+      "zoneId": 3,
+      "minRank": 7,
+      "maxRank": 7
+    },
+    "306": {
+      "count": 150000,
+      "id": 306,
+      "zoneId": 3,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "305": {
+      "count": 170000,
+      "id": 305,
+      "zoneId": 3,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "304": {
+      "count": 190000,
+      "id": 304,
+      "zoneId": 3,
+      "minRank": 4,
+      "maxRank": 4
+    },
+    "1401": {
+      "count": 300000,
+      "id": 1401,
+      "zoneId": 14,
+      "minRank": 1,
+      "maxRank": 1
+    },
+    "1403": {
+      "count": 210000,
+      "id": 1403,
+      "zoneId": 14,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "121": {
+      "count": 26000,
+      "id": 121,
+      "zoneId": 1,
+      "minRank": 21,
+      "maxRank": 30
+    },
+    "1213": {
+      "count": 70000,
+      "id": 1213,
+      "zoneId": 12,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "905": {
+      "count": 170000,
+      "id": 905,
+      "zoneId": 9,
+      "minRank": 5,
+      "maxRank": 5
+    },
+    "703": {
+      "count": 210000,
+      "id": 703,
+      "zoneId": 7,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "803": {
+      "count": 210000,
+      "id": 803,
+      "zoneId": 8,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "503": {
+      "count": 210000,
+      "id": 503,
+      "zoneId": 5,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "603": {
+      "count": 210000,
+      "id": 603,
+      "zoneId": 6,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "303": {
+      "count": 210000,
+      "id": 303,
+      "zoneId": 3,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "1406": {
+      "count": 150000,
+      "id": 1406,
+      "zoneId": 14,
+      "minRank": 6,
+      "maxRank": 6
+    },
+    "103": {
+      "count": 210000,
+      "id": 103,
+      "zoneId": 1,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "203": {
+      "count": 210000,
+      "id": 203,
+      "zoneId": 2,
+      "minRank": 3,
+      "maxRank": 3
+    },
+    "1116": {
+      "count": 46000,
+      "id": 1116,
+      "zoneId": 11,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "516": {
+      "count": 46000,
+      "id": 516,
+      "zoneId": 5,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "816": {
+      "count": 46000,
+      "id": 816,
+      "zoneId": 8,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "716": {
+      "count": 46000,
+      "id": 716,
+      "zoneId": 7,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "216": {
+      "count": 46000,
+      "id": 216,
+      "zoneId": 2,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "116": {
+      "count": 46000,
+      "id": 116,
+      "zoneId": 1,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "416": {
+      "count": 46000,
+      "id": 416,
+      "zoneId": 4,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "316": {
+      "count": 46000,
+      "id": 316,
+      "zoneId": 3,
+      "minRank": 16,
+      "maxRank": 16
+    },
+    "1218": {
+      "count": 38000,
+      "id": 1218,
+      "zoneId": 12,
+      "minRank": 18,
+      "maxRank": 18
+    },
+    "411": {
+      "count": 90000,
+      "id": 411,
+      "zoneId": 4,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "311": {
+      "count": 90000,
+      "id": 311,
+      "zoneId": 3,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "211": {
+      "count": 90000,
+      "id": 211,
+      "zoneId": 2,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "911": {
+      "count": 90000,
+      "id": 911,
+      "zoneId": 9,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "811": {
+      "count": 90000,
+      "id": 811,
+      "zoneId": 8,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1323": {
+      "count": 18000,
+      "id": 1323,
+      "zoneId": 13,
+      "minRank": 41,
+      "maxRank": 50
+    },
+    "1014": {
+      "count": 60000,
+      "id": 1014,
+      "zoneId": 10,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "814": {
+      "count": 60000,
+      "id": 814,
+      "zoneId": 8,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "714": {
+      "count": 60000,
+      "id": 714,
+      "zoneId": 7,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "614": {
+      "count": 60000,
+      "id": 614,
+      "zoneId": 6,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "514": {
+      "count": 60000,
+      "id": 514,
+      "zoneId": 5,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "111": {
+      "count": 90000,
+      "id": 111,
+      "zoneId": 1,
+      "minRank": 11,
+      "maxRank": 11
+    },
+    "1113": {
+      "count": 70000,
+      "id": 1113,
+      "zoneId": 11,
+      "minRank": 13,
+      "maxRank": 13
+    },
+    "214": {
+      "count": 60000,
+      "id": 214,
+      "zoneId": 2,
+      "minRank": 14,
+      "maxRank": 14
+    },
+    "114": {
+      "count": 60000,
+      "id": 114,
+      "zoneId": 1,
+      "minRank": 14,
+      "maxRank": 14
+    }
+  },
+  "isNeedTransform": false
+}

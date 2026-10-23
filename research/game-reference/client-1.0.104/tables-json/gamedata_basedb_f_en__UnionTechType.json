@@ -1,0 +1,23 @@
+{
+  "data": {
+    "3": {
+      "id": 3,
+      "name": "Troop"
+    },
+    "2": {
+      "id": 2,
+      "name": "Resource"
+    },
+    "1": {
+      "id": 1,
+      "name": "General"
+    },
+    "4": {
+      "id": 4,
+      "name": "Battle"
+    }
+  },
+  "len": 4,
+  "key": "id",
+  "source_format": "locale rows"
+}

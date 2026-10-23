@@ -1,0 +1,71 @@
+{
+  "excelName": "Player_指挥官",
+  "enum": {
+    "ABILITYITEM": {
+      "PLANE": 5,
+      "HERO": 1,
+      "SOLDIER": 2,
+      "BUILDING": 3,
+      "TECHNOLOGY": 4
+    }
+  },
+  "data": {
+    "1": {
+      "abilityItem": 1,
+      "icon": "pic_bq_xiaotubiao1",
+      "id": 1,
+      "sources": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 4,
+        "5": 5
+      },
+      "desc": ""
+    },
+    "3": {
+      "abilityItem": 3,
+      "icon": "pic_bq_xiaotubiao4",
+      "id": 3,
+      "sources": {
+        "1": 8,
+        "2": 9
+      },
+      "desc": ""
+    },
+    "2": {
+      "abilityItem": 2,
+      "icon": "pic_bq_xiaotubiao5",
+      "id": 2,
+      "sources": {
+        "1": 10
+      },
+      "desc": ""
+    },
+    "5": {
+      "abilityItem": 5,
+      "icon": "pic_bq_xiaotubiao3",
+      "id": 5,
+      "sources": {
+        "1": 6,
+        "2": 7,
+        "3": 12,
+        "4": 13
+      },
+      "desc": ""
+    },
+    "4": {
+      "abilityItem": 4,
+      "icon": "pic_bq_xiaotubiao2",
+      "id": 4,
+      "sources": {
+        "1": 11
+      },
+      "desc": ""
+    }
+  },
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 1,
+  "len": 5
+}

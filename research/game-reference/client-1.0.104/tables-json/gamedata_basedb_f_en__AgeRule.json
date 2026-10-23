@@ -1,0 +1,57 @@
+{
+  "data": {
+    "10": {
+      "ruleDescribe": "[Level Up] Entering a new era, monsters lured by traps become stronger, and Cheese Trap levels increase accordingly. Higher-level traps require greater damage from Lords, but rewards are more generous. Let's unite the Alliance's strength to eliminate trapped monsters and protect our territory.",
+      "ruleTitle": "Cheese Trap",
+      "id": 10
+    },
+    "9": {
+      "ruleDescribe": "[Soldier's Rest] New Soldier's Rest building added. Soldiers who die in battle will be partially rescued to the Soldier's Rest, and Lords can recruit them to the Barracks.\n[Recruit Help] After recruiting soldiers, you must wait for the recovery period to end before recruiting again. Request Help from Alliance Members to reduce the recovery cooldown, and helpers will receive a thank-you gift.",
+      "ruleTitle": "Soldier's Rest",
+      "id": 9
+    },
+    "8": {
+      "ruleDescribe": "[Lord Statue] New Lord Statue building unlocks Lord's Specialty.\n[Lord's Specialty] Upgrade Specialty Level and learn Specialty Skills to strengthen City development and combat.\n[RES] RES is the foundation for rapid progress in Era of Revival, increase RES to face stronger Monsters.",
+      "ruleTitle": "Lord Statue",
+      "id": 8
+    },
+    "7": {
+      "ruleDescribe": "[Era Shop] New Era Shop unlocked, exchange for exclusive Era Skins, MR Gear Blueprints, Curios and other rare Items",
+      "ruleTitle": "Exchange Shop",
+      "id": 7
+    },
+    "6": {
+      "ruleDescribe": "[Achievement] Demon King Blight Achievement Cap expanded, deal higher damage to them and earn more Achievement Rewards.",
+      "ruleTitle": "Demon King Blight",
+      "id": 6
+    },
+    "5": {
+      "ruleDescribe": "[Reward Adjustment] Alliance Duel Phase Rewards will be replaced with Era Phase Rewards, with additional Lord's Specialty EXP Item output.\n[Main Content] Phase II adds Excl. Wpn. Shard consumption point target; Phase IV adds Hero Awaken Shard or Awaken Omni Shard consumption point target.",
+      "ruleTitle": "Alliance Duel",
+      "id": 5
+    },
+    "4": {
+      "ruleDescribe": "[New Hero] Enter the Era of Revival and you'll have a chance to recruit Daskal and Red Lady from the Tavern.",
+      "ruleTitle": "Tavern",
+      "id": 4
+    },
+    "3": {
+      "ruleDescribe": "[Hero Awaken] Marlena, Cynthia, and Annie will gain awakening power in the Era of Revival. Awakening boosts all attributes, grants multiple Awaken Skills, and greatly enhances Hero strength\n[Exclusive Weapon] Daskal, Louis, and Ulfrid will obtain Exclusive Weapons in the Era of Revival. Upgrading Exclusive Weapons boosts all attributes, grants additional Skill effects, and greatly enhances Hero strength.",
+      "ruleTitle": "Hero Abilities",
+      "id": 3
+    },
+    "2": {
+      "ruleDescribe": "[Format Adjustment] The Revival Expedition League is the league version of Kingdom War, featuring 16 Kingdoms competing over 2 months. Weekly Kingdom performance and rankings determine the Era of Revival Kingdom Composite Ranking. Kingdom era Rewards are distributed accordingly.\n[Reward Adjustment] Weekly enemy elimination score rewards are replaced with era enemy elimination score rewards, yielding additional Lord's Specialty EXP Items.\n[Enemy Elimination Score] Era Alliance rankings are determined by weekly Alliance Merit calculated from Alliance enemy elimination score rankings. Lords, prioritize every battle.",
+      "ruleTitle": "Revival Expedition League",
+      "id": 2
+    },
+    "1": {
+      "ruleDescribe": "[Participation Requirements] Once your Kingdom enters the Era of Revival, all Alliances can participate in the Royal City Scramble Event. Occupying 6 adjacent Lv.6 Cities is no longer required.\n[Celia's Tip] Upon entering the era, your Kingdom will face unprecedented challenges. Unity among all Kingdom members is essential to maintain your footing in fierce competition. Therefore, we must strengthen Kingdom management, consolidate Kingdom Resources, accelerate development, and contribute to Kingdom glory!",
+      "ruleTitle": "Royal City",
+      "id": 1
+    }
+  },
+  "len": 10,
+  "key": "id",
+  "source_format": "locale rows"
+}

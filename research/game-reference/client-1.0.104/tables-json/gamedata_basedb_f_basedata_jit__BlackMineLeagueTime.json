@@ -1,0 +1,29 @@
+{
+  "key": "id",
+  "len": 4,
+  "data": {
+    "4": {
+      "endMin": 30,
+      "id": 4,
+      "startHour": 23
+    },
+    "1": {
+      "endMin": 30,
+      "id": 1,
+      "startHour": 2
+    },
+    "2": {
+      "endMin": 30,
+      "id": 2,
+      "startHour": 9
+    },
+    "3": {
+      "endMin": 30,
+      "id": 3,
+      "startHour": 18
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

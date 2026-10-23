@@ -1,0 +1,584 @@
+{
+  "first": 1,
+  "data": {
+    "10": {
+      "vipGiftId": 700000010,
+      "icon": "Icon_VipInfo_10",
+      "id": 10,
+      "exp": 155000,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "20": {
+      "vipGiftId": 700000020,
+      "icon": "Icon_VipInfo_15",
+      "id": 20,
+      "exp": 50000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 20,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 20,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 20,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "9": {
+      "vipGiftId": 700000009,
+      "icon": "Icon_VipInfo_9",
+      "id": 9,
+      "exp": 100000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "11": {
+      "vipGiftId": 700000011,
+      "icon": "Icon_VipInfo_11",
+      "id": 11,
+      "exp": 250000,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 11,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "12": {
+      "vipGiftId": 700000012,
+      "icon": "Icon_VipInfo_12",
+      "id": 12,
+      "exp": 550000,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "13": {
+      "vipGiftId": 700000013,
+      "icon": "Icon_VipInfo_13",
+      "id": 13,
+      "exp": 1000000,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 13,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 13,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 13,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "14": {
+      "vipGiftId": 700000014,
+      "icon": "Icon_VipInfo_14",
+      "id": 14,
+      "exp": 2000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 14,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 14,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 14,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "3": {
+      "vipGiftId": 700000003,
+      "icon": "Icon_VipInfo_3",
+      "id": 3,
+      "exp": 1050,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_3"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "4": {
+      "vipGiftId": 700000004,
+      "icon": "Icon_VipInfo_4",
+      "id": 4,
+      "exp": 5200,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "1": {
+      "vipGiftId": 700000001,
+      "icon": "Icon_VipInfo_1",
+      "id": 1,
+      "exp": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "2": {
+      "vipGiftId": 700000002,
+      "icon": "Icon_VipInfo_2",
+      "id": 2,
+      "exp": 550,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_3"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "8": {
+      "vipGiftId": 700000008,
+      "icon": "Icon_VipInfo_8",
+      "id": 8,
+      "exp": 55000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "16": {
+      "vipGiftId": 700000016,
+      "icon": "Icon_VipInfo_15",
+      "id": 16,
+      "exp": 4000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "15": {
+      "vipGiftId": 700000015,
+      "icon": "Icon_VipInfo_15",
+      "id": 15,
+      "exp": 3000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "18": {
+      "vipGiftId": 700000018,
+      "icon": "Icon_VipInfo_15",
+      "id": 18,
+      "exp": 10000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "17": {
+      "vipGiftId": 700000017,
+      "icon": "Icon_VipInfo_15",
+      "id": 17,
+      "exp": 5000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 17,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 17,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 17,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "7": {
+      "vipGiftId": 700000007,
+      "icon": "Icon_VipInfo_7",
+      "id": 7,
+      "exp": 31000,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 7,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 7,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 7,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "6": {
+      "vipGiftId": 700000006,
+      "icon": "Icon_VipInfo_6",
+      "id": 6,
+      "exp": 15500,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "5": {
+      "vipGiftId": 700000005,
+      "icon": "Icon_VipInfo_5",
+      "id": 5,
+      "exp": 11000,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 5,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    },
+    "19": {
+      "vipGiftId": 700000019,
+      "icon": "Icon_VipInfo_15",
+      "id": 19,
+      "exp": 20000000,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 19,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 19,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 19,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "vipFreeGiftName": ""
+    }
+  },
+  "isNeedTransform": true,
+  "len": 20,
+  "excelName": "Vip_Vip表",
+  "key": "id"
+}

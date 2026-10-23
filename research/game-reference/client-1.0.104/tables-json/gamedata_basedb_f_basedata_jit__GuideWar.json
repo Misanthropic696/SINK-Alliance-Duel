@@ -1,0 +1,42 @@
+{
+  "isNeedTransform": false,
+  "len": 2,
+  "key": "id",
+  "excelName": "J-剧情功能表",
+  "first": 1,
+  "data": {
+    "1": {
+      "id": 1,
+      "assistingHero": 99001,
+      "playStorys": {
+        "1": 170000029,
+        "2": 170000030,
+        "3": 170000031,
+        "4": 170000032
+      },
+      "battleId": 1004,
+      "type": 1,
+      "posPriority": {
+        "1": 5,
+        "2": 3,
+        "3": 4,
+        "4": 2,
+        "5": 1
+      }
+    },
+    "2": {
+      "id": 2,
+      "assistingHero": 99002,
+      "playStorys": {},
+      "battleId": 1011,
+      "type": 2,
+      "posPriority": {
+        "1": 5,
+        "2": 3,
+        "3": 4,
+        "4": 2,
+        "5": 1
+      }
+    }
+  }
+}

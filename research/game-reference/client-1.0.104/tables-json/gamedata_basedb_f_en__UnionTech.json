@@ -1,0 +1,247 @@
+{
+  "data": {
+    "2011": {
+      "maxValue": "-5%",
+      "id": 2011,
+      "name": "Heal Aid",
+      "des2": "Healing Resource Cost↓",
+      "des": "Reduces troop healing resource cost for alliance members.",
+      "baseValue": "-0%"
+    },
+    "2015": {
+      "maxValue": "+5%",
+      "id": 2015,
+      "name": "Barracks Expansion",
+      "des2": "Barracks Capacity",
+      "des": "Increases barracks capacity for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1014": {
+      "maxValue": "-10%",
+      "id": 1014,
+      "name": "Crafting Technique",
+      "des2": "Hero Gear Crafting Resource Cost↓",
+      "des": "Reduces Gear crafting Herb cost for alliance members.",
+      "baseValue": "-0%"
+    },
+    "2014": {
+      "maxValue": "+10%",
+      "id": 2014,
+      "name": "Garrison Defense",
+      "des2": "Hero DEF↑ when garrisoned",
+      "des": "Increases Hero DEF when garrisoned for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2003": {
+      "maxValue": "-5%",
+      "id": 2003,
+      "name": "Coordinated Training",
+      "des2": "Training Cost↓",
+      "des": "Reduces soldier training resource cost for alliance members.",
+      "baseValue": "-0%"
+    },
+    "2012": {
+      "maxValue": "+10%",
+      "id": 2012,
+      "name": "Garrison HP",
+      "des2": "Hero HP↑ when garrisoned",
+      "des": "Increases Hero HP when garrisoned for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2002": {
+      "maxValue": "+5%",
+      "id": 2002,
+      "name": "Fast Training",
+      "des2": "Training Speed",
+      "des": "Increases soldier training speed for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2010": {
+      "maxValue": "+10%",
+      "id": 2010,
+      "name": "Rally Defense",
+      "des2": "Hero DEF↑ when participating in a Rally",
+      "des": "Increases Hero DEF when joining a rally for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1010": {
+      "maxValue": "+12.5%",
+      "id": 1010,
+      "name": "Grain Protection",
+      "des2": "Protected Grain Capacity",
+      "des": "Increases Grain protection limit for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1006": {
+      "maxValue": "+25%",
+      "id": 1006,
+      "name": "Timber Output",
+      "des2": "Timber Output",
+      "des": "Increases Timber Output for alliance members' cities.",
+      "baseValue": "+0%"
+    },
+    "2008": {
+      "maxValue": "+10%",
+      "id": 2008,
+      "name": "Rally HP",
+      "des2": "Hero HP↑ when participating in a Rally",
+      "des": "Increases Hero HP when joining a rally for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2009": {
+      "maxValue": "+10%",
+      "id": 2009,
+      "name": "Rally Attack",
+      "des2": "Hero ATK↑ When Participating in a Rally",
+      "des": "Increases Hero ATK when joining a rally for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1009": {
+      "maxValue": "-5%",
+      "id": 1009,
+      "name": "Research Upgrade",
+      "des2": "Research Resource Cost↓",
+      "des": "Reduces Tech Research resource cost for alliance members.",
+      "baseValue": "-0%"
+    },
+    "1011": {
+      "maxValue": "+12.5%",
+      "id": 1011,
+      "name": "Timber Protection",
+      "des2": "Protected Wood Capacity",
+      "des": "Increases Timber protection limit for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1007": {
+      "maxValue": "+25%",
+      "id": 1007,
+      "name": "Herb Output",
+      "des2": "Herb Output",
+      "des": "Increases Herb Output for alliance members' cities.",
+      "baseValue": "+0%"
+    },
+    "1015": {
+      "maxValue": "-5%",
+      "id": 1015,
+      "name": "Construction Cost",
+      "des2": "Construction Resource Cost↓",
+      "des": "Reduces construction resource cost for alliance members.",
+      "baseValue": "-0%"
+    },
+    "2006": {
+      "maxValue": "+50%",
+      "id": 2006,
+      "name": "Quick Garrison",
+      "des2": "March Speed when garrisoned in alliance members' towns",
+      "des": "Increases Troop March Speed when garrisoning for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2007": {
+      "maxValue": "+5%",
+      "id": 2007,
+      "name": "Troop March",
+      "des2": "March Speed",
+      "des": "Increases Troop March Speed for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1012": {
+      "maxValue": "+12.5%",
+      "id": 1012,
+      "name": "Herb Protection",
+      "des2": "Protected Herb Capacity",
+      "des": "Increases Herb protection limit for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2004": {
+      "maxValue": "+10%",
+      "id": 2004,
+      "name": "March Aid",
+      "des2": "March Speed when attacking other Doctors' towns",
+      "des": "Increases Troop March Speed when attacking other Doctors' towns for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2013": {
+      "maxValue": "+10%",
+      "id": 2013,
+      "name": "Garrison Attack",
+      "des2": "Hero ATK↑ When Garrisoned",
+      "des": "Increases Hero ATK when garrisoned for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1013": {
+      "maxValue": "+20%",
+      "id": 1013,
+      "name": "Crafting Speedup",
+      "des2": "Hero Gear Crafting Speedup",
+      "des": "Increases Gear crafting speed for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1005": {
+      "maxValue": "+25%",
+      "id": 1005,
+      "name": "Grain Output",
+      "des2": "Grain Output",
+      "des": "Increases Grain Output for alliance members' cities.",
+      "baseValue": "+0%"
+    },
+    "2005": {
+      "maxValue": "+10%",
+      "id": 2005,
+      "name": "Garrison Speedup",
+      "des2": "March Speed when alliance members attack cities",
+      "des": "Increases Troop March Speed when attacking cities for alliance members.",
+      "baseValue": "+0%"
+    },
+    "2001": {
+      "maxValue": "+10%",
+      "id": 2001,
+      "name": "Troop Load",
+      "des2": "Soldier Load",
+      "des": "Increases Troop Load for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1001": {
+      "maxValue": "Unlocked",
+      "id": 1001,
+      "name": "Auto Rally",
+      "des2": "Auto Rally",
+      "des": "Offline alliance members will automatically dispatch troops to join the rally.",
+      "baseValue": "Locked"
+    },
+    "1002": {
+      "maxValue": "+25%",
+      "id": 1002,
+      "name": "Fast Build",
+      "des2": "Construction Speed",
+      "des": "Increases Construction Speed for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1004": {
+      "maxValue": "+40%",
+      "id": 1004,
+      "name": "Gathering Speedup",
+      "des2": "Gathering Speedup",
+      "des": "Increases Resource Gathering Speed for alliance members.",
+      "baseValue": "+0%"
+    },
+    "1003": {
+      "maxValue": "-300s",
+      "id": 1003,
+      "name": "Enhance Help",
+      "des2": "Time Reduced",
+      "des": "Enhances Alliance Help effect, reducing time additionally with each help.",
+      "baseValue": "-0"
+    },
+    "1008": {
+      "maxValue": "+25%",
+      "id": 1008,
+      "name": "Research Speedup",
+      "des2": "Research Speed",
+      "des": "Increases Tech Research Speed for alliance members.",
+      "baseValue": "+0%"
+    }
+  },
+  "len": 30,
+  "key": "id",
+  "source_format": "locale rows"
+}

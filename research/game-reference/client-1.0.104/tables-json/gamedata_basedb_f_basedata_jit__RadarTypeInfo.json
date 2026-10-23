@@ -1,0 +1,139 @@
+{
+  "data": {
+    "5": {
+      "id": 5,
+      "dailyLimit": 3,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon7",
+      "infoIcon": "",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "6": {
+      "id": 6,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "",
+      "infoIcon": "",
+      "backgroundIcon": "pic_ld_mori1"
+    },
+    "3": {
+      "id": 3,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon10",
+      "infoIcon": "Pic_Map_Wreckage_Lv1",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "4": {
+      "id": 4,
+      "dailyLimit": 1,
+      "infoAtlas": "SpriteAtlas/UI_BuildingIcon.spriteatlas",
+      "bubbleIcon": "pic_ld_morijuntuan",
+      "infoIcon": "Pic_Map_CenterTower",
+      "backgroundIcon": "pic_ld_mori"
+    },
+    "1": {
+      "id": 1,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon1",
+      "infoIcon": "Icon_World_Find_Monster",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "2": {
+      "id": 2,
+      "dailyLimit": 1,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon2",
+      "infoIcon": "Icon_Build_Cavel",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "12": {
+      "id": 12,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "",
+      "infoIcon": "Icon_World_Find_Monster",
+      "backgroundIcon": "pic_ld_mori"
+    },
+    "11": {
+      "id": 11,
+      "dailyLimit": 1,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon3",
+      "infoIcon": "pic_ld_datu6",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "10": {
+      "id": 10,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon6",
+      "infoIcon": "Icon_World_Find_Monster",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "7": {
+      "id": 7,
+      "dailyLimit": 3,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon11",
+      "infoIcon": "Icon_World_Find_Monster",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "13": {
+      "id": 13,
+      "dailyLimit": 1,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon5",
+      "infoIcon": "Pic_Map_Rescue",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "14": {
+      "id": 14,
+      "dailyLimit": 1,
+      "infoAtlas": "",
+      "bubbleIcon": "pic_ld_icon5",
+      "infoIcon": "Pic_Map_Rescue",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "15": {
+      "id": 15,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "",
+      "infoIcon": "",
+      "backgroundIcon": "pic_ld_biaoji"
+    },
+    "16": {
+      "id": 16,
+      "dailyLimit": 0,
+      "infoAtlas": "",
+      "bubbleIcon": "",
+      "infoIcon": "",
+      "backgroundIcon": "pic_ld_biaoji"
+    }
+  },
+  "enum": {
+    "TYPE": {
+      "KILL_MONSTER": 16,
+      "ASSEMBLE": 2,
+      "SUPER_MINE": 5,
+      "WANDER_MONSTER": 11,
+      "UNION_DIG": 7,
+      "RESCUE_WORKER": 12,
+      "UNION_ASSIST": 6,
+      "PVE_CASTLE": 4,
+      "MONSTER": 1,
+      "SUPER_MONSTER": 10,
+      "RESCUE_RESISTER": 13,
+      "RESCUE_SOLDIER": 14,
+      "MONIKA_STRATEGY": 15,
+      "PICKUP": 3
+    }
+  },
+  "first": 1,
+  "isNeedTransform": false,
+  "excelName": "RadarIntelligence_k3新版情报站",
+  "key": "id",
+  "len": 14
+}

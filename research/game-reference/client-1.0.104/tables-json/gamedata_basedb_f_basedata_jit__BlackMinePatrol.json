@@ -1,0 +1,25 @@
+{
+  "key": "id",
+  "len": 2,
+  "data": {
+    "2": {
+      "refreshRatio": 0.85,
+      "blackExp": 150,
+      "npcId": 1200002,
+      "id": "2",
+      "areaId": 5,
+      "initCount": 100
+    },
+    "1": {
+      "refreshRatio": 1.35,
+      "blackExp": 75,
+      "npcId": 1200001,
+      "id": "1",
+      "areaId": 5,
+      "initCount": 200
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

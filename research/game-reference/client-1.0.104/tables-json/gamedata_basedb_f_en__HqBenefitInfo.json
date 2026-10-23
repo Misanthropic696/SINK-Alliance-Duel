@@ -1,0 +1,112 @@
+{
+  "data": {
+    "15": {
+      "des2": "Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",
+      "id": 15,
+      "name": "Shield",
+      "des1": "Protects your territory, immune to any Scout and Attack actions."
+    },
+    "16": {
+      "des2": "Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",
+      "id": 16,
+      "name": "Shield (System)",
+      "des1": "Protects your territory, immune to any Scout and Attack actions."
+    },
+    "103": {
+      "id": 103
+    },
+    "113": {
+      "id": 113,
+      "name": "Help Research",
+      "des1": "Research Speed +{0}%"
+    },
+    "1": {
+      "des2": "When the Sanctuary reaches Lv.9 or higher, initiate military actions to gain [War Frenzy]: [Troop ATK+5%]. Military actions include Scout, Reinforce, Station, Attack, and Rally on territories, camps, resource points, or cities.\nWar Frenzy duration increases with the Sanctuary level, and the shield can only be used after War Frenzy ends.",
+      "id": 1,
+      "name": "War Frenzy",
+      "des1": "Initiating military actions will trigger War Frenzy, during which Shields cannot be used."
+    },
+    "109": {
+      "id": 109
+    },
+    "106": {
+      "id": 106
+    },
+    "1001": {
+      "id": 1001,
+      "name": "Raid Buff",
+      "des1": "Healing Capacity +4000, Healing Speed +150%, Healing Cost -50%"
+    },
+    "8": {
+      "des2": "Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",
+      "id": 8,
+      "name": "Shield",
+      "des1": "Protects your territory, immune to any Scout and Attack actions."
+    },
+    "201": {
+      "id": 201,
+      "name": "Plunder Gains",
+      "des1": "Resources plundered today: {0}, plunder gains reduced to: {1}%"
+    },
+    "202": {
+      "id": 202,
+      "name": "Burning",
+      "des1": "Territory breached! City DEF will decrease over time while burning."
+    },
+    "115": {
+      "id": 115,
+      "name": "Bond Shield",
+      "des1": "Protected from Player attacks for {0}h"
+    },
+    "101": {
+      "id": 101
+    },
+    "3": {
+      "des2": "Purchase the [Premium Monthly Pass] to activate training speed-ups and Troop attribute boosts.",
+      "id": 3,
+      "name": "Premium Monthly Pass",
+      "des1": "Purchase the [Premium Monthly Pass] to activate training speed-ups and Troop attribute boosts."
+    },
+    "108": {
+      "id": 108
+    },
+    "105": {
+      "id": 105
+    },
+    "114": {
+      "id": 114,
+      "name": "Healing Force",
+      "des1": "Infirmary Capacity +{0}%"
+    },
+    "112": {
+      "id": 112,
+      "name": "Help Building",
+      "des1": "Build Speed +{0}%"
+    },
+    "111": {
+      "id": 111,
+      "name": "Siege War Flag",
+      "des1": "Allies within War Flag range gain +{0} Durability Damage (stacks up to 5x)"
+    },
+    "110": {
+      "id": 110
+    },
+    "104": {
+      "id": 104
+    },
+    "102": {
+      "id": 102
+    },
+    "117": {
+      "id": 117,
+      "name": "Charging War Flag",
+      "des1": "Allied units within War Flag range gain {0} ATK (stacks up to 5x)"
+    },
+    "107": {
+      "id": 107
+    }
+  },
+  "len": 24,
+  "key": "id",
+  "source_format": "locale rows"
+}

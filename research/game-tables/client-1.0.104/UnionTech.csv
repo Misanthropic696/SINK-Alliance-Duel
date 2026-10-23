@@ -1,0 +1,31 @@
+﻿record_key,des,baseValue,order,id,des2,maxValue,pos,name,preLine,techType,row,maxLevel,icon
+1013,Increases Gear crafting speed for alliance members.,+0%,1,1013,Hero Gear Crafting Speedup,+20%,1_6_1,Crafting Speedup,"{""1"": {""pos"": ""1_5_1""}, ""2"": {""pos"": ""1_5_2""}, ""3"": {""pos"": ""1_5_3""}}",1,6,10,icon_kuaisuzhizao
+2002,Increases soldier training speed for alliance members.,+0%,1,2002,Training Speed,+5%,1_2_1,Fast Training,"{""1"": {""pos"": ""1_1_2""}}",2,2,10,icon_shibingxunliansudu
+1002,Increases Construction Speed for alliance members.,+0%,1,1002,Construction Speed,+25%,1_2_1,Fast Build,"{""1"": {""pos"": ""1_1_2""}}",1,2,10,icon_kuaisujianzao
+1011,Increases Timber protection limit for alliance members.,+0%,2,1011,Protected Wood Capacity,+12.5%,1_5_2,Timber Protection,"{""1"": {""pos"": ""2_4_2""}, ""2"": {""pos"": ""2_4_3""}}",1,5,10,icon_mucaibaohu
+1006,Increases Timber Output for alliance members' cities.,+0%,2,1006,Timber Output,+25%,1_3_2,Timber Output,"{""1"": {""pos"": ""1_2_1""}, ""2"": {""pos"": ""1_2_2""}, ""3"": {""pos"": ""1_2_3""}}",1,3,10,icon_mucaichangliang
+2014,Increases Hero DEF when garrisoned for alliance members.,+0%,3,2014,Hero DEF↑ when garrisoned,+10%,1_7_3,Garrison Defense,"{""1"": {""pos"": ""1_6_2""}}",2,7,10,icon_zhushoufangyuli
+1005,Increases Grain Output for alliance members' cities.,+0%,1,1005,Grain Output,+25%,1_3_1,Grain Output,"{""1"": {""pos"": ""1_2_1""}, ""2"": {""pos"": ""1_2_2""}, ""3"": {""pos"": ""1_2_3""}}",1,3,10,icon_shiwuchangliang
+2015,Increases barracks capacity for alliance members.,+0%,1,2015,Barracks Capacity,+5%,1_8_2,Barracks Expansion,"{""1"": {""pos"": ""1_7_1""}, ""2"": {""pos"": ""1_7_2""}, ""3"": {""pos"": ""1_7_3""}}",2,8,10,icon_xiaochangkuojian
+1007,Increases Herb Output for alliance members' cities.,+0%,3,1007,Herb Output,+25%,1_3_3,Herb Output,"{""1"": {""pos"": ""1_2_1""}, ""2"": {""pos"": ""1_2_2""}, ""3"": {""pos"": ""1_2_3""}}",1,3,10,icon_dianlichangliang
+1008,Increases Tech Research Speed for alliance members.,+0%,1,1008,Research Speed,+25%,1_4_2,Research Speedup,"{""1"": {""pos"": ""1_3_1""}, ""2"": {""pos"": ""1_3_2""}, ""3"": {""pos"": ""1_3_3""}}",1,4,10,icon_keyanjiasu
+1004,Increases Resource Gathering Speed for alliance members.,+0%,1,1004,Gathering Speedup,+40%,1_2_3,Gathering Speedup,"{""1"": {""pos"": ""1_1_2""}}",1,2,10,icon_kuaisucaiji
+2009,Increases Hero ATK when joining a rally for alliance members.,+0%,2,2009,Hero ATK↑ When Participating in a Rally,+10%,1_5_2,Rally Attack,"{""1"": {""pos"": ""1_4_2""}}",2,5,10,icon_jijiegongjili
+1015,Reduces construction resource cost for alliance members.,-0%,1,1015,Construction Resource Cost↓,-5%,1_7_2,Construction Cost,"{""1"": {""pos"": ""1_6_1""}, ""2"": {""pos"": ""1_6_3""}}",1,7,10,icon_zishengongjiang
+1001,Offline alliance members will automatically dispatch troops to join the rally.,Locked,1,1001,Auto Rally,Unlocked,1_1_2,Auto Rally,{},1,1,1,icon_zidongjijie
+2013,Increases Hero ATK when garrisoned for alliance members.,+0%,2,2013,Hero ATK↑ When Garrisoned,+10%,1_7_2,Garrison Attack,"{""1"": {""pos"": ""1_6_2""}}",2,7,10,icon_zhushougongjili
+2012,Increases Hero HP when garrisoned for alliance members.,+0%,1,2012,Hero HP↑ when garrisoned,+10%,1_7_1,Garrison HP,"{""1"": {""pos"": ""1_6_2""}}",2,7,10,icon_zhushoushengming
+2011,Reduces troop healing resource cost for alliance members.,-0%,1,2011,Healing Resource Cost↓,-5%,1_6_2,Heal Aid,"{""1"": {""pos"": ""1_5_1""}, ""2"": {""pos"": ""1_5_2""}, ""3"": {""pos"": ""1_5_3""}}",2,6,10,icon_zishenhushi
+1012,Increases Herb protection limit for alliance members.,+0%,3,1012,Protected Herb Capacity,+12.5%,1_5_3,Herb Protection,"{""1"": {""pos"": ""2_4_2""}, ""2"": {""pos"": ""2_4_3""}}",1,5,10,icon_dianlibaohu
+2008,Increases Hero HP when joining a rally for alliance members.,+0%,1,2008,Hero HP↑ when participating in a Rally,+10%,1_5_1,Rally HP,"{""1"": {""pos"": ""1_4_2""}}",2,5,10,icon_jijieshengmingli
+2007,Increases Troop March Speed for alliance members.,+0%,1,2007,March Speed,+5%,1_4_2,Troop March,"{""1"": {""pos"": ""1_3_1""}, ""2"": {""pos"": ""1_3_3""}}",2,4,10,icon_buduixingjun
+2006,Increases Troop March Speed when garrisoning for alliance members.,+0%,3,2006,March Speed when garrisoned in alliance members' towns,+50%,1_3_3,Quick Garrison,"{""1"": {""pos"": ""1_2_1""}, ""2"": {""pos"": ""1_2_3""}}",2,3,10,icon_fufangjiasu
+2004,Increases Troop March Speed when attacking other Doctors' towns for alliance members.,+0%,1,2004,March Speed when attacking other Doctors' towns,+10%,1_3_1,March Aid,"{""1"": {""pos"": ""1_2_1""}, ""2"": {""pos"": ""1_2_3""}}",2,3,10,icon_buduixingjunsudu
+2005,Increases Troop March Speed when attacking cities for alliance members.,+0%,2,2005,March Speed when alliance members attack cities,+10%,1_2_2,Garrison Speedup,"{""1"": {""pos"": ""1_1_2""}}",2,2,10,icon_chengshijingongsudu
+1003,"Enhances Alliance Help effect, reducing time additionally with each help.",-0,2,1003,Time Reduced,-300s,1_2_2,Enhance Help,"{""1"": {""pos"": ""1_1_2""}}",1,2,10,icon_bangzhuqianghua
+2010,Increases Hero DEF when joining a rally for alliance members.,+0%,3,2010,Hero DEF↑ when participating in a Rally,+10%,1_5_3,Rally Defense,"{""1"": {""pos"": ""1_4_2""}}",2,5,10,icon_jijiefangyuli
+1010,Increases Grain protection limit for alliance members.,+0%,1,1010,Protected Grain Capacity,+12.5%,1_5_1,Grain Protection,"{""1"": {""pos"": ""2_4_2""}, ""2"": {""pos"": ""2_4_3""}}",1,5,10,icon_liangshibaohu
+2001,Increases Troop Load for alliance members.,+0%,1,2001,Soldier Load,+10%,1_1_2,Troop Load,{},2,1,10,icon_buduifuzhong
+1014,Reduces Gear crafting Herb cost for alliance members.,-0%,2,1014,Hero Gear Crafting Resource Cost↓,-10%,1_6_3,Crafting Technique,"{""1"": {""pos"": ""1_5_1""}, ""2"": {""pos"": ""1_5_2""}, ""3"": {""pos"": ""1_5_3""}}",1,6,10,icon_zishentiejiang
+2003,Reduces soldier training resource cost for alliance members.,-0%,2,2003,Training Cost↓,-5%,1_2_3,Coordinated Training,"{""1"": {""pos"": ""1_1_2""}}",2,2,10,icon_xunlianxiaohao
+1009,Reduces Tech Research resource cost for alliance members.,-0%,2,1009,Research Resource Cost↓,-5%,1_4_3,Research Upgrade,"{""1"": {""pos"": ""1_3_1""}, ""2"": {""pos"": ""1_3_2""}, ""3"": {""pos"": ""1_3_3""}}",1,4,10,icon_yanfazuli

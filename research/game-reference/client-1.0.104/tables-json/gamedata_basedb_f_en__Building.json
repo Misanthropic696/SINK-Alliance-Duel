@@ -1,0 +1,818 @@
+{
+  "data": {
+    "5054": {
+      "id": 5054,
+      "name": "Hall of Honor",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_formatWrap": ""
+    },
+    "5029": {
+      "id": 5029,
+      "abc_1_info_translate": "",
+      "abc_2_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "name": "Black Ops",
+      "abc_1_info_formatWrap": "",
+      "abc_4_info_translate": ""
+    },
+    "11011": {
+      "id": 11011,
+      "name": "Pearl of the Deep",
+      "createDes": "Treasures slumbering in the deep sea finally gleam with radiant beauty.",
+      "buildDes": "Treasures slumbering in the deep sea finally gleam with radiant beauty."
+    },
+    "11000": {
+      "id": 11000,
+      "createDes": "This traditional gadget has become a decorative piece.",
+      "name": "Red Nutcracker",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "This traditional gadget has become a decorative piece."
+    },
+    "5039": {
+      "id": 5039,
+      "abc_2_info_translate": "",
+      "name": "Curio Hall",
+      "buildDes": "Check Curio collection progress",
+      "createDes": "Check Curio collection progress",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5044": {
+      "id": 5044,
+      "abc_2_info_translate": "Warrior Hero HP",
+      "name": "Warrior Statue",
+      "buildDes": "Increases Warrior Hero's counter against Warlock Hero",
+      "createDes": "Increases Warrior Hero's counter against Warlock Hero",
+      "abc_4_info_translate": "Warrior Hero DEF",
+      "abc_3_info_translate": "Warrior Hero ATK",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Warrior Hero CMD"
+    },
+    "10021": {
+      "id": 10021,
+      "name": "Sphinx",
+      "createDes": "A peculiar small statue with certain artistic value.",
+      "buildDes": "A peculiar small statue with certain artistic value."
+    },
+    "1008": {
+      "id": 1008,
+      "abc_2_info_translate": "Reduces crafting Herb cost",
+      "name": "Gear Workshop",
+      "buildDes": "Craft Gear",
+      "createDes": "Craft Gear",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}%",
+      "abc_2_info_formatWrap": "+{0}%",
+      "abc_1_info_translate": "Crafting Speed"
+    },
+    "11002": {
+      "id": 11002,
+      "createDes": "This traditional gadget has become a decorative piece.",
+      "name": "Green Nutcracker",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "This traditional gadget has become a decorative piece."
+    },
+    "10014": {
+      "id": 10014,
+      "name": "Ranger Epaulet",
+      "createDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor.",
+      "buildDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor."
+    },
+    "11009": {
+      "id": 11009,
+      "name": "Slow Pocket Watch",
+      "createDes": "Tick-tock… A pocket watch that's never on time.",
+      "buildDes": "Tick-tock… A pocket watch that's never on time."
+    },
+    "1020": {
+      "id": 1020,
+      "abc_2_info_translate": "Soldier Training Level",
+      "name": "Training Grounds",
+      "buildDes": "Train Soldiers",
+      "createDes": "Train Soldiers",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Training Capacity"
+    },
+    "1004": {
+      "id": 1004,
+      "abc_2_info_translate": "Infirmary Healing Speed",
+      "name": "Infirmary",
+      "buildDes": "Heal Severely Wounded Soldiers",
+      "createDes": "Heal Severely Wounded Soldiers",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "+{0}%",
+      "abc_1_info_translate": "Infirmary Capacity"
+    },
+    "11004": {
+      "id": 11004,
+      "createDes": "Dragon blood from legend—fact or fiction? Who's to say?",
+      "name": "Dragon Blood",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "Dragon blood from legend—fact or fiction? Who's to say?"
+    },
+    "5035": {
+      "id": 5035,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Epigraph Workshop",
+      "buildDes": "Epigraph Workshop",
+      "createDes": "Epigraph Workshop",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "10020": {
+      "id": 10020,
+      "name": "Lost Scroll",
+      "createDes": "A legendary scroll that grants magic, but... does magic truly exist?",
+      "buildDes": "A legendary scroll that grants magic, but... does magic truly exist?"
+    },
+    "10016": {
+      "id": 10016,
+      "name": "Warrior Seal",
+      "createDes": "Often used on envelopes, symbolizing authority and trust.",
+      "buildDes": "Often used on envelopes, symbolizing authority and trust."
+    },
+    "10015": {
+      "id": 10015,
+      "name": "Warlock Epaulet",
+      "createDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor.",
+      "buildDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor."
+    },
+    "11010": {
+      "id": 11010,
+      "name": "Beacon of the Era",
+      "createDes": "A glorious testament to a great sacrifice, guiding people through these dark times.",
+      "buildDes": "A glorious testament to a great sacrifice, guiding people through these dark times."
+    },
+    "10001": {
+      "id": 10001,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Twin Dragon Brooch",
+      "buildDes": "A brooch symbolizing power and authority, once exclusive to nobility, lost in war.",
+      "createDes": "A brooch symbolizing power and authority, once exclusive to nobility, lost in war.",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5047": {
+      "id": 5047,
+      "abc_2_info_translate": "Free Speedup Time",
+      "name": "2nd Workbench",
+      "buildDes": "Research Technology, Enhance Territory Strength",
+      "createDes": "Research Technology, Enhance Territory Strength",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "Research Lab",
+      "abc_1_info_formatWrap": "+{0}%",
+      "abc_1_info_translate": "Research Speed"
+    },
+    "1006": {
+      "id": 1006,
+      "abc_2_info_translate": "",
+      "name": "Falcon Tower",
+      "buildDes": "Monitor Area, Earn Generous Rewards",
+      "createDes": "Monitor Area, Earn Generous Rewards",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "1017": {
+      "id": 1017,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Lumberyard",
+      "buildDes": "Supply Timber to the Territory",
+      "createDes": "Supply Timber to the Territory",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Output/Hour"
+    },
+    "1016": {
+      "id": 1016,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Farm",
+      "buildDes": "Supply Grain to the Territory",
+      "createDes": "Supply Grain to the Territory",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Output/Hour"
+    },
+    "10002": {
+      "id": 10002,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Golden Feather",
+      "buildDes": "Once a royal ornament embedded in the throne, lost in the flames of war.",
+      "createDes": "Once a royal ornament embedded in the throne, lost in the flames of war.",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5016": {
+      "id": 5016,
+      "abc_2_info_translate": "",
+      "name": "Squad 4",
+      "buildDes": "March Queue",
+      "createDes": "March Queue",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "March Queue",
+      "abc_1_info_formatWrap": "",
+      "abc_1_info_translate": "Squad March Speed↑"
+    },
+    "5024": {
+      "id": 5024,
+      "abc_2_info_translate": "",
+      "name": "Lumber Depot",
+      "buildDes": "Protects a certain amount of Timber from plunder",
+      "createDes": "Protects a certain amount of Timber from plunder",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Protected Resource"
+    },
+    "5033": {
+      "id": 5033,
+      "abc_2_info_translate": "",
+      "name": "Scout Squad",
+      "buildDes": "Increases scout speed",
+      "createDes": "Increases scout speed",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Scout Squad Movement Speed"
+    },
+    "11016": {
+      "id": 11016,
+      "name": "Unity Mooncake",
+      "createDes": "Full moon night is a time for reunion. Celebrate the festival together.",
+      "buildDes": "Full moon night is a time for reunion. Celebrate the festival together."
+    },
+    "5002": {
+      "id": 5002,
+      "abc_2_info_translate": "Loot Output",
+      "name": "Explorer's Camp",
+      "buildDes": "Continuously gather resources",
+      "createDes": "Continuously gather resources",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Accumulated Idle Time"
+    },
+    "5021": {
+      "id": 5021,
+      "abc_2_info_translate": "",
+      "name": "Residence",
+      "buildDes": "Enhances survivor abilities",
+      "createDes": "Enhances survivor abilities",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "1002": {
+      "id": 1002,
+      "abc_2_info_translate": "Wall DEF Decay Rate↓",
+      "name": "Walls",
+      "buildDes": "Set up Defense Troop",
+      "createDes": "Set up Defense Troop",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "Wall DEF Recovery Speed↑",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "City DEF"
+    },
+    "5055": {
+      "id": 5055,
+      "abc_2_info_translate": "Troop Reception Capacity",
+      "abc_1_info_translate": "Troop Reception Rate",
+      "abc_3_info_translate": "Rest Cooldown",
+      "name": "Soldier's Rest",
+      "abc_1_info_formatWrap": "+{0}%",
+      "abc_4_info_translate": "Help Accepted"
+    },
+    "11017": {
+      "id": 11017,
+      "name": "Jade Rabbit's Embrace",
+      "createDes": "Hold a Mooncake and admire the bright moon.",
+      "buildDes": "Hold a Mooncake and admire the bright moon."
+    },
+    "10999": {
+      "id": 10999,
+      "createDes": "This traditional gadget has become a decorative piece.",
+      "name": "Blue Nutcracker",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "This traditional gadget has become a decorative piece."
+    },
+    "5036": {
+      "id": 5036,
+      "abc_2_info_translate": "",
+      "name": "Raven Nest",
+      "buildDes": "Raven's Roost",
+      "createDes": "Raven's Roost",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5038": {
+      "id": 5038,
+      "abc_2_info_translate": "",
+      "name": "Monument",
+      "buildDes": "In honor of all great contributions.",
+      "createDes": "In honor of all great contributions.",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "10022": {
+      "id": 10022,
+      "name": "Beast Teeth",
+      "createDes": "Extremely rare beast teeth, with multiple teeth growing from a single root, seemingly cursed.",
+      "buildDes": "Extremely rare beast teeth, with multiple teeth growing from a single root, seemingly cursed."
+    },
+    "5014": {
+      "id": 5014,
+      "abc_2_info_translate": "",
+      "name": "Squad 2",
+      "buildDes": "March Queue",
+      "createDes": "March Queue",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "March Queue",
+      "abc_1_info_formatWrap": "",
+      "abc_1_info_translate": "Squad March Speed↑"
+    },
+    "1001": {
+      "id": 1001,
+      "abc_1_info_translate": "Hero Level Cap",
+      "abc_2_info_translate": "Hero HP",
+      "abc_3_info_translate": "Hero ATK",
+      "abc_2_info_formatWrap": "",
+      "name": "Sanctuary",
+      "abc_1_info_formatWrap": "",
+      "abc_4_info_translate": "Hero DEF"
+    },
+    "5010": {
+      "id": 5010,
+      "abc_2_info_translate": "",
+      "name": "Arena",
+      "buildDes": "Show your strength",
+      "createDes": "Show your strength",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5034": {
+      "id": 5034,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Raven Workshop",
+      "buildDes": "Produces Lv.1 Raven Gear Chest",
+      "createDes": "Produces Lv.1 Raven Gear Chest",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Raven Gear Chest Production Time"
+    },
+    "1019": {
+      "id": 1019,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Herb Garden",
+      "buildDes": "Supply Herb to the Territory",
+      "createDes": "Supply Herb to the Territory",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Output/Hour"
+    },
+    "5031": {
+      "id": 5031,
+      "abc_2_info_translate": "",
+      "name": "Builder's Hut",
+      "buildDes": "Extends free time",
+      "createDes": "Extends free time",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Free Speedup Time"
+    },
+    "5023": {
+      "id": 5023,
+      "abc_2_info_translate": "",
+      "name": "Granary",
+      "buildDes": "Protects a certain amount of Grain from plunder",
+      "createDes": "Protects a certain amount of Grain from plunder",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Protected Resource"
+    },
+    "5045": {
+      "id": 5045,
+      "abc_2_info_translate": "Warlock Hero HP",
+      "name": "Warlock Statue",
+      "buildDes": "Increases Warlock Hero's counter against Ranger Hero",
+      "createDes": "Increases Warlock Hero's counter against Ranger Hero",
+      "abc_4_info_translate": "Warlock Hero DEF",
+      "abc_3_info_translate": "Warlock Hero ATK",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Warlock Hero CMD"
+    },
+    "11014": {
+      "id": 11014,
+      "name": "Research Tome",
+      "createDes": "A tome of knowledge that greatly reduces research time.",
+      "buildDes": "A tome of knowledge that greatly reduces research time."
+    },
+    "10011": {
+      "id": 10011,
+      "name": "Ranger Stone",
+      "createDes": "A mysterious stone engraved with the Ranger's mark, a relic of ancient prayers for strength.",
+      "buildDes": "A mysterious stone engraved with the Ranger's mark, a relic of ancient prayers for strength."
+    },
+    "11012": {
+      "id": 11012,
+      "name": "Ship in a Bottle",
+      "createDes": "A memento of conquering the waves, evoking cherished memories of life at sea.",
+      "buildDes": "A memento of conquering the waves, evoking cherished memories of life at sea."
+    },
+    "1010": {
+      "id": 1010,
+      "abc_2_info_translate": "Alliance Help Duration",
+      "name": "Alliance Hall",
+      "buildDes": "Alliance Help",
+      "createDes": "Alliance Help",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Alliance Help Count"
+    },
+    "11008": {
+      "id": 11008,
+      "name": "Mad Hat",
+      "createDes": "Don the Mad Hat and wild ideas come flooding in!",
+      "buildDes": "Don the Mad Hat and wild ideas come flooding in!"
+    },
+    "11007": {
+      "id": 11007,
+      "name": "Fish Amulet",
+      "createDes": "A tiny charm said to bring peace and protection.",
+      "buildDes": "A tiny charm said to bring peace and protection."
+    },
+    "5043": {
+      "id": 5043,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Weaving Workshop",
+      "buildDes": "Produces gear crafting materials",
+      "createDes": "Produces gear crafting materials",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Cloth Output/Hour"
+    },
+    "5013": {
+      "id": 5013,
+      "abc_2_info_translate": "",
+      "name": "Squad 1",
+      "buildDes": "March Queue",
+      "createDes": "March Queue",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "March Queue",
+      "abc_1_info_formatWrap": "",
+      "abc_1_info_translate": "Squad March Speed↑"
+    },
+    "10019": {
+      "id": 10019,
+      "name": "Prophecy Card",
+      "createDes": "Cards used by some wanderers to predict future events.",
+      "buildDes": "Cards used by some wanderers to predict future events."
+    },
+    "10017": {
+      "id": 10017,
+      "name": "Ranger Seal",
+      "createDes": "Often used on envelopes, symbolizing authority and trust.",
+      "buildDes": "Often used on envelopes, symbolizing authority and trust."
+    },
+    "11005": {
+      "id": 11005,
+      "createDes": "Take a sip and see what happens...",
+      "name": "Panacea",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "Take a sip and see what happens..."
+    },
+    "5025": {
+      "id": 5025,
+      "abc_2_info_translate": "",
+      "name": "Herb Storage",
+      "buildDes": "Protects a certain amount of Herb from plunder",
+      "createDes": "Protects a certain amount of Herb from plunder",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Protected Resource"
+    },
+    "10012": {
+      "id": 10012,
+      "name": "Warlock Stone",
+      "createDes": "A mysterious stone engraved with the Warlock's mark, a relic of ancient prayers for strength.",
+      "buildDes": "A mysterious stone engraved with the Warlock's mark, a relic of ancient prayers for strength."
+    },
+    "1027": {
+      "id": 1027,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Antitoxin Workshop",
+      "buildDes": "Produces Antitoxin",
+      "createDes": "Produces Antitoxin",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Antitoxin Output/Hour"
+    },
+    "11003": {
+      "id": 11003,
+      "createDes": "A gem that draws all who gaze upon it into its mesmerizing depths.",
+      "name": "Demon's Eye",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "A gem that draws all who gaze upon it into its mesmerizing depths."
+    },
+    "11001": {
+      "id": 11001,
+      "createDes": "This traditional gadget has become a decorative piece.",
+      "name": "Yellow Nutcracker",
+      "abc_1_info_formatWrap": "",
+      "buildDes": "This traditional gadget has become a decorative piece."
+    },
+    "10024": {
+      "id": 10024,
+      "name": "Pocket Watch",
+      "createDes": "A tool that tells time. The object itself is a symbol of wealth.",
+      "buildDes": "A tool that tells time. The object itself is a symbol of wealth."
+    },
+    "5053": {
+      "id": 5053,
+      "name": "Temple",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_formatWrap": ""
+    },
+    "10018": {
+      "id": 10018,
+      "name": "Warlock Seal",
+      "createDes": "Often used on envelopes, symbolizing authority and trust.",
+      "buildDes": "Often used on envelopes, symbolizing authority and trust."
+    },
+    "11006": {
+      "id": 11006,
+      "name": "Easter Egg Warrior",
+      "createDes": "Little Easter Egg, Fearless Warrior",
+      "buildDes": "Little Easter Egg, Fearless Warrior"
+    },
+    "10013": {
+      "id": 10013,
+      "name": "Warrior Epaulet",
+      "createDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor.",
+      "buildDes": "An emblem once sewn onto a soldier's shoulder, symbolizing their honor."
+    },
+    "11013": {
+      "id": 11013,
+      "name": "Builder's Hammer",
+      "createDes": "A builder's trusty tool that greatly reduces construction time.",
+      "buildDes": "A builder's trusty tool that greatly reduces construction time."
+    },
+    "10010": {
+      "id": 10010,
+      "name": "Warrior Stone",
+      "createDes": "A mysterious stone engraved with the Warrior's mark, a relic of ancient prayers for strength.",
+      "buildDes": "A mysterious stone engraved with the Warrior's mark, a relic of ancient prayers for strength."
+    },
+    "10009": {
+      "id": 10009,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Star Dice",
+      "buildDes": "Used in astrology, emits a peculiar glow.",
+      "createDes": "Used in astrology, emits a peculiar glow.",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5008": {
+      "id": 5008,
+      "abc_2_info_translate": "Free Survivor Recruit CD",
+      "name": "Tavern",
+      "buildDes": "Recruit more Heroes",
+      "createDes": "Recruit more Heroes",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Free Hero Recruit CD"
+    },
+    "5006": {
+      "id": 5006,
+      "abc_2_info_translate": "",
+      "name": "Barracks",
+      "buildDes": "Soldier Assembly Point",
+      "createDes": "Soldier Assembly Point",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "+{0}",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Troop Capacity"
+    },
+    "10005": {
+      "id": 10005,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Sacred Chalice",
+      "buildDes": "A silver goblet once used for blessings, now tarnished.",
+      "createDes": "A silver goblet once used for blessings, now tarnished.",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "1007": {
+      "id": 1007,
+      "abc_2_info_translate": "Free Speedup Time",
+      "name": "Research Lab",
+      "buildDes": "Research Technology, Enhance Territory Strength",
+      "createDes": "Research Technology, Enhance Territory Strength",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "Research Lab",
+      "abc_1_info_formatWrap": "+{0}%",
+      "abc_1_info_translate": "Research Speed"
+    },
+    "5040": {
+      "id": 5040,
+      "abc_2_info_translate": "",
+      "name": "Nomad Trader",
+      "buildDes": "Exchange currency for various needed items",
+      "createDes": "Exchange currency for various needed items",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5056": {
+      "id": 5056,
+      "createDes": "Lord Statue",
+      "name": "Lord Statue",
+      "abc_1_info_translate": "Lord Statue",
+      "buildDes": "Lord Statue"
+    },
+    "5052": {
+      "id": 5052,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Alliance Stable",
+      "abc_4_info_translate": "",
+      "abc_4_info_formatWrap": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5051": {
+      "id": 5051,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Private Stable",
+      "abc_4_info_translate": "",
+      "abc_4_info_formatWrap": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    },
+    "5049": {
+      "id": 5049,
+      "abc_2_info_translate": "Anti-Scout Hidden Intel",
+      "name": "Watchtower",
+      "buildDes": "Survey the surrounding area, stay alert for incoming enemies.",
+      "createDes": "Survey the surrounding area, stay alert for incoming enemies.",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "Scout Level",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Anti-Scout Chance"
+    },
+    "5015": {
+      "id": 5015,
+      "abc_2_info_translate": "",
+      "name": "Squad 3",
+      "buildDes": "March Queue",
+      "createDes": "March Queue",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_2_info_formatWrap": "",
+      "classifyName": "March Queue",
+      "abc_1_info_formatWrap": "",
+      "abc_1_info_translate": "Squad March Speed↑"
+    },
+    "11015": {
+      "id": 11015,
+      "name": "Heavy Knight",
+      "createDes": "Unstoppable!",
+      "buildDes": "Unstoppable!"
+    },
+    "5042": {
+      "id": 5042,
+      "abc_2_info_translate": "Max Production Time",
+      "name": "Smelting Workshop",
+      "buildDes": "Produces Gearstones",
+      "createDes": "Produces Gearstones",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Gearstone Output/Hour"
+    },
+    "5046": {
+      "id": 5046,
+      "abc_2_info_translate": "Ranger Hero HP",
+      "name": "Ranger Statue",
+      "buildDes": "Increases Ranger Hero's counter against Warrior Hero",
+      "createDes": "Increases Ranger Hero's counter against Warrior Hero",
+      "abc_4_info_translate": "Ranger Hero DEF",
+      "abc_3_info_translate": "Ranger Hero ATK",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": "Ranger Hero CMD"
+    },
+    "10003": {
+      "id": 10003,
+      "abc_2_info_translate": "",
+      "abc_3_info_formatWrap": "",
+      "name": "Red Amber Amulet",
+      "buildDes": "An amulet inlaid with red amber, said to contain the power of vitality.",
+      "createDes": "An amulet inlaid with red amber, said to contain the power of vitality.",
+      "abc_4_info_formatWrap": "",
+      "abc_4_info_translate": "",
+      "abc_3_info_translate": "",
+      "abc_1_info_formatWrap": "",
+      "abc_2_info_formatWrap": "",
+      "abc_1_info_translate": ""
+    }
+  },
+  "len": 84,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,60 @@
+{
+  "key": "id",
+  "len": 3,
+  "first": 1,
+  "data": {
+    "2": {
+      "hideCondition.param2": "",
+      "hideCondition.id": 0,
+      "title": "dafuwengteshushijian_desc2",
+      "spine": "Prefab/Spine_Hero/k3_hero23/monopoly_hero23.prefab",
+      "type": 1,
+      "areaId": 3,
+      "showCondition.param2": "",
+      "id": 2,
+      "showCondition.param1": "",
+      "showCondition.id": 0,
+      "position": "0,0.7",
+      "hideCondition.param1": "",
+      "pic": "UI_Sprite/Others/Monopoly/monopoly_img_hero02.png"
+    },
+    "1": {
+      "hideCondition.param2": "",
+      "hideCondition.id": 0,
+      "title": "dafuwengteshushijian_desc1",
+      "spine": "Prefab/Spine_Hero/k3_Hero20_linshi/monopoly_hero20.prefab",
+      "type": 1,
+      "areaId": 2,
+      "showCondition.param2": "",
+      "id": 1,
+      "showCondition.param1": "2001",
+      "showCondition.id": 80029,
+      "position": "0,1.4",
+      "hideCondition.param1": "",
+      "pic": "UI_Sprite/Others/Monopoly/monopoly_img_hero01.png"
+    },
+    "3": {
+      "hideCondition.param2": "",
+      "hideCondition.id": 0,
+      "title": "dafuwengteshushijian_desc3",
+      "spine": "Prefab/Spine_Hero/k3_Hero9/monopoly_hero9.prefab",
+      "type": 2,
+      "areaId": 5,
+      "showCondition.param2": "",
+      "id": 3,
+      "showCondition.param1": "",
+      "showCondition.id": 0,
+      "position": "0,1.2",
+      "hideCondition.param1": "",
+      "pic": "UI_Sprite/Others/Monopoly/monopoly_img_hero02.png"
+    }
+  },
+  "excelName": "Monopoly_大富翁",
+  "isNeedTransform": false,
+  "enum": {
+    "TYPE": {
+      "TITLE": 2,
+      "REWARD": 1
+    }
+  }
+}

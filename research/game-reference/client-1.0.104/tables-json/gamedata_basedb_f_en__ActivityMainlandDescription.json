@@ -1,0 +1,37 @@
+{
+  "data": {
+    "103": {
+      "title": "Mode Phases",
+      "id": 103,
+      "description": "1. Select Combat Members\nAlliance R5 or R4 must designate starting and reserve members during the registration phase.\nEach alliance can choose up to 20 starting members and 10 reserves, with starting members having entry priority.\nOnce registration ends, the participant list is locked and leaving the alliance won't affect it.\n\n2. Opponent Matching\nMatch opponents based on the overall combat ability of assigned members.\nMatch according to the highest historical Might of all participants.\n\n3. Pre-Battle Preparation Stage\n5 minutes before the battle is the preparation stage, allowing starting members to enter first.\nParticipants enter the battlefield's left and right entry zones, where they cannot be attacked.\nYour side is marked in blue, the enemy in red.\n\n4. Battle Stage\nPhase 1: [Alchemy Workshop], [Migration Portal], [Observation Platform], [Healing Tent] can be occupied.\nPhase 2: [c][d15858]10 minutes[-][/c] after the battle starts, [Elixir Castle], [War Ruins], [Cursed Altar] can be occupied.\nPhase 3: [c][d15858]13 minutes[-][/c] after the battle starts, numerous [Camps] appear on the map, and troops can be dispatched to gather at camps.\nBattle duration is [c][d15858]30 minutes[-][/c], the side with higher Points wins.\n\n5. How to Earn Points\nOccupying buildings ([Secret Potion Castle], [War Ruins], [Cursed Altar], [Alchemy Workshop], [Migration Portal], [Observation Platform], [Healing Tent]) continuously earns Points.\nGathering from [Camps] earns Points.\nWhen buildings are breached, medical packs scatter around, both sides can dispatch Squads to collect them for a small amount of Points."
+    },
+    "203": {
+      "title": "Earn Personal Points",
+      "id": 203,
+      "description": "1. When enemy soldiers are defeated by you and when your soldiers are defeated, you get substantial personal points, with higher soldier level yielding more points.\n2. You will score personal points every second when guarding a building.\n3. You will score 5 personal points every second when searching [Camp].\n4. You will score personal points for picking up [Medkit]."
+    },
+    "102": {
+      "title": "Mode Introduction",
+      "id": 102,
+      "description": "1. Two alliances will enter the mysterious land to battle for control of the Elixir Castle.\n2. Occupy buildings on the battlefield to earn points over time, and the side with more points will achieve ultimate victory."
+    },
+    "101": {
+      "title": "Backstory",
+      "id": 101,
+      "description": "Elixir Scramble\nAs the plague spreads across the world, the most scarce resource is always the cure for diseases. According to ancient texts, mysterious herbs grow in a land that only opens on the night of the Blood Moon.\nIt is said that a large quantity of elixirs is hidden within the legendary Elixir Castle, and these elixirs can effectively treat various diseases, attracting many to compete for them..."
+    },
+    "202": {
+      "title": "Special Rules",
+      "id": 202,
+      "description": "1. Special Barracks: When entering the mysterious land, fill these special barracks with the highest-level soldiers you can train. These soldiers only appear on the battlefield and are free to use.\n\n2. Special Healing Tent: Soldiers in special barracks will not die, but will only be severely wounded and treated in the dedicated battlefield healing tent, which has unlimited capacity. Healing these soldiers takes time but does not consume resources.\n\n3. Special Relocation: Relocating does not consume items, and a free relocation can be done every 2 minutes. Occupying the [Migration Portal] can shorten the cooldown time. During relocation, all troops will immediately return to your territory.\n\n4. Special City Defense: City DEF is fixed at 4000, does not require putting out fire after being attacked, and automatically restores to full after being knocked away.\n\n5. Special March: The marching target cannot be changed during the march."
+    },
+    "201": {
+      "title": "Requirements",
+      "id": 201,
+      "description": "1. At the start of the event [Monday 00:00:00], the top [c][d15858]32[-][/c] alliances in Might can participate.\n2. Alliances established for at least [c][d15858]7 days[-][/c] can participate.\n3. Doctors with a Sanctuary [c][d15858]Lv.15[-][/c] or above can participate."
+    }
+  },
+  "len": 6,
+  "key": "id",
+  "source_format": "locale rows"
+}

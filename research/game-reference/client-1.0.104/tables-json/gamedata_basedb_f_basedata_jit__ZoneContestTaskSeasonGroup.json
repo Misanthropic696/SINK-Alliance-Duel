@@ -1,0 +1,270 @@
+{
+  "isNeedTransform": false,
+  "len": 3,
+  "excelName": "Activity_ZoneContest_战区对决",
+  "first": 100101,
+  "key": "id",
+  "data": {
+    "100301": {
+      "seasonLabel": {
+        "1": {
+          "item_ue_universalFragment": 1
+        }
+      },
+      "id": 100301,
+      "seasonBg": 0,
+      "condition": {
+        "1": {
+          "param2": "0",
+          "id": 100012,
+          "param1": "1",
+          "param3": "1"
+        },
+        "2": {
+          "param1": "20",
+          "id": 41001001
+        }
+      },
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 1003,
+      "rewardShow": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 5000
+        }
+      },
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 6
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 15
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 30
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 300
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 15000
+        }
+      }
+    },
+    "100101": {
+      "seasonLabel": {
+        "1": {
+          "item_ue_universalFragment": 1
+        }
+      },
+      "id": 100101,
+      "seasonBg": 0,
+      "condition": {
+        "1": {
+          "param2": "0",
+          "id": 100012,
+          "param1": "1",
+          "param3": "1"
+        },
+        "2": {
+          "param1": "20",
+          "id": 41001001
+        }
+      },
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 1001,
+      "rewardShow": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 5000
+        }
+      },
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 5000
+        }
+      }
+    },
+    "100201": {
+      "seasonLabel": {
+        "1": {
+          "item_ue_universalFragment": 1
+        }
+      },
+      "id": 100201,
+      "seasonBg": 0,
+      "condition": {
+        "1": {
+          "param2": "0",
+          "id": 100012,
+          "param1": "1",
+          "param3": "1"
+        },
+        "2": {
+          "param1": "20",
+          "id": 41001001
+        }
+      },
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 1002,
+      "rewardShow": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 5000
+        }
+      },
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_decorations_box_03",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_ue_universalFragment",
+          "count": 4
+        },
+        "3": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 20
+        },
+        "5": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 200
+        },
+        "6": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 10000
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "excelName": "Secret_隐秘机动队",
+  "key": "id",
+  "data": {
+    "1": {
+      "blueDrop": {
+        "1": {
+          "id": 10041,
+          "count": 1
+        }
+      },
+      "blueWeight": 60,
+      "guaranteedNumber": 15,
+      "debrisItem": {
+        "1": "treasure_map_debris_1",
+        "2": "treasure_map_debris_2",
+        "3": "treasure_map_debris_3",
+        "4": "treasure_map_debris_4",
+        "5": "treasure_map_debris_5",
+        "6": "treasure_map_debris_6",
+        "7": "treasure_map_debris_7"
+      },
+      "treasureHumtsNumber": 10,
+      "treasureCondition": {
+        "1": {
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 27,
+          "id": 100004
+        },
+        "2": {
+          "param2": 9,
+          "param1": 1001,
+          "id": 20103
+        }
+      },
+      "purpleDrop": {
+        "1": {
+          "id": 10040,
+          "count": 1
+        }
+      },
+      "purpleWeight": 30,
+      "id": 1,
+      "goldenWeight": 10,
+      "goldenDrop": {
+        "1": {
+          "id": 10039,
+          "count": 1
+        }
+      }
+    }
+  },
+  "len": 1,
+  "isNeedTransform": false,
+  "first": 1
+}

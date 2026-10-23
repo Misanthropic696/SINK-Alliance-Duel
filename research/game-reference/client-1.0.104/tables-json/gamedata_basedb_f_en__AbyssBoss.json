@@ -1,0 +1,22 @@
+{
+  "data": {
+    "6400101": {
+      "benefitDes": "[c][fa5a5a]Ranger Hero DMG +50%[-][/c]",
+      "WorldBossMenuBenefitDes": "Ranger Hero DMG {0}",
+      "id": 6400101
+    },
+    "4400101": {
+      "benefitDes": "[c][fa5a5a]Warrior Hero DMG +50%[-][/c]",
+      "WorldBossMenuBenefitDes": "Warrior Hero DMG {0}",
+      "id": 4400101
+    },
+    "5400101": {
+      "benefitDes": "[c][fa5a5a]Warlock Hero DMG +50%[-][/c]",
+      "WorldBossMenuBenefitDes": "Warlock Hero DMG {0}",
+      "id": 5400101
+    }
+  },
+  "len": 3,
+  "key": "id",
+  "source_format": "locale rows"
+}

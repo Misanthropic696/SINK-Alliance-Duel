@@ -1,0 +1,36 @@
+{
+  "data": {
+    "610010001": {
+      "recycleRewards": {
+        "1": {
+          "id": "recluse_coin",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 10
+        }
+      },
+      "fireworkItemId": "championduel_fireworks",
+      "rewards": {
+        "1": {
+          "id": "recluse_coin",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 10
+        }
+      },
+      "scorePerFirework": 1,
+      "id": 610010001
+    }
+  },
+  "first": 610010001,
+  "key": "id",
+  "len": 1,
+  "excelName": "Activity_ChampionDuel_冠军对决",
+  "isNeedTransform": false
+}

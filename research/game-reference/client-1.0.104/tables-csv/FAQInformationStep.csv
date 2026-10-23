@@ -1,0 +1,77 @@
+﻿record_key,type,sheetName,description,guidePic,introductionId,icon,id,iconAtlas
+9,2,Breaching Points,"[b]Breach Points[/b]
+When a building is breached, Medkits will scatter around the area, and both sides can dispatch squads to collect them, earning a small amount of points.",FAQ/BurstBattle_banner_08.png,1001,FAQ/Icon_Build_BurstBattle_10.png,9,SpriteAtlas/UI_Activity.spriteatlas
+8,2,Occupation Points,"[b]Occupation Points[/b]
+Upon occupation, points will be generated continuously.
+Occupied buildings will store points that can be plundered after a period of time.",FAQ/BurstBattle_banner_07.png,1001,FAQ/Icon_Build_BurstBattle_09.png,8,SpriteAtlas/UI_Activity.spriteatlas
+7,2,Strategic Outpost II,"Strategic Base II
+After 10 minutes of battle, all remaining strategic bases will be accessible. Capturing them grants a small amount of points over time and combat buffs.
+
+[War Relic] Increases allied Heroes' ATK, DEF, and HP by 15%.
+[Cursed Altar] Reduces enemy Heroes' ATK, DEF, and HP by 15%.",FAQ/BurstBattle_banner_06.png,1001,FAQ/Icon_Build_BurstBattle_07.png,7,SpriteAtlas/UI_Activity.spriteatlas
+110,1,,1. Match phase: Players are grouped by Kingdom;,FAQ/img_wgdj_sm1.png,1009,,110,
+1,1,Elixir Scramble,"Elixir Scramble
+As the plague spreads across the world, the most scarce resource is always the cure for diseases. According to ancient texts, mysterious herbs grow in a land that only opens on the night of the Blood Moon.
+It is said that a large quantity of elixirs is hidden within the legendary Elixir Castle, and these elixirs can effectively treat various diseases, attracting many to compete for them...",FAQ/BurstBattle_banner.png,1001,,1,
+111,1,,2. Prep phase: Earn points from daily modes to compete for your Kingdom's attack rights;,FAQ/img_wgdj_sm2.png,1009,,111,
+5,2,Healing Tent,"Healing Tent
+There are 4 pre-built Healing Tents on the battlefield. Capturing them not only grants a moderate amount of points but also heals wounded soldiers.
+
+[Healing Tent] heals 15 Wounded Soldiers every 10s.",FAQ/BurstBattle_banner_04.png,1001,FAQ/Icon_Build_BurstBattle_04.png,5,SpriteAtlas/UI_Activity.spriteatlas
+4,2,Alchemy Workshop,"Alchemy Workshop
+There are 2 Alchemy Workshops, located near the entrance areas of 2 alliances. Capturing them grants substantial points continuously, and they should be prioritized at the start of the battle.",FAQ/BurstBattle_banner_03.png,1001,FAQ/Icon_Build_BurstBattle_03.png,4,SpriteAtlas/UI_Activity.spriteatlas
+3,2,Elixir Castle,"Elixir Castle
+The most crucial structure on the battlefield, located at the center of the area. The castle gates open 10 minutes into the battle, granting substantial points upon capture.",FAQ/BurstBattle_banner_02.png,1001,FAQ/Icon_Build_BurstBattle_02.png,3,SpriteAtlas/UI_Activity.spriteatlas
+2,2,Entrance Area,"Entry Area
+Two alliances will enter from the east and west sides of the battlefield, competing for points to achieve ultimate victory.",FAQ/BurstBattle_banner_01.png,1001,FAQ/Icon_Build_BurstBattle_01.png,2,SpriteAtlas/UI_Activity.spriteatlas
+112,1,,3. Battle phase: Wage siege or defend the Royal City to claim rich rewards;,FAQ/img_wgdj_sm3.png,1009,,112,
+51,1,Hunt,"Defeating Blights in the world grants resources and items. Powerful Elite Blights require an alliance to launch an attack. The higher the Blight's level, the greater the rewards for defeating it.",FAQ/pic_ld_banner1.png,1002,,51,
+94,1,Rules,"Royal City Scramble Rules:
+1, The Royal City Scramble opens once a week, and only alliances occupying Lv.6 cities are eligible to participate.
+2, The Royal City Scramble lasts for 8 hours. The first alliance to occupy for 4 hours, or the one with the longest total occupation time by the end, will be the ultimate victor.
+3, The leader of the victorious alliance becomes the King.
+4, The Royal City is surrounded by the Cursed Land, and territories relocated there cannot activate shields, while the Falcon Tower ceases operation, halting exploration quests.",,1007,,94,
+113,1,,4. Supreme Honor: Crown the King of Battle,FAQ/img_wgdj_sm4.png,1009,,113,
+93,1,Settlement,"At the end of the Event, claim generous rewards based on earned Honor Points!",FAQ/congressional_battle_window_banner03.png,1007,,93,
+92,1,Occupy,Conquer and maintain control of the Royal City to achieve ultimate victory in the Royal City Scramble!,FAQ/congressional_battle_window_banner02.png,1007,,92,
+91,1,ATK,"During the Royal City battle, Alliance members can attack the city alone or in teams.",FAQ/congressional_battle_window_banner01.png,1007,,91,
+84,1,Search,"In the world thumbnail, view completed quest points, with different colors for quest bubbles of varying quality.",FAQ/pic_ybrw_peitu4.png,1006,,84,
+104,1,Occupy Sacred Crystal Cave,"Sacred Cave lies at the center of Crystal Cluster Valley. For the first 23 minutes after the valley opens, Sacred Cave is under protection. Once the protection ends, all players in the valley can march to the center to occupy Sacred Cave, but each player can dispatch only one team to contest it. Based on occupation ranking, the top 10 players receive a large amount of Purified Crystals as rewards, which is directly added to their total gathering amount during settlement!",FAQ/img_rs_04.png,1008,,104,
+124,1,Specialty Reset,"Use a Specialty Reset Book to reset your current Specialty and select a different one. Upon reset, all Specialty Skills are cleared and must be relearned.",FAQ/img_lztf_05.png,1010,,124,
+72,1,Defeat the Garrison,"During a siege, defeat the city's garrison first. The garrison is strong, so proceed with caution.",FAQ/citybattle_shoujun.png,1005,,72,
+120,1,Specialty Choice,"Specialty Selection:
+Handyman: All development relies on technological progress. Craftsmen earn respect through exceptional talent, becoming indispensable pillars of their cities.
+Legion Commander: Before absolute power, all other voices fade to insignificance. Formidable commanders sweep away all obstacles and conquer all directions.",FAQ/img_lztf_01.png,1010,,120,
+82,1,Steal,Completed quest points will show a chest bubble. Tap the bubble to steal generous rewards. Note: Each quest can be stolen once per person per day.,FAQ/pic_ybrw_peitu2.png,1006,,82,
+81,1,Reveal,"When the countdown for the Covert Operation is less than 10m, it will be visible to everyone. To avoid losses, collect quest rewards promptly!",FAQ/pic_ybrw_peitu1.png,1006,,81,
+74,1,Capture City,"Once City DEF is depleted, total points from defeating the garrison and reducing durability will be tallied. The alliance with the highest points takes control of the city.",FAQ/citybattle_zhanling.png,1005,,74,
+73,1,Reduce Durability,"After defeating the garrison, deplete the city's durability. The more participants, the faster the process.",FAQ/citybattle_laijiu.png,1005,,73,
+125,1,EXP Overflow,"Once your Specialty Level reaches its Cap, you'll continue earning Specialty EXP at the end of the era, excess Specialty EXP converts to Items at a 30% rate. Converted Items are sent via Mail and can be used to upgrade your Specialty Level in the next era.",FAQ/img_lztf_06.png,1010,,125,
+105,1,Instant Crystal Cluster,"Instant Crystal is a special Crystal Cluster in the valley that players can harvest quickly. It appears in six waves during the valley event at 10, 11, 12, 20, 21, and 22 minutes. It is a fast way to gain Purified Crystals during the event.",FAQ/img_rs_05.png,1008,,105,
+121,1,Era Skill,"Era Skills: Activate Era Skills by upgrading your Specialty Level. Each Era Skill unlocks unique functions, accelerating your Sanctuary development while enhancing your personal capabilities.",FAQ/img_lztf_02.png,1010,,121,
+101,1,Attack Npc,"Two types of Plague Rats lurk in Crystal Cluster Valley. Defeating monsters in the valley grants Skill Crystals, which upgrade Valley Skills and help you dominate the valley!",FAQ/img_rs_01.png,1008,,101,
+63,1,Ranking,"After the event, ranking rewards are settled based on the level and number of occupied cities.",FAQ/citybattle_paihangbang.png,1004,,63,
+53,1,Gather,"Dispatch troops to occupy Resource Spots for resource gathering. The higher the level of the Resource Spots, the more resources collected.",FAQ/pic_ld_banner3.png,1002,,53,
+83,1,Share,Each quest point can be stolen up to 3 times. Share the quest point with alliance members for the joy.,FAQ/pic_ybrw_peitu3.png,1006,,83,
+55,1,Basic Rules,"Upon acquisition, you receive an extra reward each time you complete a Falcon Quest, with a chance to obtain UR items from the reward chest.",FAQ/pic_ldgr_banner1.png,1003,,55,
+71,1,Declare War,"R4 or R5 can declare war on adjacent cities, allowing alliance members to siege.",FAQ/citybattle_xuanzhan.png,1005,,71,
+10,2,Camp Points,"[b]Camp Points[/b]
+At the 13-minute mark of the battle, camps storing a large amount of herbs will appear. Deploy troops to gather them and you earn a small amount of points over time.",FAQ/BurstBattle_banner_09.png,1001,FAQ/Icon_Build_BurstBattle_11.png,10,SpriteAtlas/UI_Activity.spriteatlas
+102,1,Attack/Scout Crystal Cluster,"Crystal Cluster Valley contains Lv.1–Lv.3 clusters. Higher levels purify Purified Crystals faster, and the total Purified Crystals decides the final outcome. Unoccupied clusters are guarded. Defeat the defenders before you can harvest them!",FAQ/img_rs_02.png,1008,,102,
+122,1,Specialty Skill,"Specialty Skills: Each Specialty possesses unique Specialty Skills. Gaining a Specialty Level grants Specialty Skill Points. Upon reaching the designated Specialty Level, Lords can manually use Specialty Skill Points to activate Specialty Skills. (Some Specialty Skills are Active Skills, requiring activation within the World or Main City)",FAQ/img_lztf_03.png,1010,,122,
+62,1,Siege,"Attack cities, defeat garrisons, and deplete durability to earn participation rewards.",FAQ/citybattle_shoujun.png,1004,,62,
+61,1,Declare War,"R4 or R5 can declare war on adjacent cities, allowing alliance members to siege.",FAQ/citybattle_xuanzhan.png,1004,,61,
+6,2,Strategic Outpost I,"Strategic Base I
+There are numerous strategic facilities on the battlefield. Capturing them provides [c][d15858]a small amount of[-][/c] points over time and various benefits.
+
+[Migration Portal] City relocation cooldown reduced by 50%.
+[Observatory] Allied point efficiency increased by 10%.",FAQ/BurstBattle_banner_05.png,1001,FAQ/Icon_Build_BurstBattle_05.png,6,SpriteAtlas/UI_Activity.spriteatlas
+127,1,RES Attribute,"RES is the sole attribute for battling era Monsters. Each Monster has its own RES attribute. When your RES exceeds the Monster's RES, you'll defeat them easily; if your RES falls short, you'll face disadvantages or even defeat in battle.",FAQ/img_lztf_08.png,1010,,127,
+106,1,Crystal Skill,"You can obtain Skill Crystals by defeating Plague Rats in the valley. After collecting enough Skill Crystals, you can learn Valley Skills. Each level has two skills, but you can only choose one. The Lv.1-Lv.4 skills are passive skills that take effect automatically after learning, while the Lv.5 skill is an active skill that you must cast manually!",FAQ/img_rs_06.png,1008,,106,
+54,1,Battle,"Engage in battles with Doctors from different alliances in the world, such as plundering territories or attacking resource points. Battles may deplete your soldiers, so proceed with caution!",FAQ/pic_ld_banner4.png,1002,,54,
+123,1,Specialty Level,"Lords gain Specialty Exp by defeating monsters in the World. Accumulate Specialty EXP to increase Specialty Level. Each Specialty Level gain grants Specialty Skill Points. Upon reaching the designated Specialty Level, Lords can manually use Specialty Skill Points to activate Specialty Skills.",FAQ/img_lztf_04.png,1010,,123,
+103,1,Free Relocate,"You can relocate for free once every 360s, then enter cooldown. During cooldown, relocation requires Targeted Relocate items, with the cost increasing by 1 item each time based on the previous use, up to 5 items per relocation.",FAQ/img_rs_03.png,1008,,103,
+52,1,Falcon Tower,Completing various quests in the Falcon Tower grants generous rewards.,FAQ/pic_ld_banner2.png,1002,,52,
+56,1,Promote,"Raising stars boosts abilities, improving the quality and quantity of chests obtained from quests.",FAQ/pic_ldgr_banner2.png,1003,,56,
+126,1,RES Level,"RES Level is crucial for battling era Monsters. Upgrading RES Level grants RES attributes, helping you overcome era Monsters with ease. When an era ends, RES Level becomes inactive, and its RES attributes are lost. Upon the next era's start, they reactivate.",FAQ/img_lztf_07.png,1010,,126,
+107,1,Main city cannot be attacked,"In the valley, players cannot launch attacks or scout other players' main cities. Feel free to attack or gather resource points!",FAQ/img_rs_07.png,1008,,107,

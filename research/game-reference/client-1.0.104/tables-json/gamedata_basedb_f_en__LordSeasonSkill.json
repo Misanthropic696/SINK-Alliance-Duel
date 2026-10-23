@@ -1,0 +1,37 @@
+{
+  "data": {
+    "1007": {
+      "id": 1007,
+      "desc": "When Era of Revival reaches Day 8, lords who activate this skill unlock Exclusive Weapon Omni Shards in Alliance Shop",
+      "name": "Alliance Shop"
+    },
+    "1005": {
+      "id": 1005,
+      "desc": "When Era of Revival reaches Day 8, lords who activate this skill unlock Exclusive Weapon Omni Shards in VIP Shop",
+      "name": "VIP Shop"
+    },
+    "1002": {
+      "id": 1002,
+      "desc": "Lords who activate this skill gain one free Direct Relocate daily.",
+      "name": "Free Relocate"
+    },
+    "1003": {
+      "id": 1003,
+      "desc": "When Era of Revival reaches Day 8, lords who activate this skill unlock Exclusive Weapon Omni Shards in Survival Battle daily objective rewards",
+      "name": "Survival Battle Reward Boost"
+    },
+    "1004": {
+      "id": 1004,
+      "desc": "Lords who activate this skill will receive Exclusive Weapon Omni Shards from win streak rewards in Kingdom War.",
+      "name": "Kingdom War"
+    },
+    "1008": {
+      "id": 1008,
+      "desc": "When Era of Revival reaches Day 8, lords who activate this skill unlock Exclusive Weapon Omni Shards in Sanctuary Shop",
+      "name": "Sanctuary Shop"
+    }
+  },
+  "len": 6,
+  "key": "id",
+  "source_format": "locale rows"
+}

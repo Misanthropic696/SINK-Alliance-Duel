@@ -1,0 +1,262 @@
+{
+  "len": 11,
+  "excelName": "WorldMarchZoom_世界行军无级缩放",
+  "key": "id",
+  "first": 1,
+  "isNeedTransform": false,
+  "data": {
+    "12": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 12,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "11": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 11,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "10": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 10,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "3": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0.1,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 3,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "9": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 9,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "1": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0.1,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 1,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "8": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 8,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "7": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 7,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "6": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0.1,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 6,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "5": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0.1,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 5,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    },
+    "4": {
+      "bloodBarTS": {
+        "1": 0,
+        "2": -0.7,
+        "3": -10,
+        "4": 1.5
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": 0.1,
+        "3": -5,
+        "4": 1.2
+      },
+      "id": 4,
+      "rallyEffectTS": {
+        "1": 0.65,
+        "2": -0.2,
+        "3": 0,
+        "4": 1
+      },
+      "modelScale": 0.75,
+      "marchModel": "Prefab/GPUSkin/k3_Boss12/k3_Boss12.prefab"
+    }
+  }
+}

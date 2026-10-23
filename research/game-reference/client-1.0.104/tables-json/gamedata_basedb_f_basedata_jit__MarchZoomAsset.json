@@ -1,0 +1,133 @@
+{
+  "len": 15,
+  "first": 1,
+  "key": "id",
+  "data": {
+    "14": {
+      "sprite": "Map_icon_assembly_2",
+      "id": 14,
+      "scale": 1,
+      "marchAsset": 14,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "13": {
+      "sprite": "Map_icon_march_2",
+      "id": 13,
+      "scale": 1,
+      "marchAsset": 13,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "12": {
+      "sprite": "Map_icon_march_1",
+      "id": 12,
+      "scale": 1,
+      "marchAsset": 12,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "11": {
+      "sprite": "Map_icon_march_3",
+      "id": 11,
+      "scale": 1,
+      "marchAsset": 11,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "9": {
+      "sprite": "Map_icon_march_4",
+      "id": 9,
+      "scale": 1,
+      "marchAsset": 9,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "2": {
+      "sprite": "Map_icon_march_2",
+      "id": 2,
+      "scale": 1,
+      "marchAsset": 2,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "15": {
+      "sprite": "Map_icon_assembly_3",
+      "id": 15,
+      "scale": 1,
+      "marchAsset": 15,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "5": {
+      "sprite": "Map_icon_assembly_2",
+      "id": 5,
+      "scale": 1,
+      "marchAsset": 5,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "6": {
+      "sprite": "Map_icon_assembly_3",
+      "id": 6,
+      "scale": 1,
+      "marchAsset": 6,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "7": {
+      "sprite": "Map_icon_monster_3",
+      "id": 7,
+      "scale": 1.85,
+      "marchAsset": 7,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "8": {
+      "sprite": "Map_icon_march_3",
+      "id": 8,
+      "scale": 1,
+      "marchAsset": 8,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "1": {
+      "sprite": "Map_icon_march_1",
+      "id": 1,
+      "scale": 1,
+      "marchAsset": 1,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "10": {
+      "sprite": "Map_icon_assembly_4",
+      "id": 10,
+      "scale": 1,
+      "marchAsset": 10,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "3": {
+      "sprite": "Map_icon_march_3",
+      "id": 3,
+      "scale": 1,
+      "marchAsset": 3,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "4": {
+      "sprite": "Map_icon_assembly_1",
+      "id": 4,
+      "scale": 1,
+      "marchAsset": 4,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    }
+  },
+  "enum": {
+    "MARCHASSET": {
+      "ESCORTMODEL2D": 11,
+      "ALLYRALLYFLAG": 5,
+      "VSRALLYFLAG": 14,
+      "ENEMYRALLYFLOAG": 10,
+      "ZONERALLYFLAG": 15,
+      "ZONEMODEL": 13,
+      "OTHERMODEL2D": 3,
+      "WANDERMODEL2D": 7,
+      "ENEMYMODEL2D": 9,
+      "UNIONBOSSMODEL2D": 8,
+      "OWNERMODEL2D": 1,
+      "OTHERRALLYFLAG": 6,
+      "OWNERRALLYFLAG": 4,
+      "VSMODEL": 12,
+      "ALLYMODEL2D": 2
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "WorldMarchZoom_世界行军无级缩放"
+}

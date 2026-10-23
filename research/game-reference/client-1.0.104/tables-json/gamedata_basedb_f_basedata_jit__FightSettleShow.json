@@ -1,0 +1,86 @@
+{
+  "first": 1,
+  "excelName": "World_大世界",
+  "isNeedTransform": true,
+  "key": "id",
+  "len": 11,
+  "data": {
+    "9": {
+      "HurtRatio": 0.05,
+      "DeadtRatio": 0,
+      "order": 9,
+      "id": 9,
+      "desc": ""
+    },
+    "8": {
+      "HurtRatio": 0.05,
+      "DeadtRatio": 0.05,
+      "order": 8,
+      "id": 8,
+      "desc": ""
+    },
+    "7": {
+      "HurtRatio": 0.6,
+      "DeadtRatio": 0,
+      "order": 7,
+      "id": 7,
+      "desc": ""
+    },
+    "6": {
+      "HurtRatio": 0,
+      "DeadtRatio": 0,
+      "order": 6,
+      "id": 6,
+      "desc": ""
+    },
+    "1": {
+      "HurtRatio": 0.05,
+      "DeadtRatio": 0.1,
+      "order": 1,
+      "id": 1,
+      "desc": ""
+    },
+    "10": {
+      "HurtRatio": 0.05,
+      "DeadtRatio": 0.1,
+      "order": 10,
+      "id": 10,
+      "desc": ""
+    },
+    "11": {
+      "HurtRatio": 0.6,
+      "DeadtRatio": 0,
+      "order": 11,
+      "id": 11,
+      "desc": ""
+    },
+    "5": {
+      "HurtRatio": 0,
+      "DeadtRatio": 0,
+      "order": 5,
+      "id": 5,
+      "desc": ""
+    },
+    "4": {
+      "HurtRatio": 0.6,
+      "DeadtRatio": 0,
+      "order": 4,
+      "id": 4,
+      "desc": ""
+    },
+    "3": {
+      "HurtRatio": 0.6,
+      "DeadtRatio": 0.2,
+      "order": 3,
+      "id": 3,
+      "desc": ""
+    },
+    "2": {
+      "HurtRatio": 0,
+      "DeadtRatio": 0.2,
+      "order": 2,
+      "id": 2,
+      "desc": ""
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "excelName": "Activity_FlipCard_靶场夺宝",
+  "first": 1,
+  "key": "id",
+  "data": {
+    "4": {
+      "taskGroupID": 5610111,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_activity_flipCard",
+          "count": 4
+        }
+      },
+      "taskName": "",
+      "functionId": "12000_06",
+      "dayReset": 1,
+      "desc1": "",
+      "target": {
+        "1": {
+          "param1": 6,
+          "id": 50104
+        }
+      },
+      "showSort": 1,
+      "id": 4
+    },
+    "1": {
+      "taskGroupID": 5610111,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_activity_flipCard",
+          "count": 6
+        }
+      },
+      "taskName": "",
+      "functionId": "12000_20",
+      "dayReset": 1,
+      "desc1": "",
+      "target": {
+        "1": {
+          "param1": 1,
+          "id": 200120
+        }
+      },
+      "showSort": 4,
+      "id": 1
+    },
+    "2": {
+      "taskGroupID": 5610111,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_activity_flipCard",
+          "count": 4
+        }
+      },
+      "taskName": "",
+      "functionId": "12000_14",
+      "dayReset": 1,
+      "desc1": "",
+      "target": {
+        "1": {
+          "param1": "1",
+          "param3": "280",
+          "param2": "1",
+          "id": 90024
+        }
+      },
+      "showSort": 3,
+      "id": 2
+    },
+    "3": {
+      "taskGroupID": 5610111,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_activity_flipCard",
+          "count": 4
+        }
+      },
+      "taskName": "",
+      "functionId": "12000_05",
+      "dayReset": 1,
+      "desc1": "",
+      "target": {
+        "1": {
+          "param1": 1,
+          "id": 200060
+        }
+      },
+      "showSort": 2,
+      "id": 3
+    }
+  },
+  "len": 4,
+  "isNeedTransform": true
+}

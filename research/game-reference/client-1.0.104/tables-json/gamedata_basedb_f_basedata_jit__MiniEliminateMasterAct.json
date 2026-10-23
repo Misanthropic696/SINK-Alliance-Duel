@@ -1,0 +1,66 @@
+{
+  "len": 1,
+  "isNeedTransform": true,
+  "data": {
+    "1": {
+      "mode": 1,
+      "reward": {},
+      "quickWinGiftId": 0,
+      "refreshCost": {
+        "1": {
+          "id": "eliminate_refresh",
+          "count": -1,
+          "type": 99
+        }
+      },
+      "id": 1,
+      "removeCost": {
+        "1": {
+          "id": "eliminate_shiftout",
+          "count": -1,
+          "type": 99
+        }
+      },
+      "challengeCd": 10800000,
+      "showShopPanel": 0,
+      "actIcon": "pic_yjxb_banner_zqj",
+      "adventureBtnIcon": "",
+      "challengeCost": {
+        "1": {
+          "id": "eliminate_challenge",
+          "count": -1,
+          "type": 99
+        }
+      },
+      "showActivity": 1,
+      "clientShow": {},
+      "casteLevel": 6,
+      "retractCost": {
+        "1": {
+          "id": "eliminate_retraction",
+          "count": -1,
+          "type": 99
+        }
+      },
+      "music": "music_beach_crush",
+      "picSuffix": "_zqj",
+      "desc2": "",
+      "openId": "mid_autumn_battlepass_7",
+      "giftIndex": {
+        "1": {
+          "retractCost": 3,
+          "refreshCost": 2,
+          "challengeCost": 1,
+          "removeCost": 4
+        }
+      },
+      "activitySortID": 820040106,
+      "desc1": "",
+      "challengeNum": 10,
+      "actPic": "pic_yjxb_bg_zqj"
+    }
+  },
+  "key": "id",
+  "first": 1,
+  "excelName": "Activity-MiniEliminateMasterAct遗迹寻宝（15关卡）"
+}

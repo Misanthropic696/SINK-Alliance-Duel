@@ -1,0 +1,178 @@
+{
+  "data": {
+    "15": {
+      "markType": 15,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 15,
+      "descType": 1,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_15.prefab",
+      "icon": "Icon_Alliance_Sige5th"
+    },
+    "1": {
+      "markType": 1,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 1,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_1.prefab",
+      "icon": "icon_sj_sc1"
+    },
+    "13": {
+      "markType": 13,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 13,
+      "descType": 1,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_13.prefab",
+      "icon": "Icon_Alliance_Sige3rd"
+    },
+    "2": {
+      "markType": 2,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 2,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_2.prefab",
+      "icon": "icon_sj_sc2"
+    },
+    "8": {
+      "markType": 8,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 8,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_7.prefab",
+      "icon": "icon_sj_sc7"
+    },
+    "7": {
+      "markType": 7,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 7,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_10.prefab",
+      "icon": "icon_sj_sc10"
+    },
+    "14": {
+      "markType": 14,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 14,
+      "descType": 1,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_14.prefab",
+      "icon": "Icon_Alliance_Sige4th"
+    },
+    "11": {
+      "markType": 11,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 11,
+      "descType": 1,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_11.prefab",
+      "icon": "Icon_Alliance_Sige1st"
+    },
+    "12": {
+      "markType": 12,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 12,
+      "descType": 1,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_12.prefab",
+      "icon": "Icon_Alliance_Sige2nd"
+    },
+    "9": {
+      "markType": 9,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 9,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_8.prefab",
+      "icon": "icon_sj_sc8"
+    },
+    "10": {
+      "markType": 10,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 10,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_5.prefab",
+      "icon": "icon_sj_sc5"
+    },
+    "3": {
+      "markType": 3,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 3,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_3.prefab",
+      "icon": "icon_sj_sc3"
+    },
+    "4": {
+      "markType": 4,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 4,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_4.prefab",
+      "icon": "icon_sj_sc4"
+    },
+    "5": {
+      "markType": 5,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 5,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_6.prefab",
+      "icon": "icon_sj_sc6"
+    },
+    "6": {
+      "markType": 6,
+      "name": "",
+      "Desc": "",
+      "atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "id": 6,
+      "descType": 0,
+      "assetPath": "Prefab/Effect/Map_Effect/EF_biaoji_9.prefab",
+      "icon": "icon_sj_sc9"
+    }
+  },
+  "key": "id",
+  "isNeedTransform": true,
+  "excelName": "UnionSystem_联盟系统",
+  "first": 1,
+  "enum": {
+    "UNION_MARK_TYPE": {
+      "SUPPORT": 4,
+      "FORBID": 7,
+      "ATTACK": 2,
+      "NUMBER1": 11,
+      "OTHER": 1,
+      "NUMBER2": 12,
+      "POSITION": 6,
+      "OBSERVE": 10,
+      "NUMBER5": 15,
+      "NUMBER4": 14,
+      "GATHER": 9,
+      "IMPORTANT": 8,
+      "DEFENSE": 3,
+      "NUMBER3": 13,
+      "CAPTURE": 5
+    }
+  },
+  "len": 15
+}

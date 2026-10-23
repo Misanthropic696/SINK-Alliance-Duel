@@ -1,0 +1,323 @@
+{
+  "key": "id",
+  "len": 5,
+  "first": 1,
+  "data": {
+    "4": {
+      "giftGroupId": {
+        "1": 900900001,
+        "2": 900900101,
+        "3": 900900201,
+        "4": 900900301,
+        "5": 900900401,
+        "6": 900900501,
+        "7": 900900601,
+        "8": 900900701,
+        "9": 900900801,
+        "10": 900900901,
+        "11": 900901101,
+        "12": 900901201,
+        "13": 900901301,
+        "14": 900901401,
+        "15": 900901501,
+        "16": 910901130,
+        "17": 900903014,
+        "18": 900903005,
+        "19": 900901041
+      },
+      "initialPool": 300,
+      "guaranteeCountFirstCircle": 50,
+      "cost": {
+        "1": {
+          "count": -1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        }
+      },
+      "unlockId": 0,
+      "unlock100Draw": 100,
+      "type": 3,
+      "tagSelectIcon": "pic_jg_zhaomudi2",
+      "tabIcon": "",
+      "exhibitPool": 401,
+      "gotoDailyCount": 10040,
+      "tagImageAtlas": "Zombie_Pub",
+      "fresherURTips": "",
+      "recruitAnimation": "Prefab/Timeline/ChoukaTimeLine.prefab",
+      "switchId": "HeroRecruit_Once_4",
+      "name": "",
+      "displaySpineId": 1017,
+      "pic": "Pic_City_HeroLottery3",
+      "prefab": "UI_Panel/Pub/PubHeroPoolSub.prefab",
+      "freeTime": 259200,
+      "newHeroId": {
+        "1": 50001,
+        "2": 50007
+      },
+      "giftId": 900901045,
+      "enterAnimation": "HeroAltarRecruitPanel_pattern1",
+      "tagImage": "pic_jg_zhaomu_hero",
+      "tagSelectAtlas": "Zombie_Pub",
+      "guaranteeCount": 50,
+      "freeCount": 1,
+      "rewardType": 1,
+      "id": 4,
+      "guaranteedDisplayPool": 402,
+      "drawCount": {
+        "1": 1,
+        "2": 10,
+        "3": 100
+      }
+    },
+    "3": {
+      "giftGroupId": {
+        "1": 900900001,
+        "2": 900900101,
+        "3": 900900201,
+        "4": 900900301,
+        "5": 900900401,
+        "6": 900900501,
+        "7": 900900601,
+        "8": 900900701,
+        "9": 900900801,
+        "10": 900900901,
+        "11": 900901101,
+        "12": 900901201,
+        "13": 900901301,
+        "14": 900901401,
+        "15": 900901501,
+        "16": 910901130,
+        "17": 900903014,
+        "18": 900903005,
+        "19": 900901041
+      },
+      "initialPool": 300,
+      "guaranteeCountFirstCircle": 50,
+      "cost": {
+        "1": {
+          "count": -1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        }
+      },
+      "unlockId": 0,
+      "unlock100Draw": 100,
+      "type": 3,
+      "tagSelectIcon": "pic_jg_zhaomudi2",
+      "tabIcon": "",
+      "exhibitPool": 301,
+      "gotoDailyCount": 10040,
+      "tagImageAtlas": "Zombie_Pub",
+      "fresherURTips": "",
+      "recruitAnimation": "Prefab/Timeline/ChoukaTimeLine.prefab",
+      "switchId": "HeroRecruit_Once_3",
+      "name": "",
+      "displaySpineId": 1017,
+      "pic": "Pic_City_HeroLottery3",
+      "prefab": "UI_Panel/Pub/PubHeroPoolSub.prefab",
+      "freeTime": 259200,
+      "newHeroId": {
+        "1": 50004,
+        "2": 50006
+      },
+      "giftId": 900901045,
+      "enterAnimation": "HeroAltarRecruitPanel_pattern1",
+      "tagImage": "pic_jg_zhaomu_hero",
+      "tagSelectAtlas": "Zombie_Pub",
+      "guaranteeCount": 50,
+      "freeCount": 1,
+      "rewardType": 1,
+      "id": 3,
+      "guaranteedDisplayPool": 302,
+      "drawCount": {
+        "1": 1,
+        "2": 10,
+        "3": 100
+      }
+    },
+    "2": {
+      "giftGroupId": {
+        "1": 900900001,
+        "2": 900900101,
+        "3": 900900201,
+        "4": 900900301,
+        "5": 900900401,
+        "6": 900900501,
+        "7": 900900601,
+        "8": 900900701,
+        "9": 900900801,
+        "10": 900900901,
+        "11": 900901101,
+        "12": 900901201,
+        "13": 900901301,
+        "14": 900901401,
+        "15": 900901501,
+        "16": 910901130,
+        "17": 900903014,
+        "18": 900903005,
+        "19": 900901041
+      },
+      "initialPool": 200,
+      "guaranteeCountFirstCircle": 50,
+      "cost": {
+        "1": {
+          "count": -1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        }
+      },
+      "unlockId": 0,
+      "unlock100Draw": 100,
+      "type": 3,
+      "tagSelectIcon": "pic_jg_zhaomudi2",
+      "tabIcon": "",
+      "exhibitPool": 201,
+      "gotoDailyCount": 10040,
+      "tagImageAtlas": "Zombie_Pub",
+      "fresherURTips": "",
+      "recruitAnimation": "Prefab/Timeline/ChoukaTimeLine.prefab",
+      "switchId": "HeroRecruit_Once_2",
+      "name": "",
+      "displaySpineId": 1017,
+      "pic": "Pic_City_HeroLottery3",
+      "prefab": "UI_Panel/Pub/PubHeroPoolSub.prefab",
+      "freeTime": 259200,
+      "newHeroId": {
+        "1": 50002
+      },
+      "giftId": 900901045,
+      "enterAnimation": "HeroAltarRecruitPanel_pattern1",
+      "tagImage": "pic_jg_zhaomu_hero",
+      "tagSelectAtlas": "Zombie_Pub",
+      "guaranteeCount": 50,
+      "freeCount": 1,
+      "rewardType": 1,
+      "id": 2,
+      "guaranteedDisplayPool": 202,
+      "drawCount": {
+        "1": 1,
+        "2": 10,
+        "3": 100
+      }
+    },
+    "1": {
+      "giftGroupId": {
+        "1": 900900001,
+        "2": 900900101,
+        "3": 900900201,
+        "4": 900900301,
+        "5": 900900401,
+        "6": 900900501,
+        "7": 900900601,
+        "8": 900900701,
+        "9": 900900801,
+        "10": 900900901,
+        "11": 900901101,
+        "12": 900901201,
+        "13": 900901301,
+        "14": 900901401,
+        "15": 900901501,
+        "16": 910901130,
+        "17": 900903014,
+        "18": 900903005,
+        "19": 900901041
+      },
+      "initialPool": 103,
+      "guaranteeCountFirstCircle": 50,
+      "cost": {
+        "1": {
+          "count": -1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        }
+      },
+      "unlockId": 0,
+      "unlock100Draw": 100,
+      "type": 3,
+      "tagSelectIcon": "pic_jg_zhaomudi2",
+      "tabIcon": "pic_jg_zhaomu_hero",
+      "exhibitPool": 101,
+      "gotoDailyCount": 10040,
+      "tagImageAtlas": "Zombie_Pub",
+      "fresherURTips": "recruit_guaranteed_function_tips",
+      "recruitAnimation": "Effect/TimelinePrefab/ChoukaTimeLine.prefab",
+      "switchId": "HeroRecruit_Once_1",
+      "name": "",
+      "displaySpineId": 1017,
+      "pic": "Pic_City_HeroLottery3",
+      "prefab": "UI_Panel/Pub/PubHeroPoolSub.prefab",
+      "freeTime": 259200,
+      "newHeroId": {},
+      "giftId": 900901045,
+      "enterAnimation": "HeroAltarRecruitPanel_pattern1",
+      "tagImage": "pic_jg_zhaomu_hero",
+      "tagSelectAtlas": "Zombie_Pub",
+      "guaranteeCount": 50,
+      "freeCount": 1,
+      "rewardType": 1,
+      "id": 1,
+      "guaranteedDisplayPool": 102,
+      "drawCount": {
+        "1": 1,
+        "2": 10,
+        "3": 100
+      }
+    },
+    "9": {
+      "giftGroupId": {},
+      "initialPool": 901,
+      "guaranteeCountFirstCircle": 50,
+      "cost": {
+        "1": {
+          "count": -1,
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99
+        }
+      },
+      "unlockId": 214,
+      "unlock100Draw": -1,
+      "type": 4,
+      "tagSelectIcon": "pic_jg_zhaomudi3",
+      "tabIcon": "pic_jg_zhaomu_xingcunzhe",
+      "exhibitPool": 901,
+      "gotoDailyCount": 0,
+      "tagImageAtlas": "Zombie_Pub",
+      "fresherURTips": "",
+      "recruitAnimation": "Effect/TimelinePrefab/ChoukaTimeLine.prefab",
+      "switchId": "",
+      "name": "",
+      "displaySpineId": 0,
+      "pic": "pic_jg_zm_xcz",
+      "prefab": "UI_Panel/Pub/PubWorkerPoolSub.prefab",
+      "freeTime": 259200,
+      "newHeroId": {},
+      "giftId": 900901035,
+      "enterAnimation": "HeroAltarRecruitPanel_pattern1",
+      "tagImage": "pic_jg_zhaomu_xingcunzhe",
+      "tagSelectAtlas": "Zombie_Pub",
+      "guaranteeCount": 50,
+      "freeCount": 1,
+      "rewardType": 2,
+      "id": 9,
+      "guaranteedDisplayPool": 902,
+      "drawCount": {
+        "1": 1,
+        "2": 10
+      }
+    }
+  },
+  "excelName": "RecruitK3_K3新版招募",
+  "isNeedTransform": true,
+  "enum": {
+    "FREEREFRESHTYPE": {
+      "MIDNIGHTREFRESH": 1,
+      "COUNTDOWNREFRESH": 2
+    },
+    "DRAWTYPE": {
+      "WORKERDRAW": 4,
+      "NORMALDRAW": 1,
+      "ACTIVITYDRAW": 2,
+      "ADVANCEDDRAW": 3
+    }
+  }
+}

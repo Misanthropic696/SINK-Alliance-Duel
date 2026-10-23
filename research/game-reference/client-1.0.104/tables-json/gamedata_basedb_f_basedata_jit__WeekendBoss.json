@@ -1,0 +1,909 @@
+{
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "14": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99023,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10104,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99023,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 14,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 4,
+      "benefitType": 10021
+    },
+    "15": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99024,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10105,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99024,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 15,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 5,
+      "benefitType": 10021
+    },
+    "12": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99021,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10102,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99021,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 12,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 2,
+      "benefitType": 10021
+    },
+    "13": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99022,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10103,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99022,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 13,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 3,
+      "benefitType": 10021
+    },
+    "20": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99029,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10110,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99029,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 20,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 10,
+      "benefitType": 10021
+    },
+    "21": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99030,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10201,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99030,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 21,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 1,
+      "benefitType": 10020
+    },
+    "11": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99020,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10101,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99020,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 11,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 1,
+      "benefitType": 10021
+    },
+    "10": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99019,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10010,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99019,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 10,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 10,
+      "benefitType": 10022
+    },
+    "9": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99018,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10009,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99018,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 9,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 9,
+      "benefitType": 10022
+    },
+    "8": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99017,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10008,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99017,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 8,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 8,
+      "benefitType": 10022
+    },
+    "7": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99016,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10007,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99016,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 7,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 7,
+      "benefitType": 10022
+    },
+    "6": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99015,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10006,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99015,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 6,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 6,
+      "benefitType": 10022
+    },
+    "28": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99037,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10208,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99037,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 28,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 8,
+      "benefitType": 10020
+    },
+    "27": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99036,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10207,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99036,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 27,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 7,
+      "benefitType": 10020
+    },
+    "1": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99010,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10001,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99010,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 1,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 1,
+      "benefitType": 10022
+    },
+    "30": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99039,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10210,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99039,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 30,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 10,
+      "benefitType": 10020
+    },
+    "26": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99035,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10206,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99035,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 26,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 6,
+      "benefitType": 10020
+    },
+    "29": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99038,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10209,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99038,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 29,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 9,
+      "benefitType": 10020
+    },
+    "5": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99014,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10005,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99014,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 5,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 5,
+      "benefitType": 10022
+    },
+    "4": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99013,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10004,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99013,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 4,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 4,
+      "benefitType": 10022
+    },
+    "3": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99012,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10003,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99012,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 3,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 3,
+      "benefitType": 10022
+    },
+    "2": {
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss19",
+      "configId": 4800101,
+      "TombstonemonsterId": 99011,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss19",
+      "attackBossCount": 3,
+      "taskGroupID": 10002,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss19",
+      "visableTime": "0",
+      "monsterIconatlas": "",
+      "monsterId": 99011,
+      "maxMarchTime": 15,
+      "Type": 1,
+      "id": 2,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 2,
+      "benefitType": 10022
+    },
+    "25": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99034,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10205,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99034,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 25,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 5,
+      "benefitType": 10020
+    },
+    "24": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99033,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10204,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99033,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 24,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 4,
+      "benefitType": 10020
+    },
+    "23": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99032,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10203,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99032,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 23,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 3,
+      "benefitType": 10020
+    },
+    "22": {
+      "WorldBossTalk": {
+        "1": 5,
+        "2": 6
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss30",
+      "configId": 4800101,
+      "TombstonemonsterId": 99031,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss30",
+      "attackBossCount": 3,
+      "taskGroupID": 10202,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss30",
+      "visableTime": "12",
+      "monsterIconatlas": "",
+      "monsterId": 99031,
+      "maxMarchTime": 15,
+      "Type": 3,
+      "id": 22,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 2,
+      "benefitType": 10020
+    },
+    "19": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99028,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10109,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99028,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 19,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 9,
+      "benefitType": 10021
+    },
+    "18": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99027,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10108,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99027,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 18,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 8,
+      "benefitType": 10021
+    },
+    "17": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99026,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10107,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99026,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 17,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 7,
+      "benefitType": 10021
+    },
+    "16": {
+      "WorldBossTalk": {
+        "1": 3,
+        "2": 4
+      },
+      "activityId": 480010101,
+      "benefitSource": 201,
+      "monsterIconPath": "img_kbsl_boss16",
+      "configId": 4800101,
+      "TombstonemonsterId": 99025,
+      "benefitDes": "",
+      "benefitValue": 0.5,
+      "monsterPic": "pic_kbsl_haibao_boss16",
+      "attackBossCount": 3,
+      "taskGroupID": 10106,
+      "monsterTagatlas": "SpriteAtlas/UI_WeekendBoss.spriteatlas",
+      "monsterTagPath": "pic_kbsl_boss16",
+      "visableTime": "6",
+      "monsterIconatlas": "",
+      "monsterId": 99025,
+      "maxMarchTime": 15,
+      "Type": 2,
+      "id": 16,
+      "boardReward": {
+        "1": 1,
+        "2": 2
+      },
+      "lv": 6,
+      "benefitType": 10021
+    }
+  },
+  "excelName": "Activity_ABYSS_BOSS_Weekend_狂暴首领 ",
+  "first": 1,
+  "len": 30
+}

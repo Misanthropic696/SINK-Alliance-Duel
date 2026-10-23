@@ -1,0 +1,44 @@
+{
+  "key": "id",
+  "excelName": "Uav_无人机",
+  "data": {
+    "2": {
+      "skillId": 4000001,
+      "uavLevel": 50,
+      "id": 2,
+      "skillStar": 2,
+      "skillDes": ""
+    },
+    "1": {
+      "skillId": 4000001,
+      "uavLevel": 30,
+      "id": 1,
+      "skillStar": 1,
+      "skillDes": ""
+    },
+    "5": {
+      "skillId": 4000001,
+      "uavLevel": 110,
+      "id": 5,
+      "skillStar": 5,
+      "skillDes": ""
+    },
+    "4": {
+      "skillId": 4000001,
+      "uavLevel": 90,
+      "id": 4,
+      "skillStar": 4,
+      "skillDes": ""
+    },
+    "3": {
+      "skillId": 4000001,
+      "uavLevel": 70,
+      "id": 3,
+      "skillStar": 3,
+      "skillDes": ""
+    }
+  },
+  "first": 1,
+  "isNeedTransform": true,
+  "len": 5
+}

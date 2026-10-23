@@ -1,0 +1,28 @@
+{
+  "key": "id",
+  "data": {
+    "990010101": {
+      "showTime": 1,
+      "condition": {
+        "1": {
+          "param2": "8",
+          "param1": "1001",
+          "id": 20103
+        }
+      },
+      "limitTime": 30,
+      "id": 990010101,
+      "des": "",
+      "goalRepositoryId": 1001,
+      "shortDes": "",
+      "questionRepositoryId": 1001,
+      "helpCount": 3,
+      "questionCount": 15,
+      "openId": "Circle_day7_sun"
+    }
+  },
+  "len": 1,
+  "excelName": "Z-智慧竞答",
+  "first": 990010101,
+  "isNeedTransform": true
+}

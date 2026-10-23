@@ -1,0 +1,89 @@
+{
+  "excelName": "Age_Config_时代配置表",
+  "first": 1,
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "1": {
+      "functionType": 9,
+      "icon": "",
+      "showType": 1,
+      "id": 1,
+      "banner": "img_sd_sm_kx",
+      "UIPicAlas": "AgeFunction",
+      "title": "",
+      "describe": ""
+    },
+    "8": {
+      "functionType": 8,
+      "icon": "icon_lz_zhiyejinengdian",
+      "showType": 2,
+      "id": 8,
+      "banner": "",
+      "UIPicAlas": "ITEM_ATLAS",
+      "title": "",
+      "describe": ""
+    },
+    "3": {
+      "functionType": 9,
+      "icon": "icon_sd_kxdj",
+      "showType": 2,
+      "id": 3,
+      "banner": "",
+      "UIPicAlas": "AgeFunction",
+      "title": "",
+      "describe": ""
+    },
+    "2": {
+      "functionType": 9,
+      "icon": "icon_lz_kangxingjy",
+      "showType": 2,
+      "id": 2,
+      "banner": "",
+      "UIPicAlas": "ITEM_ATLAS",
+      "title": "",
+      "describe": ""
+    },
+    "5": {
+      "functionType": 8,
+      "icon": "icon_sd_zyxz",
+      "showType": 2,
+      "id": 5,
+      "banner": "",
+      "UIPicAlas": "AgeFunction",
+      "title": "",
+      "describe": ""
+    },
+    "4": {
+      "functionType": 8,
+      "icon": "",
+      "showType": 1,
+      "id": 4,
+      "banner": "img_sd_sm_jy",
+      "UIPicAlas": "AgeFunction",
+      "title": "",
+      "describe": ""
+    },
+    "7": {
+      "functionType": 8,
+      "icon": "icon_sd_zydj",
+      "showType": 2,
+      "id": 7,
+      "banner": "",
+      "UIPicAlas": "AgeFunction",
+      "title": "",
+      "describe": ""
+    },
+    "6": {
+      "functionType": 8,
+      "icon": "icon_lz_lingzhuzyjy",
+      "showType": 2,
+      "id": 6,
+      "banner": "",
+      "UIPicAlas": "ITEM_ATLAS",
+      "title": "",
+      "describe": ""
+    }
+  },
+  "len": 8
+}

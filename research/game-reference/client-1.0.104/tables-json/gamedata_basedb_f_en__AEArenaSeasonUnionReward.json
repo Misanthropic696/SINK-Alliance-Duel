@@ -1,0 +1,79 @@
+{
+  "data": {
+    "300204": {
+      "ArenaMilitaryRank": "Knight",
+      "desc": "The alliance of players who rank No.4-10 in the Arena of Fate will receive a standard reward.",
+      "name": "Glimmering Gift",
+      "id": 300204
+    },
+    "300201": {
+      "ArenaMilitaryRank": "Earl",
+      "desc": "The alliance of the player who ranks No.1 in the Arena of Fate will receive a top-tier reward.",
+      "name": "Glorious Gift",
+      "id": 300201
+    },
+    "300101": {
+      "ArenaMilitaryRank": "Earl",
+      "desc": "The alliance of the player who ranks No.1 in the Arena of Fate will receive a top-tier reward.",
+      "name": "Glorious Gift",
+      "id": 300101
+    },
+    "300104": {
+      "ArenaMilitaryRank": "Knight",
+      "desc": "The alliance of players who rank No.4-10 in the Arena of Fate will receive a standard reward.",
+      "name": "Glimmering Gift",
+      "id": 300104
+    },
+    "300203": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.3 in the Arena of Fate will receive a mid-tier reward.",
+      "name": "Vivid Gift",
+      "id": 300203
+    },
+    "400104": {
+      "ArenaMilitaryRank": "Knight",
+      "desc": "The alliance of players who rank No.4-10 in the Triangular Arena will receive a top-tier reward.",
+      "name": "Glimmering Gift",
+      "id": 400104
+    },
+    "400103": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.3 in the Triangular Arena will receive a top-tier reward.",
+      "name": "Vivid Gift",
+      "id": 400103
+    },
+    "400101": {
+      "ArenaMilitaryRank": "Earl",
+      "desc": "The alliance of the player who ranks No.1 in the Triangular Arena will receive a top-tier reward.",
+      "name": "Glorious Gift",
+      "id": 400101
+    },
+    "300103": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.3 in the Arena of Fate will receive a mid-tier reward.",
+      "name": "Vivid Gift",
+      "id": 300103
+    },
+    "300102": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.2 in the Arena of Fate will receive a high-tier reward.",
+      "name": "Radiant Gift",
+      "id": 300102
+    },
+    "400102": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.2 in the Triangular Arena will receive a top-tier reward.",
+      "name": "Radiant Gift",
+      "id": 400102
+    },
+    "300202": {
+      "ArenaMilitaryRank": "Viscount",
+      "desc": "The alliance of the player who ranks No.2 in the Arena of Fate will receive a high-tier reward.",
+      "name": "Radiant Gift",
+      "id": 300202
+    }
+  },
+  "len": 12,
+  "key": "id",
+  "source_format": "locale rows"
+}

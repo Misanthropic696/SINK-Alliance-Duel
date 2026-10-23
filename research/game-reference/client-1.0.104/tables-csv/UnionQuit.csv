@@ -1,0 +1,4 @@
+﻿record_key,iconAtlas,condition,icon,id,desc
+2,ALLIANCE_ICON,"{""1"": {""param2"": 1, ""param1"": 110, ""id"": 200901}}",lmtc_2,2,"[c][615652]On the [c][EE0000]day[-][c] of joining the alliance, the points earned in the Alliance Competition will not be included in the total Alliance Points[-][c]."
+1,ALLIANCE_ICON,{},lmtc_3,1,"[c][615652]After rejoining an alliance, you cannot be appointed as Caravan Coachman or board the Alliance Caravan [c] [EE0000]within 24 hours[-][c][-][c]."
+3,ALLIANCE_ICON,"{""1"": {""param2"": 5, ""param1"": 1001, ""id"": 20103}}",lmtc_1,3,[c][615652]Rejoining the alliance[c] [EE0000]within 24 hours[-][c] prevents receiving supply search rewards[-][c].

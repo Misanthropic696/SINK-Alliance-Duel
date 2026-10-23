@@ -1,0 +1,6 @@
+﻿record_key,desc,id,gotoId,target,icon,iconAtlas
+1,Forest Exploration,1,sevendays_tutorial_stage,"{""1"": {""id"": 10002001, ""param1"": 5}}",pic_qthd_icon5,UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab
+5,Join Arena Challenges,5,sevendays_tutorial_arena,"{""1"": {""param2"": 1, ""id"": 100004, ""param1"": 12}}",pic_qthd_icon4,UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab
+4,Participate in the Celia's Hunting Day event,4,sevendays_tutorial_event,"{""1"": {""param2"": 1, ""id"": 200901, ""param1"": 35}}",pic_qthd_icon1,UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab
+3,Complete Path to Healing Quests,3,sevendays_tutorial_main,"{""1"": {""param2"": 1, ""id"": 200901, ""param1"": 1}}",pic_qthd_icon3,UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab
+2,Falcon Quest,2,sevendays_tutorial_radar,"{""1"": {""id"": 200069, ""param1"": 1000424}}",pic_qthd_icon2,UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab

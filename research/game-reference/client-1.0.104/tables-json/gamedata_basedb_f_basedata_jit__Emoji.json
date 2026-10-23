@@ -1,0 +1,37 @@
+{
+  "data": {
+    "23": {
+      "displayType": 1,
+      "id": 23,
+      "sort": 1,
+      "zone": 2,
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "unlockTips": "",
+      "condition": {
+        "1": {}
+      },
+      "type": 2,
+      "pic": "chat_emoji_dice_1",
+      "spine": ""
+    },
+    "24": {
+      "displayType": 1,
+      "id": 24,
+      "sort": 2,
+      "zone": 2,
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "unlockTips": "",
+      "condition": {
+        "1": {}
+      },
+      "type": 3,
+      "pic": "chat_emoji_welcome",
+      "spine": "Prefab/Spine_UI/Emote_Horn/SkeletonGraphic_Horn.prefab"
+    }
+  },
+  "len": 2,
+  "excelName": "Emoji_表情",
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 23
+}

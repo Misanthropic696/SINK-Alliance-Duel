@@ -1,0 +1,20 @@
+{
+  "key": "id",
+  "len": 3,
+  "data": {
+    "move_city_cd": {
+      "id": "move_city_cd",
+      "value": 300
+    },
+    "saturday_alliance_battle_prep": {
+      "id": "saturday_alliance_battle_prep",
+      "value": 300
+    },
+    "contidion_member_count": {
+      "id": "contidion_member_count",
+      "value": 20
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_AllianceCompetition_联盟竞赛"
+}

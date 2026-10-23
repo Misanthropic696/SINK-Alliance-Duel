@@ -1,0 +1,37 @@
+{
+  "len": 4,
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "Building_建筑",
+  "data": {
+    "3": {
+      "backgroundAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "iconAtlas": "Zombie_DecorateBuildIcon",
+      "background": "Icon_item_purple",
+      "icon": "pic_zsw_05",
+      "id": 3
+    },
+    "4": {
+      "backgroundAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "iconAtlas": "Zombie_DecorateBuildIcon",
+      "background": "Icon_item_yellow",
+      "icon": "pic_zsw_04",
+      "id": 4
+    },
+    "1": {
+      "backgroundAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "iconAtlas": "Zombie_DecorateBuildIcon",
+      "background": "Icon_item_none",
+      "icon": "",
+      "id": 1
+    },
+    "2": {
+      "backgroundAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "iconAtlas": "Zombie_DecorateBuildIcon",
+      "background": "Icon_item_blue",
+      "icon": "pic_zsw_11",
+      "id": 2
+    }
+  },
+  "key": "id"
+}

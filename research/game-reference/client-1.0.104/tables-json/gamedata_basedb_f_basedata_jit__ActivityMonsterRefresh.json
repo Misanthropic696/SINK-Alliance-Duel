@@ -1,0 +1,227 @@
+{
+  "data": {
+    "1": {
+      "monsterTwotitle": "",
+      "previewone": {
+        "1": {
+          "id": "item_activity_shop_invasion",
+          "count": 80,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_10",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_drone_data",
+          "count": 1390,
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "type": 1
+        },
+        "5": {
+          "count": 2,
+          "type": 2
+        },
+        "6": {
+          "count": 3,
+          "type": 3
+        }
+      },
+      "monsterOneDes": "",
+      "monsterTwoID": 100120,
+      "previewtwo": {
+        "1": {
+          "id": "item_activity_abyssComing_box",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_shop_invasion",
+          "count": 80,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_strength001_10",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_drone_data",
+          "count": 1390,
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "type": 1
+        },
+        "6": {
+          "count": 2,
+          "type": 2
+        },
+        "7": {
+          "count": 3,
+          "type": 3
+        }
+      },
+      "activityId": 450010601,
+      "id": 1,
+      "monsterOnetitle": "",
+      "previewHighMonsterId": "100116,100120",
+      "monsterTwoDes": "",
+      "previewMonsterId": "100101,100115",
+      "previewReward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "count": 50,
+          "type": 99
+        },
+        "3": {
+          "id": "item_drone_part",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "monsterOneID": 100115,
+      "entryReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 3,
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "monsterTwotitle": "",
+      "previewone": {
+        "1": {
+          "id": "item_activity_shop_invasion",
+          "count": 80,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_10",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_drone_data",
+          "count": 1390,
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "type": 1
+        },
+        "5": {
+          "count": 2,
+          "type": 2
+        },
+        "6": {
+          "count": 3,
+          "type": 3
+        }
+      },
+      "monsterOneDes": "",
+      "monsterTwoID": 100220,
+      "previewtwo": {
+        "1": {
+          "id": "item_activity_abyssComing_box",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_activity_shop_invasion",
+          "count": 80,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_strength001_10",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_drone_data",
+          "count": 1390,
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "type": 1
+        },
+        "6": {
+          "count": 2,
+          "type": 2
+        },
+        "7": {
+          "count": 3,
+          "type": 3
+        }
+      },
+      "activityId": 450010602,
+      "id": 2,
+      "monsterOnetitle": "",
+      "previewHighMonsterId": "100216,100220",
+      "monsterTwoDes": "",
+      "previewMonsterId": "100201,100215",
+      "previewReward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "count": 50,
+          "type": 99
+        },
+        "3": {
+          "id": "item_drone_part",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "monsterOneID": 100215,
+      "entryReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 3,
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "Activity_Monster_刷新表",
+  "first": 1,
+  "key": "id",
+  "len": 2
+}

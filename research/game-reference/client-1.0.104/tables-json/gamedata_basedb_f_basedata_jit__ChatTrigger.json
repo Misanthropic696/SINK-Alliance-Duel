@@ -1,0 +1,65 @@
+{
+  "excelName": "Message_系统消息",
+  "data": {
+    "7": {
+      "desc": "",
+      "icon": "",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 7,
+      "iconAtlas": ""
+    },
+    "2": {
+      "desc": "",
+      "icon": "icon_zjm_wajueji",
+      "background": "Main_bubble_chat",
+      "backgroundAtlas": "SpriteAtlas/UI_Main.spriteatlas",
+      "id": 2,
+      "iconAtlas": "SpriteAtlas/UI_Main.spriteatlas"
+    },
+    "1": {
+      "desc": "",
+      "icon": "icon_zjm_zhencha1",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 1,
+      "iconAtlas": "SpriteAtlas/UI_Chat.spriteatlas"
+    },
+    "4": {
+      "desc": "",
+      "icon": "icon_zjm_huanying",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 4,
+      "iconAtlas": "SpriteAtlas/UI_Chat.spriteatlas"
+    },
+    "3": {
+      "desc": "",
+      "icon": "icon_zjm_gonggao",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 3,
+      "iconAtlas": "SpriteAtlas/UI_Chat.spriteatlas"
+    },
+    "6": {
+      "desc": "",
+      "icon": "icon_zjm_@",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 6,
+      "iconAtlas": "SpriteAtlas/UI_Chat.spriteatlas"
+    },
+    "5": {
+      "desc": "",
+      "icon": "icon_zjm_jindan",
+      "background": "Tips_Bg",
+      "backgroundAtlas": "SpriteAtlas/CityMap_Common.spriteatlas",
+      "id": 5,
+      "iconAtlas": "SpriteAtlas/UI_Chat.spriteatlas"
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "isNeedTransform": true,
+  "len": 7
+}

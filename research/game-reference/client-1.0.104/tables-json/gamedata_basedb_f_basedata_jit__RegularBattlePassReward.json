@@ -1,0 +1,447 @@
+{
+  "first": 101,
+  "data": {
+    "110": {
+      "charge1SpecialDisplay": {
+        "1": 1
+      },
+      "point": 220,
+      "id": 110,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 10,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_Material_fragment_30001"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_fragment_30001"
+        }
+      }
+    },
+    "112": {
+      "charge1SpecialDisplay": {},
+      "point": 300,
+      "id": 112,
+      "freeSpecialDisplay": {
+        "1": 1
+      },
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 12,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_steel_300k"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 4,
+          "id": "item_UseUp_recruitCoin"
+        }
+      }
+    },
+    "115": {
+      "charge1SpecialDisplay": {},
+      "point": 450,
+      "id": 115,
+      "freeSpecialDisplay": {
+        "1": 1
+      },
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 15,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 3200,
+          "id": "item_equipment_enhanceStone"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_UseUp_recruitCoin"
+        }
+      }
+    },
+    "108": {
+      "charge1SpecialDisplay": {},
+      "point": 150,
+      "id": 108,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 8,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      }
+    },
+    "101": {
+      "charge1SpecialDisplay": {
+        "1": 1
+      },
+      "point": 10,
+      "id": 101,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 1,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_shield_legendary"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_fragment_30001"
+        }
+      }
+    },
+    "106": {
+      "charge1SpecialDisplay": {},
+      "point": 90,
+      "id": 106,
+      "freeSpecialDisplay": {
+        "1": 1
+      },
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 6,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_food_500k"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_recruitCoin"
+        }
+      }
+    },
+    "103": {
+      "charge1SpecialDisplay": {},
+      "point": 30,
+      "id": 103,
+      "freeSpecialDisplay": {
+        "1": 1
+      },
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 3,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_wood_500k"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_UseUp_recruitCoin"
+        }
+      }
+    },
+    "114": {
+      "charge1SpecialDisplay": {
+        "1": 1
+      },
+      "point": 400,
+      "id": 114,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 14,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      }
+    },
+    "113": {
+      "charge1SpecialDisplay": {},
+      "point": 350,
+      "id": 113,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 13,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_Material_fragment_30001"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_fragment_30001"
+        }
+      }
+    },
+    "109": {
+      "charge1SpecialDisplay": {},
+      "point": 180,
+      "id": 109,
+      "freeSpecialDisplay": {
+        "1": 1
+      },
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 9,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_wood_500k"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_UseUp_recruitCoin"
+        }
+      }
+    },
+    "111": {
+      "charge1SpecialDisplay": {},
+      "point": 260,
+      "id": 111,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 11,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      }
+    },
+    "102": {
+      "charge1SpecialDisplay": {},
+      "point": 20,
+      "id": 102,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 2,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_food_500k"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      }
+    },
+    "107": {
+      "charge1SpecialDisplay": {},
+      "point": 120,
+      "id": 107,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 7,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_Material_fragment_30001"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_fragment_30001"
+        }
+      }
+    },
+    "104": {
+      "charge1SpecialDisplay": {
+        "1": 1
+      },
+      "point": 50,
+      "id": 104,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 4,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_Material_fragment_30001"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_fragment_30001"
+        }
+      }
+    },
+    "105": {
+      "charge1SpecialDisplay": {},
+      "point": 70,
+      "id": 105,
+      "freeSpecialDisplay": {},
+      "maxRound": -1,
+      "rewardGroupID": 6010,
+      "minRound": 1,
+      "lv": 5,
+      "chargeReward1": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 80000,
+          "type": 5
+        }
+      },
+      "freeReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      }
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "Gift_礼包表",
+  "len": 15
+}

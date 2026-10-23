@@ -1,0 +1,249 @@
+{
+  "key": "id",
+  "len": 30,
+  "data": {
+    "4": {
+      "power": 2000,
+      "coolDown": 212400,
+      "shelterPercent": 0.21,
+      "shelterLimit": 550,
+      "helpNum": 5,
+      "id": 4
+    },
+    "5": {
+      "power": 2500,
+      "coolDown": 212400,
+      "shelterPercent": 0.22,
+      "shelterLimit": 600,
+      "helpNum": 5,
+      "id": 5
+    },
+    "6": {
+      "power": 3000,
+      "coolDown": 208800,
+      "shelterPercent": 0.23,
+      "shelterLimit": 650,
+      "helpNum": 6,
+      "id": 6
+    },
+    "7": {
+      "power": 3500,
+      "coolDown": 208800,
+      "shelterPercent": 0.24,
+      "shelterLimit": 700,
+      "helpNum": 6,
+      "id": 7
+    },
+    "13": {
+      "power": 11600,
+      "coolDown": 201600,
+      "shelterPercent": 0.3,
+      "shelterLimit": 1000,
+      "helpNum": 7,
+      "id": 13
+    },
+    "12": {
+      "power": 9600,
+      "coolDown": 201600,
+      "shelterPercent": 0.29,
+      "shelterLimit": 950,
+      "helpNum": 7,
+      "id": 12
+    },
+    "11": {
+      "power": 7600,
+      "coolDown": 205200,
+      "shelterPercent": 0.28,
+      "shelterLimit": 900,
+      "helpNum": 7,
+      "id": 11
+    },
+    "10": {
+      "power": 6100,
+      "coolDown": 205200,
+      "shelterPercent": 0.27,
+      "shelterLimit": 850,
+      "helpNum": 6,
+      "id": 10
+    },
+    "9": {
+      "power": 5100,
+      "coolDown": 205200,
+      "shelterPercent": 0.26,
+      "shelterLimit": 800,
+      "helpNum": 6,
+      "id": 9
+    },
+    "8": {
+      "power": 4200,
+      "coolDown": 208800,
+      "shelterPercent": 0.25,
+      "shelterLimit": 750,
+      "helpNum": 6,
+      "id": 8
+    },
+    "30": {
+      "power": 260000,
+      "coolDown": 172800,
+      "shelterPercent": 0.4,
+      "shelterLimit": 2000,
+      "helpNum": 10,
+      "id": 30
+    },
+    "20": {
+      "power": 45200,
+      "coolDown": 190800,
+      "shelterPercent": 0.37,
+      "shelterLimit": 1350,
+      "helpNum": 8,
+      "id": 20
+    },
+    "29": {
+      "power": 219500,
+      "coolDown": 176400,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1935,
+      "helpNum": 10,
+      "id": 29
+    },
+    "28": {
+      "power": 185100,
+      "coolDown": 176400,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1870,
+      "helpNum": 10,
+      "id": 28
+    },
+    "16": {
+      "power": 20600,
+      "coolDown": 198000,
+      "shelterPercent": 0.33,
+      "shelterLimit": 1150,
+      "helpNum": 8,
+      "id": 16
+    },
+    "17": {
+      "power": 24900,
+      "coolDown": 198000,
+      "shelterPercent": 0.34,
+      "shelterLimit": 1200,
+      "helpNum": 8,
+      "id": 17
+    },
+    "14": {
+      "power": 14000,
+      "coolDown": 201600,
+      "shelterPercent": 0.31,
+      "shelterLimit": 1050,
+      "helpNum": 7,
+      "id": 14
+    },
+    "15": {
+      "power": 16800,
+      "coolDown": 198000,
+      "shelterPercent": 0.32,
+      "shelterLimit": 1100,
+      "helpNum": 7,
+      "id": 15
+    },
+    "19": {
+      "power": 36900,
+      "coolDown": 194400,
+      "shelterPercent": 0.36,
+      "shelterLimit": 1300,
+      "helpNum": 8,
+      "id": 19
+    },
+    "18": {
+      "power": 30600,
+      "coolDown": 194400,
+      "shelterPercent": 0.35,
+      "shelterLimit": 1250,
+      "helpNum": 8,
+      "id": 18
+    },
+    "27": {
+      "power": 156100,
+      "coolDown": 180000,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1805,
+      "helpNum": 10,
+      "id": 27
+    },
+    "26": {
+      "power": 131800,
+      "coolDown": 180000,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1740,
+      "helpNum": 10,
+      "id": 26
+    },
+    "25": {
+      "power": 110500,
+      "coolDown": 183600,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1675,
+      "helpNum": 9,
+      "id": 25
+    },
+    "24": {
+      "power": 92600,
+      "coolDown": 183600,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1610,
+      "helpNum": 9,
+      "id": 24
+    },
+    "23": {
+      "power": 78600,
+      "coolDown": 187200,
+      "shelterPercent": 0.4,
+      "shelterLimit": 1545,
+      "helpNum": 9,
+      "id": 23
+    },
+    "22": {
+      "power": 66100,
+      "coolDown": 187200,
+      "shelterPercent": 0.39,
+      "shelterLimit": 1480,
+      "helpNum": 9,
+      "id": 22
+    },
+    "21": {
+      "power": 55000,
+      "coolDown": 190800,
+      "shelterPercent": 0.38,
+      "shelterLimit": 1415,
+      "helpNum": 9,
+      "id": 21
+    },
+    "1": {
+      "power": 500,
+      "coolDown": 216000,
+      "shelterPercent": 0.18,
+      "shelterLimit": 400,
+      "helpNum": 5,
+      "id": 1
+    },
+    "2": {
+      "power": 1000,
+      "coolDown": 216000,
+      "shelterPercent": 0.19,
+      "shelterLimit": 450,
+      "helpNum": 5,
+      "id": 2
+    },
+    "3": {
+      "power": 1500,
+      "coolDown": 212400,
+      "shelterPercent": 0.2,
+      "shelterLimit": 500,
+      "helpNum": 5,
+      "id": 3
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BuildingFunction_建筑功能"
+}

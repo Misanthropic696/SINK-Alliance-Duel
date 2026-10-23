@@ -1,0 +1,12 @@
+{
+  "data": {
+    "1": {
+      "desc2": "1、本活动一共有20关，每次挑战消耗1次挑战次数。挑战次数每3小时恢复1次。\n2、点击消除区的卡牌，该卡牌将放入卡槽中。当卡槽中有3张相同的卡牌时，该3张卡牌将被消除。\n3、可以使用“移出、撤回、刷新”共3种活动道具来辅助通关。\n移出：将卡槽中前面3张卡片堆叠到移出区域中。（最多堆叠4层）\n撤回：将上一张放到卡槽中的卡牌放回原来的位置。\n刷新：将消除区的卡牌的位置重新随机刷新一次。\n4、7个卡槽都被放满卡牌后即为挑战失败。\n5、所有卡牌被消除后，将成功通关。",
+      "id": 1,
+      "desc1": "Countless structures were destroyed in a disaster. Amid the ruins, salvageable resources lie buried beneath the debris. Clear away the clutter to uncover them."
+    }
+  },
+  "len": 1,
+  "key": "id",
+  "source_format": "locale rows"
+}

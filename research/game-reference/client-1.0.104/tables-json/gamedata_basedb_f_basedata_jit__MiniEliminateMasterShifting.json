@@ -1,0 +1,441 @@
+{
+  "first": 31,
+  "len": 48,
+  "data": {
+    "40": {
+      "type": 1,
+      "id": 40,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 10,
+      "actId": 1,
+      "passId": 8
+    },
+    "32": {
+      "type": 1,
+      "id": 32,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 13,
+      "actId": 1,
+      "passId": 3
+    },
+    "42": {
+      "type": 1,
+      "id": 42,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 12,
+      "actId": 1,
+      "passId": 8
+    },
+    "52": {
+      "type": 1,
+      "id": 52,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 13,
+      "actId": 1,
+      "passId": 12
+    },
+    "34": {
+      "type": 1,
+      "id": 34,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 12,
+      "actId": 1,
+      "passId": 5
+    },
+    "44": {
+      "type": 2,
+      "id": 44,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 9
+    },
+    "36": {
+      "type": 1,
+      "id": 36,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 11,
+      "actId": 1,
+      "passId": 6
+    },
+    "46": {
+      "type": 2,
+      "id": 46,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 11,
+      "actId": 1,
+      "passId": 9
+    },
+    "38": {
+      "type": 1,
+      "id": 38,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 13,
+      "actId": 1,
+      "passId": 6
+    },
+    "68": {
+      "type": 1,
+      "id": 68,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 12,
+      "actId": 1,
+      "passId": 17
+    },
+    "78": {
+      "type": 2,
+      "id": 78,
+      "needRadomRoll": 0,
+      "yCoordinate": 2,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 20
+    },
+    "48": {
+      "type": 2,
+      "id": 48,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 11
+    },
+    "58": {
+      "type": 3,
+      "id": 58,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 4,
+      "actId": 1,
+      "passId": 14
+    },
+    "77": {
+      "type": 1,
+      "id": 77,
+      "needRadomRoll": 0,
+      "yCoordinate": 2,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 20
+    },
+    "76": {
+      "type": 2,
+      "id": 76,
+      "needRadomRoll": 0,
+      "yCoordinate": 2,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 19
+    },
+    "75": {
+      "type": 1,
+      "id": 75,
+      "needRadomRoll": 0,
+      "yCoordinate": 2,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 19
+    },
+    "33": {
+      "type": 2,
+      "id": 33,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 2,
+      "actId": 1,
+      "passId": 5
+    },
+    "41": {
+      "type": 2,
+      "id": 41,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 2,
+      "actId": 1,
+      "passId": 8
+    },
+    "31": {
+      "type": 2,
+      "id": 31,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 1,
+      "actId": 1,
+      "passId": 3
+    },
+    "43": {
+      "type": 1,
+      "id": 43,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 9
+    },
+    "45": {
+      "type": 1,
+      "id": 45,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 3,
+      "actId": 1,
+      "passId": 9
+    },
+    "35": {
+      "type": 2,
+      "id": 35,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 3,
+      "actId": 1,
+      "passId": 6
+    },
+    "47": {
+      "type": 1,
+      "id": 47,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 11
+    },
+    "37": {
+      "type": 2,
+      "id": 37,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 1,
+      "actId": 1,
+      "passId": 6
+    },
+    "39": {
+      "type": 2,
+      "id": 39,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 4,
+      "actId": 1,
+      "passId": 8
+    },
+    "74": {
+      "type": 1,
+      "id": 74,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 10,
+      "actId": 1,
+      "passId": 18
+    },
+    "73": {
+      "type": 2,
+      "id": 73,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 4,
+      "actId": 1,
+      "passId": 18
+    },
+    "72": {
+      "type": 1,
+      "id": 72,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 12,
+      "actId": 1,
+      "passId": 18
+    },
+    "71": {
+      "type": 2,
+      "id": 71,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 2,
+      "actId": 1,
+      "passId": 18
+    },
+    "69": {
+      "type": 2,
+      "id": 69,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 4,
+      "actId": 1,
+      "passId": 17
+    },
+    "59": {
+      "type": 3,
+      "id": 59,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 7,
+      "actId": 1,
+      "passId": 14
+    },
+    "49": {
+      "type": 1,
+      "id": 49,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 3,
+      "actId": 1,
+      "passId": 11
+    },
+    "70": {
+      "type": 1,
+      "id": 70,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 10,
+      "actId": 1,
+      "passId": 17
+    },
+    "67": {
+      "type": 2,
+      "id": 67,
+      "needRadomRoll": 0,
+      "yCoordinate": 11,
+      "xCoordinate": 2,
+      "actId": 1,
+      "passId": 17
+    },
+    "66": {
+      "type": 2,
+      "id": 66,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 16
+    },
+    "65": {
+      "type": 1,
+      "id": 65,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 16
+    },
+    "64": {
+      "type": 2,
+      "id": 64,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 9,
+      "actId": 1,
+      "passId": 15
+    },
+    "63": {
+      "type": 1,
+      "id": 63,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 5,
+      "actId": 1,
+      "passId": 15
+    },
+    "62": {
+      "type": 2,
+      "id": 62,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 11,
+      "actId": 1,
+      "passId": 14
+    },
+    "61": {
+      "type": 1,
+      "id": 61,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 3,
+      "actId": 1,
+      "passId": 14
+    },
+    "60": {
+      "type": 3,
+      "id": 60,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 10,
+      "actId": 1,
+      "passId": 14
+    },
+    "57": {
+      "type": 2,
+      "id": 57,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 11,
+      "actId": 1,
+      "passId": 13
+    },
+    "56": {
+      "type": 1,
+      "id": 56,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 3,
+      "actId": 1,
+      "passId": 13
+    },
+    "55": {
+      "type": 3,
+      "id": 55,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 10,
+      "actId": 1,
+      "passId": 13
+    },
+    "54": {
+      "type": 3,
+      "id": 54,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 7,
+      "actId": 1,
+      "passId": 13
+    },
+    "53": {
+      "type": 3,
+      "id": 53,
+      "needRadomRoll": 0,
+      "yCoordinate": 8,
+      "xCoordinate": 4,
+      "actId": 1,
+      "passId": 13
+    },
+    "51": {
+      "type": 2,
+      "id": 51,
+      "needRadomRoll": 0,
+      "yCoordinate": 12,
+      "xCoordinate": 1,
+      "actId": 1,
+      "passId": 12
+    },
+    "50": {
+      "type": 2,
+      "id": 50,
+      "needRadomRoll": 0,
+      "yCoordinate": 13,
+      "xCoordinate": 11,
+      "actId": 1,
+      "passId": 11
+    }
+  },
+  "excelName": "Activity-MiniEliminateMasterAct遗迹寻宝（15关卡）",
+  "key": "id",
+  "isNeedTransform": false
+}

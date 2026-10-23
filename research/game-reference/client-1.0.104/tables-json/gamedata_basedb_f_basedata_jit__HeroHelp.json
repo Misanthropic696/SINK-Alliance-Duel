@@ -1,0 +1,59 @@
+{
+  "key": "id",
+  "len": 5,
+  "isNeedTransform": false,
+  "first": 1,
+  "data": {
+    "5": {
+      "def": 91,
+      "quality": 5,
+      "level": 30,
+      "effect": "",
+      "id": 5,
+      "hp": 1751,
+      "heroId": 10011,
+      "atk": 976
+    },
+    "4": {
+      "def": 5,
+      "quality": 0,
+      "level": 1,
+      "effect": "",
+      "id": 4,
+      "hp": 860,
+      "heroId": 40002,
+      "atk": 15
+    },
+    "3": {
+      "def": 5,
+      "quality": 0,
+      "level": 1,
+      "effect": "",
+      "id": 3,
+      "hp": 370,
+      "heroId": 30003,
+      "atk": 45
+    },
+    "2": {
+      "def": 91,
+      "quality": 5,
+      "level": 10,
+      "effect": "",
+      "id": 2,
+      "hp": 1751,
+      "heroId": 10006,
+      "atk": 976
+    },
+    "1": {
+      "def": 91,
+      "quality": 0,
+      "level": 5,
+      "effect": "",
+      "id": 1,
+      "hp": 1751,
+      "heroId": 30006,
+      "atk": 100
+    }
+  },
+  "excelName": "Hero_新英雄"
+}

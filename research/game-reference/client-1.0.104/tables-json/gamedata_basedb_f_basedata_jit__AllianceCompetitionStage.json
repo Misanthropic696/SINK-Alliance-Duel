@@ -1,0 +1,701 @@
+{
+  "key": "id",
+  "len": 12,
+  "data": {
+    "4": {
+      "stageId": 570010401,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_xincunzhezhaomujuan",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "",
+      "icon2Goto": "12000_05",
+      "icon3": "",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 4,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Recruit",
+      "benefit": {},
+      "icon2": "icon_wannengsuipian_chengse",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_4hero",
+      "rightEntryGoto": ""
+    },
+    "5": {
+      "stageId": 570010501,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_leida",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_soldier",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 5,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Speed",
+      "benefit": {},
+      "icon2": "icon_speed_tongyong",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_beizhan",
+      "rightEntryGoto": ""
+    },
+    "102": {
+      "stageId": 580010201,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_speed_jianzao",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "commander_1626",
+      "icon3": "icon_reqiqiu",
+      "icon1Goto": "getItem_Building",
+      "warReward": {},
+      "id": 102,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Build",
+      "benefit": {},
+      "icon2": "icon_yinbirenwu",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_dl_jianzao",
+      "rightEntryGoto": ""
+    },
+    "105": {
+      "stageId": 580010501,
+      "tipsGotoTwo": "building_unlock_guide_18",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "Icon_Item_Shield",
+      "icon1": "icon_leida",
+      "tipsIconTwo": "Icon_Item_MoveCity_Newbie",
+      "tipsGotoOne": "building_unlock_guide_19",
+      "showRaidNotice": 1,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_soldier",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "id": 105,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Speed",
+      "benefit": {},
+      "icon2": "icon_speed_tongyong",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_beizhan",
+      "rightEntryGoto": ""
+    },
+    "6": {
+      "stageId": 570010601,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_reqiqiu",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_speed_tongyong",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 6,
+      "icon4Goto": "12000_05",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Train",
+      "benefit": {},
+      "icon2": "icon_yinbirenwu",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 4,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "icon_reqiqiu",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_zhanzheng",
+      "rightEntryGoto": ""
+    },
+    "101": {
+      "stageId": 580010101,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_leida",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "commander_1607",
+      "icon2Goto": "12000_23",
+      "icon3": "icon_tili",
+      "icon1Goto": "12000_05",
+      "warReward": {},
+      "id": 101,
+      "icon4Goto": "12000_11",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Radar",
+      "benefit": {},
+      "icon2": "icon_shrjinhua",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 1,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "icon_caiji",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_wuya",
+      "rightEntryGoto": ""
+    },
+    "3": {
+      "stageId": 570010301,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_speed_yanfa",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_leida",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 3,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Science",
+      "benefit": {},
+      "icon2": "icon_rongyudian",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_dl_yanjiu",
+      "rightEntryGoto": ""
+    },
+    "103": {
+      "stageId": 580010301,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_speed_yanfa",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_leida",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 103,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Science",
+      "benefit": {},
+      "icon2": "icon_rongyudian",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_dl_yanjiu",
+      "rightEntryGoto": ""
+    },
+    "104": {
+      "stageId": 580010401,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_xincunzhezhaomujuan",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "",
+      "icon2Goto": "12000_05",
+      "icon3": "",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 104,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Recruit",
+      "benefit": {},
+      "icon2": "icon_wannengsuipian_chengse",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_4hero",
+      "rightEntryGoto": ""
+    },
+    "1": {
+      "stageId": 570010101,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_leida",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "commander_1607",
+      "icon2Goto": "12000_23",
+      "icon3": "icon_tili",
+      "icon1Goto": "12000_05",
+      "warReward": {},
+      "id": 1,
+      "icon4Goto": "12000_11",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Radar",
+      "benefit": {},
+      "icon2": "icon_shrjinhua",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 1,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "icon_caiji",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_wuya",
+      "rightEntryGoto": ""
+    },
+    "2": {
+      "stageId": 570010201,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_speed_jianzao",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "commander_1626",
+      "icon3": "icon_reqiqiu",
+      "icon1Goto": "getItem_Building",
+      "warReward": {},
+      "id": 2,
+      "icon4Goto": "",
+      "name1": "",
+      "buffShowId": 0,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Build",
+      "benefit": {},
+      "icon2": "icon_yinbirenwu",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 2,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "",
+      "name4": "",
+      "entryTipsImage": "icon_zjm_dl_jianzao",
+      "rightEntryGoto": ""
+    },
+    "106": {
+      "stageId": 580010601,
+      "tipsGotoTwo": "",
+      "tipsNameTwo": "",
+      "rightEntryName": "",
+      "tipsIconOne": "",
+      "icon1": "icon_reqiqiu",
+      "tipsIconTwo": "",
+      "tipsGotoOne": "",
+      "showRaidNotice": 0,
+      "icon3Goto": "12000_05",
+      "icon2Goto": "12000_05",
+      "icon3": "icon_speed_tongyong",
+      "icon1Goto": "goto_become_stronger_11",
+      "warReward": {},
+      "id": 106,
+      "icon4Goto": "12000_05",
+      "name1": "",
+      "buffShowId": 1001,
+      "activityRewardEffect": "[1]",
+      "tipsNameOne": "",
+      "rightEntryIcon": "AllianceCompetition_Icon_Train",
+      "benefit": {
+        "1": {
+          "Source": 101,
+          "Value": 2,
+          "Type": 20022
+        },
+        "2": {
+          "Source": 101,
+          "Value": 4000,
+          "Type": 20092
+        },
+        "3": {
+          "Source": 101,
+          "Value": 0.5,
+          "Type": 20023
+        }
+      },
+      "icon2": "icon_yinbirenwu",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        }
+      },
+      "stagePoints": 4,
+      "name3": "",
+      "name2": "",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "icon4": "icon_reqiqiu",
+      "name4": "",
+      "entryTipsImage": "icon_zjmts_zhanzheng",
+      "rightEntryGoto": ""
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "Activity_AllianceCompetition_联盟竞赛"
+}

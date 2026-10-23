@@ -1,0 +1,11 @@
+﻿record_key,head,unlockType,grade,Gender,goTo,initWear,unlockValue,type,id,picAtlas,unlockItem,effect,benefit,timeType,model,des2,pic,name,sort,des1
+2005,,4,0,0,Activity,0,0,2,2005,SpriteAtlas/UI_PlayerHead.spriteatlas,"{""1"": {""count"": 1, ""id"": ""item_headframe_general_7d"", ""type"": 99}}",,"{""1"": {""Value"": 0.05, ""Source"": 101, ""Type"": 10006}}",1,,,icon_item_headframe_general,Earl Avatar Frame,5,
+2008,,4,0,0,Activity,0,0,2,2008,SpriteAtlas/UI_PlayerHead.spriteatlas,"{""1"": {""count"": 1, ""id"": ""item_headframe_colonel_7d"", ""type"": 99}}",,"{""1"": {""Value"": 0.025, ""Source"": 101, ""Type"": 10006}}",1,,,icon_item_headframe_colonel,Duke Avatar Frame,8,
+90002,pic_lz_touxiang02,1,0,2,,0,0,1,90002,PLAYER_HEAD_ICON,{},,{},0,,,pic_lz_touxiang02,Female Protagonist,998,
+2010,,4,0,0,,0,0,2,2010,,"{""1"": {""count"": 1, ""id"": ""item_headframe_monthCard_30d"", ""type"": 99}}",,{},1,,,pic_touxiangkuang1,Monthly Pass Avatar Frame,996,
+2006,,4,0,0,Activity,0,0,2,2006,SpriteAtlas/UI_PlayerHead.spriteatlas,"{""1"": {""count"": 1, ""id"": ""item_headframe_lieutenantGeneral_7d"", ""type"": 99}}",,"{""1"": {""Value"": 0.04, ""Source"": 101, ""Type"": 10006}}",1,,,icon_item_headframe_lieutenantGeneral,Viscount Avatar Frame,6,
+2001,,1,0,0,,1,0,2,2001,,{},,{},0,,Initially Owned,pic_touxiangkuang0,Default,999,Initially Owned
+90001,pic_lz_touxiang01,1,0,1,,1,0,1,90001,PLAYER_HEAD_ICON,{},,{},0,,,pic_lz_touxiang01,Male Lead,999,
+2009,,4,0,0,Activity,0,0,2,2009,SpriteAtlas/UI_PlayerHead.spriteatlas,"{""1"": {""count"": 1, ""id"": ""item_headframe_lieutenantColonel_7d"", ""type"": 99}}",,"{""1"": {""Value"": 0.02, ""Source"": 101, ""Type"": 10006}}",1,,,icon_item_headframe_lieutenantColonel,Marquis Avatar Frame,9,
+2007,,4,0,0,Activity,0,0,2,2007,SpriteAtlas/UI_PlayerHead.spriteatlas,"{""1"": {""count"": 1, ""id"": ""item_headframe_majorGeneral_7d"", ""type"": 99}}",,"{""1"": {""Value"": 0.03, ""Source"": 101, ""Type"": 10006}}",1,,,icon_item_headframe_majorGeneral,Knight Avatar Frame,7,
+92018,pic_lz_touxiang02,1,0,0,,0,0,5,92018,MONSTER_HEAD_ICON,{},,{},0,,,xiaoguai_13,xiaoguai18,998,

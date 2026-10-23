@@ -1,0 +1,121 @@
+{
+  "data": {
+    "16": {
+      "attrGroupDesc": "Soldier HP↑",
+      "benefitTypeDesc": "Soldier HP↑",
+      "id": 16,
+      "benefitSourceDesc": "Technology"
+    },
+    "17": {
+      "attrGroupDesc": "Soldier ATK↑",
+      "benefitTypeDesc": "Soldier ATK↑",
+      "id": 17,
+      "benefitSourceDesc": "Technology"
+    },
+    "14": {
+      "attrGroupDesc": "Warrior Hero DEF↑",
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "id": 14,
+      "benefitSourceDesc": "Technology"
+    },
+    "15": {
+      "attrGroupDesc": "Warrior Hero DMG↑",
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "id": 15,
+      "benefitSourceDesc": "Technology"
+    },
+    "11": {
+      "attrGroupDesc": "Warlock Hero DMG↑",
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "id": 11,
+      "benefitSourceDesc": "Technology"
+    },
+    "10": {
+      "attrGroupDesc": "Warlock Hero DEF↑",
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "id": 10,
+      "benefitSourceDesc": "Technology"
+    },
+    "13": {
+      "attrGroupDesc": "Warrior Hero ATK↑",
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "id": 13,
+      "benefitSourceDesc": "Technology"
+    },
+    "12": {
+      "attrGroupDesc": "Warrior Hero HP↑",
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "id": 12,
+      "benefitSourceDesc": "Technology"
+    },
+    "19": {
+      "attrGroupDesc": "Soldier Morale↑",
+      "benefitTypeDesc": "Soldier Morale↑",
+      "id": 19,
+      "benefitSourceDesc": "Technology"
+    },
+    "18": {
+      "attrGroupDesc": "Soldier DEF↑",
+      "benefitTypeDesc": "Soldier DEF↑",
+      "id": 18,
+      "benefitSourceDesc": "Technology"
+    },
+    "3": {
+      "attrGroupDesc": "Hero DMG Taken↓",
+      "benefitTypeDesc": "Hero DMG Taken↓",
+      "id": 3,
+      "benefitSourceDesc": "Technology"
+    },
+    "2": {
+      "attrGroupDesc": "Hero Energy DMG↑",
+      "benefitTypeDesc": "Hero Energy DMG↑",
+      "id": 2,
+      "benefitSourceDesc": "Technology"
+    },
+    "1": {
+      "attrGroupDesc": "Hero Physical DMG↑",
+      "benefitTypeDesc": "Hero Physical DMG↑",
+      "id": 1,
+      "benefitSourceDesc": "Technology"
+    },
+    "7": {
+      "attrGroupDesc": "Ranger Hero DMG↑",
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "id": 7,
+      "benefitSourceDesc": "Technology"
+    },
+    "6": {
+      "attrGroupDesc": "Ranger Hero DEF↑",
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "id": 6,
+      "benefitSourceDesc": "Technology"
+    },
+    "5": {
+      "attrGroupDesc": "Ranger Hero ATK↑",
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "id": 5,
+      "benefitSourceDesc": "Technology"
+    },
+    "4": {
+      "attrGroupDesc": "Ranger Hero HP↑",
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "id": 4,
+      "benefitSourceDesc": "Technology"
+    },
+    "9": {
+      "attrGroupDesc": "Warlock Hero ATK↑",
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "id": 9,
+      "benefitSourceDesc": "Technology"
+    },
+    "8": {
+      "attrGroupDesc": "Warlock Hero HP↑",
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "id": 8,
+      "benefitSourceDesc": "Technology"
+    }
+  },
+  "len": 19,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,390 @@
+{
+  "isNeedTransform": false,
+  "len": 23,
+  "first": 1,
+  "excelName": "Activity_LinkTreasure连线夺宝活动",
+  "key": "id",
+  "data": {
+    "18": {
+      "sortKey": 3,
+      "actId": 1,
+      "pointX": 2,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 18,
+      "pointY": -1,
+      "taskId": 0,
+      "score": 0
+    },
+    "19": {
+      "sortKey": 4,
+      "actId": 1,
+      "pointX": 3,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 19,
+      "pointY": 4,
+      "taskId": 0,
+      "score": 0
+    },
+    "16": {
+      "sortKey": 1,
+      "actId": 1,
+      "pointX": 0,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 16,
+      "pointY": -1,
+      "taskId": 0,
+      "score": 0
+    },
+    "17": {
+      "sortKey": 2,
+      "actId": 1,
+      "pointX": 1,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 17,
+      "pointY": -1,
+      "taskId": 0,
+      "score": 0
+    },
+    "13": {
+      "sortKey": 13,
+      "actId": 1,
+      "pointX": 0,
+      "type": 1,
+      "rewards": {},
+      "id": 13,
+      "pointY": 0,
+      "taskId": 13,
+      "score": 0
+    },
+    "12": {
+      "sortKey": 12,
+      "actId": 1,
+      "pointX": 2,
+      "type": 1,
+      "rewards": {},
+      "id": 12,
+      "pointY": 1,
+      "taskId": 12,
+      "score": 0
+    },
+    "15": {
+      "sortKey": 15,
+      "actId": 1,
+      "pointX": 2,
+      "type": 1,
+      "rewards": {},
+      "id": 15,
+      "pointY": 0,
+      "taskId": 15,
+      "score": 0
+    },
+    "14": {
+      "sortKey": 14,
+      "actId": 1,
+      "pointX": 1,
+      "type": 1,
+      "rewards": {},
+      "id": 14,
+      "pointY": 0,
+      "taskId": 14,
+      "score": 0
+    },
+    "5": {
+      "sortKey": 5,
+      "actId": 1,
+      "pointX": 1,
+      "type": 1,
+      "rewards": {},
+      "id": 5,
+      "pointY": 3,
+      "taskId": 5,
+      "score": 0
+    },
+    "4": {
+      "sortKey": 4,
+      "actId": 1,
+      "pointX": 0,
+      "type": 1,
+      "rewards": {},
+      "id": 4,
+      "pointY": 3,
+      "taskId": 4,
+      "score": 0
+    },
+    "3": {
+      "sortKey": 3,
+      "actId": 1,
+      "pointX": 2,
+      "type": 1,
+      "rewards": {},
+      "id": 3,
+      "pointY": 4,
+      "taskId": 3,
+      "score": 0
+    },
+    "2": {
+      "sortKey": 2,
+      "actId": 1,
+      "pointX": 1,
+      "type": 1,
+      "rewards": {},
+      "id": 2,
+      "pointY": 4,
+      "taskId": 2,
+      "score": 0
+    },
+    "9": {
+      "sortKey": 9,
+      "actId": 1,
+      "pointX": 2,
+      "type": 1,
+      "rewards": {},
+      "id": 9,
+      "pointY": 2,
+      "taskId": 9,
+      "score": 0
+    },
+    "8": {
+      "sortKey": 8,
+      "actId": 1,
+      "pointX": 1,
+      "type": 1,
+      "rewards": {},
+      "id": 8,
+      "pointY": 2,
+      "taskId": 8,
+      "score": 0
+    },
+    "7": {
+      "sortKey": 7,
+      "actId": 1,
+      "pointX": 0,
+      "type": 1,
+      "rewards": {},
+      "id": 7,
+      "pointY": 2,
+      "taskId": 7,
+      "score": 0
+    },
+    "6": {
+      "sortKey": 6,
+      "actId": 1,
+      "pointX": 2,
+      "type": 1,
+      "rewards": {},
+      "id": 6,
+      "pointY": 3,
+      "taskId": 6,
+      "score": 0
+    },
+    "23": {
+      "sortKey": 8,
+      "actId": 1,
+      "pointX": 3,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 23,
+      "pointY": 0,
+      "taskId": 0,
+      "score": 0
+    },
+    "22": {
+      "sortKey": 7,
+      "actId": 1,
+      "pointX": 3,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 22,
+      "pointY": 1,
+      "taskId": 0,
+      "score": 0
+    },
+    "21": {
+      "sortKey": 6,
+      "actId": 1,
+      "pointX": 3,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 21,
+      "pointY": 2,
+      "taskId": 0,
+      "score": 0
+    },
+    "1": {
+      "sortKey": 1,
+      "actId": 1,
+      "pointX": 0,
+      "type": 1,
+      "rewards": {},
+      "id": 1,
+      "pointY": 4,
+      "taskId": 1,
+      "score": 0
+    },
+    "20": {
+      "sortKey": 5,
+      "actId": 1,
+      "pointX": 3,
+      "type": 2,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 20,
+      "pointY": 3,
+      "taskId": 0,
+      "score": 0
+    },
+    "10": {
+      "sortKey": 10,
+      "actId": 1,
+      "pointX": 0,
+      "type": 1,
+      "rewards": {},
+      "id": 10,
+      "pointY": 1,
+      "taskId": 10,
+      "score": 0
+    },
+    "11": {
+      "sortKey": 11,
+      "actId": 1,
+      "pointX": 1,
+      "type": 1,
+      "rewards": {},
+      "id": 11,
+      "pointY": 1,
+      "taskId": 11,
+      "score": 0
+    }
+  }
+}

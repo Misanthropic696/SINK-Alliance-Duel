@@ -1,0 +1,213 @@
+{
+  "isNeedTransform": true,
+  "data": {
+    "12": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_duanzao",
+      "type": 6,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1008",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 12
+    },
+    "10": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_jiangli",
+      "type": 5,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1001",
+          "param2": "4",
+          "id": 20103
+        }
+      },
+      "id": 10
+    },
+    "11": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 2,
+      "icon": "icon_zjm_cbl_jiangli",
+      "type": 5,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "5002",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 11
+    },
+    "3": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 3,
+      "icon": "icon_zjm_cbl_shibing",
+      "type": 1,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1020",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 3
+    },
+    "2": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 2,
+      "icon": "icon_zjm_cbl_shibing",
+      "type": 1,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1020",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 2
+    },
+    "1": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_shibing",
+      "type": 1,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1020",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 1
+    },
+    "7": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 2,
+      "icon": "icon_zjm_cbl_xingcunzhe",
+      "type": 3,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "5008",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 7
+    },
+    "6": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_zhaomu",
+      "type": 3,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "5008",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 6
+    },
+    "5": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_yanjiu",
+      "type": 2,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1010",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 5
+    },
+    "4": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 4,
+      "icon": "icon_zjm_cbl_shibing",
+      "type": 1,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1020",
+          "param2": "1",
+          "id": 20103
+        }
+      },
+      "id": 4
+    },
+    "9": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 2,
+      "icon": "icon_zjm_cbl_zhensuo",
+      "type": 4,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1001",
+          "param2": "11",
+          "id": 20103
+        }
+      },
+      "id": 9
+    },
+    "8": {
+      "groupTitle": "",
+      "extraParam": 0,
+      "subType": 1,
+      "icon": "icon_zjm_cbl_zhaomulan",
+      "type": 4,
+      "subTitle": "",
+      "functionId": "",
+      "precondition": {
+        "1": {
+          "param1": "1001",
+          "param2": "4",
+          "id": 20103
+        }
+      },
+      "id": 8
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "len": 12,
+  "excelName": "Sidebar_侧边栏"
+}

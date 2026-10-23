@@ -1,0 +1,5545 @@
+{
+  "enum": {
+    "SUBID": {
+      "VSPLAYER": 5,
+      "ZONE": 6,
+      "OTHER": 3,
+      "OWN": 1,
+      "ALLY": 2,
+      "LEADER": 4,
+      "NONE": 0
+    }
+  },
+  "key": "id",
+  "excelName": "ModelConfig_模型表",
+  "first": 1007,
+  "isNeedTransform": false,
+  "data": {
+    "1190005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1190005
+    },
+    "1090001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1090001
+    },
+    "1130004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1130004
+    },
+    "1320002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1320002
+    },
+    "1007": {
+      "bottomTS": {
+        "1": 0,
+        "2": -1.8,
+        "3": -10,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss10/k3_Boss10.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": -0.19,
+        "2": -0.13,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 1007
+    },
+    "1290002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1290002
+    },
+    "1013": {
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss_Tank/k3_Zombie_Tank_GPU.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 1013
+    },
+    "1010001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1010001
+    },
+    "1160004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1160004
+    },
+    "1180005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1180005
+    },
+    "1150006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1150006
+    },
+    "1330002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1330002
+    },
+    "1050001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1050001
+    },
+    "1020005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1020005
+    },
+    "1130005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1130005
+    },
+    "1250004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1250004
+    },
+    "1040002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1040002
+    },
+    "60012": {
+      "bottomTS": {
+        "1": 0,
+        "2": -1.8,
+        "3": -10,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss10/k3_Boss10_Weak.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": -0.19,
+        "2": -0.13,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": 140,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 60012
+    },
+    "2020005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2020005
+    },
+    "2020002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2020002
+    },
+    "1100004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1100004
+    },
+    "40004": {
+      "bottomTS": {
+        "1": 0.361,
+        "2": -2.7,
+        "3": -1.44,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 40004
+    },
+    "1310002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1310002
+    },
+    "1170001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1170001
+    },
+    "1200005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1200005
+    },
+    "2030002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2030002
+    },
+    "1012": {
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss4/k3_Boss4.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0.2,
+        "2": -0.31,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 1012
+    },
+    "1020002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1020002
+    },
+    "1080006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1080006
+    },
+    "1220004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1220004
+    },
+    "1040005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1040005
+    },
+    "1030002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1030002
+    },
+    "1090006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1090006
+    },
+    "1230005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1230005
+    },
+    "1120005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1120005
+    },
+    "7002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 7002
+    },
+    "7001": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 41.47,
+        "3": -28.6,
+        "4": 14.3
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 6
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 11.8
+      },
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 7001
+    },
+    "1240006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1240006
+    },
+    "1140002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1140002
+    },
+    "1040001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1040001
+    },
+    "1400006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1400006
+    },
+    "60014": {
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss_Tank/K3_Boss_Tank_Weak_GPU.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": 10,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 60014
+    },
+    "60013": {
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "Prefab/GPUSkin/k3_Boss_Nun/K3_Boss_Nun_Weak.prefab",
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0.2,
+        "2": -0.31,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {
+        "1": -45,
+        "2": 90,
+        "3": -90
+      },
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": true,
+      "id": 60013
+    },
+    "500063": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 500063
+    },
+    "1060002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1060002
+    },
+    "500062": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 500062
+    },
+    "500061": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 500061
+    },
+    "50005": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 50005
+    },
+    "50004": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 50004
+    },
+    "40001": {
+      "bottomTS": {
+        "1": 0.361,
+        "2": -2.7,
+        "3": -1.44,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_congress",
+      "topTS": {
+        "1": 0,
+        "2": 4.9,
+        "3": 0,
+        "4": 4.92
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {
+        "1": 0,
+        "2": 7.4,
+        "3": 0,
+        "4": 6.2
+      },
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 40001
+    },
+    "1170004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1170004
+    },
+    "50002": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 50002
+    },
+    "1120001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1120001
+    },
+    "1020006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1020006
+    },
+    "1190002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1190002
+    },
+    "1200002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1200002
+    },
+    "40005": {
+      "bottomTS": {
+        "1": 0.361,
+        "2": -2.7,
+        "3": -1.44,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 40005
+    },
+    "1360004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1360004
+    },
+    "40003": {
+      "bottomTS": {
+        "1": 0.361,
+        "2": -2.7,
+        "3": -1.44,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 40003
+    },
+    "1310005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1310005
+    },
+    "40002": {
+      "bottomTS": {
+        "1": 0.361,
+        "2": -2.7,
+        "3": -1.44,
+        "4": 0
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "assetPath": "",
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 40002
+    },
+    "1130002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1130002
+    },
+    "1050004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1050004
+    },
+    "50003": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 50003
+    },
+    "1150004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1150004
+    },
+    "1290004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1290004
+    },
+    "1100001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1100001
+    },
+    "1210004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1210004
+    },
+    "1330005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1330005
+    },
+    "2030005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2030005
+    },
+    "1350006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1350006
+    },
+    "1240002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1240002
+    },
+    "1150002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1150002
+    },
+    "1330001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1330001
+    },
+    "1180001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1180001
+    },
+    "2030001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 1.7,
+        "3": 0,
+        "4": 7.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2030001
+    },
+    "1300004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1300004
+    },
+    "1070006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1070006
+    },
+    "1290006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1290006
+    },
+    "1110002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1110002
+    },
+    "2020006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2020006
+    },
+    "1270004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1270004
+    },
+    "1090005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1090005
+    },
+    "1020001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1020001
+    },
+    "2020004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2020004
+    },
+    "1220002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1220002
+    },
+    "1160002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1160002
+    },
+    "1080004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1080004
+    },
+    "1050005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1050005
+    },
+    "2020001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 1.7,
+        "3": 0,
+        "4": 7.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2020001
+    },
+    "1010005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1010005
+    },
+    "2010006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2010006
+    },
+    "2010001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 1.7,
+        "3": 0,
+        "4": 7.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2010001
+    },
+    "2010004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2010004
+    },
+    "1350004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1350004
+    },
+    "2010005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2010005
+    },
+    "1350002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1350002
+    },
+    "2000005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2000005
+    },
+    "1390004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1390004
+    },
+    "1140004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1140004
+    },
+    "1070005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1070005
+    },
+    "1160006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1160006
+    },
+    "2000002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2000002
+    },
+    "2000001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 1.7,
+        "3": 0,
+        "4": 7.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2000001
+    },
+    "1340002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1340002
+    },
+    "1080001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1080001
+    },
+    "1230001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1230001
+    },
+    "1400004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1400004
+    },
+    "1040004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1040004
+    },
+    "1390006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1390006
+    },
+    "1210002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1210002
+    },
+    "1050002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1050002
+    },
+    "1270001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1270001
+    },
+    "1400002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1400002
+    },
+    "1320001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1320001
+    },
+    "1400001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1400001
+    },
+    "1100005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1100005
+    },
+    "1390005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1390005
+    },
+    "1390002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1390002
+    },
+    "1220006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1220006
+    },
+    "1160001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1160001
+    },
+    "1120004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1120004
+    },
+    "1080002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1080002
+    },
+    "1340005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1340005
+    },
+    "1090004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1090004
+    },
+    "1370004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1370004
+    },
+    "1380006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1380006
+    },
+    "1380005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1380005
+    },
+    "1070001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1070001
+    },
+    "1010004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1010004
+    },
+    "1380002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1380002
+    },
+    "1170005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1170005
+    },
+    "1300001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1300001
+    },
+    "1110006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1110006
+    },
+    "1060006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1060006
+    },
+    "1260006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1260006
+    },
+    "1180002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1180002
+    },
+    "1180004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1180004
+    },
+    "1380001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1380001
+    },
+    "1130001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1130001
+    },
+    "1260005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1260005
+    },
+    "1370006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1370006
+    },
+    "1100006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1100006
+    },
+    "1130006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1130006
+    },
+    "1270002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1270002
+    },
+    "1220001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1220001
+    },
+    "1390001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1390001
+    },
+    "1250005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1250005
+    },
+    "1370002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1370002
+    },
+    "1060001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1060001
+    },
+    "1190006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1190006
+    },
+    "1260004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1260004
+    },
+    "1120006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1120006
+    },
+    "1280005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1280005
+    },
+    "1350001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1350001
+    },
+    "1190004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1190004
+    },
+    "1210005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1210005
+    },
+    "1360002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1360002
+    },
+    "1300002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1300002
+    },
+    "1350005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1350005
+    },
+    "1050006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1050006
+    },
+    "2010002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2010002
+    },
+    "1110004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1110004
+    },
+    "1200001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1200001
+    },
+    "2000006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2000006
+    },
+    "1340006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1340006
+    },
+    "1010006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1010006
+    },
+    "1270005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1270005
+    },
+    "1360006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1360006
+    },
+    "1360005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1360005
+    },
+    "1240004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1240004
+    },
+    "1200004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1200004
+    },
+    "1030001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1030001
+    },
+    "2030006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2030006
+    },
+    "1030006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1030006
+    },
+    "1180006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1180006
+    },
+    "1010002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1010002
+    },
+    "1290001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1290001
+    },
+    "1330004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1330004
+    },
+    "1360001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1360001
+    },
+    "1270006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1270006
+    },
+    "1310004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1310004
+    },
+    "1310001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1310001
+    },
+    "1240001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1240001
+    },
+    "1120002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1120002
+    },
+    "1140005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1140005
+    },
+    "1300005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1300005
+    },
+    "1320004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1320004
+    },
+    "1210001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1210001
+    },
+    "1290005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1290005
+    },
+    "1250001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1250001
+    },
+    "1170002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1170002
+    },
+    "1280006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1280006
+    },
+    "1340001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1340001
+    },
+    "1280004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1280004
+    },
+    "1220005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1220005
+    },
+    "1280002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1280002
+    },
+    "1280001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1280001
+    },
+    "1140006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1140006
+    },
+    "1310006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1310006
+    },
+    "1370005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1370005
+    },
+    "1340004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1340004
+    },
+    "1260002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1260002
+    },
+    "1380004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1380004
+    },
+    "1370001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1370001
+    },
+    "1250002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1250002
+    },
+    "1240005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1240005
+    },
+    "1060005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1060005
+    },
+    "1300006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1300006
+    },
+    "1190001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1190001
+    },
+    "1400005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1400005
+    },
+    "1030004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1030004
+    },
+    "1230004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1230004
+    },
+    "1170006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1170006
+    },
+    "2030004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2030004
+    },
+    "1260001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1260001
+    },
+    "1330006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1330006
+    },
+    "1110001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1110001
+    },
+    "1020004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1020004
+    },
+    "1080005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1080005
+    },
+    "50001": {
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -2.1,
+        "4": 0
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_village",
+      "topTS": {
+        "1": 0,
+        "2": 6.3,
+        "3": 0,
+        "4": 4.4
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "subId": 0,
+      "middleTS": {},
+      "bottomConstSize": true,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": true,
+      "middleConstSize": false,
+      "id": 50001
+    },
+    "1150001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1150001
+    },
+    "1250006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1250006
+    },
+    "1320006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1320006
+    },
+    "1230002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1230002
+    },
+    "1070002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1070002
+    },
+    "1110005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1110005
+    },
+    "1150005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1150005
+    },
+    "1320005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1320005
+    },
+    "1060004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1060004
+    },
+    "1030005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1030005
+    },
+    "1040006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1040006
+    },
+    "1210006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1210006
+    },
+    "2000004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.7
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 2000004
+    },
+    "1140001": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_player_1",
+      "topTS": {
+        "1": 0,
+        "2": 0.8,
+        "3": 0,
+        "4": 5.8
+      },
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 4.1
+      },
+      "subId": 1,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1140001
+    },
+    "1160005": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_5",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 5,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1160005
+    },
+    "1100002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1100002
+    },
+    "1090002": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_2",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2.8
+      },
+      "subId": 2,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1090002
+    },
+    "1070004": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_6",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 4,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1070004
+    },
+    "1200006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1200006
+    },
+    "1230006": {
+      "bottomTS": {},
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "assetPath": "Map_icon_playerSmall_4",
+      "topTS": {},
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 3
+      },
+      "subId": 6,
+      "middleTS": {},
+      "bottomConstSize": false,
+      "lookAtFor3D": {},
+      "effectTS": {},
+      "constSize": false,
+      "middleConstSize": false,
+      "id": 1230006
+    }
+  },
+  "len": 241
+}

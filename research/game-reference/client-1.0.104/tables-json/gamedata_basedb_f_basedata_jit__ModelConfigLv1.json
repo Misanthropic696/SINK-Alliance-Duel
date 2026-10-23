@@ -1,0 +1,6960 @@
+{
+  "len": 171,
+  "excelName": "ModelConfig_模型表",
+  "enum": {
+    "SUBID": {
+      "NONE": 0,
+      "OWN": 1,
+      "OTHER": 3,
+      "ALLY": 2
+    }
+  },
+  "key": "id",
+  "isNeedTransform": false,
+  "data": {
+    "10011": {
+      "topTS": {
+        "1": 0,
+        "2": 0.7,
+        "3": -1,
+        "4": 0.75
+      },
+      "assetPath": "Pic_Map_SecretCommand_3",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10011,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "121": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 121,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1005": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_24-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1005,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60011": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "K3_WorldMap_ruins_01",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": -0.045,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60011,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10006": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "pic_ld_datu7",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10006,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60006": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": -0.2,
+        "2": 1,
+        "3": 0,
+        "4": 1.55
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60006,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1025": {
+      "topTS": {
+        "1": 0.12,
+        "2": 0.3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "boss_51",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.3,
+        "3": 0,
+        "4": 0.7
+      },
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1025,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0.2,
+        "2": -0.5,
+        "3": -5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60059": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "world_siqiujianyu",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60059,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1024": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_24-3",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1024,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60017": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_62",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60017,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1016": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_23-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1016,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60058": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_02.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60058,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10017": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "Pic_Map_RadarDig_Box_Component",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10017,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1014": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_18",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1014,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "110": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 110,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10013": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "pic_ld_datu12",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10013,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": -0.2,
+        "2": -1.2,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "109": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 109,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10014": {
+      "topTS": {
+        "1": 0,
+        "2": 0.6,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "pic_ld_datu12",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10014,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": -0.2,
+        "2": -1.2,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60014": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "Prefab/GPUSkin/k3_Boss_Tank/K3_Boss_Tank_Weak_GPU.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60014,
+      "lookAtFor3D": {
+        "1": 10,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1034": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_60",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1034,
+      "lookAtFor3D": {
+        "1": 10,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10010": {
+      "topTS": {
+        "1": 0,
+        "2": 0.7,
+        "3": -1,
+        "4": 0.75
+      },
+      "assetPath": "Pic_Map_SecretCommand_2",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10010,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1017": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_24-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1017,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10008": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "pic_ld_datu10",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10008,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60063": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_07.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60063,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "105": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 105,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10005": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.4
+      },
+      "assetPath": "Pic_Map_Crystalmine",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "205": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_guiyixiaowu",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 205,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "11002": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "Pic_Map_Lumbermill",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": -0.045,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 11002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1004": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_23-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1004,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1013": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_19",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1013,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3004": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "203": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_lianyuzhidi",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 203,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "103": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 103,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "107": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 107,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "139": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 139,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1023": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_24-3",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1023,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "138": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 138,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1021": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_31",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0.05,
+        "2": 0,
+        "3": 0,
+        "4": 0.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1021,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1.5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60064": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_08.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60064,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "111": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 111,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "7002": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": -3.6,
+        "4": 0.35
+      },
+      "assetPath": "",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": false,
+      "id": 7002,
+      "lookAtFor3D": {},
+      "bottomTS": {},
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "215": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_zhuanzhuanbei",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 215,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "1007111": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_30_mudi",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.19,
+        "2": -0.13,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1007111,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.8,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "202": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_shuishanghuati",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 202,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "1002": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_24-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1002,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1031": {
+      "topTS": {},
+      "assetPath": "xiaoguai_team01",
+      "middleConstSize": false,
+      "modelTS": {},
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {},
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": false,
+      "id": 1031,
+      "lookAtFor3D": {},
+      "bottomTS": {},
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "113": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 113,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "213": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_huanxiangzhicheng",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 213,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "1000002": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "xunluobing_02",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1000002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "108": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 108,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10018": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "Pic_Map_RadarDig_Box_Supply",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10018,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "70002": {
+      "topTS": {
+        "1": 0,
+        "2": 0.7,
+        "3": -1,
+        "4": 0.75
+      },
+      "assetPath": "pic_xwc_box_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 70002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1013111": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_19_mudi",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1013111,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "9001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "xiaoguai_24-3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 9001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "125": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 125,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "7001": {
+      "topTS": {
+        "1": 0,
+        "2": 2.9,
+        "3": -2,
+        "4": 0.85
+      },
+      "assetPath": "",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0.5
+      },
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": false,
+      "id": 7001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "140": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 140,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60012": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "Prefab/GPUSkin/k3_Boss10/k3_Boss10_Weak.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.19,
+        "2": -0.13,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60012,
+      "lookAtFor3D": {
+        "1": 140,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.8,
+        "3": -10,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "63001": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 63001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1032": {
+      "topTS": {},
+      "assetPath": "xiaoguai_team01",
+      "middleConstSize": false,
+      "modelTS": {},
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {},
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": false,
+      "id": 1032,
+      "lookAtFor3D": {},
+      "bottomTS": {},
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3008": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3008,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "62004": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "boss_04",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.3,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 62004,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1,
+        "3": -1.5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1008": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "boss_07",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.3,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1008,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1,
+        "3": -1.5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "62003": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_15",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 62003,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "62002": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_12",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 62002,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "62001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_03",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 62001,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "61002": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_61",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.36
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 61002,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60015": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_01.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60015,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "127": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 127,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "61001": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_60_single",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.35
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 61001,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "123": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 123,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "119": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 119,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10015": {
+      "topTS": {
+        "1": 0,
+        "2": 1.55,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "pic_ld_datu8",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": -0.25,
+        "3": 0,
+        "4": 0.4
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.3,
+        "3": 0,
+        "4": 1.2
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10015,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": -0.05,
+        "2": -1.1,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1012111": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_16_mudi",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0.2,
+        "2": -0.31,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1012111,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60062": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_06.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60062,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60061": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_05.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60061,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60010": {
+      "topTS": {
+        "1": 0,
+        "2": -3,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60010,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "134": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 134,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "118": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 118,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "218": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_fuxingshidai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 218,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "10019": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "childrensDay_lihe_prefab",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10019,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": -0.2,
+        "2": -1.2,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60018": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_63",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60018,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60016": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "xiaoguai_09",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60016,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "50001": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_10",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 50001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "131": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 131,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "135": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 135,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1011": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_37",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1011,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.25,
+        "3": -10,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60013": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "Prefab/GPUSkin/k3_Boss_Nun/K3_Boss_Nun_Weak.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0.2,
+        "2": -0.31,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60013,
+      "lookAtFor3D": {
+        "1": -45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1006": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_25-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1006,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "70001": {
+      "topTS": {
+        "1": 0,
+        "2": 0.85,
+        "3": -1,
+        "4": 1.2
+      },
+      "assetPath": "Prefab/GPUSkin/k3_Effects_liwuxiang/K3_Effects_liwuxiang_01.prefab",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {},
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 70001,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3006": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3006,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1041": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "world_shiguiqinxi",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.27,
+        "2": 0.04,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1041,
+      "lookAtFor3D": {
+        "1": 10,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60060": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "WorldMap/Prefab/Building/K3_WorldMap_HospitalRuins_04.prefab",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60060,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_23-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1001,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "500062": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_62",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 500062,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.4
+      },
+      "assetPath": "pic_sjss_cj1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "40005": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "build_paotai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 40005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "50005": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_50",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 50005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1000001": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "xunluobing_01",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1000001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10012": {
+      "topTS": {
+        "1": 0,
+        "2": 0.7,
+        "3": -1,
+        "4": 0.75
+      },
+      "assetPath": "Pic_Map_SecretCommand_4",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10012,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60008": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": -0.2,
+        "2": 1,
+        "3": 0,
+        "4": 1.25
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60008,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1010": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_10",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.5,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1010,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.1,
+        "3": -5,
+        "4": 1.1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "133": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 133,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1009": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_10",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0.2,
+        "2": 0,
+        "3": 0,
+        "4": 0.5
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1009,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1.2
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60005": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": -0.2,
+        "2": 1.5,
+        "3": 0,
+        "4": 1.2
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60004": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 1.5,
+        "3": 0,
+        "4": 1.2
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60003": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 1.5,
+        "3": 0,
+        "4": 1.2
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60002": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": -0.28,
+        "2": 2.74,
+        "3": 0,
+        "4": 1.2
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60001": {
+      "topTS": {},
+      "assetPath": "Castle",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {},
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60001,
+      "lookAtFor3D": {},
+      "bottomTS": {},
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "500063": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_63",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 500063,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60009": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60009,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3007": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3007,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "500061": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_61",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 500061,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1033": {
+      "topTS": {},
+      "assetPath": "xiaoguai_team01",
+      "middleConstSize": false,
+      "modelTS": {},
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {},
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": false,
+      "id": 1033,
+      "lookAtFor3D": {},
+      "bottomTS": {},
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1019": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_48",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1019,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "50004": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_40",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 50004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "219": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_fuxingshidai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 219,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "201": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_nvxing",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 201,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "101": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 101,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10016": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "Pic_Map_RadarDig_Box_Diamond",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10016,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "40001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_wangcheng",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0.6
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 40001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.5
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.5
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "220": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_zhongqiu",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 220,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "1012": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_16",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0.2,
+        "2": -0.31,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1012,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -2.25,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "132": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 132,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "116": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 116,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "40004": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "build_paotai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 40004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3001": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "40002": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "build_paotai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 40002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "11001": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "Pic_Map_Farm",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 11001,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "216": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_gonghuiliansai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 216,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "50002": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_20",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 50002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3005": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "122": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 122,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1007": {
+      "topTS": {
+        "1": 0,
+        "2": 2.5,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "boss_30",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.19,
+        "2": -0.13,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1007,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.8,
+        "3": -10,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10003": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.4
+      },
+      "assetPath": "pic_sjss_cj3",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10004": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.4
+      },
+      "assetPath": "Pic_Map_Smeltingfurnace",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3002": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.8
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "40003": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "build_paotai",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 40003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "50003": {
+      "topTS": {
+        "1": 0,
+        "2": 3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "build_chengshi_30",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0.75,
+        "3": 0,
+        "4": 0.75
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 50003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.8,
+        "3": -1.7,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "217": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_haidaochuan",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 217,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "204": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_huanxiangzhicheng",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 204,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "214": {
+      "topTS": {
+        "1": 0,
+        "2": -1.2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_pifu_lvyexianzong",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 214,
+      "lookAtFor3D": {
+        "1": 1,
+        "2": -1,
+        "3": 45
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": true,
+      "subId": 0
+    },
+    "114": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 114,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1022": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_45",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": -0.5,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1022,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.1,
+        "3": -5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "137": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 137,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "136": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 136,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "124": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 124,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "60007": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "assetPath": "",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": -0.2,
+        "2": 1,
+        "3": 0,
+        "4": 1.25
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 60007,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": 0,
+        "3": -1,
+        "4": 0
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "11005": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "Pic_Map_Crystalmine",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 11005,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "128": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 128,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10002": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 0.4
+      },
+      "assetPath": "pic_sjss_cj2",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": false,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10002,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "126": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 126,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10007": {
+      "topTS": {
+        "1": 0,
+        "2": 1.2,
+        "3": 0,
+        "4": 1.35
+      },
+      "assetPath": "pic_ld_datu11",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10007,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "130": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_4",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 130,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "3003": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": -1,
+        "4": 1
+      },
+      "assetPath": "Pic_Map_SecretCommand_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 3003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.5,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "120": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 120,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "117": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 117,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "11004": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "Pic_Map_Smeltingfurnace",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 11004,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "115": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 115,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "112": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_2",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 112,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "62005": {
+      "topTS": {
+        "1": 0,
+        "2": 1,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "boss_03",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 62005,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "106": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 106,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "104": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 104,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "11003": {
+      "topTS": {
+        "1": 0,
+        "2": 1.25,
+        "3": 0,
+        "4": 0.7
+      },
+      "assetPath": "Pic_Map_Quarry",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0.1,
+        "2": 0.1,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 11003,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1020": {
+      "topTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 0
+      },
+      "assetPath": "Pic_Map_Alliance_Gate",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.5
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1020,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -1.25,
+        "3": -10,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "102": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_1",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 102,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1018": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_25-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1018,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1015": {
+      "topTS": {
+        "1": 0.12,
+        "2": 0.3,
+        "3": 0,
+        "4": 0.5
+      },
+      "assetPath": "boss_58",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.3,
+        "3": 0,
+        "4": 0.7
+      },
+      "topConstSize": false,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1015,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0.2,
+        "2": -0.5,
+        "3": -5,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "129": {
+      "topTS": {
+        "1": 0,
+        "2": 2,
+        "3": 0,
+        "4": 1
+      },
+      "assetPath": "build_castle_3",
+      "middleConstSize": true,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 129,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -1.3,
+        "3": 0,
+        "4": 1
+      },
+      "middleTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "isAnimated": false,
+      "subId": 0
+    },
+    "1003": {
+      "topTS": {
+        "1": 0,
+        "2": 1.3,
+        "3": 0,
+        "4": 0.8
+      },
+      "assetPath": "xiaoguai_25-1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": -0.1,
+        "3": 0,
+        "4": 0.43
+      },
+      "topConstSize": true,
+      "atlas": "",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": false,
+      "menuTS": {},
+      "constSize": true,
+      "id": 1003,
+      "lookAtFor3D": {
+        "1": 45,
+        "2": 90,
+        "3": -90
+      },
+      "bottomTS": {
+        "1": 0,
+        "2": -0.6,
+        "3": -1,
+        "4": 0.3
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    },
+    "10009": {
+      "topTS": {
+        "1": 0,
+        "2": 0.7,
+        "3": -1,
+        "4": 0.75
+      },
+      "assetPath": "Pic_Map_SecretCommand_1",
+      "middleConstSize": false,
+      "modelTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1.6
+      },
+      "topConstSize": true,
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "effectTS": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "bottomConstSize": true,
+      "menuTS": {},
+      "constSize": true,
+      "id": 10009,
+      "lookAtFor3D": {},
+      "bottomTS": {
+        "1": 0,
+        "2": -0.4,
+        "3": -1,
+        "4": 1
+      },
+      "middleTS": {},
+      "isAnimated": false,
+      "subId": 0
+    }
+  },
+  "first": 101
+}

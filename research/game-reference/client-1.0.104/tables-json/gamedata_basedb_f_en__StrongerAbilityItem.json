@@ -1,0 +1,27 @@
+{
+  "data": {
+    "5": {
+      "desc": "Raven",
+      "id": 5
+    },
+    "4": {
+      "desc": "Technology",
+      "id": 4
+    },
+    "3": {
+      "desc": "Building",
+      "id": 3
+    },
+    "2": {
+      "desc": "Soldier",
+      "id": 2
+    },
+    "1": {
+      "desc": "Hero",
+      "id": 1
+    }
+  },
+  "len": 5,
+  "key": "id",
+  "source_format": "locale rows"
+}

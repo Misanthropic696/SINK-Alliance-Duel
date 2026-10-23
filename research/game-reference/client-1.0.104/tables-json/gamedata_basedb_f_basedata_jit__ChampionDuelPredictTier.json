@@ -1,0 +1,42 @@
+{
+  "isNeedTransform": false,
+  "len": 3,
+  "excelName": "Activity_ChampionDuel_冠军对决",
+  "first": 1001,
+  "key": "id",
+  "data": {
+    "1001": {
+      "id": 1001,
+      "stakeCost": {
+        "1": {
+          "id": "recluse_coin",
+          "type": 99,
+          "count": 50
+        }
+      },
+      "activityId": 610010001
+    },
+    "1002": {
+      "id": 1002,
+      "stakeCost": {
+        "1": {
+          "id": "recluse_coin",
+          "type": 99,
+          "count": 75
+        }
+      },
+      "activityId": 610010001
+    },
+    "1003": {
+      "id": 1003,
+      "stakeCost": {
+        "1": {
+          "id": "recluse_coin",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "activityId": 610010001
+    }
+  }
+}

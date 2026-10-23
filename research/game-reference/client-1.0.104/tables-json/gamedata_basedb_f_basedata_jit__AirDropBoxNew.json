@@ -1,0 +1,117 @@
+{
+  "len": 4,
+  "first": 203,
+  "excelName": "Activity_AirDrop_New_空投召唤",
+  "key": "id",
+  "isNeedTransform": false,
+  "data": {
+    "204": {
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_optionalBox_Resource4",
+          "count": 1
+        }
+      },
+      "rewardCrit": 5,
+      "icon": "icon_bjzhicon_jxqyng03",
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_airDrop_showBox_green",
+          "count": 1
+        }
+      },
+      "random": {
+        "1": {
+          "id": 204,
+          "weight": 12
+        }
+      },
+      "boxType": "Z_piaoliubaoxiang_blue",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "id": 204
+    },
+    "205": {
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_drone_data_10k",
+          "count": 10
+        }
+      },
+      "rewardCrit": 5,
+      "icon": "icon_bjzhicon_jxqyng03",
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_airDrop_showBox_green",
+          "count": 1
+        }
+      },
+      "random": {
+        "1": {
+          "id": 205,
+          "weight": 12
+        }
+      },
+      "boxType": "Z_piaoliubaoxiang_blue",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "id": 205
+    },
+    "206": {
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 20
+        }
+      },
+      "rewardCrit": 5,
+      "icon": "icon_bjzhicon_jxqyng03",
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_airDrop_showBox_green",
+          "count": 1
+        }
+      },
+      "random": {
+        "1": {
+          "id": 206,
+          "weight": 12
+        }
+      },
+      "boxType": "Z_piaoliubaoxiang_blue",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "id": 206
+    },
+    "203": {
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 1
+        }
+      },
+      "rewardCrit": 5,
+      "icon": "icon_bjzhicon_jxqyng03",
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_airDrop_showBox_green",
+          "count": 1
+        }
+      },
+      "random": {
+        "1": {
+          "id": 203,
+          "weight": 12
+        }
+      },
+      "boxType": "Z_piaoliubaoxiang_blue",
+      "atlas": "SpriteAtlas/UI_Activity.spriteatlas",
+      "id": 203
+    }
+  }
+}

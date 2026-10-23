@@ -1,0 +1,37 @@
+{
+  "len": 1,
+  "data": {
+    "1": {
+      "heroId": 30006,
+      "activityId": 998010101,
+      "challengeNum": 3,
+      "actDes": "",
+      "heroBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Type": 10006,
+          "Source": 501
+        },
+        "2": {
+          "Value": 0.1,
+          "Type": 10007,
+          "Source": 501
+        },
+        "3": {
+          "Value": 0.1,
+          "Type": 10005,
+          "Source": 501
+        }
+      },
+      "leaderBoardId": 998030101,
+      "conditionNum": 10,
+      "maxMarchTime": 15,
+      "singleDamageRank": 10,
+      "id": 1
+    }
+  },
+  "key": "id",
+  "first": 1,
+  "excelName": "UnionExpedition_联盟远征",
+  "isNeedTransform": true
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "1": {
+      "firstKillRewardTimes": 1,
+      "refreshCount": 10,
+      "activityId": 0,
+      "refreshInterval": 600,
+      "refreshGroup": 1001,
+      "id": 1,
+      "attackLimit": 1,
+      "wanderingMonsterSpawnLimit": 50,
+      "taskGroup": 0
+    },
+    "2": {
+      "firstKillRewardTimes": 3,
+      "refreshCount": 10,
+      "activityId": 450010701,
+      "refreshInterval": 600,
+      "refreshGroup": 1002,
+      "id": 2,
+      "attackLimit": 2,
+      "wanderingMonsterSpawnLimit": 70,
+      "taskGroup": 4500107
+    }
+  },
+  "key": "id",
+  "excelName": "World_WanderBOSS_大世界游荡怪",
+  "isNeedTransform": false,
+  "len": 2,
+  "first": 1
+}

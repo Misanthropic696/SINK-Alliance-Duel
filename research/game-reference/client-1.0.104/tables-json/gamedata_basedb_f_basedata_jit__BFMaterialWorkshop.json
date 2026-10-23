@@ -1,0 +1,249 @@
+{
+  "key": "id",
+  "len": 30,
+  "data": {
+    "4": {
+      "fillTime": 300,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 15,
+      "id": 4,
+      "productMaxTime": 30720
+    },
+    "5": {
+      "fillTime": 225,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 17,
+      "id": 5,
+      "productMaxTime": 31200
+    },
+    "6": {
+      "fillTime": 200,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 19,
+      "id": 6,
+      "productMaxTime": 31680
+    },
+    "7": {
+      "fillTime": 164,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 23,
+      "id": 7,
+      "productMaxTime": 32160
+    },
+    "13": {
+      "fillTime": 90,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 42,
+      "id": 13,
+      "productMaxTime": 35040
+    },
+    "12": {
+      "fillTime": 100,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 39,
+      "id": 12,
+      "productMaxTime": 34560
+    },
+    "11": {
+      "fillTime": 106,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 35,
+      "id": 11,
+      "productMaxTime": 34080
+    },
+    "10": {
+      "fillTime": 120,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 32,
+      "id": 10,
+      "productMaxTime": 33600
+    },
+    "9": {
+      "fillTime": 129,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 29,
+      "id": 9,
+      "productMaxTime": 33120
+    },
+    "8": {
+      "fillTime": 150,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 26,
+      "id": 8,
+      "productMaxTime": 32640
+    },
+    "30": {
+      "fillTime": 40,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 91,
+      "id": 30,
+      "productMaxTime": 43200
+    },
+    "20": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 63,
+      "id": 20,
+      "productMaxTime": 38400
+    },
+    "29": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 89,
+      "id": 29,
+      "productMaxTime": 42720
+    },
+    "28": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 87,
+      "id": 28,
+      "productMaxTime": 42240
+    },
+    "16": {
+      "fillTime": 75,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 49,
+      "id": 16,
+      "productMaxTime": 36480
+    },
+    "17": {
+      "fillTime": 75,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 53,
+      "id": 17,
+      "productMaxTime": 36960
+    },
+    "14": {
+      "fillTime": 86,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 44,
+      "id": 14,
+      "productMaxTime": 35520
+    },
+    "15": {
+      "fillTime": 79,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 48,
+      "id": 15,
+      "productMaxTime": 36000
+    },
+    "19": {
+      "fillTime": 75,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 60,
+      "id": 19,
+      "productMaxTime": 37920
+    },
+    "18": {
+      "fillTime": 75,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 55,
+      "id": 18,
+      "productMaxTime": 37440
+    },
+    "27": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 85,
+      "id": 27,
+      "productMaxTime": 41760
+    },
+    "26": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 79,
+      "id": 26,
+      "productMaxTime": 41280
+    },
+    "25": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 77,
+      "id": 25,
+      "productMaxTime": 40800
+    },
+    "24": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 74,
+      "id": 24,
+      "productMaxTime": 40320
+    },
+    "23": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 71,
+      "id": 23,
+      "productMaxTime": 39840
+    },
+    "22": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 68,
+      "id": 22,
+      "productMaxTime": 39360
+    },
+    "21": {
+      "fillTime": 60,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 65,
+      "id": 21,
+      "productMaxTime": 38880
+    },
+    "1": {
+      "fillTime": 900,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 5,
+      "id": 1,
+      "productMaxTime": 29280
+    },
+    "2": {
+      "fillTime": 600,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 8,
+      "id": 2,
+      "productMaxTime": 29760
+    },
+    "3": {
+      "fillTime": 360,
+      "itemId": "item_equip_produce_materials_01",
+      "minTime": 1800,
+      "speed": 11,
+      "id": 3,
+      "productMaxTime": 30240
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BuildingFunction_建筑功能"
+}

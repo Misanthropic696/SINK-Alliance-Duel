@@ -1,0 +1,75 @@
+{
+  "data": {
+    "1": {
+      "id": 1,
+      "faq": "Hero Deployment:\n1. Up to 5 heroes can be deployed to each formation.\n2. Deployed heroes can activate faction effects.\n3. Deployed heroes can influence Soldier Morale.\n4. The squad's might will be higher when all heroes are deployed.",
+      "title": "Insufficient Heroes deployed!"
+    },
+    "22": {
+      "title": "What rotten luck. The enemy inflicted {0} stuns in this battle, exerting strong control.",
+      "id": 22
+    },
+    "4": {
+      "id": 4,
+      "faq": "Hero Classes:\n1. Heroes are categorized into 3 classes: Tank, DPS, and Support.\n2. Tank heroes can soak up more damage. Placing them in the front row best utilizes their role.",
+      "title": "Place tank Heroes in the front row!"
+    },
+    "18": {
+      "id": 18,
+      "title": "[c][feed89]Sanctuary Level[-][/c] significantly increased",
+      "title2": "Sanctuary Level"
+    },
+    "2": {
+      "id": 2,
+      "faq": "Faction Advantage:\n1. Heroes are divided into 3 types: Warrior, Warlock, Ranger.\n2. Their countering relationships:\nWarrior takes 20% less damage from Warlock\nWarlock takes 20% less damage from Ranger\nRanger takes 20% less damage from Warrior.",
+      "title": "Hero countered!"
+    },
+    "3": {
+      "id": 3,
+      "faq": "Soldier Morale:\n1. The side with higher morale in combat gains a damage bonus.\n2. Morale is influenced by each deployed soldier.\n3. Increase soldier capacity, upgrade soldier level, and advance technology to raise the morale cap.",
+      "title": "[c][e47514]Soldier Morale[-][/c] significantly increased"
+    },
+    "15": {
+      "id": 15,
+      "title": "[c][feed89]Hero Stars[-][/c] significantly increased",
+      "title2": "Hero Stars"
+    },
+    "14": {
+      "id": 14,
+      "title": "[c][feed89]Tech[-][/c] significantly increased",
+      "title2": "Tech Might"
+    },
+    "13": {
+      "id": 13,
+      "title": "[c][feed89]Gear Might[-][/c] significantly increased",
+      "title2": "Gear Might"
+    },
+    "12": {
+      "id": 12,
+      "title": "[c][feed89]Hero Skill[-][/c] significantly increased",
+      "title2": "Average Skill Level"
+    },
+    "21": {
+      "title": "What rotten luck. The enemy dealt a {0}% critical hit in this battle, causing massive damage.",
+      "id": 21
+    },
+    "17": {
+      "id": 17,
+      "title": "[c][feed89]Raven Might[-][/c] significantly increased",
+      "title2": "Raven Level"
+    },
+    "16": {
+      "id": 16,
+      "title": "[c][feed89]Soldier Might[-][/c] significantly increased",
+      "title2": "Soldier Level"
+    },
+    "11": {
+      "id": 11,
+      "title": "[c][feed89]Hero Level[-][/c] significantly increased",
+      "title2": "Average Hero Level"
+    }
+  },
+  "len": 14,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,137 @@
+{
+  "data": {
+    "4": {
+      "skillEffect": 3,
+      "skillEDescribe": "",
+      "id": 4,
+      "icon": "",
+      "upgradeSpend": 40,
+      "skillType": 3
+    },
+    "10": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 10,
+      "icon": "",
+      "upgradeSpend": 480,
+      "skillType": 2
+    },
+    "11": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 11,
+      "icon": "",
+      "upgradeSpend": 720,
+      "skillType": 4
+    },
+    "12": {
+      "skillEffect": 1,
+      "skillEDescribe": "",
+      "id": 12,
+      "icon": "",
+      "upgradeSpend": 960,
+      "skillType": 3
+    },
+    "16": {
+      "skillEffect": 1,
+      "skillEDescribe": "",
+      "id": 16,
+      "icon": "",
+      "upgradeSpend": 1920,
+      "skillType": 3
+    },
+    "15": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 15,
+      "icon": "",
+      "upgradeSpend": 1680,
+      "skillType": 4
+    },
+    "14": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 14,
+      "icon": "",
+      "upgradeSpend": 1440,
+      "skillType": 2
+    },
+    "1": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 1,
+      "icon": "",
+      "upgradeSpend": 10,
+      "skillType": 1
+    },
+    "13": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 13,
+      "icon": "",
+      "upgradeSpend": 1200,
+      "skillType": 1
+    },
+    "5": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 5,
+      "icon": "",
+      "upgradeSpend": 80,
+      "skillType": 1
+    },
+    "3": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 3,
+      "icon": "",
+      "upgradeSpend": 30,
+      "skillType": 4
+    },
+    "6": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 6,
+      "icon": "",
+      "upgradeSpend": 120,
+      "skillType": 2
+    },
+    "8": {
+      "skillEffect": 1,
+      "skillEDescribe": "",
+      "id": 8,
+      "icon": "",
+      "upgradeSpend": 200,
+      "skillType": 3
+    },
+    "7": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 7,
+      "icon": "",
+      "upgradeSpend": 160,
+      "skillType": 4
+    },
+    "2": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 2,
+      "icon": "",
+      "upgradeSpend": 20,
+      "skillType": 2
+    },
+    "9": {
+      "skillEffect": 500,
+      "skillEDescribe": "",
+      "id": 9,
+      "icon": "",
+      "upgradeSpend": 240,
+      "skillType": 1
+    }
+  },
+  "len": 16,
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "Clinic_诊所"
+}

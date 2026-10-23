@@ -1,0 +1,30 @@
+{
+  "key": "id",
+  "len": 1,
+  "excelName": "Activity_Vip特惠",
+  "isNeedTransform": true,
+  "first": 1,
+  "data": {
+    "1": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_castleBox_Food_2",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_castleBox_Metal_2",
+          "count": 1
+        },
+        "3": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 1
+        }
+      },
+      "vipFreeGiftName": "",
+      "id": 1
+    }
+  }
+}

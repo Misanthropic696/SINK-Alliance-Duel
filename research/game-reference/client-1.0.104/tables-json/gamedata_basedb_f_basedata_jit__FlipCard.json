@@ -1,0 +1,1609 @@
+{
+  "len": 200,
+  "first": 1,
+  "data": {
+    "39": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 39,
+      "maximum": 6,
+      "floor": 39,
+      "basicRewards": 1001
+    },
+    "49": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 49,
+      "maximum": 6,
+      "floor": 49,
+      "basicRewards": 1001
+    },
+    "19": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 19,
+      "maximum": 6,
+      "floor": 19,
+      "basicRewards": 1001
+    },
+    "29": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 29,
+      "maximum": 6,
+      "floor": 29,
+      "basicRewards": 1001
+    },
+    "155": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 155,
+      "maximum": 11,
+      "floor": 155,
+      "basicRewards": 1001
+    },
+    "166": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 166,
+      "maximum": 6,
+      "floor": 166,
+      "basicRewards": 1001
+    },
+    "139": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 139,
+      "maximum": 6,
+      "floor": 139,
+      "basicRewards": 1001
+    },
+    "171": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 171,
+      "maximum": 6,
+      "floor": 171,
+      "basicRewards": 1001
+    },
+    "11": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 11,
+      "maximum": 6,
+      "floor": 11,
+      "basicRewards": 1001
+    },
+    "21": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 21,
+      "maximum": 6,
+      "floor": 21,
+      "basicRewards": 1001
+    },
+    "133": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 133,
+      "maximum": 9,
+      "floor": 133,
+      "basicRewards": 1001
+    },
+    "134": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 134,
+      "maximum": 6,
+      "floor": 134,
+      "basicRewards": 1001
+    },
+    "91": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 91,
+      "maximum": 4,
+      "floor": 91,
+      "basicRewards": 1001
+    },
+    "71": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 71,
+      "maximum": 6,
+      "floor": 71,
+      "basicRewards": 1001
+    },
+    "81": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 81,
+      "maximum": 4,
+      "floor": 81,
+      "basicRewards": 1001
+    },
+    "157": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 157,
+      "maximum": 7,
+      "floor": 157,
+      "basicRewards": 1001
+    },
+    "130": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 130,
+      "maximum": 11,
+      "floor": 130,
+      "basicRewards": 1001
+    },
+    "79": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 79,
+      "maximum": 6,
+      "floor": 79,
+      "basicRewards": 1001
+    },
+    "89": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 89,
+      "maximum": 6,
+      "floor": 89,
+      "basicRewards": 1001
+    },
+    "178": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 178,
+      "maximum": 9,
+      "floor": 178,
+      "basicRewards": 1001
+    },
+    "69": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 69,
+      "maximum": 6,
+      "floor": 69,
+      "basicRewards": 1001
+    },
+    "161": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 161,
+      "maximum": 6,
+      "floor": 161,
+      "basicRewards": 1001
+    },
+    "156": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 156,
+      "maximum": 6,
+      "floor": 156,
+      "basicRewards": 1001
+    },
+    "42": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 42,
+      "maximum": 5,
+      "floor": 42,
+      "basicRewards": 1001
+    },
+    "129": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 129,
+      "maximum": 6,
+      "floor": 129,
+      "basicRewards": 1001
+    },
+    "62": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 62,
+      "maximum": 7,
+      "floor": 62,
+      "basicRewards": 1001
+    },
+    "152": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 152,
+      "maximum": 7,
+      "floor": 152,
+      "basicRewards": 1001
+    },
+    "22": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 22,
+      "maximum": 7,
+      "floor": 22,
+      "basicRewards": 1001
+    },
+    "12": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 12,
+      "maximum": 7,
+      "floor": 12,
+      "basicRewards": 1001
+    },
+    "128": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 128,
+      "maximum": 9,
+      "floor": 128,
+      "basicRewards": 1001
+    },
+    "124": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 124,
+      "maximum": 6,
+      "floor": 124,
+      "basicRewards": 1001
+    },
+    "163": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 163,
+      "maximum": 9,
+      "floor": 163,
+      "basicRewards": 1001
+    },
+    "82": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 82,
+      "maximum": 7,
+      "floor": 82,
+      "basicRewards": 1001
+    },
+    "72": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 72,
+      "maximum": 7,
+      "floor": 72,
+      "basicRewards": 1001
+    },
+    "92": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 92,
+      "maximum": 7,
+      "floor": 92,
+      "basicRewards": 1001
+    },
+    "160": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 160,
+      "maximum": 11,
+      "floor": 160,
+      "basicRewards": 1001
+    },
+    "147": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 147,
+      "maximum": 7,
+      "floor": 147,
+      "basicRewards": 1001
+    },
+    "146": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 146,
+      "maximum": 6,
+      "floor": 146,
+      "basicRewards": 1001
+    },
+    "175": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 175,
+      "maximum": 11,
+      "floor": 175,
+      "basicRewards": 1001
+    },
+    "159": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 159,
+      "maximum": 6,
+      "floor": 159,
+      "basicRewards": 1001
+    },
+    "111": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 111,
+      "maximum": 6,
+      "floor": 111,
+      "basicRewards": 1001
+    },
+    "142": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 142,
+      "maximum": 7,
+      "floor": 142,
+      "basicRewards": 1001
+    },
+    "191": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 191,
+      "maximum": 6,
+      "floor": 191,
+      "basicRewards": 1001
+    },
+    "53": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 53,
+      "maximum": 9,
+      "floor": 53,
+      "basicRewards": 1001
+    },
+    "63": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 63,
+      "maximum": 9,
+      "floor": 63,
+      "basicRewards": 1001
+    },
+    "13": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 13,
+      "maximum": 9,
+      "floor": 13,
+      "basicRewards": 1001
+    },
+    "23": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 23,
+      "maximum": 9,
+      "floor": 23,
+      "basicRewards": 1001
+    },
+    "190": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 190,
+      "maximum": 11,
+      "floor": 190,
+      "basicRewards": 1001
+    },
+    "177": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 177,
+      "maximum": 7,
+      "floor": 177,
+      "basicRewards": 1001
+    },
+    "114": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 114,
+      "maximum": 6,
+      "floor": 114,
+      "basicRewards": 1001
+    },
+    "73": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 73,
+      "maximum": 9,
+      "floor": 73,
+      "basicRewards": 1001
+    },
+    "83": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 83,
+      "maximum": 9,
+      "floor": 83,
+      "basicRewards": 1001
+    },
+    "93": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 93,
+      "maximum": 9,
+      "floor": 93,
+      "basicRewards": 1001
+    },
+    "194": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 194,
+      "maximum": 6,
+      "floor": 194,
+      "basicRewards": 1001
+    },
+    "158": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 158,
+      "maximum": 9,
+      "floor": 158,
+      "basicRewards": 1001
+    },
+    "110": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 110,
+      "maximum": 11,
+      "floor": 110,
+      "basicRewards": 1001
+    },
+    "14": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 14,
+      "maximum": 6,
+      "floor": 14,
+      "basicRewards": 1001
+    },
+    "136": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 136,
+      "maximum": 6,
+      "floor": 136,
+      "basicRewards": 1001
+    },
+    "165": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 165,
+      "maximum": 11,
+      "floor": 165,
+      "basicRewards": 1001
+    },
+    "101": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 101,
+      "maximum": 6,
+      "floor": 101,
+      "basicRewards": 1001
+    },
+    "44": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 44,
+      "maximum": 6,
+      "floor": 44,
+      "basicRewards": 1001
+    },
+    "34": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 34,
+      "maximum": 6,
+      "floor": 34,
+      "basicRewards": 1001
+    },
+    "24": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 24,
+      "maximum": 6,
+      "floor": 24,
+      "basicRewards": 1001
+    },
+    "132": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 132,
+      "maximum": 7,
+      "floor": 132,
+      "basicRewards": 1001
+    },
+    "181": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 181,
+      "maximum": 6,
+      "floor": 181,
+      "basicRewards": 1001
+    },
+    "149": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 149,
+      "maximum": 6,
+      "floor": 149,
+      "basicRewards": 1001
+    },
+    "167": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 167,
+      "maximum": 7,
+      "floor": 167,
+      "basicRewards": 1001
+    },
+    "108": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 108,
+      "maximum": 9,
+      "floor": 108,
+      "basicRewards": 1001
+    },
+    "104": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 104,
+      "maximum": 6,
+      "floor": 104,
+      "basicRewards": 1001
+    },
+    "103": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 103,
+      "maximum": 9,
+      "floor": 103,
+      "basicRewards": 1001
+    },
+    "183": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 183,
+      "maximum": 9,
+      "floor": 183,
+      "basicRewards": 1001
+    },
+    "184": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 184,
+      "maximum": 6,
+      "floor": 184,
+      "basicRewards": 1001
+    },
+    "140": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 140,
+      "maximum": 11,
+      "floor": 140,
+      "basicRewards": 1001
+    },
+    "64": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 64,
+      "maximum": 6,
+      "floor": 64,
+      "basicRewards": 1001
+    },
+    "188": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 188,
+      "maximum": 9,
+      "floor": 188,
+      "basicRewards": 1001
+    },
+    "126": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 126,
+      "maximum": 6,
+      "floor": 126,
+      "basicRewards": 1001
+    },
+    "15": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 15,
+      "maximum": 11,
+      "floor": 15,
+      "basicRewards": 1001
+    },
+    "131": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 131,
+      "maximum": 6,
+      "floor": 131,
+      "basicRewards": 1001
+    },
+    "45": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 45,
+      "maximum": 8,
+      "floor": 45,
+      "basicRewards": 1001
+    },
+    "1": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 1,
+      "maximum": 6,
+      "floor": 1,
+      "basicRewards": 1001
+    },
+    "2": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 2,
+      "maximum": 7,
+      "floor": 2,
+      "basicRewards": 1001
+    },
+    "179": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 179,
+      "maximum": 6,
+      "floor": 179,
+      "basicRewards": 1001
+    },
+    "4": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 4,
+      "maximum": 6,
+      "floor": 4,
+      "basicRewards": 1001
+    },
+    "5": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 5,
+      "maximum": 11,
+      "floor": 5,
+      "basicRewards": 1001
+    },
+    "6": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 6,
+      "maximum": 6,
+      "floor": 6,
+      "basicRewards": 1001
+    },
+    "115": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 115,
+      "maximum": 11,
+      "floor": 115,
+      "basicRewards": 1001
+    },
+    "8": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 8,
+      "maximum": 9,
+      "floor": 8,
+      "basicRewards": 1001
+    },
+    "122": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 122,
+      "maximum": 7,
+      "floor": 122,
+      "basicRewards": 1001
+    },
+    "99": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 99,
+      "maximum": 6,
+      "floor": 99,
+      "basicRewards": 1001
+    },
+    "162": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 162,
+      "maximum": 7,
+      "floor": 162,
+      "basicRewards": 1001
+    },
+    "170": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 170,
+      "maximum": 11,
+      "floor": 170,
+      "basicRewards": 1001
+    },
+    "138": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 138,
+      "maximum": 9,
+      "floor": 138,
+      "basicRewards": 1001
+    },
+    "97": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 97,
+      "maximum": 7,
+      "floor": 97,
+      "basicRewards": 1001
+    },
+    "59": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 59,
+      "maximum": 6,
+      "floor": 59,
+      "basicRewards": 1001
+    },
+    "95": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 95,
+      "maximum": 10,
+      "floor": 95,
+      "basicRewards": 1001
+    },
+    "94": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 94,
+      "maximum": 4,
+      "floor": 94,
+      "basicRewards": 1001
+    },
+    "85": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 85,
+      "maximum": 10,
+      "floor": 85,
+      "basicRewards": 1001
+    },
+    "117": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 117,
+      "maximum": 7,
+      "floor": 117,
+      "basicRewards": 1001
+    },
+    "174": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 174,
+      "maximum": 6,
+      "floor": 174,
+      "basicRewards": 1001
+    },
+    "75": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 75,
+      "maximum": 8,
+      "floor": 75,
+      "basicRewards": 1001
+    },
+    "185": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 185,
+      "maximum": 11,
+      "floor": 185,
+      "basicRewards": 1001
+    },
+    "9": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 9,
+      "maximum": 6,
+      "floor": 9,
+      "basicRewards": 1001
+    },
+    "88": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 88,
+      "maximum": 9,
+      "floor": 88,
+      "basicRewards": 1001
+    },
+    "36": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 36,
+      "maximum": 6,
+      "floor": 36,
+      "basicRewards": 1001
+    },
+    "116": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 116,
+      "maximum": 6,
+      "floor": 116,
+      "basicRewards": 1001
+    },
+    "86": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 86,
+      "maximum": 4,
+      "floor": 86,
+      "basicRewards": 1001
+    },
+    "16": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 16,
+      "maximum": 6,
+      "floor": 16,
+      "basicRewards": 1001
+    },
+    "84": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 84,
+      "maximum": 6,
+      "floor": 84,
+      "basicRewards": 1001
+    },
+    "169": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 169,
+      "maximum": 6,
+      "floor": 169,
+      "basicRewards": 1001
+    },
+    "26": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 26,
+      "maximum": 6,
+      "floor": 26,
+      "basicRewards": 1001
+    },
+    "121": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 121,
+      "maximum": 6,
+      "floor": 121,
+      "basicRewards": 1001
+    },
+    "46": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 46,
+      "maximum": 6,
+      "floor": 46,
+      "basicRewards": 1001
+    },
+    "182": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 182,
+      "maximum": 7,
+      "floor": 182,
+      "basicRewards": 1001
+    },
+    "78": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 78,
+      "maximum": 9,
+      "floor": 78,
+      "basicRewards": 1001
+    },
+    "105": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 105,
+      "maximum": 11,
+      "floor": 105,
+      "basicRewards": 1001
+    },
+    "77": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 77,
+      "maximum": 5,
+      "floor": 77,
+      "basicRewards": 1001
+    },
+    "112": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 112,
+      "maximum": 7,
+      "floor": 112,
+      "basicRewards": 1001
+    },
+    "76": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 76,
+      "maximum": 6,
+      "floor": 76,
+      "basicRewards": 1001
+    },
+    "74": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 74,
+      "maximum": 6,
+      "floor": 74,
+      "basicRewards": 1001
+    },
+    "18": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 18,
+      "maximum": 9,
+      "floor": 18,
+      "basicRewards": 1001
+    },
+    "7": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 7,
+      "maximum": 7,
+      "floor": 7,
+      "basicRewards": 1001
+    },
+    "153": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 153,
+      "maximum": 9,
+      "floor": 153,
+      "basicRewards": 1001
+    },
+    "187": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 187,
+      "maximum": 7,
+      "floor": 187,
+      "basicRewards": 1001
+    },
+    "67": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 67,
+      "maximum": 7,
+      "floor": 67,
+      "basicRewards": 1001
+    },
+    "123": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 123,
+      "maximum": 9,
+      "floor": 123,
+      "basicRewards": 1001
+    },
+    "60": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 60,
+      "maximum": 11,
+      "floor": 60,
+      "basicRewards": 1001
+    },
+    "65": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 65,
+      "maximum": 8,
+      "floor": 65,
+      "basicRewards": 1001
+    },
+    "61": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 61,
+      "maximum": 4,
+      "floor": 61,
+      "basicRewards": 1001
+    },
+    "107": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 107,
+      "maximum": 7,
+      "floor": 107,
+      "basicRewards": 1001
+    },
+    "66": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 66,
+      "maximum": 4,
+      "floor": 66,
+      "basicRewards": 1001
+    },
+    "96": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 96,
+      "maximum": 6,
+      "floor": 96,
+      "basicRewards": 1001
+    },
+    "164": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 164,
+      "maximum": 6,
+      "floor": 164,
+      "basicRewards": 1001
+    },
+    "145": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 145,
+      "maximum": 11,
+      "floor": 145,
+      "basicRewards": 1001
+    },
+    "168": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 168,
+      "maximum": 9,
+      "floor": 168,
+      "basicRewards": 1001
+    },
+    "56": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 56,
+      "maximum": 4,
+      "floor": 56,
+      "basicRewards": 1001
+    },
+    "120": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 120,
+      "maximum": 11,
+      "floor": 120,
+      "basicRewards": 1001
+    },
+    "151": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 151,
+      "maximum": 6,
+      "floor": 151,
+      "basicRewards": 1001
+    },
+    "106": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 106,
+      "maximum": 6,
+      "floor": 106,
+      "basicRewards": 1001
+    },
+    "199": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 199,
+      "maximum": 6,
+      "floor": 199,
+      "basicRewards": 1001
+    },
+    "17": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 17,
+      "maximum": 7,
+      "floor": 17,
+      "basicRewards": 1001
+    },
+    "27": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 27,
+      "maximum": 7,
+      "floor": 27,
+      "basicRewards": 1001
+    },
+    "37": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 37,
+      "maximum": 7,
+      "floor": 37,
+      "basicRewards": 1001
+    },
+    "47": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 47,
+      "maximum": 7,
+      "floor": 47,
+      "basicRewards": 1001
+    },
+    "57": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 57,
+      "maximum": 7,
+      "floor": 57,
+      "basicRewards": 1001
+    },
+    "119": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 119,
+      "maximum": 6,
+      "floor": 119,
+      "basicRewards": 1001
+    },
+    "55": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 55,
+      "maximum": 11,
+      "floor": 55,
+      "basicRewards": 1001
+    },
+    "135": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 135,
+      "maximum": 11,
+      "floor": 135,
+      "basicRewards": 1001
+    },
+    "186": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 186,
+      "maximum": 6,
+      "floor": 186,
+      "basicRewards": 1001
+    },
+    "54": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 54,
+      "maximum": 6,
+      "floor": 54,
+      "basicRewards": 1001
+    },
+    "52": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 52,
+      "maximum": 5,
+      "floor": 52,
+      "basicRewards": 1001
+    },
+    "51": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 51,
+      "maximum": 6,
+      "floor": 51,
+      "basicRewards": 1001
+    },
+    "102": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 102,
+      "maximum": 7,
+      "floor": 102,
+      "basicRewards": 1001
+    },
+    "197": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 197,
+      "maximum": 7,
+      "floor": 197,
+      "basicRewards": 1001
+    },
+    "118": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 118,
+      "maximum": 9,
+      "floor": 118,
+      "basicRewards": 1001
+    },
+    "48": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 48,
+      "maximum": 9,
+      "floor": 48,
+      "basicRewards": 1001
+    },
+    "43": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 43,
+      "maximum": 9,
+      "floor": 43,
+      "basicRewards": 1001
+    },
+    "41": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 41,
+      "maximum": 6,
+      "floor": 41,
+      "basicRewards": 1001
+    },
+    "113": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 113,
+      "maximum": 9,
+      "floor": 113,
+      "basicRewards": 1001
+    },
+    "198": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 198,
+      "maximum": 9,
+      "floor": 198,
+      "basicRewards": 1001
+    },
+    "30": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 30,
+      "maximum": 11,
+      "floor": 30,
+      "basicRewards": 1001
+    },
+    "137": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 137,
+      "maximum": 7,
+      "floor": 137,
+      "basicRewards": 1001
+    },
+    "150": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 150,
+      "maximum": 11,
+      "floor": 150,
+      "basicRewards": 1001
+    },
+    "87": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 87,
+      "maximum": 7,
+      "floor": 87,
+      "basicRewards": 1001
+    },
+    "193": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 193,
+      "maximum": 9,
+      "floor": 193,
+      "basicRewards": 1001
+    },
+    "35": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 35,
+      "maximum": 8,
+      "floor": 35,
+      "basicRewards": 1001
+    },
+    "33": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 33,
+      "maximum": 9,
+      "floor": 33,
+      "basicRewards": 1001
+    },
+    "32": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 32,
+      "maximum": 7,
+      "floor": 32,
+      "basicRewards": 1001
+    },
+    "31": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 31,
+      "maximum": 6,
+      "floor": 31,
+      "basicRewards": 1001
+    },
+    "172": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 172,
+      "maximum": 7,
+      "floor": 172,
+      "basicRewards": 1001
+    },
+    "38": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 38,
+      "maximum": 9,
+      "floor": 38,
+      "basicRewards": 1001
+    },
+    "28": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 28,
+      "maximum": 9,
+      "floor": 28,
+      "basicRewards": 1001
+    },
+    "141": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 141,
+      "maximum": 6,
+      "floor": 141,
+      "basicRewards": 1001
+    },
+    "3": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 3,
+      "maximum": 9,
+      "floor": 3,
+      "basicRewards": 1001
+    },
+    "25": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 25,
+      "maximum": 8,
+      "floor": 25,
+      "basicRewards": 1001
+    },
+    "189": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 189,
+      "maximum": 6,
+      "floor": 189,
+      "basicRewards": 1001
+    },
+    "154": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 154,
+      "maximum": 6,
+      "floor": 154,
+      "basicRewards": 1001
+    },
+    "109": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 109,
+      "maximum": 6,
+      "floor": 109,
+      "basicRewards": 1001
+    },
+    "50": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 50,
+      "maximum": 11,
+      "floor": 50,
+      "basicRewards": 1001
+    },
+    "40": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 40,
+      "maximum": 11,
+      "floor": 40,
+      "basicRewards": 1001
+    },
+    "125": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 125,
+      "maximum": 11,
+      "floor": 125,
+      "basicRewards": 1001
+    },
+    "20": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 20,
+      "maximum": 11,
+      "floor": 20,
+      "basicRewards": 1001
+    },
+    "10": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 10,
+      "maximum": 11,
+      "floor": 10,
+      "basicRewards": 1001
+    },
+    "196": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 196,
+      "maximum": 6,
+      "floor": 196,
+      "basicRewards": 1001
+    },
+    "195": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 195,
+      "maximum": 11,
+      "floor": 195,
+      "basicRewards": 1001
+    },
+    "144": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 144,
+      "maximum": 6,
+      "floor": 144,
+      "basicRewards": 1001
+    },
+    "143": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 143,
+      "maximum": 9,
+      "floor": 143,
+      "basicRewards": 1001
+    },
+    "148": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 148,
+      "maximum": 9,
+      "floor": 148,
+      "basicRewards": 1001
+    },
+    "180": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 180,
+      "maximum": 11,
+      "floor": 180,
+      "basicRewards": 1001
+    },
+    "192": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 192,
+      "maximum": 7,
+      "floor": 192,
+      "basicRewards": 1001
+    },
+    "90": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 90,
+      "maximum": 8,
+      "floor": 90,
+      "basicRewards": 1001
+    },
+    "80": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 80,
+      "maximum": 11,
+      "floor": 80,
+      "basicRewards": 1001
+    },
+    "70": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 70,
+      "maximum": 10,
+      "floor": 70,
+      "basicRewards": 1001
+    },
+    "176": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 176,
+      "maximum": 6,
+      "floor": 176,
+      "basicRewards": 1001
+    },
+    "127": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 127,
+      "maximum": 7,
+      "floor": 127,
+      "basicRewards": 1001
+    },
+    "173": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 173,
+      "maximum": 9,
+      "floor": 173,
+      "basicRewards": 1001
+    },
+    "98": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 98,
+      "maximum": 9,
+      "floor": 98,
+      "basicRewards": 1001
+    },
+    "200": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 200,
+      "maximum": 11,
+      "floor": 200,
+      "basicRewards": 1001
+    },
+    "100": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 100,
+      "maximum": 11,
+      "floor": 100,
+      "basicRewards": 1001
+    },
+    "68": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 68,
+      "maximum": 9,
+      "floor": 68,
+      "basicRewards": 1001
+    },
+    "58": {
+      "optional": 101,
+      "setGroup": 5610101,
+      "id": 58,
+      "maximum": 9,
+      "floor": 58,
+      "basicRewards": 1001
+    }
+  },
+  "key": "id",
+  "excelName": "Activity_FlipCard_靶场夺宝",
+  "isNeedTransform": false
+}

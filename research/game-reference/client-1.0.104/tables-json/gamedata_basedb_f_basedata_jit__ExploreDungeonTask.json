@@ -1,0 +1,27 @@
+{
+  "first": 1001,
+  "key": "id",
+  "isNeedTransform": false,
+  "len": 1,
+  "excelName": "F探索副本",
+  "data": {
+    "1001": {
+      "isShowTarget": 1,
+      "taskIcon": "xiaoguai_02",
+      "chapterId": 1,
+      "reward": {
+        "1": {
+          "count": 100,
+          "type": 1
+        },
+        "2": {
+          "count": 100,
+          "type": 2
+        }
+      },
+      "id": 1001,
+      "targets": "{\"type\":\"[7,8]\",\"npcIds\":\"[101101,101107,101113]\"}",
+      "goalValue": 7
+    }
+  }
+}

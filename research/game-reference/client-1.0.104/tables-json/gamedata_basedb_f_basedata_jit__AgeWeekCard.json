@@ -1,0 +1,56 @@
+{
+  "excelName": "Gift_礼包表",
+  "first": 1,
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "1": {
+      "abc_3_benefit_Value": 0,
+      "abc_4_benefit_Value": 0,
+      "effectiveDays": 7,
+      "abc_4_benefit_Source": 0,
+      "welfareConfigID": 16000,
+      "abc_4_benefit_Type": 0,
+      "reward": {
+        "1": {
+          "type": 1100006,
+          "count": 20000
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 80,
+          "type": 99
+        }
+      },
+      "specialDisaplayNoMonth": {},
+      "abc_4_benefit_Des": "",
+      "abc_5_benefit_Value": 0,
+      "abc_1_benefit_Type": 3000023,
+      "ageConfig": 1,
+      "abc_1_benefit_Source": 100005,
+      "abc_2_benefit_Source": 100005,
+      "abc_5_benefit_Type": 0,
+      "abc_1_benefit_Value": 250,
+      "abc_3_benefit_Des": "",
+      "abc_2_benefit_Des": "",
+      "id": 1,
+      "abc_2_benefit_Value": 0.05,
+      "abc_1_benefit_Des": "",
+      "abc_5_benefit_Des": "",
+      "abc_2_benefit_Type": 10101,
+      "abc_3_benefit_Source": 0,
+      "abc_5_benefit_Source": 0,
+      "abc_3_benefit_Type": 0
+    }
+  },
+  "len": 1
+}

@@ -1,0 +1,159 @@
+{
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "5": {
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "text": "",
+      "maxRanking": 20,
+      "id": 5,
+      "leaderBoardID": 57000101,
+      "minRanking": 6,
+      "activityRewardEffect": "[1]",
+      "rewardIcon": "ArmsRace_img_cellBox01"
+    },
+    "3": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_01"
+        },
+        "2": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "text": "",
+      "maxRanking": 3,
+      "id": 3,
+      "leaderBoardID": 57000101,
+      "minRanking": 3,
+      "activityRewardEffect": "[1]",
+      "rewardIcon": "ArmsRace_img_cellBox03"
+    },
+    "4": {
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "2": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "3": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "text": "",
+      "maxRanking": 5,
+      "id": 4,
+      "leaderBoardID": 57000101,
+      "minRanking": 4,
+      "activityRewardEffect": "[1]",
+      "rewardIcon": "ArmsRace_img_cellBox02"
+    },
+    "1": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_02"
+        },
+        "3": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "text": "",
+      "maxRanking": 1,
+      "id": 1,
+      "leaderBoardID": 57000101,
+      "minRanking": 1,
+      "activityRewardEffect": "[1]",
+      "rewardIcon": "ArmsRace_img_cellBox05"
+    },
+    "2": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_02"
+        },
+        "2": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "3": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "4": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "text": "",
+      "maxRanking": 2,
+      "id": 2,
+      "leaderBoardID": 57000101,
+      "minRanking": 2,
+      "activityRewardEffect": "[1]",
+      "rewardIcon": "ArmsRace_img_cellBox04"
+    }
+  },
+  "first": 1,
+  "len": 5,
+  "excelName": "Rank_UnionGroup_联盟内部排行榜"
+}

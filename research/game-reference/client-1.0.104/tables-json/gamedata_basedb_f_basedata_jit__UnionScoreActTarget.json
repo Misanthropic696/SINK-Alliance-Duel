@@ -1,0 +1,21 @@
+{
+  "first": 1,
+  "isNeedTransform": false,
+  "excelName": "Activity_UnionScore_主动出击",
+  "len": 2,
+  "key": "id",
+  "data": {
+    "1": {
+      "actId": 997010101,
+      "targetType": "personalpoint",
+      "id": 1,
+      "targetConfigID": 9970101
+    },
+    "2": {
+      "actId": 997010101,
+      "targetType": "unionpoint",
+      "id": 2,
+      "targetConfigID": 9970102
+    }
+  }
+}

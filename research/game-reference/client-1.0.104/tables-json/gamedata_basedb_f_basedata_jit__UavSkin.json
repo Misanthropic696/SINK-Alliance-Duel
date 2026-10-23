@@ -1,0 +1,205 @@
+{
+  "len": 7,
+  "isNeedTransform": false,
+  "excelName": "Uav_无人机",
+  "first": 6001,
+  "key": "id",
+  "data": {
+    "6001": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A10/k3_CityMap_A10.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 120,
+      "modelPath": "RollerModelPrefabs/k3_A10/k3_A10_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_01/wuya_01_hospital.prefab",
+      "timelineKey": "U01_Bioroid",
+      "id": 6001,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6004": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A13/k3_CityMap_A13.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 90,
+      "modelPath": "RollerModelPrefabs/k3_A13/k3_A13_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_03/wuya_03_hospital.prefab",
+      "timelineKey": "U04_Bioroid",
+      "id": 6004,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6003": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A12/k3_CityMap_A12.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 135,
+      "modelPath": "RollerModelPrefabs/k3_A12/k3_A12_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_03/wuya_03_hospital.prefab",
+      "timelineKey": "U03_Bioroid",
+      "id": 6003,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6002": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A11/k3_CityMap_A11.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 150,
+      "modelPath": "RollerModelPrefabs/k3_A11/k3_A11_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_02/wuya_02_hospital.prefab",
+      "timelineKey": "U02_Bioroid",
+      "id": 6002,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6005": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A14/k3_CityMap_A14.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 125,
+      "modelPath": "RollerModelPrefabs/k3_A14/k3_A14_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_03/wuya_03_hospital.prefab",
+      "timelineKey": "U05_Bioroid",
+      "id": 6005,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6006": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A15/k3_CityMap_A15.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 125,
+      "modelPath": "RollerModelPrefabs/k3_A15/k3_A15_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_03/wuya_03_hospital.prefab",
+      "timelineKey": "U06_Bioroid",
+      "id": 6006,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    },
+    "6101": {
+      "hangarScale": 1,
+      "cityOffset": "[-0.38;0;-1.05]",
+      "cityModelPath": "RollerModelPrefabs/k3_A15/k3_CityMap_A15.prefab",
+      "cityScale": "0.6",
+      "slgEulerAngles": {
+        "1": 10,
+        "2": 180,
+        "3": 0
+      },
+      "cityEulerAngles": "[32.894;244.365;30.101]",
+      "slgScale": 125,
+      "modelPath": "RollerModelPrefabs/k3_A15/k3_A15_UI.prefab",
+      "clinicModelPath": "Role/NPC_F/wuya_03/wuya_03_hospital.prefab",
+      "timelineKey": "U12_Bioroid",
+      "id": 6101,
+      "hangarOffset": {
+        "1": 0.034,
+        "2": 0.686,
+        "3": 0
+      },
+      "hangarEulerAngles": {
+        "1": 0,
+        "2": 180,
+        "3": 0
+      },
+      "alwaysShow": 1
+    }
+  }
+}

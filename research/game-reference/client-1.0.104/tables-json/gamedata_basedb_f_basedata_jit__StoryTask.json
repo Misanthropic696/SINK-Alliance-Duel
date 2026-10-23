@@ -1,0 +1,181 @@
+{
+  "key": "id",
+  "isNeedTransform": true,
+  "excelName": "StoryTask_剧情任务",
+  "data": {
+    "6": {
+      "id": 6,
+      "nextId": 0,
+      "type": 3,
+      "triggerEvent": 8013,
+      "addition": {},
+      "rewards": {},
+      "tasks": {
+        "1": 23000001,
+        "2": 23000002,
+        "3": 23000003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    },
+    "5": {
+      "id": 5,
+      "nextId": 0,
+      "type": 2,
+      "triggerEvent": 0,
+      "addition": {
+        "1": 5,
+        "2": 6,
+        "3": 7
+      },
+      "rewards": {},
+      "tasks": {
+        "1": 22004001,
+        "2": 22004002,
+        "3": 22004003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    },
+    "4": {
+      "id": 4,
+      "nextId": 5,
+      "type": 2,
+      "triggerEvent": 0,
+      "addition": {},
+      "rewards": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 20,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "3": {
+          "count": 30,
+          "type": 11
+        }
+      },
+      "tasks": {
+        "1": 22003001,
+        "2": 22003002,
+        "3": 22003003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    },
+    "3": {
+      "id": 3,
+      "nextId": 4,
+      "type": 2,
+      "triggerEvent": 0,
+      "addition": {},
+      "rewards": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "3": {
+          "count": 30,
+          "type": 11
+        }
+      },
+      "tasks": {
+        "1": 22002001,
+        "2": 22002002,
+        "3": 22002003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    },
+    "2": {
+      "id": 2,
+      "nextId": 3,
+      "type": 2,
+      "triggerEvent": 7011,
+      "addition": {},
+      "rewards": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "2": {
+          "count": 20,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "3": {
+          "count": 30,
+          "type": 11
+        }
+      },
+      "tasks": {
+        "1": 22001001,
+        "2": 22001002,
+        "3": 22001003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    },
+    "1": {
+      "id": 1,
+      "nextId": 0,
+      "type": 1,
+      "triggerEvent": 4005,
+      "addition": {
+        "1": 4010,
+        "2": 5007,
+        "3": 6008
+      },
+      "rewards": {},
+      "tasks": {
+        "1": 21000001,
+        "2": 21000002,
+        "3": 21000003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 28800000
+    },
+    "7": {
+      "id": 7,
+      "nextId": 0,
+      "type": 4,
+      "triggerEvent": 8013,
+      "addition": {},
+      "rewards": {},
+      "tasks": {
+        "1": 23001001,
+        "2": 23001002,
+        "3": 23001003
+      },
+      "taskName": "",
+      "compeleteTaskDialog": {},
+      "groupIdList": {},
+      "duration": 14400000
+    }
+  },
+  "len": 7,
+  "first": 1
+}

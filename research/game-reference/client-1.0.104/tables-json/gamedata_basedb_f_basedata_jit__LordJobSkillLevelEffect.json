@@ -1,0 +1,3751 @@
+{
+  "excelName": "L-领主专长",
+  "key": "id",
+  "isNeedTransform": false,
+  "len": 183,
+  "data": {
+    "129": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "20%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.2,
+          "Type": 3000020
+        }
+      },
+      "exp": 1,
+      "id": 129,
+      "rewards": {}
+    },
+    "135": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2010,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.5,
+          "Type": 3000019
+        }
+      },
+      "exp": 1,
+      "id": 135,
+      "rewards": {}
+    },
+    "128": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "25%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2008,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.25,
+          "Type": 20018
+        }
+      },
+      "exp": 1,
+      "id": 128,
+      "rewards": {}
+    },
+    "113": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000008
+        }
+      },
+      "exp": 1,
+      "id": 113,
+      "rewards": {}
+    },
+    "130": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.5,
+          "Type": 3000020
+        }
+      },
+      "exp": 1,
+      "id": 130,
+      "rewards": {}
+    },
+    "107": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "8%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.08,
+          "Type": 20021
+        }
+      },
+      "exp": 1,
+      "id": 107,
+      "rewards": {}
+    },
+    "13": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 40
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 2400,
+          "Type": 20006
+        }
+      },
+      "exp": 1,
+      "id": 13,
+      "rewards": {}
+    },
+    "23": {
+      "code": 101,
+      "params": {
+        "1": {
+          "param1": "90"
+        }
+      },
+      "descParam": {
+        "1": 90
+      },
+      "cd": 171000000,
+      "level": 1,
+      "skillId": 1007,
+      "benefits": {},
+      "exp": 1,
+      "id": 23,
+      "rewards": {}
+    },
+    "131": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "6%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2010,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.06,
+          "Type": 3000019
+        }
+      },
+      "exp": 1,
+      "id": 131,
+      "rewards": {}
+    },
+    "114": {
+      "code": 112,
+      "params": {
+        "1": {
+          "param1": "750"
+        }
+      },
+      "descParam": {
+        "1": 750
+      },
+      "cd": 257400000,
+      "level": 1,
+      "skillId": 2006,
+      "benefits": {},
+      "exp": 1,
+      "id": 114,
+      "rewards": {}
+    },
+    "73": {
+      "code": 108,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 5,
+      "skillId": 1019,
+      "benefits": {},
+      "exp": 1,
+      "id": 73,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "item_Activity_dualCommander"
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_part"
+        },
+        "4": {
+          "type": 99,
+          "count": 3,
+          "id": "item_castleBox_Energy_2"
+        }
+      }
+    },
+    "106": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "6%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.06,
+          "Type": 20021
+        }
+      },
+      "exp": 1,
+      "id": 106,
+      "rewards": {}
+    },
+    "93": {
+      "code": 3,
+      "params": {
+        "1": {
+          "param1": "5"
+        }
+      },
+      "descParam": {
+        "1": 5
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2001,
+      "benefits": {},
+      "exp": 1,
+      "id": 93,
+      "rewards": {}
+    },
+    "33": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 3000002
+        }
+      },
+      "exp": 1,
+      "id": 33,
+      "rewards": {}
+    },
+    "43": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "7%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.07,
+          "Type": 3000004
+        }
+      },
+      "exp": 1,
+      "id": 43,
+      "rewards": {}
+    },
+    "132": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "14%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2010,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.14,
+          "Type": 3000019
+        }
+      },
+      "exp": 1,
+      "id": 132,
+      "rewards": {}
+    },
+    "63": {
+      "code": 106,
+      "params": {
+        "1": {
+          "param1": "0.24",
+          "param2": "240"
+        }
+      },
+      "descParam": {
+        "1": "24%"
+      },
+      "cd": 257400000,
+      "level": 3,
+      "skillId": 1017,
+      "benefits": {},
+      "exp": 1,
+      "id": 63,
+      "rewards": {}
+    },
+    "139": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "7.5%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.075,
+          "Type": 10100
+        }
+      },
+      "exp": 1,
+      "id": 139,
+      "rewards": {}
+    },
+    "122": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2007,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000005
+        }
+      },
+      "exp": 1,
+      "id": 122,
+      "rewards": {}
+    },
+    "98": {
+      "code": 111,
+      "params": {
+        "1": {
+          "param1": "250"
+        }
+      },
+      "descParam": {
+        "1": 250
+      },
+      "cd": 84600000,
+      "level": 5,
+      "skillId": 2002,
+      "benefits": {},
+      "exp": 1,
+      "id": 98,
+      "rewards": {}
+    },
+    "88": {
+      "code": 110,
+      "params": {
+        "1": {
+          "param1": "2500",
+          "param3": "1440",
+          "param2": "1",
+          "param4": "4320",
+          "param5": "2"
+        }
+      },
+      "descParam": {
+        "1": 2500
+      },
+      "cd": 259200000,
+      "level": 5,
+      "skillId": 1022,
+      "benefits": {},
+      "exp": 1,
+      "id": 88,
+      "rewards": {}
+    },
+    "78": {
+      "code": 2,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1020,
+      "benefits": {},
+      "exp": 1,
+      "id": 78,
+      "rewards": {}
+    },
+    "138": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 10100
+        }
+      },
+      "exp": 1,
+      "id": 138,
+      "rewards": {}
+    },
+    "120": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2007,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000005
+        }
+      },
+      "exp": 1,
+      "id": 120,
+      "rewards": {}
+    },
+    "144": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "36%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.4,
+          "Type": 10104
+        }
+      },
+      "exp": 1,
+      "id": 144,
+      "rewards": {}
+    },
+    "117": {
+      "code": 112,
+      "params": {
+        "1": {
+          "param1": "3750"
+        }
+      },
+      "descParam": {
+        "1": 3750
+      },
+      "cd": 257400000,
+      "level": 4,
+      "skillId": 2006,
+      "benefits": {},
+      "exp": 1,
+      "id": 117,
+      "rewards": {}
+    },
+    "22": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 240
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1006,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 14400,
+          "Type": 20010
+        }
+      },
+      "exp": 1,
+      "id": 22,
+      "rewards": {}
+    },
+    "12": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 500
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 500,
+          "Type": 3000021
+        }
+      },
+      "exp": 1,
+      "id": 12,
+      "rewards": {}
+    },
+    "121": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2007,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000005
+        }
+      },
+      "exp": 1,
+      "id": 121,
+      "rewards": {}
+    },
+    "143": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "24%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.3,
+          "Type": 10104
+        }
+      },
+      "exp": 1,
+      "id": 143,
+      "rewards": {}
+    },
+    "116": {
+      "code": 112,
+      "params": {
+        "1": {
+          "param1": "2600"
+        }
+      },
+      "descParam": {
+        "1": 2600
+      },
+      "cd": 257400000,
+      "level": 3,
+      "skillId": 2006,
+      "benefits": {},
+      "exp": 1,
+      "id": 116,
+      "rewards": {}
+    },
+    "72": {
+      "code": 108,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 4,
+      "skillId": 1019,
+      "benefits": {},
+      "exp": 1,
+      "id": 72,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "item_Activity_dualCommander"
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_part"
+        },
+        "4": {
+          "type": 99,
+          "count": 3,
+          "id": "item_castleBox_Energy_2"
+        }
+      }
+    },
+    "92": {
+      "code": 3,
+      "params": {
+        "1": {
+          "param1": "4"
+        }
+      },
+      "descParam": {
+        "1": 4
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2001,
+      "benefits": {},
+      "exp": 1,
+      "id": 92,
+      "rewards": {}
+    },
+    "42": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000004
+        }
+      },
+      "exp": 1,
+      "id": 42,
+      "rewards": {}
+    },
+    "32": {
+      "code": 102,
+      "params": {
+        "1": {
+          "param1": "1200"
+        }
+      },
+      "descParam": {
+        "1": 1200
+      },
+      "cd": 171000000,
+      "level": 5,
+      "skillId": 1008,
+      "benefits": {},
+      "exp": 1,
+      "id": 32,
+      "rewards": {}
+    },
+    "62": {
+      "code": 106,
+      "params": {
+        "1": {
+          "param1": "0.14",
+          "param2": "240"
+        }
+      },
+      "descParam": {
+        "1": "14%"
+      },
+      "cd": 257400000,
+      "level": 2,
+      "skillId": 1017,
+      "benefits": {},
+      "exp": 1,
+      "id": 62,
+      "rewards": {}
+    },
+    "125": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "7%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2008,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.07,
+          "Type": 20018
+        }
+      },
+      "exp": 1,
+      "id": 125,
+      "rewards": {}
+    },
+    "149": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2013,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000009
+        }
+      },
+      "exp": 1,
+      "id": 149,
+      "rewards": {}
+    },
+    "151": {
+      "code": 113,
+      "params": {
+        "1": {
+          "param1": "30"
+        }
+      },
+      "descParam": {
+        "1": 30
+      },
+      "cd": 171000000,
+      "level": 1,
+      "skillId": 2014,
+      "benefits": {},
+      "exp": 1,
+      "id": 151,
+      "rewards": {}
+    },
+    "155": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000006
+        }
+      },
+      "exp": 1,
+      "id": 155,
+      "rewards": {}
+    },
+    "148": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2013,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000009
+        }
+      },
+      "exp": 1,
+      "id": 148,
+      "rewards": {}
+    },
+    "150": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2013,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000009
+        }
+      },
+      "exp": 1,
+      "id": 150,
+      "rewards": {}
+    },
+    "134": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "36%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2010,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.36,
+          "Type": 3000019
+        }
+      },
+      "exp": 1,
+      "id": 134,
+      "rewards": {}
+    },
+    "127": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "18%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2008,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.18,
+          "Type": 20018
+        }
+      },
+      "exp": 1,
+      "id": 127,
+      "rewards": {}
+    },
+    "21": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 180
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1006,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 10800,
+          "Type": 20010
+        }
+      },
+      "exp": 1,
+      "id": 21,
+      "rewards": {}
+    },
+    "31": {
+      "code": 102,
+      "params": {
+        "1": {
+          "param1": "900"
+        }
+      },
+      "descParam": {
+        "1": 900
+      },
+      "cd": 171000000,
+      "level": 4,
+      "skillId": 1008,
+      "benefits": {},
+      "exp": 1,
+      "id": 31,
+      "rewards": {}
+    },
+    "11": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 370
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 370,
+          "Type": 3000021
+        }
+      },
+      "exp": 1,
+      "id": 11,
+      "rewards": {}
+    },
+    "126": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "12%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2008,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.12,
+          "Type": 20018
+        }
+      },
+      "exp": 1,
+      "id": 126,
+      "rewards": {}
+    },
+    "71": {
+      "code": 108,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 3,
+      "skillId": 1019,
+      "benefits": {},
+      "exp": 1,
+      "id": 71,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "item_Activity_dualCommander"
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_part"
+        },
+        "4": {
+          "type": 99,
+          "count": 3,
+          "id": "item_castleBox_Energy_2"
+        }
+      }
+    },
+    "41": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "30%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.3,
+          "Type": 3000003
+        }
+      },
+      "exp": 1,
+      "id": 41,
+      "rewards": {}
+    },
+    "51": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 20007
+        }
+      },
+      "exp": 1,
+      "id": 51,
+      "rewards": {}
+    },
+    "152": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000006
+        }
+      },
+      "exp": 1,
+      "id": 152,
+      "rewards": {}
+    },
+    "81": {
+      "code": 109,
+      "params": {},
+      "descParam": {},
+      "cd": 257400000,
+      "level": 3,
+      "skillId": 1021,
+      "benefits": {},
+      "exp": 1,
+      "id": 81,
+      "rewards": {}
+    },
+    "91": {
+      "code": 3,
+      "params": {
+        "1": {
+          "param1": "3"
+        }
+      },
+      "descParam": {
+        "1": 3
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2001,
+      "benefits": {},
+      "exp": 1,
+      "id": 91,
+      "rewards": {}
+    },
+    "159": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000010
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000011
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000012
+        }
+      },
+      "exp": 1,
+      "id": 159,
+      "rewards": {}
+    },
+    "141": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "6%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 10104
+        }
+      },
+      "exp": 1,
+      "id": 141,
+      "rewards": {}
+    },
+    "145": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.5,
+          "Type": 10104
+        }
+      },
+      "exp": 1,
+      "id": 145,
+      "rewards": {}
+    },
+    "158": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000010
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000011
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000012
+        }
+      },
+      "exp": 1,
+      "id": 158,
+      "rewards": {}
+    },
+    "140": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 10100
+        }
+      },
+      "exp": 1,
+      "id": 140,
+      "rewards": {}
+    },
+    "164": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2019,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000013
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000014
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000015
+        }
+      },
+      "exp": 1,
+      "id": 164,
+      "rewards": {}
+    },
+    "137": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2.5%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.025,
+          "Type": 10100
+        }
+      },
+      "exp": 1,
+      "id": 137,
+      "rewards": {}
+    },
+    "163": {
+      "code": 114,
+      "params": {
+        "1": {
+          "param1": "0.02",
+          "param3": "5",
+          "param2": "30",
+          "param4": "10",
+          "param5": "10"
+        }
+      },
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 171000000,
+      "level": 1,
+      "skillId": 2018,
+      "benefits": {},
+      "exp": 1,
+      "id": 163,
+      "rewards": {}
+    },
+    "20": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 130
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1006,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 7800,
+          "Type": 20010
+        }
+      },
+      "exp": 1,
+      "id": 20,
+      "rewards": {}
+    },
+    "10": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 260
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 260,
+          "Type": 3000021
+        }
+      },
+      "exp": 1,
+      "id": 10,
+      "rewards": {}
+    },
+    "70": {
+      "code": 108,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 2,
+      "skillId": 1019,
+      "benefits": {},
+      "exp": 1,
+      "id": 70,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "item_Activity_dualCommander"
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_part"
+        },
+        "4": {
+          "type": 99,
+          "count": 3,
+          "id": "item_castleBox_Energy_2"
+        }
+      }
+    },
+    "136": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 10100
+        }
+      },
+      "exp": 1,
+      "id": 136,
+      "rewards": {}
+    },
+    "50": {
+      "code": 105,
+      "params": {
+        "1": {
+          "param1": "0.2",
+          "param2": "60"
+        }
+      },
+      "descParam": {
+        "1": "20%"
+      },
+      "cd": 84600000,
+      "level": 2,
+      "skillId": 1014,
+      "benefits": {},
+      "exp": 1,
+      "id": 50,
+      "rewards": {}
+    },
+    "40": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "20%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.2,
+          "Type": 3000003
+        }
+      },
+      "exp": 1,
+      "id": 40,
+      "rewards": {}
+    },
+    "90": {
+      "code": 3,
+      "params": {
+        "1": {
+          "param1": "2"
+        }
+      },
+      "descParam": {
+        "1": 2
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2001,
+      "benefits": {},
+      "exp": 1,
+      "id": 90,
+      "rewards": {}
+    },
+    "142": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "14%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.2,
+          "Type": 10104
+        }
+      },
+      "exp": 1,
+      "id": 142,
+      "rewards": {}
+    },
+    "171": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2020,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000007
+        }
+      },
+      "exp": 1,
+      "id": 171,
+      "rewards": {}
+    },
+    "175": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2021,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000016
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000017
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000018
+        }
+      },
+      "exp": 1,
+      "id": 175,
+      "rewards": {}
+    },
+    "168": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2019,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000013
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000014
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000015
+        }
+      },
+      "exp": 1,
+      "id": 168,
+      "rewards": {}
+    },
+    "170": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2020,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000007
+        }
+      },
+      "exp": 1,
+      "id": 170,
+      "rewards": {}
+    },
+    "77": {
+      "code": 2,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1020,
+      "benefits": {},
+      "exp": 1,
+      "id": 77,
+      "rewards": {}
+    },
+    "169": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2020,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000007
+        }
+      },
+      "exp": 1,
+      "id": 169,
+      "rewards": {}
+    },
+    "7": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 25,
+          "Type": 2000008
+        }
+      },
+      "exp": 1,
+      "id": 7,
+      "rewards": {}
+    },
+    "154": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000006
+        }
+      },
+      "exp": 1,
+      "id": 154,
+      "rewards": {}
+    },
+    "16": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 180
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 10800,
+          "Type": 20006
+        }
+      },
+      "exp": 1,
+      "id": 16,
+      "rewards": {}
+    },
+    "147": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2013,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000009
+        }
+      },
+      "exp": 1,
+      "id": 147,
+      "rewards": {}
+    },
+    "36": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "40%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.4,
+          "Type": 3000002
+        }
+      },
+      "exp": 1,
+      "id": 36,
+      "rewards": {}
+    },
+    "153": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000006
+        }
+      },
+      "exp": 1,
+      "id": 153,
+      "rewards": {}
+    },
+    "56": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 20009
+        }
+      },
+      "exp": 1,
+      "id": 56,
+      "rewards": {}
+    },
+    "46": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "25%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.25,
+          "Type": 3000004
+        }
+      },
+      "exp": 1,
+      "id": 46,
+      "rewards": {}
+    },
+    "172": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2020,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000007
+        }
+      },
+      "exp": 1,
+      "id": 172,
+      "rewards": {}
+    },
+    "146": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2013,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000009
+        }
+      },
+      "exp": 1,
+      "id": 146,
+      "rewards": {}
+    },
+    "61": {
+      "code": 106,
+      "params": {
+        "1": {
+          "param1": "0.06",
+          "param2": "240"
+        }
+      },
+      "descParam": {
+        "1": "6%"
+      },
+      "cd": 257400000,
+      "level": 1,
+      "skillId": 1017,
+      "benefits": {},
+      "exp": 1,
+      "id": 61,
+      "rewards": {}
+    },
+    "161": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000010
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000011
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000012
+        }
+      },
+      "exp": 1,
+      "id": 161,
+      "rewards": {}
+    },
+    "97": {
+      "code": 111,
+      "params": {
+        "1": {
+          "param1": "190"
+        }
+      },
+      "descParam": {
+        "1": 190
+      },
+      "cd": 84600000,
+      "level": 4,
+      "skillId": 2002,
+      "benefits": {},
+      "exp": 1,
+      "id": 97,
+      "rewards": {}
+    },
+    "178": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2021,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000016
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000017
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000018
+        }
+      },
+      "exp": 1,
+      "id": 178,
+      "rewards": {}
+    },
+    "96": {
+      "code": 111,
+      "params": {
+        "1": {
+          "param1": "135"
+        }
+      },
+      "descParam": {
+        "1": 135
+      },
+      "cd": 84600000,
+      "level": 3,
+      "skillId": 2002,
+      "benefits": {},
+      "exp": 1,
+      "id": 96,
+      "rewards": {}
+    },
+    "95": {
+      "code": 111,
+      "params": {
+        "1": {
+          "param1": "82"
+        }
+      },
+      "descParam": {
+        "1": 82
+      },
+      "cd": 84600000,
+      "level": 2,
+      "skillId": 2002,
+      "benefits": {},
+      "exp": 1,
+      "id": 95,
+      "rewards": {}
+    },
+    "94": {
+      "code": 111,
+      "params": {
+        "1": {
+          "param1": "40"
+        }
+      },
+      "descParam": {
+        "1": 40
+      },
+      "cd": 84600000,
+      "level": 1,
+      "skillId": 2002,
+      "benefits": {},
+      "exp": 1,
+      "id": 94,
+      "rewards": {}
+    },
+    "165": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2019,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000013
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000014
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000015
+        }
+      },
+      "exp": 1,
+      "id": 165,
+      "rewards": {}
+    },
+    "9": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 165
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 165,
+          "Type": 3000021
+        }
+      },
+      "exp": 1,
+      "id": 9,
+      "rewards": {}
+    },
+    "174": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2021,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000016
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000017
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000018
+        }
+      },
+      "exp": 1,
+      "id": 174,
+      "rewards": {}
+    },
+    "160": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000010
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000011
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000012
+        }
+      },
+      "exp": 1,
+      "id": 160,
+      "rewards": {}
+    },
+    "87": {
+      "code": 110,
+      "params": {
+        "1": {
+          "param1": "1875",
+          "param3": "1440",
+          "param2": "0",
+          "param4": "4320",
+          "param5": "2"
+        }
+      },
+      "descParam": {
+        "1": 1875
+      },
+      "cd": 259200000,
+      "level": 4,
+      "skillId": 1022,
+      "benefits": {},
+      "exp": 1,
+      "id": 87,
+      "rewards": {}
+    },
+    "179": {
+      "code": 115,
+      "params": {
+        "1": {
+          "param1": "40",
+          "param2": "24",
+          "param4": "2",
+          "param3": "72"
+        }
+      },
+      "descParam": {
+        "1": 40
+      },
+      "cd": 259200000,
+      "level": 1,
+      "skillId": 2022,
+      "benefits": {},
+      "exp": 1,
+      "id": 179,
+      "rewards": {}
+    },
+    "29": {
+      "code": 102,
+      "params": {
+        "1": {
+          "param1": "390"
+        }
+      },
+      "descParam": {
+        "1": 390
+      },
+      "cd": 171000000,
+      "level": 2,
+      "skillId": 1008,
+      "benefits": {},
+      "exp": 1,
+      "id": 29,
+      "rewards": {}
+    },
+    "5": {
+      "code": 100,
+      "params": {
+        "1": {
+          "param1": "1440"
+        }
+      },
+      "descParam": {
+        "1": 24
+      },
+      "cd": 84600000,
+      "level": 5,
+      "skillId": 1001,
+      "benefits": {},
+      "exp": 1,
+      "id": 5,
+      "rewards": {}
+    },
+    "183": {
+      "code": 115,
+      "params": {
+        "1": {
+          "param1": "250",
+          "param2": "24",
+          "param4": "2",
+          "param3": "72"
+        }
+      },
+      "descParam": {
+        "1": 250
+      },
+      "cd": 259200000,
+      "level": 5,
+      "skillId": 2022,
+      "benefits": {},
+      "exp": 1,
+      "id": 183,
+      "rewards": {}
+    },
+    "103": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 20020
+        }
+      },
+      "exp": 1,
+      "id": 103,
+      "rewards": {}
+    },
+    "83": {
+      "code": 109,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 5,
+      "skillId": 1021,
+      "benefits": {},
+      "exp": 1,
+      "id": 83,
+      "rewards": {}
+    },
+    "1": {
+      "code": 100,
+      "params": {
+        "1": {
+          "param1": "180"
+        }
+      },
+      "descParam": {
+        "1": 3
+      },
+      "cd": 84600000,
+      "level": 1,
+      "skillId": 1001,
+      "benefits": {},
+      "exp": 1,
+      "id": 1,
+      "rewards": {}
+    },
+    "157": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000010
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000011
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000012
+        }
+      },
+      "exp": 1,
+      "id": 157,
+      "rewards": {}
+    },
+    "17": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 240
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 14400,
+          "Type": 20006
+        }
+      },
+      "exp": 1,
+      "id": 17,
+      "rewards": {}
+    },
+    "104": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 20021
+        }
+      },
+      "exp": 1,
+      "id": 104,
+      "rewards": {}
+    },
+    "37": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.5,
+          "Type": 3000002
+        }
+      },
+      "exp": 1,
+      "id": 37,
+      "rewards": {}
+    },
+    "2": {
+      "code": 100,
+      "params": {
+        "1": {
+          "param1": "360"
+        }
+      },
+      "descParam": {
+        "1": 6
+      },
+      "cd": 84600000,
+      "level": 2,
+      "skillId": 1001,
+      "benefits": {},
+      "exp": 1,
+      "id": 2,
+      "rewards": {}
+    },
+    "3": {
+      "code": 100,
+      "params": {
+        "1": {
+          "param1": "600"
+        }
+      },
+      "descParam": {
+        "1": 10
+      },
+      "cd": 84600000,
+      "level": 3,
+      "skillId": 1001,
+      "benefits": {},
+      "exp": 1,
+      "id": 3,
+      "rewards": {}
+    },
+    "82": {
+      "code": 109,
+      "params": {},
+      "descParam": {},
+      "cd": 171000000,
+      "level": 4,
+      "skillId": 1021,
+      "benefits": {},
+      "exp": 1,
+      "id": 82,
+      "rewards": {}
+    },
+    "80": {
+      "code": 109,
+      "params": {},
+      "descParam": {},
+      "cd": 343800000,
+      "level": 2,
+      "skillId": 1021,
+      "benefits": {},
+      "exp": 1,
+      "id": 80,
+      "rewards": {}
+    },
+    "8": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 80
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 80,
+          "Type": 3000021
+        }
+      },
+      "exp": 1,
+      "id": 8,
+      "rewards": {}
+    },
+    "156": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000006
+        }
+      },
+      "exp": 1,
+      "id": 156,
+      "rewards": {}
+    },
+    "79": {
+      "code": 109,
+      "params": {},
+      "descParam": {},
+      "cd": 430200000,
+      "level": 1,
+      "skillId": 1021,
+      "benefits": {},
+      "exp": 1,
+      "id": 79,
+      "rewards": {}
+    },
+    "162": {
+      "code": 4,
+      "params": {
+        "1": {
+          "param1": "1",
+          "param2": "1000",
+          "param3": 0.2
+        }
+      },
+      "descParam": {
+        "1": 1000
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2017,
+      "benefits": {},
+      "exp": 1,
+      "id": 162,
+      "rewards": {}
+    },
+    "133": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "24%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2010,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.24,
+          "Type": 3000019
+        }
+      },
+      "exp": 1,
+      "id": 133,
+      "rewards": {}
+    },
+    "52": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 20007
+        }
+      },
+      "exp": 1,
+      "id": 52,
+      "rewards": {}
+    },
+    "18": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 40
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1006,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 2400,
+          "Type": 20010
+        }
+      },
+      "exp": 1,
+      "id": 18,
+      "rewards": {}
+    },
+    "60": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 20009
+        }
+      },
+      "exp": 1,
+      "id": 60,
+      "rewards": {}
+    },
+    "109": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000008
+        }
+      },
+      "exp": 1,
+      "id": 109,
+      "rewards": {}
+    },
+    "68": {
+      "code": 107,
+      "params": {
+        "1": {
+          "param1": "300"
+        }
+      },
+      "descParam": {
+        "1": 5
+      },
+      "cd": 257400000,
+      "level": 3,
+      "skillId": 1018,
+      "benefits": {},
+      "exp": 1,
+      "id": 68,
+      "rewards": {}
+    },
+    "67": {
+      "code": 107,
+      "params": {
+        "1": {
+          "param1": "180"
+        }
+      },
+      "descParam": {
+        "1": 3
+      },
+      "cd": 257400000,
+      "level": 2,
+      "skillId": 1018,
+      "benefits": {},
+      "exp": 1,
+      "id": 67,
+      "rewards": {}
+    },
+    "112": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000008
+        }
+      },
+      "exp": 1,
+      "id": 112,
+      "rewards": {}
+    },
+    "30": {
+      "code": 102,
+      "params": {
+        "1": {
+          "param1": "630"
+        }
+      },
+      "descParam": {
+        "1": 630
+      },
+      "cd": 171000000,
+      "level": 3,
+      "skillId": 1008,
+      "benefits": {},
+      "exp": 1,
+      "id": 30,
+      "rewards": {}
+    },
+    "47": {
+      "code": 104,
+      "params": {
+        "1": {
+          "param1": "0.1",
+          "param2": "60"
+        }
+      },
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 84600000,
+      "level": 1,
+      "skillId": 1013,
+      "benefits": {},
+      "exp": 1,
+      "id": 47,
+      "rewards": {}
+    },
+    "89": {
+      "code": 3,
+      "params": {
+        "1": {
+          "param1": "1"
+        }
+      },
+      "descParam": {
+        "1": 1
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2001,
+      "benefits": {},
+      "exp": 1,
+      "id": 89,
+      "rewards": {}
+    },
+    "99": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 20020
+        }
+      },
+      "exp": 1,
+      "id": 99,
+      "rewards": {}
+    },
+    "69": {
+      "code": 108,
+      "params": {},
+      "descParam": {},
+      "cd": 84600000,
+      "level": 1,
+      "skillId": 1019,
+      "benefits": {},
+      "exp": 1,
+      "id": 69,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "item_Activity_dualCommander"
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_part"
+        },
+        "4": {
+          "type": 99,
+          "count": 3,
+          "id": "item_castleBox_Energy_2"
+        }
+      }
+    },
+    "108": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 20021
+        }
+      },
+      "exp": 1,
+      "id": 108,
+      "rewards": {}
+    },
+    "6": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "100%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1002,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 1,
+          "Type": 3000001
+        }
+      },
+      "exp": 1,
+      "id": 6,
+      "rewards": {}
+    },
+    "19": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 82
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1006,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 4920,
+          "Type": 20010
+        }
+      },
+      "exp": 1,
+      "id": 19,
+      "rewards": {}
+    },
+    "54": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 20007
+        }
+      },
+      "exp": 1,
+      "id": 54,
+      "rewards": {}
+    },
+    "110": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 3000008
+        }
+      },
+      "exp": 1,
+      "id": 110,
+      "rewards": {}
+    },
+    "15": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 130
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 7800,
+          "Type": 20006
+        }
+      },
+      "exp": 1,
+      "id": 15,
+      "rewards": {}
+    },
+    "166": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2019,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000013
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000014
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000015
+        }
+      },
+      "exp": 1,
+      "id": 166,
+      "rewards": {}
+    },
+    "57": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.02,
+          "Type": 20009
+        }
+      },
+      "exp": 1,
+      "id": 57,
+      "rewards": {}
+    },
+    "24": {
+      "code": 101,
+      "params": {
+        "1": {
+          "param1": "195"
+        }
+      },
+      "descParam": {
+        "1": 195
+      },
+      "cd": 171000000,
+      "level": 2,
+      "skillId": 1007,
+      "benefits": {},
+      "exp": 1,
+      "id": 24,
+      "rewards": {}
+    },
+    "58": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 20009
+        }
+      },
+      "exp": 1,
+      "id": 58,
+      "rewards": {}
+    },
+    "48": {
+      "code": 104,
+      "params": {
+        "1": {
+          "param1": "0.2",
+          "param2": "60"
+        }
+      },
+      "descParam": {
+        "1": "20%"
+      },
+      "cd": 84600000,
+      "level": 2,
+      "skillId": 1013,
+      "benefits": {},
+      "exp": 1,
+      "id": 48,
+      "rewards": {}
+    },
+    "111": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000008
+        }
+      },
+      "exp": 1,
+      "id": 111,
+      "rewards": {}
+    },
+    "28": {
+      "code": 102,
+      "params": {
+        "1": {
+          "param1": "180"
+        }
+      },
+      "descParam": {
+        "1": 180
+      },
+      "cd": 171000000,
+      "level": 1,
+      "skillId": 1008,
+      "benefits": {},
+      "exp": 1,
+      "id": 28,
+      "rewards": {}
+    },
+    "167": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2019,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000013
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000014
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000015
+        }
+      },
+      "exp": 1,
+      "id": 167,
+      "rewards": {}
+    },
+    "53": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 20007
+        }
+      },
+      "exp": 1,
+      "id": 53,
+      "rewards": {}
+    },
+    "75": {
+      "code": 2,
+      "params": {},
+      "descParam": {
+        "1": "2%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1020,
+      "benefits": {},
+      "exp": 1,
+      "id": 75,
+      "rewards": {}
+    },
+    "85": {
+      "code": 110,
+      "params": {
+        "1": {
+          "param1": "820",
+          "param3": "1440",
+          "param2": "0",
+          "param4": "4320",
+          "param5": "2"
+        }
+      },
+      "descParam": {
+        "1": 820
+      },
+      "cd": 259200000,
+      "level": 2,
+      "skillId": 1022,
+      "benefits": {},
+      "exp": 1,
+      "id": 85,
+      "rewards": {}
+    },
+    "55": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 1015,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 20007
+        }
+      },
+      "exp": 1,
+      "id": 55,
+      "rewards": {}
+    },
+    "65": {
+      "code": 106,
+      "params": {
+        "1": {
+          "param1": "0.5",
+          "param2": "240"
+        }
+      },
+      "descParam": {
+        "1": "50%"
+      },
+      "cd": 257400000,
+      "level": 5,
+      "skillId": 1017,
+      "benefits": {},
+      "exp": 1,
+      "id": 65,
+      "rewards": {}
+    },
+    "115": {
+      "code": 112,
+      "params": {
+        "1": {
+          "param1": "1640"
+        }
+      },
+      "descParam": {
+        "1": 1640
+      },
+      "cd": 257400000,
+      "level": 2,
+      "skillId": 2006,
+      "benefits": {},
+      "exp": 1,
+      "id": 115,
+      "rewards": {}
+    },
+    "45": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "18%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.18,
+          "Type": 3000004
+        }
+      },
+      "exp": 1,
+      "id": 45,
+      "rewards": {}
+    },
+    "173": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2020,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000007
+        }
+      },
+      "exp": 1,
+      "id": 173,
+      "rewards": {}
+    },
+    "4": {
+      "code": 100,
+      "params": {
+        "1": {
+          "param1": "960"
+        }
+      },
+      "descParam": {
+        "1": 16
+      },
+      "cd": 84600000,
+      "level": 4,
+      "skillId": 1001,
+      "benefits": {},
+      "exp": 1,
+      "id": 4,
+      "rewards": {}
+    },
+    "39": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1011,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.1,
+          "Type": 3000003
+        }
+      },
+      "exp": 1,
+      "id": 39,
+      "rewards": {}
+    },
+    "119": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2007,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.01,
+          "Type": 3000005
+        }
+      },
+      "exp": 1,
+      "id": 119,
+      "rewards": {}
+    },
+    "38": {
+      "code": 103,
+      "params": {
+        "1": {
+          "param1": "100",
+          "param3": "5",
+          "param2": "30",
+          "param4": "10",
+          "param5": "10"
+        }
+      },
+      "descParam": {
+        "1": 100
+      },
+      "cd": 257400000,
+      "level": 1,
+      "skillId": 1010,
+      "benefits": {},
+      "exp": 1,
+      "id": 38,
+      "rewards": {}
+    },
+    "181": {
+      "code": 115,
+      "params": {
+        "1": {
+          "param1": "135",
+          "param2": "24",
+          "param4": "2",
+          "param3": "72"
+        }
+      },
+      "descParam": {
+        "1": 135
+      },
+      "cd": 259200000,
+      "level": 3,
+      "skillId": 2022,
+      "benefits": {},
+      "exp": 1,
+      "id": 181,
+      "rewards": {}
+    },
+    "102": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "8%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.08,
+          "Type": 20020
+        }
+      },
+      "exp": 1,
+      "id": 102,
+      "rewards": {}
+    },
+    "35": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "30%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.3,
+          "Type": 3000002
+        }
+      },
+      "exp": 1,
+      "id": 35,
+      "rewards": {}
+    },
+    "76": {
+      "code": 2,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1020,
+      "benefits": {},
+      "exp": 1,
+      "id": 76,
+      "rewards": {}
+    },
+    "66": {
+      "code": 107,
+      "params": {
+        "1": {
+          "param1": "60"
+        }
+      },
+      "descParam": {
+        "1": 1
+      },
+      "cd": 257400000,
+      "level": 1,
+      "skillId": 1018,
+      "benefits": {},
+      "exp": 1,
+      "id": 66,
+      "rewards": {}
+    },
+    "118": {
+      "code": 112,
+      "params": {
+        "1": {
+          "param1": "5000"
+        }
+      },
+      "descParam": {
+        "1": 5000
+      },
+      "cd": 257400000,
+      "level": 5,
+      "skillId": 2006,
+      "benefits": {},
+      "exp": 1,
+      "id": 118,
+      "rewards": {}
+    },
+    "86": {
+      "code": 110,
+      "params": {
+        "1": {
+          "param1": "1300",
+          "param3": "1440",
+          "param2": "0",
+          "param4": "4320",
+          "param5": "2"
+        }
+      },
+      "descParam": {
+        "1": 1300
+      },
+      "cd": 259200000,
+      "level": 3,
+      "skillId": 1022,
+      "benefits": {},
+      "exp": 1,
+      "id": 86,
+      "rewards": {}
+    },
+    "180": {
+      "code": 115,
+      "params": {
+        "1": {
+          "param1": "82",
+          "param2": "24",
+          "param4": "2",
+          "param3": "72"
+        }
+      },
+      "descParam": {
+        "1": 82
+      },
+      "cd": 259200000,
+      "level": 2,
+      "skillId": 2022,
+      "benefits": {},
+      "exp": 1,
+      "id": 180,
+      "rewards": {}
+    },
+    "123": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "5%"
+      },
+      "cd": 10000000,
+      "level": 5,
+      "skillId": 2007,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.05,
+          "Type": 3000005
+        }
+      },
+      "exp": 1,
+      "id": 123,
+      "rewards": {}
+    },
+    "100": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 20020
+        }
+      },
+      "exp": 1,
+      "id": 100,
+      "rewards": {}
+    },
+    "27": {
+      "code": 101,
+      "params": {
+        "1": {
+          "param1": "600"
+        }
+      },
+      "descParam": {
+        "1": 600
+      },
+      "cd": 171000000,
+      "level": 5,
+      "skillId": 1007,
+      "benefits": {},
+      "exp": 1,
+      "id": 27,
+      "rewards": {}
+    },
+    "176": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2021,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000016
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000017
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 3000018
+        }
+      },
+      "exp": 1,
+      "id": 176,
+      "rewards": {}
+    },
+    "14": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": 82
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1005,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 4920,
+          "Type": 20006
+        }
+      },
+      "exp": 1,
+      "id": 14,
+      "rewards": {}
+    },
+    "26": {
+      "code": 101,
+      "params": {
+        "1": {
+          "param1": "450"
+        }
+      },
+      "descParam": {
+        "1": 450
+      },
+      "cd": 171000000,
+      "level": 4,
+      "skillId": 1007,
+      "benefits": {},
+      "exp": 1,
+      "id": 26,
+      "rewards": {}
+    },
+    "25": {
+      "code": 101,
+      "params": {
+        "1": {
+          "param1": "315"
+        }
+      },
+      "descParam": {
+        "1": 315
+      },
+      "cd": 171000000,
+      "level": 3,
+      "skillId": 1007,
+      "benefits": {},
+      "exp": 1,
+      "id": 25,
+      "rewards": {}
+    },
+    "49": {
+      "code": 105,
+      "params": {
+        "1": {
+          "param1": "0.1",
+          "param2": "60"
+        }
+      },
+      "descParam": {
+        "1": "10%"
+      },
+      "cd": 84600000,
+      "level": 1,
+      "skillId": 1014,
+      "benefits": {},
+      "exp": 1,
+      "id": 49,
+      "rewards": {}
+    },
+    "59": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 1016,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 20009
+        }
+      },
+      "exp": 1,
+      "id": 59,
+      "rewards": {}
+    },
+    "124": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "3%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 2008,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.03,
+          "Type": 20018
+        }
+      },
+      "exp": 1,
+      "id": 124,
+      "rewards": {}
+    },
+    "101": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "6%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 2003,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.06,
+          "Type": 20020
+        }
+      },
+      "exp": 1,
+      "id": 101,
+      "rewards": {}
+    },
+    "182": {
+      "code": 115,
+      "params": {
+        "1": {
+          "param1": "190",
+          "param2": "24",
+          "param4": "2",
+          "param3": "72"
+        }
+      },
+      "descParam": {
+        "1": 190
+      },
+      "cd": 259200000,
+      "level": 4,
+      "skillId": 2022,
+      "benefits": {},
+      "exp": 1,
+      "id": 182,
+      "rewards": {}
+    },
+    "177": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 4,
+      "skillId": 2021,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000016
+        },
+        "2": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000017
+        },
+        "3": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 3000018
+        }
+      },
+      "exp": 1,
+      "id": 177,
+      "rewards": {}
+    },
+    "84": {
+      "code": 110,
+      "params": {
+        "1": {
+          "param1": "375",
+          "param3": "1440",
+          "param2": "0",
+          "param4": "4320",
+          "param5": "2"
+        }
+      },
+      "descParam": {
+        "1": 375
+      },
+      "cd": 259200000,
+      "level": 1,
+      "skillId": 1022,
+      "benefits": {},
+      "exp": 1,
+      "id": 84,
+      "rewards": {}
+    },
+    "74": {
+      "code": 2,
+      "params": {},
+      "descParam": {
+        "1": "1%"
+      },
+      "cd": 10000000,
+      "level": 1,
+      "skillId": 1020,
+      "benefits": {},
+      "exp": 1,
+      "id": 74,
+      "rewards": {}
+    },
+    "64": {
+      "code": 106,
+      "params": {
+        "1": {
+          "param1": "0.36",
+          "param2": "240"
+        }
+      },
+      "descParam": {
+        "1": "36%"
+      },
+      "cd": 257400000,
+      "level": 4,
+      "skillId": 1017,
+      "benefits": {},
+      "exp": 1,
+      "id": 64,
+      "rewards": {}
+    },
+    "105": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "4%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 2004,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.04,
+          "Type": 20021
+        }
+      },
+      "exp": 1,
+      "id": 105,
+      "rewards": {}
+    },
+    "44": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "12%"
+      },
+      "cd": 10000000,
+      "level": 3,
+      "skillId": 1012,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.12,
+          "Type": 3000004
+        }
+      },
+      "exp": 1,
+      "id": 44,
+      "rewards": {}
+    },
+    "34": {
+      "code": 1,
+      "params": {},
+      "descParam": {
+        "1": "20%"
+      },
+      "cd": 10000000,
+      "level": 2,
+      "skillId": 1009,
+      "benefits": {
+        "1": {
+          "Source": 100004,
+          "Value": 0.2,
+          "Type": 3000002
+        }
+      },
+      "exp": 1,
+      "id": 34,
+      "rewards": {}
+    }
+  },
+  "first": 1
+}

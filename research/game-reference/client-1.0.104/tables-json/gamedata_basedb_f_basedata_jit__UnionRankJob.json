@@ -1,0 +1,114 @@
+{
+  "data": {
+    "102": {
+      "auth": "r2Auth",
+      "desc": "",
+      "id": 102,
+      "defaultName": "",
+      "proportion": 65,
+      "UnionJobPic1": "pic_lmcy_06_2",
+      "icon": "pic_lmcy_06_2",
+      "type": 1,
+      "maxCount": -1
+    },
+    "103": {
+      "auth": "r3Auth",
+      "desc": "",
+      "id": 103,
+      "defaultName": "",
+      "proportion": 65,
+      "UnionJobPic1": "pic_lmcy_06_3",
+      "icon": "pic_lmcy_06_3",
+      "type": 1,
+      "maxCount": -1
+    },
+    "105": {
+      "auth": "r5Auth",
+      "desc": "",
+      "id": 105,
+      "defaultName": "",
+      "proportion": 65,
+      "UnionJobPic1": "pic_lmcy_06_5",
+      "icon": "pic_lmcy_06_5",
+      "type": 1,
+      "maxCount": 1
+    },
+    "104": {
+      "auth": "r4Auth",
+      "desc": "",
+      "id": 104,
+      "defaultName": "",
+      "proportion": 65,
+      "UnionJobPic1": "pic_lmcy_06_4",
+      "icon": "pic_lmcy_06_4",
+      "type": 1,
+      "maxCount": 6
+    },
+    "101": {
+      "auth": "r1Auth",
+      "desc": "",
+      "id": 101,
+      "defaultName": "",
+      "proportion": 65,
+      "UnionJobPic1": "pic_lmcy_06_1",
+      "icon": "pic_lmcy_06_1",
+      "type": 1,
+      "maxCount": -1
+    },
+    "201": {
+      "auth": "l1Auth",
+      "desc": "",
+      "id": 201,
+      "defaultName": "",
+      "proportion": 100,
+      "UnionJobPic1": "pic_lmcy_02",
+      "icon": "pic_lmcy_02",
+      "type": 2,
+      "maxCount": 1
+    },
+    "204": {
+      "auth": "l4Auth",
+      "desc": "",
+      "id": 204,
+      "defaultName": "",
+      "proportion": 100,
+      "UnionJobPic1": "pic_lmcy_05",
+      "icon": "pic_lmcy_05",
+      "type": 2,
+      "maxCount": 1
+    },
+    "203": {
+      "auth": "l3Auth",
+      "desc": "",
+      "id": 203,
+      "defaultName": "",
+      "proportion": 100,
+      "UnionJobPic1": "pic_lmcy_04",
+      "icon": "pic_lmcy_04",
+      "type": 2,
+      "maxCount": 1
+    },
+    "202": {
+      "auth": "l2Auth",
+      "desc": "",
+      "id": 202,
+      "defaultName": "",
+      "proportion": 100,
+      "UnionJobPic1": "pic_lmcy_03",
+      "icon": "pic_lmcy_03",
+      "type": 2,
+      "maxCount": 1
+    }
+  },
+  "key": "id",
+  "isNeedTransform": true,
+  "excelName": "UnionSystem_联盟系统",
+  "first": 101,
+  "enum": {
+    "MEMBER_TYPE": {
+      "POSITION": 2,
+      "LEVEL": 1
+    }
+  },
+  "len": 9
+}

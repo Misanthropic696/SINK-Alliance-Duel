@@ -1,0 +1,81 @@
+{
+  "data": {
+    "2": {
+      "activityId": 30028001,
+      "heroId": 50006,
+      "UIPicStatic": "pic_card5_20",
+      "UIPicAlas": "HeroHonor",
+      "showType": 2,
+      "UnWeaponUIPicStatic": "",
+      "seasonId": 1,
+      "openTime": 15,
+      "id": 2,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    },
+    "3": {
+      "activityId": 30029001,
+      "heroId": 50011,
+      "UIPicStatic": "pic_card5_21",
+      "UIPicAlas": "HeroHonor",
+      "showType": 2,
+      "UnWeaponUIPicStatic": "",
+      "seasonId": 1,
+      "openTime": 29,
+      "id": 3,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    },
+    "1": {
+      "activityId": 30027001,
+      "heroId": 30006,
+      "UIPicStatic": "pic_card5_10",
+      "UIPicAlas": "HeroHonor",
+      "showType": 2,
+      "UnWeaponUIPicStatic": "",
+      "seasonId": 1,
+      "openTime": 1,
+      "id": 1,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    },
+    "6": {
+      "activityId": 30032001,
+      "heroId": 50010,
+      "UIPicStatic": "pic_card5_26",
+      "UIPicAlas": "HeroHonor",
+      "showType": 1,
+      "UnWeaponUIPicStatic": "pic_sd_zhuanwu3",
+      "seasonId": 1,
+      "openTime": 36,
+      "id": 6,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    },
+    "4": {
+      "activityId": 30030001,
+      "heroId": 50001,
+      "UIPicStatic": "pic_card5_24",
+      "UIPicAlas": "HeroHonor",
+      "showType": 1,
+      "UnWeaponUIPicStatic": "pic_sd_zhuanwu1",
+      "seasonId": 1,
+      "openTime": 8,
+      "id": 4,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    },
+    "5": {
+      "activityId": 30031001,
+      "heroId": 50005,
+      "UIPicStatic": "pic_card5_28",
+      "UIPicAlas": "HeroHonor",
+      "showType": 1,
+      "UnWeaponUIPicStatic": "pic_sd_zhuanwu2",
+      "seasonId": 1,
+      "openTime": 22,
+      "id": 5,
+      "UnWeaponUIPicAlas": "UniqueWeapon"
+    }
+  },
+  "key": "id",
+  "excelName": "Age_Config_时代配置表",
+  "isNeedTransform": false,
+  "len": 6,
+  "first": 1
+}

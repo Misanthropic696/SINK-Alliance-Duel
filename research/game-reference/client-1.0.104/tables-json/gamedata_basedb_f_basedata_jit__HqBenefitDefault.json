@@ -1,0 +1,20 @@
+{
+  "excelName": "HqBenefit_主城强化",
+  "key": "id",
+  "len": 3,
+  "data": {
+    "item_Benefit_shield_8h": {
+      "id": "item_Benefit_shield_8h",
+      "functionId": 8
+    },
+    "item_Benefit_shield_24h": {
+      "id": "item_Benefit_shield_24h",
+      "functionId": 8
+    },
+    "item_Benefit_shield_2h": {
+      "id": "item_Benefit_shield_2h",
+      "functionId": 8
+    }
+  },
+  "isNeedTransform": false
+}

@@ -1,0 +1,209 @@
+{
+  "isNeedTransform": false,
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "data": {
+    "5": {
+      "rewards1": {},
+      "goal": 70000,
+      "seasonLabel": {},
+      "condition": {},
+      "text2": "",
+      "text1": "",
+      "seasonBg": 0,
+      "targetConfigId": 1001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 220,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "3": {
+          "count": 44,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 35,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "id": 5,
+      "activityRewardEffect": ""
+    },
+    "6": {
+      "rewards1": {},
+      "goal": 100000,
+      "seasonLabel": {},
+      "condition": {},
+      "text2": "",
+      "text1": "",
+      "seasonBg": 0,
+      "targetConfigId": 1001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 5100,
+          "type": 99,
+          "id": "item_Activity_dualCommander"
+        },
+        "3": {
+          "count": 55,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 54,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "id": 6,
+      "activityRewardEffect": ""
+    },
+    "3": {
+      "rewards1": {},
+      "goal": 20000,
+      "seasonLabel": {},
+      "condition": {},
+      "text2": "",
+      "text1": "",
+      "seasonBg": 0,
+      "targetConfigId": 1001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 80,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "3": {
+          "count": 18,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 25,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "id": 3,
+      "activityRewardEffect": ""
+    },
+    "4": {
+      "rewards1": {},
+      "goal": 40000,
+      "seasonLabel": {},
+      "condition": {},
+      "text2": "",
+      "text1": "",
+      "seasonBg": 0,
+      "targetConfigId": 1001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 3100,
+          "type": 99,
+          "id": "item_Activity_dualCommander"
+        },
+        "3": {
+          "count": 32,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 26,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "id": 4,
+      "activityRewardEffect": ""
+    },
+    "2": {
+      "rewards1": {},
+      "goal": 10000,
+      "seasonLabel": {},
+      "condition": {},
+      "text2": "",
+      "text1": "",
+      "seasonBg": 0,
+      "targetConfigId": 1001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_Activity_dualCommander"
+        },
+        "3": {
+          "count": 8,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 8,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "id": 2,
+      "activityRewardEffect": ""
+    }
+  },
+  "len": 5,
+  "first": 2,
+  "key": "id"
+}

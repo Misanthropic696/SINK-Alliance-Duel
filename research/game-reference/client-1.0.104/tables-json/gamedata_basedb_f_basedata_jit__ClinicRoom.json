@@ -1,0 +1,1098 @@
+{
+  "data": {
+    "100003": {
+      "cameraRevolve": 0,
+      "type": 10,
+      "produceItemType": 1002,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 100003
+    },
+    "20122": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 8,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 22,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_SpeedUp_research_1m_2": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20122
+    },
+    "20104": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 2,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 4,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20104
+    },
+    "1020101": {
+      "cameraRevolve": 0,
+      "type": 100,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 1,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_yaoyugaizao",
+          "2_2": "icon_zs_yaoyuqingli",
+          "2_1": "icon_zs_yaoyuqingli",
+          "50_3": "icon_zs_yaoyugaizao",
+          "50_1": "icon_zs_yaoyugaizao",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 1020101
+    },
+    "1020103": {
+      "cameraRevolve": 0,
+      "type": 100,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 3,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_yaoyugaizao",
+          "2_2": "icon_zs_yaoyuqingli",
+          "2_1": "icon_zs_yaoyuqingli",
+          "50_3": "icon_zs_yaoyugaizao",
+          "50_1": "icon_zs_yaoyugaizao",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 1020103
+    },
+    "10001": {
+      "cameraRevolve": 0,
+      "type": 1,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_kanzhenyisheng",
+      "copperShow": 1,
+      "roomNumber": 0,
+      "arrowShow": 1,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {
+        "1": {
+          "1_3": "icon_zs_dengji",
+          "1_1": "icon_zs_dengji",
+          "1_2": "icon_zs_dengji"
+        }
+      },
+      "id": 10001
+    },
+    "50001": {
+      "cameraRevolve": 0,
+      "type": 5,
+      "produceItemType": 200,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 50001
+    },
+    "20117": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 7,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 17,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_drone_data_100": 3
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20117
+    },
+    "100002": {
+      "cameraRevolve": 0,
+      "type": 10,
+      "produceItemType": 1001,
+      "areaId": 3,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 100002
+    },
+    "20120": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 7,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 20,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_drone_data_100": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20120
+    },
+    "20115": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 6,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 15,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_SpeedUp_train_1m_2": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20115
+    },
+    "20103": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 3,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20103
+    },
+    "20112": {
+      "cameraRevolve": 0,
+      "type": 55,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 12,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_equipment_enhanceStone_1000": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_hejiu_02",
+          "2_2": "icon_zs_qingli",
+          "2_1": "icon_zs_qingli",
+          "50_3": "icon_zs_hejiu_02",
+          "50_1": "icon_zs_hejiu_02",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 20112
+    },
+    "10002": {
+      "cameraRevolve": 0,
+      "type": 57,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "",
+      "copperShow": 5,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 10002
+    },
+    "30101": {
+      "cameraRevolve": 0,
+      "type": 19,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_yaofang",
+      "copperShow": 3,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {
+        "1": {
+          "20_1": "icon_yaopinxiang",
+          "20_2": "icon_yaopinxiang",
+          "20_3": "icon_yaopinxiang",
+          "19_4": "icon_zs_yaoxiang"
+        }
+      },
+      "id": 30101
+    },
+    "700001": {
+      "cameraRevolve": 0,
+      "type": 54,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 700001
+    },
+    "20116": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 6,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 16,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_SpeedUp_train_1m_2": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20116
+    },
+    "40801": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 8,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40801
+    },
+    "20108": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 4,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 8,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20108
+    },
+    "40701": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 7,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40701
+    },
+    "190000": {
+      "cameraRevolve": 0,
+      "type": 32,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 190000
+    },
+    "600001": {
+      "cameraRevolve": 0,
+      "type": 53,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 600001
+    },
+    "500001": {
+      "cameraRevolve": 0,
+      "type": 40,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_kanzhenyisheng",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 500001
+    },
+    "400001": {
+      "cameraRevolve": 0,
+      "type": 17,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 400001
+    },
+    "300001": {
+      "cameraRevolve": 0,
+      "type": 9,
+      "produceItemType": 0,
+      "areaId": 3,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 300001
+    },
+    "40601": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 6,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40601
+    },
+    "100001": {
+      "cameraRevolve": 0,
+      "type": 10,
+      "produceItemType": 1000,
+      "areaId": 3,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 100001
+    },
+    "300000": {
+      "cameraRevolve": 0,
+      "type": 9,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 300000
+    },
+    "40401": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 4,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40401
+    },
+    "20114": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 6,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 14,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_SpeedUp_train_1m_2": 3
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20114
+    },
+    "20109": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 4,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 9,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20109
+    },
+    "40101": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40101
+    },
+    "160401": {
+      "cameraRevolve": 0,
+      "type": 16,
+      "produceItemType": 0,
+      "areaId": 3,
+      "icon": "icon_zs_yaoshanting",
+      "copperShow": 2,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 4
+        }
+      },
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 160401
+    },
+    "20102": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 2,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20102
+    },
+    "20105": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 2,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 5,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20105
+    },
+    "800001": {
+      "cameraRevolve": 0,
+      "type": 63,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 800001
+    },
+    "40501": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40501
+    },
+    "20121": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 8,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 21,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_SpeedUp_research_1m_2": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20121
+    },
+    "20119": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 7,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 19,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_drone_data_100": 3
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20119
+    },
+    "20118": {
+      "cameraRevolve": 0,
+      "type": 64,
+      "produceItemType": 0,
+      "areaId": 7,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 18,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_drone_data_100": 3
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20118
+    },
+    "20113": {
+      "cameraRevolve": 0,
+      "type": 55,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 13,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_equipment_enhanceStone_1000": 2
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_hejiu_02",
+          "2_2": "icon_zs_qingli",
+          "2_1": "icon_zs_qingli",
+          "50_3": "icon_zs_hejiu_02",
+          "50_1": "icon_zs_hejiu_02",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 20113
+    },
+    "120000": {
+      "cameraRevolve": 0,
+      "type": 21,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_banyungong",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 120000
+    },
+    "20111": {
+      "cameraRevolve": 0,
+      "type": 55,
+      "produceItemType": 0,
+      "areaId": 5,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 11,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_equipment_enhanceStone_1000": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_hejiu_02",
+          "2_2": "icon_zs_qingli",
+          "2_1": "icon_zs_qingli",
+          "50_3": "icon_zs_hejiu_02",
+          "50_1": "icon_zs_hejiu_02",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 20111
+    },
+    "100000": {
+      "cameraRevolve": 0,
+      "type": 10,
+      "produceItemType": 201,
+      "areaId": 1,
+      "icon": "",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 100000
+    },
+    "180000": {
+      "cameraRevolve": 0,
+      "type": 18,
+      "produceItemType": 0,
+      "areaId": 3,
+      "icon": "icon_zs_yaoshanshi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 4
+        }
+      },
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 180000
+    },
+    "40201": {
+      "cameraRevolve": 0,
+      "type": 4,
+      "produceItemType": 0,
+      "areaId": 2,
+      "icon": "icon_zs_hushi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 40201
+    },
+    "20107": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 4,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 7,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20107
+    },
+    "20106": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 2,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 6,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20106
+    },
+    "20101": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 4,
+      "roomNumber": 1,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20101
+    },
+    "10003": {
+      "cameraRevolve": 0,
+      "type": 57,
+      "produceItemType": 0,
+      "areaId": 6,
+      "icon": "",
+      "copperShow": 1,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {},
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 10003
+    },
+    "1020102": {
+      "cameraRevolve": 0,
+      "type": 100,
+      "produceItemType": 0,
+      "areaId": 1,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 2,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "50_2": "icon_zs_yaoyugaizao",
+          "2_2": "icon_zs_yaoyuqingli",
+          "2_1": "icon_zs_yaoyuqingli",
+          "50_3": "icon_zs_yaoyugaizao",
+          "50_1": "icon_zs_yaoyugaizao",
+          "2_4": "icon_zs_qingli",
+          "2_3": "icon_zs_qingli"
+        }
+      },
+      "id": 1020102
+    },
+    "20110": {
+      "cameraRevolve": 0,
+      "type": 2,
+      "produceItemType": 0,
+      "areaId": 4,
+      "icon": "icon_zs_bingfang",
+      "copperShow": 5,
+      "roomNumber": 10,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 2
+        }
+      },
+      "roomDirection": -1,
+      "crownIcon": {
+        "1": {
+          "2_4": "icon_zs_xiaodu",
+          "2_3": "icon_zs_weiyao",
+          "2_2": "icon_zs_zhiliao",
+          "2_1": "icon_zs_baoza"
+        }
+      },
+      "id": 20110
+    },
+    "180001": {
+      "cameraRevolve": 0,
+      "type": 18,
+      "produceItemType": 0,
+      "areaId": 3,
+      "icon": "icon_zs_yaoshanshi",
+      "copperShow": 0,
+      "roomNumber": 0,
+      "arrowShow": 0,
+      "name": "",
+      "upgradeDisposableReward": {
+        "1": {
+          "item_heroExp_5k": 4
+        }
+      },
+      "roomDirection": 0,
+      "crownIcon": {},
+      "id": 180001
+    }
+  },
+  "len": 53,
+  "isNeedTransform": true,
+  "first": 10001,
+  "key": "id",
+  "excelName": "Clinic_诊所"
+}

@@ -1,0 +1,25 @@
+{
+  "len": 2,
+  "data": {
+    "2": {
+      "id": 2,
+      "name": "",
+      "huntable": false,
+      "pointType": 9900,
+      "activityId": 0,
+      "cancelable": true
+    },
+    "1": {
+      "id": 1,
+      "name": "",
+      "huntable": true,
+      "pointType": 6,
+      "activityId": 0,
+      "cancelable": false
+    }
+  },
+  "excelName": "MapResource_大地图资源",
+  "first": 1,
+  "isNeedTransform": true,
+  "key": "id"
+}

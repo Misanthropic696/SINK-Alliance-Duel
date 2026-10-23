@@ -1,0 +1,281 @@
+{
+  "isNeedTransform": false,
+  "excelName": "Activity_DailyScoreTask每日积分活动任务",
+  "data": {
+    "820030102": {
+      "id": 820030102,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030101,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 6,
+      "score": 5
+    },
+    "820040107": {
+      "id": 820040107,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040106,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "mid_autumn_lucky_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 6,
+      "score": 10
+    },
+    "820030104": {
+      "id": 820030104,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030103,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 2,
+      "score": 5
+    },
+    "820040104": {
+      "id": 820040104,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040103,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 2,
+      "score": 5
+    },
+    "820040101": {
+      "id": 820040101,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 0,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "mid_autumn_lucky_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 5,
+      "score": 5
+    },
+    "820030105": {
+      "id": 820030105,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030104,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "pirate_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 4,
+      "score": 10
+    },
+    "820040108": {
+      "id": 820040108,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040107,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 30,
+          "id": "mid_autumn_market_money"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 3,
+      "score": 10
+    },
+    "820030108": {
+      "id": 820030108,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030107,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 3,
+      "score": 10
+    },
+    "820030103": {
+      "id": 820030103,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030102,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "pirate_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 3,
+      "score": 5
+    },
+    "820040106": {
+      "id": 820040106,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040105,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 5,
+      "score": 10
+    },
+    "820030101": {
+      "id": 820030101,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 0,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "pirate_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 5,
+      "score": 5
+    },
+    "820040105": {
+      "id": 820040105,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040104,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "mid_autumn_lucky_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 4,
+      "score": 10
+    },
+    "820040103": {
+      "id": 820040103,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040102,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "mid_autumn_lucky_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 3,
+      "score": 5
+    },
+    "820040102": {
+      "id": 820040102,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820040101,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820040108,
+      "scoreType": 6,
+      "score": 5
+    },
+    "820030107": {
+      "id": 820030107,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030106,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "pirate_box1"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 6,
+      "score": 10
+    },
+    "820030106": {
+      "id": 820030106,
+      "functionId": "goto_activity_pirate",
+      "preTaskId": 820030105,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "taskType": 2,
+      "desc": "",
+      "activityId": 820030108,
+      "scoreType": 5,
+      "score": 10
+    }
+  },
+  "first": 820030101,
+  "len": 16,
+  "key": "id"
+}

@@ -1,0 +1,5916 @@
+{
+  "data": {
+    "10050333": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 78000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1390,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050333,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 63000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 756,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 42,
+          "type": 99
+        }
+      },
+      "ability": 43775,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050250": {
+      "lvLimit": 60,
+      "extraAbility": 47040,
+      "equipBenefit": {
+        "1": {
+          "Value": 1211.5,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 306772.77,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050250,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 100000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 1200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_equipmentDrawing_mythology_pieces",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "ability": 54496.41,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 27500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 330,
+          "type": 99
+        },
+        "3": {
+          "id": "3",
+          "count": 10,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 5,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.15,
+          "Source": 703,
+          "Type": 10031
+        }
+      }
+    },
+    "10050303": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 10000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050303,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 7500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 90,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "ability": 3800,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050340": {
+      "lvLimit": 40,
+      "extraAbility": 21000,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 90000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1840,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050340,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 72500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 870,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "ability": 53300,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 4,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10037
+        }
+      }
+    },
+    "10050210": {
+      "lvLimit": 10,
+      "extraAbility": 21000,
+      "equipBenefit": {
+        "1": {
+          "Value": 210,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 36000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050210,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 12500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 150,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "ability": 6870,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 140000,
+          "Source": 703,
+          "Type": 10002
+        }
+      }
+    },
+    "10050402": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 6000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050402,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 5000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 60,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "ability": 1600,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050103": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 200,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050103,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 7500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 90,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "ability": 5081.6,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050113": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 650,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050113,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 22250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 267,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 11,
+          "type": 99
+        }
+      },
+      "ability": 16082.6,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050304": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 10000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 200,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050304,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 10000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 120,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "ability": 6100,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050321": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 41000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 690,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050321,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 32750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 393,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "ability": 23175,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050224": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 595,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 114000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050224,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 44750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 537,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "ability": 21265,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050203": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 70,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 24000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050203,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 7500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 90,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "ability": 4090,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050320": {
+      "lvLimit": 20,
+      "extraAbility": 21000,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 33000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 690,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050320,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 28750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 345,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "ability": 21975,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10037
+        }
+      }
+    },
+    "10050330": {
+      "lvLimit": 30,
+      "extraAbility": 6250,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 57000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1190,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050330,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 48750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 585,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "ability": 34975,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        }
+      }
+    },
+    "10050213": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 285,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 64000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050213,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 22250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 267,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 11,
+          "type": 99
+        }
+      },
+      "ability": 11595,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050323": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 49000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 850,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050323,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 40750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 489,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "ability": 27425,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050104": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 200,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 200,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050104,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 10000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 120,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "ability": 6408.8,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050401": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 6000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050401,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 2500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "ability": 900,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050111": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050111,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 15750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 189,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "ability": 12113.2,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050313": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 27000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050313,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 22250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 267,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 11,
+          "type": 99
+        }
+      },
+      "ability": 14550,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050230": {
+      "lvLimit": 30,
+      "extraAbility": 21000,
+      "equipBenefit": {
+        "1": {
+          "Value": 675,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 134000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050230,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 48750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 585,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "ability": 24825,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 140000,
+          "Source": 703,
+          "Type": 10002
+        }
+      }
+    },
+    "10050310": {
+      "lvLimit": 10,
+      "extraAbility": 6250,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 15000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050310,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 12500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 150,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "ability": 10200,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        }
+      }
+    },
+    "10050212": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 285,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 50000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050212,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 19000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 228,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "ability": 9495,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050131": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1850,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1160,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.032,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050131,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 53500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 642,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 34,
+          "type": 99
+        }
+      },
+      "ability": 41280.2,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050302": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 5000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050302,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 5000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 60,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "ability": 3050,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050121": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1050,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 660,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.022,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050121,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 32750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 393,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "ability": 24644.2,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050440": {
+      "lvLimit": 40,
+      "extraAbility": 52500,
+      "equipBenefit": {
+        "1": {
+          "Value": 1650,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 136000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050440,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 72500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 870,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "ability": 31950,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 4,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Source": 703,
+          "Type": 10036
+        }
+      }
+    },
+    "10050311": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 21000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050311,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 15750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 189,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "ability": 11100,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050414": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 540,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 40000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050414,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 25500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 306,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "ability": 9780,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050204": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 140,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 24000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050204,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 10000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 120,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "ability": 4580,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050411": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 31000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050411,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 15750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 189,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "ability": 6750,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050240": {
+      "lvLimit": 40,
+      "extraAbility": 52500,
+      "equipBenefit": {
+        "1": {
+          "Value": 975,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 224000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050240,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 72500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 870,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "ability": 40425,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 4,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Source": 703,
+          "Type": 10035
+        }
+      }
+    },
+    "10050450": {
+      "lvLimit": 60,
+      "extraAbility": 23520,
+      "equipBenefit": {
+        "1": {
+          "Value": 2123,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 185663.67,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050450,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 100000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 1200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_equipmentDrawing_mythology_pieces",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "ability": 42710.55,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 27500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 330,
+          "type": 99
+        },
+        "3": {
+          "id": "3",
+          "count": 10,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 5,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.3,
+          "Source": 703,
+          "Type": 10033
+        }
+      }
+    },
+    "10050100": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {},
+      "icon": "",
+      "name": "",
+      "id": 10050100,
+      "reward": {},
+      "ability": 0,
+      "equipPromotionStage": 0,
+      "cost": {},
+      "equipPromotionLv": 0,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050433": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1290,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 118000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050433,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 63000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 756,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 42,
+          "type": 99
+        }
+      },
+      "ability": 26730,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050130": {
+      "lvLimit": 30,
+      "extraAbility": 6250,
+      "equipBenefit": {
+        "1": {
+          "Value": 1550,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1160,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.03,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050130,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 48750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 585,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "ability": 36903,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        }
+      }
+    },
+    "10050422": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 810,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 61000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050422,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 36750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 441,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "ability": 14820,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050140": {
+      "lvLimit": 40,
+      "extraAbility": 7840,
+      "equipBenefit": {
+        "1": {
+          "Value": 2550,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1760,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.04,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050140,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 72500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 870,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "ability": 56739,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 4,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10030
+        }
+      }
+    },
+    "10050102": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050102,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 5000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 60,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "ability": 3204.4,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050434": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1470,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 118000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050434,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 67750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 813,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 46,
+          "type": 99
+        }
+      },
+      "ability": 27990,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050233": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 775,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 194000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050233,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 63000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 756,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 42,
+          "type": 99
+        }
+      },
+      "ability": 34525,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050350": {
+      "lvLimit": 60,
+      "extraAbility": 17565,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 123109.1,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 2312.99,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050350,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 100000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 1200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_equipmentDrawing_mythology_pieces",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "ability": 68378.74,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 27500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 330,
+          "type": 99
+        },
+        "3": {
+          "id": "3",
+          "count": 10,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 5,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.05,
+          "Source": 703,
+          "Type": 10029
+        }
+      }
+    },
+    "10050432": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1290,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 100000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050432,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 58250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 699,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 38,
+          "type": 99
+        }
+      },
+      "ability": 24030,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050431": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1110,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 100000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050431,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 53500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 642,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 34,
+          "type": 99
+        }
+      },
+      "ability": 22770,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050231": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 675,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 164000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050231,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 53500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 642,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 34,
+          "type": 99
+        }
+      },
+      "ability": 29325,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050133": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 2150,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1360,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.036,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050133,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 63000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 756,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 42,
+          "type": 99
+        }
+      },
+      "ability": 47684.6,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050150": {
+      "lvLimit": 60,
+      "extraAbility": 15680,
+      "equipBenefit": {
+        "1": {
+          "Value": 3259.48,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 2233,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.05,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050150,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 100000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 1200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_equipmentDrawing_mythology_pieces",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "ability": 72054.5,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 27500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 330,
+          "type": 99
+        },
+        "3": {
+          "id": "3",
+          "count": 10,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 5,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Source": 703,
+          "Type": 10028
+        }
+      }
+    },
+    "10050334": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 78000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1590,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050334,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 67750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 813,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 46,
+          "type": 99
+        }
+      },
+      "ability": 47325,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050430": {
+      "lvLimit": 30,
+      "extraAbility": 7000,
+      "equipBenefit": {
+        "1": {
+          "Value": 1110,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 85000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.015,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050430,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 48750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 585,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "ability": 20520,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 1000,
+          "Source": 703,
+          "Type": 10004
+        }
+      }
+    },
+    "10050223": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 515,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 114000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050223,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 40750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 489,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "ability": 20705,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050332": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 67000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1390,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050332,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 58250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 699,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 38,
+          "type": 99
+        }
+      },
+      "ability": 41075,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050404": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 200,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 14000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.004,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050404,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 10000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 120,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "ability": 3500,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050421": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 660,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 61000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050421,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 32750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 393,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "ability": 13770,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050112": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050112,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 19000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 228,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "ability": 13580.4,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050134": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 2150,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1560,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.038,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050134,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 67750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 813,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 46,
+          "type": 99
+        }
+      },
+      "ability": 49711.8,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050122": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1050,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 810,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.024,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050122,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 36750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 441,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "ability": 26321.4,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050410": {
+      "lvLimit": 10,
+      "extraAbility": 7000,
+      "equipBenefit": {
+        "1": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 22000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050410,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 12500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 150,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "ability": 5400,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 1000,
+          "Source": 703,
+          "Type": 10004
+        }
+      }
+    },
+    "10050413": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 40000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.008,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050413,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 22250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 267,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 11,
+          "type": 99
+        }
+      },
+      "ability": 8940,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050232": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 775,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 164000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050232,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 58250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 699,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 38,
+          "type": 99
+        }
+      },
+      "ability": 30025,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050412": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 31000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050412,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 19000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 228,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "ability": 7590,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050301": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 5000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050301,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 2500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "ability": 750,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050214": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 360,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 64000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050214,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 25500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 306,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "ability": 12120,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050400": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {},
+      "icon": "",
+      "name": "",
+      "id": 10050400,
+      "reward": {},
+      "ability": 0,
+      "equipPromotionStage": 0,
+      "cost": {},
+      "equipPromotionLv": 0,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050314": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 27000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 540,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050314,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 25500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 306,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "ability": 17100,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050110": {
+      "lvLimit": 10,
+      "extraAbility": 6250,
+      "equipBenefit": {
+        "1": {
+          "Value": 350,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 300,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050110,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 12500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 150,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "ability": 9611,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 500,
+          "Source": 703,
+          "Type": 10003
+        }
+      }
+    },
+    "10050211": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 210,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 50000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.006,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050211,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 15750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 189,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "ability": 8970,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050123": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1250,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 810,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.026,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050123,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 40750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 489,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "ability": 29448.6,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050101": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 0,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050101,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 2500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "ability": 1877.2,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050423": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 810,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 73000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.013,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050423,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 40750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 489,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "ability": 16620,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050403": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 100,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 14000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.003,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050403,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 7500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 90,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "ability": 2800,
+      "equipPromotionStage": 3,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050300": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {},
+      "icon": "",
+      "name": "",
+      "id": 10050300,
+      "reward": {},
+      "ability": 0,
+      "equipPromotionStage": 0,
+      "cost": {},
+      "equipPromotionLv": 0,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050202": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 70,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 12000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.002,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050202,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 5000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 60,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "ability": 2290,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050221": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 435,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 96000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.011,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050221,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 32750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 393,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "ability": 17445,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050331": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.016,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 67000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1190,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050331,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 53500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 642,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 34,
+          "type": 99
+        }
+      },
+      "ability": 37525,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050124": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1250,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 960,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.028,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050124,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 44750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 537,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "ability": 31125.8,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050324": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 49000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 1010,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050324,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 44750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 537,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "ability": 30475,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050120": {
+      "lvLimit": 20,
+      "extraAbility": 7840,
+      "equipBenefit": {
+        "1": {
+          "Value": 850,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 660,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.02,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050120,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 28750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 345,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "ability": 21517,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.025,
+          "Source": 703,
+          "Type": 10030
+        }
+      }
+    },
+    "10050114": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 650,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 540,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.018,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050114,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 25500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 306,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "ability": 17549.8,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050322": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 41000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.009,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 850,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050322,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 36750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 441,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "ability": 26225,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050312": {
+      "lvLimit": 20,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0.007,
+          "Source": 703,
+          "Type": 10006
+        },
+        "2": {
+          "Value": 21000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.005,
+          "Source": 703,
+          "Type": 10037
+        },
+        "4": {
+          "Value": 420,
+          "Source": 703,
+          "Type": 10003
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050312,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 19000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 228,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "ability": 13650,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 1,
+      "equipBaseId": 100503,
+      "equipAdditionalBenefit": {}
+    },
+    "10050234": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 875,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 194000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.019,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050234,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 67750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 813,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 46,
+          "type": 99
+        }
+      },
+      "ability": 35225,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050424": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 960,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 73000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.014,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050424,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 44750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 537,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "ability": 17670,
+      "equipPromotionStage": 4,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {}
+    },
+    "10050132": {
+      "lvLimit": 40,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 1850,
+          "Source": 703,
+          "Type": 10003
+        },
+        "2": {
+          "Value": 1360,
+          "Source": 703,
+          "Type": 10004
+        },
+        "3": {
+          "Value": 0.017,
+          "Source": 703,
+          "Type": 10006
+        },
+        "4": {
+          "Value": 0.034,
+          "Source": 703,
+          "Type": 10030
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050132,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 58250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 699,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 38,
+          "type": 99
+        }
+      },
+      "ability": 43307.4,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4750,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 57,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 4,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 3,
+      "equipBaseId": 100501,
+      "equipAdditionalBenefit": {}
+    },
+    "10050222": {
+      "lvLimit": 30,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 515,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 96000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.012,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050222,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 36750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 441,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "ability": 18005,
+      "equipPromotionStage": 2,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 4000,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 48,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 3,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050200": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {},
+      "icon": "",
+      "name": "",
+      "id": 10050200,
+      "reward": {},
+      "ability": 0,
+      "equipPromotionStage": 0,
+      "cost": {},
+      "equipPromotionLv": 0,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050420": {
+      "lvLimit": 20,
+      "extraAbility": 52500,
+      "equipBenefit": {
+        "1": {
+          "Value": 660,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 49000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050420,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 28750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 345,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "ability": 11970,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100504,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Source": 703,
+          "Type": 10036
+        }
+      }
+    },
+    "10050201": {
+      "lvLimit": 10,
+      "extraAbility": 0,
+      "equipBenefit": {
+        "1": {
+          "Value": 0,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 12000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.001,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050201,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 2500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "ability": 1800,
+      "equipPromotionStage": 1,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 2500,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 30,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 1,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 0,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {}
+    },
+    "10050220": {
+      "lvLimit": 20,
+      "extraAbility": 52500,
+      "equipBenefit": {
+        "1": {
+          "Value": 435,
+          "Source": 703,
+          "Type": 10004
+        },
+        "2": {
+          "Value": 78000,
+          "Source": 703,
+          "Type": 10002
+        },
+        "3": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10007
+        },
+        "4": {
+          "Value": 0.01,
+          "Source": 703,
+          "Type": 10005
+        }
+      },
+      "icon": "",
+      "name": "",
+      "id": 10050220,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone_pieces",
+          "count": 28750,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 345,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_equipmentDrawing_legendary_pieces",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "ability": 14745,
+      "equipPromotionStage": 0,
+      "cost": {
+        "1": {
+          "id": "1",
+          "count": 3250,
+          "type": 1100008
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 39,
+          "type": 99
+        },
+        "3": {
+          "id": "2",
+          "count": 2,
+          "type": 1100008
+        }
+      },
+      "equipPromotionLv": 2,
+      "equipBaseId": 100502,
+      "equipAdditionalBenefit": {
+        "1": {
+          "Value": 0.1,
+          "Source": 703,
+          "Type": 10035
+        }
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "key": "id",
+  "len": 88,
+  "excelName": "Equipment_新版装备",
+  "first": 10050100
+}

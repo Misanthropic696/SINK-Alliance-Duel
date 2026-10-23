@@ -1,0 +1,991 @@
+{
+  "data": {
+    "208": {
+      "benefitTypeDesc": "RES",
+      "benefitSourceDesc": "Res Lv",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 208
+    },
+    "153": {
+      "benefitTypeDesc": "Crit DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 153
+    },
+    "108": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 108
+    },
+    "199": {
+      "benefitTypeDesc": "Soldier Load↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 199
+    },
+    "204": {
+      "benefitTypeDesc": "Soldier Fatality Rate↓ in PvP",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 204
+    },
+    "104": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 104
+    },
+    "100": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 100
+    },
+    "191": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 191
+    },
+    "11": {
+      "benefitTypeDesc": "Timber Output↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 11
+    },
+    "21": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 21
+    },
+    "99": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 99
+    },
+    "51": {
+      "benefitTypeDesc": "Hero Gear Crafting Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 51
+    },
+    "61": {
+      "benefitTypeDesc": "Timber Gathering Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 61
+    },
+    "71": {
+      "benefitTypeDesc": "Training Capacity↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 71
+    },
+    "81": {
+      "benefitTypeDesc": "Soldier Capacity in Barracks↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 81
+    },
+    "91": {
+      "benefitTypeDesc": "Healing Speed↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 91
+    },
+    "19": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 19
+    },
+    "29": {
+      "benefitTypeDesc": "Construction Resource Cost↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 29
+    },
+    "188": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 188
+    },
+    "49": {
+      "benefitTypeDesc": "Hero Gear Crafting Speed↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 49
+    },
+    "147": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 147
+    },
+    "118": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 118
+    },
+    "110": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 110
+    },
+    "210": {
+      "benefitTypeDesc": "RES",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 210
+    },
+    "10": {
+      "benefitTypeDesc": "Timber Output↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 10
+    },
+    "68": {
+      "benefitTypeDesc": "Herb Gathering Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 68
+    },
+    "30": {
+      "benefitTypeDesc": "Construction Resource Cost↓",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 30
+    },
+    "20": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 20
+    },
+    "50": {
+      "benefitTypeDesc": "Hero Gear Crafting Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 50
+    },
+    "40": {
+      "benefitTypeDesc": "Free Research Speedup Time↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 40
+    },
+    "70": {
+      "benefitTypeDesc": "Training Capacity↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 70
+    },
+    "60": {
+      "benefitTypeDesc": "Timber Gathering Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 60
+    },
+    "90": {
+      "benefitTypeDesc": "Healing Speed↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 90
+    },
+    "126": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 126
+    },
+    "122": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 122
+    },
+    "38": {
+      "benefitTypeDesc": "Research Resource Cost↓",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 38
+    },
+    "58": {
+      "benefitTypeDesc": "Grain Gathering Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 58
+    },
+    "176": {
+      "benefitTypeDesc": "DMG to Monsters↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 176
+    },
+    "157": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 157
+    },
+    "195": {
+      "benefitTypeDesc": "March Speed to Cities Increases",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 195
+    },
+    "160": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 160
+    },
+    "23": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 23
+    },
+    "33": {
+      "benefitTypeDesc": "Research Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 33
+    },
+    "13": {
+      "benefitTypeDesc": "Herb Output↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 13
+    },
+    "63": {
+      "benefitTypeDesc": "Timber Gathering Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 63
+    },
+    "73": {
+      "benefitTypeDesc": "Training Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 73
+    },
+    "43": {
+      "benefitTypeDesc": "Help Attempts↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 43
+    },
+    "53": {
+      "benefitTypeDesc": "Hero Gear Crafting Herb Cost↓",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 53
+    },
+    "83": {
+      "benefitTypeDesc": "Soldier Capacity in Barracks↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 83
+    },
+    "93": {
+      "benefitTypeDesc": "Healing Resource Cost↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 93
+    },
+    "139": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 139
+    },
+    "168": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 168
+    },
+    "103": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 103
+    },
+    "186": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 186
+    },
+    "167": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 167
+    },
+    "189": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 189
+    },
+    "182": {
+      "benefitTypeDesc": "Soldier ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 182
+    },
+    "170": {
+      "benefitTypeDesc": "Crit Rate Taken↓",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 170
+    },
+    "181": {
+      "benefitTypeDesc": "Soldier HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 181
+    },
+    "32": {
+      "benefitTypeDesc": "Research Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 32
+    },
+    "22": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 22
+    },
+    "174": {
+      "benefitTypeDesc": "DMG↓",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 174
+    },
+    "62": {
+      "benefitTypeDesc": "Timber Gathering Speed↑",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 62
+    },
+    "401": {
+      "benefitTypeDesc": "Free Research Speedup Time↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 401
+    },
+    "102": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 102
+    },
+    "109": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 109
+    },
+    "82": {
+      "benefitTypeDesc": "Soldier Capacity in Barracks↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 82
+    },
+    "183": {
+      "benefitTypeDesc": "Soldier DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 183
+    },
+    "148": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 148
+    },
+    "192": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "Weekly Pass",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 192
+    },
+    "140": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 140
+    },
+    "144": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 144
+    },
+    "35": {
+      "benefitTypeDesc": "Research Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 35
+    },
+    "45": {
+      "benefitTypeDesc": "Help Duration↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 45
+    },
+    "55": {
+      "benefitTypeDesc": "Grain Gathering Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 55
+    },
+    "65": {
+      "benefitTypeDesc": "Herb Gathering Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 65
+    },
+    "15": {
+      "benefitTypeDesc": "Herb Output↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 15
+    },
+    "112": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 112
+    },
+    "177": {
+      "benefitTypeDesc": "DMG to Monsters↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 177
+    },
+    "156": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 156
+    },
+    "75": {
+      "benefitTypeDesc": "Training Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 75
+    },
+    "85": {
+      "benefitTypeDesc": "Infirmary Cap↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 85
+    },
+    "2": {
+      "benefitTypeDesc": "Grain Output↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 2
+    },
+    "3": {
+      "benefitTypeDesc": "Grain Output↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 3
+    },
+    "123": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 123
+    },
+    "1": {
+      "benefitTypeDesc": "Grain Output↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 1
+    },
+    "7": {
+      "benefitTypeDesc": "Timber Output↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 7
+    },
+    "4": {
+      "benefitTypeDesc": "Grain Output↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 4
+    },
+    "5": {
+      "benefitTypeDesc": "Grain Output↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 5
+    },
+    "150": {
+      "benefitTypeDesc": "Crit Rate↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 150
+    },
+    "8": {
+      "benefitTypeDesc": "Timber Output↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 8
+    },
+    "9": {
+      "benefitTypeDesc": "Timber Output↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 9
+    },
+    "121": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 121
+    },
+    "34": {
+      "benefitTypeDesc": "Research Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 34
+    },
+    "145": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 145
+    },
+    "24": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 24
+    },
+    "14": {
+      "benefitTypeDesc": "Herb Output↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 14
+    },
+    "162": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 162
+    },
+    "166": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 166
+    },
+    "74": {
+      "benefitTypeDesc": "Training Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 74
+    },
+    "94": {
+      "benefitTypeDesc": "Healing Resource Cost↓",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 94
+    },
+    "117": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 117
+    },
+    "209": {
+      "benefitTypeDesc": "RES",
+      "benefitSourceDesc": "Era Weekly Pass",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 209
+    },
+    "133": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 133
+    },
+    "207": {
+      "benefitTypeDesc": "RES",
+      "benefitSourceDesc": "Lord's Specialty",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 207
+    },
+    "205": {
+      "benefitTypeDesc": "Barrack Casualties ↓ when Breached",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 205
+    },
+    "128": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 128
+    },
+    "179": {
+      "benefitTypeDesc": "Monster DMG Taken↓",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 179
+    },
+    "202": {
+      "benefitTypeDesc": "Enemy Troop Death Rate↑ in PvP",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 202
+    },
+    "120": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 120
+    },
+    "201": {
+      "benefitTypeDesc": "Enemy Troop Death Rate↑ in PvP",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 201
+    },
+    "124": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 124
+    },
+    "198": {
+      "benefitTypeDesc": "Soldier Load↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 198
+    },
+    "196": {
+      "benefitTypeDesc": "March Speed↑ when Reinforcing",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 196
+    },
+    "194": {
+      "benefitTypeDesc": "March Speed Towards Players↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 194
+    },
+    "190": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 190
+    },
+    "57": {
+      "benefitTypeDesc": "Grain Gathering Speed↑",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 57
+    },
+    "67": {
+      "benefitTypeDesc": "Herb Gathering Speed↑",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 67
+    },
+    "187": {
+      "benefitTypeDesc": "Overall March Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 187
+    },
+    "47": {
+      "benefitTypeDesc": "Help Duration↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 47
+    },
+    "17": {
+      "benefitTypeDesc": "Herb Output↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 17
+    },
+    "27": {
+      "benefitTypeDesc": "Free Construction Speedup↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 27
+    },
+    "184": {
+      "benefitTypeDesc": "Soldier Morale↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 184
+    },
+    "172": {
+      "benefitTypeDesc": "Hero DMG Taken↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 172
+    },
+    "165": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 165
+    },
+    "136": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 136
+    },
+    "163": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 163
+    },
+    "161": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 161
+    },
+    "97": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 97
+    },
+    "158": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 158
+    },
+    "77": {
+      "benefitTypeDesc": "Training Speed↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 77
+    },
+    "1001": {
+      "benefitTypeDesc": "Building Construction Speed↑",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 1001
+    },
+    "127": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 127
+    },
+    "155": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 155
+    },
+    "152": {
+      "benefitTypeDesc": "Crit DMG↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 152
+    },
+    "98": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 98
+    },
+    "89": {
+      "benefitTypeDesc": "Healing Speed↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 89
+    },
+    "141": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 141
+    },
+    "135": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 135
+    },
+    "138": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 138
+    },
+    "130": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 130
+    },
+    "129": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 129
+    },
+    "132": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 132
+    },
+    "134": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 134
+    },
+    "116": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 116
+    },
+    "115": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Raven Gear",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 115
+    },
+    "114": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 114
+    },
+    "111": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 111
+    },
+    "66": {
+      "benefitTypeDesc": "Herb Gathering Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 66
+    },
+    "56": {
+      "benefitTypeDesc": "Grain Gathering Speed↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 56
+    },
+    "46": {
+      "benefitTypeDesc": "Help Duration↑",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 46
+    },
+    "36": {
+      "benefitTypeDesc": "Research Speed↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 36
+    },
+    "26": {
+      "benefitTypeDesc": "Free Construction Speedup↑",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 26
+    },
+    "16": {
+      "benefitTypeDesc": "Herb Output↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 16
+    },
+    "106": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 106
+    },
+    "105": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 105
+    },
+    "146": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 146
+    },
+    "79": {
+      "benefitTypeDesc": "Training Cost↓",
+      "benefitSourceDesc": "Alliance Technology",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 79
+    },
+    "142": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 142
+    },
+    "88": {
+      "benefitTypeDesc": "Healing Speed↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 88
+    },
+    "42": {
+      "benefitTypeDesc": "Help Attempts↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 42
+    },
+    "96": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Combat Attributes",
+      "id": 96
+    },
+    "86": {
+      "benefitTypeDesc": "Infirmary Cap↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 86
+    },
+    "76": {
+      "benefitTypeDesc": "Training Speed↑",
+      "benefitSourceDesc": "City",
+      "attrGroupDesc": "Economic Attributes",
+      "id": 76
+    }
+  },
+  "len": 164,
+  "key": "id",
+  "source_format": "locale rows"
+}

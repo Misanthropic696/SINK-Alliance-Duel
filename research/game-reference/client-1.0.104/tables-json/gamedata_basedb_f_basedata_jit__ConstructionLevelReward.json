@@ -1,0 +1,474 @@
+{
+  "excelName": "Activity_Construction_共建活动",
+  "key": "id",
+  "data": {
+    "82002052": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 2,
+      "rewardGroupID": 8200205,
+      "point": 15000,
+      "pointClaim": 15,
+      "id": 82002052,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_equip_produce_materials_05"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      }
+    },
+    "82003055": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 5,
+      "rewardGroupID": 8200305,
+      "point": 70000,
+      "pointClaim": 60,
+      "id": 82003055,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_HeroEXP_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 2000,
+          "id": "item_HeroSkill_Book"
+        }
+      }
+    },
+    "82004055": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 5,
+      "rewardGroupID": 8200405,
+      "point": 70000,
+      "pointClaim": 60,
+      "id": 82004055,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_HeroEXP_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 2000,
+          "id": "item_HeroSkill_Book"
+        }
+      }
+    },
+    "82002051": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 1,
+      "rewardGroupID": 8200205,
+      "point": 8000,
+      "pointClaim": 5,
+      "id": 82002051,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82002055": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 5,
+      "rewardGroupID": 8200205,
+      "point": 70000,
+      "pointClaim": 60,
+      "id": 82002055,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_HeroEXP_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 2000,
+          "id": "item_HeroSkill_Book"
+        }
+      }
+    },
+    "82004053": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 3,
+      "rewardGroupID": 8200405,
+      "point": 30000,
+      "pointClaim": 30,
+      "id": 82004053,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Metal_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Food_4"
+        },
+        "4": {
+          "type": 99,
+          "count": 50,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82004051": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 1,
+      "rewardGroupID": 8200405,
+      "point": 8000,
+      "pointClaim": 5,
+      "id": 82004051,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82003054": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 4,
+      "rewardGroupID": 8200305,
+      "point": 50000,
+      "pointClaim": 40,
+      "id": 82003054,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_research_info"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82004052": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 2,
+      "rewardGroupID": 8200405,
+      "point": 15000,
+      "pointClaim": 15,
+      "id": 82004052,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_equip_produce_materials_05"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      }
+    },
+    "82004054": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 4,
+      "rewardGroupID": 8200405,
+      "point": 50000,
+      "pointClaim": 40,
+      "id": 82004054,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_research_info"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82003052": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 2,
+      "rewardGroupID": 8200305,
+      "point": 15000,
+      "pointClaim": 15,
+      "id": 82003052,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_equip_produce_materials_05"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      }
+    },
+    "82002053": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 3,
+      "rewardGroupID": 8200205,
+      "point": 30000,
+      "pointClaim": 30,
+      "id": 82002053,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Metal_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Food_4"
+        },
+        "4": {
+          "type": 99,
+          "count": 50,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82003053": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 3,
+      "rewardGroupID": 8200305,
+      "point": 30000,
+      "pointClaim": 30,
+      "id": 82003053,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Metal_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Food_4"
+        },
+        "4": {
+          "type": 99,
+          "count": 50,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82003051": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 1,
+      "rewardGroupID": 8200305,
+      "point": 8000,
+      "pointClaim": 5,
+      "id": 82003051,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    },
+    "82002054": {
+      "upgradeEffect": "",
+      "uiPic": "",
+      "lv": 4,
+      "rewardGroupID": 8200205,
+      "point": 50000,
+      "pointClaim": 40,
+      "id": 82002054,
+      "constructionLevelReward": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_research_info"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "4": {
+          "type": 99,
+          "count": 100,
+          "id": "item_SpeedUp_general_5m"
+        }
+      }
+    }
+  },
+  "first": 82002051,
+  "len": 15,
+  "isNeedTransform": false
+}

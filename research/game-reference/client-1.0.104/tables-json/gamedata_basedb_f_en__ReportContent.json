@@ -1,0 +1,39 @@
+{
+  "data": {
+    "8": {
+      "name": "Other",
+      "id": 8
+    },
+    "1": {
+      "name": "Political Content",
+      "id": 1
+    },
+    "6": {
+      "name": "Malicious Speech",
+      "id": 6
+    },
+    "7": {
+      "name": "Privacy Theft",
+      "id": 7
+    },
+    "4": {
+      "name": "Cheat",
+      "id": 4
+    },
+    "5": {
+      "name": "Erotic Content",
+      "id": 5
+    },
+    "2": {
+      "name": "Fraudulent Ad",
+      "id": 2
+    },
+    "3": {
+      "name": "Gambling",
+      "id": 3
+    }
+  },
+  "len": 8,
+  "key": "id",
+  "source_format": "locale rows"
+}

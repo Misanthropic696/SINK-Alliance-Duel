@@ -1,0 +1,4586 @@
+{
+  "key": "id",
+  "len": 135,
+  "data": {
+    "100231": {
+      "maxRank": 1500,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2130,
+          "type": 99
+        },
+        "2": {
+          "count": 130,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 470,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100231
+    },
+    "100116": {
+      "maxRank": 280,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 241,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6660,
+          "type": 99
+        },
+        "2": {
+          "count": 395,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 930,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100116
+    },
+    "200116": {
+      "maxRank": 280,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 241,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 130,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3800,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200116
+    },
+    "100122": {
+      "maxRank": 600,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3930,
+          "type": 99
+        },
+        "2": {
+          "count": 230,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 620,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100122
+    },
+    "100234": {
+      "maxRank": 1800,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1580,
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 370,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100234
+    },
+    "100233": {
+      "maxRank": 1700,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1601,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1740,
+          "type": 99
+        },
+        "2": {
+          "count": 110,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 320,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100233
+    },
+    "200122": {
+      "maxRank": 550,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 70,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200122
+    },
+    "100208": {
+      "maxRank": 80,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 61,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 11170,
+          "type": 99
+        },
+        "2": {
+          "count": 595,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1690,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100208
+    },
+    "100221": {
+      "maxRank": 500,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 451,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4190,
+          "type": 99
+        },
+        "2": {
+          "count": 250,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100221
+    },
+    "300208": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 360,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 5100,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 4300,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300208
+    },
+    "100127": {
+      "maxRank": 1100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2970,
+          "type": 99
+        },
+        "2": {
+          "count": 160,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 420,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100127
+    },
+    "400109": {
+      "maxRank": 150,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 800,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 18000,
+          "type": 99
+        },
+        "4": {
+          "count": 3300,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400109
+    },
+    "100109": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 81,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 10150,
+          "type": 99
+        },
+        "2": {
+          "count": 550,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100109
+    },
+    "200109": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 81,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "count": 400,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 5000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1800,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200109
+    },
+    "100114": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 181,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7600,
+          "type": 99
+        },
+        "2": {
+          "count": 420,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1080,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100114
+    },
+    "200114": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 181,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 150,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 4000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200114
+    },
+    "100211": {
+      "maxRank": 140,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 121,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9120,
+          "type": 99
+        },
+        "2": {
+          "count": 470,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1360,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 23,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100211
+    },
+    "100205": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 14170,
+          "type": 99
+        },
+        "2": {
+          "count": 715,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 35,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100205
+    },
+    "300205": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 600,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 8200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 5200,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300205
+    },
+    "200112": {
+      "maxRank": 160,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 141,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 250,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 4400,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1200,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200112
+    },
+    "100217": {
+      "maxRank": 320,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 281,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6110,
+          "type": 99
+        },
+        "2": {
+          "count": 360,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 860,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 17,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100217
+    },
+    "100112": {
+      "maxRank": 160,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 141,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8620,
+          "type": 99
+        },
+        "2": {
+          "count": 480,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1230,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100112
+    },
+    "100207": {
+      "maxRank": 60,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 41,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 12110,
+          "type": 99
+        },
+        "2": {
+          "count": 640,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1870,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100207
+    },
+    "100216": {
+      "maxRank": 280,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 241,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6660,
+          "type": 99
+        },
+        "2": {
+          "count": 395,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 930,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100216
+    },
+    "100135": {
+      "maxRank": 1900,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1801,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1320,
+          "type": 99
+        },
+        "2": {
+          "count": 95,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 370,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100135
+    },
+    "100237": {
+      "maxRank": 5000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 2001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1000,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 320,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100237
+    },
+    "100214": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 181,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7600,
+          "type": 99
+        },
+        "2": {
+          "count": 420,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1080,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100214
+    },
+    "300212": {
+      "maxRank": 1500,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 1001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 200,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 3500,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 3200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300212
+    },
+    "400110": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 151,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 750,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 16000,
+          "type": 99
+        },
+        "4": {
+          "count": 3000,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400110
+    },
+    "100126": {
+      "maxRank": 1000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 901,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3100,
+          "type": 99
+        },
+        "2": {
+          "count": 170,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 420,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100126
+    },
+    "100212": {
+      "maxRank": 160,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 141,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8620,
+          "type": 99
+        },
+        "2": {
+          "count": 480,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1230,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100212
+    },
+    "300110": {
+      "maxRank": 700,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 12,
+          "type": 99
+        },
+        "3": {
+          "count": 1200,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 16000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 10000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300110
+    },
+    "200110": {
+      "maxRank": 120,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "count": 350,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 4800,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1600,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 17,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200110
+    },
+    "100110": {
+      "maxRank": 120,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9610,
+          "type": 99
+        },
+        "2": {
+          "count": 500,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100110
+    },
+    "300105": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_colonel_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 26,
+          "type": 99
+        },
+        "4": {
+          "count": 2400,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 36000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 15000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300105
+    },
+    "400105": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "RNS_item_cityskin_moribilei_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 1000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 36000,
+          "type": 99
+        },
+        "5": {
+          "count": 5200,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400105
+    },
+    "100229": {
+      "maxRank": 1300,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2550,
+          "type": 99
+        },
+        "2": {
+          "count": 140,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 490,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100229
+    },
+    "100223": {
+      "maxRank": 700,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 601,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3710,
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100223
+    },
+    "100128": {
+      "maxRank": 1200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2760,
+          "type": 99
+        },
+        "2": {
+          "count": 170,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 460,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100128
+    },
+    "300210": {
+      "maxRank": 700,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 280,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 4300,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 3700,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300210
+    },
+    "100239": {
+      "maxRank": 10000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 8001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 800,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 260,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100239
+    },
+    "100226": {
+      "maxRank": 1000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 901,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3100,
+          "type": 99
+        },
+        "2": {
+          "count": 170,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 420,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100226
+    },
+    "200120": {
+      "maxRank": 450,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 90,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3400,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200120
+    },
+    "100120": {
+      "maxRank": 450,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4680,
+          "type": 99
+        },
+        "2": {
+          "count": 285,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100120
+    },
+    "100222": {
+      "maxRank": 600,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3930,
+          "type": 99
+        },
+        "2": {
+          "count": 230,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 620,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100222
+    },
+    "100210": {
+      "maxRank": 120,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9610,
+          "type": 99
+        },
+        "2": {
+          "count": 500,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 24,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100210
+    },
+    "100134": {
+      "maxRank": 1800,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1580,
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 370,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100134
+    },
+    "100105": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 14170,
+          "type": 99
+        },
+        "2": {
+          "count": 715,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 35,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100105
+    },
+    "200105": {
+      "maxRank": 20,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 11,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_colonel_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_02",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 6,
+          "type": 99
+        },
+        "4": {
+          "count": 600,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 7000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 2600,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200105
+    },
+    "100117": {
+      "maxRank": 320,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 281,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6110,
+          "type": 99
+        },
+        "2": {
+          "count": 360,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 860,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 17,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100117
+    },
+    "200117": {
+      "maxRank": 320,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 281,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 120,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3700,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200117
+    },
+    "200123": {
+      "maxRank": 600,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 551,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 60,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200123
+    },
+    "100204": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 15190,
+          "type": 99
+        },
+        "2": {
+          "count": 780,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3080,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 37,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100204
+    },
+    "100203": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 16180,
+          "type": 99
+        },
+        "2": {
+          "count": 825,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100203
+    },
+    "100220": {
+      "maxRank": 450,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4680,
+          "type": 99
+        },
+        "2": {
+          "count": 285,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100220
+    },
+    "100129": {
+      "maxRank": 1300,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2550,
+          "type": 99
+        },
+        "2": {
+          "count": 140,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 490,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100129
+    },
+    "100123": {
+      "maxRank": 700,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 601,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3710,
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100123
+    },
+    "100136": {
+      "maxRank": 2000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1901,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1150,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 350,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100136
+    },
+    "100219": {
+      "maxRank": 400,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 361,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5170,
+          "type": 99
+        },
+        "2": {
+          "count": 315,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 810,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100219
+    },
+    "100235": {
+      "maxRank": 1900,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1801,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1320,
+          "type": 99
+        },
+        "2": {
+          "count": 95,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 370,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100235
+    },
+    "400106": {
+      "maxRank": 40,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "RNS_item_cityskin_moribilei_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 950,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 30000,
+          "type": 99
+        },
+        "5": {
+          "count": 4400,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400106
+    },
+    "200119": {
+      "maxRank": 400,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 361,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200119
+    },
+    "200111": {
+      "maxRank": 140,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 121,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "count": 300,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 4600,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1400,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200111
+    },
+    "100111": {
+      "maxRank": 140,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 121,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9120,
+          "type": 99
+        },
+        "2": {
+          "count": 470,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1360,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 23,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100111
+    },
+    "100206": {
+      "maxRank": 40,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 13190,
+          "type": 99
+        },
+        "2": {
+          "count": 695,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2070,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 32,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100206
+    },
+    "100225": {
+      "maxRank": 900,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 801,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3390,
+          "type": 99
+        },
+        "2": {
+          "count": 185,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100225
+    },
+    "100106": {
+      "maxRank": 40,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 13190,
+          "type": 99
+        },
+        "2": {
+          "count": 695,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2070,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 32,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100106
+    },
+    "100228": {
+      "maxRank": 1200,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2760,
+          "type": 99
+        },
+        "2": {
+          "count": 170,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 460,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100228
+    },
+    "100240": {
+      "maxRank": 15000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 10001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 700,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 240,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100240
+    },
+    "200118": {
+      "maxRank": 360,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 321,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 110,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3600,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200118
+    },
+    "100118": {
+      "maxRank": 360,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 321,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5600,
+          "type": 99
+        },
+        "2": {
+          "count": 345,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 880,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100118
+    },
+    "100119": {
+      "maxRank": 400,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 361,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5170,
+          "type": 99
+        },
+        "2": {
+          "count": 315,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 810,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100119
+    },
+    "400102": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_atmosphereSkin_doomsdayParty_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "RNS_item_cityskin_moribilei_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_decorations_box_03",
+          "count": 3,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2400,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 52000,
+          "type": 99
+        },
+        "6": {
+          "count": 10500,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400102
+    },
+    "300102": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantGeneral_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 6,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 35,
+          "type": 99
+        },
+        "4": {
+          "count": 3600,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 51000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 19000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 36,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300102
+    },
+    "200125": {
+      "maxRank": 10000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 50,
+          "type": 11
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 2900,
+          "type": 99
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200125
+    },
+    "100113": {
+      "maxRank": 180,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 161,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8150,
+          "type": 99
+        },
+        "2": {
+          "count": 435,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1130,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100113
+    },
+    "200113": {
+      "maxRank": 180,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 161,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 4200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200113
+    },
+    "200102": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantGeneral_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 9,
+          "type": 99
+        },
+        "4": {
+          "count": 900,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 9000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 4000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 45,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200102
+    },
+    "100102": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 18100,
+          "type": 99
+        },
+        "2": {
+          "count": 910,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 4060,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 45,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100102
+    },
+    "100125": {
+      "maxRank": 900,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 801,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3390,
+          "type": 99
+        },
+        "2": {
+          "count": 185,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100125
+    },
+    "100227": {
+      "maxRank": 1100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2970,
+          "type": 99
+        },
+        "2": {
+          "count": 160,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 420,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100227
+    },
+    "400107": {
+      "maxRank": 70,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 41,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "RNS_item_cityskin_moribilei_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 900,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 24000,
+          "type": 99
+        },
+        "5": {
+          "count": 4000,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400107
+    },
+    "300107": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 51,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 22,
+          "type": 99
+        },
+        "3": {
+          "count": 1800,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 24000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 13000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300107
+    },
+    "300106": {
+      "maxRank": 50,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantColonel_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_03",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 24,
+          "type": 99
+        },
+        "4": {
+          "count": 2000,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 30000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 14000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300106
+    },
+    "400104": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_atmosphereSkin_doomsdayParty_permanent_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "RNS_item_cityskin_moribilei_7d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 41000,
+          "type": 99
+        },
+        "6": {
+          "count": 6100,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400104
+    },
+    "300203": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "count": 800,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 9500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 6100,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300203
+    },
+    "400101": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_atmosphereSkin_doomsdayParty_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "RNS_item_cityskin_moribilei_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_decorations_box_03",
+          "count": 4,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 3200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 61000,
+          "type": 99
+        },
+        "6": {
+          "count": 15200,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400101
+    },
+    "300213": {
+      "maxRank": 2000,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 1501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 200,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 3000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 3000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300213
+    },
+    "300211": {
+      "maxRank": 1000,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 240,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 4000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 3400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300211
+    },
+    "300108": {
+      "maxRank": 200,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 101,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 20,
+          "type": 99
+        },
+        "3": {
+          "count": 1600,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 20000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 12000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300108
+    },
+    "400108": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 71,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 850,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Activity_dualCommander",
+          "count": 20000,
+          "type": 99
+        },
+        "4": {
+          "count": 3600,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400108
+    },
+    "100108": {
+      "maxRank": 80,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 61,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 11170,
+          "type": 99
+        },
+        "2": {
+          "count": 595,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1690,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100108
+    },
+    "200108": {
+      "maxRank": 80,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 61,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "count": 450,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 5500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 2000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200108
+    },
+    "300207": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 51,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 400,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 6300,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 4600,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300207
+    },
+    "100230": {
+      "maxRank": 1400,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1301,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2310,
+          "type": 99
+        },
+        "2": {
+          "count": 145,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 450,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100230
+    },
+    "200107": {
+      "maxRank": 60,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 41,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "count": 500,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 6000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 2200,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200107
+    },
+    "100107": {
+      "maxRank": 60,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 41,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 12110,
+          "type": 99
+        },
+        "2": {
+          "count": 640,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1870,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100107
+    },
+    "300206": {
+      "maxRank": 50,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 500,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 7100,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 4900,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300206
+    },
+    "100224": {
+      "maxRank": 800,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3590,
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 560,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100224
+    },
+    "100201": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 20150,
+          "type": 99
+        },
+        "2": {
+          "count": 1010,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 5070,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100201
+    },
+    "100238": {
+      "maxRank": 8000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 5001,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 900,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 280,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100238
+    },
+    "100232": {
+      "maxRank": 1600,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1940,
+          "type": 99
+        },
+        "2": {
+          "count": 115,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 350,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100232
+    },
+    "100215": {
+      "maxRank": 240,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7170,
+          "type": 99
+        },
+        "2": {
+          "count": 410,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1020,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 19,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100215
+    },
+    "100124": {
+      "maxRank": 800,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3590,
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 560,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100124
+    },
+    "100104": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 15190,
+          "type": 99
+        },
+        "2": {
+          "count": 780,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3080,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 37,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100104
+    },
+    "200104": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_majorGeneral_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 7,
+          "type": 99
+        },
+        "4": {
+          "count": 700,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 7500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 2800,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 35,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200104
+    },
+    "300104": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_majorGeneral_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 28,
+          "type": 99
+        },
+        "4": {
+          "count": 2800,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 40500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 16000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 28,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300104
+    },
+    "400103": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_atmosphereSkin_doomsdayParty_permanent_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "RNS_item_cityskin_moribilei_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_decorations_box_03",
+          "count": 3,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1600,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 46000,
+          "type": 99
+        },
+        "6": {
+          "count": 7200,
+          "type": 11
+        }
+      },
+      "arenaId": 4001,
+      "id": 400103
+    },
+    "300103": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantGeneral_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "count": 3200,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 45500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 17000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 32,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300103
+    },
+    "300111": {
+      "maxRank": 1000,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 701,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "count": 1000,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 13000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 9000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300111
+    },
+    "300201": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 6,
+          "type": 99
+        },
+        "3": {
+          "count": 1000,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 12500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 8500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300201
+    },
+    "200101": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_general_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "count": 1000,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 10000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 5000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200101
+    },
+    "300101": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_general_14d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 8,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "count": 4000,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 61000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 21000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300101
+    },
+    "200121": {
+      "maxRank": 500,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 451,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 80,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3300,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200121
+    },
+    "100121": {
+      "maxRank": 500,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 451,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4190,
+          "type": 99
+        },
+        "2": {
+          "count": 250,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100121
+    },
+    "100202": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 18100,
+          "type": 99
+        },
+        "2": {
+          "count": 910,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 4060,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 45,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100202
+    },
+    "100133": {
+      "maxRank": 1700,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1601,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1740,
+          "type": 99
+        },
+        "2": {
+          "count": 110,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 320,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100133
+    },
+    "300202": {
+      "maxRank": 2,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 2,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "count": 900,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 10500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 7200,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300202
+    },
+    "100213": {
+      "maxRank": 180,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 161,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8150,
+          "type": 99
+        },
+        "2": {
+          "count": 435,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1130,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 21,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100213
+    },
+    "300109": {
+      "maxRank": 400,
+      "minRound": 1,
+      "rankGroup": 2,
+      "minRank": 201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 16,
+          "type": 99
+        },
+        "3": {
+          "count": 1400,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 18000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 11000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 14,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300109
+    },
+    "300209": {
+      "maxRank": 400,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "count": 320,
+          "type": 11
+        },
+        "2": {
+          "id": "item_Activity_dualCommander",
+          "count": 4600,
+          "type": 99
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 4000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300209
+    },
+    "200124": {
+      "maxRank": 1000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 601,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200124
+    },
+    "100236": {
+      "maxRank": 2000,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1901,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1150,
+          "type": 99
+        },
+        "2": {
+          "count": 85,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 350,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100236
+    },
+    "100115": {
+      "maxRank": 240,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7170,
+          "type": 99
+        },
+        "2": {
+          "count": 410,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1020,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 19,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100115
+    },
+    "200115": {
+      "maxRank": 240,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 201,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 140,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 3900,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200115
+    },
+    "200106": {
+      "maxRank": 40,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 21,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantColonel_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "4": {
+          "count": 550,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 6500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 2400,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 27,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200106
+    },
+    "100101": {
+      "maxRank": 1,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 20150,
+          "type": 99
+        },
+        "2": {
+          "count": 1010,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 5070,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100101
+    },
+    "300204": {
+      "maxRank": 10,
+      "minRound": 1,
+      "rankGroup": 1,
+      "minRank": 4,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 700,
+          "type": 11
+        },
+        "4": {
+          "id": "item_Activity_dualCommander",
+          "count": 9000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_HeroSkill_Book",
+          "count": 5700,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "arenaId": 3001,
+      "id": 300204
+    },
+    "100131": {
+      "maxRank": 1500,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1401,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2130,
+          "type": 99
+        },
+        "2": {
+          "count": 130,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 470,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100131
+    },
+    "200103": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_headframe_lieutenantGeneral_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decor_19",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 8,
+          "type": 99
+        },
+        "4": {
+          "count": 800,
+          "type": 11
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 8000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_HeroSkill_Book",
+          "count": 3000,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "arenaId": 2001,
+      "id": 200103
+    },
+    "100103": {
+      "maxRank": 3,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 3,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 16180,
+          "type": 99
+        },
+        "2": {
+          "count": 825,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100103
+    },
+    "100218": {
+      "maxRank": 360,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 321,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5600,
+          "type": 99
+        },
+        "2": {
+          "count": 345,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 880,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100218
+    },
+    "100209": {
+      "maxRank": 100,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 81,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 10150,
+          "type": 99
+        },
+        "2": {
+          "count": 550,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1590,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "arenaId": 1002,
+      "id": 100209
+    },
+    "100132": {
+      "maxRank": 1600,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1501,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1940,
+          "type": 99
+        },
+        "2": {
+          "count": 115,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 350,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100132
+    },
+    "100130": {
+      "maxRank": 1400,
+      "minRound": 1,
+      "rankGroup": 0,
+      "minRank": 1301,
+      "maxRound": -1,
+      "item": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2310,
+          "type": 99
+        },
+        "2": {
+          "count": 145,
+          "type": 11
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 450,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "arenaId": 1001,
+      "id": 100130
+    }
+  },
+  "isNeedTransform": false,
+  "first": 100101,
+  "excelName": "AEArena_竞技场",
+  "enum": {
+    "AEARENARANKGROUP": {
+      "HIGH": 2,
+      "COMMON": 0,
+      "MIDDLE": 1
+    }
+  }
+}

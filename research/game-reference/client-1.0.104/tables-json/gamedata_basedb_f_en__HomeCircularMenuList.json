@@ -1,0 +1,207 @@
+{
+  "data": {
+    "TechResearch": {
+      "id": "TechResearch",
+      "btnName": "Research"
+    },
+    "UnlockBuildQueue": {
+      "id": "UnlockBuildQueue",
+      "btnName": "Build"
+    },
+    "Drone_Remind": {
+      "id": "Drone_Remind",
+      "btnName": "Raven"
+    },
+    "CityGain": {
+      "id": "CityGain",
+      "btnName": "Shield"
+    },
+    "UAVSkillClipHome": {
+      "id": "UAVSkillClipHome",
+      "btnName": "Craft"
+    },
+    "PVP1v1": {
+      "id": "PVP1v1",
+      "btnName": "Arena"
+    },
+    "Rally": {
+      "id": "Rally",
+      "btnName": "Rally"
+    },
+    "PVPShop": {
+      "id": "PVPShop",
+      "btnName": "Shop"
+    },
+    "LordJob": {
+      "id": "LordJob",
+      "btnName": "Specialty"
+    },
+    "UpLevel": {
+      "id": "UpLevel",
+      "btnName": "Upgrade"
+    },
+    "BuildingSwitch": {
+      "id": "BuildingSwitch",
+      "btnName": "Swap"
+    },
+    "PubRecruit": {
+      "id": "PubRecruit",
+      "btnName": "Recruit"
+    },
+    "Cure": {
+      "id": "Cure",
+      "btnName": "Heal"
+    },
+    "MissileCenterHonorWall": {
+      "id": "MissileCenterHonorWall",
+      "btnName": "Honor"
+    },
+    "Training": {
+      "id": "Training",
+      "btnName": "Train"
+    },
+    "PVP3v3": {
+      "id": "PVP3v3",
+      "btnName": "Arena"
+    },
+    "AEBattle": {
+      "id": "AEBattle",
+      "btnName": "Reinforce"
+    },
+    "TechSpeed": {
+      "id": "TechSpeed",
+      "btnName": "Speedup"
+    },
+    "Expedition": {
+      "id": "Expedition",
+      "btnName": "Expedition"
+    },
+    "TrainingSpeed": {
+      "id": "TrainingSpeed",
+      "btnName": "Speedup"
+    },
+    "AllianceWar": {
+      "id": "AllianceWar",
+      "btnName": "War"
+    },
+    "Mecha": {
+      "id": "Mecha",
+      "btnName": "Survivor"
+    },
+    "Arrange": {
+      "id": "Arrange",
+      "btnName": "Lineup"
+    },
+    "TransportRes": {
+      "id": "TransportRes",
+      "btnName": "Transport"
+    },
+    "TankCenterHonorWall": {
+      "id": "TankCenterHonorWall",
+      "btnName": "Honor"
+    },
+    "PVPSlg": {
+      "id": "PVPSlg",
+      "btnName": "Arena"
+    },
+    "ReliefTroops": {
+      "id": "ReliefTroops",
+      "btnName": "Reinforce"
+    },
+    "GoTo": {
+      "id": "GoTo",
+      "btnName": "Go"
+    },
+    "Worker": {
+      "id": "Worker",
+      "btnName": "Survivor"
+    },
+    "LordJobzhudongjineng": {
+      "id": "LordJobzhudongjineng",
+      "btnName": "Specialty Active Skill"
+    },
+    "Appearance": {
+      "id": "Appearance",
+      "btnName": "Skin"
+    },
+    "AircraftCenterHonorWall": {
+      "id": "AircraftCenterHonorWall",
+      "btnName": "Honor"
+    },
+    "Info": {
+      "id": "Info",
+      "btnName": "Details"
+    },
+    "CureSpeed": {
+      "id": "CureSpeed",
+      "btnName": "Speedup"
+    },
+    "Drone_Common": {
+      "id": "Drone_Common",
+      "btnName": "Raven"
+    },
+    "VStation": {
+      "id": "VStation",
+      "btnName": "Explore"
+    },
+    "PubExchange": {
+      "id": "PubExchange",
+      "btnName": "Exchange"
+    },
+    "WorkerOverView": {
+      "id": "WorkerOverView",
+      "btnName": "Overview"
+    },
+    "SoldierShelter": {
+      "id": "SoldierShelter",
+      "btnName": "Recruit"
+    },
+    "UpgradeSoldierSpeed": {
+      "id": "UpgradeSoldierSpeed",
+      "btnName": "Speedup"
+    },
+    "TrialTower": {
+      "id": "TrialTower",
+      "btnName": "Arena"
+    },
+    "Assist": {
+      "id": "Assist",
+      "btnName": "Help"
+    },
+    "CityDefense": {
+      "id": "CityDefense",
+      "btnName": "Fortifications"
+    },
+    "BuildingSpeed": {
+      "id": "BuildingSpeed",
+      "btnName": "Speedup"
+    },
+    "Smithy": {
+      "id": "Smithy",
+      "btnName": "Craft"
+    },
+    "ParadeDetail": {
+      "id": "ParadeDetail",
+      "btnName": "Units"
+    },
+    "Cancel": {
+      "id": "Cancel",
+      "btnName": "Cancel"
+    },
+    "ParadeFomation": {
+      "id": "ParadeFomation",
+      "btnName": "Lineup"
+    },
+    "Scout": {
+      "id": "Scout",
+      "btnName": "Falcon Tower"
+    },
+    "Confirm": {
+      "id": "Confirm",
+      "btnName": "OK"
+    }
+  },
+  "len": 50,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,44 @@
+{
+  "len": 5,
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "AssembleTime_集结时间",
+  "first": 1,
+  "data": {
+    "1": {
+      "massMinJoinCastleLevel": 1,
+      "mapType": 0,
+      "waitingTime": 60000,
+      "castleLevel": 1,
+      "id": 1
+    },
+    "4": {
+      "massMinJoinCastleLevel": 1,
+      "mapType": 0,
+      "waitingTime": 1800000,
+      "castleLevel": 7,
+      "id": 4
+    },
+    "5": {
+      "massMinJoinCastleLevel": 1,
+      "mapType": 9900,
+      "waitingTime": 180000,
+      "castleLevel": 1,
+      "id": 5
+    },
+    "2": {
+      "massMinJoinCastleLevel": 1,
+      "mapType": 0,
+      "waitingTime": 300000,
+      "castleLevel": 1,
+      "id": 2
+    },
+    "3": {
+      "massMinJoinCastleLevel": 1,
+      "mapType": 0,
+      "waitingTime": 600000,
+      "castleLevel": 7,
+      "id": 3
+    }
+  }
+}

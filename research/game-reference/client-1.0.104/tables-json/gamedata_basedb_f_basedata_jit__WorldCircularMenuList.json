@@ -1,0 +1,506 @@
+{
+  "len": 83,
+  "excelName": "H-环形菜单",
+  "isNeedTransform": true,
+  "data": {
+    "MechCity_Attack": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "MechCity_Attack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ResourceSupport": {
+      "btnIcon": "Map_Btn_Traffic",
+      "btnName": "",
+      "id": "ResourceSupport",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SecretExecute": {
+      "btnIcon": "Map_Btn_Search",
+      "btnName": "",
+      "id": "SecretExecute",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "HeroRoadUnionRally": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "HeroRoadUnionRally",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_Reinforce": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "MechCity_Reinforce",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Mass": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "Mass",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ChangeFacade": {
+      "btnIcon": "Map_Btn_DressUp",
+      "btnName": "",
+      "id": "ChangeFacade",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Relocate": {
+      "btnIcon": "Map_Btn_MoveCity",
+      "btnName": "",
+      "id": "Relocate",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_AllAttack": {
+      "btnIcon": "Map_Btn_City_allAttack",
+      "btnName": "",
+      "id": "MechCity_AllAttack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossBeginChallenge": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "UnionBossBeginChallenge",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "RelocateRallyPoint": {
+      "btnIcon": "Map_Btn_AllianceAssemble",
+      "btnName": "",
+      "id": "RelocateRallyPoint",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ReinforceArmy": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "ReinforceArmy",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ResourceInfo": {
+      "btnIcon": "Map_Btn_Details",
+      "btnName": "",
+      "id": "ResourceInfo",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Attack": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "Attack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_Rally": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "MechCity_Rally",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurningFrost_Back": {
+      "btnIcon": "Map_Btn_CallBack",
+      "btnName": "",
+      "id": "BurningFrost_Back",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "HeroRoadPersonRally": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "HeroRoadPersonRally",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Mark": {
+      "btnIcon": "Battlefield_icon_markings",
+      "btnName": "",
+      "id": "BurstBattle_Mark",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Rank": {
+      "btnIcon": "Map_Btn_Rank",
+      "btnName": "",
+      "id": "Rank",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Attack": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "BurstBattle_Attack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SecretHelp": {
+      "btnIcon": "Map_Btn_Help",
+      "btnName": "",
+      "id": "SecretHelp",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Reinforce": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "BurstBattle_Reinforce",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "PlayerDetails": {
+      "btnIcon": "Map_Btn_Commander",
+      "btnName": "",
+      "id": "PlayerDetails",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_State": {
+      "btnIcon": "Map_Btn_Details2",
+      "btnName": "",
+      "id": "TempleBattle_State",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurningFrost_Scout": {
+      "btnIcon": "Map_Btn_Scout",
+      "btnName": "",
+      "id": "BurningFrost_Scout",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Info": {
+      "btnIcon": "Map_Btn_Details",
+      "btnName": "",
+      "id": "TempleBattle_Info",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurningFrost_Attack": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "BurningFrost_Attack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Attack": {
+      "btnIcon": "Map_Btn_Attack",
+      "btnName": "",
+      "id": "TempleBattle_Attack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "RadarUnionHelp": {
+      "btnIcon": "Map_Btn_Help",
+      "btnName": "",
+      "id": "RadarUnionHelp",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_Scout": {
+      "btnIcon": "Map_Btn_Scout",
+      "btnName": "",
+      "id": "MechCity_Scout",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Mass": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "BurstBattle_Mass",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "CityFireHelp": {
+      "btnIcon": "Map_Btn_PutOut",
+      "btnName": "",
+      "id": "CityFireHelp",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_Departure": {
+      "btnIcon": "Map_Btn_Outset",
+      "btnName": "",
+      "id": "March_Departure",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Emoji": {
+      "btnIcon": "Map_Btn_Emoji",
+      "btnName": "",
+      "id": "Emoji",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Cancel": {
+      "btnIcon": "Map_Btn_Cancel",
+      "btnName": "",
+      "id": "Cancel",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SecretPlunder": {
+      "btnIcon": "Map_Btn_Plunder",
+      "btnName": "",
+      "id": "SecretPlunder",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "LookoverSupport": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "LookoverSupport",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "LordJob_tianfu_feixunchanchu": {
+      "btnIcon": "btn_sjhxcd_wj",
+      "btnName": "",
+      "id": "LordJob_tianfu_feixunchanchu",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Favorite": {
+      "btnIcon": "Map_Btn_Favorite",
+      "btnName": "",
+      "id": "Favorite",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "CityStrengthen": {
+      "btnIcon": "Map_Btn_CastleBuff",
+      "btnName": "",
+      "id": "CityStrengthen",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "AllianceMarkPoint": {
+      "btnIcon": "Map_Btn_AllianceAssemble",
+      "btnName": "",
+      "id": "AllianceMarkPoint",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_Recal": {
+      "btnIcon": "Map_Btn_CallBack",
+      "btnName": "",
+      "id": "March_Recal",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Rally": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "Rally",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossDonate": {
+      "btnIcon": "btn_xianjing",
+      "btnName": "",
+      "id": "UnionBossDonate",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "JoinAlliance": {
+      "btnIcon": "Map_Btn_Help",
+      "btnName": "",
+      "id": "JoinAlliance",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Reinforce": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "TempleBattle_Reinforce",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "WeekendBossRank": {
+      "btnIcon": "Map_Btn_Rank",
+      "btnName": "",
+      "id": "WeekendBossRank",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionDigSend": {
+      "btnIcon": "Map_Btn_Collect",
+      "btnName": "",
+      "id": "UnionDigSend",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Like": {
+      "btnIcon": "Map_Btn_Chat",
+      "btnName": "",
+      "id": "Like",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Scout": {
+      "btnIcon": "Map_Btn_Scout",
+      "btnName": "",
+      "id": "Scout",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "InviteRelocate": {
+      "btnIcon": "Map_Btn_MoveCity",
+      "btnName": "",
+      "id": "InviteRelocate",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionDigCallBack": {
+      "btnIcon": "Map_Btn_CallBack",
+      "btnName": "",
+      "id": "UnionDigCallBack",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossRelocate": {
+      "btnIcon": "Map_Btn_Removal",
+      "btnName": "",
+      "id": "UnionBossRelocate",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ReliefTroops": {
+      "btnIcon": "Map_Btn_ArmyAdd",
+      "btnName": "",
+      "id": "ReliefTroops",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Back": {
+      "btnIcon": "Map_Btn_CallBack",
+      "btnName": "",
+      "id": "BurstBattle_Back",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Scout": {
+      "btnIcon": "Map_Btn_Scout",
+      "btnName": "",
+      "id": "BurstBattle_Scout",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Reward": {
+      "btnIcon": "Map_Btn_Reward",
+      "btnName": "",
+      "id": "TempleBattle_Reward",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossGather": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "UnionBossGather",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossChallengeInfo": {
+      "btnIcon": "Map_Btn_Reward",
+      "btnName": "",
+      "id": "UnionBossChallengeInfo",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "EnterCity": {
+      "btnIcon": "Map_Btn_Enter",
+      "btnName": "",
+      "id": "EnterCity",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_Declare": {
+      "btnIcon": "map_btn_cityWar_declare",
+      "btnName": "",
+      "id": "MechCity_Declare",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_TroopDetail": {
+      "btnIcon": "Map_Btn_Stationed",
+      "btnName": "",
+      "id": "TempleBattle_TroopDetail",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Title": {
+      "btnIcon": "Map_Btn_Official",
+      "btnName": "",
+      "id": "TempleBattle_Title",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurstBattle_Info": {
+      "btnIcon": "Map_Btn_Details",
+      "btnName": "",
+      "id": "BurstBattle_Info",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SecretShare": {
+      "btnIcon": "Map_Btn_Plunder",
+      "btnName": "",
+      "id": "SecretShare",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_Destination": {
+      "btnIcon": "Map_Btn_Destination",
+      "btnName": "",
+      "id": "March_Destination",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "UnionBossRank": {
+      "btnIcon": "Map_Btn_Rank",
+      "btnName": "",
+      "id": "UnionBossRank",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Notice": {
+      "btnIcon": "Map_Btn_Annou",
+      "btnName": "",
+      "id": "TempleBattle_Notice",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Mass": {
+      "btnIcon": "Map_Btn_AllianceGather",
+      "btnName": "",
+      "id": "TempleBattle_Mass",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_SpeedUp": {
+      "btnIcon": "Map_Btn_Speed",
+      "btnName": "",
+      "id": "March_SpeedUp",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "MechCity_Abandon": {
+      "btnIcon": "Map_Btn_Delete",
+      "btnName": "",
+      "id": "MechCity_Abandon",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Back": {
+      "btnIcon": "Map_Btn_CallBack",
+      "btnName": "",
+      "id": "TempleBattle_Back",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SendLetter": {
+      "btnIcon": "Map_Btn_Chat",
+      "btnName": "",
+      "id": "SendLetter",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "SeeUnion": {
+      "btnIcon": "Icon_UI_Bubble_Help",
+      "btnName": "",
+      "id": "SeeUnion",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "TempleBattle_Scout": {
+      "btnIcon": "Map_Btn_Scout",
+      "btnName": "",
+      "id": "TempleBattle_Scout",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Search": {
+      "btnIcon": "Map_Btn_Search",
+      "btnName": "",
+      "id": "Search",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_Info": {
+      "btnIcon": "Map_Btn_Commander",
+      "btnName": "",
+      "id": "March_Info",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "ResourceCollect": {
+      "btnIcon": "Map_Btn_Collect",
+      "btnName": "",
+      "id": "ResourceCollect",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "RadarCollect": {
+      "btnIcon": "Map_Btn_Pick",
+      "btnName": "",
+      "id": "RadarCollect",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "March_OtherPlayerDetails": {
+      "btnIcon": "Map_Btn_PlayerDetails",
+      "btnName": "",
+      "id": "March_OtherPlayerDetails",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "Confirm": {
+      "btnIcon": "Map_Btn_Confirm",
+      "btnName": "",
+      "id": "Confirm",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "BurningFrost_Collect": {
+      "btnIcon": "Map_Btn_Collect",
+      "btnName": "",
+      "id": "BurningFrost_Collect",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    },
+    "LordJob_tianfu": {
+      "btnIcon": "Map_Btn_Outfit_skill",
+      "btnName": "",
+      "id": "LordJob_tianfu",
+      "Atlas": "SpriteAtlas/WorldMap_Common.spriteatlas"
+    }
+  },
+  "key": "id"
+}

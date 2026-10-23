@@ -1,0 +1,484 @@
+{
+  "len": 11,
+  "excelName": "UnionSystem_联盟系统",
+  "key": "id",
+  "isNeedTransform": true,
+  "data": {
+    "9": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        }
+      },
+      "endHour": 48,
+      "gotoId": "alliance_milestone_recruit",
+      "icon": "lmlcb_9",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1009",
+          "param1": "500"
+        }
+      },
+      "startHour": 120,
+      "id": 9,
+      "des": ""
+    },
+    "6": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "count": 10000,
+          "type": 3
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "count": 10000,
+          "type": 3
+        }
+      },
+      "endHour": 48,
+      "gotoId": "alliance_milestone_radar",
+      "icon": "lmlcb_6",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1006",
+          "param1": "2000"
+        }
+      },
+      "startHour": 72,
+      "id": 6,
+      "des": ""
+    },
+    "5": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 24,
+      "gotoId": "alliance_milestone_tech",
+      "icon": "lmlcb_5",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "param1": "1001",
+          "id": "1005",
+          "param2": "1"
+        }
+      },
+      "startHour": 48,
+      "id": 5,
+      "des": ""
+    },
+    "8": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 48,
+      "gotoId": "alliance_milestone_tech",
+      "icon": "lmlcb_8",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1008",
+          "param1": "3"
+        }
+      },
+      "startHour": 96,
+      "id": 8,
+      "des": ""
+    },
+    "7": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_strength001_50"
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_strength001_50"
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        }
+      },
+      "endHour": 72,
+      "gotoId": "alliance_milestone_rally",
+      "icon": "lmlcb_7",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1007",
+          "param1": "400"
+        }
+      },
+      "startHour": 72,
+      "id": 7,
+      "des": ""
+    },
+    "2": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 24,
+      "gotoId": "alliance_milestone_help",
+      "icon": "lmlcb_2",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1002",
+          "param1": "300"
+        }
+      },
+      "startHour": 24,
+      "id": 2,
+      "des": ""
+    },
+    "1": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 72,
+      "gotoId": "",
+      "icon": "lmlcb_1",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1001",
+          "param1": "100"
+        }
+      },
+      "startHour": 0,
+      "id": 1,
+      "des": ""
+    },
+    "4": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "count": 10000,
+          "type": 3
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "count": 10000,
+          "type": 3
+        }
+      },
+      "endHour": 24,
+      "gotoId": "alliance_milestone_tech",
+      "icon": "lmlcb_4",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1004",
+          "param1": "2000"
+        }
+      },
+      "startHour": 48,
+      "id": 4,
+      "des": ""
+    },
+    "3": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 200,
+          "id": "item_optionalBox_Resource"
+        },
+        "4": {
+          "count": 500,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "type": 99,
+          "count": 200,
+          "id": "item_optionalBox_Resource"
+        },
+        "4": {
+          "count": 300,
+          "type": 11
+        }
+      },
+      "endHour": 216,
+      "gotoId": "",
+      "icon": "lmlcb_3",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1003",
+          "param1": "150000000"
+        }
+      },
+      "startHour": 24,
+      "id": 3,
+      "des": ""
+    },
+    "11": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 24,
+      "gotoId": "alliance_milestone_city",
+      "icon": "lmlcb_11",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1011",
+          "param1": "1"
+        }
+      },
+      "startHour": 168,
+      "id": 11,
+      "des": ""
+    },
+    "10": {
+      "leaderRewards": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "iconAtlas": "SpriteAtlas/UI_Alliance.spriteatlas",
+      "memberRewards": {
+        "1": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_500"
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        }
+      },
+      "endHour": 24,
+      "gotoId": "alliance_milestone_gift",
+      "icon": "lmlcb_10",
+      "title": "",
+      "milestoneTask": {
+        "1": {
+          "id": "1010",
+          "param1": "2"
+        }
+      },
+      "startHour": 144,
+      "id": 10,
+      "des": ""
+    }
+  },
+  "first": 1
+}

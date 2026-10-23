@@ -1,0 +1,47 @@
+{
+  "data": {
+    "8": {
+      "describe": "Upgrade Specialty Level to earn Skill Points, then spend them to Unlock powerful Specialty Skills.",
+      "title": "Specialty Skill",
+      "id": 8
+    },
+    "7": {
+      "describe": "Spend Specialty EXP to increase Specialty Level.",
+      "title": "Specialty Level",
+      "id": 7
+    },
+    "6": {
+      "describe": "Earn Specialty EXP by slaying Sandbox Monsters, opening Alliance Duel Chests, and claiming Kingdom War kill rewards.",
+      "title": "Specialty EXP",
+      "id": 6
+    },
+    "5": {
+      "describe": "Lords may choose between Handyman or Legion Commander Specialties. Handyman favors internal governance, while Legion Commander excels in combat conquest.",
+      "title": "Specialty Choice",
+      "id": 5
+    },
+    "4": {
+      "describe": "Select the ideal Lord's Specialty, master unique Specialty Skills, and secure powerful support for City development and battle.",
+      "title": "Lord's Specialty",
+      "id": 4
+    },
+    "3": {
+      "describe": "Spend RES EXP to increase RES Level. Higher RES Level grants greater resistance stats and stronger advantages in Monster combat.",
+      "title": "RES Level",
+      "id": 3
+    },
+    "2": {
+      "describe": "Boost Lord's Specialty levels and slay Monsters to earn abundant RES EXP.",
+      "title": "RES EXP",
+      "id": 2
+    },
+    "1": {
+      "describe": "RES (resistance) is the foundation for rapid progression in Era of Revival. Boost your RES to face increasingly powerful Monsters.",
+      "title": "RES",
+      "id": 1
+    }
+  },
+  "len": 8,
+  "key": "id",
+  "source_format": "locale rows"
+}

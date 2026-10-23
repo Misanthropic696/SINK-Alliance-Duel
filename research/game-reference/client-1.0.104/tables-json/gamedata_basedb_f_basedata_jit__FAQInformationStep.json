@@ -1,0 +1,509 @@
+{
+  "len": 50,
+  "key": "id",
+  "excelName": "FAQInformation_系统介绍",
+  "data": {
+    "9": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_08.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_10.png",
+      "id": 9,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "8": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_07.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_09.png",
+      "id": 8,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "7": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_06.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_07.png",
+      "id": 7,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "110": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_wgdj_sm1.png",
+      "introductionId": 1009,
+      "icon": "",
+      "id": 110,
+      "iconAtlas": ""
+    },
+    "1": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner.png",
+      "introductionId": 1001,
+      "icon": "",
+      "id": 1,
+      "iconAtlas": ""
+    },
+    "111": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_wgdj_sm2.png",
+      "introductionId": 1009,
+      "icon": "",
+      "id": 111,
+      "iconAtlas": ""
+    },
+    "5": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_04.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_04.png",
+      "id": 5,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "4": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_03.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_03.png",
+      "id": 4,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "3": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_02.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_02.png",
+      "id": 3,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "2": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_01.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_01.png",
+      "id": 2,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "112": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_wgdj_sm3.png",
+      "introductionId": 1009,
+      "icon": "",
+      "id": 112,
+      "iconAtlas": ""
+    },
+    "51": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ld_banner1.png",
+      "introductionId": 1002,
+      "icon": "",
+      "id": 51,
+      "iconAtlas": ""
+    },
+    "94": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "",
+      "introductionId": 1007,
+      "icon": "",
+      "id": 94,
+      "iconAtlas": ""
+    },
+    "113": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_wgdj_sm4.png",
+      "introductionId": 1009,
+      "icon": "",
+      "id": 113,
+      "iconAtlas": ""
+    },
+    "93": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/congressional_battle_window_banner03.png",
+      "introductionId": 1007,
+      "icon": "",
+      "id": 93,
+      "iconAtlas": ""
+    },
+    "92": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/congressional_battle_window_banner02.png",
+      "introductionId": 1007,
+      "icon": "",
+      "id": 92,
+      "iconAtlas": ""
+    },
+    "91": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/congressional_battle_window_banner01.png",
+      "introductionId": 1007,
+      "icon": "",
+      "id": 91,
+      "iconAtlas": ""
+    },
+    "84": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ybrw_peitu4.png",
+      "introductionId": 1006,
+      "icon": "",
+      "id": 84,
+      "iconAtlas": ""
+    },
+    "104": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_04.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 104,
+      "iconAtlas": ""
+    },
+    "124": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_05.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 124,
+      "iconAtlas": ""
+    },
+    "72": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_shoujun.png",
+      "introductionId": 1005,
+      "icon": "",
+      "id": 72,
+      "iconAtlas": ""
+    },
+    "120": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_01.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 120,
+      "iconAtlas": ""
+    },
+    "82": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ybrw_peitu2.png",
+      "introductionId": 1006,
+      "icon": "",
+      "id": 82,
+      "iconAtlas": ""
+    },
+    "81": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ybrw_peitu1.png",
+      "introductionId": 1006,
+      "icon": "",
+      "id": 81,
+      "iconAtlas": ""
+    },
+    "74": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_zhanling.png",
+      "introductionId": 1005,
+      "icon": "",
+      "id": 74,
+      "iconAtlas": ""
+    },
+    "73": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_laijiu.png",
+      "introductionId": 1005,
+      "icon": "",
+      "id": 73,
+      "iconAtlas": ""
+    },
+    "125": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_06.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 125,
+      "iconAtlas": ""
+    },
+    "105": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_05.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 105,
+      "iconAtlas": ""
+    },
+    "121": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_02.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 121,
+      "iconAtlas": ""
+    },
+    "101": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_01.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 101,
+      "iconAtlas": ""
+    },
+    "63": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_paihangbang.png",
+      "introductionId": 1004,
+      "icon": "",
+      "id": 63,
+      "iconAtlas": ""
+    },
+    "53": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ld_banner3.png",
+      "introductionId": 1002,
+      "icon": "",
+      "id": 53,
+      "iconAtlas": ""
+    },
+    "83": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ybrw_peitu3.png",
+      "introductionId": 1006,
+      "icon": "",
+      "id": 83,
+      "iconAtlas": ""
+    },
+    "55": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ldgr_banner1.png",
+      "introductionId": 1003,
+      "icon": "",
+      "id": 55,
+      "iconAtlas": ""
+    },
+    "71": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_xuanzhan.png",
+      "introductionId": 1005,
+      "icon": "",
+      "id": 71,
+      "iconAtlas": ""
+    },
+    "10": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_09.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_11.png",
+      "id": 10,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "102": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_02.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 102,
+      "iconAtlas": ""
+    },
+    "122": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_03.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 122,
+      "iconAtlas": ""
+    },
+    "62": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_shoujun.png",
+      "introductionId": 1004,
+      "icon": "",
+      "id": 62,
+      "iconAtlas": ""
+    },
+    "61": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/citybattle_xuanzhan.png",
+      "introductionId": 1004,
+      "icon": "",
+      "id": 61,
+      "iconAtlas": ""
+    },
+    "6": {
+      "type": 2,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/BurstBattle_banner_05.png",
+      "introductionId": 1001,
+      "icon": "FAQ/Icon_Build_BurstBattle_05.png",
+      "id": 6,
+      "iconAtlas": "SpriteAtlas/UI_Activity.spriteatlas"
+    },
+    "127": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_08.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 127,
+      "iconAtlas": ""
+    },
+    "106": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_06.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 106,
+      "iconAtlas": ""
+    },
+    "54": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ld_banner4.png",
+      "introductionId": 1002,
+      "icon": "",
+      "id": 54,
+      "iconAtlas": ""
+    },
+    "123": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_04.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 123,
+      "iconAtlas": ""
+    },
+    "103": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_03.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 103,
+      "iconAtlas": ""
+    },
+    "52": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ld_banner2.png",
+      "introductionId": 1002,
+      "icon": "",
+      "id": 52,
+      "iconAtlas": ""
+    },
+    "56": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/pic_ldgr_banner2.png",
+      "introductionId": 1003,
+      "icon": "",
+      "id": 56,
+      "iconAtlas": ""
+    },
+    "126": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_lztf_07.png",
+      "introductionId": 1010,
+      "icon": "",
+      "id": 126,
+      "iconAtlas": ""
+    },
+    "107": {
+      "type": 1,
+      "sheetName": "",
+      "description": "",
+      "guidePic": "FAQ/img_rs_07.png",
+      "introductionId": 1008,
+      "icon": "",
+      "id": 107,
+      "iconAtlas": ""
+    }
+  },
+  "first": 1,
+  "isNeedTransform": true
+}

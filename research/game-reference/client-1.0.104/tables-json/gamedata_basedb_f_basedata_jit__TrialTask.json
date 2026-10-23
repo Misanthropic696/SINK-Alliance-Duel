@@ -1,0 +1,2079 @@
+{
+  "len": 52,
+  "isNeedTransform": true,
+  "key": "id",
+  "excelName": "Activity_Trial任务试炼",
+  "first": 1001,
+  "data": {
+    "2010": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 10,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "300000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_module_props_Box_1"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2010
+    },
+    "2015": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 15,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "800000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2015
+    },
+    "3003": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 3,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "15",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3003
+    },
+    "2003": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 3,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 35,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2003
+    },
+    "1003": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 3,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "4",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1003
+    },
+    "1005": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 5,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "6",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 2000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 48,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1005
+    },
+    "5002": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 2,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "10",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5002
+    },
+    "1002": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 2,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "3",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 1250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1002
+    },
+    "1009": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 9,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "10",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 4000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 96,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 3600,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 22,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 200,
+      "id": 1009
+    },
+    "3002": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 2,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "10",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3002
+    },
+    "4002": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 2,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "10",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4002
+    },
+    "2008": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 8,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "200000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_1"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2008
+    },
+    "3008": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 8,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "40",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 84,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 3150,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3008
+    },
+    "1008": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 8,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "9",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 3500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 84,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 3150,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1008
+    },
+    "2012": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 12,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "400000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_module_props_Box_2"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2012
+    },
+    "2016": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 16,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "1000000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2016
+    },
+    "4008": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 8,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "40",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 84,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 3150,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4008
+    },
+    "5008": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 8,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "40",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 84,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 3150,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 18,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5008
+    },
+    "3004": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 4,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "20",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3004
+    },
+    "4004": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 4,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "20",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4004
+    },
+    "1004": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 4,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "5",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1004
+    },
+    "2004": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 4,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "80000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2004
+    },
+    "4006": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 6,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "30",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 60,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2250,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4006
+    },
+    "5006": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 6,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "30",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 60,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2250,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5006
+    },
+    "2014": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 14,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "600000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2014
+    },
+    "4001": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 1,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "5",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4001
+    },
+    "3001": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 1,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "5",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3001
+    },
+    "5001": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 1,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "5",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5001
+    },
+    "2002": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 2,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "25000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 30,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2002
+    },
+    "5005": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 5,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "25",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 48,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5005
+    },
+    "5004": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 4,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "20",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5004
+    },
+    "2018": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 18,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "1400000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2018
+    },
+    "5003": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 3,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "15",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5003
+    },
+    "4007": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 7,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "35",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 72,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2700,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4007
+    },
+    "4005": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 5,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "25",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 48,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4005
+    },
+    "4003": {
+      "funId": "hero_1",
+      "actId": 1500010104,
+      "showSort": 3,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50005",
+          "includeHistory": "TRUE",
+          "param2": "15",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 36,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1350,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 4003
+    },
+    "3007": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 7,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "35",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 72,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2700,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3007
+    },
+    "3006": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 6,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "30",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 60,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2250,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3006
+    },
+    "3005": {
+      "funId": "hero_1",
+      "actId": 1500010103,
+      "showSort": 5,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50001",
+          "includeHistory": "TRUE",
+          "param2": "25",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 48,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 3005
+    },
+    "2011": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 11,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "350000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_module_props_Box_2"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2011
+    },
+    "2019": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 19,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "1500000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2019
+    },
+    "2017": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 17,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "1200000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2017
+    },
+    "2013": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 13,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "500000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_module_props_Box_2"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2013
+    },
+    "2009": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 9,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "250000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_module_props_Box_1"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2009
+    },
+    "1007": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 7,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "8",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 3000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 72,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2700,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1007
+    },
+    "2005": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 5,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "100000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 45,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2005
+    },
+    "2001": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 1,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "10000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 25,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2001
+    },
+    "1001": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 1,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "2",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 1250,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 1125,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1001
+    },
+    "5007": {
+      "funId": "hero_1",
+      "actId": 1500010105,
+      "showSort": 7,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "50010",
+          "includeHistory": "TRUE",
+          "param2": "35",
+          "id": "200086"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_ue_universalFragment"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 72,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2700,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 0,
+      "id": 5007
+    },
+    "1006": {
+      "funId": "hero_1",
+      "actId": 1500010101,
+      "showSort": 6,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "7",
+          "param2": "1",
+          "id": 200058
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "count": 2500,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        },
+        "3": {
+          "count": 60,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        },
+        "4": {
+          "count": 2250,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        },
+        "5": {
+          "count": 12,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "showType": 1,
+      "score": 100,
+      "id": 1006
+    },
+    "2006": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 6,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "120000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        },
+        "2": {
+          "count": 50,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2006
+    },
+    "2007": {
+      "funId": "goto_become_stronger_12",
+      "actId": 1500010102,
+      "showSort": 7,
+      "desc": "",
+      "target": {
+        "1": {
+          "param1": "150000",
+          "param2": "1",
+          "id": 30110
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_1"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "showType": 2,
+      "score": 0,
+      "id": 2007
+    }
+  }
+}

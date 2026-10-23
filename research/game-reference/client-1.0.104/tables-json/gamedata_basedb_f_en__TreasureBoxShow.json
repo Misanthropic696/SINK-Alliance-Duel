@@ -1,0 +1,22 @@
+{
+  "data": {
+    "9957": {
+      "name": "Medkit",
+      "des": "[Medkits] will scatter near the building when ownership changes, allowing you to dispatch scout troops to collect them and earn corresponding [points].",
+      "id": 9957
+    },
+    "9960": {
+      "name": "Camp",
+      "des": "[Camp] will open after a period on the battlefield, available for occupation to earn [some points], with [minor points] additionally obtained during collection.",
+      "id": 9960
+    },
+    "9958": {
+      "name": "Medkit",
+      "des": "[Medkits] will scatter near the building when ownership changes, allowing you to dispatch scout troops to collect them and earn corresponding [points].",
+      "id": 9958
+    }
+  },
+  "len": 3,
+  "key": "id",
+  "source_format": "locale rows"
+}

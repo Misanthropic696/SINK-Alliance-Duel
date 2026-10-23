@@ -1,0 +1,520 @@
+{
+  "data": {
+    "100301": {
+      "desc": "",
+      "expression": "Math.min(Math.max(0.0,(n1-n2)*0.02),0.5)",
+      "name": "",
+      "id": 100301,
+      "block": 0
+    },
+    "1042008": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.6),1.0)",
+      "name": "",
+      "id": 1042008,
+      "block": 0
+    },
+    "100302": {
+      "desc": "",
+      "expression": "Math.min(Math.max(0.0,(n1-n2)*0.01),0.5)",
+      "name": "",
+      "id": 100302,
+      "block": 0
+    },
+    "63004": {
+      "desc": "",
+      "expression": "Math.ceil((Math.pow(n1,0.57)+5000))",
+      "name": "",
+      "id": 63004,
+      "block": 0
+    },
+    "50013": {
+      "desc": "",
+      "expression": "Math.abs(n1 - n2)/((n1 + n2) / 2)",
+      "name": "",
+      "id": 50013,
+      "block": 0
+    },
+    "200105": {
+      "desc": "",
+      "expression": "Math.ceil(n1*(1+n2)*(2-n3))",
+      "name": "",
+      "id": 200105,
+      "block": 0
+    },
+    "103501": {
+      "desc": "",
+      "expression": "Math.floor(5000+Math.min(Math.floor(n1/10001),1.0)*1500+Math.min(Math.floor(n1/30001),1.0)*1500+Math.min(Math.floor(n1/50001),1.0)*1500+Math.min(Math.floor(n1/100001),1.0)*2000+Math.min(Math.floor(n1/200001),1.0)*1500+Math.min(Math.floor(n1/300001),1.0)*2000)",
+      "name": "",
+      "id": 103501,
+      "block": 0
+    },
+    "1042003": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.2),1.0)",
+      "name": "",
+      "id": 1042003,
+      "block": 0
+    },
+    "1008002": {
+      "desc": "",
+      "expression": "Math.ceil(20-(n1-n2)/19.5)",
+      "name": "",
+      "id": 1008002,
+      "block": 0
+    },
+    "40001": {
+      "desc": "",
+      "expression": "n1*(1-Math.pow(0.5,n2))/0.5",
+      "name": "",
+      "id": 40001,
+      "block": 0
+    },
+    "1001001": {
+      "desc": "",
+      "expression": "Math.floor(Math.floor(n5+(n1*3500+n3*35000+n2*26000)*n4)*Math.pow(1.25,Math.max(0.0,(n6-5))))",
+      "name": "",
+      "id": 1001001,
+      "block": 0
+    },
+    "58001": {
+      "desc": "",
+      "expression": "Math.ceil(Math.ceil((10+Math.min(n1-10,0.0))*100/10+Math.min(Math.floor(n1/10),1.0)*(30+Math.min(n1-40,0.0))*500/5+Math.min(Math.floor(n1/40),1.0)*(20+Math.min(n1-60,0.0))*1800/5)+Math.pow(1.7,n2)*5000)",
+      "name": "",
+      "id": 58001,
+      "block": 0
+    },
+    "54001": {
+      "desc": "",
+      "expression": "Math.ceil((Math.ceil((10+Math.min(n1-10,0.0))*100+Math.min(Math.floor(n1/10),1.0)*(30+Math.min(n1-40,0.0))*500/5+Math.min(Math.floor(n1/40),1.0)*(20+Math.min(n1-60,0.0))*1800/5)+n3)*n2)",
+      "name": "",
+      "id": 54001,
+      "block": 0
+    },
+    "3": {
+      "desc": "",
+      "expression": "Math.ceil(n1/1000)",
+      "name": "",
+      "id": 3,
+      "block": 0
+    },
+    "4": {
+      "desc": "",
+      "expression": "Math.ceil(n1/600)",
+      "name": "",
+      "id": 4,
+      "block": 0
+    },
+    "5": {
+      "desc": "",
+      "expression": "Math.ceil(n1/50)",
+      "name": "",
+      "id": 5,
+      "block": 0
+    },
+    "1": {
+      "desc": "",
+      "expression": "Math.ceil(0.125*Math.pow(n1,0.8925))",
+      "name": "",
+      "id": 1,
+      "block": 0
+    },
+    "2": {
+      "desc": "",
+      "expression": "Math.ceil(n1/1000)",
+      "name": "",
+      "id": 2,
+      "block": 0
+    },
+    "50004": {
+      "desc": "",
+      "expression": "Math.max(1.0,Math.floor(2.4*n1*n2*(n1+40000)/(n1+40000+n3*4.5)*Math.max(0.2,(1+n4-n5))*n6*Math.max(0.2,(1+n7-n8))*Math.max(1.0,n9*(2+n10-n11))*Math.max(0.2,(1-n12))*n13*(1+n14)*(1+n15)*(1+n16)*(0.5+0.5*n17)*(1+n18)*(1+n19)*Math.max(0.2,(1+n20-n21))))",
+      "name": "",
+      "id": 50004,
+      "block": 0
+    },
+    "1042012": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.9),1.0)",
+      "name": "",
+      "id": 1042012,
+      "block": 0
+    },
+    "1042009": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.65),1.0)",
+      "name": "",
+      "id": 1042009,
+      "block": 0
+    },
+    "200109": {
+      "desc": "",
+      "expression": "Math.max(1.0,100*Math.pow((n1*n3)/(n2*1.2),1.2)*(1+n5)*n6*(1+n4*0.5)*Math.max(1.0,(1+(n7-20)*0.1))*(1+n8-n9)*(1-0.5*n10))",
+      "name": "",
+      "id": 200109,
+      "block": 0
+    },
+    "50003": {
+      "desc": "",
+      "expression": "Math.max(1.0,Math.min(2.0,n1/Math.max(1.0,n2)))",
+      "name": "",
+      "id": 50003,
+      "block": 0
+    },
+    "50001": {
+      "desc": "",
+      "expression": "Math.max(0.2,1+n3*n1-n4*(n2+n5))",
+      "name": "",
+      "id": 50001,
+      "block": 0
+    },
+    "102502": {
+      "desc": "",
+      "expression": "-Math.ceil(500*(1+Math.min((n1-n2)*0.1,0.5)))",
+      "name": "",
+      "id": 102502,
+      "block": 0
+    },
+    "104301": {
+      "desc": "",
+      "expression": "Math.max(0.0,Math.floor(n1/10))",
+      "name": "",
+      "id": 104301,
+      "block": 0
+    },
+    "15001": {
+      "desc": "",
+      "expression": "Math.floor(50+n1*5)",
+      "name": "",
+      "id": 15001,
+      "block": 0
+    },
+    "69001": {
+      "desc": "",
+      "expression": "0.9",
+      "name": "",
+      "id": 69001,
+      "block": 0
+    },
+    "1042005": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.4),1.0)",
+      "name": "",
+      "id": 1042005,
+      "block": 0
+    },
+    "11801": {
+      "desc": "",
+      "expression": "Math.floor(5000+Math.min(Math.floor(n1/10001),1.0)*1500+Math.min(Math.floor(n1/30001),1.0)*1500+Math.min(Math.floor(n1/50001),1.0)*1500+Math.min(Math.floor(n1/100001),1.0)*2000+Math.min(Math.floor(n1/200001),1.0)*1500+Math.min(Math.floor(n1/300001),1.0)*2000)",
+      "name": "",
+      "id": 11801,
+      "block": 0
+    },
+    "200110": {
+      "desc": "",
+      "expression": "n2 * (n3 + n4 + n5 * 0.513) / 3 + n1",
+      "name": "",
+      "id": 200110,
+      "block": 0
+    },
+    "50007": {
+      "desc": "",
+      "expression": "Math.max(1.0,Math.floor(n1*n2*(n1+10000)/(n1+10000+n3*0.8)*Math.max(0.4,(1+n4-n5))*n6*Math.max(0.4,(1+n7-n8))*(1-n9)*n10*(1+n11)*(1+n12)*(1+n13)*(0.5+0.5*n14)*(1+n15)*(1+n16)*Math.max(0.2,(1+n17-n18))))",
+      "name": "",
+      "id": 50007,
+      "block": 0
+    },
+    "300101": {
+      "desc": "",
+      "expression": "Math.min(Math.max(0.0,(n1-n2)*0.02),0.5)",
+      "name": "",
+      "id": 300101,
+      "block": 0
+    },
+    "1042002": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.1),1.0)",
+      "name": "",
+      "id": 1042002,
+      "block": 0
+    },
+    "1042004": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.3),1.0)",
+      "name": "",
+      "id": 1042004,
+      "block": 0
+    },
+    "200104": {
+      "desc": "",
+      "expression": "Math.max(1.0,100*Math.pow((n1*n3)/(n2*1.2),1.2)*(1+n5)*n6*(1+n4*0.5)*Math.max(1.0,(1+(n7-20)*0.1))*(1+n8-n9)*(1-0.5*n10))",
+      "name": "",
+      "id": 200104,
+      "block": 0
+    },
+    "50012": {
+      "desc": "",
+      "expression": "Math.max(Math.floor((1+n1)*9)*n2,1.0)",
+      "name": "",
+      "id": 50012,
+      "block": 0
+    },
+    "300102": {
+      "desc": "",
+      "expression": "Math.min(Math.max(0.0,(n1-n2)*0.01),0.5)",
+      "name": "",
+      "id": 300102,
+      "block": 0
+    },
+    "200102": {
+      "desc": "",
+      "expression": "Math.max(0.5,1+n1-n2)",
+      "name": "",
+      "id": 200102,
+      "block": 0
+    },
+    "102501": {
+      "desc": "",
+      "expression": "Math.ceil(500*(1-Math.min((n1-n2)*0.1,0.5)))",
+      "name": "",
+      "id": 102501,
+      "block": 0
+    },
+    "1042011": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.8),1.0)",
+      "name": "",
+      "id": 1042011,
+      "block": 0
+    },
+    "74002": {
+      "desc": "",
+      "expression": "Math.floor(n1/10)",
+      "name": "",
+      "id": 74002,
+      "block": 0
+    },
+    "22001": {
+      "desc": "",
+      "expression": "Math.ceil((n1*n2)/n3)",
+      "name": "",
+      "id": 22001,
+      "block": 0
+    },
+    "1042001": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1),1.0)",
+      "name": "",
+      "id": 1042001,
+      "block": 0
+    },
+    "42001": {
+      "desc": "",
+      "expression": "Math.min(n1*(8+2*n2),600.0)",
+      "name": "",
+      "id": 42001,
+      "block": 0
+    },
+    "74001": {
+      "desc": "",
+      "expression": "Math.floor(n1/0.1)",
+      "name": "",
+      "id": 74001,
+      "block": 0
+    },
+    "36001": {
+      "desc": "",
+      "expression": "n1*1+n2*1",
+      "name": "",
+      "id": 36001,
+      "block": 0
+    },
+    "69002": {
+      "desc": "",
+      "expression": "1.2",
+      "name": "",
+      "id": 69002,
+      "block": 0
+    },
+    "63005": {
+      "desc": "",
+      "expression": "Math.ceil((Math.pow(n1,0.61)+5000))",
+      "name": "",
+      "id": 63005,
+      "block": 0
+    },
+    "50002": {
+      "desc": "",
+      "expression": "Math.max(0.0,0.05+n1-n2)",
+      "name": "",
+      "id": 50002,
+      "block": 0
+    },
+    "200108": {
+      "desc": "",
+      "expression": "Math.max(0.0,n1)",
+      "name": "",
+      "id": 200108,
+      "block": 0
+    },
+    "50006": {
+      "desc": "",
+      "expression": "Math.floor(n1*n2)",
+      "name": "",
+      "id": 50006,
+      "block": 0
+    },
+    "63006": {
+      "desc": "",
+      "expression": "Math.ceil((Math.pow(n1,0.638)+5000))",
+      "name": "",
+      "id": 63006,
+      "block": 0
+    },
+    "63003": {
+      "desc": "",
+      "expression": "Math.ceil(Math.pow(n1,0.5)+5000)",
+      "name": "",
+      "id": 63003,
+      "block": 0
+    },
+    "63007": {
+      "desc": "",
+      "expression": "Math.ceil((Math.pow(n1,0.642)+5000))",
+      "name": "",
+      "id": 63007,
+      "block": 0
+    },
+    "1048001": {
+      "desc": "",
+      "expression": "n1*(2-n2/n3)",
+      "name": "",
+      "id": 1048001,
+      "block": 0
+    },
+    "63002": {
+      "desc": "",
+      "expression": "0.14*n1",
+      "name": "",
+      "id": 63002,
+      "block": 0
+    },
+    "50005": {
+      "desc": "",
+      "expression": "Math.floor(n1*n2*(1+n3+n4))",
+      "name": "",
+      "id": 50005,
+      "block": 0
+    },
+    "50011": {
+      "desc": "",
+      "expression": "Math.max(Math.floor((1+n1)*6)*n2,1.0)",
+      "name": "",
+      "id": 50011,
+      "block": 0
+    },
+    "40002": {
+      "desc": "",
+      "expression": "(n1*(1-Math.pow(0.5,n2))/0.5)-n1",
+      "name": "",
+      "id": 40002,
+      "block": 0
+    },
+    "1008001": {
+      "desc": "",
+      "expression": "Math.ceil(20+(n1-n2)/13.0)",
+      "name": "",
+      "id": 1008001,
+      "block": 0
+    },
+    "129001": {
+      "desc": "",
+      "expression": "Math.min(n1,20000+Math.pow(Math.max(0.0,n1-20000),0.8))",
+      "name": "",
+      "id": 129001,
+      "block": 0
+    },
+    "32001": {
+      "desc": "",
+      "expression": "n1*0",
+      "name": "",
+      "id": 32001,
+      "block": 0
+    },
+    "1042006": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.5),1.0)",
+      "name": "",
+      "id": 1042006,
+      "block": 0
+    },
+    "27011": {
+      "desc": "",
+      "expression": "1000+100*n1",
+      "name": "",
+      "id": 27011,
+      "block": 0
+    },
+    "22003": {
+      "desc": "",
+      "expression": "288000*n4*n2*n1/n3",
+      "name": "",
+      "id": 22003,
+      "block": 0
+    },
+    "22002": {
+      "desc": "",
+      "expression": "n4*n1/n2/n3",
+      "name": "",
+      "id": 22002,
+      "block": 0
+    },
+    "200107": {
+      "desc": "",
+      "expression": "Math.max(0.0,n2-n1)",
+      "name": "",
+      "id": 200107,
+      "block": 0
+    },
+    "1042007": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.55),1.0)",
+      "name": "",
+      "id": 1042007,
+      "block": 0
+    },
+    "200103": {
+      "desc": "",
+      "expression": "Math.max(0.0,n1-n2)",
+      "name": "",
+      "id": 200103,
+      "block": 0
+    },
+    "200101": {
+      "desc": "",
+      "expression": "Math.max(1.0,100/3*Math.pow(n1*(1+(n4-1)*0.1)/n2,1.35)*n3*(1+n5)*n6*Math.max(1.0,(1+(n7-20)*0.1))*(1+n8-n9)*(1-0.5*n10))",
+      "name": "",
+      "id": 200101,
+      "block": 0
+    },
+    "1042010": {
+      "desc": "",
+      "expression": "Math.max(Math.floor(n1*1.7),1.0)",
+      "name": "",
+      "id": 1042010,
+      "block": 0
+    },
+    "200106": {
+      "desc": "",
+      "expression": "Math.ceil(n1*(1+n2))",
+      "name": "",
+      "id": 200106,
+      "block": 0
+    }
+  },
+  "key": "id",
+  "len": 73,
+  "excelName": "Formula-公式总表",
+  "isNeedTransform": true,
+  "first": 1
+}

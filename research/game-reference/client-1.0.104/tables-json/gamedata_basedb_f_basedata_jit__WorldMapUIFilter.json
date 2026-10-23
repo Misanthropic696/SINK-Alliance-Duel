@@ -1,0 +1,60 @@
+{
+  "isNeedTransform": true,
+  "data": {
+    "2": {
+      "legendIds": {
+        "1": 12,
+        "2": 13,
+        "3": 14,
+        "4": 15
+      },
+      "selected": true,
+      "name": "",
+      "string": "资源田",
+      "id": 2,
+      "zoomLevels": {}
+    },
+    "3": {
+      "legendIds": {
+        "1": 6,
+        "2": 7,
+        "3": 8
+      },
+      "selected": true,
+      "name": "",
+      "string": "秘密任务",
+      "id": 3,
+      "zoomLevels": {}
+    },
+    "4": {
+      "legendIds": {
+        "1": 9,
+        "2": 10,
+        "3": 11
+      },
+      "selected": true,
+      "name": "",
+      "string": "小怪",
+      "id": 4,
+      "zoomLevels": {}
+    },
+    "1": {
+      "legendIds": {
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 16
+      },
+      "selected": true,
+      "name": "",
+      "string": "领地",
+      "id": 1,
+      "zoomLevels": {}
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "len": 4,
+  "excelName": "World_大世界"
+}

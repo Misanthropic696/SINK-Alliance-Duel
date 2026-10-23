@@ -1,0 +1,26 @@
+﻿record_key,showType,name,talentId,cardId,des2,showId,icon,id,sort,showUI,mechaSkillId,des1,itemType,type,openId,isPurchsableShield
+108,10,,0,0,,0,Icon_UI_Power_Main_Title2_11,108,1,1,0,,,0,0,False
+3,2,Premium Monthly Pass,0,4010,Purchase the [Premium Monthly Pass] to activate training speed-ups and Troop attribute boosts.,0,Icon_City_Card2,3,9,0,0,Purchase the [Premium Monthly Pass] to activate training speed-ups and Troop attribute boosts.,,1,0,False
+8,3,Shield,0,0,"Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",0,icon_zt_02,8,5,1,0,"Protects your territory, immune to any Scout and Attack actions.",shield,2,1,True
+104,10,,0,0,,0,Icon_UI_Power_Main_Title2_04,104,2,1,0,,,0,0,False
+114,12,Healing Force,0,0,,0,icon_zt_lzzc_14,114,2,1,0,Infirmary Capacity +{0}%,,0,0,False
+117,12,Charging War Flag,0,0,,0,icon_zt_lzzc_37,117,2,1,0,Allied units within War Flag range gain {0} ATK (stacks up to 5x),,0,0,False
+15,3,Shield,0,0,"Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",1,icon_zt_02,15,5,1,0,"Protects your territory, immune to any Scout and Attack actions.",newShield,2,1,False
+107,10,,0,0,,0,Icon_UI_Power_Main_Title2_07,107,2,1,0,,,0,0,False
+1,1,War Frenzy,0,0,"When the Sanctuary reaches Lv.9 or higher, initiate military actions to gain [War Frenzy]: [Troop ATK+5%]. Military actions include Scout, Reinforce, Station, Attack, and Rally on territories, camps, resource points, or cities.
+War Frenzy duration increases with the Sanctuary level, and the shield can only be used after War Frenzy ends.",0,icon_zt_01,1,4,1,0,"Initiating military actions will trigger War Frenzy, during which Shields cannot be used.",,2,1,False
+101,10,,0,0,,0,Icon_UI_Power_Main_Title2_01,101,2,1,0,,,0,0,False
+16,3,Shield (System),0,0,"Shield: Protects your territory, immune to any Scout and Attack actions. Actively attacking or scouting other territories or triggering War Frenzy will disable the shield.",1,icon_zt_02,16,5,1,0,"Protects your territory, immune to any Scout and Attack actions.",systemShield,2,1,False
+106,10,,0,0,,0,Icon_UI_Power_Main_Title2_06,106,2,1,0,,,0,0,False
+102,10,,0,0,,0,Icon_UI_Power_Main_Title2_02,102,2,1,0,,,0,0,False
+111,12,Siege War Flag,0,0,,0,icon_zt_lzzc_08,111,2,1,0,Allies within War Flag range gain +{0} Durability Damage (stacks up to 5x),,0,0,False
+201,7,Plunder Gains,0,0,,1,icon_zt_04,201,3,1,0,"Resources plundered today: {0}, plunder gains reduced to: {1}%",,6,1,False
+202,9,Burning,0,0,,1,icon_zt_05,202,6,1,0,Territory breached! City DEF will decrease over time while burning.,,7,1,False
+103,10,,0,0,,0,Icon_UI_Power_Main_Title2_03,103,2,1,0,,,0,0,False
+1001,14,Raid Buff,0,0,,0,icon_zt_lzzc_16,1001,2,1,0,"Healing Capacity +4000, Healing Speed +150%, Healing Cost -50%",,0,0,False
+113,12,Help Research,0,0,,0,icon_zt_lzzc_12,113,2,1,0,Research Speed +{0}%,,0,0,False
+112,12,Help Building,0,0,,0,icon_zt_lzzc_11,112,2,1,0,Build Speed +{0}%,,0,0,False
+110,10,,0,0,,0,Icon_UI_Power_Main_Title2_10,110,2,1,0,,,0,0,False
+109,10,,0,0,,0,Icon_UI_Power_Main_Title2_09,109,2,1,0,,,0,0,False
+115,12,Bond Shield,0,0,,0,icon_zt_lzzc_15,115,2,1,0,Protected from Player attacks for {0}h,,0,0,False
+105,10,,0,0,,0,Icon_UI_Power_Main_Title2_05,105,2,1,0,,,0,0,False

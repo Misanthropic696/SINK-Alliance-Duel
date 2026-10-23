@@ -1,0 +1,41 @@
+{
+  "data": {
+    "1": {
+      "modelIconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 1,
+      "load": 1,
+      "unlock": 0,
+      "name": "",
+      "modelIcon": "Icon_Item_Food"
+    },
+    "11": {
+      "modelIconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 11,
+      "load": 2000,
+      "unlock": 0,
+      "name": "",
+      "modelIcon": "Icon_UI_Diamond"
+    },
+    "3": {
+      "modelIconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 3,
+      "load": 1,
+      "unlock": 0,
+      "name": "",
+      "modelIcon": "Icon_Item_Stone"
+    },
+    "2": {
+      "modelIconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 2,
+      "load": 1,
+      "unlock": 0,
+      "name": "",
+      "modelIcon": "Icon_Item_Wood"
+    }
+  },
+  "first": 1,
+  "isNeedTransform": true,
+  "excelName": "MapResource_大地图资源",
+  "key": "id",
+  "len": 4
+}

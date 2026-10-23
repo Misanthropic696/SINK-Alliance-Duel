@@ -1,0 +1,52 @@
+{
+  "data": {
+    "1": {
+      "name": "Elixir Castle",
+      "desc": "[Elixir Castle] will open after the battlefield has been active for a while, granting [a massive amount of points] upon capture.",
+      "id": 1
+    },
+    "2": {
+      "name": "War Relics",
+      "skillTitle": "Hero Buff",
+      "desc": "[War Relics] will open after the battlefield has been active for a while, granting [a small amount of points] upon capture.",
+      "skillDesc": "Increase Hero ATK, DEF, and HP by 15%.",
+      "id": 2
+    },
+    "3": {
+      "name": "Cursed Altar",
+      "skillTitle": "Hero Debuff",
+      "desc": "[Cursed Altar] will open after the battlefield has been active for a while, granting [a small amount of points] upon capture.",
+      "skillDesc": "Reduce enemy Hero ATK, DEF, and HP by 15%.",
+      "id": 3
+    },
+    "4": {
+      "name": "Alchemy Workshop",
+      "desc": "[Alchemy Workshop] opens when the battlefield starts, granting [a large amount of points] upon capture.",
+      "id": 4
+    },
+    "5": {
+      "name": "Migration Portal",
+      "skillTitle": "Quick Transfer",
+      "desc": "[Migration Gate] opens when the battlefield starts, granting [a small amount of points] upon capture.",
+      "skillDesc": "Relocation CD reduced by 50%.",
+      "id": 5
+    },
+    "6": {
+      "name": "Observatory",
+      "skillTitle": "Points Efficiency",
+      "desc": "[Observatory] opens when the battlefield starts, granting [a small amount of points] upon capture.",
+      "skillDesc": "Alliance Points efficiency for occupied buildings increased by 10%.",
+      "id": 6
+    },
+    "7": {
+      "name": "Healing Tent",
+      "skillTitle": "Rapid Healing",
+      "desc": "[Healing Tent] opens when the battlefield starts, granting [a moderate amount of points] upon capture.",
+      "skillDesc": "Recover 15 wounded soldiers every 10s.",
+      "id": 7
+    }
+  },
+  "len": 7,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "201": {
+      "defaultName": "God of War",
+      "desc": "As the commander of the alliance, the core responsibility of the God of War is to lead the team in various combat activities, while enhancing the overall combat strength of the alliance.",
+      "id": 201
+    },
+    "101": {
+      "defaultName": "R1",
+      "desc": "Newcomers to the alliance, looking forward to starting a new journey here.",
+      "id": 101
+    },
+    "203": {
+      "defaultName": "Goddess",
+      "desc": "The Goddess is the heart of the alliance, maintaining its atmosphere and culture, organizing events, and enhancing member interaction and cohesion.",
+      "id": 203
+    },
+    "103": {
+      "defaultName": "R3",
+      "desc": "With outstanding performance, gradually becoming the backbone of the alliance.",
+      "id": 103
+    },
+    "102": {
+      "defaultName": "R2",
+      "desc": "Gradually familiarizing with the alliance, actively participating in events, showcasing personal value.",
+      "id": 102
+    },
+    "202": {
+      "defaultName": "Recruiter",
+      "desc": "The Recruiter is responsible for attracting new members to the alliance, assessing potential members' abilities and compatibility, and ensuring the alliance's continuous growth and expansion.",
+      "id": 202
+    },
+    "204": {
+      "defaultName": "Diplomat",
+      "desc": "The Steward manages the alliance's daily affairs and resource allocation, ensuring smooth operations, supporting other roles, and maintaining overall order.",
+      "id": 204
+    },
+    "105": {
+      "defaultName": "R5",
+      "desc": "The highest leader of the alliance, formulating strategies and leading the alliance towards a glorious future.",
+      "id": 105
+    },
+    "104": {
+      "defaultName": "R4",
+      "desc": "Making significant contributions to the alliance, participating in decision-making, nurturing new members, and driving alliance growth.",
+      "id": 104
+    }
+  },
+  "len": 9,
+  "key": "id",
+  "source_format": "locale rows"
+}

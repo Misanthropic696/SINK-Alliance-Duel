@@ -1,0 +1,40 @@
+{
+  "isNeedTransform": true,
+  "len": 3,
+  "key": "id",
+  "excelName": "EmergencyTask_紧急任务",
+  "data": {
+    "2": {
+      "monsterArray": {
+        "1": 9930001,
+        "2": 9930002,
+        "3": 9930003
+      },
+      "mainPic": "",
+      "duration": 240,
+      "name": "",
+      "taskType": 5,
+      "showMap": 0,
+      "id": 2
+    },
+    "1": {
+      "monsterArray": {},
+      "mainPic": "Main_btn_Emergency_UAV",
+      "duration": 240,
+      "name": "",
+      "taskType": 4,
+      "showMap": 0,
+      "id": 1
+    },
+    "3": {
+      "monsterArray": {},
+      "mainPic": "Main_btn_Emergency_Settle",
+      "duration": 240,
+      "name": "",
+      "taskType": 6,
+      "showMap": 1,
+      "id": 3
+    }
+  },
+  "first": 1
+}

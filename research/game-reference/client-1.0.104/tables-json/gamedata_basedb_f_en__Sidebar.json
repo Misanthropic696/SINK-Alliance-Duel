@@ -1,0 +1,67 @@
+{
+  "data": {
+    "7": {
+      "id": 7,
+      "subTitle": "Survivor Recruitment",
+      "groupTitle": "Recruit in Tavern"
+    },
+    "6": {
+      "id": 6,
+      "subTitle": "Hero Recruitment",
+      "groupTitle": "Recruit in Tavern"
+    },
+    "9": {
+      "id": 9,
+      "subTitle": "Emergency Chest",
+      "groupTitle": "Clinic"
+    },
+    "8": {
+      "id": 8,
+      "subTitle": "Recruit Slot",
+      "groupTitle": "Clinic"
+    },
+    "12": {
+      "id": 12,
+      "subTitle": "Gear Crafting",
+      "groupTitle": "Gear Crafting"
+    },
+    "11": {
+      "id": 11,
+      "subTitle": "Exploration Idle Reward",
+      "groupTitle": "Idle Reward"
+    },
+    "1": {
+      "id": 1,
+      "subTitle": "Training Grounds 1",
+      "groupTitle": "Soldier Training"
+    },
+    "10": {
+      "id": 10,
+      "subTitle": "Clinic Idle Reward",
+      "groupTitle": "Idle Reward"
+    },
+    "3": {
+      "id": 3,
+      "subTitle": "Training Grounds 3",
+      "groupTitle": "Soldier Training"
+    },
+    "2": {
+      "id": 2,
+      "subTitle": "Training Grounds 2",
+      "groupTitle": "Soldier Training"
+    },
+    "5": {
+      "id": 5,
+      "subTitle": "Alliance Tech",
+      "groupTitle": "Alliance Tech"
+    },
+    "4": {
+      "id": 4,
+      "subTitle": "Training Grounds 4",
+      "groupTitle": "Soldier Training"
+    }
+  },
+  "len": 12,
+  "key": "id",
+  "source_format": "locale rows"
+}

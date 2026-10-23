@@ -1,0 +1,174 @@
+{
+  "data": {
+    "6": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Gather",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 3000,
+      "count": -1,
+      "cdTime": 604800,
+      "dayReset": 0,
+      "occupyCount": 0,
+      "lastTime": 86400,
+      "reward": {},
+      "id": 6,
+      "desc": "",
+      "descParam": "[\"20%\",1440]"
+    },
+    "9": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Search",
+      "type": 3,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 3000,
+      "count": 3,
+      "cdTime": 0,
+      "dayReset": 1,
+      "occupyCount": 0,
+      "lastTime": 0,
+      "reward": {},
+      "id": 9,
+      "desc": "",
+      "descParam": ""
+    },
+    "8": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Diamond",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 10000,
+      "count": -1,
+      "cdTime": 604800,
+      "dayReset": 0,
+      "occupyCount": 1,
+      "lastTime": 604800,
+      "reward": {},
+      "id": 8,
+      "desc": "",
+      "descParam": "[\"5\",10080]"
+    },
+    "1": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Business",
+      "type": 1,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 3000,
+      "count": 3,
+      "cdTime": 0,
+      "dayReset": 1,
+      "occupyCount": 0,
+      "lastTime": 0,
+      "reward": {
+        "1": {
+          "type": 12,
+          "count": 200
+        }
+      },
+      "id": 1,
+      "desc": "",
+      "descParam": "[3000,200,3]"
+    },
+    "2": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Recovery",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 10000,
+      "count": -1,
+      "cdTime": 1209600,
+      "dayReset": 0,
+      "occupyCount": 0,
+      "lastTime": 259200,
+      "reward": {},
+      "id": 2,
+      "desc": "",
+      "descParam": ""
+    },
+    "3": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Build",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 3000,
+      "count": -1,
+      "cdTime": 604800,
+      "dayReset": 0,
+      "occupyCount": 0,
+      "lastTime": 86400,
+      "reward": {},
+      "id": 3,
+      "desc": "",
+      "descParam": "[\"20%\",1440]"
+    },
+    "4": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Research",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 3000,
+      "count": -1,
+      "cdTime": 604800,
+      "dayReset": 0,
+      "occupyCount": 0,
+      "lastTime": 86400,
+      "reward": {},
+      "id": 4,
+      "desc": "",
+      "descParam": "[\"20%\",1440]"
+    },
+    "5": {
+      "name": "",
+      "record": "",
+      "benefit": {},
+      "image": "Icon_UI_Power_Skill_Train",
+      "type": 2,
+      "officialRequest": {
+        "1": 1
+      },
+      "cost": 5000,
+      "count": -1,
+      "cdTime": 604800,
+      "dayReset": 0,
+      "occupyCount": 0,
+      "lastTime": 604800,
+      "reward": {},
+      "id": 5,
+      "desc": "",
+      "descParam": "[\"30%\",10080]"
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "len": 8,
+  "isNeedTransform": true
+}

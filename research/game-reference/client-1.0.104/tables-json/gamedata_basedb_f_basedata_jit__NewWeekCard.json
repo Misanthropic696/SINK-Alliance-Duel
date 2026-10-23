@@ -1,0 +1,29 @@
+{
+  "first": 100001,
+  "isNeedTransform": false,
+  "key": "id",
+  "data": {
+    "100001": {
+      "condition": {
+        "1": {
+          "param1": "1",
+          "param3": "1",
+          "id": 100012,
+          "param2": "0"
+        }
+      },
+      "giftBaseId": 300000018,
+      "group": 10001,
+      "id": 100001,
+      "reward": {
+        "1": {
+          "count": 15,
+          "id": "item_drone_part",
+          "type": 99
+        }
+      }
+    }
+  },
+  "excelName": "Gift_礼包表",
+  "len": 1
+}

@@ -1,0 +1,19 @@
+{
+  "len": 2,
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "Activity_TotalRecharge_活动中累充显示",
+  "data": {
+    "2": {
+      "prefab": "UI_Panel/Activity/Christmas/ActivityThemeRechargeTotalSub.prefab",
+      "id": 2,
+      "configID": 4900601
+    },
+    "1": {
+      "prefab": "UI_Panel/Activity/RechargeTotal/RechargeTotalMainSub.prefab",
+      "id": 1,
+      "configID": 90020101
+    }
+  },
+  "key": "id"
+}

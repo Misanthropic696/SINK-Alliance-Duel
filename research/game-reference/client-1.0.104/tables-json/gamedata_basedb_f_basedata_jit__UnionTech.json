@@ -1,0 +1,646 @@
+{
+  "len": 30,
+  "data": {
+    "1013": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1013,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_6_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "techType": 1,
+      "row": 6,
+      "maxLevel": 10,
+      "icon": "icon_kuaisuzhizao"
+    },
+    "2002": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2002,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 2,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_shibingxunliansudu"
+    },
+    "1002": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1002,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 1,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_kuaisujianzao"
+    },
+    "1011": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 1011,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "2_4_2"
+        },
+        "2": {
+          "pos": "2_4_3"
+        }
+      },
+      "techType": 1,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_mucaibaohu"
+    },
+    "1006": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 1006,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_3_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "techType": 1,
+      "row": 3,
+      "maxLevel": 10,
+      "icon": "icon_mucaichangliang"
+    },
+    "2014": {
+      "des": "",
+      "baseValue": "",
+      "order": 3,
+      "id": 2014,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_7_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "techType": 2,
+      "row": 7,
+      "maxLevel": 10,
+      "icon": "icon_zhushoufangyuli"
+    },
+    "1005": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1005,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_3_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "techType": 1,
+      "row": 3,
+      "maxLevel": 10,
+      "icon": "icon_shiwuchangliang"
+    },
+    "2015": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2015,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_8_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "techType": 2,
+      "row": 8,
+      "maxLevel": 10,
+      "icon": "icon_xiaochangkuojian"
+    },
+    "1007": {
+      "des": "",
+      "baseValue": "",
+      "order": 3,
+      "id": 1007,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_3_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "techType": 1,
+      "row": 3,
+      "maxLevel": 10,
+      "icon": "icon_dianlichangliang"
+    },
+    "1008": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1008,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_4_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "techType": 1,
+      "row": 4,
+      "maxLevel": 10,
+      "icon": "icon_keyanjiasu"
+    },
+    "1004": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1004,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 1,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_kuaisucaiji"
+    },
+    "2009": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 2009,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "techType": 2,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_jijiegongjili"
+    },
+    "1015": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1015,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_7_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_1"
+        },
+        "2": {
+          "pos": "1_6_3"
+        }
+      },
+      "techType": 1,
+      "row": 7,
+      "maxLevel": 10,
+      "icon": "icon_zishengongjiang"
+    },
+    "1001": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1001,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_1_2",
+      "name": "",
+      "preLine": {},
+      "techType": 1,
+      "row": 1,
+      "maxLevel": 1,
+      "icon": "icon_zidongjijie"
+    },
+    "2013": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 2013,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_7_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "techType": 2,
+      "row": 7,
+      "maxLevel": 10,
+      "icon": "icon_zhushougongjili"
+    },
+    "2012": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2012,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_7_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "techType": 2,
+      "row": 7,
+      "maxLevel": 10,
+      "icon": "icon_zhushoushengming"
+    },
+    "2011": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2011,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_6_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "techType": 2,
+      "row": 6,
+      "maxLevel": 10,
+      "icon": "icon_zishenhushi"
+    },
+    "1012": {
+      "des": "",
+      "baseValue": "",
+      "order": 3,
+      "id": 1012,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "2_4_2"
+        },
+        "2": {
+          "pos": "2_4_3"
+        }
+      },
+      "techType": 1,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_dianlibaohu"
+    },
+    "2008": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2008,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "techType": 2,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_jijieshengmingli"
+    },
+    "2007": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2007,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_4_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_3"
+        }
+      },
+      "techType": 2,
+      "row": 4,
+      "maxLevel": 10,
+      "icon": "icon_buduixingjun"
+    },
+    "2006": {
+      "des": "",
+      "baseValue": "",
+      "order": 3,
+      "id": 2006,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_3_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "techType": 2,
+      "row": 3,
+      "maxLevel": 10,
+      "icon": "icon_fufangjiasu"
+    },
+    "2004": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2004,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_3_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "techType": 2,
+      "row": 3,
+      "maxLevel": 10,
+      "icon": "icon_buduixingjunsudu"
+    },
+    "2005": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 2005,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 2,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_chengshijingongsudu"
+    },
+    "1003": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 1003,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_2",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 1,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_bangzhuqianghua"
+    },
+    "2010": {
+      "des": "",
+      "baseValue": "",
+      "order": 3,
+      "id": 2010,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "techType": 2,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_jijiefangyuli"
+    },
+    "1010": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 1010,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_5_1",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "2_4_2"
+        },
+        "2": {
+          "pos": "2_4_3"
+        }
+      },
+      "techType": 1,
+      "row": 5,
+      "maxLevel": 10,
+      "icon": "icon_liangshibaohu"
+    },
+    "2001": {
+      "des": "",
+      "baseValue": "",
+      "order": 1,
+      "id": 2001,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_1_2",
+      "name": "",
+      "preLine": {},
+      "techType": 2,
+      "row": 1,
+      "maxLevel": 10,
+      "icon": "icon_buduifuzhong"
+    },
+    "1014": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 1014,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_6_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "techType": 1,
+      "row": 6,
+      "maxLevel": 10,
+      "icon": "icon_zishentiejiang"
+    },
+    "2003": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 2003,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_2_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "techType": 2,
+      "row": 2,
+      "maxLevel": 10,
+      "icon": "icon_xunlianxiaohao"
+    },
+    "1009": {
+      "des": "",
+      "baseValue": "",
+      "order": 2,
+      "id": 1009,
+      "des2": "",
+      "maxValue": "",
+      "pos": "1_4_3",
+      "name": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "techType": 1,
+      "row": 4,
+      "maxLevel": 10,
+      "icon": "icon_yanfazuli"
+    }
+  },
+  "key": "id",
+  "first": 1001,
+  "excelName": "UnionTech_联盟科技",
+  "isNeedTransform": true
+}

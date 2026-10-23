@@ -1,0 +1,11 @@
+﻿record_key,value,effect,periodTime,des,name,persistTime,id,cdTime
+4,0,0.25,0,Troop March Speed in Crystal Cluster Valley +25%,Swift March,0,4,0
+5,0,5000,0,Gain 5000 extra Purified Crystals when you seize a Lode. CD: 60s,Valley Plunder,0,5,60000
+6,0,5000,0,Gain 5000 extra Purified Crystals when you fail to seize a Lode. CD: 60s,Valley Vigil,0,6,60000
+7,0,0.15,0,Crystal Cluster Gathering Speed increases by 15%,Crystal Mining,0,7,0
+8,0,30,0,Reduces the duration of debuffs received by 30s,Iron Will,0,8,0
+9,0,0.15,0,Increases Hero DMG by 15% for 60s. CD: 300s,Valley Awakening,60000,9,300000
+10,0,0.5,0,Temporarily increases Crystal Cluster Gathering Speed by 50% for 60s. CD: 300s,Crystal Resonance,60000,10,300000
+1,0,1080,60000,Periodically gain 1080 Purified Crystals,Crystal Surge,0,1,0
+2,0,1500,0,Gain 1500 extra Crystals when you slay a Plague Rat,Plague Rat Hunter,0,2,0
+3,50,1,0,Single Hero March Capacity +50,Force Expansion,0,3,0

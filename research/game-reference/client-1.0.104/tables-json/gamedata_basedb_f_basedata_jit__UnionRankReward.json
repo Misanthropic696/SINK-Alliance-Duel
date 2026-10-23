@@ -1,0 +1,193 @@
+{
+  "key": "id",
+  "isNeedTransform": false,
+  "first": 1,
+  "len": 8,
+  "data": {
+    "4": {
+      "maxRank": 100,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_50",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "count": 10,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "id": 4,
+      "rankType": 103,
+      "minScore": 2000,
+      "minRank": 4
+    },
+    "3": {
+      "maxRank": 3,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_50",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "count": 15,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "id": 3,
+      "rankType": 103,
+      "minScore": 2000,
+      "minRank": 3
+    },
+    "6": {
+      "maxRank": 2,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "count": 90,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "id": 6,
+      "rankType": 104,
+      "minScore": 3000,
+      "minRank": 2
+    },
+    "5": {
+      "maxRank": 1,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "count": 110,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "id": 5,
+      "rankType": 104,
+      "minScore": 3000,
+      "minRank": 1
+    },
+    "8": {
+      "maxRank": 100,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "count": 50,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "id": 8,
+      "rankType": 104,
+      "minScore": 3000,
+      "minRank": 4
+    },
+    "7": {
+      "maxRank": 3,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "count": 70,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "id": 7,
+      "rankType": 104,
+      "minScore": 3000,
+      "minRank": 3
+    },
+    "2": {
+      "maxRank": 2,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_50",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "count": 25,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "id": 2,
+      "rankType": 103,
+      "minScore": 2000,
+      "minRank": 2
+    },
+    "1": {
+      "maxRank": 1,
+      "reward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_50",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "type": 11
+        },
+        "3": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "id": 1,
+      "rankType": 103,
+      "minScore": 2000,
+      "minRank": 1
+    }
+  },
+  "excelName": "UnionSystem_联盟系统"
+}

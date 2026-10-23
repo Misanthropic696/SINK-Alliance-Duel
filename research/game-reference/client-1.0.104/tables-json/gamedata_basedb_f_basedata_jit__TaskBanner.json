@@ -1,0 +1,24 @@
+{
+  "len": 3,
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "Task_任务",
+  "first": 101,
+  "data": {
+    "103": {
+      "Event": 2004,
+      "banner": "Assets/GameAssets/AA_Asset/UI/UI_Sprite/Banner/Task_banner_daliyTask_01.png",
+      "id": 103
+    },
+    "101": {
+      "Event": 106,
+      "banner": "Assets/GameAssets/AA_Asset/UI/UI_Sprite/Banner/Task_banner_daliyTask_02.png",
+      "id": 101
+    },
+    "102": {
+      "Event": 1004,
+      "banner": "Assets/GameAssets/AA_Asset/UI/UI_Sprite/Banner/Task_banner_daliyTask_03.png",
+      "id": 102
+    }
+  }
+}

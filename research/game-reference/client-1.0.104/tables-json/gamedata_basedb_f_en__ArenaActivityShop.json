@@ -1,0 +1,87 @@
+{
+  "data": {
+    "100": {
+      "shopName": "Encounter Shop",
+      "id": 100
+    },
+    "97": {
+      "shopName": "Era Shop",
+      "id": 97,
+      "desc": "1. Currency for exchanging rare items.\n2. Retained after the era ends; never reset."
+    },
+    "98": {
+      "shopName": "Appearance Shop",
+      "id": 98,
+      "desc": "1. Currency for exchanging rare skins.\n2. Retained after the era ends; never reset."
+    },
+    "99": {
+      "shopName": "Sanctuary Shop",
+      "id": 99,
+      "desc": "1.Heal patients in the Sanctuary to earn Copper Coins.\n2.Copper Coins can be exchanged for various items in the Sanctuary Shop."
+    },
+    "1": {
+      "shopName": "Diamond Shop",
+      "id": 1
+    },
+    "2": {
+      "shopName": "VIP Shop",
+      "id": 2
+    },
+    "18": {
+      "shopName": "Strange Bazaar",
+      "id": 18,
+      "subshopName": "Strange Coin Pack"
+    },
+    "5": {
+      "shopName": "Honor Shop",
+      "id": 5,
+      "desc": "1. Earn points in the Arena.\n2. Redeem points for numerous rare items in the shop!"
+    },
+    "6": {
+      "shopName": "Expedition Shop",
+      "id": 6,
+      "desc": "Obtained from completing Expedition Battle challenges. Can be exchanged for rewards in the Expedition Shop."
+    },
+    "24": {
+      "shopName": "Art Market",
+      "id": 24,
+      "subshopName": "Color Card Pack"
+    },
+    "15": {
+      "shopName": "Alliance Shop",
+      "id": 15,
+      "desc": "1. Help alliance members and donate in Alliance Tech to earn Alliance Coins.\n2. Alliance Coins can be exchanged for numerous rare items in the Alliance Shop."
+    },
+    "25": {
+      "shopName": "Starry Bazaar",
+      "id": 25
+    },
+    "17": {
+      "shopName": "Wheel Shop",
+      "id": 17
+    },
+    "19": {
+      "shopName": "Blades Out",
+      "id": 19
+    },
+    "21": {
+      "shopName": "Blades Out",
+      "id": 21
+    },
+    "20": {
+      "shopName": "Blight Invasion",
+      "id": 20
+    },
+    "23": {
+      "shopName": "Blades Out",
+      "id": 23
+    },
+    "22": {
+      "shopName": "Blades Out",
+      "id": 22
+    }
+  },
+  "len": 18,
+  "key": "id",
+  "source_format": "locale rows"
+}

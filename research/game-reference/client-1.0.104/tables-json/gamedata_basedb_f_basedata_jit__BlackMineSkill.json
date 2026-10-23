@@ -1,0 +1,109 @@
+{
+  "key": "id",
+  "len": 10,
+  "data": {
+    "4": {
+      "value": 0,
+      "effect": 0.25,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 4,
+      "cdTime": 0
+    },
+    "5": {
+      "value": 0,
+      "effect": 5000,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 5,
+      "cdTime": 60000
+    },
+    "6": {
+      "value": 0,
+      "effect": 5000,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 6,
+      "cdTime": 60000
+    },
+    "7": {
+      "value": 0,
+      "effect": 0.15,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 7,
+      "cdTime": 0
+    },
+    "8": {
+      "value": 0,
+      "effect": 30,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 8,
+      "cdTime": 0
+    },
+    "9": {
+      "value": 0,
+      "effect": 0.15,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 60000,
+      "id": 9,
+      "cdTime": 300000
+    },
+    "10": {
+      "value": 0,
+      "effect": 0.5,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 60000,
+      "id": 10,
+      "cdTime": 300000
+    },
+    "1": {
+      "value": 0,
+      "effect": 1080,
+      "periodTime": 60000,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 1,
+      "cdTime": 0
+    },
+    "2": {
+      "value": 0,
+      "effect": 1500,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 2,
+      "cdTime": 0
+    },
+    "3": {
+      "value": 50,
+      "effect": 1,
+      "periodTime": 0,
+      "des": "",
+      "name": "",
+      "persistTime": 0,
+      "id": 3,
+      "cdTime": 0
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

@@ -1,0 +1,160 @@
+{
+  "key": "id",
+  "len": 5,
+  "data": {
+    "4001": {
+      "defenderChallengeLowerRank": 0,
+      "maxRefreshCount": 0,
+      "banner": "UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png",
+      "ruleInfo": "",
+      "castleLevel": 6,
+      "id": 4001,
+      "item": {
+        "1": {
+          "count": 30,
+          "type": 11
+        }
+      },
+      "title": "",
+      "text": "",
+      "freeRefreshResetType": 1,
+      "maxChallengeCount": 30,
+      "arenaType": 4,
+      "shopType": 303,
+      "initScore": 1000,
+      "opponentSize": 0,
+      "multiTeam": true,
+      "attackerChallengeLowerRank": 0,
+      "freeRefreshCount": 0,
+      "mail": 130002,
+      "zoneRuleId": 0,
+      "freeChallengeResetType": 1,
+      "freeChallengeCount": 30,
+      "enterRank": 200
+    },
+    "1002": {
+      "defenderChallengeLowerRank": 50,
+      "maxRefreshCount": 10,
+      "banner": "UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png",
+      "ruleInfo": "",
+      "castleLevel": 6,
+      "id": 1002,
+      "item": {},
+      "title": "",
+      "text": "",
+      "freeRefreshResetType": 1,
+      "maxChallengeCount": -1,
+      "arenaType": 1,
+      "shopType": 303,
+      "initScore": 0,
+      "opponentSize": 5,
+      "multiTeam": false,
+      "attackerChallengeLowerRank": 10,
+      "freeRefreshCount": 3,
+      "mail": 130002,
+      "zoneRuleId": 0,
+      "freeChallengeResetType": 1,
+      "freeChallengeCount": 5,
+      "enterRank": 0
+    },
+    "3001": {
+      "defenderChallengeLowerRank": 0,
+      "maxRefreshCount": 5,
+      "banner": "UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png",
+      "ruleInfo": "",
+      "castleLevel": 6,
+      "id": 3001,
+      "item": {
+        "1": {
+          "count": 30,
+          "type": 11
+        }
+      },
+      "title": "",
+      "text": "",
+      "freeRefreshResetType": 1,
+      "maxChallengeCount": -1,
+      "arenaType": 3,
+      "shopType": 303,
+      "initScore": 1000,
+      "opponentSize": 5,
+      "multiTeam": false,
+      "attackerChallengeLowerRank": 0,
+      "freeRefreshCount": 3,
+      "mail": 130002,
+      "zoneRuleId": 0,
+      "freeChallengeResetType": 1,
+      "freeChallengeCount": 10,
+      "enterRank": 1200
+    },
+    "1001": {
+      "defenderChallengeLowerRank": 50,
+      "maxRefreshCount": 10,
+      "banner": "UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png",
+      "ruleInfo": "",
+      "castleLevel": 6,
+      "id": 1001,
+      "item": {},
+      "title": "",
+      "text": "",
+      "freeRefreshResetType": 1,
+      "maxChallengeCount": -1,
+      "arenaType": 1,
+      "shopType": 303,
+      "initScore": 0,
+      "opponentSize": 5,
+      "multiTeam": false,
+      "attackerChallengeLowerRank": 10,
+      "freeRefreshCount": 3,
+      "mail": 130002,
+      "zoneRuleId": 0,
+      "freeChallengeResetType": 1,
+      "freeChallengeCount": 5,
+      "enterRank": 0
+    },
+    "2001": {
+      "defenderChallengeLowerRank": 0,
+      "maxRefreshCount": 10,
+      "banner": "UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png",
+      "ruleInfo": "",
+      "castleLevel": 6,
+      "id": 2001,
+      "item": {},
+      "title": "",
+      "text": "",
+      "freeRefreshResetType": 1,
+      "maxChallengeCount": -1,
+      "arenaType": 2,
+      "shopType": 303,
+      "initScore": 1000,
+      "opponentSize": 0,
+      "multiTeam": false,
+      "attackerChallengeLowerRank": 0,
+      "freeRefreshCount": 3,
+      "mail": 130002,
+      "zoneRuleId": 1001,
+      "freeChallengeResetType": 1,
+      "freeChallengeCount": 10,
+      "enterRank": 10000
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1001,
+  "excelName": "AEArena_竞技场",
+  "enum": {
+    "FREEREFRESHRESETTYPE": {
+      "SEASON": 2,
+      "DAILY": 1
+    },
+    "AEARENATYPE": {
+      "MULTIPLAYER_SLG": 4,
+      "STORM_SLG": 3,
+      "ROOKIE_SLG": 1,
+      "PEAK_SLG": 2
+    },
+    "FREECHALLENGERESETTYPE": {
+      "SEASON": 2,
+      "DAILY": 1
+    }
+  }
+}

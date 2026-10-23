@@ -1,0 +1,1213 @@
+{
+  "data": {
+    "150": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 150
+    },
+    "2016": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2016
+    },
+    "118": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 118
+    },
+    "2004": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2004
+    },
+    "152": {
+      "benefitTypeDesc": "Total Hero HP↑",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 152
+    },
+    "16": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 16
+    },
+    "26": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 26
+    },
+    "36": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 36
+    },
+    "46": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 46
+    },
+    "56": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 56
+    },
+    "66": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 66
+    },
+    "76": {
+      "benefitTypeDesc": "Crit DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 76
+    },
+    "86": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 86
+    },
+    "96": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 96
+    },
+    "3": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 3
+    },
+    "4": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 4
+    },
+    "5": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 5
+    },
+    "6": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 6
+    },
+    "1": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1
+    },
+    "2": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2
+    },
+    "128": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 128
+    },
+    "7": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 7
+    },
+    "8": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 8
+    },
+    "9": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 9
+    },
+    "15": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 15
+    },
+    "146": {
+      "benefitTypeDesc": "Warrior Hero DMG↓",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 146
+    },
+    "35": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 35
+    },
+    "25": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 25
+    },
+    "55": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 55
+    },
+    "45": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 45
+    },
+    "3002": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 3002
+    },
+    "2002": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2002
+    },
+    "95": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 95
+    },
+    "85": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 85
+    },
+    "143": {
+      "benefitTypeDesc": "Ranger Hero DMG↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 143
+    },
+    "2005": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2005
+    },
+    "114": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 114
+    },
+    "149": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 149
+    },
+    "2018": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2018
+    },
+    "2014": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2014
+    },
+    "145": {
+      "benefitTypeDesc": "Warlock Hero DMG↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 145
+    },
+    "1103": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1103
+    },
+    "2012": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2012
+    },
+    "24": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 24
+    },
+    "34": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 34
+    },
+    "14": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 14
+    },
+    "64": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 64
+    },
+    "74": {
+      "benefitTypeDesc": "Crit Rate↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 74
+    },
+    "44": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 44
+    },
+    "54": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 54
+    },
+    "2009": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2009
+    },
+    "84": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 84
+    },
+    "94": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 94
+    },
+    "2007": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2007
+    },
+    "2015": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2015
+    },
+    "100": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 100
+    },
+    "200": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 200
+    },
+    "2003": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2003
+    },
+    "3003": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 3003
+    },
+    "33": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 33
+    },
+    "23": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 23
+    },
+    "13": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 13
+    },
+    "73": {
+      "benefitTypeDesc": "Crit Rate↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 73
+    },
+    "63": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 63
+    },
+    "53": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 53
+    },
+    "43": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 43
+    },
+    "113": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 113
+    },
+    "2023": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2023
+    },
+    "83": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 83
+    },
+    "2021": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2021
+    },
+    "153": {
+      "benefitTypeDesc": "Total Hero ATK↑",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 153
+    },
+    "151": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 151
+    },
+    "148": {
+      "benefitTypeDesc": "DMG Taken When Countered↓",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 148
+    },
+    "129": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 129
+    },
+    "110": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 110
+    },
+    "147": {
+      "benefitTypeDesc": "Warrior Hero DMG↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 147
+    },
+    "134": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 134
+    },
+    "144": {
+      "benefitTypeDesc": "Warlock Hero DMG↓",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 144
+    },
+    "2022": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2022
+    },
+    "142": {
+      "benefitTypeDesc": "Ranger Hero DMG↓",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 142
+    },
+    "1305": {
+      "benefitTypeDesc": "Energy DMG RES",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 1305
+    },
+    "1303": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1303
+    },
+    "125": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 125
+    },
+    "141": {
+      "benefitTypeDesc": "Energy DMG RES",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 141
+    },
+    "121": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 121
+    },
+    "1304": {
+      "benefitTypeDesc": "Physical DMG RES",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 1304
+    },
+    "140": {
+      "benefitTypeDesc": "Physical DMG RES",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 140
+    },
+    "2001": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2001
+    },
+    "3001": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 3001
+    },
+    "32": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 32
+    },
+    "42": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 42
+    },
+    "52": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 52
+    },
+    "1302": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1302
+    },
+    "132": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 132
+    },
+    "2020": {
+      "benefitTypeDesc": "Hero Energy DMG Taken↓",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2020
+    },
+    "12": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 12
+    },
+    "22": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 22
+    },
+    "156": {
+      "benefitTypeDesc": "Hero Energy DMG Taken↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 156
+    },
+    "2019": {
+      "benefitTypeDesc": "Hero Physical DMG Taken↓",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2019
+    },
+    "133": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 133
+    },
+    "155": {
+      "benefitTypeDesc": "Hero Physical DMG Taken↓",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 155
+    },
+    "72": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 72
+    },
+    "82": {
+      "benefitTypeDesc": "Warlock Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 82
+    },
+    "92": {
+      "benefitTypeDesc": "DMG Dealt When Countering↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 92
+    },
+    "137": {
+      "benefitTypeDesc": "Crit DMG Taken↓",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 137
+    },
+    "2010": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2010
+    },
+    "136": {
+      "benefitTypeDesc": "Crit Rate Taken↓",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 136
+    },
+    "2011": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 2011
+    },
+    "139": {
+      "benefitTypeDesc": "Monster DMG Taken↓",
+      "benefitSourceDesc": "Monthly Pass",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 139
+    },
+    "123": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 123
+    },
+    "116": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 116
+    },
+    "2017": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2017
+    },
+    "127": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 127
+    },
+    "135": {
+      "benefitTypeDesc": "Crit Rate Taken↓",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 135
+    },
+    "1203": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1203
+    },
+    "124": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 124
+    },
+    "131": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 131
+    },
+    "122": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 122
+    },
+    "120": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 120
+    },
+    "2013": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Exclusive Weapon Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 2013
+    },
+    "117": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 117
+    },
+    "41": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 41
+    },
+    "31": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 31
+    },
+    "2006": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2006
+    },
+    "51": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 51
+    },
+    "69": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 69
+    },
+    "59": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 59
+    },
+    "21": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 21
+    },
+    "11": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 11
+    },
+    "29": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 29
+    },
+    "19": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 19
+    },
+    "49": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 49
+    },
+    "39": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 39
+    },
+    "81": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 81
+    },
+    "71": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 71
+    },
+    "203": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 203
+    },
+    "303": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hall of Honor Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 303
+    },
+    "130": {
+      "benefitTypeDesc": "Warrior Hero DEF↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 130
+    },
+    "115": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 115
+    },
+    "154": {
+      "benefitTypeDesc": "Total Hero DEF↑",
+      "benefitSourceDesc": "Star System",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 154
+    },
+    "112": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 112
+    },
+    "79": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 79
+    },
+    "109": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 109
+    },
+    "75": {
+      "benefitTypeDesc": "Crit DMG↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 75
+    },
+    "107": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 107
+    },
+    "201": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 201
+    },
+    "101": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 101
+    },
+    "106": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 106
+    },
+    "301": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hall of Honor Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 301
+    },
+    "205": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 205
+    },
+    "105": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 105
+    },
+    "104": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 104
+    },
+    "1201": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1201
+    },
+    "50": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 50
+    },
+    "1102": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1102
+    },
+    "30": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 30
+    },
+    "40": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 40
+    },
+    "10": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 10
+    },
+    "20": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 20
+    },
+    "58": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 58
+    },
+    "68": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 68
+    },
+    "38": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 38
+    },
+    "48": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 48
+    },
+    "18": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 18
+    },
+    "28": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Gear Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 28
+    },
+    "90": {
+      "benefitTypeDesc": "DMG to Monsters↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 90
+    },
+    "103": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 103
+    },
+    "70": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 70
+    },
+    "80": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 80
+    },
+    "102": {
+      "benefitTypeDesc": "Warlock Hero HP↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 102
+    },
+    "119": {
+      "benefitTypeDesc": "Ranger Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 119
+    },
+    "99": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 99
+    },
+    "98": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 98
+    },
+    "62": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 62
+    },
+    "93": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Gear",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 93
+    },
+    "91": {
+      "benefitTypeDesc": "DMG to Monsters↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 91
+    },
+    "89": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Decoration",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 89
+    },
+    "88": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 88
+    },
+    "61": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "VIP",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 61
+    },
+    "111": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 111
+    },
+    "78": {
+      "benefitTypeDesc": "Ranger Hero DMG↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 78
+    },
+    "1101": {
+      "benefitTypeDesc": "Total Hero ATK",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1101
+    },
+    "60": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 60
+    },
+    "108": {
+      "benefitTypeDesc": "Warrior Hero HP↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 108
+    },
+    "204": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 204
+    },
+    "126": {
+      "benefitTypeDesc": "Warlock Hero DEF↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 126
+    },
+    "65": {
+      "benefitTypeDesc": "Warlock Hero ATK↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 65
+    },
+    "1202": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1202
+    },
+    "97": {
+      "benefitTypeDesc": "Ranger Hero HP↑",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "DEF Attribute",
+      "id": 97
+    },
+    "87": {
+      "benefitTypeDesc": "Warrior Hero DMG↑",
+      "benefitSourceDesc": "Raven Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 87
+    },
+    "77": {
+      "benefitTypeDesc": "Skill Cooldown Speed",
+      "benefitSourceDesc": "Skill",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 77
+    },
+    "67": {
+      "benefitTypeDesc": "Warrior Hero ATK↑",
+      "benefitSourceDesc": "Tech Bonus",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 67
+    },
+    "57": {
+      "benefitTypeDesc": "Ranger Hero ATK↑",
+      "benefitSourceDesc": "Official",
+      "attrGroupDesc": "ATK Attribute",
+      "id": 57
+    },
+    "47": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Building Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 47
+    },
+    "37": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 37
+    },
+    "27": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 27
+    },
+    "17": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Star Level Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 17
+    },
+    "202": {
+      "benefitTypeDesc": "CMD",
+      "benefitSourceDesc": "Survivor",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 202
+    },
+    "302": {
+      "benefitTypeDesc": "Total Hero HP",
+      "benefitSourceDesc": "Hall of Honor Bonus",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 302
+    },
+    "1301": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Hero Awaken",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 1301
+    },
+    "2008": {
+      "benefitTypeDesc": "Total Hero DEF",
+      "benefitSourceDesc": "Exclusive Weapon",
+      "attrGroupDesc": "Basic Attributes",
+      "id": 2008
+    }
+  },
+  "len": 201,
+  "key": "id",
+  "source_format": "locale rows"
+}

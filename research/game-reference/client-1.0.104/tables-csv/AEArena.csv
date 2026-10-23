@@ -1,0 +1,79 @@
+﻿record_key,defenderChallengeLowerRank,maxRefreshCount,banner,ruleInfo,castleLevel,id,item,title,text,freeRefreshResetType,maxChallengeCount,arenaType,shopType,initScore,opponentSize,multiTeam,attackerChallengeLowerRank,freeRefreshCount,mail,zoneRuleId,freeChallengeResetType,freeChallengeCount,enterRank
+4001,0,0,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,"A clash of wisdom and courage, a blend of tactics and might!
+[Entry Instructions]
+1. Entry Requirement: Heroes' total Might must rank within the top 200 of their Kingdoms.
+2. Match Lineup: Set up 3 teams for the Arena.
+[Match Phase]
+1. The Triangular Arena uses a best-of-three format. Both sides' 3 teams will battle in sequence.
+2. Configure and save separate attack and defense lineups to tackle different challenges.
+3. The Triangular Arena allows 30 challenges per day.
+4. Arena battles do not consume soldiers and will use your territory's highest-level soldiers by default.
+[Challenge Rewards]
+1. Triangular Arena rewards include Ranking Rewards, Daily Rewards, and Alliance Rewards. Members of the Alliances with doctors in the top 10 receive generous rewards. Check the rewards page for details.
+2. Everyone can Like the top 3 doctors 3 times daily. Each Like grants 30 Diamonds.",6,4001,"{""1"": {""count"": 30, ""type"": 11}}",Triangular Arena,,1,30,4,303,1000,0,True,0,0,130002,0,1,30,200
+1002,50,10,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,"Hone skills, refine tactics!
+[Entry Instructions]
+1. Once the Arena opens, you will automatically register if you meet the entry requirements.
+2. You can only challenge opponents with close ranks.
+3. Defeat a doctor ranked higher than you to swap Arena ranks.
+[Reward Settlement]
+1. Weekly ranking rewards are sent via mail and must be claimed manually.
+[Lineup Rules]
+1. Squad 1 is set as the default defense formation. You may adjust your defense lineup after the event begins.
+2. Arena battles do not consume soldiers and will use your territory's highest-level soldiers by default.",6,1002,{},Rookie Arena,,1,-1,1,303,0,5,False,10,3,130002,0,1,5,0
+3001,0,5,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,"Turbulence arises as challenges are imminent!
+[Event Duration]
+1. The Arena of Fate enters a warm-up phase 2 days before opening.
+2. Each Arena of Fate lasts one week.
+[Entry Instructions]
+1. Each season features both the Advanced Arena and the Intermediate Arena. The Advanced Arena includes doctors from 1-4 Kingdoms, while the Intermediate Arena includes doctors from 1-2 Kingdoms competing for rankings.
+2. Entry to the Advanced Arena requires Heroes' total Might to rank in the top 200 of their Kingdom.
+3. Entry to the Intermediate Arena requires Heroes' total Might to rank within 201-1200 in their Warzone.
+4. Allocation to the corresponding Arena is based on rankings at the moment the Arena opens.
+5. After the Arena opens, doctors ranked 1201 and below who rise to 201-1200 will automatically enter the Intermediate Arena. Doctors who reach the top 200 in the Intermediate Arena will receive a Promotion Notification, allowing them to choose whether to advance to the Advanced Arena.
+6. Promotion eligibility is retained within the current Arena period.
+[Match Phase]
+1. Initial Arena Ranking: Ranked by participants' Might.
+2. Initial Arena Points: 1000 Points.
+3. Each challenge matches you with 5 opponents based on rankings, allowing you to choose your opponent. Victors gain points, while the defeated lose points. The greater the point gap, the larger the point change from the battle.
+4. During each event, daily challenge attempts are limited.
+[Challenge Rewards]
+1. When you challenge 1, 3, 5 time(s) daily, you can claim corresponding daily challenge rewards.
+2. At the end of the Arena, Personal Rewards and Alliance Rewards are settled based on final rankings.
+3. Personal and Alliance Rewards are sent via mail.
+[Lineup Rules]
+1. The Squad with the highest Might is set as the default defense formation. After the Arena begins, doctors must manually save their defense lineup once. An unsaved defense lineup will change with squad adjustments.
+2. After the event starts, you can adjust the defense lineup.
+3. Arena battles do not consume soldiers and will use your territory's highest-level soldiers by default.",6,3001,"{""1"": {""count"": 30, ""type"": 11}}",Arena of Fate,,1,-1,3,303,1000,5,False,0,3,130002,0,1,10,1200
+1001,50,10,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,"Hone skills, refine tactics!
+[Entry Instructions]
+1. Once the Arena opens, you will automatically register if you meet the entry requirements.
+2. You can only challenge opponents with close ranks.
+3. Defeat a doctor ranked higher than you to swap Arena ranks.
+[Reward Settlement]
+1. Weekly ranking rewards are sent via mail and must be claimed manually.
+[Lineup Rules]
+1. Squad 1 is set as the default defense formation. You may adjust your defense lineup after the event begins.
+2. Arena battles do not consume soldiers and will use your territory's highest-level soldiers by default.",6,1001,{},Rookie Arena,,1,-1,1,303,0,5,False,10,3,130002,0,1,5,0
+2001,0,10,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,"A showdown of strength, a clash of tactics! At the summit, the strong reign supreme!
+[Event Duration]
+1. Opens every Monday at 01:00 (Server Time).
+2. Ends every Sunday at 24:00 (Server Time).
+[Entry Details]
+1. Each round of Apex Arena may feature doctors from 1-4 Kingdoms competing together.
+2. During Apex Arena, eligible doctors can participate.
+[Match Stages]
+1. Initial Arena Ranking: Based on participants' Might.
+2. Initial Arena Score: 1000 Points.
+3. Each challenge matches you with 5 opponents based on rankings, allowing you to choose your opponent. Victors gain points, while the defeated lose points. The greater the point gap, the larger the point change from the battle.
+4. During each event, daily challenge attempts are limited.
+[Challenge Rewards]
+1. When you challenge 1, 3, 5 time(s) daily, you can claim corresponding daily challenge rewards.
+[Settlement Rewards]
+1. Every Sunday, final ranking rewards are settled based on the rankings at the end of the event.
+2. Rewards include rare Avatar Frames that can increase Hero ATK.
+3. Ranking rewards are distributed via mail.
+[Lineup Rules]
+1. Squad 1 is set as the default defense formation.
+2. After the event starts, you can adjust the defense lineup.
+3. Arena battles do not consume soldiers and will use your territory's highest-level soldiers by default.",6,2001,{},Apex Arena,,1,-1,2,303,1000,0,False,0,3,130002,1001,1,10,10000

@@ -1,0 +1,97 @@
+{
+  "data": {
+    "4": {
+      "id": 4,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_farmer_4",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "3": {
+      "id": 3,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_farmer_3",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "2": {
+      "id": 2,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_farmer_2",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "1": {
+      "id": 1,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_farmer_1",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "8": {
+      "id": 8,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_miner_4",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "7": {
+      "id": 7,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_miner_3",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "6": {
+      "id": 6,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_miner_2",
+          "type": 99,
+          "count": 1
+        }
+      }
+    },
+    "5": {
+      "id": 5,
+      "weight": 100,
+      "rewards": {
+        "1": {
+          "id": "item_worker_rare_miner_1",
+          "type": 99,
+          "count": 1
+        }
+      }
+    }
+  },
+  "key": "id",
+  "excelName": "L-领主专长",
+  "first": 1,
+  "isNeedTransform": false,
+  "len": 8
+}

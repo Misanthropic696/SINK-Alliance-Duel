@@ -1,0 +1,77 @@
+{
+  "key": "id",
+  "excelName": "CorpseTide_尸潮来袭",
+  "data": {
+    "1001": {
+      "duration": 1200,
+      "iconPic": "pic_fssj_djs4",
+      "textTitle": "",
+      "id": 1001,
+      "textVictory": "",
+      "triggerEvent": "clinicEvent:200001",
+      "textComing": "",
+      "versionType": "A",
+      "backGroundPic": "pic_fssj_djs1",
+      "textButtonUp": "",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        },
+        "2": {
+          "type": 5,
+          "count": 1000
+        },
+        "3": {
+          "type": 1,
+          "count": 1000
+        },
+        "4": {
+          "type": 2,
+          "count": 1000
+        },
+        "5": {
+          "type": 3,
+          "count": 300
+        }
+      }
+    },
+    "2001": {
+      "duration": 1200,
+      "iconPic": "pic_sclx_djs4",
+      "textTitle": "",
+      "id": 2001,
+      "textVictory": "",
+      "triggerEvent": "building:1001_3_1",
+      "textComing": "",
+      "versionType": "A",
+      "backGroundPic": "pic_sclx_djs1",
+      "textButtonUp": "",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        },
+        "2": {
+          "type": 5,
+          "count": 5000
+        },
+        "3": {
+          "type": 1,
+          "count": 5000
+        },
+        "4": {
+          "type": 2,
+          "count": 5000
+        },
+        "5": {
+          "type": 3,
+          "count": 2000
+        }
+      }
+    }
+  },
+  "first": 1001,
+  "len": 2,
+  "isNeedTransform": true
+}

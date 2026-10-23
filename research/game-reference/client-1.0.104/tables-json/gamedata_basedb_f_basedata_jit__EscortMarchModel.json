@@ -1,0 +1,135 @@
+{
+  "excelName": "WorldMarchZoom_世界行军无级缩放",
+  "first": 101,
+  "isNeedTransform": false,
+  "len": 12,
+  "data": {
+    "102": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_2",
+      "quality": 2,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_03.prefab",
+      "escortType": 1,
+      "configid": 12002,
+      "modelScale": 0.15,
+      "id": 102
+    },
+    "204": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 4,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche.prefab",
+      "escortType": 2,
+      "configid": 12104,
+      "modelScale": 0.15,
+      "id": 204
+    },
+    "106": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_6",
+      "quality": 6,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_06.prefab",
+      "escortType": 1,
+      "configid": 12006,
+      "modelScale": 0.15,
+      "id": 106
+    },
+    "202": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 2,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche.prefab",
+      "escortType": 2,
+      "configid": 12102,
+      "modelScale": 0.15,
+      "id": 202
+    },
+    "206": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 6,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche_02.prefab",
+      "escortType": 2,
+      "configid": 12106,
+      "modelScale": 0.15,
+      "id": 206
+    },
+    "205": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 5,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche.prefab",
+      "escortType": 2,
+      "configid": 12105,
+      "modelScale": 0.15,
+      "id": 205
+    },
+    "104": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_4",
+      "quality": 4,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_05.prefab",
+      "escortType": 1,
+      "configid": 12004,
+      "modelScale": 0.15,
+      "id": 104
+    },
+    "105": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_5",
+      "quality": 5,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_01.prefab",
+      "escortType": 1,
+      "configid": 12005,
+      "modelScale": 0.15,
+      "id": 105
+    },
+    "201": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 1,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche.prefab",
+      "escortType": 2,
+      "configid": 12101,
+      "modelScale": 0.15,
+      "id": 201
+    },
+    "103": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_3",
+      "quality": 3,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_04.prefab",
+      "escortType": 1,
+      "configid": 12003,
+      "modelScale": 0.15,
+      "id": 103
+    },
+    "203": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_supercar",
+      "quality": 3,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Huoche.prefab",
+      "escortType": 2,
+      "configid": 12103,
+      "modelScale": 0.15,
+      "id": 203
+    },
+    "101": {
+      "atlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "sprite": "Map_icon_escort_1",
+      "quality": 1,
+      "marchModel": "WorldMap/Prefab/Escort/k3_Kache_02.prefab",
+      "escortType": 1,
+      "configid": 12001,
+      "modelScale": 0.15,
+      "id": 101
+    }
+  },
+  "key": "id",
+  "enum": {
+    "ESCORTTYPE": {
+      "UNION": 2,
+      "PERSON": 1
+    }
+  }
+}

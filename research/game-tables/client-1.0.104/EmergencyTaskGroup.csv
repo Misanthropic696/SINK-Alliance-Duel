@@ -1,0 +1,8 @@
+﻿record_key,stage,groupName,stagePic,emergencyId,taskArray,reward,id,afkBornMonsterId,stageName,groupId
+7,0,Elite Blight,Main_btn_Emergency_Settle,3,"{""1"": 1100018, ""2"": 1100019, ""3"": 1100020}",{},7,0,Eliminate Blight,2
+2,1,Enhance Hero,Main_btn_Emergency_Zombie1,2,"{""1"": 1100004, ""2"": 1100005, ""3"": 1100006}","{""1"": {""type"": 99, ""id"": ""item_UseUp_recruitCoin"", ""count"": 5}, ""2"": {""type"": 99, ""id"": ""item_optionalBox_Resource"", ""count"": 25}, ""3"": {""type"": 99, ""id"": ""item_Box_gem"", ""count"": 20}}",2,1002,Blight Invasion - Preparation Phase,1
+1,0,,Main_btn_Emergency_UAV,1,"{""1"": 1100001, ""2"": 1100002, ""3"": 1100003}",{},1,0,Raven's Gratitude,0
+4,1,Enhance Hero,Main_btn_Emergency_Zombie1,2,"{""1"": 1100010, ""2"": 1100011}","{""1"": {""type"": 99, ""id"": ""item_UseUp_recruitCoin"", ""count"": 5}, ""2"": {""type"": 99, ""id"": ""item_optionalBox_Resource"", ""count"": 25}, ""3"": {""type"": 99, ""id"": ""item_Box_gem"", ""count"": 20}}",4,1002,Blight Invasion - Preparation Phase,3
+3,1,Enhance Hero,Main_btn_Emergency_Zombie1,2,"{""1"": 1100007, ""2"": 1100008, ""3"": 1100009}","{""1"": {""type"": 99, ""id"": ""item_drone_data_10k"", ""count"": 2}, ""2"": {""type"": 99, ""id"": ""item_drone_part"", ""count"": 5}, ""3"": {""type"": 99, ""id"": ""item_Box_gem"", ""count"": 30}}",3,1002,Blight Invasion - Preparation Phase,2
+6,0,World Blight,Main_btn_Emergency_Settle,3,"{""1"": 1100015, ""2"": 1100016, ""3"": 1100017}",{},6,0,Eliminate Blight,1
+5,2,Upgrade Buildings,Main_btn_Emergency_Zombie2,2,"{""1"": 1100012, ""2"": 1100013, ""3"": 1100014}",{},5,0,Blight Invasion - Defense Phase,1

@@ -1,0 +1,48 @@
+{
+  "isNeedTransform": true,
+  "len": 1,
+  "key": "id",
+  "excelName": "Activity_活动表",
+  "data": {
+    "1": {
+      "castleLevel": 5,
+      "functionId": "",
+      "vipLevel": 1,
+      "actDes": "",
+      "useIcon": "pic_sjboss_haibao",
+      "actId": 480010101,
+      "actName": "",
+      "rewardStr": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_4",
+          "count": 11
+        },
+        "2": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 48
+        },
+        "3": {
+          "type": 11,
+          "count": 192
+        },
+        "4": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 960
+        },
+        "5": {
+          "type": 99,
+          "id": "item_optionalBox_Resource",
+          "count": 1
+        }
+      },
+      "openId": "close",
+      "id": 1,
+      "actDetails": "",
+      "UIPicAlas": ""
+    }
+  },
+  "first": 1
+}

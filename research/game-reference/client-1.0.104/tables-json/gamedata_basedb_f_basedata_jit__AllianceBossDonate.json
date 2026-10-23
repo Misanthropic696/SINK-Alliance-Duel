@@ -1,0 +1,79 @@
+{
+  "key": "id",
+  "len": 5,
+  "data": {
+    "4": {
+      "benefitType": 10017,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.18,
+          "Type": 10017
+        }
+      },
+      "benefitDes": "",
+      "benefitValue": 0.18,
+      "id": 4,
+      "donateNum": 30
+    },
+    "5": {
+      "benefitType": 10017,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.25,
+          "Type": 10017
+        }
+      },
+      "benefitDes": "",
+      "benefitValue": 0.25,
+      "id": 5,
+      "donateNum": 35
+    },
+    "1": {
+      "benefitType": 10017,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.03,
+          "Type": 10017
+        }
+      },
+      "benefitDes": "",
+      "benefitValue": 0.03,
+      "id": 1,
+      "donateNum": 15
+    },
+    "2": {
+      "benefitType": 10017,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.07,
+          "Type": 10017
+        }
+      },
+      "benefitDes": "",
+      "benefitValue": 0.07,
+      "id": 2,
+      "donateNum": 20
+    },
+    "3": {
+      "benefitType": 10017,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.12,
+          "Type": 10017
+        }
+      },
+      "benefitDes": "",
+      "benefitValue": 0.12,
+      "id": 3,
+      "donateNum": 25
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "Activity_Alliance_BOSS_联盟BOSS"
+}

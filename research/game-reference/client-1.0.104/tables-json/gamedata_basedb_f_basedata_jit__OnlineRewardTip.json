@@ -1,0 +1,25 @@
+{
+  "excelName": "TimeReward_在线时长奖励",
+  "first": 1,
+  "len": 2,
+  "data": {
+    "1": {
+      "id": 1,
+      "displayTime": 800,
+      "offsetY": 0.7,
+      "width": 2.6,
+      "height": 1,
+      "desc": ""
+    },
+    "2": {
+      "id": 2,
+      "displayTime": 800,
+      "offsetY": 0.7,
+      "width": 2.6,
+      "height": 1,
+      "desc": ""
+    }
+  },
+  "isNeedTransform": true,
+  "key": "id"
+}

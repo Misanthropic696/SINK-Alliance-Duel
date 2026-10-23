@@ -1,0 +1,31 @@
+{
+  "isNeedTransform": false,
+  "data": {
+    "1": {
+      "discountItemCount": 0,
+      "goodpriceItemCount": 2,
+      "castleLevel": 10,
+      "actId": 60001101,
+      "id": 1,
+      "commonItemCount": 3,
+      "openId": "season1_hermit",
+      "gotoId": "goto_recluse_coin",
+      "diamondRefreshCost": {
+        "1": 10,
+        "2": 10,
+        "3": 20,
+        "4": 20,
+        "5": 30,
+        "6": 30
+      },
+      "freeRefreshTimes": 2,
+      "TargetItemID": "recluse_coin",
+      "freeItemCount": 1,
+      "diamondRefreshTimes": 6
+    }
+  },
+  "len": 1,
+  "first": 1,
+  "excelName": "HermitMerchant_隐士商人",
+  "key": "id"
+}

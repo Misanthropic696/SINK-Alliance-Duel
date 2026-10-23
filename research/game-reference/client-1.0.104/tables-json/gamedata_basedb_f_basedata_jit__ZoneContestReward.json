@@ -1,0 +1,620 @@
+{
+  "len": 20,
+  "key": "id",
+  "data": {
+    "13": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 8
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 8
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 8
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 8
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 22000
+        }
+      },
+      "id": 13,
+      "type": 5,
+      "rank": 7
+    },
+    "14": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 8
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 8
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 8
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 8
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 20000
+        }
+      },
+      "id": 14,
+      "type": 5,
+      "rank": 8
+    },
+    "10": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 12
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 12
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 12
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 12
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 30000
+        }
+      },
+      "id": 10,
+      "type": 5,
+      "rank": 4
+    },
+    "12": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 8
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 8
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 8
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 8
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 24000
+        }
+      },
+      "id": 12,
+      "type": 5,
+      "rank": 6
+    },
+    "7": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 3
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 18
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 18
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 18
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 18
+        },
+        "6": {
+          "id": "item_cross_server_gloriousTeam_head_7d",
+          "type": 99,
+          "count": 1
+        },
+        "7": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 55000
+        }
+      },
+      "id": 7,
+      "type": 5,
+      "rank": 1
+    },
+    "8": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 2
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 16
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 16
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 16
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 16
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 45000
+        }
+      },
+      "id": 8,
+      "type": 5,
+      "rank": 2
+    },
+    "5": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_kingConquest_head_13d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 5,
+      "type": 2,
+      "rank": 1
+    },
+    "6": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_gloriousTeam_name_7d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 6,
+      "type": 4,
+      "rank": 1
+    },
+    "19": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_kingConquest_head_6d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 19,
+      "type": 10,
+      "rank": 1
+    },
+    "4": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 10
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 10
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 10
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 10
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 25000
+        }
+      },
+      "id": 4,
+      "type": 1,
+      "rank": 4
+    },
+    "1": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 3
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 18
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 18
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 18
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 18
+        },
+        "6": {
+          "id": "item_cross_server_gloriousTeam_head_7d",
+          "type": 99,
+          "count": 1
+        },
+        "7": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 55000
+        }
+      },
+      "id": 1,
+      "type": 1,
+      "rank": 1
+    },
+    "2": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 2
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 15
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 15
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 15
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 15
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 45000
+        }
+      },
+      "id": 2,
+      "type": 1,
+      "rank": 2
+    },
+    "18": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 8
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 8
+        },
+        "3": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 8
+        },
+        "4": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 8
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 5000
+        }
+      },
+      "id": 18,
+      "type": 9,
+      "rank": 2
+    },
+    "17": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 12
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 12
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 12
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 12
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 10000
+        }
+      },
+      "id": 17,
+      "type": 9,
+      "rank": 1
+    },
+    "16": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_gloriousTeam_name_7d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 16,
+      "type": 8,
+      "rank": 1
+    },
+    "15": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_kingConquest_head_13d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 15,
+      "type": 6,
+      "rank": 1
+    },
+    "9": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 14
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 14
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 14
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 14
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 35000
+        }
+      },
+      "id": 9,
+      "type": 5,
+      "rank": 3
+    },
+    "3": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 12
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 12
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 12
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 12
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 35000
+        }
+      },
+      "id": 3,
+      "type": 1,
+      "rank": 3
+    },
+    "20": {
+      "reward": {
+        "1": {
+          "id": "item_cross_server_gloriousTeam_name_7d",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 20,
+      "type": 12,
+      "rank": 1
+    },
+    "11": {
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_decorations_universal",
+          "type": 99,
+          "count": 10
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 10
+        },
+        "4": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 10
+        },
+        "5": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 10
+        },
+        "6": {
+          "id": "item_Activity_dualCommander",
+          "type": 99,
+          "count": 27000
+        }
+      },
+      "id": 11,
+      "type": 5,
+      "rank": 5
+    }
+  },
+  "first": 1,
+  "enum": {
+    "TYPE": {
+      "EGHIT_KING": 6,
+      "TWO_ZONE": 11,
+      "FOUR_SERVER": 1,
+      "FOUR_ZONE": 3,
+      "EGHIT_SERVER": 5,
+      "TWO_KING": 10,
+      "FOUR_KING": 2,
+      "TWO_SERVER": 9,
+      "TWO_UNION": 12,
+      "FOUR_UNION": 4,
+      "EGHIT_UNION": 8,
+      "EGHIT_ZONE": 7
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_ZoneContest_战区对决"
+}

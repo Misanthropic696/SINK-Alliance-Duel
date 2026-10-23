@@ -1,0 +1,69 @@
+{
+  "key": "id",
+  "first": 1,
+  "len": 5,
+  "excelName": "J-剧情功能表",
+  "isNeedTransform": false,
+  "data": {
+    "4": {
+      "guideStep": "Ct9",
+      "id": 4,
+      "checkInfo": {
+        "1": {
+          "buildingLevel": 3,
+          "type": 2,
+          "buildingId": 1001,
+          "buildingState": 2
+        }
+      },
+      "guideSubStep": 1
+    },
+    "3": {
+      "guideStep": "Ct7",
+      "id": 3,
+      "checkInfo": {
+        "1": {
+          "buildingLevel": 3,
+          "buildingId": 1001,
+          "type": 2
+        }
+      },
+      "guideSubStep": 1
+    },
+    "2": {
+      "guideStep": "Ct5",
+      "id": 2,
+      "checkInfo": {
+        "1": {
+          "buildingLevel": 2,
+          "buildingId": 1001,
+          "type": 2
+        }
+      },
+      "guideSubStep": 4
+    },
+    "1": {
+      "guideStep": "Ct5",
+      "id": 1,
+      "checkInfo": {
+        "1": {
+          "type": 1,
+          "taskId": 1001360
+        }
+      },
+      "guideSubStep": 4
+    },
+    "5": {
+      "guideStep": "Ct9",
+      "id": 5,
+      "checkInfo": {
+        "1": {
+          "buildingLevel": 4,
+          "buildingId": 1001,
+          "type": 2
+        }
+      },
+      "guideSubStep": 1
+    }
+  }
+}

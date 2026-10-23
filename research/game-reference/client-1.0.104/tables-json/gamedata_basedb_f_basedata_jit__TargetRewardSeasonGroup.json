@@ -1,0 +1,1011 @@
+{
+  "first": 100101,
+  "len": 20,
+  "data": {
+    "113001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 113001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "count": 20000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Material_universalFragment_3",
+          "count": 4,
+          "type": 99
+        },
+        "5": {
+          "id": "item_tactical_supply_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "6": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "7": {
+          "id": "item_equipment_enhanceStone",
+          "count": 500,
+          "type": 99
+        },
+        "8": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 113001
+    },
+    "121009": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121009,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5000,
+          "type": 99
+        },
+        "2": {
+          "count": 20000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 600,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 30,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 6000,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121009
+    },
+    "100102": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "3",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "56",
+          "param1": "1"
+        }
+      },
+      "id": 100102,
+      "rewards": {
+        "1": {
+          "id": "item_MapEmoji_songhua",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "",
+      "group": 1001
+    },
+    "121005": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121005,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2000,
+          "type": 99
+        },
+        "2": {
+          "count": 20000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 150,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 15,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121005
+    },
+    "112001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 112001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 10000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Box_gem_10",
+          "count": 4,
+          "type": 99
+        },
+        "4": {
+          "id": "item_wood_50k",
+          "count": 32,
+          "type": 99
+        },
+        "5": {
+          "id": "item_food_50k",
+          "count": 32,
+          "type": 99
+        },
+        "6": {
+          "id": "item_steel_30k",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 112001
+    },
+    "100101": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "3",
+          "param1": "1"
+        }
+      },
+      "id": 100101,
+      "rewards": {
+        "1": {
+          "id": "item_MapEmoji_qingzhu",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_MapEmoji_songhua",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "",
+      "group": 1001
+    },
+    "121001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121001,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 500,
+          "type": 99
+        },
+        "2": {
+          "count": 10000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121001
+    },
+    "111001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 111001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 4500,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Box_gem_10",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_wood_50k",
+          "count": 18,
+          "type": 99
+        },
+        "5": {
+          "id": "item_food_50k",
+          "count": 18,
+          "type": 99
+        },
+        "6": {
+          "id": "item_steel_30k",
+          "count": 18,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 111001
+    },
+    "121008": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121008,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3000,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 25,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3500,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121008
+    },
+    "121007": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121007,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 3000,
+          "type": 99
+        },
+        "2": {
+          "count": 10000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 250,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 20,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3500,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121007
+    },
+    "116001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 116001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "count": 23000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Material_universalFragment_4",
+          "count": 3,
+          "type": 99
+        },
+        "5": {
+          "id": "item_tactical_supply_random_box",
+          "count": 12,
+          "type": 99
+        },
+        "6": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "7": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        },
+        "8": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        },
+        "9": {
+          "id": "item_Awaken_universalFragment",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 116001
+    },
+    "119001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 119001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 390,
+          "type": 99
+        },
+        "2": {
+          "count": 20000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "5": {
+          "id": "item_tactical_supply_random_box",
+          "count": 16,
+          "type": 99
+        },
+        "6": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "7": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2300,
+          "type": 99
+        },
+        "8": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        },
+        "9": {
+          "id": "item_Awaken_universalFragment",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 119001
+    },
+    "114001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 114001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 6000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_2",
+          "count": 8,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Food_2",
+          "count": 8,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Energy_2",
+          "count": 8,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 114001
+    },
+    "121003": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121003,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1500,
+          "type": 99
+        },
+        "2": {
+          "count": 25000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121003
+    },
+    "121004": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121004,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1500,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 150,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 15,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121004
+    },
+    "121006": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121006,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 2500,
+          "type": 99
+        },
+        "2": {
+          "count": 40000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 15,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121006
+    },
+    "118001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 118001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 220,
+          "type": 99
+        },
+        "2": {
+          "count": 5000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 13,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1900,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 118001
+    },
+    "117001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 117001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 190,
+          "type": 99
+        },
+        "2": {
+          "count": 3000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Box_gem_50",
+          "count": 3,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_2",
+          "count": 16,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Food_2",
+          "count": 16,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Energy_2",
+          "count": 16,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 117001
+    },
+    "121002": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 121002,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 1000,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 121002
+    },
+    "115001": {
+      "condition": {
+        "1": {
+          "param3": "1",
+          "id": 100012,
+          "param2": "0",
+          "param1": "1"
+        },
+        "2": {
+          "param3": "-1",
+          "id": 100012,
+          "param2": "57",
+          "param1": "1"
+        }
+      },
+      "id": 115001,
+      "rewards": {
+        "1": {
+          "id": "item_research_info",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 10000,
+          "type": 1100006
+        },
+        "3": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_2",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Food_2",
+          "count": 12,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Energy_2",
+          "count": 12,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonBg": 0,
+      "openingTime": "0serverDayAfter_99999serverDay_Once",
+      "group": 115001
+    }
+  },
+  "excelName": "Escort_押镖",
+  "isNeedTransform": false,
+  "key": "id"
+}

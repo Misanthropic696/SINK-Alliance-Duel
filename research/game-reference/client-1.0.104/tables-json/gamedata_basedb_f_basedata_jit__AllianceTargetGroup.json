@@ -1,0 +1,2184 @@
+{
+  "key": "id",
+  "len": 60,
+  "data": {
+    "62": {
+      "highestDmg": 6400000001,
+      "groupId": 6001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 172,
+          "type": 99
+        },
+        "3": {
+          "count": 1837440,
+          "type": 5
+        },
+        "4": {
+          "count": 479160,
+          "type": 2
+        },
+        "5": {
+          "count": 479160,
+          "type": 1
+        },
+        "6": {
+          "count": 300960,
+          "type": 3
+        }
+      },
+      "id": 62,
+      "minnimumDmg": 3200000001
+    },
+    "52": {
+      "highestDmg": 3000000001,
+      "groupId": 5001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 160,
+          "type": 99
+        },
+        "3": {
+          "count": 1001880,
+          "type": 5
+        },
+        "4": {
+          "count": 383130,
+          "type": 2
+        },
+        "5": {
+          "count": 383130,
+          "type": 1
+        },
+        "6": {
+          "count": 197010,
+          "type": 3
+        }
+      },
+      "id": 52,
+      "minnimumDmg": 1500000001
+    },
+    "102": {
+      "highestDmg": 40000000001,
+      "groupId": 10001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 220,
+          "type": 99
+        },
+        "3": {
+          "count": 3795660,
+          "type": 5
+        },
+        "4": {
+          "count": 711810,
+          "type": 2
+        },
+        "5": {
+          "count": 711810,
+          "type": 1
+        },
+        "6": {
+          "count": 451440,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2100,
+          "type": 99
+        }
+      },
+      "id": 102,
+      "minnimumDmg": 20000000001
+    },
+    "72": {
+      "highestDmg": 11000000001,
+      "groupId": 7001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 184,
+          "type": 99
+        },
+        "3": {
+          "count": 2091870,
+          "type": 5
+        },
+        "4": {
+          "count": 519750,
+          "type": 2
+        },
+        "5": {
+          "count": 519750,
+          "type": 1
+        },
+        "6": {
+          "count": 328680,
+          "type": 3
+        }
+      },
+      "id": 72,
+      "minnimumDmg": 5500000001
+    },
+    "22": {
+      "highestDmg": 150000001,
+      "groupId": 2001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 124,
+          "type": 99
+        },
+        "3": {
+          "count": 164340,
+          "type": 5
+        },
+        "4": {
+          "count": 186120,
+          "type": 2
+        },
+        "5": {
+          "count": 186120,
+          "type": 1
+        },
+        "6": {
+          "count": 60390,
+          "type": 3
+        }
+      },
+      "id": 22,
+      "minnimumDmg": 75000001
+    },
+    "113": {
+      "highestDmg": 103680000001,
+      "groupId": 11001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 299,
+          "type": 99
+        },
+        "3": {
+          "count": 5900000,
+          "type": 5
+        },
+        "4": {
+          "count": 1141000,
+          "type": 2
+        },
+        "5": {
+          "count": 1141000,
+          "type": 1
+        },
+        "6": {
+          "count": 706000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2400,
+          "type": 99
+        }
+      },
+      "id": 113,
+      "minnimumDmg": 69120000001
+    },
+    "42": {
+      "highestDmg": 1120000001,
+      "groupId": 4001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 148,
+          "type": 99
+        },
+        "3": {
+          "count": 558360,
+          "type": 5
+        },
+        "4": {
+          "count": 342540,
+          "type": 2
+        },
+        "5": {
+          "count": 342540,
+          "type": 1
+        },
+        "6": {
+          "count": 131670,
+          "type": 3
+        }
+      },
+      "id": 42,
+      "minnimumDmg": 560000001
+    },
+    "32": {
+      "highestDmg": 460000001,
+      "groupId": 3001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 136,
+          "type": 99
+        },
+        "3": {
+          "count": 359370,
+          "type": 5
+        },
+        "4": {
+          "count": 300960,
+          "type": 2
+        },
+        "5": {
+          "count": 300960,
+          "type": 1
+        },
+        "6": {
+          "count": 114840,
+          "type": 3
+        }
+      },
+      "id": 32,
+      "minnimumDmg": 230000001
+    },
+    "33": {
+      "highestDmg": 690000001,
+      "groupId": 3001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 154,
+          "type": 99
+        },
+        "3": {
+          "count": 594990,
+          "type": 5
+        },
+        "4": {
+          "count": 451440,
+          "type": 2
+        },
+        "5": {
+          "count": 451440,
+          "type": 1
+        },
+        "6": {
+          "count": 172260,
+          "type": 3
+        }
+      },
+      "id": 33,
+      "minnimumDmg": 460000001
+    },
+    "104": {
+      "highestDmg": 100000000000,
+      "groupId": 10001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 340,
+          "type": 99
+        },
+        "3": {
+          "count": 7821000,
+          "type": 5
+        },
+        "4": {
+          "count": 1478070,
+          "type": 2
+        },
+        "5": {
+          "count": 1478070,
+          "type": 1
+        },
+        "6": {
+          "count": 930600,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2700,
+          "type": 99
+        }
+      },
+      "id": 104,
+      "minnimumDmg": 60000000000
+    },
+    "41": {
+      "highestDmg": 560000001,
+      "groupId": 4001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 124,
+          "type": 99
+        },
+        "3": {
+          "count": 265320,
+          "type": 5
+        },
+        "4": {
+          "count": 171270,
+          "type": 2
+        },
+        "5": {
+          "count": 171270,
+          "type": 1
+        },
+        "6": {
+          "count": 65340,
+          "type": 3
+        }
+      },
+      "id": 41,
+      "minnimumDmg": 1
+    },
+    "124": {
+      "highestDmg": 330000000001,
+      "groupId": 12001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 390,
+          "type": 99
+        },
+        "3": {
+          "count": 8400000,
+          "type": 5
+        },
+        "4": {
+          "count": 1557000,
+          "type": 2
+        },
+        "5": {
+          "count": 1557000,
+          "type": 1
+        },
+        "6": {
+          "count": 967000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2800,
+          "type": 99
+        }
+      },
+      "id": 124,
+      "minnimumDmg": 198000000001
+    },
+    "34": {
+      "highestDmg": 1150000001,
+      "groupId": 3001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 172,
+          "type": 99
+        },
+        "3": {
+          "count": 874170,
+          "type": 5
+        },
+        "4": {
+          "count": 657360,
+          "type": 2
+        },
+        "5": {
+          "count": 657360,
+          "type": 1
+        },
+        "6": {
+          "count": 246510,
+          "type": 3
+        }
+      },
+      "id": 34,
+      "minnimumDmg": 690000001
+    },
+    "24": {
+      "highestDmg": 375000001,
+      "groupId": 2001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 148,
+          "type": 99
+        },
+        "3": {
+          "count": 511830,
+          "type": 5
+        },
+        "4": {
+          "count": 547470,
+          "type": 2
+        },
+        "5": {
+          "count": 547470,
+          "type": 1
+        },
+        "6": {
+          "count": 213840,
+          "type": 3
+        }
+      },
+      "id": 24,
+      "minnimumDmg": 225000001
+    },
+    "14": {
+      "highestDmg": 100000001,
+      "groupId": 1001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 124,
+          "type": 99
+        },
+        "3": {
+          "count": 271260,
+          "type": 5
+        },
+        "4": {
+          "count": 350460,
+          "type": 2
+        },
+        "5": {
+          "count": 350460,
+          "type": 1
+        },
+        "6": {
+          "count": 109890,
+          "type": 3
+        }
+      },
+      "id": 14,
+      "minnimumDmg": 60000001
+    },
+    "84": {
+      "highestDmg": 44000000001,
+      "groupId": 8001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 292,
+          "type": 99
+        },
+        "3": {
+          "count": 5891490,
+          "type": 5
+        },
+        "4": {
+          "count": 1259280,
+          "type": 2
+        },
+        "5": {
+          "count": 1259280,
+          "type": 1
+        },
+        "6": {
+          "count": 793980,
+          "type": 3
+        }
+      },
+      "id": 84,
+      "minnimumDmg": 26400000001
+    },
+    "74": {
+      "highestDmg": 27500000001,
+      "groupId": 7001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 268,
+          "type": 99
+        },
+        "3": {
+          "count": 4439160,
+          "type": 5
+        },
+        "4": {
+          "count": 1067220,
+          "type": 2
+        },
+        "5": {
+          "count": 1067220,
+          "type": 1
+        },
+        "6": {
+          "count": 684090,
+          "type": 3
+        }
+      },
+      "id": 74,
+      "minnimumDmg": 16500000001
+    },
+    "115": {
+      "highestDmg": 172800000001,
+      "groupId": 11001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 430,
+          "type": 99
+        },
+        "3": {
+          "count": 10200000,
+          "type": 5
+        },
+        "4": {
+          "count": 1928000,
+          "type": 2
+        },
+        "5": {
+          "count": 1928000,
+          "type": 1
+        },
+        "6": {
+          "count": 1193000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 3000,
+          "type": 99
+        }
+      },
+      "id": 115,
+      "minnimumDmg": 172800000001
+    },
+    "121": {
+      "highestDmg": 66000000001,
+      "groupId": 12001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 172,
+          "type": 99
+        },
+        "3": {
+          "count": 2050000,
+          "type": 5
+        },
+        "4": {
+          "count": 390000,
+          "type": 2
+        },
+        "5": {
+          "count": 390000,
+          "type": 1
+        },
+        "6": {
+          "count": 242000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2000,
+          "type": 99
+        }
+      },
+      "id": 121,
+      "minnimumDmg": 1
+    },
+    "44": {
+      "highestDmg": 2800000001,
+      "groupId": 4001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 196,
+          "type": 99
+        },
+        "3": {
+          "count": 1291950,
+          "type": 5
+        },
+        "4": {
+          "count": 684090,
+          "type": 2
+        },
+        "5": {
+          "count": 684090,
+          "type": 1
+        },
+        "6": {
+          "count": 262350,
+          "type": 3
+        }
+      },
+      "id": 44,
+      "minnimumDmg": 1680000001
+    },
+    "31": {
+      "highestDmg": 230000001,
+      "groupId": 3001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 118,
+          "type": 99
+        },
+        "3": {
+          "count": 163350,
+          "type": 5
+        },
+        "4": {
+          "count": 150480,
+          "type": 2
+        },
+        "5": {
+          "count": 150480,
+          "type": 1
+        },
+        "6": {
+          "count": 57420,
+          "type": 3
+        }
+      },
+      "id": 31,
+      "minnimumDmg": 1
+    },
+    "83": {
+      "highestDmg": 26400000001,
+      "groupId": 8001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 244,
+          "type": 99
+        },
+        "3": {
+          "count": 4225320,
+          "type": 5
+        },
+        "4": {
+          "count": 902880,
+          "type": 2
+        },
+        "5": {
+          "count": 902880,
+          "type": 1
+        },
+        "6": {
+          "count": 575190,
+          "type": 3
+        }
+      },
+      "id": 83,
+      "minnimumDmg": 17600000001
+    },
+    "94": {
+      "highestDmg": 70000000001,
+      "groupId": 9001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 9,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 316,
+          "type": 99
+        },
+        "3": {
+          "count": 6940890,
+          "type": 5
+        },
+        "4": {
+          "count": 1368180,
+          "type": 2
+        },
+        "5": {
+          "count": 1368180,
+          "type": 1
+        },
+        "6": {
+          "count": 876150,
+          "type": 3
+        }
+      },
+      "id": 94,
+      "minnimumDmg": 42000000001
+    },
+    "103": {
+      "highestDmg": 60000000001,
+      "groupId": 10001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 280,
+          "type": 99
+        },
+        "3": {
+          "count": 5807340,
+          "type": 5
+        },
+        "4": {
+          "count": 1108800,
+          "type": 2
+        },
+        "5": {
+          "count": 1108800,
+          "type": 1
+        },
+        "6": {
+          "count": 697950,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2400,
+          "type": 99
+        }
+      },
+      "id": 103,
+      "minnimumDmg": 40000000001
+    },
+    "93": {
+      "highestDmg": 42000000001,
+      "groupId": 9001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 9,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 262,
+          "type": 99
+        },
+        "3": {
+          "count": 5153940,
+          "type": 5
+        },
+        "4": {
+          "count": 1005840,
+          "type": 2
+        },
+        "5": {
+          "count": 1005840,
+          "type": 1
+        },
+        "6": {
+          "count": 636570,
+          "type": 3
+        }
+      },
+      "id": 93,
+      "minnimumDmg": 28000000001
+    },
+    "122": {
+      "highestDmg": 132000000001,
+      "groupId": 12001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 245,
+          "type": 99
+        },
+        "3": {
+          "count": 4100000,
+          "type": 5
+        },
+        "4": {
+          "count": 780000,
+          "type": 2
+        },
+        "5": {
+          "count": 780000,
+          "type": 1
+        },
+        "6": {
+          "count": 484000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2300,
+          "type": 99
+        }
+      },
+      "id": 122,
+      "minnimumDmg": 66000000001
+    },
+    "91": {
+      "highestDmg": 14000000001,
+      "groupId": 9001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 9,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 154,
+          "type": 99
+        },
+        "3": {
+          "count": 1651320,
+          "type": 5
+        },
+        "4": {
+          "count": 335610,
+          "type": 2
+        },
+        "5": {
+          "count": 335610,
+          "type": 1
+        },
+        "6": {
+          "count": 211860,
+          "type": 3
+        }
+      },
+      "id": 91,
+      "minnimumDmg": 1
+    },
+    "82": {
+      "highestDmg": 17600000001,
+      "groupId": 8001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 196,
+          "type": 99
+        },
+        "3": {
+          "count": 2693790,
+          "type": 5
+        },
+        "4": {
+          "count": 601920,
+          "type": 2
+        },
+        "5": {
+          "count": 601920,
+          "type": 1
+        },
+        "6": {
+          "count": 383130,
+          "type": 3
+        }
+      },
+      "id": 82,
+      "minnimumDmg": 8800000001
+    },
+    "53": {
+      "highestDmg": 4500000001,
+      "groupId": 5001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 190,
+          "type": 99
+        },
+        "3": {
+          "count": 1740420,
+          "type": 5
+        },
+        "4": {
+          "count": 615780,
+          "type": 2
+        },
+        "5": {
+          "count": 615780,
+          "type": 1
+        },
+        "6": {
+          "count": 311850,
+          "type": 3
+        }
+      },
+      "id": 53,
+      "minnimumDmg": 3000000001
+    },
+    "63": {
+      "highestDmg": 9600000001,
+      "groupId": 6001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 208,
+          "type": 99
+        },
+        "3": {
+          "count": 2840310,
+          "type": 5
+        },
+        "4": {
+          "count": 718740,
+          "type": 2
+        },
+        "5": {
+          "count": 718740,
+          "type": 1
+        },
+        "6": {
+          "count": 451440,
+          "type": 3
+        }
+      },
+      "id": 63,
+      "minnimumDmg": 6400000001
+    },
+    "51": {
+      "highestDmg": 1500000001,
+      "groupId": 5001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 130,
+          "type": 99
+        },
+        "3": {
+          "count": 411840,
+          "type": 5
+        },
+        "4": {
+          "count": 185130,
+          "type": 2
+        },
+        "5": {
+          "count": 185130,
+          "type": 1
+        },
+        "6": {
+          "count": 93060,
+          "type": 3
+        }
+      },
+      "id": 51,
+      "minnimumDmg": 1
+    },
+    "61": {
+      "highestDmg": 3200000001,
+      "groupId": 6001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 136,
+          "type": 99
+        },
+        "3": {
+          "count": 891990,
+          "type": 5
+        },
+        "4": {
+          "count": 225720,
+          "type": 2
+        },
+        "5": {
+          "count": 225720,
+          "type": 1
+        },
+        "6": {
+          "count": 143550,
+          "type": 3
+        }
+      },
+      "id": 61,
+      "minnimumDmg": 1
+    },
+    "123": {
+      "highestDmg": 198000000001,
+      "groupId": 12001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 315,
+          "type": 99
+        },
+        "3": {
+          "count": 6300000,
+          "type": 5
+        },
+        "4": {
+          "count": 1171000,
+          "type": 2
+        },
+        "5": {
+          "count": 1171000,
+          "type": 1
+        },
+        "6": {
+          "count": 727000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2500,
+          "type": 99
+        }
+      },
+      "id": 123,
+      "minnimumDmg": 132000000001
+    },
+    "23": {
+      "highestDmg": 225000001,
+      "groupId": 2001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 136,
+          "type": 99
+        },
+        "3": {
+          "count": 315810,
+          "type": 5
+        },
+        "4": {
+          "count": 390060,
+          "type": 2
+        },
+        "5": {
+          "count": 390060,
+          "type": 1
+        },
+        "6": {
+          "count": 99000,
+          "type": 3
+        }
+      },
+      "id": 23,
+      "minnimumDmg": 150000001
+    },
+    "11": {
+      "highestDmg": 20000001,
+      "groupId": 1001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 106,
+          "type": 99
+        },
+        "3": {
+          "count": 39600,
+          "type": 5
+        },
+        "4": {
+          "count": 53460,
+          "type": 2
+        },
+        "5": {
+          "count": 53460,
+          "type": 1
+        },
+        "6": {
+          "count": 10890,
+          "type": 3
+        }
+      },
+      "id": 11,
+      "minnimumDmg": 1
+    },
+    "21": {
+      "highestDmg": 75000001,
+      "groupId": 2001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 112,
+          "type": 99
+        },
+        "3": {
+          "count": 64350,
+          "type": 5
+        },
+        "4": {
+          "count": 87120,
+          "type": 2
+        },
+        "5": {
+          "count": 87120,
+          "type": 1
+        },
+        "6": {
+          "count": 27720,
+          "type": 3
+        }
+      },
+      "id": 21,
+      "minnimumDmg": 1
+    },
+    "81": {
+      "highestDmg": 8800000001,
+      "groupId": 8001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 148,
+          "type": 99
+        },
+        "3": {
+          "count": 1287990,
+          "type": 5
+        },
+        "4": {
+          "count": 294030,
+          "type": 2
+        },
+        "5": {
+          "count": 294030,
+          "type": 1
+        },
+        "6": {
+          "count": 185130,
+          "type": 3
+        }
+      },
+      "id": 81,
+      "minnimumDmg": 1
+    },
+    "101": {
+      "highestDmg": 20000000001,
+      "groupId": 10001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 160,
+          "type": 99
+        },
+        "3": {
+          "count": 1879020,
+          "type": 5
+        },
+        "4": {
+          "count": 355410,
+          "type": 2
+        },
+        "5": {
+          "count": 355410,
+          "type": 1
+        },
+        "6": {
+          "count": 225720,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 1800,
+          "type": 99
+        }
+      },
+      "id": 101,
+      "minnimumDmg": 1
+    },
+    "54": {
+      "highestDmg": 7500000001,
+      "groupId": 5001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 220,
+          "type": 99
+        },
+        "3": {
+          "count": 2820510,
+          "type": 5
+        },
+        "4": {
+          "count": 876150,
+          "type": 2
+        },
+        "5": {
+          "count": 876150,
+          "type": 1
+        },
+        "6": {
+          "count": 437580,
+          "type": 3
+        }
+      },
+      "id": 54,
+      "minnimumDmg": 4500000001
+    },
+    "73": {
+      "highestDmg": 16500000001,
+      "groupId": 7001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 226,
+          "type": 99
+        },
+        "3": {
+          "count": 3232350,
+          "type": 5
+        },
+        "4": {
+          "count": 800910,
+          "type": 2
+        },
+        "5": {
+          "count": 800910,
+          "type": 1
+        },
+        "6": {
+          "count": 512820,
+          "type": 3
+        }
+      },
+      "id": 73,
+      "minnimumDmg": 11000000001
+    },
+    "114": {
+      "highestDmg": 172800000001,
+      "groupId": 11001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 365,
+          "type": 99
+        },
+        "3": {
+          "count": 8100000,
+          "type": 5
+        },
+        "4": {
+          "count": 1518000,
+          "type": 2
+        },
+        "5": {
+          "count": 1518000,
+          "type": 1
+        },
+        "6": {
+          "count": 939000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2700,
+          "type": 99
+        }
+      },
+      "id": 114,
+      "minnimumDmg": 103680000001
+    },
+    "71": {
+      "highestDmg": 5500000001,
+      "groupId": 7001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 142,
+          "type": 99
+        },
+        "3": {
+          "count": 1024650,
+          "type": 5
+        },
+        "4": {
+          "count": 260370,
+          "type": 2
+        },
+        "5": {
+          "count": 260370,
+          "type": 1
+        },
+        "6": {
+          "count": 164340,
+          "type": 3
+        }
+      },
+      "id": 71,
+      "minnimumDmg": 1
+    },
+    "65": {
+      "highestDmg": 16000000001,
+      "groupId": 6001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 280,
+          "type": 99
+        },
+        "3": {
+          "count": 4974750,
+          "type": 5
+        },
+        "4": {
+          "count": 1231560,
+          "type": 2
+        },
+        "5": {
+          "count": 1231560,
+          "type": 1
+        },
+        "6": {
+          "count": 787050,
+          "type": 3
+        }
+      },
+      "id": 65,
+      "minnimumDmg": 16000000001
+    },
+    "64": {
+      "highestDmg": 16000000001,
+      "groupId": 6001,
+      "stage": 4,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 244,
+          "type": 99
+        },
+        "3": {
+          "count": 3901590,
+          "type": 5
+        },
+        "4": {
+          "count": 985050,
+          "type": 2
+        },
+        "5": {
+          "count": 985050,
+          "type": 1
+        },
+        "6": {
+          "count": 629640,
+          "type": 3
+        }
+      },
+      "id": 64,
+      "minnimumDmg": 9600000001
+    },
+    "25": {
+      "highestDmg": 375000001,
+      "groupId": 2001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 160,
+          "type": 99
+        },
+        "3": {
+          "count": 704880,
+          "type": 5
+        },
+        "4": {
+          "count": 684090,
+          "type": 2
+        },
+        "5": {
+          "count": 684090,
+          "type": 1
+        },
+        "6": {
+          "count": 267300,
+          "type": 3
+        }
+      },
+      "id": 25,
+      "minnimumDmg": 375000001
+    },
+    "35": {
+      "highestDmg": 1150000001,
+      "groupId": 3001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 190,
+          "type": 99
+        },
+        "3": {
+          "count": 1147410,
+          "type": 5
+        },
+        "4": {
+          "count": 820710,
+          "type": 2
+        },
+        "5": {
+          "count": 820710,
+          "type": 1
+        },
+        "6": {
+          "count": 307890,
+          "type": 3
+        }
+      },
+      "id": 35,
+      "minnimumDmg": 1150000001
+    },
+    "55": {
+      "highestDmg": 7500000001,
+      "groupId": 5001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 250,
+          "type": 99
+        },
+        "3": {
+          "count": 4284720,
+          "type": 5
+        },
+        "4": {
+          "count": 1094940,
+          "type": 2
+        },
+        "5": {
+          "count": 1094940,
+          "type": 1
+        },
+        "6": {
+          "count": 547470,
+          "type": 3
+        }
+      },
+      "id": 55,
+      "minnimumDmg": 7500000001
+    },
+    "15": {
+      "highestDmg": 100000001,
+      "groupId": 1001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 130,
+          "type": 99
+        },
+        "3": {
+          "count": 374220,
+          "type": 5
+        },
+        "4": {
+          "count": 437580,
+          "type": 2
+        },
+        "5": {
+          "count": 437580,
+          "type": 1
+        },
+        "6": {
+          "count": 136620,
+          "type": 3
+        }
+      },
+      "id": 15,
+      "minnimumDmg": 100000001
+    },
+    "105": {
+      "highestDmg": 100000000000,
+      "groupId": 10001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 400,
+          "type": 99
+        },
+        "3": {
+          "count": 9873270,
+          "type": 5
+        },
+        "4": {
+          "count": 1847340,
+          "type": 2
+        },
+        "5": {
+          "count": 1847340,
+          "type": 1
+        },
+        "6": {
+          "count": 1163250,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 3000,
+          "type": 99
+        }
+      },
+      "id": 105,
+      "minnimumDmg": 100000000000
+    },
+    "75": {
+      "highestDmg": 27500000001,
+      "groupId": 7001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 310,
+          "type": 99
+        },
+        "3": {
+          "count": 5803380,
+          "type": 5
+        },
+        "4": {
+          "count": 1402830,
+          "type": 2
+        },
+        "5": {
+          "count": 1402830,
+          "type": 1
+        },
+        "6": {
+          "count": 890010,
+          "type": 3
+        }
+      },
+      "id": 75,
+      "minnimumDmg": 27500000001
+    },
+    "125": {
+      "highestDmg": 330000000001,
+      "groupId": 12001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 12,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 460,
+          "type": 99
+        },
+        "3": {
+          "count": 10600000,
+          "type": 5
+        },
+        "4": {
+          "count": 1977000,
+          "type": 2
+        },
+        "5": {
+          "count": 1977000,
+          "type": 1
+        },
+        "6": {
+          "count": 1228000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 3100,
+          "type": 99
+        }
+      },
+      "id": 125,
+      "minnimumDmg": 330000000001
+    },
+    "111": {
+      "highestDmg": 34560000001,
+      "groupId": 11001,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 165,
+          "type": 99
+        },
+        "3": {
+          "count": 1950000,
+          "type": 5
+        },
+        "4": {
+          "count": 380000,
+          "type": 2
+        },
+        "5": {
+          "count": 380000,
+          "type": 1
+        },
+        "6": {
+          "count": 235000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 1900,
+          "type": 99
+        }
+      },
+      "id": 111,
+      "minnimumDmg": 1
+    },
+    "45": {
+      "highestDmg": 2800000001,
+      "groupId": 4001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 220,
+          "type": 99
+        },
+        "3": {
+          "count": 1695870,
+          "type": 5
+        },
+        "4": {
+          "count": 923670,
+          "type": 2
+        },
+        "5": {
+          "count": 923670,
+          "type": 1
+        },
+        "6": {
+          "count": 465300,
+          "type": 3
+        }
+      },
+      "id": 45,
+      "minnimumDmg": 2800000001
+    },
+    "43": {
+      "highestDmg": 1680000001,
+      "groupId": 4001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 172,
+          "type": 99
+        },
+        "3": {
+          "count": 922680,
+          "type": 5
+        },
+        "4": {
+          "count": 512820,
+          "type": 2
+        },
+        "5": {
+          "count": 512820,
+          "type": 1
+        },
+        "6": {
+          "count": 197010,
+          "type": 3
+        }
+      },
+      "id": 43,
+      "minnimumDmg": 1120000001
+    },
+    "85": {
+      "highestDmg": 44000000001,
+      "groupId": 8001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 340,
+          "type": 99
+        },
+        "3": {
+          "count": 7700220,
+          "type": 5
+        },
+        "4": {
+          "count": 1607760,
+          "type": 2
+        },
+        "5": {
+          "count": 1607760,
+          "type": 1
+        },
+        "6": {
+          "count": 1026630,
+          "type": 3
+        }
+      },
+      "id": 85,
+      "minnimumDmg": 44000000001
+    },
+    "95": {
+      "highestDmg": 70000000001,
+      "groupId": 9001,
+      "stage": 5,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 9,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 370,
+          "type": 99
+        },
+        "3": {
+          "count": 8849610,
+          "type": 5
+        },
+        "4": {
+          "count": 1710720,
+          "type": 2
+        },
+        "5": {
+          "count": 1710720,
+          "type": 1
+        },
+        "6": {
+          "count": 1094940,
+          "type": 3
+        }
+      },
+      "id": 95,
+      "minnimumDmg": 70000000000
+    },
+    "112": {
+      "highestDmg": 69120000001,
+      "groupId": 11001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 232,
+          "type": 99
+        },
+        "3": {
+          "count": 3920000,
+          "type": 5
+        },
+        "4": {
+          "count": 760000,
+          "type": 2
+        },
+        "5": {
+          "count": 760000,
+          "type": 1
+        },
+        "6": {
+          "count": 470000,
+          "type": 3
+        },
+        "7": {
+          "id": "item_drone_data",
+          "count": 2200,
+          "type": 99
+        }
+      },
+      "id": 112,
+      "minnimumDmg": 34560000001
+    },
+    "92": {
+      "highestDmg": 28000000001,
+      "groupId": 9001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 9,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 208,
+          "type": 99
+        },
+        "3": {
+          "count": 3367980,
+          "type": 5
+        },
+        "4": {
+          "count": 670230,
+          "type": 2
+        },
+        "5": {
+          "count": 670230,
+          "type": 1
+        },
+        "6": {
+          "count": 424710,
+          "type": 3
+        }
+      },
+      "id": 92,
+      "minnimumDmg": 14000000001
+    },
+    "13": {
+      "highestDmg": 60000001,
+      "groupId": 1001,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 118,
+          "type": 99
+        },
+        "3": {
+          "count": 184140,
+          "type": 5
+        },
+        "4": {
+          "count": 262350,
+          "type": 2
+        },
+        "5": {
+          "count": 262350,
+          "type": 1
+        },
+        "6": {
+          "count": 82170,
+          "type": 3
+        }
+      },
+      "id": 13,
+      "minnimumDmg": 40000001
+    },
+    "12": {
+      "highestDmg": 40000001,
+      "groupId": 1001,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 112,
+          "type": 99
+        },
+        "3": {
+          "count": 105930,
+          "type": 5
+        },
+        "4": {
+          "count": 153450,
+          "type": 2
+        },
+        "5": {
+          "count": 153450,
+          "type": 1
+        },
+        "6": {
+          "count": 24750,
+          "type": 3
+        }
+      },
+      "id": 12,
+      "minnimumDmg": 20000001
+    }
+  },
+  "isNeedTransform": false,
+  "first": 11,
+  "excelName": "Activity_Alliance_BOSS_联盟BOSS"
+}

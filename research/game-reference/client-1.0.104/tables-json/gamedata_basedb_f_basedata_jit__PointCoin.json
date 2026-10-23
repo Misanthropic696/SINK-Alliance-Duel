@@ -1,0 +1,44 @@
+{
+  "len": 7,
+  "key": "id",
+  "excelName": "Gift_礼包表",
+  "isNeedTransform": false,
+  "first": 1,
+  "data": {
+    "7": {
+      "id": 7,
+      "icon": "icon_zq_xinyuanxiaotu",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "5": {
+      "id": 5,
+      "icon": "icon_points07",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "6": {
+      "id": 6,
+      "icon": "ico_hdhd_beike",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "3": {
+      "id": 3,
+      "icon": "icon_points03",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "4": {
+      "id": 4,
+      "icon": "icon_points06",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "1": {
+      "id": 1,
+      "icon": "icon_points01",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    },
+    "2": {
+      "id": 2,
+      "icon": "icon_points02",
+      "atlas": "UI/Atlas/Module/Zombie_ItemIcon144/Zombie_ItemIcon144Atlas.prefab"
+    }
+  }
+}

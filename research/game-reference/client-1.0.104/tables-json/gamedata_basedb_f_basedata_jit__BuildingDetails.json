@@ -1,0 +1,565 @@
+{
+  "len": 42,
+  "key": "id",
+  "first": 1001,
+  "data": {
+    "5044": {
+      "buildDes": "",
+      "id": 5044,
+      "attrs": {
+        "1": "heavyHeroSoldierLoadAddValue",
+        "2": "heavyHeroHpAddValue",
+        "3": "heavyHeroAttackAddValue",
+        "4": "heavyHeroDefendAddValue",
+        "5": "ability"
+      },
+      "attrsTranslate": {
+        "1": 14,
+        "2": 15,
+        "3": 16,
+        "4": 17,
+        "5": 1
+      },
+      "cfgName": "TankCenterBase"
+    },
+    "5021": {
+      "buildDes": "",
+      "id": 5021,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "WorkerCenterBase"
+    },
+    "1004": {
+      "buildDes": "",
+      "id": 1004,
+      "attrs": {
+        "1": "cureCount",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 3,
+        "2": 1
+      },
+      "cfgName": "HospitalBase"
+    },
+    "1020": {
+      "buildDes": "",
+      "id": 1020,
+      "attrs": {
+        "1": "lockTip",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 35,
+        "2": 1
+      },
+      "cfgName": "BarracksBase"
+    },
+    "5038": {
+      "buildDes": "",
+      "id": 5038,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "MonumentBase"
+    },
+    "5042": {
+      "buildDes": "",
+      "id": 5042,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 13,
+        "2": 1
+      },
+      "cfgName": "EquipSmelterBase"
+    },
+    "5002": {
+      "buildDes": "",
+      "id": 5002,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "AbyssDoorBase"
+    },
+    "1002": {
+      "buildDes": "",
+      "id": 1002,
+      "attrs": {
+        "1": "defendValue",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 2,
+        "2": 1
+      },
+      "cfgName": "WallBase"
+    },
+    "5035": {
+      "buildDes": "",
+      "id": 5035,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "QuarryBase"
+    },
+    "1017": {
+      "buildDes": "",
+      "id": 1017,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 5,
+        "2": 1
+      },
+      "cfgName": "MetalRecyclingBase"
+    },
+    "5024": {
+      "buildDes": "",
+      "id": 5024,
+      "attrs": {
+        "1": "protectCapacity",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 10,
+        "2": 1
+      },
+      "cfgName": "MetalWarehouseBase"
+    },
+    "5013": {
+      "buildDes": "",
+      "id": 5013,
+      "attrs": {
+        "1": "commonMarchSpeedAdd",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 9,
+        "2": 1
+      },
+      "cfgName": "SquadBase"
+    },
+    "5053": {
+      "buildDes": "",
+      "id": 5053,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "TempleBase"
+    },
+    "5045": {
+      "buildDes": "",
+      "id": 5045,
+      "attrs": {
+        "1": "mediumHeroSoldierLoadAddValue",
+        "2": "mediumHeroHpAddValue",
+        "3": "mediumHeroAttackAddValue",
+        "4": "mediumHeroDefendAddValue",
+        "5": "ability"
+      },
+      "attrsTranslate": {
+        "1": 18,
+        "2": 19,
+        "3": 20,
+        "4": 21,
+        "5": 1
+      },
+      "cfgName": "MissileCenterBase"
+    },
+    "5049": {
+      "buildDes": "",
+      "id": 5049,
+      "attrs": {
+        "1": "counterRecoProb",
+        "2": "counterRecoHideCount",
+        "3": "ability"
+      },
+      "attrsTranslate": {
+        "1": 26,
+        "2": 27,
+        "3": 1
+      },
+      "cfgName": "RadarTowerBase"
+    },
+    "1016": {
+      "buildDes": "",
+      "id": 1016,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 5,
+        "2": 1
+      },
+      "cfgName": "FarmBase"
+    },
+    "1001": {
+      "buildDes": "",
+      "id": 1001,
+      "attrs": {
+        "1": "heroLvCap",
+        "2": "heroLife",
+        "3": "heroAttack",
+        "4": "heroDefend",
+        "5": "ability"
+      },
+      "attrsTranslate": {
+        "1": 30,
+        "2": 31,
+        "3": 32,
+        "4": 33,
+        "5": 1
+      },
+      "cfgName": "CastleBase"
+    },
+    "5016": {
+      "buildDes": "",
+      "id": 5016,
+      "attrs": {
+        "1": "commonMarchSpeedAdd",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 9,
+        "2": 1
+      },
+      "cfgName": "Squad_3Base"
+    },
+    "1019": {
+      "buildDes": "",
+      "id": 1019,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 5,
+        "2": 1
+      },
+      "cfgName": "OilWellBase"
+    },
+    "5055": {
+      "buildDes": "",
+      "id": 5055,
+      "attrs": {
+        "1": "shelterPercent",
+        "2": "shelterLimit",
+        "3": "coolDown",
+        "4": "helpNum",
+        "5": "ability"
+      },
+      "attrsTranslate": {
+        "1": 36,
+        "2": 37,
+        "3": 38,
+        "4": 39,
+        "5": 1
+      },
+      "cfgName": "BFSoldierShelterBase"
+    },
+    "5033": {
+      "buildDes": "",
+      "id": 5033,
+      "attrs": {
+        "1": "speedAddPercent",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 12,
+        "2": 1
+      },
+      "cfgName": "ReconnaissanceBase"
+    },
+    "5014": {
+      "buildDes": "",
+      "id": 5014,
+      "attrs": {
+        "1": "commonMarchSpeedAdd",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 9,
+        "2": 1
+      },
+      "cfgName": "Squad_1Base"
+    },
+    "5015": {
+      "buildDes": "",
+      "id": 5015,
+      "attrs": {
+        "1": "commonMarchSpeedAdd",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 9,
+        "2": 1
+      },
+      "cfgName": "Squad_2Base"
+    },
+    "1027": {
+      "buildDes": "",
+      "id": 1027,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 5,
+        "2": 1
+      },
+      "cfgName": "AntitoxinBase"
+    },
+    "5023": {
+      "buildDes": "",
+      "id": 5023,
+      "attrs": {
+        "1": "protectCapacity",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 10,
+        "2": 1
+      },
+      "cfgName": "GranaryBase"
+    },
+    "5054": {
+      "buildDes": "",
+      "id": 5054,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "AuditoriumBase"
+    },
+    "1006": {
+      "buildDes": "",
+      "id": 1006,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "RadarBase"
+    },
+    "5046": {
+      "buildDes": "",
+      "id": 5046,
+      "attrs": {
+        "1": "lightHeroSoldierLoadAddValue",
+        "2": "lightHeroHpAddValue",
+        "3": "lightHeroAttackAddValue",
+        "4": "lightHeroDefendAddValue",
+        "5": "ability"
+      },
+      "attrsTranslate": {
+        "1": 22,
+        "2": 23,
+        "3": 24,
+        "4": 25,
+        "5": 1
+      },
+      "cfgName": "AircraftCenterBase"
+    },
+    "5040": {
+      "buildDes": "",
+      "id": 5040,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "ExchangeShopBase"
+    },
+    "5043": {
+      "buildDes": "",
+      "id": 5043,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 13,
+        "2": 1
+      },
+      "cfgName": "MaterialWorkshopBase"
+    },
+    "5006": {
+      "buildDes": "",
+      "id": 5006,
+      "attrs": {
+        "1": "soldierCap",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 6,
+        "2": 1
+      },
+      "cfgName": "PlayGroundBase"
+    },
+    "1008": {
+      "buildDes": "",
+      "id": 1008,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "WeaponWorkshopBase"
+    },
+    "5036": {
+      "buildDes": "",
+      "id": 5036,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "DroneCenterBase"
+    },
+    "5029": {
+      "buildDes": "",
+      "id": 5029,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "SecretCenterBase"
+    },
+    "5031": {
+      "buildDes": "",
+      "id": 5031,
+      "attrs": {
+        "1": "freeTime",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 11,
+        "2": 1
+      },
+      "cfgName": "WorkerBase"
+    },
+    "1007": {
+      "buildDes": "",
+      "id": 1007,
+      "attrs": {
+        "1": "speedAddPercent",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 4,
+        "2": 1
+      },
+      "cfgName": "CollegeBase"
+    },
+    "5034": {
+      "buildDes": "",
+      "id": 5034,
+      "attrs": {
+        "1": "speed",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 34,
+        "2": 1
+      },
+      "cfgName": "DroneCompFactoryBase"
+    },
+    "5025": {
+      "buildDes": "",
+      "id": 5025,
+      "attrs": {
+        "1": "protectCapacity",
+        "2": "ability"
+      },
+      "attrsTranslate": {
+        "1": 10,
+        "2": 1
+      },
+      "cfgName": "OilTankBase"
+    },
+    "5010": {
+      "buildDes": "",
+      "id": 5010,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "ArenaBase"
+    },
+    "1010": {
+      "buildDes": "",
+      "id": 1010,
+      "attrs": {
+        "1": "helpMaxCount",
+        "2": "helpTime",
+        "3": "ability"
+      },
+      "attrsTranslate": {
+        "1": 28,
+        "2": 29,
+        "3": 1
+      },
+      "cfgName": "EmbassyBase"
+    },
+    "5008": {
+      "buildDes": "",
+      "id": 5008,
+      "attrs": {
+        "1": "heroFreeRecruitCD",
+        "2": "workerFreeRecruitCD",
+        "3": "ability"
+      },
+      "attrsTranslate": {
+        "1": 7,
+        "2": 8,
+        "3": 1
+      },
+      "cfgName": "BarBase"
+    },
+    "5039": {
+      "buildDes": "",
+      "id": 5039,
+      "attrs": {
+        "1": "ability"
+      },
+      "attrsTranslate": {
+        "1": 1
+      },
+      "cfgName": "CollectionHallBase"
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "BuildingDetails_建筑详情"
+}

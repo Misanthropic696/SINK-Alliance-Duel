@@ -1,0 +1,62 @@
+{
+  "data": {
+    "9": {
+      "name": "Healing Tent #2",
+      "id": 9,
+      "desc": "[Healing Tent] opens when the battlefield starts, granting [a moderate amount of points] upon capture."
+    },
+    "7": {
+      "name": "Observatory",
+      "id": 7,
+      "desc": "[Observatory] opens when the battlefield starts, granting [a small amount of points] upon capture."
+    },
+    "8": {
+      "name": "Healing Tent #1",
+      "id": 8,
+      "desc": "[Healing Tent] opens when the battlefield starts, granting [a moderate amount of points] upon capture."
+    },
+    "5": {
+      "name": "Alchemist Workshop #2",
+      "id": 5,
+      "desc": "[Alchemy Workshop] opens when the battlefield starts, granting [a large amount of points] upon capture."
+    },
+    "6": {
+      "name": "Migration Portal",
+      "id": 6,
+      "desc": "[Migration Gate] opens when the battlefield starts, granting [a small amount of points] upon capture."
+    },
+    "3": {
+      "name": "Cursed Altar",
+      "id": 3,
+      "desc": "[Cursed Altar] will open after the battlefield has been active for a while, granting [a small amount of points] upon capture."
+    },
+    "4": {
+      "name": "Alchemy Workshop #1",
+      "id": 4,
+      "desc": "[Alchemy Workshop] opens when the battlefield starts, granting [a large amount of points] upon capture."
+    },
+    "1": {
+      "name": "Elixir Castle",
+      "id": 1,
+      "desc": "[Elixir Castle] will open after the battlefield has been active for a while, granting [a massive amount of points] upon capture."
+    },
+    "2": {
+      "name": "War Relics",
+      "id": 2,
+      "desc": "[War Relics] will open after the battlefield has been active for a while, granting [a small amount of points] upon capture."
+    },
+    "11": {
+      "name": "Healing Tent #4",
+      "id": 11,
+      "desc": "[Healing Tent] opens when the battlefield starts, granting [a moderate amount of points] upon capture."
+    },
+    "10": {
+      "name": "Healing Tent #3",
+      "id": 10,
+      "desc": "[Healing Tent] opens when the battlefield starts, granting [a moderate amount of points] upon capture."
+    }
+  },
+  "len": 11,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,22 @@
+{
+  "enum": {
+    "LEVELTYPE": {
+      "TEST": 1,
+      "MAIN": 2
+    }
+  },
+  "len": 1,
+  "key": "id",
+  "excelName": "SpecialMission_前线突围",
+  "first": 1,
+  "data": {
+    "1": {
+      "isOpen": true,
+      "sortId": 1,
+      "tagName": "",
+      "levelType": 1,
+      "id": 1
+    }
+  },
+  "isNeedTransform": true
+}

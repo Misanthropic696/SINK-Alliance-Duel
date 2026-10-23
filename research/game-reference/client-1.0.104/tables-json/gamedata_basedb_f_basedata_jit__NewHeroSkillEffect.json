@@ -1,0 +1,84 @@
+{
+  "first": 0,
+  "isNeedTransform": false,
+  "enum": {
+    "ACTIONTYPE": {
+      "FJ": 7,
+      "IMPROVE": 2,
+      "ATTACK": 1,
+      "NOATTACK": 3,
+      "NOCOMMONATTACK": 5,
+      "CF": 6,
+      "NOSKILLATTACK": 4
+    },
+    "TARGETPOSTYPE": {
+      "FRONT": 1,
+      "BACK": 2
+    },
+    "ATTRTYPE": {
+      "DEFENDADD": 4,
+      "BECRITICALDAMAGESUB": 18,
+      "ENERGYDAMAGEADD": 7,
+      "BEDAMAGESUB": 11,
+      "PHYSICALRESISTANCEADD": 15,
+      "BEENERGYDAMAGESUB": 13,
+      "EXTRADAMAGECOEFADD": 23,
+      "DAMAGEADD": 5,
+      "CDADD": 1,
+      "RESISTANCEADD": 14,
+      "BEMONSTERDAMAGESUB": 22,
+      "ATTACKADD": 3,
+      "TOMONSTERDAMAGEADD": 21,
+      "CRITICALDAMAGEADD": 17,
+      "BEDAMAGEDESC": 8,
+      "ENERGYRESISTANCEADD": 16,
+      "HPADD": 2,
+      "CRITICALRATEADD": 19,
+      "PHYSICALDAMAGEADD": 6,
+      "BEPHYSICALDAMAGEDESC": 9,
+      "BEPHYSICALDAMAGESUB": 12,
+      "BEENERGYDAMAGEDESC": 10,
+      "BECRITICALRATESUB": 20
+    },
+    "TARGETRANGETYPE": {
+      "SELF": 2,
+      "ALL": 1,
+      "HP_LEAST": 5,
+      "RANDOM": 3,
+      "ORDER": 4,
+      "HP_MIN": 7,
+      "HP_MOST": 6,
+      "ATK_MAX": 8
+    },
+    "TARGETCAMPTYPE": {
+      "MEDIUM": 2,
+      "HEAVY": 3,
+      "LIGHT": 1
+    },
+    "TRIGGERTARGET": {
+      "SELF": 1,
+      "ENEMY": 2
+    },
+    "TRIGGERTYPE": {
+      "NONE": 0,
+      "HP_MORE": 1,
+      "HP_LESS": 2,
+      "HP_EQUAL": 3
+    },
+    "TARGETCOND": {
+      "ATK_MAX": 4,
+      "HP_LEAST": 1,
+      "NONE": 0,
+      "HP_MIN": 3,
+      "HP_MOST": 2
+    },
+    "SELECTTYPE": {
+      "SPECIFIC": 2,
+      "PRIOR": 1
+    }
+  },
+  "key": "id",
+  "data": {},
+  "excelName": "HeroNew_新技能",
+  "len": 0
+}

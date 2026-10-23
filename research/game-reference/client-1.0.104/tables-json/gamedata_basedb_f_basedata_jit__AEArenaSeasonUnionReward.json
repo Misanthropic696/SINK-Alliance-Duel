@@ -1,0 +1,496 @@
+{
+  "key": "id",
+  "len": 12,
+  "data": {
+    "300104": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 10,
+      "name": "",
+      "rankGroup": 2,
+      "minRound": 1,
+      "minRank": 4,
+      "maxRound": -1,
+      "id": 300104,
+      "item": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 20,
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "type": 11
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "count": 500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      }
+    },
+    "400103": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 4001,
+      "maxRank": 3,
+      "name": "",
+      "rankGroup": 0,
+      "minRound": 1,
+      "minRank": 3,
+      "maxRound": -1,
+      "id": 400103,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 500,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 25,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_HeroEXP_3",
+          "count": 25,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 25,
+          "type": 99
+        }
+      }
+    },
+    "300103": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 3,
+      "name": "",
+      "rankGroup": 2,
+      "minRound": 1,
+      "minRank": 3,
+      "maxRound": -1,
+      "id": 300103,
+      "item": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 60,
+          "type": 99
+        },
+        "3": {
+          "count": 200,
+          "type": 11
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "count": 1000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "400104": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 4001,
+      "maxRank": 10,
+      "name": "",
+      "rankGroup": 0,
+      "minRound": 1,
+      "minRank": 4,
+      "maxRound": -1,
+      "id": 400104,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 80,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 250,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_HeroEXP_3",
+          "count": 10,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "300204": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 10,
+      "name": "",
+      "rankGroup": 1,
+      "minRound": 1,
+      "minRank": 4,
+      "maxRound": -1,
+      "id": 300204,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "type": 11
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      }
+    },
+    "300101": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 1,
+      "name": "",
+      "rankGroup": 2,
+      "minRound": 1,
+      "minRank": 1,
+      "maxRound": -1,
+      "id": 300101,
+      "item": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 100,
+          "type": 99
+        },
+        "3": {
+          "count": 400,
+          "type": 11
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "count": 2000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      }
+    },
+    "300203": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 3,
+      "name": "",
+      "rankGroup": 1,
+      "minRound": 1,
+      "minRank": 3,
+      "maxRound": -1,
+      "id": 300203,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "count": 80,
+          "type": 11
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 600,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      }
+    },
+    "400102": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 4001,
+      "maxRank": 2,
+      "name": "",
+      "rankGroup": 0,
+      "minRound": 1,
+      "minRank": 2,
+      "maxRound": -1,
+      "id": 400102,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 750,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 35,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 35,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 35,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_HeroEXP_3",
+          "count": 35,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 35,
+          "type": 99
+        }
+      }
+    },
+    "400101": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 4001,
+      "maxRank": 1,
+      "name": "",
+      "rankGroup": 0,
+      "minRound": 1,
+      "minRank": 1,
+      "maxRound": -1,
+      "id": 400101,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 150,
+          "type": 99
+        },
+        "2": {
+          "id": "item_research_info",
+          "count": 1000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 50,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 50,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_HeroEXP_3",
+          "count": 50,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 50,
+          "type": 99
+        }
+      }
+    },
+    "300202": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 2,
+      "name": "",
+      "rankGroup": 1,
+      "minRound": 1,
+      "minRank": 2,
+      "maxRound": -1,
+      "id": 300202,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 30,
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "type": 11
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 800,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      }
+    },
+    "300201": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 1,
+      "name": "",
+      "rankGroup": 1,
+      "minRound": 1,
+      "minRank": 1,
+      "maxRound": -1,
+      "id": 300201,
+      "item": {
+        "1": {
+          "id": "item_tactical_supply_random_box",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "type": 11
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "count": 1200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "300102": {
+      "desc": "",
+      "ArenaMilitaryRank": "",
+      "arenaId": 3001,
+      "maxRank": 2,
+      "name": "",
+      "rankGroup": 2,
+      "minRound": 1,
+      "minRank": 2,
+      "maxRound": -1,
+      "id": 300102,
+      "item": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_tactical_supply_random_box",
+          "count": 80,
+          "type": 99
+        },
+        "3": {
+          "count": 300,
+          "type": 11
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "count": 1500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "first": 300101,
+  "excelName": "AEArena_竞技场",
+  "enum": {
+    "AEARENARANKGROUP": {
+      "HIGH": 2,
+      "COMMON": 0,
+      "MIDDLE": 1
+    }
+  }
+}

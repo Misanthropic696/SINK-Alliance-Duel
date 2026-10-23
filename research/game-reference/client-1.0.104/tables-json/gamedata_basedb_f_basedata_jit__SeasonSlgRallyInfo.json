@@ -1,0 +1,7156 @@
+{
+  "isNeedTransform": true,
+  "key": "id",
+  "len": 60,
+  "enum": {
+    "TYPE": {
+      "WORLD": 1,
+      "RADAR": 2,
+      "COMMON": 1001
+    }
+  },
+  "excelName": "SlgMonster_SLG怪物",
+  "first": 1,
+  "data": {
+    "52": {
+      "level": 52,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2120
+        },
+        "2": {
+          "type": 5,
+          "count": 560000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 406
+        },
+        "4": {
+          "type": 1,
+          "count": 213000
+        },
+        "5": {
+          "type": 2,
+          "count": 213000
+        },
+        "6": {
+          "type": 3,
+          "count": 135000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 14000
+        },
+        "2": {
+          "type": 2,
+          "count": 14000
+        },
+        "3": {
+          "type": 3,
+          "count": 9000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 52,
+      "allianceGiftId": 20001,
+      "recAbility": 21618000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110052,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 11000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4240
+        },
+        "3": {
+          "type": 5,
+          "count": 1120000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 812
+        },
+        "5": {
+          "type": 1,
+          "count": 426000
+        },
+        "6": {
+          "type": 2,
+          "count": 426000
+        },
+        "7": {
+          "type": 3,
+          "count": 270000
+        }
+      }
+    },
+    "22": {
+      "level": 22,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1270
+        },
+        "2": {
+          "type": 5,
+          "count": 106000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 206
+        },
+        "4": {
+          "type": 1,
+          "count": 84000
+        },
+        "5": {
+          "type": 2,
+          "count": 84000
+        },
+        "6": {
+          "type": 3,
+          "count": 33000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 22,
+      "allianceGiftId": 20001,
+      "recAbility": 12547000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 4200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110022,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 5000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2540
+        },
+        "3": {
+          "type": 5,
+          "count": 212000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 412
+        },
+        "5": {
+          "type": 1,
+          "count": 168000
+        },
+        "6": {
+          "type": 2,
+          "count": 168000
+        },
+        "7": {
+          "type": 3,
+          "count": 66000
+        }
+      }
+    },
+    "50": {
+      "level": 50,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2000
+        },
+        "2": {
+          "type": 5,
+          "count": 532000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 394
+        },
+        "4": {
+          "type": 1,
+          "count": 197000
+        },
+        "5": {
+          "type": 2,
+          "count": 197000
+        },
+        "6": {
+          "type": 3,
+          "count": 126000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 13000
+        },
+        "2": {
+          "type": 2,
+          "count": 13000
+        },
+        "3": {
+          "type": 3,
+          "count": 8000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 50,
+      "allianceGiftId": 20001,
+      "recAbility": 21059000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110050,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4000
+        },
+        "3": {
+          "type": 5,
+          "count": 1064000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 788
+        },
+        "5": {
+          "type": 1,
+          "count": 394000
+        },
+        "6": {
+          "type": 2,
+          "count": 394000
+        },
+        "7": {
+          "type": 3,
+          "count": 252000
+        }
+      }
+    },
+    "60": {
+      "level": 60,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2580
+        },
+        "2": {
+          "type": 5,
+          "count": 683000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 460
+        },
+        "4": {
+          "type": 1,
+          "count": 276000
+        },
+        "5": {
+          "type": 2,
+          "count": 276000
+        },
+        "6": {
+          "type": 3,
+          "count": 176000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 16000
+        },
+        "2": {
+          "type": 2,
+          "count": 16000
+        },
+        "3": {
+          "type": 3,
+          "count": 11000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 60,
+      "allianceGiftId": 20001,
+      "recAbility": 24204000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 10000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110060,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 12000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 5160
+        },
+        "3": {
+          "type": 5,
+          "count": 1366000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 920
+        },
+        "5": {
+          "type": 1,
+          "count": 552000
+        },
+        "6": {
+          "type": 2,
+          "count": 552000
+        },
+        "7": {
+          "type": 3,
+          "count": 352000
+        }
+      }
+    },
+    "12": {
+      "level": 12,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1150
+        },
+        "2": {
+          "type": 5,
+          "count": 32000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 140
+        },
+        "4": {
+          "type": 1,
+          "count": 46000
+        },
+        "5": {
+          "type": 2,
+          "count": 46000
+        },
+        "6": {
+          "type": 3,
+          "count": 15000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 12,
+      "allianceGiftId": 20001,
+      "recAbility": 9231000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 12,
+      "strength": 20,
+      "virusResistanceRequire": 2200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110012,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2300
+        },
+        "3": {
+          "type": 5,
+          "count": 64000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 280
+        },
+        "5": {
+          "type": 1,
+          "count": 92000
+        },
+        "6": {
+          "type": 2,
+          "count": 92000
+        },
+        "7": {
+          "type": 3,
+          "count": 30000
+        }
+      }
+    },
+    "14": {
+      "level": 14,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1170
+        },
+        "2": {
+          "type": 5,
+          "count": 40000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 154
+        },
+        "4": {
+          "type": 1,
+          "count": 64000
+        },
+        "5": {
+          "type": 2,
+          "count": 64000
+        },
+        "6": {
+          "type": 3,
+          "count": 17000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 3000
+        },
+        "2": {
+          "type": 2,
+          "count": 3000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 14,
+      "allianceGiftId": 20001,
+      "recAbility": 9752000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 14,
+      "strength": 20,
+      "virusResistanceRequire": 2600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110014,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2340
+        },
+        "3": {
+          "type": 5,
+          "count": 80000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 308
+        },
+        "5": {
+          "type": 1,
+          "count": 128000
+        },
+        "6": {
+          "type": 2,
+          "count": 128000
+        },
+        "7": {
+          "type": 3,
+          "count": 34000
+        }
+      }
+    },
+    "10": {
+      "level": 10,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1120
+        },
+        "2": {
+          "type": 5,
+          "count": 25000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 126
+        },
+        "4": {
+          "type": 1,
+          "count": 43000
+        },
+        "5": {
+          "type": 2,
+          "count": 43000
+        },
+        "6": {
+          "type": 3,
+          "count": 14000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 10,
+      "allianceGiftId": 20001,
+      "recAbility": 8710000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 10,
+      "strength": 20,
+      "virusResistanceRequire": 1800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110010,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 2000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2240
+        },
+        "3": {
+          "type": 5,
+          "count": 50000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 252
+        },
+        "5": {
+          "type": 1,
+          "count": 86000
+        },
+        "6": {
+          "type": 2,
+          "count": 86000
+        },
+        "7": {
+          "type": 3,
+          "count": 28000
+        }
+      }
+    },
+    "16": {
+      "level": 16,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1200
+        },
+        "2": {
+          "type": 5,
+          "count": 51000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 166
+        },
+        "4": {
+          "type": 1,
+          "count": 67000
+        },
+        "5": {
+          "type": 2,
+          "count": 67000
+        },
+        "6": {
+          "type": 3,
+          "count": 27000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 4000
+        },
+        "2": {
+          "type": 2,
+          "count": 4000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 16,
+      "allianceGiftId": 20001,
+      "recAbility": 10688000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 16,
+      "strength": 20,
+      "virusResistanceRequire": 3000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110016,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 4000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2400
+        },
+        "3": {
+          "type": 5,
+          "count": 102000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 332
+        },
+        "5": {
+          "type": 1,
+          "count": 134000
+        },
+        "6": {
+          "type": 2,
+          "count": 134000
+        },
+        "7": {
+          "type": 3,
+          "count": 54000
+        }
+      }
+    },
+    "26": {
+      "level": 26,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1320
+        },
+        "2": {
+          "type": 5,
+          "count": 172000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 234
+        },
+        "4": {
+          "type": 1,
+          "count": 94000
+        },
+        "5": {
+          "type": 2,
+          "count": 94000
+        },
+        "6": {
+          "type": 3,
+          "count": 49000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 26,
+      "allianceGiftId": 20001,
+      "recAbility": 13870000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 5000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110026,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 6000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2640
+        },
+        "3": {
+          "type": 5,
+          "count": 344000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 468
+        },
+        "5": {
+          "type": 1,
+          "count": 188000
+        },
+        "6": {
+          "type": 2,
+          "count": 188000
+        },
+        "7": {
+          "type": 3,
+          "count": 98000
+        }
+      }
+    },
+    "36": {
+      "level": 36,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1440
+        },
+        "2": {
+          "type": 5,
+          "count": 324000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 300
+        },
+        "4": {
+          "type": 1,
+          "count": 121000
+        },
+        "5": {
+          "type": 2,
+          "count": 121000
+        },
+        "6": {
+          "type": 3,
+          "count": 77000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 36,
+      "allianceGiftId": 20001,
+      "recAbility": 16825000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 7000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110036,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 8000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2880
+        },
+        "3": {
+          "type": 5,
+          "count": 648000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 600
+        },
+        "5": {
+          "type": 1,
+          "count": 242000
+        },
+        "6": {
+          "type": 2,
+          "count": 242000
+        },
+        "7": {
+          "type": 3,
+          "count": 154000
+        }
+      }
+    },
+    "24": {
+      "level": 24,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1290
+        },
+        "2": {
+          "type": 5,
+          "count": 135000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 220
+        },
+        "4": {
+          "type": 1,
+          "count": 91000
+        },
+        "5": {
+          "type": 2,
+          "count": 91000
+        },
+        "6": {
+          "type": 3,
+          "count": 46000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 24,
+      "allianceGiftId": 20001,
+      "recAbility": 13209000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 4600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110024,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 5000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2580
+        },
+        "3": {
+          "type": 5,
+          "count": 270000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 440
+        },
+        "5": {
+          "type": 1,
+          "count": 182000
+        },
+        "6": {
+          "type": 2,
+          "count": 182000
+        },
+        "7": {
+          "type": 3,
+          "count": 92000
+        }
+      }
+    },
+    "34": {
+      "level": 34,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1410
+        },
+        "2": {
+          "type": 5,
+          "count": 309000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 286
+        },
+        "4": {
+          "type": 1,
+          "count": 117000
+        },
+        "5": {
+          "type": 2,
+          "count": 117000
+        },
+        "6": {
+          "type": 3,
+          "count": 74000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 34,
+      "allianceGiftId": 20001,
+      "recAbility": 16260000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 6600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110034,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 7000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2820
+        },
+        "3": {
+          "type": 5,
+          "count": 618000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 572
+        },
+        "5": {
+          "type": 1,
+          "count": 234000
+        },
+        "6": {
+          "type": 2,
+          "count": 234000
+        },
+        "7": {
+          "type": 3,
+          "count": 148000
+        }
+      }
+    },
+    "18": {
+      "level": 18,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1220
+        },
+        "2": {
+          "type": 5,
+          "count": 65000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 180
+        },
+        "4": {
+          "type": 1,
+          "count": 74000
+        },
+        "5": {
+          "type": 2,
+          "count": 74000
+        },
+        "6": {
+          "type": 3,
+          "count": 29000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 4000
+        },
+        "2": {
+          "type": 2,
+          "count": 4000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 18,
+      "allianceGiftId": 20001,
+      "recAbility": 11421000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 18,
+      "strength": 20,
+      "virusResistanceRequire": 3400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110018,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 4000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2440
+        },
+        "3": {
+          "type": 5,
+          "count": 130000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 360
+        },
+        "5": {
+          "type": 1,
+          "count": 148000
+        },
+        "6": {
+          "type": 2,
+          "count": 148000
+        },
+        "7": {
+          "type": 3,
+          "count": 58000
+        }
+      }
+    },
+    "28": {
+      "level": 28,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1340
+        },
+        "2": {
+          "type": 5,
+          "count": 219000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 246
+        },
+        "4": {
+          "type": 1,
+          "count": 101000
+        },
+        "5": {
+          "type": 2,
+          "count": 101000
+        },
+        "6": {
+          "type": 3,
+          "count": 51000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 28,
+      "allianceGiftId": 20001,
+      "recAbility": 14532000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 5400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110028,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 6000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2680
+        },
+        "3": {
+          "type": 5,
+          "count": 438000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 492
+        },
+        "5": {
+          "type": 1,
+          "count": 202000
+        },
+        "6": {
+          "type": 2,
+          "count": 202000
+        },
+        "7": {
+          "type": 3,
+          "count": 102000
+        }
+      }
+    },
+    "4": {
+      "level": 4,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 980
+        },
+        "2": {
+          "type": 5,
+          "count": 6000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 86
+        },
+        "4": {
+          "type": 1,
+          "count": 9000
+        },
+        "5": {
+          "type": 2,
+          "count": 9000
+        },
+        "6": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 4,
+      "allianceGiftId": 20001,
+      "recAbility": 7147000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 4,
+      "strength": 20,
+      "virusResistanceRequire": 600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110004,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 1000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1960
+        },
+        "3": {
+          "type": 5,
+          "count": 12000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 172
+        },
+        "5": {
+          "type": 1,
+          "count": 18000
+        },
+        "6": {
+          "type": 2,
+          "count": 18000
+        },
+        "7": {
+          "type": 3,
+          "count": 6000
+        }
+      }
+    },
+    "40": {
+      "level": 40,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1480
+        },
+        "2": {
+          "type": 5,
+          "count": 367000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 326
+        },
+        "4": {
+          "type": 1,
+          "count": 131000
+        },
+        "5": {
+          "type": 2,
+          "count": 131000
+        },
+        "6": {
+          "type": 3,
+          "count": 84000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 10000
+        },
+        "2": {
+          "type": 2,
+          "count": 10000
+        },
+        "3": {
+          "type": 3,
+          "count": 5000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 40,
+      "allianceGiftId": 20001,
+      "recAbility": 18235000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 7800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110040,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 8000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2960
+        },
+        "3": {
+          "type": 5,
+          "count": 734000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 652
+        },
+        "5": {
+          "type": 1,
+          "count": 262000
+        },
+        "6": {
+          "type": 2,
+          "count": 262000
+        },
+        "7": {
+          "type": 3,
+          "count": 168000
+        }
+      }
+    },
+    "6": {
+      "level": 6,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1030
+        },
+        "2": {
+          "type": 5,
+          "count": 10000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 100
+        },
+        "4": {
+          "type": 1,
+          "count": 13000
+        },
+        "5": {
+          "type": 2,
+          "count": 13000
+        },
+        "6": {
+          "type": 3,
+          "count": 5000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 6,
+      "allianceGiftId": 20001,
+      "recAbility": 7668000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 6,
+      "strength": 20,
+      "virusResistanceRequire": 1000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110006,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 2000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2060
+        },
+        "3": {
+          "type": 5,
+          "count": 20000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 200
+        },
+        "5": {
+          "type": 1,
+          "count": 26000
+        },
+        "6": {
+          "type": 2,
+          "count": 26000
+        },
+        "7": {
+          "type": 3,
+          "count": 10000
+        }
+      }
+    },
+    "59": {
+      "level": 59,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2540
+        },
+        "2": {
+          "type": 5,
+          "count": 663000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 454
+        },
+        "4": {
+          "type": 1,
+          "count": 271000
+        },
+        "5": {
+          "type": 2,
+          "count": 271000
+        },
+        "6": {
+          "type": 3,
+          "count": 173000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 16000
+        },
+        "2": {
+          "type": 2,
+          "count": 16000
+        },
+        "3": {
+          "type": 3,
+          "count": 11000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 59,
+      "allianceGiftId": 20001,
+      "recAbility": 23921000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9900,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110059,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 12000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 5080
+        },
+        "3": {
+          "type": 5,
+          "count": 1326000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 908
+        },
+        "5": {
+          "type": 1,
+          "count": 542000
+        },
+        "6": {
+          "type": 2,
+          "count": 542000
+        },
+        "7": {
+          "type": 3,
+          "count": 346000
+        }
+      }
+    },
+    "43": {
+      "level": 43,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1650
+        },
+        "2": {
+          "type": 5,
+          "count": 407000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 346
+        },
+        "4": {
+          "type": 1,
+          "count": 155000
+        },
+        "5": {
+          "type": 2,
+          "count": 155000
+        },
+        "6": {
+          "type": 3,
+          "count": 97000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 43,
+      "allianceGiftId": 20001,
+      "recAbility": 19074000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8300,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110043,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 9000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3300
+        },
+        "3": {
+          "type": 5,
+          "count": 814000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 692
+        },
+        "5": {
+          "type": 1,
+          "count": 310000
+        },
+        "6": {
+          "type": 2,
+          "count": 310000
+        },
+        "7": {
+          "type": 3,
+          "count": 194000
+        }
+      }
+    },
+    "57": {
+      "level": 57,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2420
+        },
+        "2": {
+          "type": 5,
+          "count": 630000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 440
+        },
+        "4": {
+          "type": 1,
+          "count": 258000
+        },
+        "5": {
+          "type": 2,
+          "count": 258000
+        },
+        "6": {
+          "type": 3,
+          "count": 162000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 15000
+        },
+        "2": {
+          "type": 2,
+          "count": 15000
+        },
+        "3": {
+          "type": 3,
+          "count": 10000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 57,
+      "allianceGiftId": 20001,
+      "recAbility": 23359000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9700,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110057,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 12000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4840
+        },
+        "3": {
+          "type": 5,
+          "count": 1260000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 880
+        },
+        "5": {
+          "type": 1,
+          "count": 516000
+        },
+        "6": {
+          "type": 2,
+          "count": 516000
+        },
+        "7": {
+          "type": 3,
+          "count": 324000
+        }
+      }
+    },
+    "56": {
+      "level": 56,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2350
+        },
+        "2": {
+          "type": 5,
+          "count": 618000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 434
+        },
+        "4": {
+          "type": 1,
+          "count": 244000
+        },
+        "5": {
+          "type": 2,
+          "count": 244000
+        },
+        "6": {
+          "type": 3,
+          "count": 155000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 15000
+        },
+        "2": {
+          "type": 2,
+          "count": 15000
+        },
+        "3": {
+          "type": 3,
+          "count": 10000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 56,
+      "allianceGiftId": 20001,
+      "recAbility": 23078000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110056,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 12000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4700
+        },
+        "3": {
+          "type": 5,
+          "count": 1236000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 868
+        },
+        "5": {
+          "type": 1,
+          "count": 488000
+        },
+        "6": {
+          "type": 2,
+          "count": 488000
+        },
+        "7": {
+          "type": 3,
+          "count": 310000
+        }
+      }
+    },
+    "55": {
+      "level": 55,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2300
+        },
+        "2": {
+          "type": 5,
+          "count": 600000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 426
+        },
+        "4": {
+          "type": 1,
+          "count": 239000
+        },
+        "5": {
+          "type": 2,
+          "count": 239000
+        },
+        "6": {
+          "type": 3,
+          "count": 152000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 15000
+        },
+        "2": {
+          "type": 2,
+          "count": 15000
+        },
+        "3": {
+          "type": 3,
+          "count": 10000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 55,
+      "allianceGiftId": 20001,
+      "recAbility": 22797000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9500,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110055,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 11000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4600
+        },
+        "3": {
+          "type": 5,
+          "count": 1200000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 852
+        },
+        "5": {
+          "type": 1,
+          "count": 478000
+        },
+        "6": {
+          "type": 2,
+          "count": 478000
+        },
+        "7": {
+          "type": 3,
+          "count": 304000
+        }
+      }
+    },
+    "54": {
+      "level": 54,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2230
+        },
+        "2": {
+          "type": 5,
+          "count": 588000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 420
+        },
+        "4": {
+          "type": 1,
+          "count": 226000
+        },
+        "5": {
+          "type": 2,
+          "count": 226000
+        },
+        "6": {
+          "type": 3,
+          "count": 145000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 14000
+        },
+        "2": {
+          "type": 2,
+          "count": 14000
+        },
+        "3": {
+          "type": 3,
+          "count": 9000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 54,
+      "allianceGiftId": 20001,
+      "recAbility": 22178000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110054,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 11000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4460
+        },
+        "3": {
+          "type": 5,
+          "count": 1176000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 840
+        },
+        "5": {
+          "type": 1,
+          "count": 452000
+        },
+        "6": {
+          "type": 2,
+          "count": 452000
+        },
+        "7": {
+          "type": 3,
+          "count": 290000
+        }
+      }
+    },
+    "53": {
+      "level": 53,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2190
+        },
+        "2": {
+          "type": 5,
+          "count": 571000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 414
+        },
+        "4": {
+          "type": 1,
+          "count": 222000
+        },
+        "5": {
+          "type": 2,
+          "count": 222000
+        },
+        "6": {
+          "type": 3,
+          "count": 142000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 14000
+        },
+        "2": {
+          "type": 2,
+          "count": 14000
+        },
+        "3": {
+          "type": 3,
+          "count": 9000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 53,
+      "allianceGiftId": 20001,
+      "recAbility": 21898000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9300,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110053,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 11000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4380
+        },
+        "3": {
+          "type": 5,
+          "count": 1142000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 828
+        },
+        "5": {
+          "type": 1,
+          "count": 444000
+        },
+        "6": {
+          "type": 2,
+          "count": 444000
+        },
+        "7": {
+          "type": 3,
+          "count": 284000
+        }
+      }
+    },
+    "58": {
+      "level": 58,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2460
+        },
+        "2": {
+          "type": 5,
+          "count": 650000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 446
+        },
+        "4": {
+          "type": 1,
+          "count": 262000
+        },
+        "5": {
+          "type": 2,
+          "count": 262000
+        },
+        "6": {
+          "type": 3,
+          "count": 165000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 16000
+        },
+        "2": {
+          "type": 2,
+          "count": 16000
+        },
+        "3": {
+          "type": 3,
+          "count": 11000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 58,
+      "allianceGiftId": 20001,
+      "recAbility": 23640000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110058,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 12000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4920
+        },
+        "3": {
+          "type": 5,
+          "count": 1300000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 892
+        },
+        "5": {
+          "type": 1,
+          "count": 524000
+        },
+        "6": {
+          "type": 2,
+          "count": 524000
+        },
+        "7": {
+          "type": 3,
+          "count": 330000
+        }
+      }
+    },
+    "5": {
+      "level": 5,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1000
+        },
+        "2": {
+          "type": 5,
+          "count": 8000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 94
+        },
+        "4": {
+          "type": 1,
+          "count": 11000
+        },
+        "5": {
+          "type": 2,
+          "count": 11000
+        },
+        "6": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 5,
+      "allianceGiftId": 20001,
+      "recAbility": 7406000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 5,
+      "strength": 20,
+      "virusResistanceRequire": 800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110005,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 1000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2000
+        },
+        "3": {
+          "type": 5,
+          "count": 16000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 188
+        },
+        "5": {
+          "type": 1,
+          "count": 22000
+        },
+        "6": {
+          "type": 2,
+          "count": 22000
+        },
+        "7": {
+          "type": 3,
+          "count": 8000
+        }
+      }
+    },
+    "38": {
+      "level": 38,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1460
+        },
+        "2": {
+          "type": 5,
+          "count": 341000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 314
+        },
+        "4": {
+          "type": 1,
+          "count": 127000
+        },
+        "5": {
+          "type": 2,
+          "count": 127000
+        },
+        "6": {
+          "type": 3,
+          "count": 81000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 38,
+      "allianceGiftId": 20001,
+      "recAbility": 17381000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 7400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110038,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 8000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2920
+        },
+        "3": {
+          "type": 5,
+          "count": 682000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 628
+        },
+        "5": {
+          "type": 1,
+          "count": 254000
+        },
+        "6": {
+          "type": 2,
+          "count": 254000
+        },
+        "7": {
+          "type": 3,
+          "count": 162000
+        }
+      }
+    },
+    "48": {
+      "level": 48,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1900
+        },
+        "2": {
+          "type": 5,
+          "count": 494000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 380
+        },
+        "4": {
+          "type": 1,
+          "count": 185000
+        },
+        "5": {
+          "type": 2,
+          "count": 185000
+        },
+        "6": {
+          "type": 3,
+          "count": 117000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 48,
+      "allianceGiftId": 20001,
+      "recAbility": 20486000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110048,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3800
+        },
+        "3": {
+          "type": 5,
+          "count": 988000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 760
+        },
+        "5": {
+          "type": 1,
+          "count": 370000
+        },
+        "6": {
+          "type": 2,
+          "count": 370000
+        },
+        "7": {
+          "type": 3,
+          "count": 234000
+        }
+      }
+    },
+    "23": {
+      "level": 23,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1290
+        },
+        "2": {
+          "type": 5,
+          "count": 116000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 214
+        },
+        "4": {
+          "type": 1,
+          "count": 91000
+        },
+        "5": {
+          "type": 2,
+          "count": 91000
+        },
+        "6": {
+          "type": 3,
+          "count": 46000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 23,
+      "allianceGiftId": 20001,
+      "recAbility": 12876000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 4400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110023,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 5000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2580
+        },
+        "3": {
+          "type": 5,
+          "count": 232000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 428
+        },
+        "5": {
+          "type": 1,
+          "count": 182000
+        },
+        "6": {
+          "type": 2,
+          "count": 182000
+        },
+        "7": {
+          "type": 3,
+          "count": 92000
+        }
+      }
+    },
+    "21": {
+      "level": 21,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1270
+        },
+        "2": {
+          "type": 5,
+          "count": 91000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 200
+        },
+        "4": {
+          "type": 1,
+          "count": 84000
+        },
+        "5": {
+          "type": 2,
+          "count": 84000
+        },
+        "6": {
+          "type": 3,
+          "count": 33000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 21,
+      "allianceGiftId": 20001,
+      "recAbility": 12215000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 4000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110021,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 5000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2540
+        },
+        "3": {
+          "type": 5,
+          "count": 182000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 400
+        },
+        "5": {
+          "type": 1,
+          "count": 168000
+        },
+        "6": {
+          "type": 2,
+          "count": 168000
+        },
+        "7": {
+          "type": 3,
+          "count": 66000
+        }
+      }
+    },
+    "46": {
+      "level": 46,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1790
+        },
+        "2": {
+          "type": 5,
+          "count": 459000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 366
+        },
+        "4": {
+          "type": 1,
+          "count": 170000
+        },
+        "5": {
+          "type": 2,
+          "count": 170000
+        },
+        "6": {
+          "type": 3,
+          "count": 108000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 46,
+      "allianceGiftId": 20001,
+      "recAbility": 19926000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110046,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3580
+        },
+        "3": {
+          "type": 5,
+          "count": 918000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 732
+        },
+        "5": {
+          "type": 1,
+          "count": 340000
+        },
+        "6": {
+          "type": 2,
+          "count": 340000
+        },
+        "7": {
+          "type": 3,
+          "count": 216000
+        }
+      }
+    },
+    "45": {
+      "level": 45,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1750
+        },
+        "2": {
+          "type": 5,
+          "count": 439000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 360
+        },
+        "4": {
+          "type": 1,
+          "count": 166000
+        },
+        "5": {
+          "type": 2,
+          "count": 166000
+        },
+        "6": {
+          "type": 3,
+          "count": 106000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 45,
+      "allianceGiftId": 20001,
+      "recAbility": 19647000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8500,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110045,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 9000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3500
+        },
+        "3": {
+          "type": 5,
+          "count": 878000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 720
+        },
+        "5": {
+          "type": 1,
+          "count": 332000
+        },
+        "6": {
+          "type": 2,
+          "count": 332000
+        },
+        "7": {
+          "type": 3,
+          "count": 212000
+        }
+      }
+    },
+    "44": {
+      "level": 44,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1690
+        },
+        "2": {
+          "type": 5,
+          "count": 426000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 354
+        },
+        "4": {
+          "type": 1,
+          "count": 158000
+        },
+        "5": {
+          "type": 2,
+          "count": 158000
+        },
+        "6": {
+          "type": 3,
+          "count": 100000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 44,
+      "allianceGiftId": 20001,
+      "recAbility": 19354000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110044,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 9000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3380
+        },
+        "3": {
+          "type": 5,
+          "count": 852000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 708
+        },
+        "5": {
+          "type": 1,
+          "count": 316000
+        },
+        "6": {
+          "type": 2,
+          "count": 316000
+        },
+        "7": {
+          "type": 3,
+          "count": 200000
+        }
+      }
+    },
+    "51": {
+      "level": 51,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2080
+        },
+        "2": {
+          "type": 5,
+          "count": 543000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 400
+        },
+        "4": {
+          "type": 1,
+          "count": 209000
+        },
+        "5": {
+          "type": 2,
+          "count": 209000
+        },
+        "6": {
+          "type": 3,
+          "count": 133000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 13000
+        },
+        "2": {
+          "type": 2,
+          "count": 13000
+        },
+        "3": {
+          "type": 3,
+          "count": 8000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 51,
+      "allianceGiftId": 20001,
+      "recAbility": 21338000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 9100,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110051,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 11000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 4160
+        },
+        "3": {
+          "type": 5,
+          "count": 1086000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 800
+        },
+        "5": {
+          "type": 1,
+          "count": 418000
+        },
+        "6": {
+          "type": 2,
+          "count": 418000
+        },
+        "7": {
+          "type": 3,
+          "count": 266000
+        }
+      }
+    },
+    "42": {
+      "level": 42,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1580
+        },
+        "2": {
+          "type": 5,
+          "count": 395000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 340
+        },
+        "4": {
+          "type": 1,
+          "count": 144000
+        },
+        "5": {
+          "type": 2,
+          "count": 144000
+        },
+        "6": {
+          "type": 3,
+          "count": 92000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 10000
+        },
+        "2": {
+          "type": 2,
+          "count": 10000
+        },
+        "3": {
+          "type": 3,
+          "count": 5000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 42,
+      "allianceGiftId": 20001,
+      "recAbility": 18794000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110042,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 9000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3160
+        },
+        "3": {
+          "type": 5,
+          "count": 790000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 680
+        },
+        "5": {
+          "type": 1,
+          "count": 288000
+        },
+        "6": {
+          "type": 2,
+          "count": 288000
+        },
+        "7": {
+          "type": 3,
+          "count": 184000
+        }
+      }
+    },
+    "41": {
+      "level": 41,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1550
+        },
+        "2": {
+          "type": 5,
+          "count": 378000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 334
+        },
+        "4": {
+          "type": 1,
+          "count": 141000
+        },
+        "5": {
+          "type": 2,
+          "count": 141000
+        },
+        "6": {
+          "type": 3,
+          "count": 90000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 10000
+        },
+        "2": {
+          "type": 2,
+          "count": 10000
+        },
+        "3": {
+          "type": 3,
+          "count": 5000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 41,
+      "allianceGiftId": 20001,
+      "recAbility": 18514000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110041,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 9000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3100
+        },
+        "3": {
+          "type": 5,
+          "count": 756000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 668
+        },
+        "5": {
+          "type": 1,
+          "count": 282000
+        },
+        "6": {
+          "type": 2,
+          "count": 282000
+        },
+        "7": {
+          "type": 3,
+          "count": 180000
+        }
+      }
+    },
+    "13": {
+      "level": 13,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1170
+        },
+        "2": {
+          "type": 5,
+          "count": 35000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 146
+        },
+        "4": {
+          "type": 1,
+          "count": 64000
+        },
+        "5": {
+          "type": 2,
+          "count": 64000
+        },
+        "6": {
+          "type": 3,
+          "count": 17000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 3000
+        },
+        "2": {
+          "type": 2,
+          "count": 3000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 13,
+      "allianceGiftId": 20001,
+      "recAbility": 9491000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 13,
+      "strength": 20,
+      "virusResistanceRequire": 2400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110013,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2340
+        },
+        "3": {
+          "type": 5,
+          "count": 70000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 292
+        },
+        "5": {
+          "type": 1,
+          "count": 128000
+        },
+        "6": {
+          "type": 2,
+          "count": 128000
+        },
+        "7": {
+          "type": 3,
+          "count": 34000
+        }
+      }
+    },
+    "11": {
+      "level": 11,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1150
+        },
+        "2": {
+          "type": 5,
+          "count": 27000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 134
+        },
+        "4": {
+          "type": 1,
+          "count": 46000
+        },
+        "5": {
+          "type": 2,
+          "count": 46000
+        },
+        "6": {
+          "type": 3,
+          "count": 15000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 11,
+      "allianceGiftId": 20001,
+      "recAbility": 8970000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 11,
+      "strength": 20,
+      "virusResistanceRequire": 2000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110011,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2300
+        },
+        "3": {
+          "type": 5,
+          "count": 54000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 268
+        },
+        "5": {
+          "type": 1,
+          "count": 92000
+        },
+        "6": {
+          "type": 2,
+          "count": 92000
+        },
+        "7": {
+          "type": 3,
+          "count": 30000
+        }
+      }
+    },
+    "15": {
+      "level": 15,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1200
+        },
+        "2": {
+          "type": 5,
+          "count": 44000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 160
+        },
+        "4": {
+          "type": 1,
+          "count": 67000
+        },
+        "5": {
+          "type": 2,
+          "count": 67000
+        },
+        "6": {
+          "type": 3,
+          "count": 27000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 3000
+        },
+        "2": {
+          "type": 2,
+          "count": 3000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 15,
+      "allianceGiftId": 20001,
+      "recAbility": 10012000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 15,
+      "strength": 20,
+      "virusResistanceRequire": 2800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110015,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2400
+        },
+        "3": {
+          "type": 5,
+          "count": 88000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 320
+        },
+        "5": {
+          "type": 1,
+          "count": 134000
+        },
+        "6": {
+          "type": 2,
+          "count": 134000
+        },
+        "7": {
+          "type": 3,
+          "count": 54000
+        }
+      }
+    },
+    "31": {
+      "level": 31,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1390
+        },
+        "2": {
+          "type": 5,
+          "count": 285000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 266
+        },
+        "4": {
+          "type": 1,
+          "count": 111000
+        },
+        "5": {
+          "type": 2,
+          "count": 111000
+        },
+        "6": {
+          "type": 3,
+          "count": 71000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 8000
+        },
+        "2": {
+          "type": 2,
+          "count": 8000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 31,
+      "allianceGiftId": 20001,
+      "recAbility": 15426000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 6000,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110031,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 7000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2780
+        },
+        "3": {
+          "type": 5,
+          "count": 570000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 532
+        },
+        "5": {
+          "type": 1,
+          "count": 222000
+        },
+        "6": {
+          "type": 2,
+          "count": 222000
+        },
+        "7": {
+          "type": 3,
+          "count": 142000
+        }
+      }
+    },
+    "35": {
+      "level": 35,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1440
+        },
+        "2": {
+          "type": 5,
+          "count": 315000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 294
+        },
+        "4": {
+          "type": 1,
+          "count": 121000
+        },
+        "5": {
+          "type": 2,
+          "count": 121000
+        },
+        "6": {
+          "type": 3,
+          "count": 77000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 35,
+      "allianceGiftId": 20001,
+      "recAbility": 16546000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 6800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110035,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 7000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2880
+        },
+        "3": {
+          "type": 5,
+          "count": 630000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 588
+        },
+        "5": {
+          "type": 1,
+          "count": 242000
+        },
+        "6": {
+          "type": 2,
+          "count": 242000
+        },
+        "7": {
+          "type": 3,
+          "count": 154000
+        }
+      }
+    },
+    "25": {
+      "level": 25,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1320
+        },
+        "2": {
+          "type": 5,
+          "count": 148000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 226
+        },
+        "4": {
+          "type": 1,
+          "count": 94000
+        },
+        "5": {
+          "type": 2,
+          "count": 94000
+        },
+        "6": {
+          "type": 3,
+          "count": 49000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 25,
+      "allianceGiftId": 20001,
+      "recAbility": 13538000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 4800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110025,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 5000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2640
+        },
+        "3": {
+          "type": 5,
+          "count": 296000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 452
+        },
+        "5": {
+          "type": 1,
+          "count": 188000
+        },
+        "6": {
+          "type": 2,
+          "count": 188000
+        },
+        "7": {
+          "type": 3,
+          "count": 98000
+        }
+      }
+    },
+    "1": {
+      "level": 1,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 910
+        },
+        "2": {
+          "type": 5,
+          "count": 3000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 66
+        },
+        "4": {
+          "type": 1,
+          "count": 3000
+        },
+        "5": {
+          "type": 2,
+          "count": 3000
+        },
+        "6": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 1000
+        },
+        "2": {
+          "type": 2,
+          "count": 1000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 1,
+      "allianceGiftId": 20001,
+      "recAbility": 6364000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 1,
+      "strength": 20,
+      "virusResistanceRequire": 0,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110001,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 1000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1820
+        },
+        "3": {
+          "type": 5,
+          "count": 6000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 132
+        },
+        "5": {
+          "type": 1,
+          "count": 6000
+        },
+        "6": {
+          "type": 2,
+          "count": 6000
+        },
+        "7": {
+          "type": 3,
+          "count": 2000
+        }
+      }
+    },
+    "2": {
+      "level": 2,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 930
+        },
+        "2": {
+          "type": 5,
+          "count": 4000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 74
+        },
+        "4": {
+          "type": 1,
+          "count": 5000
+        },
+        "5": {
+          "type": 2,
+          "count": 5000
+        },
+        "6": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 1000
+        },
+        "2": {
+          "type": 2,
+          "count": 1000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 2,
+      "allianceGiftId": 20001,
+      "recAbility": 6626000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 2,
+      "strength": 20,
+      "virusResistanceRequire": 200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110002,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 1000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1860
+        },
+        "3": {
+          "type": 5,
+          "count": 8000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 148
+        },
+        "5": {
+          "type": 1,
+          "count": 10000
+        },
+        "6": {
+          "type": 2,
+          "count": 10000
+        },
+        "7": {
+          "type": 3,
+          "count": 4000
+        }
+      }
+    },
+    "27": {
+      "level": 27,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1340
+        },
+        "2": {
+          "type": 5,
+          "count": 189000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 240
+        },
+        "4": {
+          "type": 1,
+          "count": 101000
+        },
+        "5": {
+          "type": 2,
+          "count": 101000
+        },
+        "6": {
+          "type": 3,
+          "count": 51000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 27,
+      "allianceGiftId": 20001,
+      "recAbility": 14199000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 5200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110027,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 6000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2680
+        },
+        "3": {
+          "type": 5,
+          "count": 378000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 480
+        },
+        "5": {
+          "type": 1,
+          "count": 202000
+        },
+        "6": {
+          "type": 2,
+          "count": 202000
+        },
+        "7": {
+          "type": 3,
+          "count": 102000
+        }
+      }
+    },
+    "17": {
+      "level": 17,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1220
+        },
+        "2": {
+          "type": 5,
+          "count": 56000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 174
+        },
+        "4": {
+          "type": 1,
+          "count": 74000
+        },
+        "5": {
+          "type": 2,
+          "count": 74000
+        },
+        "6": {
+          "type": 3,
+          "count": 29000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 4000
+        },
+        "2": {
+          "type": 2,
+          "count": 4000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 17,
+      "allianceGiftId": 20001,
+      "recAbility": 11154000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 17,
+      "strength": 20,
+      "virusResistanceRequire": 3200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110017,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 4000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2440
+        },
+        "3": {
+          "type": 5,
+          "count": 112000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 348
+        },
+        "5": {
+          "type": 1,
+          "count": 148000
+        },
+        "6": {
+          "type": 2,
+          "count": 148000
+        },
+        "7": {
+          "type": 3,
+          "count": 58000
+        }
+      }
+    },
+    "29": {
+      "level": 29,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1360
+        },
+        "2": {
+          "type": 5,
+          "count": 241000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 254
+        },
+        "4": {
+          "type": 1,
+          "count": 107000
+        },
+        "5": {
+          "type": 2,
+          "count": 107000
+        },
+        "6": {
+          "type": 3,
+          "count": 54000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 29,
+      "allianceGiftId": 20001,
+      "recAbility": 14861000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 5600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110029,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 6000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2720
+        },
+        "3": {
+          "type": 5,
+          "count": 482000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 508
+        },
+        "5": {
+          "type": 1,
+          "count": 214000
+        },
+        "6": {
+          "type": 2,
+          "count": 214000
+        },
+        "7": {
+          "type": 3,
+          "count": 108000
+        }
+      }
+    },
+    "19": {
+      "level": 19,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1240
+        },
+        "2": {
+          "type": 5,
+          "count": 72000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 186
+        },
+        "4": {
+          "type": 1,
+          "count": 81000
+        },
+        "5": {
+          "type": 2,
+          "count": 81000
+        },
+        "6": {
+          "type": 3,
+          "count": 31000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 19,
+      "allianceGiftId": 20001,
+      "recAbility": 11685000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 19,
+      "strength": 20,
+      "virusResistanceRequire": 3600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110019,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 4000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2480
+        },
+        "3": {
+          "type": 5,
+          "count": 144000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 372
+        },
+        "5": {
+          "type": 1,
+          "count": 162000
+        },
+        "6": {
+          "type": 2,
+          "count": 162000
+        },
+        "7": {
+          "type": 3,
+          "count": 62000
+        }
+      }
+    },
+    "7": {
+      "level": 7,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1050
+        },
+        "2": {
+          "type": 5,
+          "count": 12000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 106
+        },
+        "4": {
+          "type": 1,
+          "count": 15000
+        },
+        "5": {
+          "type": 2,
+          "count": 15000
+        },
+        "6": {
+          "type": 3,
+          "count": 5000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 7,
+      "allianceGiftId": 20001,
+      "recAbility": 7928000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 7,
+      "strength": 20,
+      "virusResistanceRequire": 1200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110007,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 2000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2100
+        },
+        "3": {
+          "type": 5,
+          "count": 24000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 212
+        },
+        "5": {
+          "type": 1,
+          "count": 30000
+        },
+        "6": {
+          "type": 2,
+          "count": 30000
+        },
+        "7": {
+          "type": 3,
+          "count": 10000
+        }
+      }
+    },
+    "8": {
+      "level": 8,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1080
+        },
+        "2": {
+          "type": 5,
+          "count": 15000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 114
+        },
+        "4": {
+          "type": 1,
+          "count": 27000
+        },
+        "5": {
+          "type": 2,
+          "count": 27000
+        },
+        "6": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 8,
+      "allianceGiftId": 20001,
+      "recAbility": 8189000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 8,
+      "strength": 20,
+      "virusResistanceRequire": 1400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110008,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 2000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2160
+        },
+        "3": {
+          "type": 5,
+          "count": 30000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 228
+        },
+        "5": {
+          "type": 1,
+          "count": 54000
+        },
+        "6": {
+          "type": 2,
+          "count": 54000
+        },
+        "7": {
+          "type": 3,
+          "count": 12000
+        }
+      }
+    },
+    "9": {
+      "level": 9,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1100
+        },
+        "2": {
+          "type": 5,
+          "count": 20000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 120
+        },
+        "4": {
+          "type": 1,
+          "count": 38000
+        },
+        "5": {
+          "type": 2,
+          "count": 38000
+        },
+        "6": {
+          "type": 3,
+          "count": 7000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 2000
+        },
+        "2": {
+          "type": 2,
+          "count": 2000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 9,
+      "allianceGiftId": 20001,
+      "recAbility": 8449000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 9,
+      "strength": 20,
+      "virusResistanceRequire": 1600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110009,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 2000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2200
+        },
+        "3": {
+          "type": 5,
+          "count": 40000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 240
+        },
+        "5": {
+          "type": 1,
+          "count": 76000
+        },
+        "6": {
+          "type": 2,
+          "count": 76000
+        },
+        "7": {
+          "type": 3,
+          "count": 14000
+        }
+      }
+    },
+    "20": {
+      "level": 20,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1240
+        },
+        "2": {
+          "type": 5,
+          "count": 83000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 194
+        },
+        "4": {
+          "type": 1,
+          "count": 81000
+        },
+        "5": {
+          "type": 2,
+          "count": 81000
+        },
+        "6": {
+          "type": 3,
+          "count": 31000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 5000
+        },
+        "2": {
+          "type": 2,
+          "count": 5000
+        },
+        "3": {
+          "type": 3,
+          "count": 2000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 20,
+      "allianceGiftId": 20001,
+      "recAbility": 11951000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 3800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110020,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 4000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2480
+        },
+        "3": {
+          "type": 5,
+          "count": 166000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 388
+        },
+        "5": {
+          "type": 1,
+          "count": 162000
+        },
+        "6": {
+          "type": 2,
+          "count": 162000
+        },
+        "7": {
+          "type": 3,
+          "count": 62000
+        }
+      }
+    },
+    "33": {
+      "level": 33,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1410
+        },
+        "2": {
+          "type": 5,
+          "count": 300000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 280
+        },
+        "4": {
+          "type": 1,
+          "count": 117000
+        },
+        "5": {
+          "type": 2,
+          "count": 117000
+        },
+        "6": {
+          "type": 3,
+          "count": 74000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 8000
+        },
+        "2": {
+          "type": 2,
+          "count": 8000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 33,
+      "allianceGiftId": 20001,
+      "recAbility": 15982000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 6400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110033,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 7000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2820
+        },
+        "3": {
+          "type": 5,
+          "count": 600000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 560
+        },
+        "5": {
+          "type": 1,
+          "count": 234000
+        },
+        "6": {
+          "type": 2,
+          "count": 234000
+        },
+        "7": {
+          "type": 3,
+          "count": 148000
+        }
+      }
+    },
+    "32": {
+      "level": 32,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1390
+        },
+        "2": {
+          "type": 5,
+          "count": 294000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 274
+        },
+        "4": {
+          "type": 1,
+          "count": 111000
+        },
+        "5": {
+          "type": 2,
+          "count": 111000
+        },
+        "6": {
+          "type": 3,
+          "count": 71000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 8000
+        },
+        "2": {
+          "type": 2,
+          "count": 8000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 32,
+      "allianceGiftId": 20001,
+      "recAbility": 15704000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 6200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110032,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 7000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2780
+        },
+        "3": {
+          "type": 5,
+          "count": 588000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 548
+        },
+        "5": {
+          "type": 1,
+          "count": 222000
+        },
+        "6": {
+          "type": 2,
+          "count": 222000
+        },
+        "7": {
+          "type": 3,
+          "count": 142000
+        }
+      }
+    },
+    "30": {
+      "level": 30,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1360
+        },
+        "2": {
+          "type": 5,
+          "count": 279000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 260
+        },
+        "4": {
+          "type": 1,
+          "count": 107000
+        },
+        "5": {
+          "type": 2,
+          "count": 107000
+        },
+        "6": {
+          "type": 3,
+          "count": 54000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 7000
+        },
+        "2": {
+          "type": 2,
+          "count": 7000
+        },
+        "3": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 30,
+      "allianceGiftId": 20001,
+      "recAbility": 15147000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 5800,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110030,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 6000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2720
+        },
+        "3": {
+          "type": 5,
+          "count": 558000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 520
+        },
+        "5": {
+          "type": 1,
+          "count": 214000
+        },
+        "6": {
+          "type": 2,
+          "count": 214000
+        },
+        "7": {
+          "type": 3,
+          "count": 108000
+        }
+      }
+    },
+    "3": {
+      "level": 3,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 960
+        },
+        "2": {
+          "type": 5,
+          "count": 5000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 80
+        },
+        "4": {
+          "type": 1,
+          "count": 7000
+        },
+        "5": {
+          "type": 2,
+          "count": 7000
+        },
+        "6": {
+          "type": 3,
+          "count": 3000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 1000
+        },
+        "2": {
+          "type": 2,
+          "count": 1000
+        },
+        "3": {
+          "type": 3,
+          "count": 1000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 3,
+      "allianceGiftId": 20001,
+      "recAbility": 6885000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 3,
+      "strength": 20,
+      "virusResistanceRequire": 400,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110003,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 1000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1920
+        },
+        "3": {
+          "type": 5,
+          "count": 10000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 160
+        },
+        "5": {
+          "type": 1,
+          "count": 14000
+        },
+        "6": {
+          "type": 2,
+          "count": 14000
+        },
+        "7": {
+          "type": 3,
+          "count": 6000
+        }
+      }
+    },
+    "49": {
+      "level": 49,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1960
+        },
+        "2": {
+          "type": 5,
+          "count": 509000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 386
+        },
+        "4": {
+          "type": 1,
+          "count": 193000
+        },
+        "5": {
+          "type": 2,
+          "count": 193000
+        },
+        "6": {
+          "type": 3,
+          "count": 123000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 13000
+        },
+        "2": {
+          "type": 2,
+          "count": 13000
+        },
+        "3": {
+          "type": 3,
+          "count": 8000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 49,
+      "allianceGiftId": 20001,
+      "recAbility": 20766000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8900,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110049,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3920
+        },
+        "3": {
+          "type": 5,
+          "count": 1018000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 772
+        },
+        "5": {
+          "type": 1,
+          "count": 386000
+        },
+        "6": {
+          "type": 2,
+          "count": 386000
+        },
+        "7": {
+          "type": 3,
+          "count": 246000
+        }
+      }
+    },
+    "39": {
+      "level": 39,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1480
+        },
+        "2": {
+          "type": 5,
+          "count": 351000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 320
+        },
+        "4": {
+          "type": 1,
+          "count": 131000
+        },
+        "5": {
+          "type": 2,
+          "count": 131000
+        },
+        "6": {
+          "type": 3,
+          "count": 84000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 39,
+      "allianceGiftId": 20001,
+      "recAbility": 17660000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 7600,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110039,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 8000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2960
+        },
+        "3": {
+          "type": 5,
+          "count": 702000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 640
+        },
+        "5": {
+          "type": 1,
+          "count": 262000
+        },
+        "6": {
+          "type": 2,
+          "count": 262000
+        },
+        "7": {
+          "type": 3,
+          "count": 168000
+        }
+      }
+    },
+    "47": {
+      "level": 47,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1860
+        },
+        "2": {
+          "type": 5,
+          "count": 473000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 374
+        },
+        "4": {
+          "type": 1,
+          "count": 181000
+        },
+        "5": {
+          "type": 2,
+          "count": 181000
+        },
+        "6": {
+          "type": 3,
+          "count": 114000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 11000
+        },
+        "2": {
+          "type": 2,
+          "count": 11000
+        },
+        "3": {
+          "type": 3,
+          "count": 6000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 47,
+      "allianceGiftId": 20001,
+      "recAbility": 20206000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 8700,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110047,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 3720
+        },
+        "3": {
+          "type": 5,
+          "count": 946000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 748
+        },
+        "5": {
+          "type": 1,
+          "count": 362000
+        },
+        "6": {
+          "type": 2,
+          "count": 362000
+        },
+        "7": {
+          "type": 3,
+          "count": 228000
+        }
+      }
+    },
+    "37": {
+      "level": 37,
+      "reward": {
+        "1": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 1460
+        },
+        "2": {
+          "type": 5,
+          "count": 331000
+        },
+        "3": {
+          "type": 1100006,
+          "count": 306
+        },
+        "4": {
+          "type": 1,
+          "count": 127000
+        },
+        "5": {
+          "type": 2,
+          "count": 127000
+        },
+        "6": {
+          "type": 3,
+          "count": 81000
+        }
+      },
+      "joinReward": {
+        "1": {
+          "type": 1,
+          "count": 9000
+        },
+        "2": {
+          "type": 2,
+          "count": 9000
+        },
+        "3": {
+          "type": 3,
+          "count": 4000
+        }
+      },
+      "preview": {
+        "1": {
+          "id": "item_Box_gem_20",
+          "type": 99,
+          "count": 1
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 1
+        },
+        "3": {
+          "id": "item_equipment_equipmentBox_premium",
+          "type": 99,
+          "count": 1
+        },
+        "4": {
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99,
+          "count": 2
+        },
+        "5": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "pic": "boss_04",
+      "id": 37,
+      "allianceGiftId": 20001,
+      "recAbility": 17103000,
+      "huntRate": 0,
+      "seasonId": 1,
+      "needCastleLevel": 20,
+      "strength": 20,
+      "virusResistanceRequire": 7200,
+      "type": 1001,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "name2": "",
+      "npcGroupId": 3110037,
+      "name": "",
+      "dailyFirstReward": {},
+      "modelId": 62004,
+      "clickSound": 1193,
+      "first": {
+        "1": {
+          "type": 1100007,
+          "count": 8000
+        },
+        "2": {
+          "id": "item_drone_data",
+          "type": 99,
+          "count": 2920
+        },
+        "3": {
+          "type": 5,
+          "count": 662000
+        },
+        "4": {
+          "type": 1100006,
+          "count": 612
+        },
+        "5": {
+          "type": 1,
+          "count": 254000
+        },
+        "6": {
+          "type": 2,
+          "count": 254000
+        },
+        "7": {
+          "type": 3,
+          "count": 162000
+        }
+      }
+    }
+  }
+}

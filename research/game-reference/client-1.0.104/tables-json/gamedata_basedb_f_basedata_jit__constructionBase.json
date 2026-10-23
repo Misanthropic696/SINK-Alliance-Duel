@@ -1,0 +1,63 @@
+{
+  "key": "id",
+  "len": 3,
+  "first": 8200205,
+  "excelName": "Activity_Construction_共建活动",
+  "isNeedTransform": true,
+  "data": {
+    "8200405": {
+      "rankUnionGroupID": 820040105,
+      "goToTargetId": 820040104,
+      "levelRewardGroupID": 8200405,
+      "point": 1,
+      "constructionBG": "",
+      "id": 8200405,
+      "pointItemcount": 10,
+      "pointItem": "mid_autumn_submit",
+      "constructionItemReward": {
+        "1": {
+          "type": 99,
+          "id": "item_secret_rescue_random_box",
+          "count": 1
+        }
+      },
+      "desText": ""
+    },
+    "8200305": {
+      "rankUnionGroupID": 820030105,
+      "goToTargetId": 820030104,
+      "levelRewardGroupID": 8200305,
+      "point": 1,
+      "constructionBG": "",
+      "id": 8200305,
+      "pointItemcount": 10,
+      "pointItem": "pirate_marine_fish",
+      "constructionItemReward": {
+        "1": {
+          "type": 99,
+          "id": "item_secret_rescue_random_box",
+          "count": 1
+        }
+      },
+      "desText": ""
+    },
+    "8200205": {
+      "rankUnionGroupID": 820020105,
+      "goToTargetId": 820020104,
+      "levelRewardGroupID": 8200205,
+      "point": 1,
+      "constructionBG": "",
+      "id": 8200205,
+      "pointItemcount": 10,
+      "pointItem": "childrensday_cupcake",
+      "constructionItemReward": {
+        "1": {
+          "type": 99,
+          "id": "item_secret_rescue_random_box",
+          "count": 1
+        }
+      },
+      "desText": ""
+    }
+  }
+}

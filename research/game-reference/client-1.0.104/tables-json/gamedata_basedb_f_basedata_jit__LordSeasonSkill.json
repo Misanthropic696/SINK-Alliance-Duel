@@ -1,0 +1,175 @@
+{
+  "key": "id",
+  "len": 6,
+  "data": {
+    "1003": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {},
+      "code": 0,
+      "type": 2,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_03",
+      "heroBanner": {},
+      "jobLevel": 15,
+      "addReward": {
+        "1": {
+          "id": "item_ue_universalFragment",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 1003,
+      "desc": "",
+      "cardName": ""
+    },
+    "1007": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {},
+      "code": 0,
+      "type": 2,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_07",
+      "heroBanner": {},
+      "jobLevel": 35,
+      "addReward": {
+        "1": {
+          "id": "item_ue_universalFragment",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "id": 1007,
+      "desc": "",
+      "cardName": ""
+    },
+    "1002": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {
+        "1": {
+          "param1": "1"
+        }
+      },
+      "code": 5,
+      "type": 0,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_02",
+      "heroBanner": {},
+      "jobLevel": 10,
+      "addReward": {},
+      "id": 1002,
+      "desc": "",
+      "cardName": ""
+    },
+    "1008": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {},
+      "code": 0,
+      "type": 2,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_08",
+      "heroBanner": {},
+      "jobLevel": 40,
+      "addReward": {
+        "1": {
+          "id": "item_ue_universalFragment",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "id": 1008,
+      "desc": "",
+      "cardName": ""
+    },
+    "1005": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {},
+      "code": 0,
+      "type": 2,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_05",
+      "heroBanner": {},
+      "jobLevel": 25,
+      "addReward": {
+        "1": {
+          "id": "item_ue_universalFragment",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "id": 1005,
+      "desc": "",
+      "cardName": ""
+    },
+    "1004": {
+      "seasonAge": 1,
+      "unlockRewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "name": "",
+      "params": {},
+      "code": 0,
+      "type": 2,
+      "newReward": {},
+      "oldReward": {},
+      "icon": "icon_lz_saijijineng_04",
+      "heroBanner": {},
+      "jobLevel": 20,
+      "addReward": {
+        "1": {
+          "id": "item_ue_universalFragment",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "id": 1004,
+      "desc": "",
+      "cardName": ""
+    }
+  },
+  "excelName": "L-领主专长",
+  "first": 1002,
+  "isNeedTransform": true
+}

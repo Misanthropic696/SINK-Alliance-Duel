@@ -1,0 +1,65 @@
+{
+  "isNeedTransform": true,
+  "data": {
+    "1": {
+      "skillResetCost": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_jinengchongzhi",
+          "count": -1
+        }
+      },
+      "id": 1,
+      "castleLevel": 14,
+      "name": "",
+      "selectRewards": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_zhiyechongzhi",
+          "count": 1
+        }
+      },
+      "jobResetCost": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_zhiyechongzhi",
+          "count": -1
+        }
+      },
+      "seasonAge": 1,
+      "desc": ""
+    },
+    "2": {
+      "skillResetCost": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_jinengchongzhi",
+          "count": -1
+        }
+      },
+      "id": 2,
+      "castleLevel": 14,
+      "name": "",
+      "selectRewards": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_zhiyechongzhi",
+          "count": 1
+        }
+      },
+      "jobResetCost": {
+        "1": {
+          "type": 99,
+          "id": "item_LordJob_zhiyechongzhi",
+          "count": -1
+        }
+      },
+      "seasonAge": 1,
+      "desc": ""
+    }
+  },
+  "key": "id",
+  "excelName": "L-领主专长",
+  "len": 2,
+  "first": 1
+}

@@ -1,0 +1,111 @@
+{
+  "len": 6,
+  "first": 1,
+  "excelName": "Activity_AirDrop_空投召唤",
+  "key": "id",
+  "isNeedTransform": false,
+  "data": {
+    "6": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 14
+        }
+      },
+      "id": 6,
+      "random": {
+        "1": {
+          "id": 6,
+          "weight": 23.32
+        }
+      }
+    },
+    "1": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 1
+        }
+      },
+      "id": 1,
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 4.6
+        }
+      }
+    },
+    "3": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 12
+        }
+      },
+      "id": 3,
+      "random": {
+        "1": {
+          "id": 3,
+          "weight": 10.03
+        }
+      }
+    },
+    "2": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 3
+        }
+      },
+      "id": 2,
+      "random": {
+        "1": {
+          "id": 2,
+          "weight": 6.11
+        }
+      }
+    },
+    "5": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 1
+        }
+      },
+      "id": 5,
+      "random": {
+        "1": {
+          "id": 5,
+          "weight": 33.05
+        }
+      }
+    },
+    "4": {
+      "pool": 101,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 62
+        }
+      },
+      "id": 4,
+      "random": {
+        "1": {
+          "id": 4,
+          "weight": 22.89
+        }
+      }
+    }
+  }
+}

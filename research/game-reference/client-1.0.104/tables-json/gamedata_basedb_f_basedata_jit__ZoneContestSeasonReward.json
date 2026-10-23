@@ -1,0 +1,2334 @@
+{
+  "isNeedTransform": false,
+  "len": 35,
+  "excelName": "Activity_ZoneContest_战区对决",
+  "key": "id",
+  "first": 1,
+  "data": {
+    "20": {
+      "id": 20,
+      "rank": 20,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_3d",
+          "type": 99
+        },
+        "2": {
+          "count": 1300,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "4": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 50,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 46,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 92,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "9": {
+          "count": 46,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 65000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 10000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "30": {
+      "id": 30,
+      "rank": 100,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 900,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 40,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 36,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 36,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 36,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 36,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 45000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 7000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "22": {
+      "id": 22,
+      "rank": 50,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1200,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 45,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 42,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 42,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 42,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 42,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 60000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 8000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "32": {
+      "id": 32,
+      "rank": 999,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 25,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 25,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 25,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 30000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 5000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "12": {
+      "id": 12,
+      "rank": 10,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_7d",
+          "type": 99
+        },
+        "2": {
+          "count": 1600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 30,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 60,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 52,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 104,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 52,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 80000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 12500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "10": {
+      "id": 10,
+      "rank": 3,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_15d",
+          "type": 99
+        },
+        "2": {
+          "count": 1700,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 35,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 80,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 60,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 120,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 60,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 90000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 15000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "34": {
+      "id": 34,
+      "rank": 999,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "4": {
+          "count": 30,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "7": {
+          "count": 25,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "8": {
+          "count": 25,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "9": {
+          "count": 30000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "10": {
+          "count": 5000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "18": {
+      "id": 18,
+      "rank": 20,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_3d",
+          "type": 99
+        },
+        "2": {
+          "count": 1400,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 15,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 50,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 46,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 92,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 46,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 70000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 10000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "28": {
+      "id": 28,
+      "rank": 100,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 36,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 36,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 36,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 36,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 50000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 7000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "16": {
+      "id": 16,
+      "rank": 20,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_3d",
+          "type": 99
+        },
+        "2": {
+          "count": 1400,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 20,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 50,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 46,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 92,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 46,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 70000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 10000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "26": {
+      "id": 26,
+      "rank": 100,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 10,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 36,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 36,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 36,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 36,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 50000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 7000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "14": {
+      "id": 14,
+      "rank": 10,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_7d",
+          "type": 99
+        },
+        "2": {
+          "count": 1600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 60,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 52,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 104,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 52,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 80000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 12500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "24": {
+      "id": 24,
+      "rank": 50,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1200,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 45,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 42,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 42,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 42,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 42,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 60000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 8000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "9": {
+      "id": 9,
+      "rank": 3,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_15d",
+          "type": 99
+        },
+        "2": {
+          "count": 1800,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 35,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 80,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 60,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 120,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 60,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 90000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 15000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "31": {
+      "id": 31,
+      "rank": 999,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 10,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 30,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 25,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 25,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 25,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 25,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 30000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 5000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "21": {
+      "id": 21,
+      "rank": 50,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1200,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 45,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 42,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 42,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 42,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 42,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 60000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 8000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "5": {
+      "id": 5,
+      "rank": 1,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_30d",
+          "type": 99
+        },
+        "2": {
+          "count": 2000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 45,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 100,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 65,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 130,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 65,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 100000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 21500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "6": {
+      "id": 6,
+      "rank": 3,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_15d",
+          "type": 99
+        },
+        "2": {
+          "count": 1800,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 80,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 60,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 120,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 60,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 90000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 15000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "3": {
+      "id": 3,
+      "rank": 1,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_30d",
+          "type": 99
+        },
+        "2": {
+          "count": 2000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 50,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 100,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 65,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 130,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 65,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 100000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 21500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "4": {
+      "id": 4,
+      "rank": 1,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_30d",
+          "type": 99
+        },
+        "2": {
+          "count": 2000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 45,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 100,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 65,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 130,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 65,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 100000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 21500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "11": {
+      "id": 11,
+      "rank": 10,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_7d",
+          "type": 99
+        },
+        "2": {
+          "count": 1600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 30,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 60,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 52,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 104,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 52,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 80000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 12500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "17": {
+      "id": 17,
+      "rank": 20,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_3d",
+          "type": 99
+        },
+        "2": {
+          "count": 1400,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 20,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 50,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 46,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 92,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 46,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 70000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 10000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "29": {
+      "id": 29,
+      "rank": 100,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 40,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 36,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 36,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 36,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 36,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 50000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 7000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "19": {
+      "id": 19,
+      "rank": 20,
+      "count": 30,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_3d",
+          "type": 99
+        },
+        "2": {
+          "count": 1400,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 15,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 15,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 50,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 46,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 92,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 46,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 70000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 10000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "27": {
+      "id": 27,
+      "rank": 100,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 10,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 36,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 36,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 36,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 36,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 50000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 7000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "25": {
+      "id": 25,
+      "rank": 50,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1100,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 45,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 42,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 42,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 42,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 42,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 55000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 8000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "15": {
+      "id": 15,
+      "rank": 10,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_7d",
+          "type": 99
+        },
+        "2": {
+          "count": 1500,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 60,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 52,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 104,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 52,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 75000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 12500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "23": {
+      "id": 23,
+      "rank": 50,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1200,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "3": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 10,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "6": {
+          "count": 45,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "7": {
+          "count": 42,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "8": {
+          "count": 42,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "9": {
+          "count": 42,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "10": {
+          "count": 42,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "11": {
+          "count": 60000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 8000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "13": {
+      "id": 13,
+      "rank": 10,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_7d",
+          "type": 99
+        },
+        "2": {
+          "count": 1600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 60,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 52,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 104,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 52,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 80000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 12500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "1": {
+      "id": 1,
+      "rank": 1,
+      "count": 1,
+      "leader": 1,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_30d",
+          "type": 99
+        },
+        "2": {
+          "count": 3000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 25,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 50,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 100,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 65,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 130,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 65,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 100000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 21500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "id": 2,
+      "rank": 1,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_30d",
+          "type": 99
+        },
+        "2": {
+          "count": 2000,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 50,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 100,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 65,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 130,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 65,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 100000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 21500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "8": {
+      "id": 8,
+      "rank": 3,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_15d",
+          "type": 99
+        },
+        "2": {
+          "count": 1800,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 80,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 60,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 120,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 60,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 90000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 15000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "7": {
+      "id": 7,
+      "rank": 3,
+      "count": 4,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_fuxingshidai_15d",
+          "type": 99
+        },
+        "2": {
+          "count": 1800,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_decor_25",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "6": {
+          "count": 40,
+          "id": "season_finish_hero_awake_box",
+          "type": 99
+        },
+        "7": {
+          "count": 80,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "8": {
+          "count": 60,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "9": {
+          "count": 120,
+          "id": "item_optionalBox_Resource3",
+          "type": 99
+        },
+        "10": {
+          "count": 60,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "11": {
+          "count": 90000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "12": {
+          "count": 15000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "35": {
+      "id": 35,
+      "rank": 999,
+      "count": 50,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 500,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "4": {
+          "count": 30,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "5": {
+          "count": 25,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "7": {
+          "count": 25,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "8": {
+          "count": 25,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "9": {
+          "count": 25000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "10": {
+          "count": 5000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    },
+    "33": {
+      "id": 33,
+      "rank": 999,
+      "count": 15,
+      "leader": 0,
+      "rewards": {
+        "1": {
+          "count": 600,
+          "id": "season_item_badge",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_decorations_box_03",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "6": {
+          "count": 25,
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99
+        },
+        "7": {
+          "count": 25,
+          "id": "item_castleBox_Food_3",
+          "type": 99
+        },
+        "8": {
+          "count": 25,
+          "id": "item_castleBox_Metal_3",
+          "type": 99
+        },
+        "9": {
+          "count": 25,
+          "id": "item_castleBox_Energy_3",
+          "type": 99
+        },
+        "10": {
+          "count": 30000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "11": {
+          "count": 5000,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        }
+      }
+    }
+  }
+}

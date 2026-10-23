@@ -1,0 +1,57 @@
+{
+  "data": {
+    "10010": {
+      "id": 10010,
+      "desc": "Those Monsters always appear at night. We must rebuild the territory to have a chance to survive.",
+      "name": "Doomsday Survival"
+    },
+    "10100": {
+      "id": 10100,
+      "desc": "We must reclaim the cities occupied by the Blight and restore civilization and order.",
+      "name": "Civilization Reignited"
+    },
+    "10090": {
+      "id": 10090,
+      "desc": "Gear can greatly enhance heroes' combat abilities. Please build a Forge!",
+      "name": "Forge"
+    },
+    "10030": {
+      "id": 10030,
+      "desc": "The surrounding toxic mist has provided perfect shelter for the zombie horde. For everyone's safety, we must find a Toxic Mist Purifier in the nearby town.",
+      "name": "Toxic Mist Purifier"
+    },
+    "10040": {
+      "id": 10040,
+      "desc": "Alliance Hall",
+      "name": "Alliance Hall"
+    },
+    "10080": {
+      "id": 10080,
+      "desc": "Rally Against Monster Guide",
+      "name": "Counterattack"
+    },
+    "10070": {
+      "id": 10070,
+      "desc": "Arena Guide",
+      "name": "Arena"
+    },
+    "10020": {
+      "id": 10020,
+      "desc": "The zombie horde will arrive at night, we must be fully prepared.",
+      "name": "Rat Frenzy"
+    },
+    "10050": {
+      "id": 10050,
+      "desc": "We received a rescue request. Quickly build a Falcon Tower to locate survivors.",
+      "name": "Emergency Rescue"
+    },
+    "10060": {
+      "id": 10060,
+      "desc": "Academy",
+      "name": "Academy"
+    }
+  },
+  "len": 10,
+  "key": "id",
+  "source_format": "locale rows"
+}

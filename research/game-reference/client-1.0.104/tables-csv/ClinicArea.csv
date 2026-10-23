@@ -1,0 +1,9 @@
+﻿record_key,name,unlockSpend,additionRewards,changeQueue,unlockReward,icon,id,unlockCondition
+8,Area 8,"{""1"": {""count"": 5000, ""type"": 1043}, ""2"": {""count"": 3000, ""type"": 2}}",{},{},2,icon_zs_xinquyu,8,"{""1"": {""level"": 9, ""roomupgrade"": 2012002}}"
+7,Area 7,"{""1"": {""count"": 3000, ""type"": 1043}, ""2"": {""count"": 3000, ""type"": 2}}",{},{},2,icon_zs_xinquyu,7,"{""1"": {""level"": 8, ""roomupgrade"": 2011602}}"
+2,Area 2,"{""1"": {""count"": 100, ""type"": 2}}",{},{},2,icon_zs_xinquyu,2,"{""1"": {""level"": 2, ""roomupgrade"": 2010302}}"
+1,Area 1,{},{},{},0,icon_zs_xinquyu,1,{}
+4,Area 4,"{""1"": {""count"": 800, ""type"": 1043}, ""2"": {""count"": 800, ""type"": 2}}",{},{},2,icon_zs_xinquyu,4,"{""1"": {""level"": 5, ""roomupgrade"": 16040101}}"
+3,Area 3,"{""1"": {""count"": 500, ""type"": 1043}, ""2"": {""count"": 500, ""type"": 2}}","{""1"": {""type"": 1100003, ""count"": 1, ""id"": ""16040101""}}",{},2,icon_zs_xinquyu,3,"{""1"": {""level"": 4, ""roomupgrade"": 2010602}}"
+6,Area 6,"{""1"": {""count"": 1500, ""type"": 1043}, ""2"": {""count"": 1500, ""type"": 2}}",{},"{""1"": {}, ""2"": {}, ""3"": {""roomType"": 64, ""prefab"": ""Role/NPC_F/hugong_02/hugong_02.prefab"", ""npcType"": 13}}",2,icon_zs_xinquyu,6,"{""1"": {""level"": 7, ""roomupgrade"": 2011302}}"
+5,Area 5,"{""1"": {""count"": 1000, ""type"": 1043}, ""2"": {""count"": 1000, ""type"": 2}}",{},{},2,icon_zs_xinquyu,5,"{""1"": {""level"": 6, ""roomupgrade"": 2011002}}"

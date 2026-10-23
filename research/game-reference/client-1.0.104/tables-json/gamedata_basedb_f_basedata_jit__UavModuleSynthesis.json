@@ -1,0 +1,555 @@
+{
+  "len": 32,
+  "enum": {
+    "TYPE": {
+      "INTERRUPT": 2,
+      "START": 0,
+      "DEFENCE": 3,
+      "ATTACK": 1,
+      "BLUE": 3,
+      "GREEN": 4,
+      "GOLD": 1,
+      "PURPLE": 2
+    },
+    "CAMPTYPE": {
+      "WARRIOR": 1,
+      "STRATEGY": 2,
+      "COMMON": 4,
+      "RAID": 3
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Uav_无人机",
+  "first": 1001,
+  "key": "id",
+  "data": {
+    "1003": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_3",
+      "id": 1003,
+      "quality": 1,
+      "campType": 1,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1020": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_20",
+      "id": 1020,
+      "quality": 2,
+      "campType": 2,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1008": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_8",
+      "id": 1008,
+      "quality": 1,
+      "campType": 2,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1022": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_22",
+      "id": 1022,
+      "quality": 2,
+      "campType": 3,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1017": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_17",
+      "id": 1017,
+      "quality": 2,
+      "campType": 2,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1004": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_4",
+      "id": 1004,
+      "quality": 1,
+      "campType": 1,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1031": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv1.prefab",
+      "Synthesis": 0,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_31",
+      "id": 1031,
+      "quality": 4,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1011": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_11",
+      "id": 1011,
+      "quality": 1,
+      "campType": 3,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1030": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv1.prefab",
+      "Synthesis": 0,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_30",
+      "id": 1030,
+      "quality": 4,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1016": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_16",
+      "id": 1016,
+      "quality": 2,
+      "campType": 1,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1029": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv1.prefab",
+      "Synthesis": 0,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_29",
+      "id": 1029,
+      "quality": 4,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1027": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv2.prefab",
+      "Synthesis": 0,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_27",
+      "id": 1027,
+      "quality": 3,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1001": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_1",
+      "id": 1001,
+      "quality": 1,
+      "campType": 1,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1028": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv2.prefab",
+      "Synthesis": 0,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_28",
+      "id": 1028,
+      "quality": 3,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1005": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_5",
+      "id": 1005,
+      "quality": 1,
+      "campType": 2,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1026": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv2.prefab",
+      "Synthesis": 0,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_26",
+      "id": 1026,
+      "quality": 3,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1023": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_23",
+      "id": 1023,
+      "quality": 2,
+      "campType": 3,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1024": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_24",
+      "id": 1024,
+      "quality": 2,
+      "campType": 3,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1025": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv2.prefab",
+      "Synthesis": 0,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_25",
+      "id": 1025,
+      "quality": 3,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1007": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_7",
+      "id": 1007,
+      "quality": 1,
+      "campType": 2,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1014": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_14",
+      "id": 1014,
+      "quality": 2,
+      "campType": 1,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1009": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_9",
+      "id": 1009,
+      "quality": 1,
+      "campType": 3,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1019": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_19",
+      "id": 1019,
+      "quality": 2,
+      "campType": 2,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1018": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_18",
+      "id": 1018,
+      "quality": 2,
+      "campType": 2,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1010": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_10",
+      "id": 1010,
+      "quality": 1,
+      "campType": 3,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1013": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_13",
+      "id": 1013,
+      "quality": 2,
+      "campType": 1,
+      "buidingLV": 1,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1032": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv1.prefab",
+      "Synthesis": 0,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_32",
+      "id": 1032,
+      "quality": 4,
+      "campType": 4,
+      "buidingLV": 1,
+      "cost": {}
+    },
+    "1002": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_2",
+      "id": 1002,
+      "quality": 1,
+      "campType": 1,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1006": {
+      "Model": "UI_Animation/Wingman/k3_Wingman01_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 1,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_6",
+      "id": 1006,
+      "quality": 1,
+      "campType": 2,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    },
+    "1015": {
+      "Model": "UI_Animation/Wingman/k3_Wingman04_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 2,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_15",
+      "id": 1015,
+      "quality": 2,
+      "campType": 1,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 400,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1021": {
+      "Model": "UI_Animation/Wingman/k3_Wingman02_City_Lv3.prefab",
+      "Synthesis": 1,
+      "moduleType": 0,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_21",
+      "id": 1021,
+      "quality": 2,
+      "campType": 3,
+      "buidingLV": 15,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "1012": {
+      "Model": "UI_Animation/Wingman/k3_Wingman03_City_Lv4.prefab",
+      "Synthesis": 1,
+      "moduleType": 3,
+      "buidingId": 5035,
+      "medalId": "item_wingman_props_12",
+      "id": 1012,
+      "quality": 1,
+      "campType": 3,
+      "buidingLV": 20,
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "item_fighter_jet_experience_card_2"
+        }
+      }
+    }
+  }
+}

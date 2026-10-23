@@ -1,0 +1,321 @@
+{
+  "data": {
+    "50000507": {
+      "gotoTarget": "hermit_getitem_goto6",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000507,
+      "sort": 6,
+      "itemId": "recluse_coin"
+    },
+    "50000103": {
+      "gotoTarget": "christams_goto3",
+      "configID": 8200204,
+      "type": 0,
+      "id": 50000103,
+      "sort": 3,
+      "itemId": "childrensday_cupcake"
+    },
+    "50000504": {
+      "gotoTarget": "hermit_getitem_goto3",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000504,
+      "sort": 3,
+      "itemId": "recluse_coin"
+    },
+    "50000105": {
+      "gotoTarget": "christams_goto5",
+      "configID": 8200204,
+      "type": 0,
+      "id": 50000105,
+      "sort": 5,
+      "itemId": "childrensday_cupcake"
+    },
+    "50000304": {
+      "gotoTarget": "hermit_getitem_goto3",
+      "configID": 6000103,
+      "type": 0,
+      "id": 50000304,
+      "sort": 3,
+      "itemId": "recluse_coin"
+    },
+    "50000404": {
+      "gotoTarget": "hermit_getitem_goto3",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000404,
+      "sort": 3,
+      "itemId": "recluse_coin"
+    },
+    "50000204": {
+      "gotoTarget": "christams_goto4",
+      "configID": 8200304,
+      "type": 0,
+      "id": 50000204,
+      "sort": 4,
+      "itemId": "pirate_marine_fish"
+    },
+    "50000508": {
+      "gotoTarget": "hermit_getitem_goto7",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000508,
+      "sort": 7,
+      "itemId": "recluse_coin"
+    },
+    "50000201": {
+      "gotoTarget": "christams_goto1",
+      "configID": 8200304,
+      "type": 0,
+      "id": 50000201,
+      "sort": 1,
+      "itemId": "pirate_marine_fish"
+    },
+    "50000302": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 6000103,
+      "type": 2,
+      "id": 50000302,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000601": {
+      "gotoTarget": "christams_goto1",
+      "configID": 8200404,
+      "type": 0,
+      "id": 50000601,
+      "sort": 1,
+      "itemId": "mid_autumn_submit"
+    },
+    "50000506": {
+      "gotoTarget": "hermit_getitem_goto5",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000506,
+      "sort": 5,
+      "itemId": "recluse_coin"
+    },
+    "50000101": {
+      "gotoTarget": "christams_goto1",
+      "configID": 8200204,
+      "type": 0,
+      "id": 50000101,
+      "sort": 1,
+      "itemId": "childrensday_cupcake"
+    },
+    "50000301": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 60001031,
+      "type": 2,
+      "id": 50000301,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000205": {
+      "gotoTarget": "christams_goto5",
+      "configID": 8200304,
+      "type": 0,
+      "id": 50000205,
+      "sort": 5,
+      "itemId": "pirate_marine_fish"
+    },
+    "50000408": {
+      "gotoTarget": "hermit_getitem_goto7",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000408,
+      "sort": 7,
+      "itemId": "recluse_coin"
+    },
+    "50000307": {
+      "gotoTarget": "hermit_getitem_goto6",
+      "configID": 6000103,
+      "type": 0,
+      "id": 50000307,
+      "sort": 6,
+      "itemId": "recluse_coin"
+    },
+    "50000402": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 6000104,
+      "type": 2,
+      "id": 50000402,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000305": {
+      "gotoTarget": "hermit_getitem_goto4",
+      "configID": 6000103,
+      "type": 0,
+      "id": 50000305,
+      "sort": 4,
+      "itemId": "recluse_coin"
+    },
+    "50000401": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 60001041,
+      "type": 2,
+      "id": 50000401,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000603": {
+      "gotoTarget": "christams_goto3",
+      "configID": 8200404,
+      "type": 0,
+      "id": 50000603,
+      "sort": 3,
+      "itemId": "mid_autumn_submit"
+    },
+    "50000202": {
+      "gotoTarget": "christams_goto2",
+      "configID": 8200304,
+      "type": 0,
+      "id": 50000202,
+      "sort": 2,
+      "itemId": "pirate_marine_fish"
+    },
+    "50000505": {
+      "gotoTarget": "hermit_getitem_goto4",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000505,
+      "sort": 4,
+      "itemId": "recluse_coin"
+    },
+    "50000602": {
+      "gotoTarget": "christams_goto2",
+      "configID": 8200404,
+      "type": 0,
+      "id": 50000602,
+      "sort": 2,
+      "itemId": "mid_autumn_submit"
+    },
+    "50000503": {
+      "gotoTarget": "hermit_getitem_goto2",
+      "configID": 6000105,
+      "type": 0,
+      "id": 50000503,
+      "sort": 2,
+      "itemId": "recluse_coin"
+    },
+    "50000405": {
+      "gotoTarget": "hermit_getitem_goto4",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000405,
+      "sort": 4,
+      "itemId": "recluse_coin"
+    },
+    "50000203": {
+      "gotoTarget": "christams_goto3",
+      "configID": 8200304,
+      "type": 0,
+      "id": 50000203,
+      "sort": 3,
+      "itemId": "pirate_marine_fish"
+    },
+    "50000502": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 6000105,
+      "type": 2,
+      "id": 50000502,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000303": {
+      "gotoTarget": "hermit_getitem_goto2",
+      "configID": 6000103,
+      "type": 3,
+      "id": 50000303,
+      "sort": 2,
+      "itemId": "recluse_coin"
+    },
+    "50000501": {
+      "gotoTarget": "hermit_getitem_goto1",
+      "configID": 60001051,
+      "type": 2,
+      "id": 50000501,
+      "sort": 1,
+      "itemId": "recluse_coin"
+    },
+    "50000604": {
+      "gotoTarget": "christams_goto4",
+      "configID": 8200404,
+      "type": 0,
+      "id": 50000604,
+      "sort": 4,
+      "itemId": "mid_autumn_submit"
+    },
+    "50000102": {
+      "gotoTarget": "christams_goto2",
+      "configID": 8200204,
+      "type": 0,
+      "id": 50000102,
+      "sort": 2,
+      "itemId": "childrensday_cupcake"
+    },
+    "50000406": {
+      "gotoTarget": "hermit_getitem_goto5",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000406,
+      "sort": 5,
+      "itemId": "recluse_coin"
+    },
+    "50000403": {
+      "gotoTarget": "hermit_getitem_goto2",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000403,
+      "sort": 2,
+      "itemId": "recluse_coin"
+    },
+    "50000407": {
+      "gotoTarget": "hermit_getitem_goto6",
+      "configID": 6000104,
+      "type": 0,
+      "id": 50000407,
+      "sort": 6,
+      "itemId": "recluse_coin"
+    },
+    "50000605": {
+      "gotoTarget": "christams_goto5",
+      "configID": 8200404,
+      "type": 0,
+      "id": 50000605,
+      "sort": 5,
+      "itemId": "mid_autumn_submit"
+    },
+    "50000306": {
+      "gotoTarget": "hermit_getitem_goto5",
+      "configID": 6000103,
+      "type": 0,
+      "id": 50000306,
+      "sort": 5,
+      "itemId": "recluse_coin"
+    },
+    "50000308": {
+      "gotoTarget": "hermit_getitem_goto7",
+      "configID": 6000103,
+      "type": 0,
+      "id": 50000308,
+      "sort": 7,
+      "itemId": "recluse_coin"
+    },
+    "50000104": {
+      "gotoTarget": "christams_goto4",
+      "configID": 8200204,
+      "type": 0,
+      "id": 50000104,
+      "sort": 4,
+      "itemId": "childrensday_cupcake"
+    }
+  },
+  "first": 50000101,
+  "key": "id",
+  "excelName": "Activity_GetItem_道具获取活动",
+  "len": 39,
+  "isNeedTransform": false
+}

@@ -1,0 +1,2701 @@
+{
+  "excelName": "Benefit_SLG加成属性配置表",
+  "data": {
+    "5": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20001,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 5,
+      "baseBenefits": {
+        "1401": {
+          "1": 20001
+        }
+      }
+    },
+    "4": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20001,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 4,
+      "baseBenefits": {
+        "905": {
+          "1": 20001
+        }
+      }
+    },
+    "7": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20002,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 7,
+      "baseBenefits": {
+        "401": {
+          "1": 20002
+        }
+      }
+    },
+    "9": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20002,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 9,
+      "baseBenefits": {
+        "1201": {
+          "1": 20002
+        }
+      }
+    },
+    "8": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20002,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 8,
+      "baseBenefits": {
+        "301": {
+          "1": 20002
+        }
+      }
+    },
+    "150": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10030,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 150,
+      "baseBenefits": {
+        "811": {
+          "1": 10030
+        }
+      }
+    },
+    "146": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 146,
+      "baseBenefits": {
+        "301": {
+          "1": 10013,
+          "2": 10007
+        }
+      }
+    },
+    "16": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20003,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 16,
+      "baseBenefits": {
+        "905": {
+          "1": 20003
+        }
+      }
+    },
+    "26": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20006,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 26,
+      "baseBenefits": {
+        "601": {
+          "1": 20006
+        }
+      }
+    },
+    "36": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 36,
+      "baseBenefits": {
+        "1401": {
+          "1": 20008
+        }
+      }
+    },
+    "145": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 145,
+      "baseBenefits": {
+        "811": {
+          "1": 10013,
+          "2": 10007
+        }
+      }
+    },
+    "56": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 56,
+      "baseBenefits": {
+        "1201": {
+          "1": 20013
+        }
+      }
+    },
+    "66": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 66,
+      "baseBenefits": {
+        "1201": {
+          "1": 20015
+        }
+      }
+    },
+    "76": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20018,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 76,
+      "baseBenefits": {
+        "905": {
+          "1": 20018
+        }
+      }
+    },
+    "158": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 158,
+      "baseBenefits": {
+        "101": {
+          "1": 10020,
+          "2": 10017
+        }
+      }
+    },
+    "96": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 96,
+      "baseBenefits": {
+        "401": {
+          "1": 10008,
+          "2": 10005
+        }
+      }
+    },
+    "122": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 122,
+      "baseBenefits": {
+        "301": {
+          "1": 10015,
+          "2": 10006
+        }
+      }
+    },
+    "174": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10040,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 174,
+      "baseBenefits": {
+        "501": {
+          "1": 10040
+        }
+      }
+    },
+    "141": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10012,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 141,
+      "baseBenefits": {
+        "101": {
+          "1": 10012,
+          "2": 10006
+        }
+      }
+    },
+    "1": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20001,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 1,
+      "baseBenefits": {
+        "401": {
+          "1": 20001
+        }
+      }
+    },
+    "147": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 147,
+      "baseBenefits": {
+        "101": {
+          "1": 10013,
+          "2": 10007
+        }
+      }
+    },
+    "2": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20001,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 2,
+      "baseBenefits": {
+        "301": {
+          "1": 20001
+        }
+      }
+    },
+    "140": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10012,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 140,
+      "baseBenefits": {
+        "301": {
+          "1": 10012,
+          "2": 10006
+        }
+      }
+    },
+    "176": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10026,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 176,
+      "baseBenefits": {
+        "501": {
+          "1": 10026
+        }
+      }
+    },
+    "91": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 91,
+      "baseBenefits": {
+        "1401": {
+          "1": 20022
+        }
+      }
+    },
+    "133": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10011,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 133,
+      "baseBenefits": {
+        "811": {
+          "1": 10011,
+          "2": 10005
+        }
+      }
+    },
+    "192": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 192,
+      "baseBenefits": {
+        "1101": {
+          "1": 10101
+        }
+      }
+    },
+    "49": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20033,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 49,
+      "baseBenefits": {
+        "601": {
+          "1": 20033
+        }
+      }
+    },
+    "139": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10012,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 139,
+      "baseBenefits": {
+        "811": {
+          "1": 10012,
+          "2": 10006
+        }
+      }
+    },
+    "29": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20007,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 29,
+      "baseBenefits": {
+        "401": {
+          "1": 20007
+        }
+      }
+    },
+    "19": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 19,
+      "baseBenefits": {
+        "401": {
+          "1": 20005
+        }
+      }
+    },
+    "21": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 21,
+      "baseBenefits": {
+        "501": {
+          "1": 20005
+        }
+      }
+    },
+    "11": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20002,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 11,
+      "baseBenefits": {
+        "1401": {
+          "1": 20002
+        }
+      }
+    },
+    "112": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10010,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 112,
+      "baseBenefits": {
+        "1401": {
+          "1": 10010,
+          "2": 10007
+        }
+      }
+    },
+    "99": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 99,
+      "baseBenefits": {
+        "101": {
+          "1": 10008,
+          "2": 10005
+        }
+      }
+    },
+    "89": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 89,
+      "baseBenefits": {
+        "301": {
+          "1": 20022
+        }
+      }
+    },
+    "79": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20019,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 79,
+      "baseBenefits": {
+        "1201": {
+          "1": 20019
+        }
+      }
+    },
+    "126": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10016,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 126,
+      "baseBenefits": {
+        "401": {
+          "1": 10016,
+          "2": 10007
+        }
+      }
+    },
+    "130": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10016,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 130,
+      "baseBenefits": {
+        "1401": {
+          "1": 10016,
+          "2": 10007
+        }
+      }
+    },
+    "90": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 90,
+      "baseBenefits": {
+        "601": {
+          "1": 20022
+        }
+      }
+    },
+    "58": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 58,
+      "baseBenefits": {
+        "905": {
+          "1": 20013
+        }
+      }
+    },
+    "68": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 68,
+      "baseBenefits": {
+        "905": {
+          "1": 20015
+        }
+      }
+    },
+    "38": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 38,
+      "baseBenefits": {
+        "1201": {
+          "1": 20009
+        }
+      }
+    },
+    "60": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 60,
+      "baseBenefits": {
+        "401": {
+          "1": 20014
+        }
+      }
+    },
+    "163": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 163,
+      "baseBenefits": {
+        "101": {
+          "1": 10022,
+          "2": 10017
+        }
+      }
+    },
+    "40": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20010,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 40,
+      "baseBenefits": {
+        "601": {
+          "1": 20010
+        }
+      }
+    },
+    "10": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20002,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 10,
+      "baseBenefits": {
+        "905": {
+          "1": 20002
+        }
+      }
+    },
+    "20": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 20,
+      "baseBenefits": {
+        "301": {
+          "1": 20005
+        }
+      }
+    },
+    "138": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10012,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 138,
+      "baseBenefits": {
+        "401": {
+          "1": 10012,
+          "2": 10006
+        }
+      }
+    },
+    "98": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 98,
+      "baseBenefits": {
+        "301": {
+          "1": 10008,
+          "2": 10005
+        }
+      }
+    },
+    "182": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10098,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 182,
+      "baseBenefits": {
+        "401": {
+          "1": 10098
+        }
+      }
+    },
+    "167": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 167,
+      "baseBenefits": {
+        "501": {
+          "1": 10021,
+          "2": 10017
+        }
+      }
+    },
+    "102": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 102,
+      "baseBenefits": {
+        "401": {
+          "1": 10009,
+          "2": 10006
+        }
+      }
+    },
+    "161": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 161,
+      "baseBenefits": {
+        "811": {
+          "1": 10022,
+          "2": 10017
+        }
+      }
+    },
+    "120": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 120,
+      "baseBenefits": {
+        "401": {
+          "1": 10015,
+          "2": 10006
+        }
+      }
+    },
+    "93": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20023,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 93,
+      "baseBenefits": {
+        "401": {
+          "1": 20023
+        }
+      }
+    },
+    "156": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 156,
+      "baseBenefits": {
+        "811": {
+          "1": 10020,
+          "2": 10017
+        }
+      }
+    },
+    "63": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 63,
+      "baseBenefits": {
+        "905": {
+          "1": 20014
+        }
+      }
+    },
+    "53": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20034,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 53,
+      "baseBenefits": {
+        "1201": {
+          "1": 20034
+        }
+      }
+    },
+    "115": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 115,
+      "baseBenefits": {
+        "811": {
+          "1": 10014,
+          "2": 10005
+        }
+      }
+    },
+    "73": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20018,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 73,
+      "baseBenefits": {
+        "401": {
+          "1": 20018
+        }
+      }
+    },
+    "23": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 23,
+      "baseBenefits": {
+        "905": {
+          "1": 20005
+        }
+      }
+    },
+    "1001": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1102,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 1001,
+      "baseBenefits": {
+        "1102": {
+          "1": 20005
+        }
+      }
+    },
+    "43": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20011,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 43,
+      "baseBenefits": {
+        "601": {
+          "1": 20011
+        }
+      }
+    },
+    "33": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 33,
+      "baseBenefits": {
+        "301": {
+          "1": 20008
+        }
+      }
+    },
+    "144": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 144,
+      "baseBenefits": {
+        "401": {
+          "1": 10013,
+          "2": 10007
+        }
+      }
+    },
+    "128": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10016,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 128,
+      "baseBenefits": {
+        "301": {
+          "1": 10016,
+          "2": 10007
+        }
+      }
+    },
+    "157": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 157,
+      "baseBenefits": {
+        "501": {
+          "1": 10020,
+          "2": 10017
+        }
+      }
+    },
+    "106": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 106,
+      "baseBenefits": {
+        "1401": {
+          "1": 10009,
+          "2": 10006
+        }
+      }
+    },
+    "110": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10010,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 110,
+      "baseBenefits": {
+        "301": {
+          "1": 10010,
+          "2": 10007
+        }
+      }
+    },
+    "189": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 189,
+      "baseBenefits": {
+        "1201": {
+          "1": 10101
+        }
+      }
+    },
+    "103": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 103,
+      "baseBenefits": {
+        "811": {
+          "1": 10009,
+          "2": 10006
+        }
+      }
+    },
+    "205": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10109,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 205,
+      "baseBenefits": {
+        "401": {
+          "1": 10109
+        }
+      }
+    },
+    "201": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10107,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 201,
+      "baseBenefits": {
+        "401": {
+          "1": 10107
+        }
+      }
+    },
+    "186": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 186,
+      "baseBenefits": {
+        "401": {
+          "1": 10101
+        }
+      }
+    },
+    "105": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 105,
+      "baseBenefits": {
+        "101": {
+          "1": 10009,
+          "2": 10006
+        }
+      }
+    },
+    "209": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 100005,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 3000023,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 209,
+      "baseBenefits": {
+        "100005": {
+          "1": 3000023
+        }
+      }
+    },
+    "109": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10010,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 109,
+      "baseBenefits": {
+        "811": {
+          "1": 10010,
+          "2": 10007
+        }
+      }
+    },
+    "183": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10099,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 183,
+      "baseBenefits": {
+        "401": {
+          "1": 10099
+        }
+      }
+    },
+    "42": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20011,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 42,
+      "baseBenefits": {
+        "501": {
+          "1": 20011
+        }
+      }
+    },
+    "134": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10011,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 134,
+      "baseBenefits": {
+        "301": {
+          "1": 10011,
+          "2": 10005
+        }
+      }
+    },
+    "187": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 187,
+      "baseBenefits": {
+        "301": {
+          "1": 10101
+        }
+      }
+    },
+    "162": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 162,
+      "baseBenefits": {
+        "501": {
+          "1": 10022,
+          "2": 10017
+        }
+      }
+    },
+    "118": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 118,
+      "baseBenefits": {
+        "1401": {
+          "1": 10014,
+          "2": 10005
+        }
+      }
+    },
+    "198": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10106,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 198,
+      "baseBenefits": {
+        "401": {
+          "1": 10106
+        }
+      }
+    },
+    "207": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 100004,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 3000023,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 207,
+      "baseBenefits": {
+        "100004": {
+          "1": 3000023
+        }
+      }
+    },
+    "190": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 190,
+      "baseBenefits": {
+        "905": {
+          "1": 10101
+        }
+      }
+    },
+    "181": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10097,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 181,
+      "baseBenefits": {
+        "401": {
+          "1": 10097
+        }
+      }
+    },
+    "179": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1102,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10027,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 179,
+      "baseBenefits": {
+        "1102": {
+          "1": 10027
+        }
+      }
+    },
+    "136": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10011,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 136,
+      "baseBenefits": {
+        "1401": {
+          "1": 10011,
+          "2": 10005
+        }
+      }
+    },
+    "135": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10011,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 135,
+      "baseBenefits": {
+        "101": {
+          "1": 10011,
+          "2": 10005
+        }
+      }
+    },
+    "15": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20003,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 15,
+      "baseBenefits": {
+        "1201": {
+          "1": 20003
+        }
+      }
+    },
+    "75": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20018,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 75,
+      "baseBenefits": {
+        "1201": {
+          "1": 20018
+        }
+      }
+    },
+    "65": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 65,
+      "baseBenefits": {
+        "401": {
+          "1": 20015
+        }
+      }
+    },
+    "55": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 55,
+      "baseBenefits": {
+        "401": {
+          "1": 20013
+        }
+      }
+    },
+    "100": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 100,
+      "baseBenefits": {
+        "1401": {
+          "1": 10008,
+          "2": 10005
+        }
+      }
+    },
+    "124": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 124,
+      "baseBenefits": {
+        "1401": {
+          "1": 10015,
+          "2": 10006
+        }
+      }
+    },
+    "85": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 85,
+      "baseBenefits": {
+        "401": {
+          "1": 20021
+        }
+      }
+    },
+    "108": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10010,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 108,
+      "baseBenefits": {
+        "401": {
+          "1": 10010,
+          "2": 10007
+        }
+      }
+    },
+    "208": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 100002,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 3000023,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 208,
+      "baseBenefits": {
+        "100002": {
+          "1": 3000023
+        }
+      }
+    },
+    "188": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 188,
+      "baseBenefits": {
+        "101": {
+          "1": 10101
+        }
+      }
+    },
+    "177": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10026,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 177,
+      "baseBenefits": {
+        "101": {
+          "1": 10026
+        }
+      }
+    },
+    "202": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10107,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 202,
+      "baseBenefits": {
+        "1401": {
+          "1": 10107
+        }
+      }
+    },
+    "94": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20023,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 94,
+      "baseBenefits": {
+        "1201": {
+          "1": 20023
+        }
+      }
+    },
+    "170": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10031,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 170,
+      "baseBenefits": {
+        "811": {
+          "1": 10031
+        }
+      }
+    },
+    "166": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 166,
+      "baseBenefits": {
+        "811": {
+          "1": 10021,
+          "2": 10017
+        }
+      }
+    },
+    "88": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 88,
+      "baseBenefits": {
+        "401": {
+          "1": 20022
+        }
+      }
+    },
+    "86": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 86,
+      "baseBenefits": {
+        "1401": {
+          "1": 20021
+        }
+      }
+    },
+    "24": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 24,
+      "baseBenefits": {
+        "1401": {
+          "1": 20005
+        }
+      }
+    },
+    "34": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 34,
+      "baseBenefits": {
+        "1201": {
+          "1": 20008
+        }
+      }
+    },
+    "83": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 83,
+      "baseBenefits": {
+        "1201": {
+          "1": 20020
+        }
+      }
+    },
+    "123": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 123,
+      "baseBenefits": {
+        "101": {
+          "1": 10015,
+          "2": 10006
+        }
+      }
+    },
+    "82": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 82,
+      "baseBenefits": {
+        "301": {
+          "1": 20020
+        }
+      }
+    },
+    "74": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20018,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 74,
+      "baseBenefits": {
+        "301": {
+          "1": 20018
+        }
+      }
+    },
+    "81": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 81,
+      "baseBenefits": {
+        "401": {
+          "1": 20020
+        }
+      }
+    },
+    "129": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10016,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 129,
+      "baseBenefits": {
+        "101": {
+          "1": 10016,
+          "2": 10007
+        }
+      }
+    },
+    "142": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10012,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 142,
+      "baseBenefits": {
+        "1401": {
+          "1": 10012,
+          "2": 10006
+        }
+      }
+    },
+    "210": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 3000023,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 210,
+      "baseBenefits": {
+        "101": {
+          "1": 3000023
+        }
+      }
+    },
+    "71": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20017,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 71,
+      "baseBenefits": {
+        "1401": {
+          "1": 20017
+        }
+      }
+    },
+    "114": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 114,
+      "baseBenefits": {
+        "401": {
+          "1": 10014,
+          "2": 10005
+        }
+      }
+    },
+    "70": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20017,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 70,
+      "baseBenefits": {
+        "401": {
+          "1": 20017
+        }
+      }
+    },
+    "204": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10108,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 204,
+      "baseBenefits": {
+        "401": {
+          "1": 10108
+        }
+      }
+    },
+    "62": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1102,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 62,
+      "baseBenefits": {
+        "1102": {
+          "1": 20014
+        }
+      }
+    },
+    "61": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 61,
+      "baseBenefits": {
+        "1201": {
+          "1": 20014
+        }
+      }
+    },
+    "22": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20005,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 22,
+      "baseBenefits": {
+        "1201": {
+          "1": 20005
+        }
+      }
+    },
+    "121": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 121,
+      "baseBenefits": {
+        "811": {
+          "1": 10015,
+          "2": 10006
+        }
+      }
+    },
+    "51": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20033,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 51,
+      "baseBenefits": {
+        "1201": {
+          "1": 20033
+        }
+      }
+    },
+    "127": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10016,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 127,
+      "baseBenefits": {
+        "811": {
+          "1": 10016,
+          "2": 10007
+        }
+      }
+    },
+    "50": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20033,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 50,
+      "baseBenefits": {
+        "301": {
+          "1": 20033
+        }
+      }
+    },
+    "47": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 601,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20012,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 47,
+      "baseBenefits": {
+        "601": {
+          "1": 20012
+        }
+      }
+    },
+    "46": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20012,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 46,
+      "baseBenefits": {
+        "1201": {
+          "1": 20012
+        }
+      }
+    },
+    "45": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20012,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 45,
+      "baseBenefits": {
+        "501": {
+          "1": 20012
+        }
+      }
+    },
+    "199": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10106,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 199,
+      "baseBenefits": {
+        "1201": {
+          "1": 10106
+        }
+      }
+    },
+    "116": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 116,
+      "baseBenefits": {
+        "301": {
+          "1": 10014,
+          "2": 10005
+        }
+      }
+    },
+    "191": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10101,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 191,
+      "baseBenefits": {
+        "1401": {
+          "1": 10101
+        }
+      }
+    },
+    "401": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20010,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 401,
+      "baseBenefits": {
+        "501": {
+          "1": 20010
+        }
+      }
+    },
+    "35": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 905,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 35,
+      "baseBenefits": {
+        "905": {
+          "1": 20008
+        }
+      }
+    },
+    "32": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 32,
+      "baseBenefits": {
+        "401": {
+          "1": 20008
+        }
+      }
+    },
+    "30": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20007,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 30,
+      "baseBenefits": {
+        "1201": {
+          "1": 20007
+        }
+      }
+    },
+    "160": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10022,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 160,
+      "baseBenefits": {
+        "401": {
+          "1": 10022,
+          "2": 10017
+        }
+      }
+    },
+    "17": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20003,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 17,
+      "baseBenefits": {
+        "1401": {
+          "1": 20003
+        }
+      }
+    },
+    "3": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20001,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 3,
+      "baseBenefits": {
+        "1201": {
+          "1": 20001
+        }
+      }
+    },
+    "27": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20006,
+      "attrGroupDesc": "",
+      "valueType": 1,
+      "id": 27,
+      "baseBenefits": {
+        "501": {
+          "1": 20006
+        }
+      }
+    },
+    "196": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10104,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 196,
+      "baseBenefits": {
+        "1201": {
+          "1": 10104
+        }
+      }
+    },
+    "57": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1102,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 57,
+      "baseBenefits": {
+        "1102": {
+          "1": 20013
+        }
+      }
+    },
+    "155": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10020,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 155,
+      "baseBenefits": {
+        "401": {
+          "1": 10020,
+          "2": 10017
+        }
+      }
+    },
+    "77": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20018,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 77,
+      "baseBenefits": {
+        "1401": {
+          "1": 20018
+        }
+      }
+    },
+    "67": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1102,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20015,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 67,
+      "baseBenefits": {
+        "1102": {
+          "1": 20015
+        }
+      }
+    },
+    "97": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10008,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 97,
+      "baseBenefits": {
+        "811": {
+          "1": 10008,
+          "2": 10005
+        }
+      }
+    },
+    "132": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10011,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 132,
+      "baseBenefits": {
+        "401": {
+          "1": 10011,
+          "2": 10005
+        }
+      }
+    },
+    "104": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10009,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 104,
+      "baseBenefits": {
+        "301": {
+          "1": 10009,
+          "2": 10006
+        }
+      }
+    },
+    "195": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10103,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 195,
+      "baseBenefits": {
+        "1201": {
+          "1": 10103
+        }
+      }
+    },
+    "194": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1201,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10102,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 194,
+      "baseBenefits": {
+        "1201": {
+          "1": 10102
+        }
+      }
+    },
+    "184": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10100,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 184,
+      "baseBenefits": {
+        "401": {
+          "1": 10100
+        }
+      }
+    },
+    "172": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10023,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 172,
+      "baseBenefits": {
+        "401": {
+          "1": 10023
+        }
+      }
+    },
+    "168": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 168,
+      "baseBenefits": {
+        "101": {
+          "1": 10021,
+          "2": 10017
+        }
+      }
+    },
+    "111": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10010,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 111,
+      "baseBenefits": {
+        "101": {
+          "1": 10010,
+          "2": 10007
+        }
+      }
+    },
+    "165": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10021,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 165,
+      "baseBenefits": {
+        "401": {
+          "1": 10021,
+          "2": 10017
+        }
+      }
+    },
+    "153": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 501,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10032,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 153,
+      "baseBenefits": {
+        "501": {
+          "1": 10032
+        }
+      }
+    },
+    "152": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 811,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10032,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 152,
+      "baseBenefits": {
+        "811": {
+          "1": 10032
+        }
+      }
+    },
+    "148": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 1401,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10013,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 148,
+      "baseBenefits": {
+        "1401": {
+          "1": 10013,
+          "2": 10007
+        }
+      }
+    },
+    "14": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 301,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20003,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 14,
+      "baseBenefits": {
+        "301": {
+          "1": 20003
+        }
+      }
+    },
+    "13": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 401,
+      "benefitTypeDesc": "",
+      "attrGroup": 1,
+      "benefitType": 20003,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 13,
+      "baseBenefits": {
+        "401": {
+          "1": 20003
+        }
+      }
+    },
+    "117": {
+      "benefitSourceDesc": "",
+      "percentBenefits": {},
+      "benefitSource": 101,
+      "benefitTypeDesc": "",
+      "attrGroup": 2,
+      "benefitType": 10014,
+      "attrGroupDesc": "",
+      "valueType": 2,
+      "id": 117,
+      "baseBenefits": {
+        "101": {
+          "1": 10014,
+          "2": 10005
+        }
+      }
+    }
+  },
+  "len": 164,
+  "key": "id",
+  "enum": {
+    "ATTRGROUP": {
+      "BATTLE": 2,
+      "ECONOMY": 1
+    },
+    "VALUETYPE": {
+      "PERCENT": 2,
+      "TIME": 3,
+      "NUMBER": 1
+    }
+  },
+  "first": 1,
+  "isNeedTransform": true
+}

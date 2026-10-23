@@ -1,0 +1,233 @@
+{
+  "data": {
+    "3": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 16
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 70
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 30
+        }
+      },
+      "maxRanking": 3,
+      "minRanking": 3,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 3
+    },
+    "4": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 14
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 25
+        }
+      },
+      "maxRanking": 10,
+      "minRanking": 4,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 4
+    },
+    "5": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 12
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 55
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 20
+        }
+      },
+      "maxRanking": 50,
+      "minRanking": 11,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 5
+    },
+    "6": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 10
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 15
+        }
+      },
+      "maxRanking": 100,
+      "minRanking": 51,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 6
+    },
+    "7": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 10
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 40
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 10
+        }
+      },
+      "maxRanking": 200,
+      "minRanking": 101,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 7
+    },
+    "1": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 20
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 50
+        }
+      },
+      "maxRanking": 1,
+      "minRanking": 1,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 1
+    },
+    "2": {
+      "rankingType": 1,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 18
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 80
+        },
+        "4": {
+          "type": 99,
+          "id": "item_drone_part",
+          "count": 40
+        }
+      },
+      "maxRanking": 2,
+      "minRanking": 2,
+      "activityId": 480010101,
+      "leaderBoardType": {
+        "1": 1
+      },
+      "id": 2
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_ABYSS_BOSS_Weekend_狂暴首领 ",
+  "first": 1,
+  "key": "id",
+  "len": 7
+}

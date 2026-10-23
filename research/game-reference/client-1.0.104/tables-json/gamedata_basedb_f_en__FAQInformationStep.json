@@ -1,0 +1,253 @@
+{
+  "data": {
+    "55": {
+      "description": "Upon acquisition, you receive an extra reward each time you complete a Falcon Quest, with a chance to obtain UR items from the reward chest.",
+      "sheetName": "Basic Rules",
+      "id": 55
+    },
+    "53": {
+      "description": "Dispatch troops to occupy Resource Spots for resource gathering. The higher the level of the Resource Spots, the more resources collected.",
+      "sheetName": "Gather",
+      "id": 53
+    },
+    "5": {
+      "description": "Healing Tent\nThere are 4 pre-built Healing Tents on the battlefield. Capturing them not only grants a moderate amount of points but also heals wounded soldiers.\n\n[Healing Tent] heals 15 Wounded Soldiers every 10s.",
+      "sheetName": "Healing Tent",
+      "id": 5
+    },
+    "6": {
+      "description": "Strategic Base I\nThere are numerous strategic facilities on the battlefield. Capturing them provides [c][d15858]a small amount of[-][/c] points over time and various benefits.\n\n[Migration Portal] City relocation cooldown reduced by 50%.\n[Observatory] Allied point efficiency increased by 10%.",
+      "sheetName": "Strategic Outpost I",
+      "id": 6
+    },
+    "3": {
+      "description": "Elixir Castle\nThe most crucial structure on the battlefield, located at the center of the area. The castle gates open 10 minutes into the battle, granting substantial points upon capture.",
+      "sheetName": "Elixir Castle",
+      "id": 3
+    },
+    "4": {
+      "description": "Alchemy Workshop\nThere are 2 Alchemy Workshops, located near the entrance areas of 2 alliances. Capturing them grants substantial points continuously, and they should be prioritized at the start of the battle.",
+      "sheetName": "Alchemy Workshop",
+      "id": 4
+    },
+    "1": {
+      "description": "Elixir Scramble\nAs the plague spreads across the world, the most scarce resource is always the cure for diseases. According to ancient texts, mysterious herbs grow in a land that only opens on the night of the Blood Moon.\nIt is said that a large quantity of elixirs is hidden within the legendary Elixir Castle, and these elixirs can effectively treat various diseases, attracting many to compete for them...",
+      "sheetName": "Elixir Scramble",
+      "id": 1
+    },
+    "2": {
+      "description": "Entry Area\nTwo alliances will enter from the east and west sides of the battlefield, competing for points to achieve ultimate victory.",
+      "sheetName": "Entrance Area",
+      "id": 2
+    },
+    "9": {
+      "description": "[b]Breach Points[/b]\nWhen a building is breached, Medkits will scatter around the area, and both sides can dispatch squads to collect them, earning a small amount of points.",
+      "sheetName": "Breaching Points",
+      "id": 9
+    },
+    "7": {
+      "description": "Strategic Base II\nAfter 10 minutes of battle, all remaining strategic bases will be accessible. Capturing them grants a small amount of points over time and combat buffs.\n\n[War Relic] Increases allied Heroes' ATK, DEF, and HP by 15%.\n[Cursed Altar] Reduces enemy Heroes' ATK, DEF, and HP by 15%.",
+      "sheetName": "Strategic Outpost II",
+      "id": 7
+    },
+    "8": {
+      "description": "[b]Occupation Points[/b]\nUpon occupation, points will be generated continuously.\nOccupied buildings will store points that can be plundered after a period of time.",
+      "sheetName": "Occupation Points",
+      "id": 8
+    },
+    "73": {
+      "description": "After defeating the garrison, deplete the city's durability. The more participants, the faster the process.",
+      "sheetName": "Reduce Durability",
+      "id": 73
+    },
+    "63": {
+      "description": "After the event, ranking rewards are settled based on the level and number of occupied cities.",
+      "sheetName": "Ranking",
+      "id": 63
+    },
+    "93": {
+      "description": "At the end of the Event, claim generous rewards based on earned Honor Points!",
+      "sheetName": "Settlement",
+      "id": 93
+    },
+    "83": {
+      "description": "Each quest point can be stolen up to 3 times. Share the quest point with alliance members for the joy.",
+      "sheetName": "Share",
+      "id": 83
+    },
+    "81": {
+      "description": "When the countdown for the Covert Operation is less than 10m, it will be visible to everyone. To avoid losses, collect quest rewards promptly!",
+      "sheetName": "Reveal",
+      "id": 81
+    },
+    "71": {
+      "description": "R4 or R5 can declare war on adjacent cities, allowing alliance members to siege.",
+      "sheetName": "Declare War",
+      "id": 71
+    },
+    "61": {
+      "description": "R4 or R5 can declare war on adjacent cities, allowing alliance members to siege.",
+      "sheetName": "Declare War",
+      "id": 61
+    },
+    "51": {
+      "description": "Defeating Blights in the world grants resources and items. Powerful Elite Blights require an alliance to launch an attack. The higher the Blight's level, the greater the rewards for defeating it.",
+      "sheetName": "Hunt",
+      "id": 51
+    },
+    "10": {
+      "description": "[b]Camp Points[/b]\nAt the 13-minute mark of the battle, camps storing a large amount of herbs will appear. Deploy troops to gather them and you earn a small amount of points over time.",
+      "sheetName": "Camp Points",
+      "id": 10
+    },
+    "127": {
+      "description": "RES is the sole attribute for battling era Monsters. Each Monster has its own RES attribute. When your RES exceeds the Monster's RES, you'll defeat them easily; if your RES falls short, you'll face disadvantages or even defeat in battle.",
+      "sheetName": "RES Attribute",
+      "id": 127
+    },
+    "126": {
+      "description": "RES Level is crucial for battling era Monsters. Upgrading RES Level grants RES attributes, helping you overcome era Monsters with ease. When an era ends, RES Level becomes inactive, and its RES attributes are lost. Upon the next era's start, they reactivate.",
+      "sheetName": "RES Level",
+      "id": 126
+    },
+    "125": {
+      "description": "Once your Specialty Level reaches its Cap, you'll continue earning Specialty EXP at the end of the era, excess Specialty EXP converts to Items at a 30% rate. Converted Items are sent via Mail and can be used to upgrade your Specialty Level in the next era.",
+      "sheetName": "EXP Overflow",
+      "id": 125
+    },
+    "56": {
+      "description": "Raising stars boosts abilities, improving the quality and quantity of chests obtained from quests.",
+      "sheetName": "Promote",
+      "id": 56
+    },
+    "106": {
+      "description": "You can obtain Skill Crystals by defeating Plague Rats in the valley. After collecting enough Skill Crystals, you can learn Valley Skills. Each level has two skills, but you can only choose one. The Lv.1-Lv.4 skills are passive skills that take effect automatically after learning, while the Lv.5 skill is an active skill that you must cast manually!",
+      "sheetName": "Crystal Skill",
+      "id": 106
+    },
+    "54": {
+      "description": "Engage in battles with Doctors from different alliances in the world, such as plundering territories or attacking resource points. Battles may deplete your soldiers, so proceed with caution!",
+      "sheetName": "Battle",
+      "id": 54
+    },
+    "113": {
+      "description": "4. Supreme Honor: Crown the King of Battle",
+      "id": 113
+    },
+    "123": {
+      "description": "Lords gain Specialty Exp by defeating monsters in the World. Accumulate Specialty EXP to increase Specialty Level. Each Specialty Level gain grants Specialty Skill Points. Upon reaching the designated Specialty Level, Lords can manually use Specialty Skill Points to activate Specialty Skills.",
+      "sheetName": "Specialty Level",
+      "id": 123
+    },
+    "122": {
+      "description": "Specialty Skills: Each Specialty possesses unique Specialty Skills. Gaining a Specialty Level grants Specialty Skill Points. Upon reaching the designated Specialty Level, Lords can manually use Specialty Skill Points to activate Specialty Skills. (Some Specialty Skills are Active Skills, requiring activation within the World or Main City)",
+      "sheetName": "Specialty Skill",
+      "id": 122
+    },
+    "91": {
+      "description": "During the Royal City battle, Alliance members can attack the city alone or in teams.",
+      "sheetName": "ATK",
+      "id": 91
+    },
+    "121": {
+      "description": "Era Skills: Activate Era Skills by upgrading your Specialty Level. Each Era Skill unlocks unique functions, accelerating your Sanctuary development while enhancing your personal capabilities.",
+      "sheetName": "Era Skill",
+      "id": 121
+    },
+    "124": {
+      "description": "Use a Specialty Reset Book to reset your current Specialty and select a different one. Upon reset, all Specialty Skills are cleared and must be relearned.",
+      "sheetName": "Specialty Reset",
+      "id": 124
+    },
+    "112": {
+      "description": "3. Battle phase: Wage siege or defend the Royal City to claim rich rewards;",
+      "id": 112
+    },
+    "105": {
+      "description": "Instant Crystal is a special Crystal Cluster in the valley that players can harvest quickly. It appears in six waves during the valley event at 10, 11, 12, 20, 21, and 22 minutes. It is a fast way to gain Purified Crystals during the event.",
+      "sheetName": "Instant Crystal Cluster",
+      "id": 105
+    },
+    "111": {
+      "description": "2. Prep phase: Earn points from daily modes to compete for your Kingdom's attack rights;",
+      "id": 111
+    },
+    "110": {
+      "description": "1. Match phase: Players are grouped by Kingdom;",
+      "id": 110
+    },
+    "107": {
+      "description": "In the valley, players cannot launch attacks or scout other players' main cities. Feel free to attack or gather resource points!",
+      "sheetName": "Main city cannot be attacked",
+      "id": 107
+    },
+    "103": {
+      "description": "You can relocate for free once every 360s, then enter cooldown. During cooldown, relocation requires Targeted Relocate items, with the cost increasing by 1 item each time based on the previous use, up to 5 items per relocation.",
+      "sheetName": "Free Relocate",
+      "id": 103
+    },
+    "104": {
+      "description": "Sacred Cave lies at the center of Crystal Cluster Valley. For the first 23 minutes after the valley opens, Sacred Cave is under protection. Once the protection ends, all players in the valley can march to the center to occupy Sacred Cave, but each player can dispatch only one team to contest it. Based on occupation ranking, the top 10 players receive a large amount of Purified Crystals as rewards, which is directly added to their total gathering amount during settlement!",
+      "sheetName": "Occupy Sacred Crystal Cave",
+      "id": 104
+    },
+    "102": {
+      "description": "Crystal Cluster Valley contains Lv.1–Lv.3 clusters. Higher levels purify Purified Crystals faster, and the total Purified Crystals decides the final outcome. Unoccupied clusters are guarded. Defeat the defenders before you can harvest them!",
+      "sheetName": "Attack/Scout Crystal Cluster",
+      "id": 102
+    },
+    "101": {
+      "description": "Two types of Plague Rats lurk in Crystal Cluster Valley. Defeating monsters in the valley grants Skill Crystals, which upgrade Valley Skills and help you dominate the valley!",
+      "sheetName": "Attack Npc",
+      "id": 101
+    },
+    "120": {
+      "description": "Specialty Selection:\nHandyman: All development relies on technological progress. Craftsmen earn respect through exceptional talent, becoming indispensable pillars of their cities.\nLegion Commander: Before absolute power, all other voices fade to insignificance. Formidable commanders sweep away all obstacles and conquer all directions.",
+      "sheetName": "Specialty Choice",
+      "id": 120
+    },
+    "92": {
+      "description": "Conquer and maintain control of the Royal City to achieve ultimate victory in the Royal City Scramble!",
+      "sheetName": "Occupy",
+      "id": 92
+    },
+    "74": {
+      "description": "Once City DEF is depleted, total points from defeating the garrison and reducing durability will be tallied. The alliance with the highest points takes control of the city.",
+      "sheetName": "Capture City",
+      "id": 74
+    },
+    "84": {
+      "description": "In the world thumbnail, view completed quest points, with different colors for quest bubbles of varying quality.",
+      "sheetName": "Search",
+      "id": 84
+    },
+    "94": {
+      "description": "Royal City Scramble Rules:\n1, The Royal City Scramble opens once a week, and only alliances occupying Lv.6 cities are eligible to participate.\n2, The Royal City Scramble lasts for 8 hours. The first alliance to occupy for 4 hours, or the one with the longest total occupation time by the end, will be the ultimate victor.\n3, The leader of the victorious alliance becomes the King.\n4, The Royal City is surrounded by the Cursed Land, and territories relocated there cannot activate shields, while the Falcon Tower ceases operation, halting exploration quests.",
+      "sheetName": "Rules",
+      "id": 94
+    },
+    "72": {
+      "description": "During a siege, defeat the city's garrison first. The garrison is strong, so proceed with caution.",
+      "sheetName": "Defeat the Garrison",
+      "id": 72
+    },
+    "82": {
+      "description": "Completed quest points will show a chest bubble. Tap the bubble to steal generous rewards. Note: Each quest can be stolen once per person per day.",
+      "sheetName": "Steal",
+      "id": 82
+    },
+    "52": {
+      "description": "Completing various quests in the Falcon Tower grants generous rewards.",
+      "sheetName": "Falcon Tower",
+      "id": 52
+    },
+    "62": {
+      "description": "Attack cities, defeat garrisons, and deplete durability to earn participation rewards.",
+      "sheetName": "Siege",
+      "id": 62
+    }
+  },
+  "len": 50,
+  "key": "id",
+  "source_format": "locale rows"
+}

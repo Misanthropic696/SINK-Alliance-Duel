@@ -1,0 +1,651 @@
+{
+  "first": 1,
+  "isNeedTransform": false,
+  "len": 37,
+  "key": "id",
+  "data": {
+    "9004": {
+      "weight": 0,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 999,
+      "type": 1,
+      "id": 9004,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "type": 1043
+        }
+      },
+      "model": {
+        "1": 79
+      },
+      "minCastleLevel": 1
+    },
+    "30": {
+      "weight": 20,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 30,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "20": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 20,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "22": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 22,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "12": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 2,
+      "id": 12,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "24": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 24,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "14": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 14,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "8": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 1,
+      "id": 8,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "9": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 1,
+      "id": 9,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "6": {
+      "weight": 15,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 2,
+      "id": 6,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "7": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 1,
+      "id": 7,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "10": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 2,
+      "id": 10,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "9003": {
+      "weight": 0,
+      "automaticPickUp": 1,
+      "maxCastleLevel": 999,
+      "type": 1,
+      "id": 9003,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "type": 90,
+          "count": 1,
+          "id": 30004
+        }
+      },
+      "model": {
+        "1": 77
+      },
+      "minCastleLevel": 1
+    },
+    "100001": {
+      "weight": 0,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 999,
+      "type": 2,
+      "id": 100001,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "count": 20,
+          "type": 1043
+        },
+        "2": {
+          "type": 1100001,
+          "count": 1,
+          "id": "10070"
+        },
+        "3": {
+          "type": 1100001,
+          "count": 1,
+          "id": "10033"
+        }
+      },
+      "model": {
+        "1": 86,
+        "2": 100
+      },
+      "minCastleLevel": 1
+    },
+    "1": {
+      "weight": 10,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 1,
+      "id": 1,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "16": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 16,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "28": {
+      "weight": 20,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 28,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "18": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 18,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "26": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 26,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "100004": {
+      "weight": 0,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 999,
+      "type": 1,
+      "id": 100004,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "count": 20,
+          "type": 1043
+        },
+        "2": {
+          "type": 90,
+          "count": 1,
+          "id": 40002
+        }
+      },
+      "model": {
+        "1": 71
+      },
+      "minCastleLevel": 1
+    },
+    "21": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 21,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "13": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 1,
+      "id": 13,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "23": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 23,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "15": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 15,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "25": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 25,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "9001": {
+      "weight": 0,
+      "automaticPickUp": 1,
+      "maxCastleLevel": 999,
+      "type": 2,
+      "id": 9001,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "type": 90,
+          "count": 1,
+          "id": 40010
+        },
+        "2": {
+          "type": 1100001,
+          "count": 1,
+          "id": "10385"
+        }
+      },
+      "model": {
+        "1": 78,
+        "2": 76
+      },
+      "minCastleLevel": 1
+    },
+    "11": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 8,
+      "type": 2,
+      "id": 11,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 800,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 3
+    },
+    "9002": {
+      "weight": 0,
+      "automaticPickUp": 1,
+      "maxCastleLevel": 999,
+      "type": 1,
+      "id": 9002,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "type": 90,
+          "count": 1,
+          "id": 30001
+        }
+      },
+      "model": {
+        "1": 74
+      },
+      "minCastleLevel": 1
+    },
+    "5": {
+      "weight": 15,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 2,
+      "id": 5,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "4": {
+      "weight": 15,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 1,
+      "id": 4,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "3": {
+      "weight": 10,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 1,
+      "id": 3,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "200001": {
+      "weight": 0,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 999,
+      "type": 2,
+      "id": 200001,
+      "useType": 8,
+      "rewards": {
+        "1": {
+          "count": 20,
+          "type": 1043
+        },
+        "2": {
+          "type": 1100001,
+          "count": 1,
+          "id": "10108"
+        },
+        "3": {
+          "type": 1100001,
+          "count": 1,
+          "id": "10309"
+        }
+      },
+      "model": {
+        "1": 90,
+        "2": 101
+      },
+      "minCastleLevel": 1
+    },
+    "2": {
+      "weight": 10,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 5,
+      "type": 2,
+      "id": 2,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 300,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 1
+    },
+    "29": {
+      "weight": 20,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 29,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "17": {
+      "weight": 120,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 2,
+      "id": 17,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "27": {
+      "weight": 50,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 27,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    },
+    "19": {
+      "weight": 100,
+      "automaticPickUp": 0,
+      "maxCastleLevel": 99,
+      "type": 1,
+      "id": 19,
+      "useType": 2,
+      "rewards": {
+        "1": {
+          "count": 2000,
+          "type": 1043
+        }
+      },
+      "model": {},
+      "minCastleLevel": 9
+    }
+  },
+  "excelName": "Clinic_诊所"
+}

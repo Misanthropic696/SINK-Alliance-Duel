@@ -1,0 +1,529 @@
+{
+  "data": {
+    "1001": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_part"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1001
+    },
+    "1307": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_castleBox_HeroEXP_3"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1307
+    },
+    "1103": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1103
+    },
+    "1208": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_strength001_50"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1208
+    },
+    "1008": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_strength001_50"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1008
+    },
+    "1006": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 12,
+          "id": "item_research_info"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1006
+    },
+    "1102": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 40,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1102
+    },
+    "1004": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 8,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1004
+    },
+    "1110": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1110
+    },
+    "1005": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1005
+    },
+    "1209": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 108,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1209
+    },
+    "1302": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 40,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1302
+    },
+    "1205": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1205
+    },
+    "1009": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 108,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1009
+    },
+    "1207": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_castleBox_HeroEXP_3"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1207
+    },
+    "1007": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_castleBox_HeroEXP_3"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1007
+    },
+    "1003": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1003
+    },
+    "1101": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_part"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1101
+    },
+    "1108": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_strength001_50"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1108
+    },
+    "1301": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_part"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1301
+    },
+    "1310": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1310
+    },
+    "1202": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 40,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1202
+    },
+    "1309": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 108,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1309
+    },
+    "1002": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 40,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1002
+    },
+    "1010": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "associatedGiftPackID": 841500001,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1010
+    },
+    "1308": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_strength001_50"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1308
+    },
+    "1210": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1210
+    },
+    "1306": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 12,
+          "id": "item_research_info"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1306
+    },
+    "1305": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1305
+    },
+    "1104": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 8,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1104
+    },
+    "1303": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1303
+    },
+    "1304": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 8,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "associatedGiftPackID": 841500004,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1304
+    },
+    "1206": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 12,
+          "id": "item_research_info"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1206
+    },
+    "1204": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 8,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1204
+    },
+    "1203": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1203
+    },
+    "1201": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_part"
+        }
+      },
+      "associatedGiftPackID": 841500003,
+      "switchId": "",
+      "optionalQuantity": 2,
+      "id": 1201
+    },
+    "1105": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1105
+    },
+    "1107": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 7,
+          "id": "item_castleBox_HeroEXP_3"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1107
+    },
+    "1109": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 108,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1109
+    },
+    "1106": {
+      "item": {
+        "1": {
+          "type": 99,
+          "count": 12,
+          "id": "item_research_info"
+        }
+      },
+      "associatedGiftPackID": 841500002,
+      "switchId": "",
+      "optionalQuantity": 4,
+      "id": 1106
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1001,
+  "excelName": "Gift_礼包表",
+  "len": 40,
+  "key": "id"
+}

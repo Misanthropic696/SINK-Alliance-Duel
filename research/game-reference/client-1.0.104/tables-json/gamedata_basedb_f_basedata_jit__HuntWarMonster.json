@@ -1,0 +1,1719 @@
+{
+  "key": "id",
+  "len": 90,
+  "data": {
+    "20503": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20503,
+      "difficulty": 5,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652053,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10402": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10402,
+      "difficulty": 4,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651042,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20402": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20402,
+      "difficulty": 4,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652042,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10905": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10905,
+      "difficulty": 9,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651095,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20905": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20905,
+      "difficulty": 9,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652095,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10504": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10504,
+      "difficulty": 5,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651054,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20504": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20504,
+      "difficulty": 5,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652054,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20205": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20205,
+      "difficulty": 2,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652025,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10503": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10503,
+      "difficulty": 5,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651053,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20804": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20804,
+      "difficulty": 8,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652084,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10804": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10804,
+      "difficulty": 8,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651084,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10205": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10205,
+      "difficulty": 2,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651025,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20404": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20404,
+      "difficulty": 4,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652044,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20505": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20505,
+      "difficulty": 5,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652055,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10505": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10505,
+      "difficulty": 5,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651055,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20304": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20304,
+      "difficulty": 3,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652034,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10105": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10105,
+      "difficulty": 1,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651015,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20801": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20801,
+      "difficulty": 8,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652081,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20803": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20803,
+      "difficulty": 8,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652083,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20403": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20403,
+      "difficulty": 4,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652043,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10403": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10403,
+      "difficulty": 4,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651043,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10902": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10902,
+      "difficulty": 9,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651092,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10202": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10202,
+      "difficulty": 2,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651022,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20703": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20703,
+      "difficulty": 7,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652073,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10803": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10803,
+      "difficulty": 8,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651083,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10801": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10801,
+      "difficulty": 8,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651081,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10102": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10102,
+      "difficulty": 1,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651012,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20405": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20405,
+      "difficulty": 4,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652045,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10502": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10502,
+      "difficulty": 5,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651052,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20502": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20502,
+      "difficulty": 5,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652052,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10703": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10703,
+      "difficulty": 7,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651073,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10203": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10203,
+      "difficulty": 2,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651023,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20102": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20102,
+      "difficulty": 1,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652012,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10604": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10604,
+      "difficulty": 6,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651064,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10802": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10802,
+      "difficulty": 8,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651082,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20701": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20701,
+      "difficulty": 7,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652071,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10904": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10904,
+      "difficulty": 9,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651094,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10103": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10103,
+      "difficulty": 1,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651013,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10705": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10705,
+      "difficulty": 7,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651075,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10204": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10204,
+      "difficulty": 2,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651024,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10301": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10301,
+      "difficulty": 3,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651031,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10702": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10702,
+      "difficulty": 7,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651072,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20702": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20702,
+      "difficulty": 7,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652072,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10302": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10302,
+      "difficulty": 3,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651032,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10701": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10701,
+      "difficulty": 7,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651071,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10605": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10605,
+      "difficulty": 6,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651065,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10104": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10104,
+      "difficulty": 1,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651014,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20904": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20904,
+      "difficulty": 9,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652094,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20903": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20903,
+      "difficulty": 9,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652093,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20902": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20902,
+      "difficulty": 9,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652092,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20704": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20704,
+      "difficulty": 7,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652074,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20103": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20103,
+      "difficulty": 1,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652013,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10305": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10305,
+      "difficulty": 3,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651035,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10704": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10704,
+      "difficulty": 7,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651074,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20802": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20802,
+      "difficulty": 8,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652082,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20705": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20705,
+      "difficulty": 7,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652075,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20605": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20605,
+      "difficulty": 6,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652065,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20604": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20604,
+      "difficulty": 6,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652064,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20603": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20603,
+      "difficulty": 6,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652063,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10903": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10903,
+      "difficulty": 9,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651093,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20601": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20601,
+      "difficulty": 6,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652061,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20501": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20501,
+      "difficulty": 5,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652051,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20201": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20201,
+      "difficulty": 2,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652021,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20305": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20305,
+      "difficulty": 3,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652035,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20303": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20303,
+      "difficulty": 3,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652033,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20302": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20302,
+      "difficulty": 3,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652032,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20301": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20301,
+      "difficulty": 3,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652031,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20204": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20204,
+      "difficulty": 2,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652024,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20203": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20203,
+      "difficulty": 2,
+      "npcCount": 1,
+      "waveNo": 3,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652023,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20202": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20202,
+      "difficulty": 2,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652022,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10401": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10401,
+      "difficulty": 4,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651041,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20401": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20401,
+      "difficulty": 4,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652041,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20105": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20105,
+      "difficulty": 1,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652015,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20104": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20104,
+      "difficulty": 1,
+      "npcCount": 1,
+      "waveNo": 4,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652014,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "20901": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20901,
+      "difficulty": 9,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652091,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10304": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10304,
+      "difficulty": 3,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651034,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20602": {
+      "atkDamBase": 50000,
+      "killDropTimes": 1,
+      "id": 20602,
+      "difficulty": 6,
+      "npcCount": 1,
+      "waveNo": 2,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652062,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10602": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10602,
+      "difficulty": 6,
+      "npcCount": 30,
+      "waveNo": 2,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651062,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20101": {
+      "atkDamBase": 40000,
+      "killDropTimes": 1,
+      "id": 20101,
+      "difficulty": 1,
+      "npcCount": 1,
+      "waveNo": 1,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652011,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10501": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10501,
+      "difficulty": 5,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651051,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10303": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10303,
+      "difficulty": 3,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651033,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10101": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10101,
+      "difficulty": 1,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651011,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10404": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10404,
+      "difficulty": 4,
+      "npcCount": 30,
+      "waveNo": 4,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651044,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10603": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10603,
+      "difficulty": 6,
+      "npcCount": 30,
+      "waveNo": 3,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651063,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10601": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10601,
+      "difficulty": 6,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651061,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10405": {
+      "atkDamBase": 20000,
+      "killDropTimes": 1,
+      "id": 10405,
+      "difficulty": 4,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651045,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10805": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10805,
+      "difficulty": 8,
+      "npcCount": 30,
+      "waveNo": 5,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651085,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "20805": {
+      "atkDamBase": 60000,
+      "killDropTimes": 1,
+      "id": 20805,
+      "difficulty": 8,
+      "npcCount": 1,
+      "waveNo": 5,
+      "killDropId": 52002,
+      "atkBaseReward": {},
+      "npcBaseId": 652085,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 1
+    },
+    "10201": {
+      "atkDamBase": 10000,
+      "killDropTimes": 1,
+      "id": 10201,
+      "difficulty": 2,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651021,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    },
+    "10901": {
+      "atkDamBase": 30000,
+      "killDropTimes": 1,
+      "id": 10901,
+      "difficulty": 9,
+      "npcCount": 30,
+      "waveNo": 1,
+      "killDropId": 52001,
+      "atkBaseReward": {},
+      "npcBaseId": 651091,
+      "showReward": {
+        "1": {
+          "id": "item_Resource_allianceCoin_500",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "type": 0
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_HuntWar_围猎之战",
+  "first": 10101
+}

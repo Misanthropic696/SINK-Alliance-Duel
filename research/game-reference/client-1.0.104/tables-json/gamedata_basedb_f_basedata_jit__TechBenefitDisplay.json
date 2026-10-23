@@ -1,0 +1,1289 @@
+{
+  "first": 1,
+  "enum": {
+    "ATTRGROUP": {
+      "ATTACKATTR": 2,
+      "BASEATTR": 1,
+      "DEFENDATTR": 3
+    },
+    "CAMPTYPE": {
+      "MEDIUM": 2,
+      "ALL": 0,
+      "LIGHT": 1,
+      "HEAVY": 3
+    },
+    "VALUETYPE": {
+      "TIME": 3,
+      "NUMBER": 1,
+      "PERCENT": 2
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "Benefit_SLG加成属性配置表",
+  "key": "id",
+  "len": 19,
+  "data": {
+    "1": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {
+        "401": {
+          "1": 10091
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10071
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10081
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10018,
+      "id": 1,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10018
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 175000,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10061
+        }
+      },
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "18": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10099,
+      "id": 18,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10099
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 92000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "19": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10100,
+      "id": 19,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10100
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "16": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10097,
+      "id": 16,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10097
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 17500,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "17": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10098,
+      "id": 17,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10098
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 52500,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "15": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10022,
+      "id": 15,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10022,
+          "2": 10017
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "14": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10066
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10150
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10136
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10143
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10086
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10076
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10016,
+      "id": 14,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10085
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10075
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10065
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10016,
+          "2": 10007
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10055
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 87800,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10129
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10056
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "13": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10064
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10149
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10135
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10142
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10084
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10074
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10015,
+      "id": 13,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10083
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10073
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10063
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10015,
+          "2": 10006
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10053
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10128
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10054
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "12": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10068
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10151
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10137
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10144
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10088
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10078
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10014,
+      "id": 12,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10087
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10077
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10067
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10014,
+          "2": 10005
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10057
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 263500,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10130
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10058
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "10": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10066
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10150
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10136
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10143
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10086
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10076
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10013,
+      "id": 10,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10085
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10075
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10065
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10013,
+          "2": 10007
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10055
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 87800,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10129
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10056
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "11": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10021,
+      "id": 11,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10021,
+          "2": 10017
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "3": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10023,
+      "id": 3,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10023
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 1050000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "2": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {
+        "401": {
+          "1": 10092
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10072
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10082
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10019,
+      "id": 2,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10019
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 175000,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10062
+        }
+      },
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "5": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10064
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10149
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10135
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10142
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10084
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10074
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10009,
+      "id": 5,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10083
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10073
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10063
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10009,
+          "2": 10006
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10053
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10128
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10054
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "4": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10068
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10151
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10137
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10144
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10088
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10078
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10008,
+      "id": 4,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10087
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10077
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10067
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10008,
+          "2": 10005
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10057
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 263500,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10130
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10058
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "7": {
+      "percentBenefitsdef2": {},
+      "percentBenefits4": {},
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {},
+      "percentBenefits3": {},
+      "valueType": 2,
+      "percentBenefitsdef4": {},
+      "percentBenefitsdef3": {},
+      "benefitType": 10020,
+      "id": 7,
+      "percentBenefitsatk4": {},
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {},
+      "percentBenefitsatk2": {},
+      "baseBenefits": {
+        "401": {
+          "1": 10020,
+          "2": 10017
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {},
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {},
+      "percentBenefitsdef1": {},
+      "benefitSourceDesc": ""
+    },
+    "6": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10066
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10150
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10136
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10143
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10086
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10076
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10010,
+      "id": 6,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10085
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10075
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10065
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10010,
+          "2": 10007
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10055
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 87800,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10129
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10056
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "9": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10064
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10149
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10135
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10142
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10084
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10074
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10012,
+      "id": 9,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10083
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10073
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10063
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10012,
+          "2": 10006
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10053
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 350000,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10128
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10054
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    },
+    "8": {
+      "percentBenefitsdef2": {
+        "1": {
+          "1": 10068
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefits4": {
+        "401": {
+          "1": 10151
+        }
+      },
+      "benefitTypeDesc": "",
+      "campType": 0,
+      "benefitSource": 401,
+      "percentBenefits2": {
+        "401": {
+          "1": 10137
+        }
+      },
+      "percentBenefits3": {
+        "401": {
+          "1": 10144
+        }
+      },
+      "valueType": 2,
+      "percentBenefitsdef4": {
+        "1": {
+          "1": 10088
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "percentBenefitsdef3": {
+        "1": {
+          "1": 10078
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitType": 10011,
+      "id": 8,
+      "percentBenefitsatk4": {
+        "1": {
+          "1": 10087
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "attrGroupDesc": "",
+      "percentBenefitsatk3": {
+        "1": {
+          "1": 10077
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "percentBenefitsatk2": {
+        "1": {
+          "1": 10067
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "baseBenefits": {
+        "401": {
+          "1": 10011,
+          "2": 10005
+        }
+      },
+      "percentBenefits": {},
+      "percentBenefitsatk1": {
+        "1": {
+          "1": 10057
+        },
+        "25": {
+          "1": 6102
+        }
+      },
+      "tech_power": 263500,
+      "attrGroup": 0,
+      "percentBenefits1": {
+        "401": {
+          "1": 10130
+        }
+      },
+      "percentBenefitsdef1": {
+        "1": {
+          "1": 10058
+        },
+        "25": {
+          "1": 6103
+        }
+      },
+      "benefitSourceDesc": ""
+    }
+  }
+}

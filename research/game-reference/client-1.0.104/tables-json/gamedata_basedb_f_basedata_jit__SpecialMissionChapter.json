@@ -1,0 +1,39 @@
+{
+  "excelName": "SpecialMission_前线突围",
+  "len": 4,
+  "data": {
+    "3": {
+      "levelType": 1,
+      "id": 3,
+      "bgImage": "UI_Sprite/Bg/SpecialMission/front_bg_map_3.png",
+      "chapter": 3
+    },
+    "2": {
+      "levelType": 1,
+      "id": 2,
+      "bgImage": "UI_Sprite/Bg/SpecialMission/front_bg_map_2.png",
+      "chapter": 2
+    },
+    "1": {
+      "levelType": 1,
+      "id": 1,
+      "bgImage": "UI_Sprite/Bg/SpecialMission/front_bg_map_1.png",
+      "chapter": 1
+    },
+    "4": {
+      "levelType": 1,
+      "id": 4,
+      "bgImage": "UI_Sprite/Bg/SpecialMission/front_bg_map_1.png",
+      "chapter": 4
+    }
+  },
+  "key": "id",
+  "isNeedTransform": false,
+  "first": 1,
+  "enum": {
+    "LEVELTYPE": {
+      "MAIN": 2,
+      "TEST": 1
+    }
+  }
+}

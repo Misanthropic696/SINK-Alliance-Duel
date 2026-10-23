@@ -1,0 +1,20 @@
+{
+  "data": {
+    "1001": {
+      "checkParam": {
+        "1": {
+          "itemId": "item_heroExp_5k"
+        }
+      },
+      "guideStep": "ClinicResTrigger_1001",
+      "id": 1001,
+      "type": 1,
+      "eventId": 2
+    }
+  },
+  "excelName": "Clinic_诊所",
+  "len": 1,
+  "first": 1001,
+  "key": "id",
+  "isNeedTransform": false
+}

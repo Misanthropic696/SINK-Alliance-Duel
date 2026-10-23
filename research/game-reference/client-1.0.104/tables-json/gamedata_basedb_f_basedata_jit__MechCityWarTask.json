@@ -1,0 +1,539 @@
+{
+  "key": "id",
+  "data": {
+    "1001": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1001,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 1
+    },
+    "1003": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1003,
+      "target": {
+        "1": {
+          "param1": "3",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 3
+    },
+    "1012": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1012,
+      "target": {
+        "1": {
+          "param2": "4",
+          "param1": "1",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 5
+    },
+    "1004": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1004,
+      "target": {
+        "1": {
+          "param1": "6",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 4
+    },
+    "1007": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1007,
+      "target": {
+        "1": {
+          "param2": "3",
+          "param1": "3",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 50,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 50,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 7
+    },
+    "1010": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1010,
+      "target": {
+        "1": {
+          "param1": "3",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 3
+    },
+    "1009": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1009,
+      "target": {
+        "1": {
+          "param1": "2",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 2
+    },
+    "1006": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1006,
+      "target": {
+        "1": {
+          "param2": "3",
+          "param1": "2",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 40,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 6
+    },
+    "1002": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1002,
+      "target": {
+        "1": {
+          "param1": "2",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 2
+    },
+    "1011": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1011,
+      "target": {
+        "1": {
+          "param1": "4",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 4
+    },
+    "1013": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1013,
+      "target": {
+        "1": {
+          "param2": "5",
+          "param1": "1",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 40,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 6
+    },
+    "1014": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1014,
+      "target": {
+        "1": {
+          "param2": "6",
+          "param1": "1",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 50,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 50,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 7
+    },
+    "1008": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1008,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "200201"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010002,
+      "showSort": 1
+    },
+    "1005": {
+      "functionId": "citywar_task_open_list",
+      "taskName": "",
+      "id": 1005,
+      "target": {
+        "1": {
+          "param2": "3",
+          "param1": "1",
+          "id": "200202"
+        }
+      },
+      "reward": {
+        "1": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_build_5m"
+        },
+        "2": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "3": {
+          "count": 100,
+          "type": 12
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "activityId": 670010001,
+      "showSort": 5
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "MechCityWar_城市战",
+  "len": 14,
+  "first": 1001
+}

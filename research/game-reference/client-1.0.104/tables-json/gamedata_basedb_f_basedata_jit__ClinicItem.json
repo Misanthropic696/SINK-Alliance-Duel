@@ -1,0 +1,57 @@
+{
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "Clinic_诊所",
+  "first": 200,
+  "len": 6,
+  "data": {
+    "201": {
+      "carrierModel": "zhiwujia_01",
+      "stackSpaced": 0.3,
+      "id": 201,
+      "transportNum": 1,
+      "model": "yaobao_01",
+      "icon": "icon_yaobao"
+    },
+    "1000": {
+      "carrierModel": "",
+      "stackSpaced": 0.2,
+      "id": 1000,
+      "transportNum": -1,
+      "model": "tangwan_01",
+      "icon": "icon_butang"
+    },
+    "1001": {
+      "carrierModel": "",
+      "stackSpaced": 0.57,
+      "id": 1001,
+      "transportNum": -1,
+      "model": "yaoping_01",
+      "icon": "icon_yaoji"
+    },
+    "200": {
+      "carrierModel": "",
+      "stackSpaced": 0.45,
+      "id": 200,
+      "transportNum": -1,
+      "model": "yaoxiang_01",
+      "icon": "icon_yaopinxiang"
+    },
+    "202": {
+      "carrierModel": "zhiwujia_02",
+      "stackSpaced": 0.3,
+      "id": 202,
+      "transportNum": 1,
+      "model": "shuibei_01",
+      "icon": "icon_shuibei"
+    },
+    "1002": {
+      "carrierModel": "",
+      "stackSpaced": 0.52,
+      "id": 1002,
+      "transportNum": 20,
+      "model": "texiaoyao_01",
+      "icon": "icon_power"
+    }
+  }
+}

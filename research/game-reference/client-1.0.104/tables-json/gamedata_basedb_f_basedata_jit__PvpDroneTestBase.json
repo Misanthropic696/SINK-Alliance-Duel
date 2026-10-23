@@ -1,0 +1,29 @@
+{
+  "excelName": "Z-战斗pvp测试",
+  "len": 4,
+  "key": "id",
+  "isNeedTransform": false,
+  "data": {
+    "2003": {
+      "droneAttrInfo": "3_6341723|1_44356|2_39355",
+      "droneSkill": 4000006,
+      "id": 2003
+    },
+    "2001": {
+      "droneAttrInfo": "3_675863|1_11772|2_4825",
+      "droneSkill": 4000003,
+      "id": 2001
+    },
+    "2004": {
+      "droneAttrInfo": "3_7795250|1_55002|2_50005",
+      "droneSkill": 4000006,
+      "id": 2004
+    },
+    "2002": {
+      "droneAttrInfo": "3_7795250|1_55002|2_50005",
+      "droneSkill": 4000006,
+      "id": 2002
+    }
+  },
+  "first": 2001
+}

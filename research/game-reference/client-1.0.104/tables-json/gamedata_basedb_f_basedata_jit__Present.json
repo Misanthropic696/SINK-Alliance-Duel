@@ -1,0 +1,50 @@
+{
+  "isNeedTransform": true,
+  "excelName": "Present_礼物表",
+  "data": {
+    "1": {
+      "type": 1,
+      "Activity": {},
+      "points": 0,
+      "id": 1,
+      "quality": 4,
+      "reward": {
+        "1": {}
+      },
+      "order": 1,
+      "Name": "",
+      "Icon": ""
+    },
+    "2": {
+      "type": 2,
+      "Activity": {},
+      "points": 1,
+      "id": 2,
+      "quality": 4,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_present_Rose",
+          "count": 1
+        }
+      },
+      "order": 2,
+      "Name": "",
+      "Icon": "gift_Rose_1"
+    }
+  },
+  "key": "id",
+  "enum": {
+    "QUALITY": {
+      "BLUE": 3,
+      "WHITE": 1,
+      "GREEN": 2,
+      "RED": 6,
+      "PURPLE": 4,
+      "ORANGE": 5,
+      "NOQUALITY": 0
+    }
+  },
+  "first": 1,
+  "len": 2
+}

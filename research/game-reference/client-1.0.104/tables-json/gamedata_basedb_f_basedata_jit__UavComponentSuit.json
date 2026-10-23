@@ -1,0 +1,668 @@
+{
+  "isNeedTransform": true,
+  "key": "id",
+  "len": 24,
+  "first": 1,
+  "data": {
+    "3": {
+      "level": 3,
+      "power": 7500,
+      "quality": 3,
+      "id": 3,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2103,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 28800
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 16000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 114
+        }
+      }
+    },
+    "2": {
+      "level": 2,
+      "power": 3800,
+      "quality": 2,
+      "id": 2,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2102,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 14400
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 8000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 57
+        }
+      }
+    },
+    "5": {
+      "level": 5,
+      "power": 18800,
+      "quality": 5,
+      "id": 5,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2105,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 72000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 40000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 286
+        }
+      }
+    },
+    "4": {
+      "level": 4,
+      "power": 15000,
+      "quality": 4,
+      "id": 4,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2104,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 57600
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 32000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 229
+        }
+      }
+    },
+    "7": {
+      "level": 7,
+      "power": 41400,
+      "quality": 5,
+      "id": 7,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2107,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 158400
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 88000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 629
+        }
+      }
+    },
+    "6": {
+      "level": 6,
+      "power": 28200,
+      "quality": 5,
+      "id": 6,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2106,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 108000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 60000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 429
+        }
+      }
+    },
+    "9": {
+      "level": 9,
+      "power": 84600,
+      "quality": 6,
+      "id": 9,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2109,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 324000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 180000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 1287
+        }
+      }
+    },
+    "8": {
+      "level": 8,
+      "power": 56400,
+      "quality": 6,
+      "id": 8,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2108,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 216000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 120000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 858
+        }
+      }
+    },
+    "1": {
+      "level": 1,
+      "power": 1900,
+      "quality": 1,
+      "id": 1,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2101,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 7200
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 4000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 29
+        }
+      }
+    },
+    "10": {
+      "level": 10,
+      "power": 112800,
+      "quality": 6,
+      "id": 10,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2110,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 432000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 240000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 1716
+        }
+      }
+    },
+    "11": {
+      "level": 11,
+      "power": 146700,
+      "quality": 6,
+      "id": 11,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2111,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 561600
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 312000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 2231
+        }
+      }
+    },
+    "24": {
+      "level": 12,
+      "power": 136200,
+      "quality": 6,
+      "id": 24,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2212,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 5150
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 2860
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 5150
+        }
+      }
+    },
+    "23": {
+      "level": 11,
+      "power": 106200,
+      "quality": 6,
+      "id": 23,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2211,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 4017
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 2231
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 4017
+        }
+      }
+    },
+    "22": {
+      "level": 10,
+      "power": 81700,
+      "quality": 6,
+      "id": 22,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2210,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 3090
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 1716
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 3090
+        }
+      }
+    },
+    "21": {
+      "level": 9,
+      "power": 61300,
+      "quality": 6,
+      "id": 21,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2209,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 2318
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 1287
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 2318
+        }
+      }
+    },
+    "20": {
+      "level": 8,
+      "power": 40900,
+      "quality": 6,
+      "id": 20,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2208,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 1545
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 858
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 1545
+        }
+      }
+    },
+    "15": {
+      "level": 3,
+      "power": 5400,
+      "quality": 3,
+      "id": 15,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2203,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 206
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 114
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 206
+        }
+      }
+    },
+    "14": {
+      "level": 2,
+      "power": 2700,
+      "quality": 2,
+      "id": 14,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2202,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 103
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 57
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 103
+        }
+      }
+    },
+    "13": {
+      "level": 1,
+      "power": 1400,
+      "quality": 1,
+      "id": 13,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2201,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 52
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 29
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 52
+        }
+      }
+    },
+    "12": {
+      "level": 12,
+      "power": 188000,
+      "quality": 6,
+      "id": 12,
+      "icon": "icon_shr_xinpian7_1",
+      "UavSuitId": 2112,
+      "suitSlot": 0,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10156,
+          "Source": 811,
+          "Value": 720000
+        },
+        "2": {
+          "Type": 10002,
+          "Source": 811,
+          "Value": 400000
+        },
+        "3": {
+          "Type": 10004,
+          "Source": 811,
+          "Value": 2860
+        }
+      }
+    },
+    "16": {
+      "level": 4,
+      "power": 10900,
+      "quality": 4,
+      "id": 16,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2204,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 412
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 229
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 412
+        }
+      }
+    },
+    "17": {
+      "level": 5,
+      "power": 13600,
+      "quality": 5,
+      "id": 17,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2205,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 515
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 286
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 515
+        }
+      }
+    },
+    "18": {
+      "level": 6,
+      "power": 20400,
+      "quality": 5,
+      "id": 18,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2206,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 773
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 429
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 773
+        }
+      }
+    },
+    "19": {
+      "level": 7,
+      "power": 30000,
+      "quality": 5,
+      "id": 19,
+      "icon": "icon_shr_xinpian8_1",
+      "UavSuitId": 2207,
+      "suitSlot": 1,
+      "name": "",
+      "componentBenefit": {
+        "1": {
+          "Type": 10157,
+          "Source": 811,
+          "Value": 1133
+        },
+        "2": {
+          "Type": 10003,
+          "Source": 811,
+          "Value": 629
+        },
+        "3": {
+          "Type": 10158,
+          "Source": 811,
+          "Value": 1133
+        }
+      }
+    }
+  },
+  "excelName": "Uav_无人机",
+  "enum": {
+    "QUALITY": {
+      "WHITE": 1,
+      "NOQUALITY": 0,
+      "PURPLE": 4,
+      "BLUE": 3,
+      "GREEN": 2,
+      "ORANGE": 5,
+      "RED": 6
+    }
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "len": 5,
+  "excelName": "Task_任务",
+  "first": 1,
+  "key": "id",
+  "data": {
+    "5": {
+      "score": 100,
+      "id": 5,
+      "maxCastleLevel": 35,
+      "minCastleLevel": 1,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_SpeedUp_build_5m",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_decorations_box_01",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_allianceManeuvers_Part",
+          "type": 99
+        },
+        "5": {
+          "count": 60,
+          "type": 11
+        },
+        "6": {
+          "count": 10,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        },
+        "7": {
+          "count": 1,
+          "id": "item_present_Rose",
+          "type": 99
+        }
+      }
+    },
+    "4": {
+      "score": 80,
+      "id": 4,
+      "maxCastleLevel": 35,
+      "minCastleLevel": 1,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_SpeedUp_build_5m",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_UseUp_workerRecruitCoin",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_Escort_Convoy_Quality",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_secret_rescue_refresh",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "type": 11
+        },
+        "6": {
+          "count": 10,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      }
+    },
+    "1": {
+      "score": 20,
+      "id": 1,
+      "maxCastleLevel": 35,
+      "minCastleLevel": 1,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_SpeedUp_general_1m",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 6,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      }
+    },
+    "3": {
+      "score": 60,
+      "id": 3,
+      "maxCastleLevel": 35,
+      "minCastleLevel": 1,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_SpeedUp_build_5m",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "type": 11
+        },
+        "5": {
+          "count": 4,
+          "id": "item_drone_part",
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "score": 40,
+      "id": 2,
+      "maxCastleLevel": 35,
+      "minCastleLevel": 1,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_SpeedUp_general_1m",
+          "type": 99
+        },
+        "2": {
+          "count": 4,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 4,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_allianceManeuvers_Part",
+          "type": 99
+        },
+        "5": {
+          "count": 2,
+          "id": "item_drone_part",
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": false
+}

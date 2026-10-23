@@ -1,0 +1,37 @@
+{
+  "isNeedTransform": false,
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "data": {
+    "201": {
+      "personalLeaderBoard": 2010,
+      "taskGroupId": 20001,
+      "kingdomLeaderBoard": 2011,
+      "boardScore": 1,
+      "type": 2,
+      "stateRewardGroupId": 201,
+      "victoryMinutes": 480,
+      "targetConfigId": 2001,
+      "boardPara": 100,
+      "localPushId": "[4,5,6]",
+      "openingBaseLv": 12,
+      "id": 201
+    },
+    "5900101": {
+      "personalLeaderBoard": 0,
+      "taskGroupId": 10001,
+      "kingdomLeaderBoard": 0,
+      "boardScore": 0,
+      "type": 1,
+      "stateRewardGroupId": 101,
+      "victoryMinutes": 60,
+      "targetConfigId": 1001,
+      "boardPara": 0,
+      "localPushId": "[1,2,3]",
+      "openingBaseLv": 1,
+      "id": 5900101
+    }
+  },
+  "len": 2,
+  "first": 201,
+  "key": "id"
+}

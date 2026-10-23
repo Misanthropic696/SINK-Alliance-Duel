@@ -1,0 +1,146 @@
+{
+  "data": {
+    "3": {
+      "zoomLevels": {},
+      "icon": "Map_icon_player_3",
+      "worldUnitType": 10003,
+      "name": "",
+      "id": 3
+    },
+    "4": {
+      "zoomLevels": {
+        "1": 4,
+        "2": 5
+      },
+      "icon": "Map_icon_playerSmall_2",
+      "worldUnitType": 10002,
+      "name": "",
+      "id": 4
+    },
+    "5": {
+      "zoomLevels": {},
+      "icon": "Map_icon_playerSmall_3",
+      "worldUnitType": 10003,
+      "name": "",
+      "id": 5
+    },
+    "17": {
+      "zoomLevels": {
+        "1": 4,
+        "2": 5
+      },
+      "icon": "Map_icon_playerSmall_6",
+      "worldUnitType": 0,
+      "name": "",
+      "id": 17
+    },
+    "1": {
+      "zoomLevels": {
+        "1": 2,
+        "2": 3,
+        "3": 4,
+        "4": 5,
+        "5": 6
+      },
+      "icon": "Map_icon_player_1",
+      "worldUnitType": 10001,
+      "name": "",
+      "id": 1
+    },
+    "2": {
+      "zoomLevels": {
+        "1": 2,
+        "2": 3
+      },
+      "icon": "Map_icon_player_2",
+      "worldUnitType": 10002,
+      "name": "",
+      "id": 2
+    },
+    "15": {
+      "zoomLevels": {},
+      "icon": "Map_icon_resource_4",
+      "worldUnitType": 3,
+      "name": "",
+      "id": 15
+    },
+    "16": {
+      "zoomLevels": {
+        "1": 2,
+        "2": 3
+      },
+      "icon": "Map_icon_playerSmall_6",
+      "worldUnitType": 10004,
+      "name": "",
+      "id": 16
+    },
+    "13": {
+      "zoomLevels": {},
+      "icon": "Map_icon_resource_2",
+      "worldUnitType": 3,
+      "name": "",
+      "id": 13
+    },
+    "14": {
+      "zoomLevels": {},
+      "icon": "Map_icon_resource_3",
+      "worldUnitType": 3,
+      "name": "",
+      "id": 14
+    },
+    "10": {
+      "zoomLevels": {},
+      "icon": "Map_icon_monster_2",
+      "worldUnitType": 6,
+      "name": "",
+      "id": 10
+    },
+    "8": {
+      "zoomLevels": {},
+      "icon": "Map_icon_secretCommand_3",
+      "worldUnitType": 9917,
+      "name": "",
+      "id": 8
+    },
+    "12": {
+      "zoomLevels": {},
+      "icon": "Map_icon_resource_1",
+      "worldUnitType": 3,
+      "name": "",
+      "id": 12
+    },
+    "11": {
+      "zoomLevels": {},
+      "icon": "Map_icon_monster_3",
+      "worldUnitType": 7,
+      "name": "",
+      "id": 11
+    },
+    "9": {
+      "zoomLevels": {},
+      "icon": "Map_icon_monster_1",
+      "worldUnitType": 5,
+      "name": "",
+      "id": 9
+    },
+    "7": {
+      "zoomLevels": {},
+      "icon": "Map_icon_secretCommand_2",
+      "worldUnitType": 9916,
+      "name": "",
+      "id": 7
+    },
+    "6": {
+      "zoomLevels": {},
+      "icon": "Map_icon_secretCommand_1",
+      "worldUnitType": 9916,
+      "name": "",
+      "id": 6
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "World_大世界",
+  "first": 1,
+  "key": "id",
+  "len": 17
+}

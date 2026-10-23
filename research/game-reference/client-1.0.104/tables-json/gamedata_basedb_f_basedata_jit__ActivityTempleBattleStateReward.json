@@ -1,0 +1,359 @@
+{
+  "key": "id",
+  "isNeedTransform": true,
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "data": {
+    "5": {
+      "claimPermission": 1,
+      "lv": 1,
+      "congressType": 1,
+      "stateRewardType": 1,
+      "stateRewardGroupId": 201,
+      "name": "",
+      "icon": "icon_changpinbox06",
+      "reward": {
+        "1": {
+          "count": 5000,
+          "type": 12
+        },
+        "2": {
+          "count": 25,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 10,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 1,
+      "desc": "",
+      "id": 5
+    },
+    "6": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 1,
+      "stateRewardType": 2,
+      "stateRewardGroupId": 201,
+      "name": "",
+      "icon": "icon_changpinbox05",
+      "reward": {
+        "1": {
+          "count": 2500,
+          "type": 12
+        },
+        "2": {
+          "count": 11,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 25,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 25,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 25,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 5,
+      "desc": "",
+      "id": 6
+    },
+    "3": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 0,
+      "stateRewardType": 3,
+      "stateRewardGroupId": 101,
+      "name": "",
+      "icon": "icon_changpinbox04",
+      "reward": {
+        "1": {
+          "count": 1100,
+          "type": 12
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 10,
+      "desc": "",
+      "id": 3
+    },
+    "4": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 0,
+      "stateRewardType": 4,
+      "stateRewardGroupId": 101,
+      "name": "",
+      "icon": "icon_changpinbox03",
+      "reward": {
+        "1": {
+          "count": 400,
+          "type": 12
+        },
+        "2": {
+          "count": 9,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 9,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 20,
+      "desc": "",
+      "id": 4
+    },
+    "1": {
+      "claimPermission": 1,
+      "lv": 1,
+      "congressType": 0,
+      "stateRewardType": 1,
+      "stateRewardGroupId": 101,
+      "name": "",
+      "icon": "icon_changpinbox06",
+      "reward": {
+        "1": {
+          "count": 4800,
+          "type": 12
+        },
+        "2": {
+          "count": 24,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 45,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 1,
+      "desc": "",
+      "id": 1
+    },
+    "2": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 0,
+      "stateRewardType": 2,
+      "stateRewardGroupId": 101,
+      "name": "",
+      "icon": "icon_changpinbox05",
+      "reward": {
+        "1": {
+          "count": 2200,
+          "type": 12
+        },
+        "2": {
+          "count": 11,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 21,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 5,
+      "desc": "",
+      "id": 2
+    },
+    "7": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 1,
+      "stateRewardType": 3,
+      "stateRewardGroupId": 201,
+      "name": "",
+      "icon": "icon_changpinbox04",
+      "reward": {
+        "1": {
+          "count": 1250,
+          "type": 12
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 10,
+      "desc": "",
+      "id": 7
+    },
+    "8": {
+      "claimPermission": 0,
+      "lv": 1,
+      "congressType": 1,
+      "stateRewardType": 4,
+      "stateRewardGroupId": 201,
+      "name": "",
+      "icon": "icon_changpinbox03",
+      "reward": {
+        "1": {
+          "count": 500,
+          "type": 12
+        },
+        "2": {
+          "count": 9,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        },
+        "5": {
+          "count": 10,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        },
+        "6": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "sendAmount": 20,
+      "desc": "",
+      "id": 8
+    }
+  },
+  "len": 8,
+  "first": 1,
+  "enum": {
+    "TYPE": {
+      "TEMPLE": 0,
+      "ZONECONTEST": 1
+    }
+  }
+}

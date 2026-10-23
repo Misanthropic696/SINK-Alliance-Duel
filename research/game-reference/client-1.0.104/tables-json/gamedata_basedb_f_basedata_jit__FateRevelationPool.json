@@ -1,0 +1,25 @@
+{
+  "data": {
+    "1": {
+      "cost": {},
+      "actId": 1400020101,
+      "type": 1,
+      "freeTime": 1,
+      "id": 1,
+      "buffTime": 8
+    },
+    "2": {
+      "cost": {},
+      "actId": 1400020101,
+      "type": 2,
+      "freeTime": 1,
+      "id": 2,
+      "buffTime": 8
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_FateRevelation_命运启示",
+  "first": 1,
+  "len": 2,
+  "key": "id"
+}

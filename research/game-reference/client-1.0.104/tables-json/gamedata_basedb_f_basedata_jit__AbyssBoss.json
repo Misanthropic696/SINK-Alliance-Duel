@@ -1,0 +1,90 @@
+{
+  "key": "id",
+  "isNeedTransform": true,
+  "len": 3,
+  "excelName": "Activity_ABYSS_BOSS_新世界BOSS",
+  "data": {
+    "4400101": {
+      "benefitIconAtlas": "SpriteAtlas/UI_Hero.spriteatlas",
+      "visableTime": {
+        "1": 0,
+        "2": 24
+      },
+      "WorldBossBenefitIcon": "pic_sjboss_zy1",
+      "attackBossCount": 10,
+      "WorldBossTalk": {
+        "1": 1,
+        "2": 2,
+        "3": 3
+      },
+      "WorldBossMenuBenefitDes": "",
+      "maxMarchTime": 15,
+      "benefitValue": 0.5,
+      "activityId": 440010101,
+      "boardReward": 4400101,
+      "benefitDes": "",
+      "monsterId": 9001,
+      "WorldBossMenuIcon": "pic_sjboss_banner2",
+      "benefitIcon": "ico_yx_zyy3",
+      "taskGroupID": 10001,
+      "id": 4400101,
+      "damageReward": 1004,
+      "benefitType": 10022
+    },
+    "6400101": {
+      "benefitIconAtlas": "SpriteAtlas/UI_Hero.spriteatlas",
+      "visableTime": {
+        "1": 0,
+        "2": 24
+      },
+      "WorldBossBenefitIcon": "pic_sjboss_zy2",
+      "attackBossCount": 10,
+      "WorldBossTalk": {
+        "1": 4,
+        "2": 5,
+        "3": 6
+      },
+      "WorldBossMenuBenefitDes": "",
+      "maxMarchTime": 15,
+      "benefitValue": 0.5,
+      "activityId": 440010301,
+      "boardReward": 6400101,
+      "benefitDes": "",
+      "monsterId": 9003,
+      "WorldBossMenuIcon": "pic_sjboss_banner3",
+      "benefitIcon": "ico_yx_zyy1",
+      "taskGroupID": 10003,
+      "id": 6400101,
+      "damageReward": 1006,
+      "benefitType": 10020
+    },
+    "5400101": {
+      "benefitIconAtlas": "SpriteAtlas/UI_Hero.spriteatlas",
+      "visableTime": {
+        "1": 0,
+        "2": 24
+      },
+      "WorldBossBenefitIcon": "pic_sjboss_zy3",
+      "attackBossCount": 10,
+      "WorldBossTalk": {
+        "1": 7,
+        "2": 8,
+        "3": 9
+      },
+      "WorldBossMenuBenefitDes": "",
+      "maxMarchTime": 15,
+      "benefitValue": 0.5,
+      "activityId": 440010201,
+      "boardReward": 5400101,
+      "benefitDes": "",
+      "monsterId": 9002,
+      "WorldBossMenuIcon": "pic_sjboss_banner1",
+      "benefitIcon": "ico_yx_zyy2",
+      "taskGroupID": 10002,
+      "id": 5400101,
+      "damageReward": 1005,
+      "benefitType": 10021
+    }
+  },
+  "first": 4400101
+}

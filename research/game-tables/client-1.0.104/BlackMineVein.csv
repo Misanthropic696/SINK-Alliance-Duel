@@ -1,0 +1,7 @@
+﻿record_key,guardHeapId,speed,amount,name,level,npcId,effectName,maxLossNum,initCount,collectThreshold,id,mapIcon,type,scale,areaId,refreshRate,gatherHeapId
+1002,4|5|6,24,17280,Crystal Cluster,2,1200004,ranshuang_kuang_02,5000,84,5003,1002,pic_blackmine_kuangmai_2,0,0.28,3,1.2,8
+1001,1|2|3,12,8640,Crystal Cluster,1,1200003,ranshuang_kuang_01,4000,140,3500,1001,pic_blackmine_kuangmai_1,0,0.28,4,2,7
+2003,,200,4000,Instant Cluster,4,0,,0,0,0,2003,pic_blackmine_bengfakuangmai,1,0.28,2,1.2,
+1003,10|11|12,48,34560,Crystal Cluster,3,1200005,ranshuang_kuang_03,6000,28,10006,1003,pic_blackmine_kuangmai_3,0,0.28,2,0.4,9
+2001,,200,4000,Instant Cluster,4,0,,0,0,0,2001,pic_blackmine_bengfakuangmai,1,0.28,4,0.6,
+2002,,200,4000,Instant Cluster,4,0,,0,0,0,2002,pic_blackmine_bengfakuangmai,1,0.28,3,1.2,

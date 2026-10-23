@@ -1,0 +1,1696 @@
+{
+  "data": {
+    "30004": {
+      "buttonName1": "Farm Limit",
+      "id": 30004,
+      "name": "Farm Limit"
+    },
+    "6003": {
+      "buttonName1": "Hero Recruitment Points↑",
+      "id": 6003,
+      "name": "Hero Recruitment Points↑"
+    },
+    "10004": {
+      "buttonName1": "Hero DEF",
+      "id": 10004,
+      "name": "Hero DEF"
+    },
+    "2000003": {
+      "id": 2000003,
+      "name": "Doctor Movement Speed"
+    },
+    "4000103": {
+      "buttonName1": "Warrior Hero Extra DMG↑",
+      "id": 4000103,
+      "name": "Warrior Hero Extra DMG↑"
+    },
+    "10017": {
+      "buttonName1": "Hero DMG Dealt↑",
+      "id": 10017,
+      "name": "Hero DMG Dealt↑"
+    },
+    "10079": {
+      "buttonName1": "Squad 3 DMG to Monsters↑",
+      "id": 10079,
+      "name": "Squad 3 DMG to Monsters↑"
+    },
+    "6102": {
+      "buttonName1": "When plundering others' Caravans, Hero's HP/ATK/DEF each increases by %",
+      "id": 6102,
+      "name": "When plundering others' Caravans, Hero's HP/ATK/DEF each increases by %"
+    },
+    "10013": {
+      "buttonName1": "Warlock Hero DEF↑",
+      "id": 10013,
+      "name": "Warlock Hero DEF↑"
+    },
+    "20013": {
+      "buttonName1": "Grain Gathering Speed↑",
+      "id": 20013,
+      "name": "Grain Gathering Speed↑"
+    },
+    "20039": {
+      "buttonName1": "Grain Base Output",
+      "id": 20039,
+      "name": "Grain Base Output"
+    },
+    "10039": {
+      "buttonName1": "Energy DMG↓",
+      "id": 10039,
+      "name": "Energy DMG↓"
+    },
+    "10166": {
+      "buttonName1": "Squad 1 Enemy Troop Death Rate↑ in PvP",
+      "id": 10166,
+      "name": "Squad 1 Enemy Troop Death Rate↑ in PvP"
+    },
+    "20033": {
+      "buttonName1": "Hero Gear Crafting Speed↑",
+      "id": 20033,
+      "name": "Hero Gear Crafting Speed↑"
+    },
+    "10030": {
+      "buttonName1": "Crit Rate↑",
+      "id": 10030,
+      "name": "Crit Rate↑"
+    },
+    "20030": {
+      "buttonName1": "Training Grounds Capacity",
+      "id": 20030,
+      "name": "Barracks Capacity"
+    },
+    "10043": {
+      "buttonName1": "Hero HP↑ when attacking Caravans",
+      "id": 10043,
+      "name": "Hero HP↑ when attacking Trade Caravans"
+    },
+    "10150": {
+      "buttonName1": "Squad 4 Hero DEF↑",
+      "id": 10150,
+      "name": "Squad 4 Hero DEF↑"
+    },
+    "10051": {
+      "buttonName1": "Hero DEF↑ in PvP Battles (Defender)",
+      "id": 10051,
+      "name": "Hero DEF↑ in PvP Battles (Defender)"
+    },
+    "6103": {
+      "buttonName1": "When guarding your own Caravan, Hero's HP/ATK/DEF each increases by %",
+      "id": 6103,
+      "name": "When guarding your own Caravan, Hero's HP/ATK/DEF each increases by %"
+    },
+    "20082": {
+      "buttonName1": "Squad 4 Troop Load↑ (%)",
+      "id": 20082,
+      "name": "Squad 4 Troop Load↑ (%)"
+    },
+    "10082": {
+      "buttonName1": "Squad 3 Hero Energy DMG↑",
+      "id": 10082,
+      "name": "Squad 3 Hero Energy DMG↑"
+    },
+    "10151": {
+      "buttonName1": "Squad 4 Hero HP↑",
+      "id": 10151,
+      "name": "Squad 4 Hero HP↑"
+    },
+    "10033": {
+      "buttonName1": "Crit DMG Taken↓",
+      "id": 10033,
+      "name": "Crit DMG Taken↓"
+    },
+    "20038": {
+      "buttonName1": "Survivor Free Recruitment Cooldown↓",
+      "id": 20038,
+      "name": "Survivor Free Recruitment Cooldown↓"
+    },
+    "5002": {
+      "id": 5002,
+      "name": "Plunder"
+    },
+    "6007": {
+      "buttonName1": "Soldier Training Points↑",
+      "id": 6007,
+      "name": "Soldier Training Points↑"
+    },
+    "10038": {
+      "buttonName1": "Physical DMG↓",
+      "id": 10038,
+      "name": "Physical DMG↓"
+    },
+    "10012": {
+      "buttonName1": "Warlock Hero ATK↑",
+      "id": 10012,
+      "name": "Warlock Hero ATK↑"
+    },
+    "10133": {
+      "buttonName1": "Squad 1 March Speed to Resource Spots↑",
+      "id": 10133,
+      "name": "Squad 1 March Speed to Resource Spots↑"
+    },
+    "6002": {
+      "buttonName1": "Speedup Points↑",
+      "id": 6002,
+      "name": "Speedup Points↑"
+    },
+    "10096": {
+      "buttonName1": "Soldier Morale",
+      "id": 10096,
+      "name": "Soldier Morale"
+    },
+    "20063": {
+      "buttonName1": "Wall DEF Recovery Speed ↓% While Burning",
+      "id": 20063,
+      "name": "Wall DEF Recovery Speed ↓% While Burning"
+    },
+    "10122": {
+      "buttonName1": "Warlock Hero ATK",
+      "id": 10122,
+      "name": "Warlock Hero ATK"
+    },
+    "10063": {
+      "buttonName1": "Hero ATK↑ when Squad 2 attacks a city",
+      "id": 10063,
+      "name": "Hero ATK↑ when Squad 2 attacks a city"
+    },
+    "3000025": {
+      "id": 3000025,
+      "name": "RES Level EXP (Hourly Output)"
+    },
+    "10134": {
+      "buttonName1": "Squad 1 March Speed↑",
+      "id": 10134,
+      "name": "Squad 1 March Speed↑"
+    },
+    "10120": {
+      "buttonName1": "Warlock Hero CMD",
+      "id": 10120,
+      "name": "Warlock Hero CMD"
+    },
+    "10159": {
+      "buttonName1": "Soldier Load",
+      "id": 10159,
+      "name": "Soldier Load"
+    },
+    "10040": {
+      "buttonName1": "DMG↓",
+      "id": 10040,
+      "name": "DMG↓"
+    },
+    "20040": {
+      "buttonName1": "Timber Base Output",
+      "id": 20040,
+      "name": "Timber Base Output"
+    },
+    "10086": {
+      "buttonName1": "Hero DEF↑ when Squad 4 defends a city",
+      "id": 10086,
+      "name": "Hero DEF↑ when Squad 4 defends a city"
+    },
+    "10003": {
+      "buttonName1": "Hero ATK",
+      "id": 10003,
+      "name": "Hero ATK"
+    },
+    "10028": {
+      "buttonName1": "DMG Dealt When Countering↑",
+      "id": 10028,
+      "name": "DMG Dealt When Countering↑"
+    },
+    "20048": {
+      "buttonName1": "Timber Max Production Time",
+      "id": 20048,
+      "name": "Timber Max Production Time"
+    },
+    "20028": {
+      "buttonName1": "Timber Protection Limit↑",
+      "id": 20028,
+      "name": "Timber Protection Limit↑"
+    },
+    "4000104": {
+      "buttonName1": "Ranger Hero Extra DMG↓",
+      "id": 4000104,
+      "name": "Ranger Hero Extra DMG↓"
+    },
+    "10023": {
+      "buttonName1": "Hero DMG Taken↓",
+      "id": 10023,
+      "name": "Hero DMG Taken↓"
+    },
+    "10091": {
+      "buttonName1": "Squad 4 Hero Physical DMG↑",
+      "id": 10091,
+      "name": "Squad 4 Hero Physical DMG↑"
+    },
+    "20009": {
+      "buttonName1": "Research Resource Cost↓",
+      "id": 20009,
+      "name": "Research Resource Cost↓"
+    },
+    "10060": {
+      "buttonName1": "Squad 1 Hero DMG Taken from Monsters↓",
+      "id": 10060,
+      "name": "Squad 1 Hero DMG Taken from Monsters↓"
+    },
+    "10022": {
+      "buttonName1": "Warrior Hero DMG↑",
+      "id": 10022,
+      "name": "Warrior Hero DMG↑"
+    },
+    "10048": {
+      "buttonName1": "Hero DEF↑ in PvP Battles (Attacker)",
+      "id": 10048,
+      "name": "Hero DEF↑ in PvP Battles (Attacker)"
+    },
+    "10142": {
+      "buttonName1": "Squad 3 Hero ATK↑",
+      "id": 10142,
+      "name": "Squad 3 Hero ATK↑"
+    },
+    "3000010": {
+      "id": 3000010,
+      "name": "When reinforcing an Alliance Member's territory, all defending Heroes' ATK increases"
+    },
+    "10052": {
+      "buttonName1": "Hero HP↑ in PvP Battles (Defender)",
+      "id": 10052,
+      "name": "Hero HP↑ in PvP Battles (Defender)"
+    },
+    "10156": {
+      "buttonName1": "Raven HP",
+      "id": 10156,
+      "name": "Raven HP"
+    },
+    "10009": {
+      "buttonName1": "Ranger Hero ATK↑",
+      "id": 10009,
+      "name": "Ranger Hero ATK↑"
+    },
+    "10053": {
+      "buttonName1": "Hero ATK↑ when Squad 1 attacks a city",
+      "id": 10053,
+      "name": "Hero ATK↑ when Squad 1 attacks a city"
+    },
+    "10153": {
+      "buttonName1": "Squad 4 March Speed to Doctors↑",
+      "id": 10153,
+      "name": "Squad 4 March Speed to Doctors↑"
+    },
+    "31001": {
+      "buttonName1": "ATK of Heroes stationed at turrets +{0}%",
+      "id": 31001,
+      "name": "Home Buff"
+    },
+    "10089": {
+      "buttonName1": "Squad 4 DMG to Monsters↑",
+      "id": 10089,
+      "name": "Squad 4 DMG to Monsters↑"
+    },
+    "20089": {
+      "buttonName1": "",
+      "id": 20089,
+      "name": "Increases Mystery Supply Chests obtained from Covert Operation"
+    },
+    "6004": {
+      "buttonName1": "All Points↑ (Excluding Diamond Purchases)",
+      "id": 6004,
+      "name": "All Points↑ (Excluding Diamond Purchases)"
+    },
+    "3000014": {
+      "id": 3000014,
+      "name": "Heroes defending inside Walls gain Hero DEF boost"
+    },
+    "10121": {
+      "buttonName1": "Warlock Hero HP",
+      "id": 10121,
+      "name": "Warlock Hero HP"
+    },
+    "10046": {
+      "buttonName1": "Hero HP↑ when defending Caravans",
+      "id": 10046,
+      "name": "Hero HP↑ when defending Trade Caravans"
+    },
+    "10139": {
+      "buttonName1": "Squad 2 March Speed to Doctors↑",
+      "id": 10139,
+      "name": "Squad 2 March Speed to Doctors↑"
+    },
+    "6006": {
+      "buttonName1": "Tech Might Points↑",
+      "id": 6006,
+      "name": "Tech Might Points↑"
+    },
+    "4000109": {
+      "buttonName1": "DEF boost from Ranger Heroes deployed",
+      "id": 4000109,
+      "name": "DEF boost from Ranger Heroes deployed"
+    },
+    "20062": {
+      "buttonName1": "Wall DEF Recovery Base Value",
+      "id": 20062,
+      "name": "Wall DEF Recovery Base Value"
+    },
+    "10062": {
+      "buttonName1": "Squad 1 Hero Energy DMG↑",
+      "id": 10062,
+      "name": "Squad 1 Hero Energy DMG↑"
+    },
+    "10056": {
+      "buttonName1": "Hero DEF↑ when Squad 1 defends a city",
+      "id": 10056,
+      "name": "Hero DEF↑ when Squad 1 defends a city"
+    },
+    "10119": {
+      "buttonName1": "Ranger Hero DEF",
+      "id": 10119,
+      "name": "Ranger Hero DEF"
+    },
+    "10047": {
+      "buttonName1": "Hero ATK↑ in PvP Battles (Attacker)",
+      "id": 10047,
+      "name": "Hero ATK↑ in PvP Battles (Attacker)"
+    },
+    "10101": {
+      "buttonName1": "Overall March Speed↑",
+      "id": 10101,
+      "name": "Overall March Speed↑"
+    },
+    "2000008": {
+      "id": 2000008,
+      "name": "Daily free stamina increased"
+    },
+    "3000008": {
+      "id": 3000008,
+      "name": "In Frenzy state, damage increases"
+    },
+    "3000024": {
+      "id": 3000024,
+      "name": "Lord's Specialty EXP Output increases"
+    },
+    "10032": {
+      "buttonName1": "Crit DMG↑",
+      "id": 10032,
+      "name": "Crit DMG↑"
+    },
+    "10140": {
+      "buttonName1": "Squad 2 March Speed to Resource Spots↑",
+      "id": 10140,
+      "name": "Squad 2 March Speed to Resource Spots↑"
+    },
+    "20067": {
+      "buttonName1": "Critical Soldier Capacity",
+      "id": 20067,
+      "name": "Critical Soldier Capacity"
+    },
+    "10132": {
+      "buttonName1": "Squad 1 March Speed to Doctors Increased",
+      "id": 10132,
+      "name": "Squad 1 March Speed to Doctors Increased"
+    },
+    "6101": {
+      "buttonName1": "Basic goods carried by personal Caravans increases by %",
+      "id": 6101,
+      "name": "Basic goods carried by personal Caravans increases by %"
+    },
+    "3000002": {
+      "id": 3000002,
+      "name": "March speed increased when joining or returning from Rally"
+    },
+    "4000119": {
+      "buttonName1": "DMG↓ from Ranger Heroes deployed",
+      "id": 4000119,
+      "name": "DMG↓ from Ranger Heroes deployed"
+    },
+    "2000002": {
+      "id": 2000002,
+      "name": "Patient Donations"
+    },
+    "30006": {
+      "buttonName1": "Herb Garden Limit",
+      "id": 30006,
+      "name": "Herb Garden Limit"
+    },
+    "10067": {
+      "buttonName1": "Hero HP↑ when Squad 2 attacks a city",
+      "id": 10067,
+      "name": "Hero HP↑ when Squad 2 attacks a city"
+    },
+    "10087": {
+      "buttonName1": "Hero HP↑ when Squad 4 attacks a city",
+      "id": 10087,
+      "name": "Hero HP↑ when Squad 4 attacks a city"
+    },
+    "6009": {
+      "buttonName1": "Cavalry Troop Points↑",
+      "id": 6009,
+      "name": "Increases Caravan Points"
+    },
+    "10146": {
+      "buttonName1": "Squad 3 March Speed to Doctors↑",
+      "id": 10146,
+      "name": "Squad 3 March Speed to Doctors↑"
+    },
+    "20087": {
+      "buttonName1": "Extra chests from each Falcon Quest",
+      "id": 20087,
+      "name": "Extra chests from each Falcon Quest"
+    },
+    "4000111": {
+      "buttonName1": "ATK boost from Warlock Heroes deployed",
+      "id": 4000111,
+      "name": "ATK boost from Warlock Heroes deployed"
+    },
+    "10141": {
+      "buttonName1": "Squad 2 March Speed↑",
+      "id": 10141,
+      "name": "Squad 2 March Speed↑"
+    },
+    "10050": {
+      "buttonName1": "Hero ATK↑ in PvP Battles (Defender)",
+      "id": 10050,
+      "name": "Hero ATK↑ in PvP Battles (Defender)"
+    },
+    "10097": {
+      "buttonName1": "Soldier HP↑",
+      "id": 10097,
+      "name": "Soldier HP↑"
+    },
+    "10162": {
+      "buttonName1": "Hero DEF↑ when participating in a Rally",
+      "id": 10162,
+      "name": "Hero DEF↑ when participating in a Rally"
+    },
+    "10041": {
+      "buttonName1": "Hero ATK↑ when attacking Caravans",
+      "id": 10041,
+      "name": "Hero ATK↑ when attacking Trade Caravans"
+    },
+    "10006": {
+      "buttonName1": "Hero ATK↑",
+      "id": 10006,
+      "name": "Hero ATK↑"
+    },
+    "20027": {
+      "buttonName1": "Grain Protection Limit↑",
+      "id": 20027,
+      "name": "Grain Protection Limit↑"
+    },
+    "10027": {
+      "buttonName1": "Monster DMG Taken↓",
+      "id": 10027,
+      "name": "Monster DMG Taken↓"
+    },
+    "10106": {
+      "buttonName1": "Soldier Load↑",
+      "id": 10106,
+      "name": "Soldier Load↑"
+    },
+    "10076": {
+      "buttonName1": "Hero DEF↑ when Squad 3 defends a city",
+      "id": 10076,
+      "name": "Hero DEF↑ when Squad 3 defends a city"
+    },
+    "10147": {
+      "buttonName1": "Squad 3 March Speed to Resource Spots↑",
+      "id": 10147,
+      "name": "Squad 3 March Speed to Resource Spots↑"
+    },
+    "30001": {
+      "buttonName1": "Defense Shield",
+      "id": 30001,
+      "name": "Defense Shield"
+    },
+    "20001": {
+      "buttonName1": "Grain Output↑",
+      "id": 20001,
+      "name": "Grain Output↑"
+    },
+    "10001": {
+      "buttonName1": "CMD",
+      "id": 10001,
+      "name": "CMD"
+    },
+    "10161": {
+      "buttonName1": "Hero ATK↑ When Participating in a Rally",
+      "id": 10161,
+      "name": "Hero ATK↑ When Participating in a Rally"
+    },
+    "2000001": {
+      "id": 2000001,
+      "name": "Clinic Earnings"
+    },
+    "10164": {
+      "buttonName1": "Hero ATK↑ When Garrisoned",
+      "id": 10164,
+      "name": "Hero ATK↑ When Garrisoned"
+    },
+    "10016": {
+      "buttonName1": "Warrior Hero DEF↑",
+      "id": 10016,
+      "name": "Warrior Hero DEF↑"
+    },
+    "10148": {
+      "buttonName1": "Squad 3 March Speed↑",
+      "id": 10148,
+      "name": "Squad 3 March Speed↑"
+    },
+    "10144": {
+      "buttonName1": "Squad 3 Hero HP↑",
+      "id": 10144,
+      "name": "Squad 3 Hero HP↑"
+    },
+    "10131": {
+      "buttonName1": "Squad 1 March Speed to Monsters↑",
+      "id": 10131,
+      "name": "Squad 1 March Speed to Monsters↑"
+    },
+    "10064": {
+      "buttonName1": "Hero ATK↑ when Squad 2 defends a city",
+      "id": 10064,
+      "name": "Hero ATK↑ when Squad 2 defends a city"
+    },
+    "10110": {
+      "buttonName1": "Hero HP↑ when attacking Caravans",
+      "id": 10110,
+      "name": "Hero HP↑ when attacking Trade Caravans"
+    },
+    "10044": {
+      "buttonName1": "Hero ATK↑ when defending Caravans",
+      "id": 10044,
+      "name": "Hero ATK↑ when defending Trade Caravans"
+    },
+    "20044": {
+      "buttonName1": "Help Duration↑",
+      "id": 20044,
+      "name": "Help Duration↑"
+    },
+    "10152": {
+      "buttonName1": "Squad 4 March Speed to Monsters↑",
+      "id": 10152,
+      "name": "Squad 4 March Speed to Monsters↑"
+    },
+    "20010": {
+      "buttonName1": "Free Research Speedup↑ (Unit: s)",
+      "id": 20010,
+      "name": "Free Research Speedup Time↑"
+    },
+    "10010": {
+      "buttonName1": "Ranger Hero DEF↑",
+      "id": 10010,
+      "name": "Ranger Hero DEF↑"
+    },
+    "3000018": {
+      "id": 3000018,
+      "name": "Heroes attacking territories gain increased HP"
+    },
+    "4000107": {
+      "buttonName1": "HP boost from Ranger Heroes deployed",
+      "id": 4000107,
+      "name": "HP boost from Ranger Heroes deployed"
+    },
+    "3000011": {
+      "id": 3000011,
+      "name": "When reinforcing an Alliance Member's territory, all defending Heroes' DEF increases"
+    },
+    "10116": {
+      "buttonName1": "Ranger Hero CMD",
+      "id": 10116,
+      "name": "Ranger Hero CMD"
+    },
+    "20031": {
+      "buttonName1": "Training Capacity",
+      "id": 20031,
+      "name": "Training Capacity"
+    },
+    "10031": {
+      "buttonName1": "Crit Rate Taken↓",
+      "id": 10031,
+      "name": "Crit Rate Taken↓"
+    },
+    "6005": {
+      "buttonName1": "Building Might Points↑",
+      "id": 6005,
+      "name": "Building Might Points↑"
+    },
+    "20061": {
+      "buttonName1": "City DEF",
+      "id": 20061,
+      "name": "City DEF"
+    },
+    "4000105": {
+      "buttonName1": "Warlock Hero Extra DMG↓",
+      "id": 4000105,
+      "name": "Warlock Hero Extra DMG↓"
+    },
+    "20054": {
+      "buttonName1": "Antitoxin Potion Maximum Production Time",
+      "id": 20054,
+      "name": "Antitoxin Potion Maximum Production Time"
+    },
+    "10054": {
+      "buttonName1": "Hero ATK↑ when Squad 1 defends a city",
+      "id": 10054,
+      "name": "Hero ATK↑ when Squad 1 defends a city"
+    },
+    "30008": {
+      "buttonName1": "Max Infirmaries",
+      "id": 30008,
+      "name": "Max Infirmaries"
+    },
+    "10008": {
+      "buttonName1": "Ranger Hero HP↑",
+      "id": 10008,
+      "name": "Ranger Hero HP↑"
+    },
+    "20008": {
+      "buttonName1": "Research Speed↑",
+      "id": 20008,
+      "name": "Research Speed↑"
+    },
+    "10154": {
+      "buttonName1": "Squad 4 March Speed to Resource Spots↑",
+      "id": 10154,
+      "name": "Squad 4 March Speed to Resource Spots↑"
+    },
+    "5001": {
+      "buttonName1": "War Frenzy",
+      "id": 5001,
+      "name": "War Frenzy"
+    },
+    "7001": {
+      "buttonName1": "",
+      "id": 7001,
+      "name": "Unlock Auto-Rally Function"
+    },
+    "6001": {
+      "buttonName1": "Falcon Quest Points↑",
+      "id": 6001,
+      "name": "Falcon Quests Points↑"
+    },
+    "10115": {
+      "buttonName1": "Hero DEF↑ when defending Caravans",
+      "id": 10115,
+      "name": "Hero DEF↑ when defending Trade Caravans"
+    },
+    "10070": {
+      "buttonName1": "Squad 2 Hero DMG Taken from Monsters↓",
+      "id": 10070,
+      "name": "Squad 2 Hero DMG Taken from Monsters↓"
+    },
+    "10058": {
+      "buttonName1": "Hero HP↑ when Squad 1 defends a city",
+      "id": 10058,
+      "name": "Hero HP↑ when Squad 1 defends a city"
+    },
+    "10128": {
+      "buttonName1": "Squad 1 Hero ATK↑",
+      "id": 10128,
+      "name": "Squad 1 Hero ATK↑"
+    },
+    "6107": {
+      "buttonName1": "Daily Dispatch Attempts↑",
+      "id": 6107,
+      "name": "Daily Dispatch Attempts↑"
+    },
+    "20072": {
+      "buttonName1": "Anti-Scout Hidden Intel",
+      "id": 20072,
+      "name": "Anti-Scout Hidden Intel"
+    },
+    "4000102": {
+      "buttonName1": "Warlock Hero Extra DMG↑",
+      "id": 4000102,
+      "name": "Warlock Hero Extra DMG↑"
+    },
+    "10035": {
+      "buttonName1": "Physical DMG RES",
+      "id": 10035,
+      "name": "Physical DMG RES"
+    },
+    "10072": {
+      "buttonName1": "Squad 2 Hero Energy DMG↑",
+      "id": 10072,
+      "name": "Squad 2 Hero Energy DMG↑"
+    },
+    "10071": {
+      "buttonName1": "Squad 2 Hero Physical DMG↑",
+      "id": 10071,
+      "name": "Squad 2 Hero Physical DMG↑"
+    },
+    "4000112": {
+      "buttonName1": "DEF boost from Warlock Heroes deployed",
+      "id": 4000112,
+      "name": "DEF boost from Warlock Heroes deployed"
+    },
+    "20088": {
+      "buttonName1": "Total extra chests from daily Falcon Quests",
+      "id": 20088,
+      "name": "Total extra chests from daily Falcon Quests"
+    },
+    "10088": {
+      "buttonName1": "Hero HP↑ when Squad 4 defends a city",
+      "id": 10088,
+      "name": "Hero HP↑ when Squad 4 defends a city"
+    },
+    "3000013": {
+      "id": 3000013,
+      "name": "Heroes defending inside Walls gain Hero ATK boost"
+    },
+    "10100": {
+      "buttonName1": "Soldier Morale↑",
+      "id": 10100,
+      "name": "Soldier Morale↑"
+    },
+    "20085": {
+      "buttonName1": "Gain an extra SR Chest for each Falcon Quest",
+      "id": 20085,
+      "name": "Gain an extra SSR Explorer Chest fron Falcon Quest"
+    },
+    "10085": {
+      "buttonName1": "Hero DEF↑ when Squad 4 attacks a city",
+      "id": 10085,
+      "name": "Hero DEF↑ when Squad 4 attacks a city"
+    },
+    "20073": {
+      "buttonName1": "Scout Level",
+      "id": 20073,
+      "name": "Scout Level"
+    },
+    "10073": {
+      "buttonName1": "Hero ATK↑ when Squad 3 attacks a city",
+      "id": 10073,
+      "name": "Hero ATK↑ when Squad 3 attacks a city"
+    },
+    "10049": {
+      "buttonName1": "Hero HP↑ in PvP Battles (Attacker)",
+      "id": 10049,
+      "name": "Hero HP↑ in PvP Battles (Attacker)"
+    },
+    "20049": {
+      "buttonName1": "Timber Gathered per Hour",
+      "id": 20049,
+      "name": "Timber Gathered per Hour"
+    },
+    "10127": {
+      "buttonName1": "Warrior Hero DEF",
+      "id": 10127,
+      "name": "Warrior Hero DEF"
+    },
+    "10167": {
+      "buttonName1": "Squad 2 Enemy Troop Death Rate↑ in PvP",
+      "id": 10167,
+      "name": "Squad 2 Enemy Troop Death Rate↑ in PvP"
+    },
+    "10074": {
+      "buttonName1": "Hero ATK↑ when Squad 3 defends a city",
+      "id": 10074,
+      "name": "Hero ATK↑ when Squad 3 defends a city"
+    },
+    "10081": {
+      "buttonName1": "Squad 3 Hero Physical DMG↑",
+      "id": 10081,
+      "name": "Squad 3 Hero Physical DMG↑"
+    },
+    "10125": {
+      "buttonName1": "Warrior Hero HP",
+      "id": 10125,
+      "name": "Warrior Hero HP"
+    },
+    "10078": {
+      "buttonName1": "Hero HP↑ when Squad 3 defends a city",
+      "id": 10078,
+      "name": "Hero HP↑ when Squad 3 defends a city"
+    },
+    "20078": {
+      "buttonName1": "Squad 4 Gathering Speed↑ (%)",
+      "id": 20078,
+      "name": "Squad 4 Gathering Speed↑ (%)"
+    },
+    "20081": {
+      "buttonName1": "Squad 3 Troop Load↑ (%)",
+      "id": 20081,
+      "name": "Squad 3 Troop Load↑ (%)"
+    },
+    "10158": {
+      "buttonName1": "Raven DEF",
+      "id": 10158,
+      "name": "Raven DEF"
+    },
+    "20065": {
+      "buttonName1": "Mysterious Supply Chest Output from Covert Operation",
+      "id": 20065,
+      "name": "Mystery Supply Chest Output from Covert Operation"
+    },
+    "10065": {
+      "buttonName1": "Hero DEF↑ when Squad 2 attacks a city",
+      "id": 10065,
+      "name": "Hero DEF↑ when Squad 2 attacks a city"
+    },
+    "4000110": {
+      "buttonName1": "HP boost from Warlock Heroes deployed",
+      "id": 4000110,
+      "name": "HP boost from Warlock Heroes deployed"
+    },
+    "6109": {
+      "buttonName1": "Unlock Special Caravans",
+      "id": 6109,
+      "name": "Unlock Gold Caravan"
+    },
+    "6105": {
+      "buttonName1": "Chance to seize 1 extra cargo upon a victorious attack",
+      "id": 6105,
+      "name": "Chance to seize 1 extra cargo upon a victorious attack"
+    },
+    "3000022": {
+      "id": 3000022,
+      "name": "Disguise State"
+    },
+    "10108": {
+      "buttonName1": "Soldier Fatality Rate↓ in PvP",
+      "id": 10108,
+      "name": "Soldier Fatality Rate↓ in PvP"
+    },
+    "4000106": {
+      "buttonName1": "Warrior Hero Extra DMG↓",
+      "id": 4000106,
+      "name": "Warrior Hero Extra DMG↓"
+    },
+    "10037": {
+      "buttonName1": "DMG RES",
+      "id": 10037,
+      "name": "DMG RES"
+    },
+    "20037": {
+      "buttonName1": "Free Hero Recruitment CD↓",
+      "id": 20037,
+      "name": "Free Hero Recruitment CD↓"
+    },
+    "10029": {
+      "buttonName1": "DMG Taken When Countered↓",
+      "id": 10029,
+      "name": "DMG Taken When Countered↓"
+    },
+    "20029": {
+      "buttonName1": "Herb Protection Limit↑",
+      "id": 20029,
+      "name": "Herb Protection Limit↑"
+    },
+    "10083": {
+      "buttonName1": "Hero ATK↑ when Squad 4 attacks a city",
+      "id": 10083,
+      "name": "Hero ATK↑ when Squad 4 attacks a city"
+    },
+    "20083": {
+      "buttonName1": "Gathering Speedup",
+      "id": 20083,
+      "name": "Gathering Speedup"
+    },
+    "10018": {
+      "buttonName1": "Hero Physical DMG↑",
+      "id": 10018,
+      "name": "Hero Physical DMG↑"
+    },
+    "20018": {
+      "buttonName1": "Training Speed",
+      "id": 20018,
+      "name": "Training Speed↑"
+    },
+    "6108": {
+      "buttonName1": "Allowed failures when the same player plunders your Caravan",
+      "id": 6108,
+      "name": "Allowed failures when the same player plunders your Caravan"
+    },
+    "20068": {
+      "buttonName1": "Rescue Cooldown",
+      "id": 20068,
+      "name": "Rescue Cooldown"
+    },
+    "10068": {
+      "buttonName1": "Hero HP↑ when Squad 2 defends a city",
+      "id": 10068,
+      "name": "Hero HP↑ when Squad 2 defends a city"
+    },
+    "3000026": {
+      "id": 3000026,
+      "name": "RES Level EXP (Hourly Output)"
+    },
+    "3000023": {
+      "id": 3000023,
+      "name": "RES"
+    },
+    "3000004": {
+      "id": 3000004,
+      "name": "When reinforcing an Alliance member's territory, the casualty rate of their troops is reduced."
+    },
+    "20003": {
+      "buttonName1": "Herb Output↑",
+      "id": 20003,
+      "name": "Herb Output↑"
+    },
+    "20084": {
+      "buttonName1": "Increase protection cap for Grain, Timber, and Herb",
+      "id": 20084,
+      "name": "Increase protection cap for Grain, Timber, and Herb"
+    },
+    "3000017": {
+      "id": 3000017,
+      "name": "Heroes attacking territories gain increased DEF"
+    },
+    "3000016": {
+      "id": 3000016,
+      "name": "Heroes attacking territories gain increased ATK"
+    },
+    "3000015": {
+      "id": 3000015,
+      "name": "Heroes defending inside Walls gain Hero HP boost"
+    },
+    "10095": {
+      "buttonName1": "Soldier Base DEF",
+      "id": 10095,
+      "name": "Soldier Base DEF"
+    },
+    "3000012": {
+      "id": 3000012,
+      "name": "When reinforcing an Alliance Member's territory, all defending Heroes' HP increases"
+    },
+    "10117": {
+      "buttonName1": "Ranger Hero HP",
+      "id": 10117,
+      "name": "Ranger Hero HP"
+    },
+    "20032": {
+      "buttonName1": "Infirmary Capacity",
+      "id": 20032,
+      "name": "Infirmary Cap↑"
+    },
+    "10118": {
+      "buttonName1": "Ranger Hero ATK",
+      "id": 10118,
+      "name": "Ranger Hero ATK"
+    },
+    "3000006": {
+      "id": 3000006,
+      "name": "When reinforcing an Alliance Member's territory, attacking soldiers' casualty rate increases"
+    },
+    "3000005": {
+      "id": 3000005,
+      "name": "Attacking burning targets increases Soldier casualty rate"
+    },
+    "3000021": {
+      "id": 3000021,
+      "name": "Walls Damage Increase"
+    },
+    "3000003": {
+      "id": 3000003,
+      "name": "Era monster kills grant increased Specialty EXP"
+    },
+    "3000001": {
+      "id": 3000001,
+      "name": "Alliance Coin increased"
+    },
+    "2000007": {
+      "id": 2000007,
+      "name": "Resource Investment Speed"
+    },
+    "2000006": {
+      "id": 2000006,
+      "name": "Doctor Healing Range"
+    },
+    "4000118": {
+      "buttonName1": "DMG boost from Warrior Heroes deployed",
+      "id": 4000118,
+      "name": "DMG boost from Warrior Heroes deployed"
+    },
+    "2000004": {
+      "id": 2000004,
+      "name": "Doctor Healing Speed"
+    },
+    "20080": {
+      "buttonName1": "Squad 2 Troop Load↑ (%)",
+      "id": 20080,
+      "name": "Squad 2 Troop Load↑ (%)"
+    },
+    "10080": {
+      "buttonName1": "Squad 3 Hero DMG Taken from Monsters↓",
+      "id": 10080,
+      "name": "Squad 3 Hero DMG Taken from Monsters↓"
+    },
+    "4000120": {
+      "buttonName1": "DMG↓ from Warlock Heroes deployed",
+      "id": 4000120,
+      "name": "DMG↓ from Warlock Heroes deployed"
+    },
+    "30009": {
+      "buttonName1": "Training Grounds Limit",
+      "id": 30009,
+      "name": "Barracks Limit"
+    },
+    "6008": {
+      "buttonName1": "Kill Points↑",
+      "id": 6008,
+      "name": "Kill Points↑"
+    },
+    "10069": {
+      "buttonName1": "Squad 2 DMG to Monsters↑",
+      "id": 10069,
+      "name": "Squad 2 DMG to Monsters↑"
+    },
+    "20075": {
+      "buttonName1": "Squad 1 Gathering Speed↑ (%)",
+      "id": 20075,
+      "name": "Squad 1 Gathering Speed↑ (%)"
+    },
+    "10160": {
+      "buttonName1": "Hero HP↑ when participating in a Rally",
+      "id": 10160,
+      "name": "Hero HP↑ when participating in a Rally"
+    },
+    "20026": {
+      "buttonName1": "Herb Protection Cap",
+      "id": 20026,
+      "name": "Herb Protection Cap"
+    },
+    "6010": {
+      "buttonName1": "Covert Operation Points↑",
+      "id": 6010,
+      "name": "Covert Operation Points↑"
+    },
+    "10126": {
+      "buttonName1": "Warrior Hero ATK",
+      "id": 10126,
+      "name": "Warrior Hero ATK"
+    },
+    "30005": {
+      "buttonName1": "Maximum Lumberyards",
+      "id": 30005,
+      "name": "Lumberyard Limit"
+    },
+    "30003": {
+      "buttonName1": "Stamina Cost for Monster Hunt",
+      "id": 30003,
+      "name": "Stamina Cost for Monster Hunt"
+    },
+    "10092": {
+      "buttonName1": "Squad 4 Hero Energy DMG↑",
+      "id": 10092,
+      "name": "Squad 4 Hero Energy DMG↑"
+    },
+    "20011": {
+      "buttonName1": "Help Attempts↑",
+      "id": 20011,
+      "name": "Help Attempts↑"
+    },
+    "20092": {
+      "buttonName1": "Infirmary Capacity",
+      "id": 20092,
+      "name": "Infirmary Cap↑"
+    },
+    "20091": {
+      "id": 20091,
+      "name": "Increases Timber, Grain, and Herb obtained from killing Normal Monsters and Normal Rally Monsters by %"
+    },
+    "20090": {
+      "buttonName1": "",
+      "id": 20090,
+      "name": "Covert Operation Dispatch Queue Count"
+    },
+    "20086": {
+      "buttonName1": "Upgrade the extra SR Chest from each Falcon Quest to a Deluxe Chest",
+      "id": 20086,
+      "name": "SSR Explorer Chest upgrades to UR Adventurer Chest"
+    },
+    "6104": {
+      "buttonName1": "Caravan Movement Speed increases by %",
+      "id": 6104,
+      "name": "Caravan Movement Speed increases by %"
+    },
+    "3000019": {
+      "id": 3000019,
+      "name": "Daily Plunder Resource Cap Increase"
+    },
+    "20079": {
+      "buttonName1": "Squad 1 Troop Load↑ (%)",
+      "id": 20079,
+      "name": "Squad 1 Troop Load↑ (%)"
+    },
+    "20077": {
+      "buttonName1": "Squad 3 Gathering Speed↑ (%)",
+      "id": 20077,
+      "name": "Squad 3 Gathering Speed↑ (%)"
+    },
+    "20076": {
+      "buttonName1": "Squad 2 Gathering Speed↑ (%)",
+      "id": 20076,
+      "name": "Squad 2 Gathering Speed↑ (%)"
+    },
+    "4000115": {
+      "buttonName1": "DEF boost from Warrior Heroes deployed",
+      "id": 4000115,
+      "name": "DEF boost from Warrior Heroes deployed"
+    },
+    "6106": {
+      "buttonName1": "Chance to reclaim 1 cargo upon defense failure",
+      "id": 6106,
+      "name": "Chance to reclaim 1 cargo upon defense failure"
+    },
+    "20007": {
+      "buttonName1": "Construction Resource Cost↓",
+      "id": 20007,
+      "name": "Construction Resource Cost↓"
+    },
+    "30007": {
+      "buttonName1": "Barracks Limit",
+      "id": 30007,
+      "name": "Training Grounds Limit"
+    },
+    "20074": {
+      "buttonName1": "Movement Speed % for All Scout Squads",
+      "id": 20074,
+      "name": "Action Speed % for All Scout Squads"
+    },
+    "10007": {
+      "buttonName1": "Hero DEF↑",
+      "id": 10007,
+      "name": "Hero DEF↑"
+    },
+    "20071": {
+      "buttonName1": "Anti-Scout Chance",
+      "id": 20071,
+      "name": "Anti-Scout Chance"
+    },
+    "20066": {
+      "buttonName1": "Critical Soldier Ratio %",
+      "id": 20066,
+      "name": "Critical Soldier Ratio %"
+    },
+    "20064": {
+      "buttonName1": "Covert Operation Dispatch Queue Count",
+      "id": 20064,
+      "name": "Covert Operation Dispatch Queue Count"
+    },
+    "4000116": {
+      "buttonName1": "DMG boost from Ranger Heroes deployed",
+      "id": 4000116,
+      "name": "DMG boost from Ranger Heroes deployed"
+    },
+    "20060": {
+      "buttonName1": "Raven Gear Max Production Time",
+      "id": 20060,
+      "name": "Raven Gear Max Production Time"
+    },
+    "20046": {
+      "buttonName1": "Grain Collected per Hour",
+      "id": 20046,
+      "name": "Grain Collected per Hour"
+    },
+    "20058": {
+      "buttonName1": "Gearstone Max Production Time",
+      "id": 20058,
+      "name": "Gearstone Max Production Time"
+    },
+    "20057": {
+      "buttonName1": "Gearstone Output/Hour",
+      "id": 20057,
+      "name": "Gearstone Output/Hour"
+    },
+    "10059": {
+      "buttonName1": "Squad 1 DMG to Monsters↑",
+      "id": 10059,
+      "name": "Squad 1 DMG to Monsters↑"
+    },
+    "20056": {
+      "buttonName1": "Raven Gear Max Production Time",
+      "id": 20056,
+      "name": "Raven Gear Max Production Time"
+    },
+    "20055": {
+      "buttonName1": "Raven Gear Output/Hour",
+      "id": 20055,
+      "name": "Raven Gear Output/Hour"
+    },
+    "20052": {
+      "buttonName1": "Herbs Gathered per Hour",
+      "id": 20052,
+      "name": "Herbs Gathered per Hour"
+    },
+    "20051": {
+      "buttonName1": "Herb Max Production Time",
+      "id": 20051,
+      "name": "Herb Max Production Time"
+    },
+    "20036": {
+      "buttonName1": "Loot Storage Time",
+      "id": 20036,
+      "name": "Loot Storage Time"
+    },
+    "10036": {
+      "buttonName1": "Energy DMG RES",
+      "id": 10036,
+      "name": "Energy DMG RES"
+    },
+    "20059": {
+      "buttonName1": "Raven Gear Production Time",
+      "id": 20059,
+      "name": "Raven Gear Production Time"
+    },
+    "10168": {
+      "buttonName1": "Squad 3 Enemy Troop Death Rate↑ in PvP",
+      "id": 10168,
+      "name": "Squad 3 Enemy Troop Death Rate↑ in PvP"
+    },
+    "10201": {
+      "buttonName1": "",
+      "id": 10201,
+      "name": "Hero HP Growth Coefficient"
+    },
+    "10075": {
+      "buttonName1": "Hero DEF↑ when Squad 3 attacks a city",
+      "id": 10075,
+      "name": "Hero DEF↑ when Squad 3 attacks a city"
+    },
+    "10093": {
+      "buttonName1": "Soldier Base HP",
+      "id": 10093,
+      "name": "Soldier Base HP"
+    },
+    "4000114": {
+      "buttonName1": "ATK boost from Warrior Heroes deployed",
+      "id": 4000114,
+      "name": "ATK boost from Warrior Heroes deployed"
+    },
+    "20043": {
+      "buttonName1": "Walls Repair Speed↑",
+      "id": 20043,
+      "name": "Walls Repair Speed↑"
+    },
+    "20015": {
+      "buttonName1": "Herb Gathering Speed↑",
+      "id": 20015,
+      "name": "Herb Gathering Speed↑"
+    },
+    "10015": {
+      "buttonName1": "Warrior Hero ATK↑",
+      "id": 10015,
+      "name": "Warrior Hero ATK↑"
+    },
+    "10005": {
+      "buttonName1": "Hero HP↑",
+      "id": 10005,
+      "name": "Hero HP↑"
+    },
+    "20005": {
+      "buttonName1": "Building Construction Speed↑",
+      "id": 20005,
+      "name": "Building Construction Speed↑"
+    },
+    "10114": {
+      "buttonName1": "Hero ATK↑ when defending Caravans",
+      "id": 10114,
+      "name": "Hero ATK↑ when defending Trade Caravans"
+    },
+    "10019": {
+      "buttonName1": "Hero Energy DMG↑",
+      "id": 10019,
+      "name": "Hero Energy DMG↑"
+    },
+    "20042": {
+      "buttonName1": "Antitoxin Potion Base Output",
+      "id": 20042,
+      "name": "Antitoxin Potion Base Output"
+    },
+    "20041": {
+      "buttonName1": "Herb Base Output",
+      "id": 20041,
+      "name": "Herb Base Output"
+    },
+    "20035": {
+      "buttonName1": "Loot Output",
+      "id": 20035,
+      "name": "Loot Output"
+    },
+    "20034": {
+      "buttonName1": "Hero Gear Crafting Herb Cost↓",
+      "id": 20034,
+      "name": "Hero Gear Crafting Herb Cost↓"
+    },
+    "3000007": {
+      "id": 3000007,
+      "name": "In PVP combat, when initiating Rally, all Squad casualty rate in Rally decreases"
+    },
+    "10014": {
+      "buttonName1": "Warrior Hero HP↑",
+      "id": 10014,
+      "name": "Warrior Hero HP↑"
+    },
+    "10123": {
+      "buttonName1": "Warlock Hero DEF",
+      "id": 10123,
+      "name": "Warlock Hero DEF"
+    },
+    "20024": {
+      "buttonName1": "Grain Protection Cap",
+      "id": 20024,
+      "name": "Grain Protection Cap"
+    },
+    "20023": {
+      "buttonName1": "Healing Resource Cost↓",
+      "id": 20023,
+      "name": "Healing Resource Cost↓"
+    },
+    "20022": {
+      "buttonName1": "Healing Speed↑",
+      "id": 20022,
+      "name": "Healing Speed↑"
+    },
+    "20014": {
+      "buttonName1": "Timber Gathering Speed↑",
+      "id": 20014,
+      "name": "Timber Gathering Speed↑"
+    },
+    "10111": {
+      "buttonName1": "Hero ATK↑ when attacking Caravans",
+      "id": 10111,
+      "name": "Hero ATK↑ when attacking Trade Caravans"
+    },
+    "10135": {
+      "buttonName1": "Squad 2 Hero ATK↑",
+      "id": 10135,
+      "name": "Squad 2 Hero ATK↑"
+    },
+    "20020": {
+      "buttonName1": "Barracks Soldier Capacity",
+      "id": 20020,
+      "name": "Soldier Capacity in Barracks↑"
+    },
+    "20019": {
+      "buttonName1": "Training Cost↓",
+      "id": 20019,
+      "name": "Training Cost↓"
+    },
+    "20017": {
+      "buttonName1": "Soldier Training Cap",
+      "id": 20017,
+      "name": "Training Capacity↑"
+    },
+    "20012": {
+      "buttonName1": "Help Duration↑",
+      "id": 20012,
+      "name": "Help Duration↑"
+    },
+    "10145": {
+      "buttonName1": "Squad 3 March Speed to Monsters↑",
+      "id": 10145,
+      "name": "Squad 3 March Speed to Monsters↑"
+    },
+    "20006": {
+      "buttonName1": "Free Construction Speedup↑",
+      "id": 20006,
+      "name": "Free Construction Speedup↑"
+    },
+    "3000020": {
+      "id": 3000020,
+      "name": "March Speed in Cursed Land increases during Royal City Scramble"
+    },
+    "10098": {
+      "buttonName1": "Soldier ATK↑",
+      "id": 10098,
+      "name": "Soldier ATK↑"
+    },
+    "10203": {
+      "buttonName1": "",
+      "id": 10203,
+      "name": "Hero DEF Growth Coefficient"
+    },
+    "10202": {
+      "buttonName1": "",
+      "id": 10202,
+      "name": "Hero ATK Growth Coefficient"
+    },
+    "4000121": {
+      "buttonName1": "DMG↓ from Warrior Heroes deployed",
+      "id": 4000121,
+      "name": "DMG↓ from Warrior Heroes deployed"
+    },
+    "10045": {
+      "buttonName1": "Hero DEF↑ when defending Caravans",
+      "id": 10045,
+      "name": "Hero DEF↑ when defending Trade Caravans"
+    },
+    "2000005": {
+      "id": 2000005,
+      "name": "Doctor Carrying Cap"
+    },
+    "4000117": {
+      "buttonName1": "DMG boost from Warlock Heroes deployed",
+      "id": 4000117,
+      "name": "DMG boost from Warlock Heroes deployed"
+    },
+    "20045": {
+      "buttonName1": "Grain Max Production Time",
+      "id": 20045,
+      "name": "Grain Max Production Time"
+    },
+    "4000113": {
+      "buttonName1": "HP boost from Warrior Heroes deployed",
+      "id": 4000113,
+      "name": "HP boost from Warrior Heroes deployed"
+    },
+    "4000108": {
+      "buttonName1": "ATK boost from Ranger Heroes deployed",
+      "id": 4000108,
+      "name": "ATK boost from Ranger Heroes deployed"
+    },
+    "4000101": {
+      "buttonName1": "Ranger Hero Extra DMG↑",
+      "id": 4000101,
+      "name": "Ranger Hero Extra DMG↑"
+    },
+    "10169": {
+      "buttonName1": "Squad 4 Enemy Troop Death Rate↑ in PvP",
+      "id": 10169,
+      "name": "Squad 4 Enemy Troop Death Rate↑ in PvP"
+    },
+    "10149": {
+      "buttonName1": "Squad 4 Hero ATK↑",
+      "id": 10149,
+      "name": "Squad 4 Hero ATK↑"
+    },
+    "10163": {
+      "buttonName1": "Hero HP↑ when garrisoned",
+      "id": 10163,
+      "name": "Hero HP↑ when garrisoned"
+    },
+    "10157": {
+      "buttonName1": "Raven ATK",
+      "id": 10157,
+      "name": "Raven ATK"
+    },
+    "10026": {
+      "buttonName1": "DMG to Monsters↑",
+      "id": 10026,
+      "name": "DMG to Monsters↑"
+    },
+    "10165": {
+      "buttonName1": "Hero DEF↑ when garrisoned",
+      "id": 10165,
+      "name": "Hero DEF↑ when garrisoned"
+    },
+    "10143": {
+      "buttonName1": "Squad 3 Hero DEF↑",
+      "id": 10143,
+      "name": "Squad 3 Hero DEF↑"
+    },
+    "10138": {
+      "buttonName1": "Squad 2 March Speed to Monsters↑",
+      "id": 10138,
+      "name": "Squad 2 March Speed to Monsters↑"
+    },
+    "10137": {
+      "buttonName1": "Squad 2 Hero HP↑",
+      "id": 10137,
+      "name": "Squad 2 Hero HP↑"
+    },
+    "10136": {
+      "buttonName1": "Squad 2 Hero DEF↑",
+      "id": 10136,
+      "name": "Squad 2 Hero DEF↑"
+    },
+    "10130": {
+      "buttonName1": "Squad 1 Hero HP↑",
+      "id": 10130,
+      "name": "Squad 1 Hero HP↑"
+    },
+    "10129": {
+      "buttonName1": "Squad 1 Hero DEF↑",
+      "id": 10129,
+      "name": "Squad 1 Hero DEF↑"
+    },
+    "10124": {
+      "buttonName1": "Warrior Hero CMD",
+      "id": 10124,
+      "name": "Warrior Hero CMD"
+    },
+    "10057": {
+      "buttonName1": "Hero HP↑ when Squad 1 attacks a city",
+      "id": 10057,
+      "name": "Hero HP↑ when Squad 1 attacks a city"
+    },
+    "20025": {
+      "buttonName1": "Timber Protection Cap",
+      "id": 20025,
+      "name": "Timber Protection Cap"
+    },
+    "10025": {
+      "buttonName1": "Hero Energy DMG Taken↓",
+      "id": 10025,
+      "name": "Hero Energy DMG Taken↓"
+    },
+    "3000009": {
+      "id": 3000009,
+      "name": "When participating in or initiating Rally, damage increases"
+    },
+    "6011": {
+      "buttonName1": "Points Earned↑ when recruiting Survivors",
+      "id": 6011,
+      "name": "Increases points earned when recruiting survivors in Alliance Duel"
+    },
+    "10112": {
+      "buttonName1": "Hero DEF↑ when attacking Caravans",
+      "id": 10112,
+      "name": "Hero DEF↑ when attacking Trade Caravans"
+    },
+    "10094": {
+      "buttonName1": "Soldier Base ATK",
+      "id": 10094,
+      "name": "Soldier Base ATK"
+    },
+    "10055": {
+      "buttonName1": "Hero DEF↑ when Squad 1 attacks a city",
+      "id": 10055,
+      "name": "Hero DEF↑ when Squad 1 attacks a city"
+    },
+    "10021": {
+      "buttonName1": "Warlock Hero DMG↑",
+      "id": 10021,
+      "name": "Warlock Hero DMG↑"
+    },
+    "10104": {
+      "buttonName1": "March Speed↑ when reinforcing allies",
+      "id": 10104,
+      "name": "March Speed↑ when Reinforcing"
+    },
+    "10113": {
+      "buttonName1": "Hero HP↑ when defending Caravans",
+      "id": 10113,
+      "name": "Hero HP↑ when defending Trade Caravans"
+    },
+    "20021": {
+      "buttonName1": "Infirmary Capacity",
+      "id": 20021,
+      "name": "Infirmary Cap↑"
+    },
+    "10103": {
+      "buttonName1": "March Speed to Cities Increases",
+      "id": 10103,
+      "name": "March Speed to Cities Increases"
+    },
+    "10107": {
+      "buttonName1": "Enemy Troop Death Rate↑ in PvP",
+      "id": 10107,
+      "name": "Enemy Troop Death Rate↑ in PvP"
+    },
+    "10155": {
+      "buttonName1": "Squad 4 March Speed↑",
+      "id": 10155,
+      "name": "Squad 4 March Speed↑"
+    },
+    "10109": {
+      "buttonName1": "Reduces soldier casualties in Training Grounds when your territory is breached",
+      "id": 10109,
+      "name": "Barrack Casualties ↓ when Breached"
+    },
+    "10102": {
+      "buttonName1": "March Speed Towards Players↑",
+      "id": 10102,
+      "name": "March Speed Towards Players↑"
+    },
+    "10099": {
+      "buttonName1": "Soldier DEF↑",
+      "id": 10099,
+      "name": "Soldier DEF↑"
+    },
+    "20002": {
+      "buttonName1": "Timber Output↑",
+      "id": 20002,
+      "name": "Timber Output↑"
+    },
+    "30002": {
+      "buttonName1": "Extra Diamonds on Top-ups",
+      "id": 30002,
+      "name": "Extra Diamonds on Top-ups"
+    },
+    "10090": {
+      "buttonName1": "Squad 4 Hero DMG Taken from Monsters↓",
+      "id": 10090,
+      "name": "Squad 4 Hero DMG Taken from Monsters↓"
+    },
+    "10084": {
+      "buttonName1": "Hero ATK↑ when Squad 4 defends a city",
+      "id": 10084,
+      "name": "Hero ATK↑ when Squad 4 defends a city"
+    },
+    "10077": {
+      "buttonName1": "Hero HP↑ when Squad 3 attacks a city",
+      "id": 10077,
+      "name": "Hero HP↑ when Squad 3 attacks a city"
+    },
+    "10066": {
+      "buttonName1": "Hero DEF↑ when Squad 2 defends a city",
+      "id": 10066,
+      "name": "Hero DEF↑ when Squad 2 defends a city"
+    },
+    "10061": {
+      "buttonName1": "Squad 1 Hero Physical DMG↑",
+      "id": 10061,
+      "name": "Squad 1 Hero Physical DMG↑"
+    },
+    "10042": {
+      "buttonName1": "Hero DEF↑ when attacking Caravans",
+      "id": 10042,
+      "name": "Hero DEF↑ when attacking Trade Caravans"
+    },
+    "10034": {
+      "buttonName1": "Skill Cooldown Speed",
+      "id": 10034,
+      "name": "Skill Cooldown Speed"
+    },
+    "10105": {
+      "buttonName1": "March Speed in Cursed Land↑",
+      "id": 10105,
+      "name": "March Speed in Cursed Land↑"
+    },
+    "10024": {
+      "buttonName1": "Hero Physical DMG Taken↓",
+      "id": 10024,
+      "name": "Hero Physical DMG Taken↓"
+    },
+    "10002": {
+      "buttonName1": "Hero HP",
+      "id": 10002,
+      "name": "Hero HP"
+    },
+    "10020": {
+      "buttonName1": "Ranger Hero DMG↑",
+      "id": 10020,
+      "name": "Ranger Hero DMG↑"
+    },
+    "10011": {
+      "buttonName1": "Warlock Hero HP↑",
+      "id": 10011,
+      "name": "Warlock Hero HP↑"
+    }
+  },
+  "len": 345,
+  "key": "id",
+  "source_format": "locale rows"
+}

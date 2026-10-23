@@ -1,0 +1,725 @@
+﻿record_key,noticeText3,defaultRedDot,prefabPath,AllianceEventIcon,noticeText4,afterBuySort,activityReward,activityDesc1,noticeText1,showTime,subscriptDesc,boardDescPara2,reward,activityRewardEffect,sort,icon,activityListType,subscriptIcon,showInAllianceEvent,iconSingleDisplayPosition,banner2,spine,showType,iconSingleDisplay,boardDesc,rewardEffect,pointCoin,activityDesc2,noticeText2,activityGoto,noticeText5,name,banner3,noticeTime,noticeSort,comprehensiveIconId,heroId,id,banner,activityInstruction,iconSingleDisplayPriority,activityDay,unlockEffect,awardClaimNotDisplay,showDecorationId,boardDescPara,entranceLastTime
+3001400,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1031,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50013,3001400,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+10000201,,0,,,,0,{},,,0,,,{},{},7000,,0,,0,0,,0,2,,,,0,,,,,VIP Offer,,0,0,0,0,10000201,,,0,0,,0,0,,0
+100401,,0,,,,0,{},Technology Research,,0,,,{},{},100,,1,,0,1,pic_jbjs_tu2,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Research Technology,,0,999,0,0,100401,,,1001,0,,0,0,,0
+10000102,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,,0,2,,,,0,,,,,Star Grace,,0,0,0,0,10000102,,"The Grand Grace Festival in the town has commenced, fulfilling everyone's wishes.
+
+Event Rules:
+1. The event lasts for 7 days, with 1 pack unlocked daily for the first 5 days. After purchasing all 5 packs, the Grace Grand Prize will be received for free.
+2. During the event, you can claim 1 free gift daily from the interface.
+3. After the event concludes, unclaimed rewards will be sent via mail.",0,0,,0,0,,0
+3002200,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_10,0,2,,,,0,,,,,Raven's Might,icon_points04,0,0,0,0,3002200,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+2900101,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},4000,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Wishing Wheel,,0,104,0,0,2900101,,,0,0,,0,0,,0
+900213,,0,,,,0,{},Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900213,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+900202,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_fragment_50007""}}","Purchase packs to obtain Star Coins. Collect them to recruit UR Hero Cynthia!
+Star Coins will be cleared at daily server update.",,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,,1020,2,,,,1,,,,,Daily Top Up Reward,pic_giftbg0208b,0,0,0,0,900202,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"The legendary Star Coin, said to hold mysterious power, can bring good fortune!
+1. During the event, purchase packs to acquire Star Coins. Claim rewards once you reach the required amount.
+2. Claiming rewards does not consume Star Coins. After the event, Star Coins will be cleared.",0,0,,0,0,,0
+8200303,,0,,,,0,{},Strike a deal with pirates and leave empty-handed? Never!,,0,,,{},{},3,,0,,0,0,,0,5,,,,0,,,,,Pirate Market,,0,0,0,0,8200303,img_hdhd_banner_gqjs,"1. Exchange Pirate Gold for your desired items.
+2. Earn Pirate Gold in Pirate's Game events.",0,0,,0,0,,0
+202001,,0,,,Event Duration: {0}-{1},0,{},,Top Healer,0,,,"{""1"": {""id"": ""item_Material_universalFragment_5"", ""type"": 99, ""count"": 72}, ""2"": {""id"": ""item_castleBox_Food_4"", ""type"": 99, ""count"": 6}, ""3"": {""id"": ""item_castleBox_Metal_4"", ""type"": 99, ""count"": 6}, ""4"": {""id"": ""item_castleBox_Energy_4"", ""type"": 99, ""count"": 6}, ""5"": {""id"": ""item_castleBox_HeroEXP_2"", ""type"": 99, ""count"": 32}, ""6"": {""id"": ""item_optionalBox_Resource"", ""type"": 99, ""count"": 50}}",{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,1,,,,0,,Top Healer event is about to begin. Participate for generous rewards.,,,Top Healer,,259200,999,0,0,202001,,,0,0,,0,0,,0
+8200205,,0,,,,0,{},,,0,,,{},{},4,,0,,0,0,,0,5,,,,0,,,,,Sweetheart Banquet,,0,0,0,0,8200205,,"1. Submit specified items to increase Banquet EXP.
+2. The banquet event is shared by all players on this server. When EXP reaches the requirement, Banquet Level can be increased, and all players can claim level rewards.",0,0,,0,0,,0
+45001053,,0,,,,0,{},Buy the Blade Pack to increase event points and claim stage rewards!,,0,,,{},{},4000,,0,,0,0,,0,9,,,,0,,,,,Blades Out,,0,0,0,0,45001053,,"Ready for battle. Strike with steel!
+During the event, Doctors can obtain Stone Blades by purchasing Blade Packs. Packs refresh daily at 0:00 server time.
+1.Stone Blades can be exchanged for rewards. Each reward has a limited number of exchanges.
+2.Purchasing Blade Packs also increases bonus progress. Reach the required milestones to claim corresponding rewards.
+3.Purchasing Blade Packs grants the same amount of VIP points as purchasing Diamond Packs in the Shop.",0,0,,0,0,,0
+3002500,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_10,0,2,,,,0,,,,,Raven's Might,icon_points04,0,0,0,0,3002500,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3003600,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_2,0,2,,,,0,,,,,Exclusive Weapon,icon_zl_zhuanwubi,0,0,0,0,3003600,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+201001,,0,,,Event Duration: {0}-{1},0,{},,Top Healer,0,,,"{""1"": {""id"": ""item_Material_universalFragment_5"", ""type"": 99, ""count"": 70}, ""2"": {""id"": ""item_castleBox_Food_4"", ""type"": 99, ""count"": 6}, ""3"": {""id"": ""item_castleBox_Metal_4"", ""type"": 99, ""count"": 6}, ""4"": {""id"": ""item_castleBox_Energy_4"", ""type"": 99, ""count"": 6}, ""5"": {""id"": ""item_castleBox_HeroEXP_2"", ""type"": 99, ""count"": 35}, ""6"": {""id"": ""item_optionalBox_Resource"", ""type"": 99, ""count"": 50}}",{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,1,,,,0,,Top Healer event is about to begin. Participate for generous rewards.,,,Top Healer,,259200,999,0,0,201001,,,0,0,,0,0,,0
+3002700,,0,,,,0,{},,,0,,,{},{},900,,0,,0,0,pic_zl_banner1_1,1018,2,,,,0,,,,,Awaken Pass,icon_points11,0,0,0,30006,3002700,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+4800101,,0,,,,0,{},"Appears at the following server time:
+{0}",,0,,,{},{},40000,,0,,0,0,UI_Sprite/Bg/Activity/Worldboss_label_bg2.png,0,1,,,,0,,,,,Shadow Blight,UI_Sprite/Bg/Activity/Worldboss_bg_mask2.png,0,0,0,0,4800101,,"Rules:
+1. Every Monday and Thursday at 0:00, 6:00, 12:00, and 18:00 server time, Demon King: Ranger Blight will appear on the World Map for 3 hours. Doctors can track it through the event interface.
+2. During the Demon King: Ranger Blight's arrival, Doctors with Lv.8 territory can dispatch troops to attack the it.
+3. The Demon King cannot be rallied against, and players can attack 5 times daily.
+4. Warrior Heroes deal extra damage to Demon King: Ranger Blight.
+
+Rewards:
+1. Launch the specified number of attacks to receive rewards.
+2. On the challenge day, the highest damage dealt in an attempt will be recorded and ranked. Higher rankings yield better rewards.
+3. Achievement rewards will gradually open according to server time, and rewards of each tier can only be claimed once per person.",0,0,,0,0,,0
+14000101,,0,,,,0,{},Complete quests and unlock chests on your conquest!,,0,,,{},{},4000,,0,,0,0,,0,0,,,,0,,,,,Lord's Chest,,0,0,0,0,14000101,,Complete 4 designated quests to claim your Lord's Chest reward!,0,0,,0,0,,0
+3001700,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_8,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3001700,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+6000101,,0,,,,0,{},Collect Recluse Coins and exchange for amazing rewards!,,0,,,{},{},310,,0,,0,0,,0,1,,,,0,"Upon refresh, a random set of items is selected based on probabilities. Each set contains 1 free item, 2 premium items, and 3 standard items. Refreshed items may repeat.
+Below are the probabilities and prices for each item type.",,,,Recluse Merchant,,0,0,0,0,6000101,pic_sjjz_bg1,"The taciturn Recluse Merchant has brought plenty of wonderful surprises to the town.
+1. During the event, Doctors may spend Recluse Coins to redeem all kinds of rare goods from the Recluse Merchant. Recluse Coins are earned by completing designated events or purchasing packs.
+2. The Recluse Merchant displays six items every time, one of which is completely free.
+3. The merchant's inventory will not refresh automatically. You are able to manually refresh the item list, which replaces every listed item with new stock.
+4. You get 8 manual‑refresh chances each day. Once all free refreshes run out, Diamonds will be consumed for further shop refreshes.",0,0,,0,0,,0
+8200408,,0,,,,0,{},"Complete Daily Timed Quests, earn points, and claim generous rewards!",,0,,,{},{},98000,,0,,0,0,,0,0,,,,0,,,,,Daily Timed Quest,,0,0,0,0,8200408,,,0,0,,0,0,,0
+3000300,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1019,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50004,3000300,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+202301,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_researchBuild.png,2,,0,0,,0,0,,,,0,,,,,Technology Research,,0,999,0,0,202301,,,0,0,,0,0,,0
+4500104,,0,,,,0,{},Buy event items to increase Strange Coins and claim stage rewards!,,0,,,{},{},4000,,0,,0,0,,0,8,,,,0,,,,,Strange Bazaar,,0,0,0,0,4500104,pic_sjjz_bg1,"Strange Bazaar
+During the event, Doctors can acquire Strange Coins by purchasing Strange Packs and exchange them for various items.
+When purchasing Strange Packs, reward progress will accumulate. Once the reward progress reaches a certain level, rewards can be claimed.
+At the end of the event, unused Strange Coins will not expire and can be used when the event reopens.",0,0,,0,0,,0
+3003200,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1026,2,,,,0,,,,,Wolven Claw,icon_zl_zhuanwubi,0,0,0,50010,3003200,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing quests and unlock corresponding rewards.",0,0,,0,0,,0
+5800103,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu3,0,0,,,,0,,,,,Phase 3: Tech Research,,0,999,1002,0,5800103,,,0,3,,0,0,,0
+100101,,0,,,,0,{},Enhance Heroes,,0,,,{},{},100,,1,,0,1,pic_jbjs_tu5,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Enhance Heroes,,0,999,0,0,100101,,,1001,0,,0,0,,0
+3000000,,0,,,,0,{},,,0,,,{},{},80000,,0,,0,0,pic_zl_banner1,0,3,,,,0,,,,,Healing Pass,icon_xianfengbi_1,0,0,0,0,3000000,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+900201,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_fragment_30006""}}",Purchase packs to obtain Star Coins. Collect them to recruit UR Hero Marlena!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,,1018,2,,,,1,,,,,Top Up Reward,pic_giftbg0208b,0,0,0,0,900201,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"The legendary Star Coin, said to hold mysterious power, can bring good fortune!
+1. During the event, purchase packs to acquire Star Coins. Claim rewards once you reach the required amount.
+2. Claiming rewards does not consume Star Coins. After the event, Star Coins will be cleared.",0,0,,0,0,,0
+100301,,0,,,,0,{},Train Soldiers,,0,,,{},{},100,,1,,0,1,pic_jbjs_tu4,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Train Soldiers,,0,999,0,0,100301,,,1001,0,,0,0,,0
+900206,,0,,,,0,{},Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900206,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+8200401,,0,,,,0,{},"When stars and moon align, loved ones reunite!",,0,,,{},{},2,,0,,0,0,,0,11,,,,0,,,"820040102,820040103",,Starry Promise,,0,0,0,0,8200401,,"The day stars and moon meet, is also the time for reunion!
+Event Rules:
+1. During the Event, use ""Moon Coins"" to draw prizes. Each draw earns points, accumulate points to claim Phase Rewards.
+2. If your draw includes Chests, you'll unlock them for bonus rewards. In a single draw, each Chest pattern grants one unlock attempt.
+3. In the draw results, more matching patterns mean better rewards. Use 5x Mode to draw, ""Moon Coin"" consumption and rewards will multiply by 5.
+4. During the Event, purchase Packs to receive Lucky Gold Eggs.
+5. After the Event ends, unused ""Moon Coins"" convert to Speedup items, and are sent via mail. Unconverted items can be manually converted in your Bag after expiration. Conversion rate: 1 ""Moon Coin"" converts to 1min Universal Speedup*30.
+6. During the event, complete daily quests to earn designated rewards, unclaimed daily Quest Rewards will be resent via mail the next day.",0,0,,0,0,,0
+5700101,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu1,0,0,,,,0,,,,,Phase 1: Enhance Raven,,0,999,1002,0,5700101,,,0,1,,0,0,,0
+3002600,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_11,0,2,,,,0,,,,,Tempered Arms,icon_points04,0,0,0,0,3002600,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+9002011,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_fragment_30006""}}",Purchase packs to obtain Star Coins. Collect them to recruit UR Hero Marlena!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,,1018,2,,,,1,,,,,Top Up Reward,pic_giftbg0208b,0,0,0,0,9002011,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"The legendary Star Coin, said to hold mysterious power, can bring good fortune!
+1. During the event, purchase packs to acquire Star Coins. Claim rewards once you reach the required amount.
+2. Claiming rewards does not consume Star Coins. After the event, Star Coins will be cleared.",0,0,,0,0,,0
+4500102,,0,,,,0,{},Accumulate rewards to win grand prizes!,,0,,,{},{},4000,,0,,0,0,,0,6,,,,0,,,,,Dwarven Mine,,0,0,0,0,4500102,,"The ancient dwarven mines still hold vast treasures.
+1. Each excavation requires 1 Dwarven Pickaxe. Obtain Dwarven Pickaxes by completing quests or purchasing packs.
+2. At server time 0:00 daily, Dwarven Pickaxe quests will reset.
+3. Before digging, select the wish reward for the current floor.
+4. Upon reaching floors 5, 10, 20, 30, 40, 60, 80, 100, receive extra progress rewards.
+5. During the event, you can dig up to 200 floors.
+Each excavation yields 1 random reward. Rewards and weights are as follows:
+Normal Rewards: All have a weight of 10.
+Special Rewards: Base weight is 1. After 3 digs on the same floor, it increases to 5. After 6 digs, it increases to 10. After 9 digs, it increases to 30.
+6. When digging a certain number of times on the same floor, the next excavation will definitely yield a Special Reward. The required number of times varies by floor, as follows:
+Floors 1, 6, 11, 16, 21, 26, 31, 36, 41, 46, 51, 56, 61, 66, 71, 76, 81, 86, 91, 96: 5 times.
+Floors 2, 7, 12, 17, 22, 27, 32, 37, 42, 47, 52, 57, 62, 67, 72, 77, 82, 87, 92, 97: 6 times.
+Floors 3, 8, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63, 68, 73, 78, 83, 88, 93, 98: 8 times.
+Floors 4, 9, 14, 19, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 84, 89, 94, 99: 5 times.
+Floors 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100: 10 times.",0,0,,0,0,,0
+4500107,,0,,,,0,{},Eliminate Wandering Blights for generous rewards!,,0,,,{},{},10000,,0,,0,0,,0,1,,,,0,,,,,Wandering Phantom,,0,0,0,0,4500107,,"Danger never truly vanishes, as lurking Blights constantly seek chances to strike towns.
+Event Rules:
+[Requirements]
+1. Reach Sanctuary Lv.8 or higher to participate.
+[Instructions]
+1. During the event, territories may be attacked by Wandering Blights.
+2. If Wandering Blights breach a Territory during the event, it will remain in place and not be relocated.
+3. When Wandering Blights breach a territory, the idle soldiers' death rate will decrease.
+4. On the event day, Wandering Blights will spawn more frequently that calls for enhanced defense.
+[Rewards]
+1. During the event, the Wandering Blights 1st-Kill Reward can be claimed up to 3 times.
+2. During the event, the entire Kingdom collaborates to complete Kingdom Quests, and all Doctors meeting the event conditions will receive rewards.
+3. Doctors will be ranked based on total damage dealt to Wandering Blights during the event. After the event ends, rewards will be sent according to the rankings.",0,0,,0,0,,0
+3001600,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_7,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3001600,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+11000101,,0,,icon_lmsj_cujinshangu,,0,{},,,0,,,{},{},4000,,0,,1,0,,0,1,,,,0,,,,,Crystal Cluster Valley,,0,0,0,0,11000101,,"Event Rules:
+1. Crystal Cluster Valley opens for 30 minutes each time, during which Doctors can collect Purified Crystal by occupying different clusters on the map.
+2. In Crystal Cluster Valley, you receive soldiers equal to your Barracks max capacity on entry, all at your highest unlocked tier.
+3. In Crystal Cluster Valley, you cannot attack other territories, but you can seize gathering points occupied by others (including Alliance members). If a point is seized after reaching a certain collection amount, the gathered Purified Crystal will scatter as Crystal Shard around it.
+4. When failing to seize a gathering point, the Hero records 1 failure. Consecutive failures stack, and upon reaching a certain number, the Hero gains a debuff. Failures are timed, and when the timer resets, the count decreases by 1.
+5. Plague Rats appear in Crystal Cluster Valley. Defeating them grants Skill Crystals, which can be used to activate Valley Skill. Valley Skill only takes effect in Crystal Cluster Valley and resets at the start of the next session.
+6. You can use free Relocate in Crystal Cluster Valley. After use, it enters cooldown, during which you can relocate by consuming Advanced Relocate Items.",0,0,,0,0,,0
+100001,,0,,,,0,{},,,0,,,{},{},100,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,1,,0,1,,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Survival Battle,,0,999,0,0,100001,,,1001,0,,0,0,,0
+8200308,,0,,,,0,{},"Complete Daily Timed Quests, earn points, and claim generous rewards!",,0,,,{},{},98000,,0,,0,0,,0,0,,,,0,,,,,Daily Timed Quest,,0,0,0,0,8200308,,,0,0,,0,0,,0
+8200404,,0,,,,0,{},"The festival approaches, how can we miss festive treats? Get hands-on, craft delicious Mooncakes together!",,0,,,{},{},5,,0,,0,0,,0,11,,,,0,,,,,Mooncake Making,,0,0,0,0,8200404,img_zqj_banner_djhq,"1. During the Event, farm Mooncakes from Falcon Tower, Resource Monsters, Elite Blights, Secret Squads, and Wandering Blights. Mooncakes can be used in the Mooncake Tasting Event.
+Unclaimed daily limits carry over to the next day.",0,0,,0,0,,0
+3100200,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_5,0,2,,,,0,,,,,UR Gauntlets Pass,icon_points05,0,0,0,0,3100200,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+470020101,,0,,,,0,{},,,3600,,,{},{},65000,,0,,0,0,UI_Sprite/Bg/Activity/Dawn_bg_background.png,0,1,,,"1.每期活动都有5个连续关卡，中途退出或任意一关挑战失败，则需要从头开始挑战
+2.每一轮挑战中，每个关卡幸存的士兵将会被累计在本轮中，活动会记录玩家成绩最好的一轮幸存的士兵数和通关关卡数，参与活动排名
+3.活动分为挑战奖励和排名奖励，挑战奖励只需要参与即可领取，排名奖励需等待当期活动结束后统一邮件发放
+4.活动结束后将有一段排名展示期，期间不可再进行挑战",0,,,,,Dawn Breakout,,0,0,0,0,470020101,,,0,0,,0,0,,0
+3001000,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1027,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50003,3001000,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+5200101,,0,,icon_lmsj_shichaoweicheng,,0,{},,,0,,,{},{},41000,,0,,1,0,,0,1,,,,0,,,,,Undead Siege,,0,0,0,0,5200101,,"A death row prison shrouded in thick fog has been ravaged by plague. The inmates and guards within have been infected, transforming into savage Blights. Hordes of Blights now threaten to assault us. Complete Falcon Quests to gather clues, pinpoint the prison's location, and prepare our defenses.
+
+[Event Activation]
+Alliance members acquire clues by completing Falcon Quests:
+Defeat Rebels +300
+Vanquish Blight Legion +300
+Slay Wandering Blight +300
+Clear Blights +10
+Aid Alliance Members +10
+Resource Recovery +10
+Harvest Resources +10
+Alliance Excavation +10
+Once sufficient clues are gathered, R4 and R5 members can dispatch Falcons to locate the prison and schedule a challenge.
+The prison is available in multiple difficulty levels. Higher difficulties feature stronger enemies but offer greater rewards. Before starting the search, R4 and R5 members may manually select the desired difficulty based on the Alliance's strength.
+After each successful event activation, search enters cooldown.
+
+[Requirements]
+1. Your Territory must meet the minimum level requirement for the selected difficulty.
+2. Being in the alliance for more than 48 hours; offline time under 72 hours.
+3. Territory is not currently in cross-server state.
+
+[Event Rules]
+1. Once the event officially begins, the prison unleashes waves of Blights attacking eligible members' territories.
+2. Blight attacks ignore shield protection—ensure your troops are positioned for defense.
+3. Once a member's territory is breached, they won't be targeted by Blights for the remainder of the event.
+4. If you relocate your city during the event, you will be unable to rejoin the event.
+[Reward Details]
+1. The more waves members successfully defend, the higher their personal rewards.
+2. The more waves the Alliance collectively defends, the higher the Alliance rewards.
+Alliance rewards are only claimable by members who have been in the alliance for over 48 hours.",0,0,,0,0,,0
+910207,,0,,,,0,{},Purchase packs to obtain Obsidian and earn generous rewards,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,910207,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.",0,0,,0,0,,0
+3110000,,0,,,,0,{},,,0,,,{},{},8000,,0,,0,0,pic_zl_banner1_2,0,2,,,,0,,,,,Login Rewards,icon_points03,0,0,0,0,3110000,,Log in daily for generous rewards!,0,0,,0,0,,0
+6000102,,0,,,,0,{},Unravel the enigma and discover the secrets within.,,0,,,{},{},320,,0,,0,0,,0,1,,,,0,,,,,Recluse's Enigma,,0,0,0,0,6000102,pic_sjjz_bg1,"1. Each row and column contains multiple node quests. Complete all quests in the same row or column to unlock the chest and claim rewards!
+2. During the event, complete the required number of quests to earn extra rewards!
+3. Remember to claim your rewards before the event ends.",0,0,,0,0,,0
+5800102,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu2,0,0,,,,0,,,,,Phase 2: Territory Development,,0,999,1002,0,5800102,,,0,2,,0,0,,0
+16000101,,0,,,,0,{},Eliminate Threats Guide,,86400,,,{},{},4000,,0,,0,0,,0,0,,,,0,,,,,Eliminate Threats,,0,0,0,0,16000101,pic_nengli_banner1,"Under the Black Wizard's influence, powerful monsters have gathered around our territory, cutting off contact with other Doctors and making resources harder to obtain. To restore communication and secure vital supplies, we must eliminate these threats and reopen the path to the outside world.
+
+1. Doctors from 16 kingdoms within the same kingdom group will participate in this event.
+2. Rankings are based on the highest-level monster defeated. If multiple Doctors defeat monsters of the same level, the player who achieved it first will rank higher.
+3. Only monsters of Lv.3 or above count toward the leaderboard.
+4. Leaderboard rankings use the highest monster level defeated across all 3 monster types. (Example: If you defeat a Sculptor Blight at Lv.5 and a Painter Blight at Lv.6, your Lv.6 Painter Blight record will be used.)
+5. The event settles rewards once per day. Leaderboard rankings will not reset upon settlement, and all rewards will be delivered via mail.
+6. The event lasts for 7 days. Final rankings will remain available for viewing for 1 day.",0,0,,0,0,,0
+900101,,0,,,,0,{},,,0,,,{},{},79999,,0,,0,0,,1005,3,,,,0,,,,,Path to Healing,,0,0,0,10006,900101,,,0,0,,0,0,,0
+5500401,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500401,,,0,0,,0,0,,0
+8200403,,0,,,,0,{},"The dazzling Lanterns in the night sky are mesmerizing, take your favorite items home now!",,0,,,{},{},3,,0,,0,0,,0,11,,,,0,,,,,Starry Bazaar,,0,0,0,0,8200403,img_zqj_banner_gqjs,"1. Exchange Star-Moon Sigils for your desired items.
+2. Star-Moon Sigils can be obtained in the Starry Promise Event.",0,0,,0,0,,0
+15000103,,0,,,,0,{},Enhance Exclusive Weapons to help Heroes break through to greater power!,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Exclusive Weapon Bond,,0,0,0,0,15000103,pic_nengli_banner1,Claim rewards at designated Exclusive Weapon Stars,0,0,,0,0,,0
+202701,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,0,,,,0,,,,,Survival Battle,,0,999,0,0,202701,,,0,0,,0,0,,0
+100501,,0,,,,0,{},Enhance Raven,,0,,,{},{},100,,1,,0,1,pic_jbjs_tu3,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Enhance Raven,,0,999,0,0,100501,,,1001,0,,0,0,,0
+3000200,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1017,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,10007,3000200,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3000600,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1023,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50002,3000600,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+5501501,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501501,,,0,0,,0,0,,0
+5700103,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu3,0,0,,,,0,,,,,Phase 3: Tech Research,,0,999,1002,0,5700103,,,0,3,,0,0,,0
+900208,,0,,,,0,{},Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900208,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+8200301,,0,,,,0,{},Ancient Anchor Coins unlock treasures from the deep!,,0,,,{},{},2,,0,,0,0,,0,5,,,,0,,,"820030102,820030103",,Pirate's Game,,0,0,0,0,8200301,,"Clink, clank! Pirates' Anchor Coins ring out with delightful chimes as your surprise awaits!
+Event Rules:
+1. During the event, use ""Anchor Coins"" to draw prizes. Each draw earns points; accumulate points to claim Phase rewards.
+2. If your draw includes Chests, you'll unlock them for bonus rewards. Each Chest pattern in a single draw grants one unlock attempt.
+3. More matching patterns in your draw mean better rewards. Use 5x Mode to multiply both Anchor Coin consumption and rewards by 5 times.
+4. Purchase Packs during the event to receive Lucky Gold Eggs
+5. After the event ends, unused ""Anchor Coins"" convert to Speed-Up Items and are sent via Mail. Unconverted Items can be manually converted in your Bag after expiration. Conversion rate: 1 ""Anchor Coin"" converts to 1min Universal Speed-Up ×30
+6. Complete daily tasks during the event to earn designated rewards; unclaimed daily rewards will be resent via Mail the next day.",0,0,,0,0,,0
+9990101,,0,,,,0,{},,,0,,,{},{},99000,,0,,0,0,,0,1,,,,0,,,,,Bind for Reward,,0,0,0,0,9990101,,,0,0,,0,0,,0
+9980101,,0,,,,0,{},,,0,,,{},{},150,,0,,0,0,UI_Sprite/Bg/Activity/Worldboss_label_bg2.png,0,1,,,,0,,,,,Alliance Expedition,,0,0,0,0,9980101,,,0,0,,0,0,,0
+201101,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_hero.png,2,,0,0,,0,0,,,,0,,,,,Resource Acquisition,,0,999,0,0,201101,,,0,0,,0,0,,0
+3000800,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1025,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50007,3000800,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+470030101,,0,,,,0,{},,,3600,,,{},{},65000,,0,,0,0,UI_Sprite/Bg/Activity/Dawn_bg_background.png,0,1,,,"1.每期活动都有5个连续关卡，中途退出或任意一关挑战失败，则需要从头开始挑战
+2.每一轮挑战中，每个关卡幸存的士兵将会被累计在本轮中，活动会记录玩家成绩最好的一轮幸存的士兵数和通关关卡数，参与活动排名
+3.活动分为挑战奖励和排名奖励，挑战奖励只需要参与即可领取，排名奖励需等待当期活动结束后统一邮件发放
+4.活动结束后将有一段排名展示期，期间不可再进行挑战",0,,,,,Dawn Breakout,,0,0,0,0,470030101,,,0,0,,0,0,,0
+9970101,,0,,,,0,{},,,0,,,{},{},100,,0,,0,0,UI_Sprite/Bg/Activity/Worldboss_label_bg2.png,0,1,,,,0,,,,,Strike First,,0,0,0,0,9970101,,,0,0,,0,0,,0
+201601,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,0,,,,0,,,,,Full Development,,0,999,0,0,201601,,,0,0,,0,0,,0
+9960101,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,,0,0,,,,0,,,,,Alliance League,,0,0,1002,0,9960101,,"Fight harder and grow stronger!
+1. When the League starts, Kingdoms that have been open for over 7 weeks can participate. If there are not enough eligible Kingdoms, some Kingdoms may not have a league for that round.
+2. Only the top 16 Alliances within a Kingdom can join.
+3. If there are not enough Alliances within the same rank to form a group, the remaining Alliances may be matched with Alliances from other ranks.
+
+Ranking Rules:
+1. More victories during the event mean a higher ranking. When victories are tied, the Alliance with earlier wins ranks higher.
+2. If both victories and win time have a tie, ranking is randomized.
+3. At the end of each League period, the top 16 Alliances are ranked by victory count and win order, then promoted or demoted based on in-group ranking. Rank changes affect the next League period.
+
+Reward Details:
+1. Players must earn a certain amount of points during the League to claim rewards.
+2. League rewards are distributed when each event period ends.",0,0,,0,0,,0
+5900101,The Royal City is about to open! A new king will emerge amidst fire and glory!,1,,icon_lmsj_wangzhan,"The Royal City is the most enigmatic place on the continent, shrouded in a magical barrier. Now, its mysteries are about to be unveiled. Located at the continent's center, it is of great strategic importance. Seizing the Royal City means ruling the entire continent!",0,{},,Royal City Scramble,0,,,{},{},999,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,2,,1,0,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,0,0,icon_wangchengzhan,,,0,,Event Duration: {0}-{1},,"1. The Doctor and their alliance that continuously occupy the Royal City for 8 hours will achieve victory directly.
+2. When the Royal City is contested, any Doctor can dispatch troops to it and surrounding turrets. Upon arrival, if the occupant is an alliance member, the troops will reinforce. If not, a battle ensues.
+3. When the Royal City and turrets are occupied by different alliances, the turrets will launch shells at the Royal City after charging, causing significant damage to the defending troops.
+4. When the same alliance occupies the buildings for {0} hours (only buildings with a continuous occupation duration exceeding {1} minutes are counted), it triggers a garrison troop buff (requires occupation of {2} or more buildings). The more buildings occupied for over {3} minutes, the better the buff.
+5. The max defense troop size is determined by the occupant's rally size.
+6. During the Royal City contest, 70% of troop losses in battles at the Royal City and turrets will enter the Infirmary, instead of dying instantly.",Royal City Scramble,,0,9999,1004,0,5900101,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,,0,0,,0,0,,0
+202101,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_hero.png,2,,0,0,,0,0,,,,0,,,,,Raven Enhancement,,0,999,0,0,202101,,,0,0,,0,0,,0
+3900101,Event Rules,0,,,"Personal Challenge:
+1. During the event, you may [c][F5B903select any unlocked difficulty[-][/c] for personal challenges.
+2. Difficulty 1 is unlocked by default. Upon [c][F5B903]completing all levels of the chosen difficulty[-][/c] in the current event, the next difficulty will be unlocked [c][F5B903]for the next event[-][/c].
+3. Once a difficulty is chosen, [c][F5B903]it cannot be changed[-][/c].
+4. Begin by summoning and challenging monsters from the [c][F5B903]lowest level[-][/c]. After defeating a monster, you can summon higher-level monsters.
+5. If you're unable to defeat the monsters alone, initiate a rally so that alliance members can assist in defeating them.
+6. Rewards:
+1) [c][F5B903]Defeat the required number of monsters for rewards.[-][/c]
+2) Upon defeating a Boss at a certain level, all alliance members will receive a reward.
+
+Alliance Challenge:
+1. During the event, the [c][F5B903]Leader or Officers[-][/c] can summon the Alliance Boss.
+2. The Alliance Boss must be challenged sequentially. Only 1 Boss can be summoned at a time.
+3. [c][F5B903]A certain number of Doctors must clear the specified stages in their Personal Challenges[-][/c] before the Alliance Boss can be summoned.
+4. The Alliance Boss will be around for 30 minutes after being successfully summoned. [c][F5B903]Defeat the Boss within this time and participating Doctors will earn rewards[-][/c].
+5. If you fail to defeat the Alliance Boss for the first time, there is still one more chance. If you fail again, you can no longer challenge the current or subsequent Bosses, so summon wisely!
+6. Once the event begins, the member list is locked. Eligibility to summon the Alliance Boss is determined by the Personal Challenge statuses of Doctors on the list.
+7. Alliance Boss rewards can only be claimed once.",0,{},,Pandemic Experience,0,,,{},{},800,,0,,0,0,,0,1,,,,0,,Event Duration: {0}-{1},,,Pandemic Experience,,86400,106,0,0,3900101,,"Personal Challenge:
+1. During the event, you may select any unlocked difficulty for personal challenges.
+2. Difficulty 1 is unlocked by default. Upon completing all levels of the chosen difficulty in the current event, the next difficulty will be unlocked for the next event.
+3. Once a difficulty is chosen, it cannot be changed.
+4. Begin by summoning and challenging monsters from the lowest level. After defeating a monster, you can summon higher-level monsters.
+5. If you're unable to defeat the monsters alone, initiate a rally so that alliance members can assist in defeating them.
+6. Rewards:
+1) Defeat the required number of monsters for rewards.
+2) Upon defeating a Boss at a certain level, all alliance members will receive a reward.
+
+Alliance Challenge:
+1. During the event, the Leader or Officers can summon the Alliance Boss.
+2. The Alliance Boss must be challenged sequentially. Only 1 Boss can be summoned at a time.
+3. A certain number of Doctors must clear the specified stages in their Personal Challenges before the Alliance Boss can be summoned.
+4. The Alliance Boss will be around for 30 minutes after being successfully summoned. Defeat the Boss within this time and participating Doctors will earn rewards.
+5. If you fail to defeat the Alliance Boss for the first time, there is still one more chance. If you fail again, you can no longer challenge the current or subsequent Bosses, so summon wisely!
+6. Once the event begins, the member list is locked. Eligibility to summon the Alliance Boss is determined by the Personal Challenge statuses of Doctors on the list.
+7. Alliance Boss rewards can only be claimed once.",0,0,,0,0,,0
+8100101,,0,,,,0,{},Purchase packs during the event to receive rewards.,,0,,,{},{},2600,,0,,0,0,,0,2,,,,0,Multiple Weekly Specials can be purchased simultaneously! Select the goblet to switch Weekly Specials.,,,,Weekly Special,,0,0,0,0,8100101,,"1. During the event, you must choose daily rewards before purchasing Weekly Specials;
+2. Daily rewards cannot be changed when the purchase becomes effective;
+3. After the event starts, one reward claim is unlocked per day. If you purchase a pack on the last day, you can claim all rewards for the days. Unclaimed rewards will be sent via mail;
+4. After the event ends, unclaimed Weekly Specials (including daily rewards not claimed after purchase) will be sent via mail;
+5. Weekly Special II can only be purchased after buying Weekly Special I.",0,0,,0,0,,0
+9900101,,0,,,,0,{},,,0,,,{},{},90000,,0,,0,0,,0,1,,,,0,,,,,Quiz of Wisdom,,0,0,0,0,9900101,,,0,0,,0,0,,0
+6100101,,0,,,,0,{},,,0,,,{},{},1,,0,,0,0,,0,0,,,,0,,,,,Supreme Duel,,0,0,0,0,6100101,,,0,0,,0,0,,0
+470010101,,0,,,,0,{},,,3600,,,{},{},65000,,0,,0,0,UI_Sprite/Bg/Activity/Dawn_bg_background.png,0,1,,,"1.每期活动都有5个连续关卡，中途退出或任意一关挑战失败，则需要从头开始挑战
+2.每一轮挑战中，每个关卡幸存的士兵将会被累计在本轮中，活动会记录玩家成绩最好的一轮幸存的士兵数和通关关卡数，参与活动排名
+3.活动分为挑战奖励和排名奖励，挑战奖励只需要参与即可领取，排名奖励需等待当期活动结束后统一邮件发放
+4.活动结束后将有一段排名展示期，期间不可再进行挑战",0,,,,,Dawn Breakout,,0,0,0,0,470010101,,,0,0,,0,0,,0
+900501,,0,,,,0,{},,,0,,,{},{},50000,,1,,0,0,,0,0,,,,0,,,,,Rally Elite Blight,,0,0,0,0,900501,,,0,0,,0,0,,0
+900301,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_universalFragment_5""}, ""2"": {""type"": 99, ""id"": ""item_heroExp_1k""}, ""3"": {""type"": 99, ""id"": ""item_HeroSkill_Book""}}",,,0,,,{},"{""1"": 1}",50,,2,,0,0,UI_Sprite/Others/Activity/Activity_Banner_lightHope.png,0,1,,,,0,,,,,Final Dawn,,0,0,0,0,900301,UI_Sprite/Others/Activity/Activity_Banner_lightHope.png,"The apocalypse has arrived.
+As a doctor immune to the plague, you are the final hope for humanity.
+Save lives, rebuild homes.
+ Let the world remember your name!
+1. Final Dawn is an event to compete for total Might, so pursue your goals!
+2. Ways to increase Might: You can raise your Might by training soldiers, constructing, researching, nurturing heroes, crafting gear, and enhancing the Raven.",0,0,Prefab/Effect/UI_Effect/EUI_tubiaojiesuo_HopeLight.prefab,0,0,,0
+3100500,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_13,0,2,,,,0,,,,,Epigraph Pass,icon_points09,0,0,0,0,3100500,,"1. The pass has 3 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass and Mythic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+5700100,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,1,,0,0,Icon_UI_Main_AllianceCompetition_02,,,0,,,,,Alliance Competition,,86400,999,1002,0,5700100,,"1. Alliance Duel pairs your alliance with an opponent, competing for Points during the event to determine the winner (Only alliances with more than 20 members on Sunday and ranked in the top 32 in Might on the server can participate in the match).
+2. Alliance Duel consists of 6 phases, focusing on 6 main activities: Raven, Construction, Tech, Hero, Full Development I, Full Development II.
+3. From Monday to Saturday, these 6 phases are held sequentially.
+4. Points granted by daily activities vary. Earning points unlocks reward Chests from stages 1-9.
+5. Daily settlement occurs at server time 00:00. The alliance with the higher total points wins.
+6. Each phase has different winning points, and the side with more winning points at the end of the event wins.
+7. There are daily and weekly player points leaderboards, with ranking rewards distributed at daily and weekly settlements.
+8. Stage 4-9 reward Chests must be unlocked by researching specific techs in the Alliance Duel tech tree.
+9. During Alliance Duel, if a player changes alliances, they will not contribute to alliance points for that day but can still earn personal points and claim Personal Points Rewards.",800,0,,0,0,,0
+900215,,0,,,,0,{},Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900215,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+900214,,0,,,,0,{},Purchase packs to obtain Obsidian and earn generous rewards,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,900214,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.
+2. Claiming rewards does not consume Obsidian. After the event, Obsidian will be cleared.",0,0,,0,0,,0
+900212,,0,,,,0,{},Purchase packs to obtain Obsidian and earn generous rewards,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,900212,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.
+2. Claiming rewards does not consume Obsidian. After the event, Obsidian will be cleared.",0,0,,0,0,,0
+900211,,0,,,,0,{},Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900211,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+9990102,,0,,,,0,{},,,0,,,{},{},99001,,0,,0,0,,0,1,,,,0,,,,,More Events,,0,0,0,0,9990102,,,0,0,,0,0,,0
+14000201,,0,,,,0,{},"Destiny Unlocked, Fortune Arrives!",,0,,,{},{},98000,,0,,0,0,,0,1,,,,0,,,,,Destiny Revelation,,0,0,0,0,14000201,,"The wheels of fate turn silently, and your fortune is about to be revealed!
+Rules:
+1. During the event, you can draw rewards each day.
+2. Choose your preferred Diviner for different rewards.
+3. Each draw has an extra 5% chance to obtain [Fish Amulet] Curio.
+4. Status effects obtained from draws last for 8 hours.",0,0,,0,0,,0
+5501001,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501001,,,0,0,,0,0,,0
+900207,,0,,,,0,{},"Buy packs to obtain Obsidian and collect them for generous rewards!
+Obsidian will be cleared at daily server update.",,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,900207,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.
+2. Claiming rewards does not consume Obsidian. After the event, Obsidian will be cleared.",0,0,,0,0,,0
+202601,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,0,,,,0,,,,,Full Development,,0,999,0,0,202601,,,0,0,,0,0,,0
+900205,,0,,,,0,{},"Buy packs to obtain Obsidian and collect them for generous rewards!
+Obsidian will be cleared at daily server update.",,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,900205,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.
+2. Claiming rewards does not consume Obsidian. After the event, Obsidian will be cleared.",0,0,,0,0,,0
+8200102,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,img_fhj_banner_zl,0,5,,,,0,,,,,Easter Celebration,icon_points10,0,0,0,0,8200102,,"Holy Light dispels darkness, life reborn from ashes. Easter Celebration now open.
+
+Rules:
+1. Complete objective quests and daily objectives to earn Points, increase celebration level, and unlock stage rewards.
+2. During the event, you can purchase Epic Celebration Reward and Mythic Celebration Reward at any time.",0,0,,0,0,,0
+900203,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_fragment_20009""}}",Buy packs to obtain recipes and collect them to win great rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_005,0,2,,,,4,,,,,Ancient Recipe,pic_giftbg_gldpf,0,0,0,0,900203,,"Ancient recipes lost for years have resurfaced!
+1. During the event, purchase packs to obtain recipes. Claim rewards once the recipes reach the specified quantity.
+2. Claiming rewards does not consume recipes. After the event, recipes will be cleared.",0,0,,0,0,,0
+5500801,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500801,,,0,0,,0,0,,0
+3100100,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_3,0,2,,,,0,,,,,Gear Pass,icon_points05,0,0,0,0,3100100,,"1. The pass has 3 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass and Mythic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+5500201,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500201,,,0,0,,0,0,,0
+5500301,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500301,,,0,0,,0,0,,0
+201701,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_activity_integrated.png,2,,0,0,,0,0,,,,0,,,,,Survival Battle,,0,999,0,0,201701,,,0,0,,0,0,,0
+4500108,,0,,icon_lmsj_weiliezhizhan,,0,{},Eliminate the Wandering Phantom for generous rewards!,,0,,,{},{},10000,,0,,1,0,,0,1,,,,0,,,,,Hunt Battle,,0,0,0,0,4500108,,"1. When an Alliance has over 20 members, R5 or R4 can initiate a Hunt Battle once during the event. The Alliance can only choose one difficulty level per challenge.
+2. After the event starts, there is a 5-minute preparation period during which Blight spawn points appear in the Alliance Territory. Once the preparation time ends, 5 waves of Blight will spawn, with increasing difficulty.
+3. The more Blight the entire Alliance defeats within the specified time after they appear, the greater the rewards.
+4. Troops attacking Event Blight have a fixed march and return time of 15s. Alliance members can participate in the event even if their Territory is not near the Alliance Territory.",0,0,,0,0,,0
+4400101,,0,,,,0,{},"Appears at the following server time:
+{0}",,0,,,{},{},40000,,0,,0,0,pic_sjboss_haibao2,0,1,,,,0,"Available (local time):
+{0}",,,,Demon King: Warlock Blight,,0,0,0,0,4400101,,"The Demon King emerges, bringing disaster. To prevent the shadow from engulfing this world, rally your forces and eliminate the threat!
+
+Event Rules:
+1. Every Monday and Thursday, the Demon King Warlock Blight will appear on the World Map.
+2. Doctors with Sanctuary Lv.8 or above can deploy troops to attack the Demon King. Each player may attack up to 10 times per day. Rally attacks are not supported.
+3. Warrior Heroes can deal extra damage to the Demon King Warlock Blight. Choose your lineup wisely to maximize damage.
+4. On each event day, rankings will be based on each player's highest single-attack damage. Higher ranks unlock better rewards.
+5. Achieve the specified number of attacks to earn personal rewards.
+6. Achievement rewards will unlock gradually based on server time. Each reward tier can be claimed once per player.",0,0,,0,0,,0
+3001800,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_6,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3001800,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3002100,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_12,0,2,,,,0,,,,,Heroes Assemble,icon_points04,0,0,0,0,3002100,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+202501,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_soldier.png,2,,0,0,,0,0,,,,0,,,,,Soldier Training,,0,999,0,0,202501,,,0,0,,0,0,,0
+8200405,,0,,,,0,{},Fresh mooncakes are ready! Which flavor do you prefer?,,0,,,{},{},4,,0,,0,0,,0,11,,,,0,,,,,Mooncake Tasting,,0,0,0,0,8200405,,"1. Submit specified items to increase Mooncake Tasting EXP.
+2. The Mooncake Tasting event is shared by all players on this server, when required amount of EXP is reached, Tasting Level can be increased, and all players can claim level rewards.",0,0,,0,0,,0
+8200402,,0,,,,0,{},"Legend says a cute Jade Rabbit lives on the moon, tirelessly brewing divine elixirs. This tale embodies the wish for peace and health.",,0,,,{},{},1,,0,,0,0,img_zqj_banner_bp,0,11,,,,0,,,,,Jade Rabbit's Elixir,icon_zq_yaowan,0,0,0,0,8200402,,"Legend says an adorable Jade Rabbit dwells on the moon, tirelessly brewing divine elixirs. This tale embodies our wishes for peace and well-being.
+
+Rules:
+1. Complete target quests and daily goals to earn Pills, raise your Level, and unlock corresponding rewards.
+2. During the rvent, you can purchase to unlock Epic rewards and Mythic rewards at any time.",0,0,,0,0,,0
+8200307,,0,,,,0,{},Shells hide dazzling treasures within!,,0,,,{},"{""1"": 1, ""2"": 2}",6,,2,,0,0,img_hdhd_banner_cz,0,5,,,,6,,,,,Deep Sea's Gift,img_hdhd_ljcz_xxd,0,0,0,0,8200307,,"Legendary treasures slumbering in the ocean depths are about to emerge!
+1. During the event, purchase packs to obtain shells. Claim rewards once shells reach the specified quantity.
+2. Claiming rewards does not consume shells. After the event, shells will be removed.",0,0,,0,11011,,0
+10102011,,0,,icon_lmsj_xiaguzhengfeng,,0,{},Clash in the canyon. Who will be the winner?,,0,,,{},{},4000,,0,,1,0,,0,1,,,,0,,,,,Canyon Conquest,,0,0,0,0,10102011,,"Bravery prevails in narrow encounters, while wisdom triumphs among the brave. Only those with both courage and wit can seize the final victory in desperate straits!
+Participation Requirements
+1. You must join an Alliance.
+2. Territory Lv.10 or higher.
+3. Alliance has at least 15 members registered.
+
+Event Flow
+[Registration Phase]
+1. Members must manually register for Canyon Conquest, select a lane, and deploy troops. Alliances with insufficient registrations will not receive participation slots.
+2. Canyon Conquest does not occupy expedition queues and causes no soldier casualties.
+3. Maximum troop count per lane is determined by the current Canyon Conquest tier.
+4. Higher Might troops deploy first.
+5. All registered members (including those registered but not deployed) receive rewards upon successful Alliance participation.
+6. If a registered member leaves the Alliance after matching begins, their troops continue competing but earn no rewards.
+
+[Matching Phase]
+1. Six Alliances of similar tier are randomly grouped together. Groups with fewer than six Alliances still form; odd-numbered groups may receive byes, automatically winning that round.
+2. Registered Alliances cannot disband until Canyon Conquest ends.
+
+[Preparation Phase]
+1. Canyon Conquest uses round-robin format, with each Alliance battling the other five in their group across 5 rounds.
+2. Before each round begins, members can adjust troop configurations. R5 and Officials can reassign individual troop lanes or swap troops of the entire lane.
+3. After preparation and before combat, the entry phase begins and lane and troop adjustments are locked.
+
+[Combat Phase]
+1. Battle occurs across 3 lanes simultaneously.
+2. Troops on each lane take turns fighting; victors continue with remaining forces against the next troop. Each Troop fights a set number of times before mandatory withdrawal.
+3. The side that defeats all opposing troops on a lane wins that lane and earns Conquest Points.
+4. The side with the most Conquest Points wins, gaining 3 points to the total value.
+5. Equal Conquest Points result in a draw; both sides gain 1 total point.
+
+[Settlement Phase]
+1. After each round, rewards are distributed based on results, plus bonus rewards for enemy troops defeated by each allied troop.
+2. After all rounds, Alliances are ranked by total points within their group and receive corresponding rewards. Ties are broken by total Troop Might deployed.",0,0,,0,0,,0
+3002000,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_8,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3002000,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+8200306,,0,,,,0,{},Venture deep into the pirate ship where endless surprises await!,,0,,,{},{},7,,0,,0,0,,0,5,,,,0,,,,,Buried Treasure,,0,0,0,0,8200306,,"A pile of seemingly ordinary items might hold unexpected surprises!
+Event Rules:
+1. Tap cards in the elimination area to place them in the card slot.
+2. When 3 identical cards are in the slot, they'll be eliminated.
+3. Use 3 event items—Remove, Recall, and Refresh—to help you clear the stage.
+Remove: Stack the first 3 cards from the slot into the removal area (max 4 layers).
+Recall: Return the last card placed in the slot to its original position.
+Refresh: Randomly reshuffle the card positions in the elimination area.
+4. Filling all 7 card slots results in challenge failure.
+5. Eliminate all cards to successfully clear the stage.",0,0,,0,0,,0
+5501401,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501401,,,0,0,,0,0,,0
+8200304,,0,,,,0,{},Claim the ocean's bounty!,,0,,,{},{},5,,0,,0,0,,0,5,,,,0,,,,,Delicious Hunt,,0,0,0,0,8200304,img_hdhd_banner_djhq,"1. During the event, collect Sea Fish from Falcon Tower, Resource Monsters, Elite Blights, Secret Squads, and Wandering Blights. Use collected Sea Fish in the Grand Feast event.
+Unclaimed daily limits will remain valid in the next day.",0,0,,0,0,,0
+10000101,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,,0,2,,,,0,,,,,Star Grace,,0,0,0,0,10000101,,"The Grand Grace Festival in the town has commenced, fulfilling everyone's wishes.
+
+Event Rules:
+1. The event lasts for 7 days, with 1 pack unlocked daily for the first 5 days. After purchasing all 5 packs, the Grace Grand Prize will be received for free.
+2. During the event, you can claim 1 free gift daily from the interface.
+3. After the event concludes, unclaimed rewards will be sent via mail.",0,0,,0,0,,0
+15000102,,0,,,,0,{},Enhance your Epigraphs to push your Might higher!,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Epigraph Bond,,0,0,0,0,15000102,pic_nengli_banner2,Claim rewards at designated Epigraph Might.,0,0,,0,0,,0
+8200302,,0,,,,0,{},"Daring pirates, unveil the treasures beneath the waves!",,0,,,{},{},1,,0,,0,0,img_hdhd_banner_bp,0,5,,,,0,,,,,Pirate's Mythic Treasure,icon_hdhd_haidaowandao,0,0,0,0,8200302,,"Pirates bring treasure to town, gleaming riches await.
+
+Rules:
+1. Complete Quests and Daily Objectives to earn Cutlass and level up, unlocking corresponding Rewards.
+2. During the event, unlock Epic and Mythic Rewards anytime for purchase.",0,0,,0,0,,0
+8200204,,0,,,,0,{},,,0,,,{},{},5,,0,,0,0,,0,5,,,,0,,,,,Banquet Preparation,,0,0,0,0,8200204,img_etj_banner_01,"1. During the event, collect Cupcakes from Falcon Tower, Resource monsters, Elite Blights, Secret Squads, and Wandering Blights. Use collected Cupcakes in the Sweetheart Banquet event.
+Unclaimed daily limits carry over to the next day.",0,0,,0,0,,0
+8200203,,0,,,,0,{},,,0,,,{},{},3,,0,,0,0,,0,5,,,,0,,,,,Teacup Market,,0,0,0,0,8200203,img_etj_banner_gqjs,"1. Exchange Teacups for items you desire.
+2. Earn Teacups in the Wondrous Toy Box event.",0,0,,0,0,,0
+8200202,,0,,,,0,{},,,0,,,{},{},2,,0,,0,0,,0,5,,,,0,,,"820020101,820020103",,Wondrous Toy Box,,0,0,0,0,8200202,BigBg/bg_etj_01.png,"Open the Toy Box, relive heartwarming childhood moments, and unlock your happy storybook time.
+
+Rules:
+1. This event lasts 7 days. Spend Toy Keys to open Wondrous Toy Boxes and discover mysterious rewards.
+2. Toy Boxes contain special teacups. Collect Teacups to trade for desired items at Teacup Market with sprites.",0,0,,0,0,,0
+45001052,,0,,,,0,{},Buy the Blade Pack to increase event points and claim stage rewards!,,0,,,{},{},4000,,0,,0,0,,0,9,,,,0,,,,,Blades Out,,0,0,0,0,45001052,,"Ready for battle. Strike with steel!
+During the event, Doctors can obtain Stone Blades by purchasing Blade Packs. Packs refresh daily at 0:00 server time.
+1.Stone Blades can be exchanged for rewards. Each reward has a limited number of exchanges.
+2.Purchasing Blade Packs also increases bonus progress. Reach the required milestones to claim corresponding rewards.
+3.Purchasing Blade Packs grants the same amount of VIP points as purchasing Diamond Packs in the Shop.",0,0,,0,0,,0
+14000301,,0,,,,0,{},"Destiny Unlocked, Fortune Arrives!",,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Ruin Hunt,,0,0,0,0,14000301,,"Ruins hold endless surprises!
+Event Rules:
+1. Tap cards in the elimination zone to place them in the card slots.
+2. When 3 identical cards fill a slot, they're automatically eliminated.
+3. Use 3 event items—Remove, Recall, and Refresh—to help you clear the stage.
+Remove: Stack the first 3 cards from the slot into the removal zone (max 4 layers).
+Recall: Return the last card placed in the slot to its original position.
+Refresh: Randomly reshuffle card positions in the elimination zone.
+4. Filling all 7 slots with cards results in challenge failure.
+5. Eliminate all cards to successfully clear the stage.",0,0,,0,0,,0
+8200201,,0,,,,0,{},,,0,,,{},{},1,,0,,0,0,img_etj_banner_zl,0,5,,,,0,,,,,Lost Card,icon_etj_pukepai,0,0,0,0,8200201,,"Magic Playing Cards are scattered everywhere. Collect cards and complete challenges to unlock exclusive rewards.
+
+Rules:
+1. Complete quests and daily objectives to earn Playing Cards, level up, and unlock rewards.
+2. During the event, you can purchase Epic and Mythic rewards anytime.",0,0,,0,0,,0
+8200103,,0,,,,0,{},Buy the Color Card Shop Pack to increase event points and claim stage rewards!,,0,,,{},{},4002,,0,,0,0,,0,5,,,,0,,,,,Art Market,,0,0,0,0,8200103,img_fhj_banner_sjjs,"During the event, Doctors can obtain Color Cards by purchasing Color Card Shop Packs. Packs refresh daily at 0:00 server time.
+1. Color Card can be exchanged for rewards. Each reward has a limited number of exchanges.
+2. Obtaining Color Cards from packs also increases bonus progress. Reach the required milestones to claim corresponding rewards.
+3. Purchasing Color Card Packs grants the same amount of VIP points as purchasing Diamond Packs in the Shop.",0,0,,0,0,,0
+3001300,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1030,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50009,3001300,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+900204,,0,,,,0,"{""1"": {""type"": 99, ""id"": ""item_Material_universalFragment_5""}}",Buy packs to obtain Star Coins and collect them for generous rewards!,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_724x346banner_001,0,2,,,,1,,,,,Total Top Up Reward,pic_giftbg0208,0,0,0,0,900204,UI_Sprite/Banner/Activity_banner_Recharge_icon.png,"The legendary Star Coin, said to hold mysterious power, can bring good fortune!
+1. During the event, purchase packs to acquire Star Coins. Claim rewards once you reach the required amount.
+2. Claiming rewards does not consume Star Coins. After the event, Star Coins will be cleared.",0,0,,0,0,,0
+8200101,,0,,,,0,{},,,0,,,{},{},4101,,0,,0,0,,0,5,,,,0,,,,,Easter Egg Hunt,,0,0,0,0,8200101,,"Easter Egg Hunt, tap for endless excitement!
+
+Event Rules:
+1. The event lasts for 7 days, with a new pack unlocked daily. Each pack purchase grants a Golden Hammer;
+2. Use a Golden Hammer to tap an egg and randomly win exciting prizes;
+3. There are 7 exciting prizes in total, all of which can be won;
+4. Prizes already obtained will not be repeated;
+5. Open the Easter Egg Hunt daily to receive free revival gifts;
+6. Unused Golden Hammer taps during the event will be lost after it ends.",0,0,,0,0,,0
+201301,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_researchBuild.png,2,,0,0,,0,0,,,,0,,,,,Technology Research,,0,999,0,0,201301,,,0,0,,0,0,,0
+670010002,,0,,,,0,{},,,0,,,{},{},40000,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,0,,0,0,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,0,1,icon_chengshizhengduo,,,0,,,,,City Siege II,,0,0,1003,0,670010002,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,,0,0,,0,0,,0
+670010001,,0,,,,0,{},,,0,,,{},{},40000,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,0,,0,0,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,0,1,icon_chengshizhengduo,,,0,,,,,City Siege I,,0,0,1003,0,670010001,UI_Sprite/Banner/Activity/Banner_CityWarfare.png,,0,0,,0,0,,0
+6400101,,0,,,,0,{},"Appears at the following server time:
+{0}",,0,,,{},{},40000,,0,,0,0,pic_sjboss_haibao3,0,1,,,,0,"Available (local time):
+{0}",,,,Demon King: Warrior Blight,,0,0,0,0,6400101,,"The Demon King emerges, bringing disaster. To prevent the shadow from engulfing this world, rally your forces and eliminate the threat!
+
+Event Rules:
+1. Every Wednesday and Saturday, the Demon King Warrior Blight will appear on the World Map.
+2. Doctors with Sanctuary Lv.8 or above can deploy troops to attack the Demon King. Each player may attack up to 10 times per day. Rally attacks are not supported.
+3. Ranger Heroes can deal extra damage to the Demon King Warrior Blight. Choose your lineup wisely to maximize damage.
+4. On each event day, rankings will be based on each player's highest single-attack damage. Higher ranks unlock better rewards.
+5. Achieve the specified number of attacks to earn personal rewards.
+6. Achievement rewards will unlock gradually based on server time. Each reward tier can be claimed once per player.",0,0,,0,0,,0
+4500103,,0,,,,0,{},"Thrilling journey, endless surprises!",,0,,,{},{},4000,,0,,0,0,,0,2,,,,0,,,,,Surprise Encounter,,0,0,0,0,4500103,,"Surprising gifts lie in the depths of the dark forest.
+Event Rules
+During the event, Doctors can spend Diamonds for adventures, with one free adventure daily. Each adventure guarantees an item reward, with a chance to receive a surprise box.
+Opening a surprise box requires Surprise Emblems. Higher quality surprise boxes offer greater rewards and require more Surprise Emblems.
+A max of 4 unopened surprise boxes can be held simultaneously. If the limit is reached, no surprise boxes will be further obtained from adventures.
+There is a 5% chance to get double rewards when opening a surprise box.
+During the event, both draws and opening surprise boxes can earn extra points. Accumulate points to a specified value to claim progress rewards.",0,0,,0,0,,0
+5800105,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu6,0,0,,,,0,,,,,Phase 5: War Preparation,,0,999,1002,0,5800105,,,0,5,,0,0,,0
+1001102,,0,,,,0,{},Purchase packs to obtain Obsidian and earn generous rewards,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,暂不翻译,pic_giftbg_gjdqq,0,0,0,0,1001102,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.",0,0,,0,0,,0
+6000105,,0,UI/UIModules/Activity/HermitMerchant/HermitMerchantMissionWin.prefab,,,0,{},"A little effort, a little luck, amazing rewards await you!",,0,,,{},{},350,,0,,0,0,,0,1,,,,0,,,,,Path of the Recluse III,,0,0,0,0,6000105,img_yssr_banner_01,"1. During the event, collect Recluse Coins from Falcon Tower, Resource Monsters, Elite Blights, Secret Squads, and Wandering Blights. Use collected Recluse Coins in the Grand Feast event.
+Unused daily acquisition allowance will carry over to the following day.",0,0,,0,0,,0
+8200406,,0,,,,0,{},Reveal the secrets hidden beneath the lunar shadow.,,0,,,{},{},7,,0,,0,0,,0,11,,,,0,,,,,Moon Shadow Secret,,0,0,0,0,8200406,,"Reveal the secrets hidden beneath the lunar shadow.
+Event Rules:
+1. Tap cards in the elimination zone to place them in the card slots.
+2. When 3 identical cards are in the slots, they're automatically eliminated.
+3. Use 3 event items, ""Remove, Recall, and Refresh"", to help you clear the stage.
+Remove: Stack the first 3 cards from the slots into the removal zone (up to 4 stacks).
+Recall: Return the last card placed in the slot to its original position.
+Refresh: Randomly reshuffle card positions in the elimination zone.
+4. Filling all 7 slots with cards results in challenge failure.
+5. Eliminate all cards to successfully clear the stage.",0,0,,0,0,,0
+6000103,,0,UI/UIModules/Activity/HermitMerchant/HermitMerchantMissionWin.prefab,,,0,{},"A little effort, a little luck, amazing rewards await you!",,0,,,{},{},330,,0,,0,0,,0,1,,,,0,,,,,Path of the Recluse I,,0,0,0,0,6000103,img_yssr_banner_01,"1. During the event, collect Recluse Coins from Falcon Tower, Resource Monsters, Elite Blights, Secret Squads, and Wandering Blights. Use collected Recluse Coins in the Grand Feast event.
+Unused daily acquisition allowance will carry over to the following day.",0,0,,0,0,,0
+5600102,,0,,,,0,{},Face the painful memories and dispel the darkness within!,,0,,,{},{},9999,,0,,0,0,,0,1,,,,0,,,,,Claire's Inner Demon,,0,0,0,0,5600102,,"Claire once watched her squad fall to the deadly Scholar Blights. Forced to strike down those she once fought beside, she has carried the burden of that day ever since.
+Now, a new wave of Scholar Blights is closing in, putting the territory at risk. Fight alongside Claire and help her confront the memories she can never escape.
+Complete Rally Quests to earn rare rewards!",0,0,,0,0,,0
+5900102,The Royal City is about to open! A new king will emerge amidst fire and glory!,1,,icon_lmsj_wangzhan,"The Royal City is the most enigmatic place on the continent, shrouded in a magical barrier. Now, its mysteries are about to be unveiled. Located at the continent's center, it is of great strategic importance. Seizing the Royal City means ruling the entire continent!",0,{},,Royal City Scramble,0,,,{},{},999,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,2,,1,0,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,0,0,icon_wangchengzhan,,,0,,Event Duration: {0}-{1},,"1. The Doctor and their alliance that continuously occupy the Royal City for 8 hours will achieve victory directly.
+2. When the Royal City is contested, any Doctor can dispatch troops to it and surrounding turrets. Upon arrival, if the occupant is an alliance member, the troops will reinforce. If not, a battle ensues.
+3. When the Royal City and turrets are occupied by different alliances, the turrets will launch shells at the Royal City after charging, causing significant damage to the defending troops.
+4. When the same alliance occupies the buildings for {0} hours (only buildings with a continuous occupation duration exceeding {1} minutes are counted), it triggers a garrison troop buff (requires occupation of {2} or more buildings). The more buildings occupied for over {3} minutes, the better the buff.
+5. The max defense troop size is determined by the occupant's rally size.
+6. During the Royal City contest, 70% of troop losses in battles at the Royal City and turrets will enter the Infirmary, instead of dying instantly.",Royal City Scramble,,0,9999,1004,0,5900102,UI_Sprite/Banner/K3Banner/Banner_fight_soldier.png,,0,0,,0,0,,0
+5800106,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu5,0,0,,,,0,,,,,Phase 6: Raid the Enemy,,0,999,1002,0,5800106,,,0,6,,0,0,,0
+5700106,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu5,0,0,,,,0,,,,,Phase 6: Full Development II,,0,999,1002,0,5700106,,,0,6,,0,0,,0
+5800101,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu1,0,0,,,,0,,,,,Phase 1: Enhance Raven,,0,999,1002,0,5800101,,,0,1,,0,0,,0
+15000101,,0,,,,0,{},Enhance your gear to help Heroes beat stages!,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Ability Bond,,0,0,0,0,15000101,pic_nengli_banner1,Claim rewards at designated Gear Stars.,0,0,,0,0,,0
+202201,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_building.png,2,,0,0,,0,0,,,,0,,,,,Territory Development,,0,999,0,0,202201,,,0,0,,0,0,,0
+5800100,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,1,,0,0,Icon_UI_Main_AllianceCompetition_02,,,0,,,,,Alliance Competition,,86400,999,1002,0,5800100,,"1. Alliance Duel pairs your alliance with an opponent, competing for points during the event to determine the winner (Only alliances with more than 20 members on Sunday and ranked in the top 32 in Might on the server can participate in the match).
+2. Alliance Duel consists of 6 phases, focusing on 6 main activities: Raven, Construction, Tech, Hero, Preparation, Raid.
+3. From Monday to Saturday, these 6 phases are held sequentially.
+4. Points granted by daily activities vary. Earning points unlocks reward chests from stages 1-9.
+5. The Phase 6: Raid emphasizes attacking the opponent alliance's territories and earning points by defeating soldiers.
+6. Daily settlement is at server time 00:00. The alliance with the higher total points wins.
+7. Each stage has different winning points, and the side with more winning points at the end of the event wins.
+8. There are daily and weekly player points leaderboards, with ranking rewards distributed at daily and weekly settlements.
+9. Stage 4-9 reward chests must be unlocked by researching specific techs in the Alliance Duel tech tree.
+10. During the Alliance Duel, if a player changes alliances, they will not contribute to alliance points for that day but can still earn personal points and claim Personal Points Rewards.",800,0,,0,0,,0
+2900102,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},4000,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Wishing Wheel,,0,104,0,0,2900102,,,0,0,,0,0,,0
+201501,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_soldier.png,2,,0,0,,0,0,,,,0,,,,,Soldier Training,,0,999,0,0,201501,,,0,0,,0,0,,0
+3002400,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_12,0,2,,,,0,,,,,Heroes Assemble,icon_points04,0,0,0,0,3002400,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+10000103,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,,0,2,,,,0,,,,,Star Grace,,0,0,0,0,10000103,,"The Grand Grace Festival in the town has commenced, fulfilling everyone's wishes.
+
+Event Rules:
+1. The event lasts for 7 days, with 1 pack unlocked daily for the first 5 days. After purchasing all 5 packs, the Grace Grand Prize will be received for free.
+2. During the event, you can claim 1 free gift daily from the interface.
+3. After the event concludes, unclaimed rewards will be sent via mail.",0,0,,0,0,,0
+5800104,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu4,0,0,,,,0,,,,,Phase 4: Hero Growth,,0,999,1002,0,5800104,,,0,4,,0,0,,0
+201201,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_building.png,2,,0,0,,0,0,,,,0,,,,,Territory Development,,0,999,0,0,201201,,,0,0,,0,0,,0
+5700105,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu6,0,0,,,,0,,,,,Phase 5: Full Development I,,0,999,1002,0,5700105,,,0,5,,0,0,,0
+8200305,,0,,,,0,{},Light the bonfire and feast on wild delicacies!,,0,,,{},{},4,,0,,0,0,,0,5,,,,0,,,,,Grand Feast,,0,0,0,0,8200305,,"1. Submit specified items to increase Grand Feast EXP.
+2. The Grand Feast event is shared by all players on this server. When EXP reaches the requirement, Grand Feast Level can be increased, and all players can claim level rewards.",0,0,,0,0,,0
+3003100,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1028,2,,,,0,,,,,Thorn Shackles,icon_zl_zhuanwubi,0,0,0,50005,3003100,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing quests and unlock corresponding rewards.",0,0,,0,0,,0
+12000102,,0,,,,0,{},Claim rewards for 7 days non-stop!,,0,,,{},{},98000,,0,,0,0,,0,1,,,,0,,,31000401,,7-Day Epigraph Supply,,0,0,0,0,12000102,,"Event Rules:
+1. The event lasts for 8 days, with 1 pack unlocked each day for the first 7 days.
+2. During the event, you can claim 1 gift daily from the interface.
+3. After the event ends, unclaimed rewards cannot be retrieved.",0,0,,0,0,,0
+5700102,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu2,0,0,,,,0,,,,,Phase 2: Territory Development,,0,999,1002,0,5700102,,,0,2,,0,0,,0
+100201,,0,,,,0,{},Build Territory,,0,,,{},{},100,,1,,0,1,pic_jbjs_tu1,0,1,Icon_UI_Main_AbyssAssault,,,0,,,,,Build Territory,,0,999,0,0,100201,,,1001,0,,0,0,,0
+5900201,,1,,icon_lmsj_zhanquduijue,,0,{},,,0,,,{},{},999,,2,,1,0,,0,0,Icon_UI_King_Enter,,,0,,,,,Kingdom War,,0,9999,1005,0,5900201,,,0,0,,0,0,,0
+5500601,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500601,,,0,0,,0,0,,0
+3100000,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_2,0,2,,,,0,,,,,Falcon Tower Pass,icon_points03,0,0,0,0,3100000,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+2900201,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},1300,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Blessing Wheel,,0,104,0,0,2900201,,,0,0,,0,0,,0
+201401,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_fight_soldierMonster.png,2,,0,0,,0,0,,,,0,,,,,Hero Recruitment,,0,999,0,0,201401,,,0,0,,0,0,,0
+5501201,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501201,,,0,0,,0,0,,0
+3100400,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_13,0,2,,,,0,,,,,Epigraph Pass,icon_points09,0,0,0,0,3100400,,"1. The pass has 3 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass and Mythic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3100401,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_13,0,2,,,,0,,,,,Epigraph Pass,icon_points09,0,0,0,0,3100401,,"1. The pass has 3 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass and Mythic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+2900203,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},1300,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Blessing Wheel,,0,104,0,0,2900203,,,0,0,,0,0,,0
+3002900,,0,,,,0,{},,,0,,,{},{},900,,0,,0,0,pic_zl_banner1_1,1021,2,,,,0,,,,,Awaken Pass,icon_points11,0,0,0,50011,3002900,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+900102,,0,,,,0,{},,,0,,,{},{},80001,,0,,0,0,,1005,3,,,,0,,,,,Healing Revelation,,0,0,0,10006,900102,,,0,0,,0,0,,0
+5500701,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500701,,,0,0,,0,0,,0
+4600101,,0,,icon_lmsj_miyaozhengduozhan,,0,{},,,0,,,{},{},19000,,2,,1,0,,0,1,,,,0,,,,,Elixir Scramble,,0,0,0,0,4600101,,,0,0,,0,0,,0
+5600101,,0,,,,0,{},Hunt Blights to maintain peace and safety in the territory!,,0,,,{},{},9999,,0,,0,0,,0,1,,,,0,,,,,Celia's Hunting Day,,0,0,0,0,5600101,,"Blights have been spotted around the territory, posing a significant threat.
+Join forces with Celia to eradicate all evil.
+Complete Rally Quests to earn rare rewards.",0,0,,0,0,,0
+5500501,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500501,,,0,0,,0,0,,0
+6000104,,0,UI/UIModules/Activity/HermitMerchant/HermitMerchantMissionWin.prefab,,,0,{},"A little effort, a little luck, amazing rewards await you!",,0,,,{},{},340,,0,,0,0,,0,1,,,,0,,,,,Path of the Recluse II,,0,0,0,0,6000104,img_yssr_banner_01,"1. During the event, collect Recluse Coins from Falcon Tower, Resource Monsters, Elite Blights, Secret Squads, and Wandering Blights. Use collected Recluse Coins in the Grand Feast event.
+Unused daily acquisition allowance will carry over to the following day.",0,0,,0,0,,0
+8200407,,0,,,,0,{},"This handcrafted Jade Rabbit, carries the purest blessings.",,0,,,{},"{""1"": 1, ""2"": 2}",6,,2,,0,0,img_zqj_banner_cz,0,11,,,,7,,,,,Jade Rabbit's Blessing,img_zqj_ljcz_xxd,0,0,0,0,8200407,,"This handcrafted jade rabbit carries the purest blessings.
+1. During the Event, purchase Packs to obtain Jade Rabbits. Reach the specified amount to claim corresponding rewards.
+2. Claiming Rewards does not consume Jade Rabbits. All Jade Rabbits will be cleared after the event ends.",0,0,,0,11016,,0
+5500901,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500901,,,0,0,,0,0,,0
+5400101,,0,,,,0,{},"Appears at the following server time:
+{0}",,0,,,{},{},40000,,0,,0,0,pic_sjboss_haibao,0,1,,,,0,"Available (local time):
+{0}",,,,Demon King: Ranger Blight,,0,0,0,0,5400101,,"The Demon King emerges, bringing disaster. To prevent the shadow from engulfing this world, rally your forces and eliminate the threat!
+
+Event Rules:
+1. Every Tuesday and Friday, the Demon King Ranger Blight will appear on the World Map.
+2. Doctors with Sanctuary Lv.8 or above can deploy troops to attack the Demon King. Each player may attack up to 10 times per day. Rally attacks are not supported.
+3. Warlock Heroes can deal extra damage to the Demon King Ranger Blight. Choose your lineup wisely to maximize damage.
+4. On each event day, rankings will be based on each player's highest single-attack damage. Higher ranks unlock better rewards.
+5. Achieve the specified number of attacks to earn personal rewards.
+6. Achievement rewards will unlock gradually based on server time. Each reward tier can be claimed once per player.",0,0,,0,0,,0
+12000101,,0,,,,0,{},Claim rewards for 7 days non-stop!,,0,,,{},{},98000,,0,,0,0,,0,1,,,,0,,,31000400,,7-Day Epigraph Supply,,0,0,0,0,12000101,,"Event Rules:
+1. The event lasts for 8 days, with 1 pack unlocked each day for the first 7 days.
+2. During the event, you can claim 1 gift daily from the interface.
+3. After the event ends, unclaimed rewards cannot be retrieved.",0,0,,0,0,,0
+5000101,,0,,,,0,{},Purchase Healer's Blessing for incredible rewards!,,0,,,{},{},9999,,0,,0,0,,0,3,,,,0,Purchase Healer's Blessing for valuable rewards!,,,,Healer's Blessing,,0,0,0,0,5000101,,,0,0,,0,0,,0
+4900101,,0,,,,0,{},,,0,,,{},{},2000,,0,,0,0,,0,0,,,,0,,,,,Calendar Gift,,0,0,0,0,4900101,,,0,0,,0,0,,0
+3002300,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_11,0,2,,,,0,,,,,Tempered Arms,icon_points04,0,0,0,0,3002300,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+910205,,0,,,,0,{},Purchase packs to obtain Obsidian and earn generous rewards,,0,,,{},"{""1"": 1, ""2"": 2}",2000,,2,,0,0,pic_726x346banner_004,0,2,,,,5,,,,,Artisan's Request,pic_giftbg_gjdqq,0,0,0,0,910205,,"Diligent craftsmen sincerely work for you, needing just a little help.
+1. During the event, purchase packs to obtain Obsidian. Claim rewards once the Obsidian reaches the specified quantity.",0,0,,0,0,,0
+4500202,,0,,,,0,{},Complete quests to obtain items.,,0,,,{},{},4001,,0,,0,0,,0,6,,,,0,,,,,Dwarven Pickaxe,,0,0,0,0,4500202,,"The ancient dwarven mines still hold vast treasures.
+1. Each excavation requires 1 Dwarven Pickaxe. Obtain Dwarven Pickaxes by completing quests or purchasing packs.
+2. At server time 0:00 daily, Dwarven Pickaxe quests will reset.
+3. Before digging, select the wish reward for the current floor.
+4. Upon reaching floors 5, 10, 20, 30, 40, 60, 80, 100, receive extra progress rewards.
+5. During the event, you can dig up to 200 floors.
+Each excavation yields 1 random reward. Rewards and weights are as follows:
+Normal Rewards: All have a weight of 10.
+Special Rewards: Base weight is 1. After 3 digs on the same floor, it increases to 5. After 6 digs, it increases to 10. After 9 digs, it increases to 30.
+6. When digging a certain number of times on the same floor, the next excavation will definitely yield a Special Reward. The required number of times varies by floor, as follows:
+Floors 1, 6, 11, 16, 21, 26, 31, 36, 41, 46, 51, 56, 61, 66, 71, 76, 81, 86, 91, 96: 5 times.
+Floors 2, 7, 12, 17, 22, 27, 32, 37, 42, 47, 52, 57, 62, 67, 72, 77, 82, 87, 92, 97: 6 times.
+Floors 3, 8, 13, 18, 23, 28, 33, 38, 43, 48, 53, 58, 63, 68, 73, 78, 83, 88, 93, 98: 8 times.
+Floors 4, 9, 14, 19, 24, 29, 34, 39, 44, 49, 54, 59, 64, 69, 74, 79, 84, 89, 94, 99: 5 times.
+Floors 5, 10, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100: 10 times.",0,0,,0,0,,0
+15000104,,0,,,,0,{},Enhance Exclusive Weapons to help Heroes break through to greater power!,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Exclusive Weapon Bond,,0,0,0,0,15000104,pic_nengli_banner1,Claim rewards at designated Exclusive Weapon Stars,0,0,,0,0,,0
+2900103,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},4000,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Wishing Wheel,,0,104,0,0,2900103,,,0,0,,0,0,,0
+45001054,,0,,,,0,{},Buy the Blade Pack to increase event points and claim stage rewards!,,0,,,{},{},4000,,0,,0,0,,0,9,,,,0,,,,,Blades Out,,0,0,0,0,45001054,,"Ready for battle. Strike with steel!
+During the event, Doctors can obtain Stone Blades by purchasing Blade Packs. Packs refresh daily at 0:00 server time.
+1.Stone Blades can be exchanged for rewards. Each reward has a limited number of exchanges.
+2.Purchasing Blade Packs also increases bonus progress. Reach the required milestones to claim corresponding rewards.
+3.Purchasing Blade Packs grants the same amount of VIP points as purchasing Diamond Packs in the Shop.",0,0,,0,0,,0
+2900202,,1,,,Event Duration: {0}-{1},0,{},,operation_MagicBox_title,0,,,{},{},1300,,0,,0,0,,0,2,,,"[1,2,3,4]",0,,operation_MagicBox_preview_des,,,Blessing Wheel,,0,104,0,0,2900202,,,0,0,,0,0,,0
+15000201,,0,,,,0,{},,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,"goto_drawing_gift1,goto_drawing_gift2,goto_drawing_gift3,goto_drawing_gift4,goto_enhance_gift1,goto_enhance_gift2,goto_enhance_gift3,goto_enhance_gift4,goto_enhance_gift5,goto_daily_must_buy",,Gear Upgrade,,0,0,0,0,15000201,pic_nengli_banner1,,0,0,,0,0,,0
+45001051,,0,,,,0,{},Buy the Blade Pack to increase event points and claim stage rewards!,,0,,,{},{},4000,,0,,0,0,,0,9,,,,0,,,,,Blades Out,,0,0,0,0,45001051,,"Ready for battle. Strike with steel!
+During the event, Doctors can obtain Stone Blades by purchasing Blade Packs. Packs refresh daily at 0:00 server time.
+1.Stone Blades can be exchanged for rewards. Each reward has a limited number of exchanges.
+2.Purchasing Blade Packs also increases bonus progress. Reach the required milestones to claim corresponding rewards.
+3.Purchasing Blade Packs grants the same amount of VIP points as purchasing Diamond Packs in the Shop.",0,0,,0,0,,0
+45001031,,0,,,,0,{},"Thrilling journey, endless surprises!",,0,,,{},{},4000,,0,,0,0,,0,7,,,,0,,,,,Surprise Encounter,,0,0,0,0,45001031,,"Unexpected wonder is hidden within the dark forest lies.
+Event Rules:
+During the event, you can initiate Encounters by spending Diamonds, with 1 free attempt daily. Each Encounter guarantees item rewards, with a 5% chance to obtain Surprise Boxes.
+During the event, both lottery draws and Surprise Coin consumption grant bonus points. Accumulate points to claim progress rewards.",0,0,,0,0,,0
+3000700,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1024,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50001,3000700,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3002800,,0,,,,0,{},,,0,,,{},{},900,,0,,0,0,pic_zl_banner1_1,1020,2,,,,0,,,,,Awaken Pass,icon_points11,0,0,0,50006,3002800,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3120000,,0,,,,0,{},Increase your strength and capture more cities!,,0,,,{},{},40000,,0,,0,0,,0,1,,,,0,,,,,Lion Pact,,0,0,0,0,3120000,,"Event Rules:
+1. During the City Siege, players can complete Pass Quests to earn points and rewards.
+2. Pass Quests will unlock as cities of the corresponding levels become available.",0,0,,0,0,,0
+3000100,,0,,,,0,{},,,0,,,{},{},30000,,0,,0,0,,0,3,,,,0,,,,,Healing Pass,icon_xianfengbi_1,0,0,0,0,3000100,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3100300,,0,,,,0,{},,,0,,,{},{},1400,,0,,0,0,pic_zl_banner1_4,0,2,,,,0,,,,,UR Boots Pass,icon_points05,0,0,0,0,3100300,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+5501301,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501301,,,0,0,,0,0,,0
+5501101,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5501101,,,0,0,,0,0,,0
+3000500,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1021,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50011,3000500,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+17000101,,0,,,,0,{},Ancient Anchor Coins unlock treasures from the deep!,,0,,,{},{},98000,,0,,0,0,,0,1,,,,0,,,,,Pirate's Game,,0,0,0,0,17000101,,"Clink, clank! Pirates' Anchor Coins ring out with delightful chimes as your surprise awaits!
+Event Rules:
+1. During the event, use ""Anchor Coins"" to draw prizes. Each draw earns points; accumulate points to claim Phase rewards.
+2. If your draw includes Chests, you'll unlock them for bonus rewards. Each Chest pattern in a single draw grants one unlock attempt.
+3. More matching patterns in your draw mean better rewards. Use 5x Mode to multiply both Anchor Coin consumption and rewards by 5 times.
+4. Purchase Packs during the event to receive Lucky Gold Eggs
+5. After the event ends, unused ""Anchor Coins"" convert to Speed-Up Items and are sent via Mail. Unconverted Items can be manually converted in your Bag after expiration. Conversion rate: 1 ""Anchor Coin"" converts to 1min Universal Speed-Up ×30
+6. Complete daily tasks during the event to earn designated rewards; unclaimed daily rewards will be resent via Mail the next day.",0,0,,0,0,,0
+5500101,,0,,,,0,{},Hero's Trial: Power Ascension,,0,,,{},{},3000,,0,,0,0,,0,2,,,,0,Hero's Trial: Power Ascension,,,,Hero's Trial,,0,0,0,0,5500101,,,0,0,,0,0,,0
+4500101,,0,,icon_lmsj_nailaoxianjing,,0,{},Defeat the Cheese Thief to earn substantial rewards!,,0,,,{},{},40000,UI_Sprite/Banner/Activity/Banner_AllianceBoss.png,0,,1,0,UI_Sprite/Banner/K3Banner/Banner_acitvity_noah.png,0,1,,,,0,,,,,Cheese Trap,UI_Sprite/Banner/K3Banner/Banner_acitvity_noah.png,0,0,0,0,4500101,UI_Sprite/Banner/Activity/Banner_AllianceBoss.png,"[Selection Phase]
+1. After the event begins, Alliance R4 or R5 can choose the start time and difficulty for [Cheese Trap I]/[Cheese Trap II]. Once a trap's difficulty is set, the other will be automatically locked.
+2. Activating a trap requires 20 Alliance members.
+3. If [Cheese Trap I]/[Cheese Trap II] hasn't been scheduled by 22:00 server time on the last day of each session, it will expire.
+4. After selection, the event enters the Preparation Phase.
+[Preparation Phase]
+1. All Alliance members can donate Mouse Lure to gain Alliance Contribution and damage boosts for the Trap Phase.
+2. Donations are required separately for each trap, with boosts calculated individually.
+3. After reaching the donation limit, members can still donate for Alliance Contribution but won't receive further damage boosts for the Extermination Phase.
+4. After the event, both traps' enhancement levels reset, requiring new material donations to increase trap power.
+[Extermination Phase]
+1. R4 or R5 must manually activate [Cheese Trap I]/[Cheese Trap II], with only one trap active at a time for 30 minutes.
+2. Once active, Cheese Thieves will be trapped, and Doctors must launch attacks via Rally.
+3. R4 or Official-led Rallies deal extra damage to Cheese Thieves.
+4. For offline participation, the Doctor's highest Might Troop will auto-join a Rally with 20 seconds remaining if a slot is available.
+[Reward Settlement]
+1. After trap time ends, the higher the personal damage dealt by Doctors, the better the personal rewards.
+2. At the event's conclusion, total damage from both traps is combined. Higher cumulative damage yields richer Alliance rewards and unlocks higher difficulty traps.
+3. The top-damaging Doctor for each trap will receive 1-10x Alliance rewards based on personal damage!",0,0,,0,0,,0
+3001900,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_7,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3001900,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+8100102,,0,,,,0,{},Purchase packs during the event to receive rewards.,,0,,,{},{},2600,,0,,0,0,,0,2,,,,0,Multiple Weekly Specials can be purchased simultaneously! Select the goblet to switch Weekly Specials.,,,,Weekly Special,,0,0,0,0,8100102,,"1. During the event, you must choose daily rewards before purchasing Weekly Specials;
+2. Daily rewards cannot be changed when the purchase becomes effective;
+3. After the event starts, one reward claim is unlocked per day. If you purchase a pack on the last day, you can claim all rewards for the days. Unclaimed rewards will be sent via mail;
+4. After the event ends, unclaimed Weekly Specials (including daily rewards not claimed after purchase) will be sent via mail;
+5. Weekly Special II can only be purchased after buying Weekly Special I.",0,0,,0,0,,0
+3001200,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1029,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50008,3001200,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3001100,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1028,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50005,3001100,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3000900,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1026,2,,,,0,,,,,Hero Pass,icon_points04,0,0,0,50010,3000900,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+3003000,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_1,1024,2,,,,0,,,,,Crimson Greatsword,icon_zl_zhuanwubi,0,0,0,50001,3003000,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing quests and unlock corresponding rewards.",0,0,,0,0,,0
+3003700,,0,,,,0,{},,,0,,,{},{},1000,,0,,0,0,pic_zl_banner1_16,0,0,,,,0,,,,,Era Covenant,icon_shidaibi,0,0,0,0,3003700,,"1. The pass has 3 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass and Mythic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+4500106,,0,,,,0,{},Defeat the Gold Thief for generous rewards!,,0,,,{},{},10000,,0,,0,0,,0,1,,,,0,,,,,Thief Hunt,,0,0,0,0,4500106,,"Amidst the apocalypse, the Royal City fell, and a group of thieves stole the precious Lion Coins.
+Event Instructions
+1. Once the Thief Hunt begins, the hidden Gold Thieves will be exposed to everyone. Doctors can chase the nearest Gold Thief through the event interface.
+2. Capturing Gold Thieves may occasionally lead to the appearance of the Thief Leader. The Thief Leader is far stronger than ordinary enemies, and doctors need to rally to defeat them. Defeating the boss grants generous rewards.
+3. Capturing Gold Thieves allows you to retrieve Lion Coins, which can be exchanged for various rewards in the corresponding shop.
+4. During the event, doctors will be ranked based on their total damage dealt to the Thief Leader. Higher damage and ranking result in richer rewards. Ranking rewards will be sent to mailboxes after the event concludes.
+5. After the event, all participating doctors will receive participation rewards.",0,0,,0,0,,0
+15000105,,0,,,,0,{},Enhance Exclusive Weapons to help Heroes break through to greater power!,,0,,,{},{},4000,,0,,0,0,,0,1,,,,0,,,,,Exclusive Weapon Bond,,0,0,0,0,15000105,pic_nengli_banner1,Claim rewards at designated Exclusive Weapon Stars,0,0,,0,0,,0
+3001500,,0,,,,0,{},,,0,,,{},{},5000,,0,,0,0,pic_zl_banner1_6,0,2,,,,0,,,,,Hero Summon,icon_points04,0,0,0,0,3001500,,"1. The pass has 2 tiers. The free tier is automatically activated, and Doctors can purchase the Epic Pass for additional rewards.
+2. During the event, Doctors can level up the pass by completing daily quests and unlock corresponding rewards.",0,0,,0,0,,0
+202401,,0,,,,0,{},,,0,,,{},{},80,UI_Sprite/Banner/K3Banner/Banner_fight_soldierMonster.png,2,,0,0,,0,0,,,,0,,,,,Hero Recruitment,,0,999,0,0,202401,,,0,0,,0,0,,0
+5700104,,0,,,,0,{},,,0,,,{},{},40000,,2,,0,0,pic_tmdj_tu4,0,0,,,,0,,,,,Phase 4: Hero Growth,,0,999,1002,0,5700104,,,0,4,,0,0,,0

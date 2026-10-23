@@ -1,0 +1,242 @@
+{
+  "data": {
+    "106": {
+      "id": 106,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 55,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 40,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 40,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 5000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equip_produce_materials_05",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "teamCount": 0,
+      "type": 2,
+      "win": 0
+    },
+    "103": {
+      "id": 103,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equip_produce_materials_05",
+          "count": 145,
+          "type": 99
+        }
+      },
+      "teamCount": 2,
+      "type": 1,
+      "win": 1
+    },
+    "105": {
+      "id": 105,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 110,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Food_2",
+          "count": 80,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_2",
+          "count": 80,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Energy_2",
+          "count": 80,
+          "type": 99
+        },
+        "5": {
+          "id": "item_Activity_dualCommander",
+          "count": 10000,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equip_produce_materials_05",
+          "count": 100,
+          "type": 99
+        }
+      },
+      "teamCount": 0,
+      "type": 2,
+      "win": 1
+    },
+    "104": {
+      "id": 104,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 100,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equip_produce_materials_05",
+          "count": 75,
+          "type": 99
+        }
+      },
+      "teamCount": 2,
+      "type": 1,
+      "win": 0
+    },
+    "101": {
+      "id": 101,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 300,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "6": {
+          "id": "item_castleBox_Energy_3",
+          "count": 30,
+          "type": 99
+        },
+        "7": {
+          "id": "item_equip_produce_materials_05",
+          "count": 220,
+          "type": 99
+        }
+      },
+      "teamCount": 1,
+      "type": 1,
+      "win": 1
+    },
+    "102": {
+      "id": 102,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 150,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "5": {
+          "id": "item_castleBox_Energy_3",
+          "count": 15,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equip_produce_materials_05",
+          "count": 110,
+          "type": 99
+        }
+      },
+      "teamCount": 1,
+      "type": 1,
+      "win": 0
+    }
+  },
+  "isNeedTransform": false,
+  "excelName": "Activity_Mainland_净水(沙漠战场)",
+  "first": 101,
+  "key": "id",
+  "len": 6
+}

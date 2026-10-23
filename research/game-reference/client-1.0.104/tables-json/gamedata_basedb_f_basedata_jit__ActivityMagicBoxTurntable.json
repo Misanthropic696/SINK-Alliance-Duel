@@ -1,0 +1,1161 @@
+{
+  "data": {
+    "3006": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 3006,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_drone_componentBox_5",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "4006": {
+      "weight": 250,
+      "specialShow": 0,
+      "id": 4006,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "1006": {
+      "weight": 997,
+      "specialShow": 0,
+      "id": 1006,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "2006": {
+      "weight": 997,
+      "specialShow": 0,
+      "id": 2006,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "2002": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 2002,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "displayRank": 2,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "3002": {
+      "weight": 200,
+      "specialShow": 0,
+      "id": 3002,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "displayRank": 3,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "1002": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 1002,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "displayRank": 3,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "6002": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 6002,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 3,
+      "notice": 1,
+      "poolId": 2900203
+    },
+    "4002": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 4002,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 3,
+      "notice": 1,
+      "poolId": 2900201
+    },
+    "5002": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 5002,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 3,
+      "notice": 1,
+      "poolId": 2900202
+    },
+    "1004": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 1004,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "2004": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 2004,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "3004": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 3004,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_drone_componentChooseBox_5",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "4004": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 4004,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "5004": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 5004,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "6004": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 6004,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "5006": {
+      "weight": 250,
+      "specialShow": 0,
+      "id": 5006,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "6006": {
+      "weight": 250,
+      "specialShow": 0,
+      "id": 6006,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "4007": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 4007,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "3007": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 3007,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 4
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "6007": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 6007,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "5007": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 5007,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "2007": {
+      "weight": 996,
+      "specialShow": 0,
+      "id": 2007,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "1007": {
+      "weight": 996,
+      "specialShow": 0,
+      "id": 1007,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 7,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "2005": {
+      "weight": 997,
+      "specialShow": 0,
+      "id": 2005,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "1005": {
+      "weight": 997,
+      "specialShow": 0,
+      "id": 1005,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 6,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "6005": {
+      "weight": 200,
+      "specialShow": 0,
+      "id": 6005,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 3
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "5005": {
+      "weight": 200,
+      "specialShow": 0,
+      "id": 5005,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 3
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "4005": {
+      "weight": 200,
+      "specialShow": 0,
+      "id": 4005,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 3
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "3005": {
+      "weight": 30,
+      "specialShow": 0,
+      "id": 3005,
+      "position": 7,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 1,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "6010": {
+      "weight": 2500,
+      "specialShow": 0,
+      "id": 6010,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 180
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "4010": {
+      "weight": 2500,
+      "specialShow": 0,
+      "id": 4010,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 180
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "5010": {
+      "weight": 2500,
+      "specialShow": 0,
+      "id": 5010,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 180
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "4011": {
+      "weight": 310,
+      "specialShow": 0,
+      "id": 4011,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "5011": {
+      "weight": 310,
+      "specialShow": 0,
+      "id": 5011,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "2011": {
+      "weight": 1140,
+      "specialShow": 0,
+      "id": 2011,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 180
+        }
+      },
+      "displayRank": 11,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "3011": {
+      "weight": 2020,
+      "specialShow": 0,
+      "id": 3011,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_drone_data_1k",
+          "type": 99,
+          "count": 6
+        }
+      },
+      "displayRank": 11,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "2010": {
+      "weight": 1310,
+      "specialShow": 0,
+      "id": 2010,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 110
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "3010": {
+      "weight": 2200,
+      "specialShow": 0,
+      "id": 3010,
+      "position": 11,
+      "reward": {
+        "1": {
+          "id": "item_drone_data_1k",
+          "type": 99,
+          "count": 6
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "6011": {
+      "weight": 310,
+      "specialShow": 0,
+      "id": 6011,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "1010": {
+      "weight": 1310,
+      "specialShow": 0,
+      "id": 1010,
+      "position": 12,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 110
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "5001": {
+      "weight": 20,
+      "specialShow": 0,
+      "id": 5001,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 1,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "4001": {
+      "weight": 20,
+      "specialShow": 0,
+      "id": 4001,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 1,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "3001": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 3001,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 2,
+      "notice": 1,
+      "poolId": 2900103
+    },
+    "2001": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 2001,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 1,
+      "notice": 1,
+      "poolId": 2900102
+    },
+    "3009": {
+      "weight": 150,
+      "specialShow": 0,
+      "id": 3009,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_drone_componentBox_4",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "1011": {
+      "weight": 1140,
+      "specialShow": 0,
+      "id": 1011,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 180
+        }
+      },
+      "displayRank": 11,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "1009": {
+      "weight": 2080,
+      "specialShow": 0,
+      "id": 1009,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 11
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "6001": {
+      "weight": 20,
+      "specialShow": 0,
+      "id": 6001,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 1,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "6009": {
+      "weight": 2600,
+      "specialShow": 0,
+      "id": 6009,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "5009": {
+      "weight": 2600,
+      "specialShow": 0,
+      "id": 5009,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "4009": {
+      "weight": 2600,
+      "specialShow": 0,
+      "id": 4009,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "1001": {
+      "weight": 10,
+      "specialShow": 0,
+      "id": 1001,
+      "position": 4,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 100
+        }
+      },
+      "displayRank": 1,
+      "notice": 1,
+      "poolId": 2900101
+    },
+    "6012": {
+      "weight": 1100,
+      "specialShow": 0,
+      "id": 6012,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 110
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "6008": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 6008,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50011",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "6003": {
+      "weight": 210,
+      "specialShow": 0,
+      "id": 6003,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_equipment_heroSkillBookRandomBox_1",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 2,
+      "notice": 0,
+      "poolId": 2900203
+    },
+    "3012": {
+      "weight": 2090,
+      "specialShow": 0,
+      "id": 3012,
+      "position": 8,
+      "reward": {
+        "1": {
+          "id": "item_drone_componentBox_2",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "2012": {
+      "weight": 2150,
+      "specialShow": 0,
+      "id": 2012,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 120
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "1012": {
+      "weight": 2150,
+      "specialShow": 0,
+      "id": 1012,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 120
+        }
+      },
+      "displayRank": 12,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "5012": {
+      "weight": 1100,
+      "specialShow": 0,
+      "id": 5012,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 110
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "1008": {
+      "weight": 20,
+      "specialShow": 0,
+      "id": 1008,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_equipment_weapon_legendary",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 2,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "2008": {
+      "weight": 20,
+      "specialShow": 0,
+      "id": 2008,
+      "position": 1,
+      "reward": {
+        "1": {
+          "id": "item_equipment_weapon_legendary",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "3008": {
+      "weight": 590,
+      "specialShow": 0,
+      "id": 3008,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_drone_data_10k",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "4008": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 4008,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_30006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "5008": {
+      "weight": 1350,
+      "specialShow": 0,
+      "id": 5008,
+      "position": 9,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 8,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "2009": {
+      "weight": 2080,
+      "specialShow": 0,
+      "id": 2009,
+      "position": 2,
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 11
+        }
+      },
+      "displayRank": 9,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "1003": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 1003,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50006",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 4,
+      "notice": 0,
+      "poolId": 2900101
+    },
+    "4012": {
+      "weight": 1100,
+      "specialShow": 0,
+      "id": 4012,
+      "position": 6,
+      "reward": {
+        "1": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 110
+        }
+      },
+      "displayRank": 10,
+      "notice": 0,
+      "poolId": 2900201
+    },
+    "3003": {
+      "weight": 2590,
+      "specialShow": 0,
+      "id": 3003,
+      "position": 5,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 5,
+      "notice": 0,
+      "poolId": 2900103
+    },
+    "2003": {
+      "weight": 100,
+      "specialShow": 0,
+      "id": 2003,
+      "position": 3,
+      "reward": {
+        "1": {
+          "id": "item_Material_fragment_50012",
+          "type": 99,
+          "count": 2
+        }
+      },
+      "displayRank": 3,
+      "notice": 0,
+      "poolId": 2900102
+    },
+    "5003": {
+      "weight": 210,
+      "specialShow": 0,
+      "id": 5003,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_equipment_heroSkillBookRandomBox_1",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 2,
+      "notice": 0,
+      "poolId": 2900202
+    },
+    "4003": {
+      "weight": 210,
+      "specialShow": 0,
+      "id": 4003,
+      "position": 10,
+      "reward": {
+        "1": {
+          "id": "item_equipment_heroSkillBookRandomBox_1",
+          "type": 99,
+          "count": 1
+        }
+      },
+      "displayRank": 2,
+      "notice": 0,
+      "poolId": 2900201
+    }
+  },
+  "first": 1001,
+  "key": "id",
+  "excelName": "Activity_MagicBox_皇家宝藏",
+  "len": 72,
+  "isNeedTransform": false
+}

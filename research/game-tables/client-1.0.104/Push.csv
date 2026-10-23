@@ -1,0 +1,19 @@
+﻿record_key,pushListDesc,displayTypeDesc,displayType,id,type,isOpen
+99999,,,0,99999,1,True
+9,When someone speaks in the alliance R4&R5 channel,Alliance R4&R5 Chat Notice,9,9,1,True
+8,When notified by @ in the alliance,Alliance Mention Notice,8,8,1,True
+1,"Construction, Research, Training, Gathering, Troop Returning to Territory",Queue Timer Notice,1,1,1,True
+2,"Stamina, Production Resource, Idle Rewards",Resource Full Notice,2,2,1,True
+3,"Defense Shield Expired, Kill Event Alert",Defense Shield Notice,3,3,1,True
+4,"Territory Scouted, Attacked, Under Rallied Attack",Territory Battle Notice,4,4,1,True
+5,"Alliance-Occupied Point Scouted, Attacked, Under Rallied Attack",Alliance Battle Notice,5,5,1,True
+6,"Against Rally Monsters, Against Players",Alliance Member Rally Notice,6,6,1,True
+7,When other users send private messages,Private Chat Notice,7,7,1,True
+15,,,0,15,2,True
+14,When appointed as an official,Official Appointment Notice,14,14,1,True
+17,Official Appointment Banner,Official Appointment Banner,0,17,1,True
+16,,,0,16,1,True
+12,"When an alliance's occupied point is declared war on, when declaring war on an occupied point",War Declaration Notice,12,12,1,True
+13,When appointed as the Coachman of the Alliance Caravan,Caravan Coachman Notice,13,13,1,True
+10,When the alliance issues an urgent announcement,Alliance Emergency Announcement Notice,10,10,1,True
+11,"[Blades Out], [Cheese Trap], [Elixir Scramble], [Royal City Scramble]",Event Start Notice,11,11,1,True

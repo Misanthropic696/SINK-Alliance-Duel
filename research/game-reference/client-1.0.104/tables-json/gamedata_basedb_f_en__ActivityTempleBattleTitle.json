@@ -1,0 +1,48 @@
+{
+  "data": {
+    "6": {
+      "id": 6,
+      "name": "Minister of Development"
+    },
+    "7": {
+      "id": 7,
+      "name": "Minister of the Inner Court"
+    },
+    "4": {
+      "id": 4,
+      "name": "Minister of War"
+    },
+    "5": {
+      "id": 5,
+      "name": "Minister of Construction"
+    },
+    "10": {
+      "id": 10,
+      "name": "Chief of Affairs"
+    },
+    "8": {
+      "id": 8,
+      "name": "King of Battle"
+    },
+    "9": {
+      "id": 9,
+      "name": "Chief of War"
+    },
+    "2": {
+      "id": 2,
+      "name": "Queen",
+      "buffDesc": "Assists the King in appointing titles\nDistributes treasury resources"
+    },
+    "3": {
+      "id": 3,
+      "name": "Minister of Strategy"
+    },
+    "1": {
+      "id": 1,
+      "name": "King"
+    }
+  },
+  "len": 10,
+  "key": "id",
+  "source_format": "locale rows"
+}

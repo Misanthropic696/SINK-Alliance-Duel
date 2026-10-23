@@ -1,0 +1,27 @@
+{
+  "data": {
+    "5": {
+      "des": "Our faction soft counters the opposing faction.",
+      "id": 5
+    },
+    "4": {
+      "des": "Our faction hard counters the opposing faction.",
+      "id": 4
+    },
+    "3": {
+      "des": "Our faction is evenly matched with the opposing faction.",
+      "id": 3
+    },
+    "2": {
+      "des": "Our faction is soft countered by the opposing faction.",
+      "id": 2
+    },
+    "1": {
+      "des": "Our faction is hard countered by the opposing faction.",
+      "id": 1
+    }
+  },
+  "len": 5,
+  "key": "id",
+  "source_format": "locale rows"
+}

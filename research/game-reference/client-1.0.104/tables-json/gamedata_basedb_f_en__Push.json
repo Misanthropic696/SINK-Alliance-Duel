@@ -1,0 +1,91 @@
+{
+  "data": {
+    "99999": {
+      "id": 99999
+    },
+    "17": {
+      "id": 17,
+      "pushListDesc": "Official Appointment Banner",
+      "displayTypeDesc": "Official Appointment Banner"
+    },
+    "15": {
+      "id": 15
+    },
+    "1": {
+      "id": 1,
+      "pushListDesc": "Construction, Research, Training, Gathering, Troop Returning to Territory",
+      "displayTypeDesc": "Queue Timer Notice"
+    },
+    "2": {
+      "id": 2,
+      "pushListDesc": "Stamina, Production Resource, Idle Rewards",
+      "displayTypeDesc": "Resource Full Notice"
+    },
+    "3": {
+      "id": 3,
+      "pushListDesc": "Defense Shield Expired, Kill Event Alert",
+      "displayTypeDesc": "Defense Shield Notice"
+    },
+    "4": {
+      "id": 4,
+      "pushListDesc": "Territory Scouted, Attacked, Under Rallied Attack",
+      "displayTypeDesc": "Territory Battle Notice"
+    },
+    "5": {
+      "id": 5,
+      "pushListDesc": "Alliance-Occupied Point Scouted, Attacked, Under Rallied Attack",
+      "displayTypeDesc": "Alliance Battle Notice"
+    },
+    "6": {
+      "id": 6,
+      "pushListDesc": "Against Rally Monsters, Against Players",
+      "displayTypeDesc": "Alliance Member Rally Notice"
+    },
+    "7": {
+      "id": 7,
+      "pushListDesc": "When other users send private messages",
+      "displayTypeDesc": "Private Chat Notice"
+    },
+    "8": {
+      "id": 8,
+      "pushListDesc": "When notified by @ in the alliance",
+      "displayTypeDesc": "Alliance Mention Notice"
+    },
+    "9": {
+      "id": 9,
+      "pushListDesc": "When someone speaks in the alliance R4&R5 channel",
+      "displayTypeDesc": "Alliance R4&R5 Chat Notice"
+    },
+    "16": {
+      "id": 16
+    },
+    "14": {
+      "id": 14,
+      "pushListDesc": "When appointed as an official",
+      "displayTypeDesc": "Official Appointment Notice"
+    },
+    "13": {
+      "id": 13,
+      "pushListDesc": "When appointed as the Coachman of the Alliance Caravan",
+      "displayTypeDesc": "Caravan Coachman Notice"
+    },
+    "12": {
+      "id": 12,
+      "pushListDesc": "When an alliance's occupied point is declared war on, when declaring war on an occupied point",
+      "displayTypeDesc": "War Declaration Notice"
+    },
+    "11": {
+      "id": 11,
+      "pushListDesc": "[Blades Out], [Cheese Trap], [Elixir Scramble], [Royal City Scramble]",
+      "displayTypeDesc": "Event Start Notice"
+    },
+    "10": {
+      "id": 10,
+      "pushListDesc": "When the alliance issues an urgent announcement",
+      "displayTypeDesc": "Alliance Emergency Announcement Notice"
+    }
+  },
+  "len": 18,
+  "key": "id",
+  "source_format": "locale rows"
+}

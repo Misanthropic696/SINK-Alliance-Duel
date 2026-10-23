@@ -1,0 +1,83 @@
+{
+  "data": {
+    "1020101": {
+      "costs": {
+        "1": {
+          "id": "item_clinic_gaizao_1",
+          "type": 99,
+          "count": 6
+        },
+        "2": {
+          "id": "item_clinic_gaizao_2",
+          "type": 99,
+          "count": 6
+        }
+      },
+      "itemIconShow": "[{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"},{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"}]",
+      "prefabPath": "Scenes/Hotels/Prefab/Room_Bath_Left.prefab",
+      "needCondition": {
+        "1": {
+          "level": 99,
+          "roomupgrade": 2010102
+        }
+      },
+      "srcRoom": 20101,
+      "id": 1020101
+    },
+    "1020102": {
+      "costs": {
+        "1": {
+          "id": "item_clinic_gaizao_1",
+          "type": 99,
+          "count": 6
+        },
+        "2": {
+          "id": "item_clinic_gaizao_2",
+          "type": 99,
+          "count": 6
+        }
+      },
+      "itemIconShow": "[{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"},{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"}]",
+      "prefabPath": "Scenes/Hotels/Prefab/Room_Bath_Right.prefab",
+      "needCondition": {
+        "1": {
+          "rebuild": 20101,
+          "level": 99,
+          "roomupgrade": 2010202
+        }
+      },
+      "srcRoom": 20102,
+      "id": 1020102
+    },
+    "1020103": {
+      "costs": {
+        "1": {
+          "id": "item_clinic_gaizao_1",
+          "type": 99,
+          "count": 6
+        },
+        "2": {
+          "id": "item_clinic_gaizao_2",
+          "type": 99,
+          "count": 6
+        }
+      },
+      "itemIconShow": "[{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"},{\"icon\":\"icon_zs_bonus_prop\",\"langkey\":\"room_prop\"}]",
+      "prefabPath": "Scenes/Hotels/Prefab/Room_Bath_Left.prefab",
+      "needCondition": {
+        "1": {
+          "rebuild": 20102,
+          "level": 99,
+          "roomupgrade": 2010202
+        }
+      },
+      "srcRoom": 20103,
+      "id": 1020103
+    }
+  },
+  "first": 1020101,
+  "isNeedTransform": false,
+  "excelName": "Clinic_诊所",
+  "len": 3,
+  "key": "id"
+}

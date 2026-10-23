@@ -1,0 +1,31 @@
+{
+  "data": {
+    "6": {
+      "id": 6,
+      "name": "Mythic League"
+    },
+    "1": {
+      "id": 1,
+      "name": "Rookie League"
+    },
+    "3": {
+      "id": 3,
+      "name": "Beginner League"
+    },
+    "2": {
+      "id": 2,
+      "name": "Novice League"
+    },
+    "5": {
+      "id": 5,
+      "name": "Epic League"
+    },
+    "4": {
+      "id": 4,
+      "name": "Elite League"
+    }
+  },
+  "len": 6,
+  "key": "id",
+  "source_format": "locale rows"
+}

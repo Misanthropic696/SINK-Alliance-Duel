@@ -1,0 +1,4096 @@
+{
+  "key": "id",
+  "excelName": "ZombieAttCity_尸潮攻城",
+  "isNeedTransform": false,
+  "data": {
+    "10013": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10013,
+      "reward": {
+        "1": {
+          "count": 700000,
+          "type": 5
+        },
+        "2": {
+          "count": 10,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10038": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10038,
+      "reward": {
+        "1": {
+          "count": 2800000,
+          "type": 5
+        },
+        "2": {
+          "count": 10,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10010": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10010,
+      "reward": {
+        "1": {
+          "count": 4080000,
+          "type": 5
+        },
+        "2": {
+          "count": 64,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10055": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10055,
+      "reward": {
+        "1": {
+          "count": 16000000,
+          "type": 5
+        },
+        "2": {
+          "count": 17,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 25,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 550,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 14,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "64": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 64,
+      "reward": {
+        "1": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 24,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 24,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 45,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10037": {
+      "activityID": 520010101,
+      "guardWave": 500,
+      "type": 2,
+      "id": 10037,
+      "reward": {
+        "1": {
+          "count": 28200000,
+          "type": 5
+        },
+        "2": {
+          "count": 285,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 20,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1250,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "14": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 14,
+      "reward": {
+        "1": {
+          "count": 40,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 48,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 48,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10069": {
+      "activityID": 520010101,
+      "guardWave": 1200,
+      "type": 2,
+      "id": 10069,
+      "reward": {
+        "1": {
+          "count": 41800000,
+          "type": 5
+        },
+        "2": {
+          "count": 39,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 60,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3000,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 46,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10060": {
+      "activityID": 520010101,
+      "guardWave": 800,
+      "type": 2,
+      "id": 10060,
+      "reward": {
+        "1": {
+          "count": 38800000,
+          "type": 5
+        },
+        "2": {
+          "count": 35,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 46,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2400,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 32,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "24": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 24,
+      "reward": {
+        "1": {
+          "count": 25,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 33,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 33,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "34": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 34,
+      "reward": {
+        "1": {
+          "count": 60,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 80,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 80,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 80,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "10025": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10025,
+      "reward": {
+        "1": {
+          "count": 2200000,
+          "type": 5
+        },
+        "2": {
+          "count": 25,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "10024": {
+      "activityID": 520010101,
+      "guardWave": 300,
+      "type": 2,
+      "id": 10024,
+      "reward": {
+        "1": {
+          "count": 15500000,
+          "type": 5
+        },
+        "2": {
+          "count": 170,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 600,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10014": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10014,
+      "reward": {
+        "1": {
+          "count": 1700000,
+          "type": 5
+        },
+        "2": {
+          "count": 30,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10004": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10004,
+      "reward": {
+        "1": {
+          "count": 3264000,
+          "type": 5
+        },
+        "2": {
+          "count": 48,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 75,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "65": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 65,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 46,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 46,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 80,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10039": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10039,
+      "reward": {
+        "1": {
+          "count": 7400000,
+          "type": 5
+        },
+        "2": {
+          "count": 25,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10050": {
+      "activityID": 520010101,
+      "guardWave": 350,
+      "type": 2,
+      "id": 10050,
+      "reward": {
+        "1": {
+          "count": 35300000,
+          "type": 5
+        },
+        "2": {
+          "count": 105,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 30,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1550,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10065": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10065,
+      "reward": {
+        "1": {
+          "count": 36400000,
+          "type": 5
+        },
+        "2": {
+          "count": 32,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 48,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2000,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 34,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "55": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 55,
+      "reward": {
+        "1": {
+          "count": 100,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 140,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 140,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 250,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "45": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 45,
+      "reward": {
+        "1": {
+          "count": 40,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 60,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 90,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "35": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 35,
+      "reward": {
+        "1": {
+          "count": 70,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 100,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "25": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 25,
+      "reward": {
+        "1": {
+          "count": 32,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 41,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 41,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10062": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10062,
+      "reward": {
+        "1": {
+          "count": 9900000,
+          "type": 5
+        },
+        "2": {
+          "count": 9,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 26,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10034": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10034,
+      "reward": {
+        "1": {
+          "count": 18300000,
+          "type": 5
+        },
+        "2": {
+          "count": 180,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 600,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10058": {
+      "activityID": 520010101,
+      "guardWave": 350,
+      "type": 2,
+      "id": 10058,
+      "reward": {
+        "1": {
+          "count": 36400000,
+          "type": 5
+        },
+        "2": {
+          "count": 32,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 41,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2000,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 28,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10009": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10009,
+      "reward": {
+        "1": {
+          "count": 2640000,
+          "type": 5
+        },
+        "2": {
+          "count": 32,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 60,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "32": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 32,
+      "reward": {
+        "1": {
+          "count": 40,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 50,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 50,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "42": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 42,
+      "reward": {
+        "1": {
+          "count": 80,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 130,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 130,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 200,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "52": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 52,
+      "reward": {
+        "1": {
+          "count": 45,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 63,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 63,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 120,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "62": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 62,
+      "reward": {
+        "1": {
+          "count": 8,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 105,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 160,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 160,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 275,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10003": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10003,
+      "reward": {
+        "1": {
+          "count": 2112000,
+          "type": 5
+        },
+        "2": {
+          "count": 24,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "10011": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10011,
+      "reward": {
+        "1": {
+          "count": 6080000,
+          "type": 5
+        },
+        "2": {
+          "count": 80,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 200,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "22": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 22,
+      "reward": {
+        "1": {
+          "count": 7,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 8,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 8,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10019": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10019,
+      "reward": {
+        "1": {
+          "count": 1500000,
+          "type": 5
+        },
+        "2": {
+          "count": 15,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10045": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10045,
+      "reward": {
+        "1": {
+          "count": 3400000,
+          "type": 5
+        },
+        "2": {
+          "count": 15,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10023": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10023,
+      "reward": {
+        "1": {
+          "count": 14600000,
+          "type": 5
+        },
+        "2": {
+          "count": 150,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 450,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "1": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 1,
+      "reward": {
+        "1": {
+          "count": 2,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 4,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 4,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "3": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 3,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 12,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "2": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 2,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 6,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "5": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 5,
+      "reward": {
+        "1": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 24,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 24,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "4": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 4,
+      "reward": {
+        "1": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 18,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 18,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "7": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 7,
+      "reward": {
+        "1": {
+          "count": 30,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 36,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 36,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "6": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 6,
+      "reward": {
+        "1": {
+          "count": 25,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 30,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "9": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 9,
+      "reward": {
+        "1": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 8,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 8,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "8": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 8,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10066": {
+      "activityID": 520010101,
+      "guardWave": 350,
+      "type": 2,
+      "id": 10066,
+      "reward": {
+        "1": {
+          "count": 38400000,
+          "type": 5
+        },
+        "2": {
+          "count": 34,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2250,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 36,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10033": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10033,
+      "reward": {
+        "1": {
+          "count": 11600000,
+          "type": 5
+        },
+        "2": {
+          "count": 120,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 7,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 300,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "33": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 33,
+      "reward": {
+        "1": {
+          "count": 50,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 62,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 62,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 62,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "63": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 63,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 125,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 200,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 200,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 360,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10022": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10022,
+      "reward": {
+        "1": {
+          "count": 10600000,
+          "type": 5
+        },
+        "2": {
+          "count": 100,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 320,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10016": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10016,
+      "reward": {
+        "1": {
+          "count": 5100000,
+          "type": 5
+        },
+        "2": {
+          "count": 100,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 160,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "23": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 23,
+      "reward": {
+        "1": {
+          "count": 12,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 16,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 16,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "13": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 13,
+      "reward": {
+        "1": {
+          "count": 30,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 40,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10006": {
+      "activityID": 520010101,
+      "guardWave": 300,
+      "type": 2,
+      "id": 10006,
+      "reward": {
+        "1": {
+          "count": 4928000,
+          "type": 5
+        },
+        "2": {
+          "count": 80,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 200,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "10057": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10057,
+      "reward": {
+        "1": {
+          "count": 35300000,
+          "type": 5
+        },
+        "2": {
+          "count": 31,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 40,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1850,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 24,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10032": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10032,
+      "reward": {
+        "1": {
+          "count": 6300000,
+          "type": 5
+        },
+        "2": {
+          "count": 60,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 4,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10021": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10021,
+      "reward": {
+        "1": {
+          "count": 6700000,
+          "type": 5
+        },
+        "2": {
+          "count": 65,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 180,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10002": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10002,
+      "reward": {
+        "1": {
+          "count": 1088000,
+          "type": 5
+        },
+        "2": {
+          "count": 12,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "50": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 50,
+      "reward": {
+        "1": {
+          "count": 12,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 17,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 17,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 30,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "60": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 60,
+      "reward": {
+        "1": {
+          "count": 4,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 70,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 100,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 165,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "30": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 30,
+      "reward": {
+        "1": {
+          "count": 15,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 22,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 22,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 22,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "40": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 40,
+      "reward": {
+        "1": {
+          "count": 60,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 80,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 80,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 125,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 10,
+      "reward": {
+        "1": {
+          "count": 12,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 16,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 16,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10015": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10015,
+      "reward": {
+        "1": {
+          "count": 3300000,
+          "type": 5
+        },
+        "2": {
+          "count": 50,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 80,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10042": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10042,
+      "reward": {
+        "1": {
+          "count": 30600000,
+          "type": 5
+        },
+        "2": {
+          "count": 90,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 20,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 900,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "68": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 68,
+      "reward": {
+        "1": {
+          "count": 9,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 90,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 140,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 140,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 250,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "38": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 38,
+      "reward": {
+        "1": {
+          "count": 33,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 48,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 48,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 80,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "48": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 48,
+      "reward": {
+        "1": {
+          "count": 80,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 120,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 120,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 200,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10026": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10026,
+      "reward": {
+        "1": {
+          "count": 5000000,
+          "type": 5
+        },
+        "2": {
+          "count": 60,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "10005": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10005,
+      "reward": {
+        "1": {
+          "count": 4864000,
+          "type": 5
+        },
+        "2": {
+          "count": 64,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "70": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 70,
+      "reward": {
+        "1": {
+          "count": 15,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 140,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 230,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 230,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 400,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10043": {
+      "activityID": 520010101,
+      "guardWave": 350,
+      "type": 2,
+      "id": 10043,
+      "reward": {
+        "1": {
+          "count": 31400000,
+          "type": 5
+        },
+        "2": {
+          "count": 95,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 25,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1200,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10007": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10007,
+      "reward": {
+        "1": {
+          "count": 560000,
+          "type": 5
+        },
+        "2": {
+          "count": 8,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10012": {
+      "activityID": 520010101,
+      "guardWave": 300,
+      "type": 2,
+      "id": 10012,
+      "reward": {
+        "1": {
+          "count": 6160000,
+          "type": 5
+        },
+        "2": {
+          "count": 100,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 300,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10061": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10061,
+      "reward": {
+        "1": {
+          "count": 3600000,
+          "type": 5
+        },
+        "2": {
+          "count": 5,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 14,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 7,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10059": {
+      "activityID": 520010101,
+      "guardWave": 500,
+      "type": 2,
+      "id": 10059,
+      "reward": {
+        "1": {
+          "count": 37300000,
+          "type": 5
+        },
+        "2": {
+          "count": 33,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 43,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2150,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10053": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10053,
+      "reward": {
+        "1": {
+          "count": 3500000,
+          "type": 5
+        },
+        "2": {
+          "count": 5,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 9,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "61": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 61,
+      "reward": {
+        "1": {
+          "count": 6,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 80,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 130,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 130,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 220,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "51": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 51,
+      "reward": {
+        "1": {
+          "count": 24,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 36,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 36,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 55,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "41": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 41,
+      "reward": {
+        "1": {
+          "count": 70,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 165,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10035": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10035,
+      "reward": {
+        "1": {
+          "count": 26400000,
+          "type": 5
+        },
+        "2": {
+          "count": 240,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 14,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 750,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10008": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10008,
+      "reward": {
+        "1": {
+          "count": 1360000,
+          "type": 5
+        },
+        "2": {
+          "count": 16,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10028": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10028,
+      "reward": {
+        "1": {
+          "count": 15200000,
+          "type": 5
+        },
+        "2": {
+          "count": 150,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 8,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 420,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "69": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 69,
+      "reward": {
+        "1": {
+          "count": 12,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 115,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 188,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 188,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 300,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "59": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 59,
+      "reward": {
+        "1": {
+          "count": 3,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 55,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 78,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 78,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 135,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "49": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 49,
+      "reward": {
+        "1": {
+          "count": 95,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 160,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 160,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 240,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "39": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 39,
+      "reward": {
+        "1": {
+          "count": 50,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 64,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 64,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 100,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "29": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 29,
+      "reward": {
+        "1": {
+          "count": 8,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 10,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 10,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "19": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 19,
+      "reward": {
+        "1": {
+          "count": 32,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 40,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 40,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10001": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10001,
+      "reward": {
+        "1": {
+          "count": 448000,
+          "type": 5
+        },
+        "2": {
+          "count": 5,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 1
+    },
+    "10027": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10027,
+      "reward": {
+        "1": {
+          "count": 9300000,
+          "type": 5
+        },
+        "2": {
+          "count": 90,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 250,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "10051": {
+      "activityID": 520010101,
+      "guardWave": 500,
+      "type": 2,
+      "id": 10051,
+      "reward": {
+        "1": {
+          "count": 36300000,
+          "type": 5
+        },
+        "2": {
+          "count": 110,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 31,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1750,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 3,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10017": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10017,
+      "reward": {
+        "1": {
+          "count": 7600000,
+          "type": 5
+        },
+        "2": {
+          "count": 125,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 300,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10049": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10049,
+      "reward": {
+        "1": {
+          "count": 35300000,
+          "type": 5
+        },
+        "2": {
+          "count": 100,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 25,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1350,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "66": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 66,
+      "reward": {
+        "1": {
+          "count": 4,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 92,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 92,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 150,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10040": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10040,
+      "reward": {
+        "1": {
+          "count": 13500000,
+          "type": 5
+        },
+        "2": {
+          "count": 50,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 350,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10020": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10020,
+      "reward": {
+        "1": {
+          "count": 3900000,
+          "type": 5
+        },
+        "2": {
+          "count": 40,
+          "id": "item_steel_30k",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "67": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 67,
+      "reward": {
+        "1": {
+          "count": 6,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 75,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 115,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 115,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 195,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10029": {
+      "activityID": 520010101,
+      "guardWave": 250,
+      "type": 2,
+      "id": 10029,
+      "reward": {
+        "1": {
+          "count": 21700000,
+          "type": 5
+        },
+        "2": {
+          "count": 230,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 9,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 600,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "10063": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10063,
+      "reward": {
+        "1": {
+          "count": 18000000,
+          "type": 5
+        },
+        "2": {
+          "count": 18,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 35,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 750,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "58": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 58,
+      "reward": {
+        "1": {
+          "count": 2,
+          "id": "item_drone_part",
+          "type": 99
+        },
+        "2": {
+          "count": 26,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "3": {
+          "count": 38,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 38,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 72,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "6": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "10018": {
+      "activityID": 520010101,
+      "guardWave": 300,
+      "type": 2,
+      "id": 10018,
+      "reward": {
+        "1": {
+          "count": 7700000,
+          "type": 5
+        },
+        "2": {
+          "count": 150,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 400,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10054": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10054,
+      "reward": {
+        "1": {
+          "count": 9100000,
+          "type": 5
+        },
+        "2": {
+          "count": 9,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 18,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 8,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "36": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 36,
+      "reward": {
+        "1": {
+          "count": 9,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 12,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "46": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 46,
+      "reward": {
+        "1": {
+          "count": 60,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 75,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 75,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 125,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "56": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 56,
+      "reward": {
+        "1": {
+          "count": 110,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 180,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 180,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 300,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10031": {
+      "activityID": 520010101,
+      "guardWave": 50,
+      "type": 2,
+      "id": 10031,
+      "reward": {
+        "1": {
+          "count": 2500000,
+          "type": 5
+        },
+        "2": {
+          "count": 30,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "10047": {
+      "activityID": 520010101,
+      "guardWave": 150,
+      "type": 2,
+      "id": 10047,
+      "reward": {
+        "1": {
+          "count": 16200000,
+          "type": 5
+        },
+        "2": {
+          "count": 55,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 17,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 420,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10041": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10041,
+      "reward": {
+        "1": {
+          "count": 21100000,
+          "type": 5
+        },
+        "2": {
+          "count": 70,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 14,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 680,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "54": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 54,
+      "reward": {
+        "1": {
+          "count": 90,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 100,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 175,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "53": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 53,
+      "reward": {
+        "1": {
+          "count": 70,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 88,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 88,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 145,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10036": {
+      "activityID": 520010101,
+      "guardWave": 350,
+      "type": 2,
+      "id": 10036,
+      "reward": {
+        "1": {
+          "count": 26400000,
+          "type": 5
+        },
+        "2": {
+          "count": 270,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 18,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1000,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "44": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 44,
+      "reward": {
+        "1": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 32,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 32,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 45,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "43": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 43,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 15,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 15,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 25,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10048": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10048,
+      "reward": {
+        "1": {
+          "count": 23700000,
+          "type": 5
+        },
+        "2": {
+          "count": 75,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 20,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 900,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "31": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 31,
+      "reward": {
+        "1": {
+          "count": 28,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 44,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 44,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 44,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "28": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 28,
+      "reward": {
+        "1": {
+          "count": 60,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 80,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 80,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "10044": {
+      "activityID": 520010101,
+      "guardWave": 500,
+      "type": 2,
+      "id": 10044,
+      "reward": {
+        "1": {
+          "count": 32000000,
+          "type": 5
+        },
+        "2": {
+          "count": 100,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 30,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1500,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    },
+    "10046": {
+      "activityID": 520010101,
+      "guardWave": 100,
+      "type": 2,
+      "id": 10046,
+      "reward": {
+        "1": {
+          "count": 8600000,
+          "type": 5
+        },
+        "2": {
+          "count": 30,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 10,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "10056": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10056,
+      "reward": {
+        "1": {
+          "count": 26200000,
+          "type": 5
+        },
+        "2": {
+          "count": 23,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 34,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1200,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 20,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "26": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 26,
+      "reward": {
+        "1": {
+          "count": 38,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 52,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 52,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "21": {
+      "activityID": 520010101,
+      "guardWave": 20,
+      "type": 1,
+      "id": 21,
+      "reward": {
+        "1": {
+          "count": 50,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 60,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 7,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "20": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 20,
+      "reward": {
+        "1": {
+          "count": 40,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 50,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10030": {
+      "activityID": 520010101,
+      "guardWave": 300,
+      "type": 2,
+      "id": 10030,
+      "reward": {
+        "1": {
+          "count": 22000000,
+          "type": 5
+        },
+        "2": {
+          "count": 240,
+          "id": "item_steel_30k",
+          "type": 99
+        },
+        "3": {
+          "count": 10,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 800,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 5
+    },
+    "18": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 18,
+      "reward": {
+        "1": {
+          "count": 26,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 30,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10064": {
+      "activityID": 520010101,
+      "guardWave": 200,
+      "type": 2,
+      "id": 10064,
+      "reward": {
+        "1": {
+          "count": 26800000,
+          "type": 5
+        },
+        "2": {
+          "count": 24,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 45,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1500,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 30,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "16": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 16,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 12,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "15": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 15,
+      "reward": {
+        "1": {
+          "count": 6,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 6,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "12": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 12,
+      "reward": {
+        "1": {
+          "count": 24,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 32,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 32,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "11": {
+      "activityID": 520010101,
+      "guardWave": 10,
+      "type": 1,
+      "id": 11,
+      "reward": {
+        "1": {
+          "count": 18,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 24,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 24,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 2
+    },
+    "10068": {
+      "activityID": 520010101,
+      "guardWave": 800,
+      "type": 2,
+      "id": 10068,
+      "reward": {
+        "1": {
+          "count": 40700000,
+          "type": 5
+        },
+        "2": {
+          "count": 36,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 56,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2750,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 40,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "10067": {
+      "activityID": 520010101,
+      "guardWave": 500,
+      "type": 2,
+      "id": 10067,
+      "reward": {
+        "1": {
+          "count": 40000000,
+          "type": 5
+        },
+        "2": {
+          "count": 35,
+          "id": "item_steel_300k",
+          "type": 99
+        },
+        "3": {
+          "count": 52,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 2500,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 38,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 10
+    },
+    "17": {
+      "activityID": 520010101,
+      "guardWave": 8,
+      "type": 1,
+      "id": 17,
+      "reward": {
+        "1": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 24,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 24,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 3
+    },
+    "10052": {
+      "activityID": 520010101,
+      "guardWave": 800,
+      "type": 2,
+      "id": 10052,
+      "reward": {
+        "1": {
+          "count": 37500000,
+          "type": 5
+        },
+        "2": {
+          "count": 115,
+          "id": "item_steel_90k",
+          "type": 99
+        },
+        "3": {
+          "count": 35,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 1950,
+          "id": "item_HeroSkill_Book",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_optionalBox_Resource2",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 8
+    },
+    "37": {
+      "activityID": 520010101,
+      "guardWave": 4,
+      "type": 1,
+      "id": 37,
+      "reward": {
+        "1": {
+          "count": 20,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 24,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 24,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 40,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 2,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 6
+    },
+    "27": {
+      "activityID": 520010101,
+      "guardWave": 16,
+      "type": 1,
+      "id": 27,
+      "reward": {
+        "1": {
+          "count": 50,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 65,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 65,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 6,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 4
+    },
+    "57": {
+      "activityID": 520010101,
+      "guardWave": 1,
+      "type": 1,
+      "id": 57,
+      "reward": {
+        "1": {
+          "count": 13,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 20,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 20,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 40,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 9
+    },
+    "47": {
+      "activityID": 520010101,
+      "guardWave": 13,
+      "type": 1,
+      "id": 47,
+      "reward": {
+        "1": {
+          "count": 70,
+          "id": "item_Resource_allianceCoin_50",
+          "type": 99
+        },
+        "2": {
+          "count": 95,
+          "id": "item_SpeedUp_build_1m",
+          "type": 99
+        },
+        "3": {
+          "count": 95,
+          "id": "item_SpeedUp_research_1m",
+          "type": 99
+        },
+        "4": {
+          "count": 160,
+          "id": "item_SpeedUp_train_1m",
+          "type": 99
+        },
+        "5": {
+          "count": 5,
+          "id": "item_Box_SpeedBox_5m",
+          "type": 99
+        }
+      },
+      "zombieAttCityStage": 7
+    }
+  },
+  "first": 1,
+  "len": 139
+}

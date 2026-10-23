@@ -1,0 +1,262 @@
+{
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 10,
+  "data": {
+    "10": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 30,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 10,
+      "stagePower": 24471960,
+      "cityState": 3,
+      "unlockLv": 9,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance02.png",
+      "stageLevel": 10,
+      "mondel": 60015,
+      "eliteBossAssetPath": "UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance01.png",
+      "minLevel": 27
+    },
+    "8": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 28,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 8,
+      "stagePower": 17411540,
+      "cityState": 2,
+      "unlockLv": 7,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 8,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 25
+    },
+    "7": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 26,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 7,
+      "stagePower": 14019948,
+      "cityState": 2,
+      "unlockLv": 6,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 7,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 23
+    },
+    "9": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 29,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 9,
+      "stagePower": 20155943,
+      "cityState": 3,
+      "unlockLv": 8,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance02.png",
+      "stageLevel": 9,
+      "mondel": 60015,
+      "eliteBossAssetPath": "UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance01.png",
+      "minLevel": 26
+    },
+    "4": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 20,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 4,
+      "stagePower": 6088213,
+      "cityState": 2,
+      "unlockLv": 3,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 4,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 17
+    },
+    "3": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 17,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 3,
+      "stagePower": 4229772,
+      "cityState": 1,
+      "unlockLv": 2,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 42
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 3,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 15
+    },
+    "6": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 24,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 6,
+      "stagePower": 11522865,
+      "cityState": 2,
+      "unlockLv": 5,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 6,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 21
+    },
+    "5": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 22,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 5,
+      "stagePower": 8014806,
+      "cityState": 2,
+      "unlockLv": 4,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 56
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 5,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 19
+    },
+    "2": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 1,
+      "maxLevel": 16,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 20,
+      "id": 2,
+      "stagePower": 3293051,
+      "cityState": 1,
+      "unlockLv": 1,
+      "unlockCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "isClientAddOne": 1,
+          "param1": 28
+        }
+      },
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 2,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 14
+    },
+    "1": {
+      "exp": 300000,
+      "activityID": 520010101,
+      "ifShow": 0,
+      "maxLevel": 15,
+      "cdTime": 172800,
+      "preparaTionTime": 180,
+      "unlockNumber": 0,
+      "id": 1,
+      "stagePower": 2414269,
+      "cityState": 1,
+      "unlockLv": 0,
+      "unlockCondition": {},
+      "eliteMonsterAssetPath": "",
+      "stageLevel": 1,
+      "mondel": 60015,
+      "eliteBossAssetPath": "",
+      "minLevel": 13
+    }
+  },
+  "excelName": "ZombieAttCity_尸潮攻城",
+  "first": 1
+}

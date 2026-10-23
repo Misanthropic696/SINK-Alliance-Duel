@@ -1,0 +1,93 @@
+{
+  "key": "id",
+  "len": 6,
+  "isNeedTransform": false,
+  "first": 1,
+  "data": {
+    "6": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 6,
+      "tag2": ""
+    },
+    "4": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 4,
+      "tag2": ""
+    },
+    "5": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 5,
+      "tag2": ""
+    },
+    "2": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 2,
+      "tag2": ""
+    },
+    "3": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 3,
+      "tag2": ""
+    },
+    "1": {
+      "prefab1": "WorldMap/Prefab/Terrain/MechLand_10.prefab",
+      "trs2": {},
+      "trs1": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 1
+      },
+      "tag1": "land",
+      "prefab2": "",
+      "id": 1,
+      "tag2": ""
+    }
+  },
+  "excelName": "ModelConfig_模型表"
+}

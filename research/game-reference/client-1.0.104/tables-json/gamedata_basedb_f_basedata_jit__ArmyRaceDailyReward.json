@@ -1,0 +1,81 @@
+{
+  "isNeedTransform": false,
+  "first": 1,
+  "len": 3,
+  "excelName": "Activity_ArmyRace_军备竞赛",
+  "key": "id",
+  "data": {
+    "3": {
+      "id": 3,
+      "dailyScore": 18,
+      "stage": 3,
+      "reward": {
+        "1": {
+          "count": 2,
+          "id": "item_Material_universalFragment_5",
+          "type": 99
+        },
+        "2": {
+          "count": 6,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "3": {
+          "count": 2,
+          "id": "item_Box_gem_100",
+          "type": 99
+        }
+      },
+      "icon": "",
+      "seasonRewardGroup": 1001
+    },
+    "2": {
+      "id": 2,
+      "dailyScore": 8,
+      "stage": 2,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_Material_universalFragment_4",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_Box_gem_100",
+          "type": 99
+        }
+      },
+      "icon": "",
+      "seasonRewardGroup": 0
+    },
+    "1": {
+      "id": 1,
+      "dailyScore": 2,
+      "stage": 1,
+      "reward": {
+        "1": {
+          "count": 2,
+          "id": "item_Material_universalFragment_4",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_Box_gem_50",
+          "type": 99
+        }
+      },
+      "icon": "",
+      "seasonRewardGroup": 0
+    }
+  }
+}

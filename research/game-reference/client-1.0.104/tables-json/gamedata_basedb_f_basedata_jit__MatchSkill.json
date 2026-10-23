@@ -1,0 +1,7236 @@
+{
+  "data": {
+    "14901": {
+      "skillType": 1,
+      "id": 14901,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042073": {
+      "skillType": 3,
+      "id": 1042073,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "14403": {
+      "skillType": 1,
+      "id": 14403,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14803": {
+      "skillType": 2,
+      "id": 14803,
+      "target": 8,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24803": {
+      "skillType": 2,
+      "id": 24803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501062001": {
+      "skillType": 1,
+      "id": 501062001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501081": {
+      "skillType": 1,
+      "id": 501081,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "501131006": {
+      "skillType": 4,
+      "id": 501131006,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "22703": {
+      "skillType": 2,
+      "id": 22703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12703": {
+      "skillType": 1,
+      "id": 12703,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "1042092": {
+      "skillType": 3,
+      "id": 1042092,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501072004": {
+      "skillType": 1,
+      "id": 501072004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "1004": {
+      "skillType": 1,
+      "id": 1004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1"
+    },
+    "1042002": {
+      "skillType": 3,
+      "id": 1042002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501051": {
+      "skillType": 1,
+      "id": 501051,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "10405": {
+      "skillType": 1,
+      "id": 10405,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.6"
+    },
+    "15503": {
+      "skillType": 2,
+      "id": 15503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10603": {
+      "skillType": 2,
+      "id": 10603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13903": {
+      "skillType": 2,
+      "id": 13903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23903": {
+      "skillType": 2,
+      "id": 23903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10505": {
+      "skillType": 3,
+      "id": 10505,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "23803": {
+      "skillType": 2,
+      "id": 23803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13803": {
+      "skillType": 2,
+      "id": 13803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23303": {
+      "skillType": 2,
+      "id": 23303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13303": {
+      "skillType": 2,
+      "id": 13303,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 3,
+      "damageFactorExpr": ""
+    },
+    "11703": {
+      "skillType": 2,
+      "id": 11703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21703": {
+      "skillType": 2,
+      "id": 21703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042015": {
+      "skillType": 3,
+      "id": 1042015,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501165": {
+      "skillType": 3,
+      "id": 501165,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "11405": {
+      "skillType": 1,
+      "id": 11405,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.8"
+    },
+    "24503": {
+      "skillType": 2,
+      "id": 24503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501163005": {
+      "skillType": 3,
+      "id": 501163005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "14503": {
+      "skillType": 2,
+      "id": 14503,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501135": {
+      "skillType": 4,
+      "id": 501135,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501214": {
+      "skillType": 3,
+      "id": 501214,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.5"
+    },
+    "11505": {
+      "skillType": 3,
+      "id": 11505,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.08"
+    },
+    "12903": {
+      "skillType": 2,
+      "id": 12903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501103001": {
+      "skillType": 1,
+      "id": 501103001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "501165002": {
+      "skillType": 3,
+      "id": 501165002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "11205": {
+      "skillType": 3,
+      "id": 11205,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.35"
+    },
+    "12803": {
+      "skillType": 2,
+      "id": 12803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22803": {
+      "skillType": 2,
+      "id": 22803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042052": {
+      "skillType": 3,
+      "id": 1042052,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "19902": {
+      "skillType": 2,
+      "id": 19902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13001": {
+      "skillType": 3,
+      "id": 13001,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "12303": {
+      "skillType": 2,
+      "id": 12303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501072003": {
+      "skillType": 1,
+      "id": 501072003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "24703": {
+      "skillType": 2,
+      "id": 24703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14703": {
+      "skillType": 1,
+      "id": 14703,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "501133": {
+      "skillType": 4,
+      "id": 501133,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501063004": {
+      "skillType": 1,
+      "id": 501063004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501074": {
+      "skillType": 1,
+      "id": 501074,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "1042032": {
+      "skillType": 3,
+      "id": 1042032,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "15403": {
+      "skillType": 3,
+      "id": 15403,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "1042102": {
+      "skillType": 3,
+      "id": 1042102,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "21803": {
+      "skillType": 2,
+      "id": 21803,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11803": {
+      "skillType": 1,
+      "id": 11803,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "15303": {
+      "skillType": 3,
+      "id": 15303,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "501063005": {
+      "skillType": 1,
+      "id": 501063005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "10305": {
+      "skillType": 3,
+      "id": 10305,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "5.28"
+    },
+    "13703": {
+      "skillType": 2,
+      "id": 13703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23703": {
+      "skillType": 2,
+      "id": 23703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501064": {
+      "skillType": 1,
+      "id": 501064,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501053": {
+      "skillType": 1,
+      "id": 501053,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "1042013": {
+      "skillType": 3,
+      "id": 1042013,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501061": {
+      "skillType": 1,
+      "id": 501061,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "24903": {
+      "skillType": 2,
+      "id": 24903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14903": {
+      "skillType": 1,
+      "id": 14903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501141": {
+      "skillType": 1,
+      "id": 501141,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.95"
+    },
+    "1042003": {
+      "skillType": 3,
+      "id": 1042003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "10105": {
+      "skillType": 3,
+      "id": 10105,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501172": {
+      "skillType": 3,
+      "id": 501172,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "1042065": {
+      "skillType": 3,
+      "id": 1042065,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "11001": {
+      "skillType": 3,
+      "id": 11001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2"
+    },
+    "14303": {
+      "skillType": 1,
+      "id": 14303,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "24303": {
+      "skillType": 2,
+      "id": 24303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501085001": {
+      "skillType": 1,
+      "id": 501085001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "11305": {
+      "skillType": 3,
+      "id": 11305,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.8"
+    },
+    "14405": {
+      "skillType": 1,
+      "id": 14405,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22504": {
+      "skillType": 2,
+      "id": 22504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12504": {
+      "skillType": 1,
+      "id": 12504,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "501075": {
+      "skillType": 1,
+      "id": 501075,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "501123": {
+      "skillType": 1,
+      "id": 501123,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "14505": {
+      "skillType": 1,
+      "id": 14505,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "5.3"
+    },
+    "13003": {
+      "skillType": 2,
+      "id": 13003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24603": {
+      "skillType": 2,
+      "id": 24603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501162004": {
+      "skillType": 3,
+      "id": 501162004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "700002": {
+      "skillType": 3,
+      "id": 700002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "30"
+    },
+    "11304": {
+      "skillType": 1,
+      "id": 11304,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "21304": {
+      "skillType": 2,
+      "id": 21304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23103": {
+      "skillType": 2,
+      "id": 23103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13403": {
+      "skillType": 2,
+      "id": 13403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23403": {
+      "skillType": 2,
+      "id": 23403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10205": {
+      "skillType": 3,
+      "id": 10205,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.9"
+    },
+    "501172003": {
+      "skillType": 3,
+      "id": 501172003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "23404": {
+      "skillType": 2,
+      "id": 23404,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13404": {
+      "skillType": 1,
+      "id": 13404,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "501131004": {
+      "skillType": 4,
+      "id": 501131004,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "501024001": {
+      "skillType": 3,
+      "id": 501024001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "1042114": {
+      "skillType": 3,
+      "id": 1042114,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12001": {
+      "skillType": 3,
+      "id": 12001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "15405": {
+      "skillType": 3,
+      "id": 15405,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.9"
+    },
+    "1042094": {
+      "skillType": 3,
+      "id": 1042094,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "13504": {
+      "skillType": 2,
+      "id": 13504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13103": {
+      "skillType": 2,
+      "id": 13103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15505": {
+      "skillType": 1,
+      "id": 15505,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "10204": {
+      "skillType": 1,
+      "id": 10204,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "13603": {
+      "skillType": 2,
+      "id": 13603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "30011": {
+      "skillType": 0,
+      "id": 30011,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "40011": {
+      "skillType": 0,
+      "id": 40011,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10011": {
+      "skillType": 0,
+      "id": 10011,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "12105": {
+      "skillType": 3,
+      "id": 12105,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.78"
+    },
+    "24103": {
+      "skillType": 2,
+      "id": 24103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10703": {
+      "skillType": 2,
+      "id": 10703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501022": {
+      "skillType": 3,
+      "id": 501022,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "13305": {
+      "skillType": 1,
+      "id": 13305,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042091": {
+      "skillType": 3,
+      "id": 1042091,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "20005": {
+      "skillType": 0,
+      "id": 20005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30005": {
+      "skillType": 0,
+      "id": 30005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10004": {
+      "skillType": 0,
+      "id": 10004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10005": {
+      "skillType": 0,
+      "id": 10005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30004": {
+      "skillType": 0,
+      "id": 30004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "20004": {
+      "skillType": 0,
+      "id": 20004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "14103": {
+      "skillType": 2,
+      "id": 14103,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "40004": {
+      "skillType": 0,
+      "id": 40004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "90001": {
+      "skillType": 0,
+      "id": 90001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "1042035": {
+      "skillType": 3,
+      "id": 1042035,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "90005": {
+      "skillType": 0,
+      "id": 90005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "12603": {
+      "skillType": 1,
+      "id": 12603,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "22603": {
+      "skillType": 2,
+      "id": 22603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042005": {
+      "skillType": 3,
+      "id": 1042005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "11204": {
+      "skillType": 1,
+      "id": 11204,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.96"
+    },
+    "1042034": {
+      "skillType": 3,
+      "id": 1042034,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "23503": {
+      "skillType": 2,
+      "id": 23503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13304": {
+      "skillType": 2,
+      "id": 13304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12205": {
+      "skillType": 3,
+      "id": 12205,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2.08"
+    },
+    "24302": {
+      "skillType": 2,
+      "id": 24302,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14302": {
+      "skillType": 1,
+      "id": 14302,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501204": {
+      "skillType": 1,
+      "id": 501204,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "14305": {
+      "skillType": 3,
+      "id": 14305,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "11005": {
+      "skillType": 3,
+      "id": 11005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2.4"
+    },
+    "10001": {
+      "skillType": 0,
+      "id": 10001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "15103": {
+      "skillType": 1,
+      "id": 15103,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "10903": {
+      "skillType": 2,
+      "id": 10903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "151051": {
+      "skillType": 3,
+      "id": 151051,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "501081002": {
+      "skillType": 1,
+      "id": 501081002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "401011": {
+      "skillType": 3,
+      "id": 401011,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.93"
+    },
+    "20903": {
+      "skillType": 2,
+      "id": 20903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11203": {
+      "skillType": 2,
+      "id": 11203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12503": {
+      "skillType": 1,
+      "id": 12503,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "22503": {
+      "skillType": 2,
+      "id": 22503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13205": {
+      "skillType": 3,
+      "id": 13205,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "20304": {
+      "skillType": 2,
+      "id": 20304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10304": {
+      "skillType": 1,
+      "id": 10304,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "10303": {
+      "skillType": 1,
+      "id": 10303,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "20303": {
+      "skillType": 2,
+      "id": 20303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14904": {
+      "skillType": 2,
+      "id": 14904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24904": {
+      "skillType": 2,
+      "id": 24904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501094001": {
+      "skillType": 1,
+      "id": 501094001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "15305": {
+      "skillType": 3,
+      "id": 15305,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3.5"
+    },
+    "20802": {
+      "skillType": 2,
+      "id": 20802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10802": {
+      "skillType": 2,
+      "id": 10802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10402": {
+      "skillType": 1,
+      "id": 10402,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "20402": {
+      "skillType": 2,
+      "id": 20402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23704": {
+      "skillType": 2,
+      "id": 23704,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13704": {
+      "skillType": 2,
+      "id": 13704,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11502": {
+      "skillType": 1,
+      "id": 11502,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "21502": {
+      "skillType": 2,
+      "id": 21502,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11602": {
+      "skillType": 2,
+      "id": 11602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21602": {
+      "skillType": 2,
+      "id": 21602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10009": {
+      "skillType": 0,
+      "id": 10009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "40009": {
+      "skillType": 0,
+      "id": 40009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "14205": {
+      "skillType": 3,
+      "id": 14205,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "1042031": {
+      "skillType": 3,
+      "id": 1042031,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "401016": {
+      "skillType": 2,
+      "id": 401016,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13005": {
+      "skillType": 3,
+      "id": 13005,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.08"
+    },
+    "90003": {
+      "skillType": 0,
+      "id": 90003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "15101": {
+      "skillType": 3,
+      "id": 15101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "50003": {
+      "skillType": 0,
+      "id": 50003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "11402": {
+      "skillType": 1,
+      "id": 11402,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "137051": {
+      "skillType": 1,
+      "id": 137051,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "10003": {
+      "skillType": 0,
+      "id": 10003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "20003": {
+      "skillType": 0,
+      "id": 20003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30003": {
+      "skillType": 0,
+      "id": 30003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "40003": {
+      "skillType": 0,
+      "id": 40003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10902": {
+      "skillType": 1,
+      "id": 10902,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "20902": {
+      "skillType": 2,
+      "id": 20902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22602": {
+      "skillType": 2,
+      "id": 22602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12602": {
+      "skillType": 1,
+      "id": 12602,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1042043": {
+      "skillType": 3,
+      "id": 1042043,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12202": {
+      "skillType": 2,
+      "id": 12202,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.74"
+    },
+    "22202": {
+      "skillType": 2,
+      "id": 22202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15205": {
+      "skillType": 3,
+      "id": 15205,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.9"
+    },
+    "401019": {
+      "skillType": 2,
+      "id": 401019,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14005": {
+      "skillType": 3,
+      "id": 14005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.38"
+    },
+    "10404": {
+      "skillType": 2,
+      "id": 10404,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10103": {
+      "skillType": 2,
+      "id": 10103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501015001": {
+      "skillType": 3,
+      "id": 501015001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "501161008": {
+      "skillType": 3,
+      "id": 501161008,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "25003": {
+      "skillType": 2,
+      "id": 25003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20504": {
+      "skillType": 2,
+      "id": 20504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042024": {
+      "skillType": 3,
+      "id": 1042024,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12405": {
+      "skillType": 3,
+      "id": 12405,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501044": {
+      "skillType": 3,
+      "id": 501044,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "1042033": {
+      "skillType": 3,
+      "id": 1042033,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "21902": {
+      "skillType": 2,
+      "id": 21902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11902": {
+      "skillType": 1,
+      "id": 11902,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1042041": {
+      "skillType": 3,
+      "id": 1042041,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12505": {
+      "skillType": 1,
+      "id": 12505,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "5.28"
+    },
+    "401018": {
+      "skillType": 2,
+      "id": 401018,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13202": {
+      "skillType": 2,
+      "id": 13202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23202": {
+      "skillType": 2,
+      "id": 23202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10302": {
+      "skillType": 1,
+      "id": 10302,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "15005": {
+      "skillType": 1,
+      "id": 15005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "501011002": {
+      "skillType": 3,
+      "id": 501011002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "90009": {
+      "skillType": 0,
+      "id": 90009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501095001": {
+      "skillType": 1,
+      "id": 501095001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "11103": {
+      "skillType": 1,
+      "id": 11103,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "20302": {
+      "skillType": 2,
+      "id": 20302,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501054001": {
+      "skillType": 1,
+      "id": 501054001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501165001": {
+      "skillType": 3,
+      "id": 501165001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "13105": {
+      "skillType": 1,
+      "id": 13105,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.8"
+    },
+    "501093": {
+      "skillType": 1,
+      "id": 501093,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "13405": {
+      "skillType": 3,
+      "id": 13405,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.2"
+    },
+    "501162006": {
+      "skillType": 3,
+      "id": 501162006,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "1042101": {
+      "skillType": 3,
+      "id": 1042101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "10502": {
+      "skillType": 1,
+      "id": 10502,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "22902": {
+      "skillType": 2,
+      "id": 22902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20502": {
+      "skillType": 2,
+      "id": 20502,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13505": {
+      "skillType": 3,
+      "id": 13505,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "10202": {
+      "skillType": 1,
+      "id": 10202,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "20602": {
+      "skillType": 2,
+      "id": 20602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10602": {
+      "skillType": 1,
+      "id": 10602,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.32"
+    },
+    "20202": {
+      "skillType": 2,
+      "id": 20202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11302": {
+      "skillType": 1,
+      "id": 11302,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "1042075": {
+      "skillType": 3,
+      "id": 1042075,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "21302": {
+      "skillType": 2,
+      "id": 21302,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1109111": {
+      "skillType": 1,
+      "id": 1109111,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "14402": {
+      "skillType": 1,
+      "id": 14402,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24402": {
+      "skillType": 2,
+      "id": 24402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14802": {
+      "skillType": 1,
+      "id": 14802,
+      "target": 8,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24802": {
+      "skillType": 2,
+      "id": 24802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14203": {
+      "skillType": 2,
+      "id": 14203,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 4,
+      "damageFactorExpr": ""
+    },
+    "13902": {
+      "skillType": 1,
+      "id": 13902,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "24203": {
+      "skillType": 2,
+      "id": 24203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042025": {
+      "skillType": 3,
+      "id": 1042025,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "118051": {
+      "skillType": 3,
+      "id": 118051,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "11202": {
+      "skillType": 1,
+      "id": 11202,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.96"
+    },
+    "1009111": {
+      "skillType": 3,
+      "id": 1009111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501183": {
+      "skillType": 1,
+      "id": 501183,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "501063003": {
+      "skillType": 1,
+      "id": 501063003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501132002": {
+      "skillType": 4,
+      "id": 501132002,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "21202": {
+      "skillType": 2,
+      "id": 21202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501131007": {
+      "skillType": 4,
+      "id": 501131007,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "10702": {
+      "skillType": 1,
+      "id": 10702,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "1042104": {
+      "skillType": 3,
+      "id": 1042104,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1002": {
+      "skillType": 0,
+      "id": 1002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "22302": {
+      "skillType": 2,
+      "id": 22302,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1041003": {
+      "skillType": 3,
+      "id": 1041003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "89"
+    },
+    "15105": {
+      "skillType": 3,
+      "id": 15105,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.2"
+    },
+    "15402": {
+      "skillType": 3,
+      "id": 15402,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "501115": {
+      "skillType": 1,
+      "id": 501115,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "900009": {
+      "skillType": 2,
+      "id": 900009,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1005": {
+      "skillType": 0,
+      "id": 1005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501112": {
+      "skillType": 1,
+      "id": 501112,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "12502": {
+      "skillType": 1,
+      "id": 12502,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "1041005": {
+      "skillType": 3,
+      "id": 1041005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "89"
+    },
+    "14902": {
+      "skillType": 1,
+      "id": 14902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24902": {
+      "skillType": 2,
+      "id": 24902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22502": {
+      "skillType": 2,
+      "id": 22502,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401029": {
+      "skillType": 2,
+      "id": 401029,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042014": {
+      "skillType": 3,
+      "id": 1042014,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "14504": {
+      "skillType": 2,
+      "id": 14504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11702": {
+      "skillType": 1,
+      "id": 11702,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "1003": {
+      "skillType": 0,
+      "id": 1003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "23302": {
+      "skillType": 2,
+      "id": 23302,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24504": {
+      "skillType": 2,
+      "id": 24504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12402": {
+      "skillType": 2,
+      "id": 12402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401032": {
+      "skillType": 2,
+      "id": 401032,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501144": {
+      "skillType": 1,
+      "id": 501144,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.95"
+    },
+    "21003": {
+      "skillType": 2,
+      "id": 21003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11003": {
+      "skillType": 1,
+      "id": 11003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2"
+    },
+    "22203": {
+      "skillType": 2,
+      "id": 22203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12203": {
+      "skillType": 2,
+      "id": 12203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401017": {
+      "skillType": 2,
+      "id": 401017,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13602": {
+      "skillType": 1,
+      "id": 13602,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "501063": {
+      "skillType": 1,
+      "id": 501063,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "11903": {
+      "skillType": 1,
+      "id": 11903,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1042074": {
+      "skillType": 3,
+      "id": 1042074,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12702": {
+      "skillType": 1,
+      "id": 12702,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "15504": {
+      "skillType": 2,
+      "id": 15504,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "13402": {
+      "skillType": 1,
+      "id": 13402,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "13802": {
+      "skillType": 3,
+      "id": 13802,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "23802": {
+      "skillType": 2,
+      "id": 23802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12003": {
+      "skillType": 2,
+      "id": 12003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22003": {
+      "skillType": 2,
+      "id": 22003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24502": {
+      "skillType": 2,
+      "id": 24502,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14502": {
+      "skillType": 1,
+      "id": 14502,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "501055001": {
+      "skillType": 1,
+      "id": 501055001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501202": {
+      "skillType": 1,
+      "id": 501202,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "501113003": {
+      "skillType": 1,
+      "id": 501113003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "14602": {
+      "skillType": 1,
+      "id": 14602,
+      "target": 1,
+      "damageType": 0,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14202": {
+      "skillType": 1,
+      "id": 14202,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.45"
+    },
+    "24202": {
+      "skillType": 2,
+      "id": 24202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501033003": {
+      "skillType": 3,
+      "id": 501033003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "24602": {
+      "skillType": 2,
+      "id": 24602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501052": {
+      "skillType": 1,
+      "id": 501052,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "14101": {
+      "skillType": 3,
+      "id": 14101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.7"
+    },
+    "501062": {
+      "skillType": 1,
+      "id": 501062,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "11401": {
+      "skillType": 1,
+      "id": 11401,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "1042081": {
+      "skillType": 3,
+      "id": 1042081,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "909111": {
+      "skillType": 3,
+      "id": 909111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "1042113": {
+      "skillType": 3,
+      "id": 1042113,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501125": {
+      "skillType": 1,
+      "id": 501125,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "501234": {
+      "skillType": 1,
+      "id": 501234,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.92"
+    },
+    "501163002": {
+      "skillType": 3,
+      "id": 501163002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "11301": {
+      "skillType": 3,
+      "id": 11301,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "25202": {
+      "skillType": 2,
+      "id": 25202,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15202": {
+      "skillType": 1,
+      "id": 15202,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "501232": {
+      "skillType": 1,
+      "id": 501232,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.92"
+    },
+    "90004": {
+      "skillType": 0,
+      "id": 90004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501113": {
+      "skillType": 1,
+      "id": 501113,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "900011": {
+      "skillType": 2,
+      "id": 900011,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13201": {
+      "skillType": 3,
+      "id": 13201,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "11002": {
+      "skillType": 1,
+      "id": 11002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2"
+    },
+    "21002": {
+      "skillType": 2,
+      "id": 21002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "900010": {
+      "skillType": 2,
+      "id": 900010,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501165007": {
+      "skillType": 3,
+      "id": 501165007,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501105": {
+      "skillType": 1,
+      "id": 501105,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "501123003": {
+      "skillType": 1,
+      "id": 501123003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "900007": {
+      "skillType": 2,
+      "id": 900007,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "900006": {
+      "skillType": 2,
+      "id": 900006,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042083": {
+      "skillType": 3,
+      "id": 1042083,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "900005": {
+      "skillType": 2,
+      "id": 900005,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501031003": {
+      "skillType": 3,
+      "id": 501031003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "900002": {
+      "skillType": 0,
+      "id": 900002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "709121": {
+      "skillType": 4,
+      "id": 709121,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "501151": {
+      "skillType": 3,
+      "id": 501151,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "809121": {
+      "skillType": 3,
+      "id": 809121,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "809111": {
+      "skillType": 1,
+      "id": 809111,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "12401": {
+      "skillType": 3,
+      "id": 12401,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "401021": {
+      "skillType": 2,
+      "id": 401021,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042062": {
+      "skillType": 3,
+      "id": 1042062,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12902": {
+      "skillType": 1,
+      "id": 12902,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "700001": {
+      "skillType": 3,
+      "id": 700001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "30"
+    },
+    "23602": {
+      "skillType": 2,
+      "id": 23602,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "900001": {
+      "skillType": 2,
+      "id": 900001,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12301": {
+      "skillType": 1,
+      "id": 12301,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.44"
+    },
+    "700010": {
+      "skillType": 2,
+      "id": 700010,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "700009": {
+      "skillType": 2,
+      "id": 700009,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10701": {
+      "skillType": 3,
+      "id": 10701,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "700008": {
+      "skillType": 2,
+      "id": 700008,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15102": {
+      "skillType": 1,
+      "id": 15102,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "1042084": {
+      "skillType": 3,
+      "id": 1042084,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1042012": {
+      "skillType": 3,
+      "id": 1042012,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "20006": {
+      "skillType": 0,
+      "id": 20006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10006": {
+      "skillType": 0,
+      "id": 10006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "700007": {
+      "skillType": 2,
+      "id": 700007,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "700006": {
+      "skillType": 2,
+      "id": 700006,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "700005": {
+      "skillType": 3,
+      "id": 700005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "30"
+    },
+    "700004": {
+      "skillType": 3,
+      "id": 700004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "30"
+    },
+    "24702": {
+      "skillType": 2,
+      "id": 24702,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13801": {
+      "skillType": 3,
+      "id": 13801,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "600101": {
+      "skillType": 3,
+      "id": 600101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "90006": {
+      "skillType": 0,
+      "id": 90006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "1042072": {
+      "skillType": 3,
+      "id": 1042072,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "505111": {
+      "skillType": 1,
+      "id": 505111,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "10805": {
+      "skillType": 3,
+      "id": 10805,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.4"
+    },
+    "50006": {
+      "skillType": 0,
+      "id": 50006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "40006": {
+      "skillType": 0,
+      "id": 40006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30006": {
+      "skillType": 0,
+      "id": 30006,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "1042063": {
+      "skillType": 3,
+      "id": 1042063,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501235": {
+      "skillType": 1,
+      "id": 501235,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.92"
+    },
+    "501233": {
+      "skillType": 1,
+      "id": 501233,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.92"
+    },
+    "501231": {
+      "skillType": 1,
+      "id": 501231,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.92"
+    },
+    "501225": {
+      "skillType": 1,
+      "id": 501225,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "501224": {
+      "skillType": 1,
+      "id": 501224,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "501111": {
+      "skillType": 1,
+      "id": 501111,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "501223": {
+      "skillType": 1,
+      "id": 501223,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "11102": {
+      "skillType": 1,
+      "id": 11102,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "501151002": {
+      "skillType": 3,
+      "id": 501151002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "11701": {
+      "skillType": 3,
+      "id": 11701,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "21102": {
+      "skillType": 2,
+      "id": 21102,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12905": {
+      "skillType": 1,
+      "id": 12905,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.29"
+    },
+    "501222": {
+      "skillType": 1,
+      "id": 501222,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "1042044": {
+      "skillType": 3,
+      "id": 1042044,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "409111": {
+      "skillType": 3,
+      "id": 409111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501221": {
+      "skillType": 1,
+      "id": 501221,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "501215": {
+      "skillType": 3,
+      "id": 501215,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.5"
+    },
+    "11201": {
+      "skillType": 3,
+      "id": 11201,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.96"
+    },
+    "501213": {
+      "skillType": 3,
+      "id": 501213,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.5"
+    },
+    "501212": {
+      "skillType": 3,
+      "id": 501212,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.5"
+    },
+    "501211": {
+      "skillType": 3,
+      "id": 501211,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.5"
+    },
+    "21203": {
+      "skillType": 2,
+      "id": 21203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10705": {
+      "skillType": 3,
+      "id": 10705,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.1"
+    },
+    "501013": {
+      "skillType": 3,
+      "id": 501013,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "13101": {
+      "skillType": 1,
+      "id": 13101,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "501113004": {
+      "skillType": 1,
+      "id": 501113004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "20008": {
+      "skillType": 0,
+      "id": 20008,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501143": {
+      "skillType": 1,
+      "id": 501143,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.95"
+    },
+    "501185": {
+      "skillType": 1,
+      "id": 501185,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "501193": {
+      "skillType": 3,
+      "id": 501193,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501192": {
+      "skillType": 3,
+      "id": 501192,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "10401": {
+      "skillType": 1,
+      "id": 10401,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "1041001": {
+      "skillType": 3,
+      "id": 1041001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "89"
+    },
+    "10801": {
+      "skillType": 3,
+      "id": 10801,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.2"
+    },
+    "501191": {
+      "skillType": 3,
+      "id": 501191,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "11805": {
+      "skillType": 3,
+      "id": 11805,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.2"
+    },
+    "501194": {
+      "skillType": 3,
+      "id": 501194,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "22303": {
+      "skillType": 2,
+      "id": 22303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501182": {
+      "skillType": 1,
+      "id": 501182,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "501181": {
+      "skillType": 1,
+      "id": 501181,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "10301": {
+      "skillType": 3,
+      "id": 10301,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "22102": {
+      "skillType": 2,
+      "id": 22102,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12802": {
+      "skillType": 1,
+      "id": 12802,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "501174": {
+      "skillType": 3,
+      "id": 501174,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501162005": {
+      "skillType": 3,
+      "id": 501162005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "24304": {
+      "skillType": 2,
+      "id": 24304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501172005": {
+      "skillType": 3,
+      "id": 501172005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "12804": {
+      "skillType": 1,
+      "id": 12804,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "12601": {
+      "skillType": 3,
+      "id": 12601,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "20010": {
+      "skillType": 0,
+      "id": 20010,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10010": {
+      "skillType": 0,
+      "id": 10010,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501172004": {
+      "skillType": 3,
+      "id": 501172004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "14105": {
+      "skillType": 3,
+      "id": 14105,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.05"
+    },
+    "11605": {
+      "skillType": 1,
+      "id": 11605,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.64"
+    },
+    "501172001": {
+      "skillType": 3,
+      "id": 501172001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "12501": {
+      "skillType": 1,
+      "id": 12501,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "50004": {
+      "skillType": 0,
+      "id": 50004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "20403": {
+      "skillType": 2,
+      "id": 20403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10403": {
+      "skillType": 2,
+      "id": 10403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "40010": {
+      "skillType": 0,
+      "id": 40010,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30010": {
+      "skillType": 0,
+      "id": 30010,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501165006": {
+      "skillType": 3,
+      "id": 501165006,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "11705": {
+      "skillType": 3,
+      "id": 11705,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.93"
+    },
+    "501165005": {
+      "skillType": 3,
+      "id": 501165005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501165004": {
+      "skillType": 3,
+      "id": 501165004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "21503": {
+      "skillType": 2,
+      "id": 21503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11503": {
+      "skillType": 2,
+      "id": 11503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15301": {
+      "skillType": 3,
+      "id": 15301,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "12805": {
+      "skillType": 1,
+      "id": 12805,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.29"
+    },
+    "501165003": {
+      "skillType": 3,
+      "id": 501165003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501164001": {
+      "skillType": 3,
+      "id": 501164001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501164": {
+      "skillType": 3,
+      "id": 501164,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501163004": {
+      "skillType": 3,
+      "id": 501163004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "1042001": {
+      "skillType": 3,
+      "id": 1042001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501163003": {
+      "skillType": 3,
+      "id": 501163003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501161005": {
+      "skillType": 3,
+      "id": 501161005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "15401": {
+      "skillType": 3,
+      "id": 15401,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "14905": {
+      "skillType": 1,
+      "id": 14905,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501131005": {
+      "skillType": 4,
+      "id": 501131005,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "13601": {
+      "skillType": 3,
+      "id": 13601,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "509121": {
+      "skillType": 1,
+      "id": 509121,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "1042004": {
+      "skillType": 3,
+      "id": 1042004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "309121": {
+      "skillType": 1,
+      "id": 309121,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501035001": {
+      "skillType": 3,
+      "id": 501035001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501155": {
+      "skillType": 3,
+      "id": 501155,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "501163": {
+      "skillType": 3,
+      "id": 501163,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "12605": {
+      "skillType": 3,
+      "id": 12605,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "11904": {
+      "skillType": 2,
+      "id": 11904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "13501": {
+      "skillType": 3,
+      "id": 13501,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "19901": {
+      "skillType": 2,
+      "id": 19901,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11101": {
+      "skillType": 3,
+      "id": 11101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "30002": {
+      "skillType": 0,
+      "id": 30002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501162002": {
+      "skillType": 3,
+      "id": 501162002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "12705": {
+      "skillType": 3,
+      "id": 12705,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3.5"
+    },
+    "501162001": {
+      "skillType": 3,
+      "id": 501162001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "10605": {
+      "skillType": 3,
+      "id": 10605,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.58"
+    },
+    "501161007": {
+      "skillType": 3,
+      "id": 501161007,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "10503": {
+      "skillType": 2,
+      "id": 10503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20503": {
+      "skillType": 2,
+      "id": 20503,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15002": {
+      "skillType": 1,
+      "id": 15002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "25002": {
+      "skillType": 2,
+      "id": 25002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13805": {
+      "skillType": 3,
+      "id": 13805,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1042042": {
+      "skillType": 3,
+      "id": 1042042,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "14701": {
+      "skillType": 1,
+      "id": 14701,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "501161006": {
+      "skillType": 3,
+      "id": 501161006,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "300051": {
+      "skillType": 0,
+      "id": 300051,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501161001": {
+      "skillType": 3,
+      "id": 501161001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "13604": {
+      "skillType": 1,
+      "id": 13604,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "11905": {
+      "skillType": 3,
+      "id": 11905,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501161003": {
+      "skillType": 3,
+      "id": 501161003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501175": {
+      "skillType": 3,
+      "id": 501175,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "1042064": {
+      "skillType": 3,
+      "id": 1042064,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501161": {
+      "skillType": 3,
+      "id": 501161,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501155001": {
+      "skillType": 3,
+      "id": 501155001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "501163001": {
+      "skillType": 3,
+      "id": 501163001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "13605": {
+      "skillType": 3,
+      "id": 13605,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.8"
+    },
+    "501083": {
+      "skillType": 1,
+      "id": 501083,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "501153": {
+      "skillType": 3,
+      "id": 501153,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "501152": {
+      "skillType": 3,
+      "id": 501152,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.3"
+    },
+    "30008": {
+      "skillType": 0,
+      "id": 30008,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10501": {
+      "skillType": 3,
+      "id": 10501,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "22904": {
+      "skillType": 2,
+      "id": 22904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "40008": {
+      "skillType": 0,
+      "id": 40008,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501151003": {
+      "skillType": 3,
+      "id": 501151003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "13705": {
+      "skillType": 1,
+      "id": 13705,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.3"
+    },
+    "501151001": {
+      "skillType": 3,
+      "id": 501151001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "501145": {
+      "skillType": 1,
+      "id": 501145,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.95"
+    },
+    "501195": {
+      "skillType": 3,
+      "id": 501195,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501142": {
+      "skillType": 1,
+      "id": 501142,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.95"
+    },
+    "13401": {
+      "skillType": 3,
+      "id": 13401,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "501135002": {
+      "skillType": 4,
+      "id": 501135002,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "501135001": {
+      "skillType": 4,
+      "id": 501135001,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "501134": {
+      "skillType": 4,
+      "id": 501134,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "10008": {
+      "skillType": 0,
+      "id": 10008,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "14805": {
+      "skillType": 1,
+      "id": 14805,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501132001": {
+      "skillType": 4,
+      "id": 501132001,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "21704": {
+      "skillType": 2,
+      "id": 21704,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11704": {
+      "skillType": 1,
+      "id": 11704,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.61"
+    },
+    "1042112": {
+      "skillType": 3,
+      "id": 1042112,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501132": {
+      "skillType": 4,
+      "id": 501132,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "23604": {
+      "skillType": 2,
+      "id": 23604,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501131002": {
+      "skillType": 4,
+      "id": 501131002,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "10601": {
+      "skillType": 3,
+      "id": 10601,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.32"
+    },
+    "21303": {
+      "skillType": 2,
+      "id": 21303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11303": {
+      "skillType": 2,
+      "id": 11303,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21804": {
+      "skillType": 2,
+      "id": 21804,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501121": {
+      "skillType": 1,
+      "id": 501121,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "90007": {
+      "skillType": 0,
+      "id": 90007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "14605": {
+      "skillType": 1,
+      "id": 14605,
+      "target": 1,
+      "damageType": 0,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042095": {
+      "skillType": 3,
+      "id": 1042095,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501124": {
+      "skillType": 1,
+      "id": 501124,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "11501": {
+      "skillType": 3,
+      "id": 11501,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "501123005": {
+      "skillType": 1,
+      "id": 501123005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "11403": {
+      "skillType": 2,
+      "id": 11403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21403": {
+      "skillType": 2,
+      "id": 21403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10007": {
+      "skillType": 0,
+      "id": 10007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "20007": {
+      "skillType": 0,
+      "id": 20007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "30007": {
+      "skillType": 0,
+      "id": 30007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "15201": {
+      "skillType": 3,
+      "id": 15201,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "501123004": {
+      "skillType": 1,
+      "id": 501123004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "14801": {
+      "skillType": 1,
+      "id": 14801,
+      "target": 8,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12604": {
+      "skillType": 1,
+      "id": 12604,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "14401": {
+      "skillType": 1,
+      "id": 14401,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "900008": {
+      "skillType": 2,
+      "id": 900008,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23902": {
+      "skillType": 2,
+      "id": 23902,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042115": {
+      "skillType": 3,
+      "id": 1042115,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501065": {
+      "skillType": 1,
+      "id": 501065,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "22704": {
+      "skillType": 2,
+      "id": 22704,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501122": {
+      "skillType": 1,
+      "id": 501122,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "12701": {
+      "skillType": 3,
+      "id": 12701,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "12704": {
+      "skillType": 1,
+      "id": 12704,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "501121001": {
+      "skillType": 1,
+      "id": 501121001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "501131": {
+      "skillType": 4,
+      "id": 501131,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501114": {
+      "skillType": 1,
+      "id": 501114,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "13905": {
+      "skillType": 1,
+      "id": 13905,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.8"
+    },
+    "501203": {
+      "skillType": 1,
+      "id": 501203,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "1042011": {
+      "skillType": 3,
+      "id": 1042011,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "40002": {
+      "skillType": 0,
+      "id": 40002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10104": {
+      "skillType": 1,
+      "id": 10104,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "20002": {
+      "skillType": 0,
+      "id": 20002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "10002": {
+      "skillType": 0,
+      "id": 10002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501113005": {
+      "skillType": 1,
+      "id": 501113005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "501025": {
+      "skillType": 3,
+      "id": 501025,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501113002": {
+      "skillType": 1,
+      "id": 501113002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "12005": {
+      "skillType": 3,
+      "id": 12005,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.78"
+    },
+    "501113001": {
+      "skillType": 1,
+      "id": 501113001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "501014": {
+      "skillType": 3,
+      "id": 501014,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "401014": {
+      "skillType": 2,
+      "id": 401014,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "90002": {
+      "skillType": 0,
+      "id": 90002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "1042105": {
+      "skillType": 3,
+      "id": 1042105,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "401025": {
+      "skillType": 2,
+      "id": 401025,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501103": {
+      "skillType": 1,
+      "id": 501103,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "501102001": {
+      "skillType": 1,
+      "id": 501102001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "501131001": {
+      "skillType": 4,
+      "id": 501131001,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "501101001": {
+      "skillType": 1,
+      "id": 501101001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "1042053": {
+      "skillType": 3,
+      "id": 1042053,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501101": {
+      "skillType": 1,
+      "id": 501101,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "501095": {
+      "skillType": 1,
+      "id": 501095,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501094": {
+      "skillType": 1,
+      "id": 501094,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "20203": {
+      "skillType": 2,
+      "id": 20203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10203": {
+      "skillType": 1,
+      "id": 10203,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "1042061": {
+      "skillType": 3,
+      "id": 1042061,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "13701": {
+      "skillType": 1,
+      "id": 13701,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "501055": {
+      "skillType": 1,
+      "id": 501055,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501092": {
+      "skillType": 1,
+      "id": 501092,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501091": {
+      "skillType": 1,
+      "id": 501091,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "1042085": {
+      "skillType": 3,
+      "id": 1042085,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501015003": {
+      "skillType": 3,
+      "id": 501015003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "11105": {
+      "skillType": 3,
+      "id": 11105,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.93"
+    },
+    "501084": {
+      "skillType": 1,
+      "id": 501084,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "501154": {
+      "skillType": 3,
+      "id": 501154,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.05"
+    },
+    "30009": {
+      "skillType": 0,
+      "id": 30009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501032": {
+      "skillType": 3,
+      "id": 501032,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "12201": {
+      "skillType": 3,
+      "id": 12201,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.74"
+    },
+    "501072002": {
+      "skillType": 1,
+      "id": 501072002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "501072001": {
+      "skillType": 1,
+      "id": 501072001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "401026": {
+      "skillType": 2,
+      "id": 401026,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501071002": {
+      "skillType": 1,
+      "id": 501071002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "501071001": {
+      "skillType": 1,
+      "id": 501071001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "21104": {
+      "skillType": 2,
+      "id": 21104,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "11104": {
+      "skillType": 2,
+      "id": 11104,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501162003": {
+      "skillType": 3,
+      "id": 501162003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "401020": {
+      "skillType": 2,
+      "id": 401020,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501063002": {
+      "skillType": 1,
+      "id": 501063002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "14201": {
+      "skillType": 3,
+      "id": 14201,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.45"
+    },
+    "1042051": {
+      "skillType": 3,
+      "id": 1042051,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "12801": {
+      "skillType": 1,
+      "id": 12801,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "501093001": {
+      "skillType": 1,
+      "id": 501093001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501054002": {
+      "skillType": 1,
+      "id": 501054002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501054": {
+      "skillType": 1,
+      "id": 501054,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501031002": {
+      "skillType": 3,
+      "id": 501031002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501051001": {
+      "skillType": 1,
+      "id": 501051001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.35"
+    },
+    "501045": {
+      "skillType": 3,
+      "id": 501045,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "22402": {
+      "skillType": 2,
+      "id": 22402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501042": {
+      "skillType": 3,
+      "id": 501042,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "10102": {
+      "skillType": 1,
+      "id": 10102,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "20102": {
+      "skillType": 2,
+      "id": 20102,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501041": {
+      "skillType": 3,
+      "id": 501041,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "501035": {
+      "skillType": 3,
+      "id": 501035,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501034": {
+      "skillType": 3,
+      "id": 501034,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501033004": {
+      "skillType": 3,
+      "id": 501033004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501033002": {
+      "skillType": 3,
+      "id": 501033002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "14601": {
+      "skillType": 1,
+      "id": 14601,
+      "target": 1,
+      "damageType": 0,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501033001": {
+      "skillType": 3,
+      "id": 501033001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "12901": {
+      "skillType": 1,
+      "id": 12901,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "1042055": {
+      "skillType": 3,
+      "id": 1042055,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501033": {
+      "skillType": 3,
+      "id": 501033,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501081001": {
+      "skillType": 1,
+      "id": 501081001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "900003": {
+      "skillType": 0,
+      "id": 900003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14501": {
+      "skillType": 1,
+      "id": 14501,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "501031001": {
+      "skillType": 3,
+      "id": 501031001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "12104": {
+      "skillType": 1,
+      "id": 12104,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "22104": {
+      "skillType": 2,
+      "id": 22104,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501031": {
+      "skillType": 3,
+      "id": 501031,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "700003": {
+      "skillType": 3,
+      "id": 700003,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "30"
+    },
+    "501024": {
+      "skillType": 3,
+      "id": 501024,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501023": {
+      "skillType": 3,
+      "id": 501023,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "1042022": {
+      "skillType": 3,
+      "id": 1042022,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501021": {
+      "skillType": 3,
+      "id": 501021,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501085": {
+      "skillType": 1,
+      "id": 501085,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "401030": {
+      "skillType": 2,
+      "id": 401030,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501015002": {
+      "skillType": 3,
+      "id": 501015002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "501015": {
+      "skillType": 3,
+      "id": 501015,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "15302": {
+      "skillType": 3,
+      "id": 15302,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "3"
+    },
+    "1109121": {
+      "skillType": 3,
+      "id": 1109121,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "501011": {
+      "skillType": 3,
+      "id": 501011,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "50011": {
+      "skillType": 0,
+      "id": 50011,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50010": {
+      "skillType": 0,
+      "id": 50010,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50009": {
+      "skillType": 0,
+      "id": 50009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50008": {
+      "skillType": 0,
+      "id": 50008,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50007": {
+      "skillType": 0,
+      "id": 50007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50005": {
+      "skillType": 0,
+      "id": 50005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "501171": {
+      "skillType": 3,
+      "id": 501171,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "50002": {
+      "skillType": 0,
+      "id": 50002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "50001": {
+      "skillType": 0,
+      "id": 50001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "11004": {
+      "skillType": 1,
+      "id": 11004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "2"
+    },
+    "21004": {
+      "skillType": 2,
+      "id": 21004,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "409121": {
+      "skillType": 4,
+      "id": 409121,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "401033": {
+      "skillType": 2,
+      "id": 401033,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401031": {
+      "skillType": 2,
+      "id": 401031,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14704": {
+      "skillType": 1,
+      "id": 14704,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "113051": {
+      "skillType": 3,
+      "id": 113051,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "15501": {
+      "skillType": 1,
+      "id": 15501,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.1"
+    },
+    "501072": {
+      "skillType": 1,
+      "id": 501072,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "501104": {
+      "skillType": 1,
+      "id": 501104,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "401024": {
+      "skillType": 2,
+      "id": 401024,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401023": {
+      "skillType": 2,
+      "id": 401023,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401022": {
+      "skillType": 2,
+      "id": 401022,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24804": {
+      "skillType": 2,
+      "id": 24804,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401013": {
+      "skillType": 1,
+      "id": 401013,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "20"
+    },
+    "15304": {
+      "skillType": 2,
+      "id": 15304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "40007": {
+      "skillType": 0,
+      "id": 40007,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "1042071": {
+      "skillType": 3,
+      "id": 1042071,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "40005": {
+      "skillType": 0,
+      "id": 40005,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "40001": {
+      "skillType": 0,
+      "id": 40001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "303111": {
+      "skillType": 3,
+      "id": 303111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501082": {
+      "skillType": 1,
+      "id": 501082,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.55"
+    },
+    "501071": {
+      "skillType": 1,
+      "id": 501071,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "30001": {
+      "skillType": 0,
+      "id": 30001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "25204": {
+      "skillType": 2,
+      "id": 25204,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "25203": {
+      "skillType": 2,
+      "id": 25203,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042093": {
+      "skillType": 3,
+      "id": 1042093,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "25004": {
+      "skillType": 2,
+      "id": 25004,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401015": {
+      "skillType": 2,
+      "id": 401015,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24002": {
+      "skillType": 2,
+      "id": 24002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14002": {
+      "skillType": 2,
+      "id": 14002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24704": {
+      "skillType": 2,
+      "id": 24704,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501025001": {
+      "skillType": 3,
+      "id": 501025001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "24604": {
+      "skillType": 2,
+      "id": 24604,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24404": {
+      "skillType": 2,
+      "id": 24404,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10901": {
+      "skillType": 1,
+      "id": 10901,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "24403": {
+      "skillType": 2,
+      "id": 24403,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501173": {
+      "skillType": 3,
+      "id": 501173,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "24204": {
+      "skillType": 2,
+      "id": 24204,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "10101": {
+      "skillType": 1,
+      "id": 10101,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "24104": {
+      "skillType": 2,
+      "id": 24104,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20104": {
+      "skillType": 2,
+      "id": 20104,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14104": {
+      "skillType": 2,
+      "id": 14104,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1041004": {
+      "skillType": 3,
+      "id": 1041004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "89"
+    },
+    "501123002": {
+      "skillType": 1,
+      "id": 501123002,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "23702": {
+      "skillType": 2,
+      "id": 23702,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501131003": {
+      "skillType": 4,
+      "id": 501131003,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": "0"
+    },
+    "23603": {
+      "skillType": 2,
+      "id": 23603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "806111": {
+      "skillType": 3,
+      "id": 806111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "23504": {
+      "skillType": 2,
+      "id": 23504,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23502": {
+      "skillType": 2,
+      "id": 23502,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23402": {
+      "skillType": 2,
+      "id": 23402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23304": {
+      "skillType": 2,
+      "id": 23304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "23102": {
+      "skillType": 2,
+      "id": 23102,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13102": {
+      "skillType": 1,
+      "id": 13102,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "23003": {
+      "skillType": 2,
+      "id": 23003,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13302": {
+      "skillType": 1,
+      "id": 13302,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22903": {
+      "skillType": 2,
+      "id": 22903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22804": {
+      "skillType": 2,
+      "id": 22804,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22802": {
+      "skillType": 2,
+      "id": 22802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22702": {
+      "skillType": 2,
+      "id": 22702,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22604": {
+      "skillType": 2,
+      "id": 22604,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501043": {
+      "skillType": 3,
+      "id": 501043,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "501184": {
+      "skillType": 1,
+      "id": 501184,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.4"
+    },
+    "11901": {
+      "skillType": 3,
+      "id": 11901,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "22103": {
+      "skillType": 2,
+      "id": 22103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "22004": {
+      "skillType": 2,
+      "id": 22004,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15404": {
+      "skillType": 2,
+      "id": 15404,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 2,
+      "damageFactorExpr": ""
+    },
+    "21904": {
+      "skillType": 2,
+      "id": 21904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21903": {
+      "skillType": 2,
+      "id": 21903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15104": {
+      "skillType": 2,
+      "id": 15104,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "21802": {
+      "skillType": 2,
+      "id": 21802,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21702": {
+      "skillType": 2,
+      "id": 21702,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21402": {
+      "skillType": 2,
+      "id": 21402,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "21204": {
+      "skillType": 2,
+      "id": 21204,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "1042103": {
+      "skillType": 3,
+      "id": 1042103,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "501205": {
+      "skillType": 1,
+      "id": 501205,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "21103": {
+      "skillType": 2,
+      "id": 21103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20904": {
+      "skillType": 2,
+      "id": 20904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20703": {
+      "skillType": 2,
+      "id": 20703,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20702": {
+      "skillType": 2,
+      "id": 20702,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20603": {
+      "skillType": 2,
+      "id": 20603,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20404": {
+      "skillType": 2,
+      "id": 20404,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20204": {
+      "skillType": 2,
+      "id": 20204,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "24102": {
+      "skillType": 2,
+      "id": 24102,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20103": {
+      "skillType": 2,
+      "id": 20103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "20009": {
+      "skillType": 0,
+      "id": 20009,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "14102": {
+      "skillType": 1,
+      "id": 14102,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.7"
+    },
+    "501201": {
+      "skillType": 1,
+      "id": 501201,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.5"
+    },
+    "20001": {
+      "skillType": 0,
+      "id": 20001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    },
+    "19904": {
+      "skillType": 2,
+      "id": 19904,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "19903": {
+      "skillType": 2,
+      "id": 19903,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12002": {
+      "skillType": 1,
+      "id": 12002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "15502": {
+      "skillType": 1,
+      "id": 15502,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.1"
+    },
+    "10201": {
+      "skillType": 3,
+      "id": 10201,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "22002": {
+      "skillType": 2,
+      "id": 22002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "401012": {
+      "skillType": 3,
+      "id": 401012,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.93"
+    },
+    "501012": {
+      "skillType": 3,
+      "id": 501012,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "15204": {
+      "skillType": 2,
+      "id": 15204,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "15203": {
+      "skillType": 1,
+      "id": 15203,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "2.4"
+    },
+    "15004": {
+      "skillType": 1,
+      "id": 15004,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "15003": {
+      "skillType": 1,
+      "id": 15003,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "15001": {
+      "skillType": 1,
+      "id": 15001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "14804": {
+      "skillType": 2,
+      "id": 14804,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14705": {
+      "skillType": 1,
+      "id": 14705,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.6"
+    },
+    "401028": {
+      "skillType": 2,
+      "id": 401028,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14702": {
+      "skillType": 1,
+      "id": 14702,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3"
+    },
+    "14604": {
+      "skillType": 1,
+      "id": 14604,
+      "target": 1,
+      "damageType": 0,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14603": {
+      "skillType": 2,
+      "id": 14603,
+      "target": 4,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 4,
+      "damageFactorExpr": ""
+    },
+    "14404": {
+      "skillType": 1,
+      "id": 14404,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14304": {
+      "skillType": 2,
+      "id": 14304,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "14301": {
+      "skillType": 3,
+      "id": 14301,
+      "target": 5,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "14204": {
+      "skillType": 2,
+      "id": 14204,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501063001": {
+      "skillType": 1,
+      "id": 501063001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501172002": {
+      "skillType": 3,
+      "id": 501172002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.95"
+    },
+    "140051": {
+      "skillType": 3,
+      "id": 140051,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.15"
+    },
+    "14001": {
+      "skillType": 3,
+      "id": 14001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.15"
+    },
+    "13901": {
+      "skillType": 1,
+      "id": 13901,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.16"
+    },
+    "600201": {
+      "skillType": 3,
+      "id": 600201,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "13702": {
+      "skillType": 1,
+      "id": 13702,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "501161004": {
+      "skillType": 3,
+      "id": 501161004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "13503": {
+      "skillType": 1,
+      "id": 13503,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "13502": {
+      "skillType": 1,
+      "id": 13502,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "1042023": {
+      "skillType": 3,
+      "id": 1042023,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "23002": {
+      "skillType": 2,
+      "id": 23002,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "13301": {
+      "skillType": 1,
+      "id": 13301,
+      "target": 1,
+      "damageType": 0,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12904": {
+      "skillType": 1,
+      "id": 12904,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.58"
+    },
+    "13002": {
+      "skillType": 1,
+      "id": 13002,
+      "target": 3,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.74"
+    },
+    "806121": {
+      "skillType": 1,
+      "id": 806121,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2"
+    },
+    "501161002": {
+      "skillType": 3,
+      "id": 501161002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "12305": {
+      "skillType": 3,
+      "id": 12305,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.73"
+    },
+    "12302": {
+      "skillType": 1,
+      "id": 12302,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 3,
+      "damageFactorExpr": "1.44"
+    },
+    "1042021": {
+      "skillType": 3,
+      "id": 1042021,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1041002": {
+      "skillType": 3,
+      "id": 1041002,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "89"
+    },
+    "501073": {
+      "skillType": 1,
+      "id": 501073,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.6"
+    },
+    "12103": {
+      "skillType": 2,
+      "id": 12103,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "12102": {
+      "skillType": 1,
+      "id": 12102,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "12101": {
+      "skillType": 3,
+      "id": 12101,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "12004": {
+      "skillType": 1,
+      "id": 12004,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.49"
+    },
+    "11804": {
+      "skillType": 1,
+      "id": 11804,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "11802": {
+      "skillType": 1,
+      "id": 11802,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "11801": {
+      "skillType": 3,
+      "id": 11801,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.83"
+    },
+    "11601": {
+      "skillType": 1,
+      "id": 11601,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "2.2"
+    },
+    "401027": {
+      "skillType": 2,
+      "id": 401027,
+      "target": 6,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 1,
+      "damageFactorExpr": ""
+    },
+    "501011001": {
+      "skillType": 3,
+      "id": 501011001,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "0.75"
+    },
+    "10905": {
+      "skillType": 1,
+      "id": 10905,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "4.4"
+    },
+    "10904": {
+      "skillType": 1,
+      "id": 10904,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.7"
+    },
+    "501162": {
+      "skillType": 3,
+      "id": 501162,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "1.45"
+    },
+    "501102": {
+      "skillType": 1,
+      "id": 501102,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "3.05"
+    },
+    "10504": {
+      "skillType": 1,
+      "id": 10504,
+      "target": 2,
+      "damageType": 0,
+      "targetSide": 1,
+      "targetParam": 10,
+      "damageFactorExpr": ""
+    },
+    "501123001": {
+      "skillType": 1,
+      "id": 501123001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1.9"
+    },
+    "1042111": {
+      "skillType": 3,
+      "id": 1042111,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1042082": {
+      "skillType": 3,
+      "id": 1042082,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1042054": {
+      "skillType": 3,
+      "id": 1042054,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1042045": {
+      "skillType": 3,
+      "id": 1042045,
+      "target": 2,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 10,
+      "damageFactorExpr": "80"
+    },
+    "1001": {
+      "skillType": 0,
+      "id": 1001,
+      "target": 1,
+      "damageType": 1,
+      "targetSide": 0,
+      "targetParam": 1,
+      "damageFactorExpr": "1"
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "first": 1001,
+  "excelName": "MatchSkill_三消技能",
+  "len": 803
+}

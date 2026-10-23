@@ -1,0 +1,4117 @@
+{
+  "data": {
+    "129009": {
+      "id": 129009,
+      "titleName": "166",
+      "String": "Celia"
+    },
+    "6312": {
+      "id": 6312,
+      "titleName": "[Technology is the Force of Progress]",
+      "String": "Celia",
+      "title": "[Technology is the Force of Progress]",
+      "desc": "The alchemists, eager to put their knowledge to use, are ready to help you accelerate your town's growth.\nBuild a [c][db3737]Research Lab[-][/c] to choose which technologies to study based on your current needs.\nNo matter which path you take, the scholars will follow your lead!"
+    },
+    "6108": {
+      "id": 6108,
+      "titleName": "1st Occupation Reward",
+      "String": "Celia",
+      "desc": "Congratulations! To celebrate your alliance's first occupation of the city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url], here is your first occupation reward!",
+      "title": "1st Occupation Reward",
+      "desc2": "Special reward for the first city occupation!"
+    },
+    "2704": {
+      "id": 2704,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your troop reinforcing &CodeName2& &PlayerName2&"
+    },
+    "3704": {
+      "id": 3704,
+      "titleName": "5"
+    },
+    "6318": {
+      "id": 6318,
+      "titleName": "Defense Succeeded",
+      "String": "Celia",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Defense Succeeded",
+      "desc2": "&CodeName& &PlayerName& failed to attack your &EscortQuality& caravan."
+    },
+    "4900109": {
+      "id": 4900109,
+      "titleName": "Undead Siege Event Pre-registration Cancelled",
+      "String": "Celia",
+      "desc": "&PlayerName& cancelled a scheduled Undead Siege event.",
+      "title": "Undead Siege Event Pre-registration Cancelled",
+      "desc2": "Alliance Admin cancelled a scheduled event"
+    },
+    "102515": {
+      "id": 102515,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& &RongWarFortBaseId& Scout Report",
+      "String": "[u][c][79deff] X:&X& Y:&Y& [-][/c][/u]\n&RongWarFortBaseId& Scout Report",
+      "desc": "No garrison in the target building.",
+      "title": "Scout &CodeName& &PlayerName&'s &RongWarFortBaseId&",
+      "desc2": "Scout Successful"
+    },
+    "102502": {
+      "id": 102502,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& &RongWarFortBaseId& Scout Report",
+      "String": "[u][c][db3737] K:&K& X:&X& Y:&Y& [-][/c][/u]\nCity Scout Report",
+      "desc": "Scout failed: destination changed.",
+      "title": "Scout &CodeName& &PlayerName&'s &RongWarFortBaseId&",
+      "desc2": "Scout failed: destination changed."
+    },
+    "6120": {
+      "id": 6120,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Your troop reinforcing &MechCityId& was attacked by a rallied troop."
+    },
+    "6307": {
+      "id": 6307,
+      "titleName": "Alliance Caravan has arrived at the destination.",
+      "String": "Celia",
+      "desc": "Coachman &CodeName&&PlayerName&'s Alliance Caravan has reached its destination. Below is the detailed record:",
+      "title": "Alliance Caravan has arrived at the destination.",
+      "desc2": "The caravan has reached its destination. Please check the cargo records."
+    },
+    "2": {
+      "id": 2,
+      "titleName": "&CodeName&&PlayerName&",
+      "title": "(Alliance) &Title&",
+      "desc": "&PlayerId& [c][db3737]&PlayerName&[-][/c] &HeadId& (Alliance) &Content&"
+    },
+    "3": {
+      "id": 3,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout failed",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nScout Failed",
+      "desc": "Scout failed: destination undergoes major changes.",
+      "title": "Destination Undergoes Major Changes",
+      "desc2": "Scout failed: destination undergoes major changes."
+    },
+    "4": {
+      "id": 4,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout failed",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nScout Failed",
+      "desc": "Scout not possible: you are in the same alliance as the target.",
+      "title": "Unable to Scout Your Alliance Members",
+      "desc2": "Scout not possible: you are in the same alliance as the target."
+    },
+    "5": {
+      "id": 5,
+      "titleName": "&Title&",
+      "desc": "&Content&",
+      "String": "Celia"
+    },
+    "6": {
+      "id": 6,
+      "titleName": "&Title&",
+      "desc": "&Content&",
+      "String": "Celia"
+    },
+    "8": {
+      "id": 8,
+      "titleName": "System Notice",
+      "String": "System Notice"
+    },
+    "9": {
+      "id": 9,
+      "titleName": "System Notice",
+      "String": "System Notice",
+      "title": "Delivery Notification",
+      "desc": "Congrats! You have purchased: [c][6bff23][&Number1&][-][/c]. The Diamonds from the pack have been credited to your account, and the bonus items have been sent to your bag. Please check them! Thank you for your great support!"
+    },
+    "6009": {
+      "id": 6009,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][db3737]&CannibalNpcBaseId&[-][/c]"
+    },
+    "3961": {
+      "id": 3961,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "6016": {
+      "id": 6016,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "6208": {
+      "id": 6208,
+      "titleName": "[Alliance Duel] Defeat",
+      "String": "Celia",
+      "title": "[Alliance Duel] Defeat",
+      "desc": "Your alliance lost this week's [Alliance Duel]. Your points were below &Number&, so you didn't qualify for the participation reward this time. Better luck next time!"
+    },
+    "2302": {
+      "id": 2302,
+      "titleName": "[City Boss] Battle Rewards",
+      "String": "Celia",
+      "title": "[City Boss] Battle Rewards",
+      "desc": "The damage results for the [City Boss] event are out, and your alliance dealt &Number& damage. You did not meet the reward criteria to claim any rewards. Keep trying!"
+    },
+    "11304": {
+      "id": 11304,
+      "titleName": "80",
+      "String": "Celia"
+    },
+    "6302": {
+      "id": 6302,
+      "titleName": "Attack Defeat",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Attack Defeat",
+      "desc2": "You failed to attack &CodeName& &PlayerName&'s &EscortQuality& caravan."
+    },
+    "6117": {
+      "id": 6117,
+      "titleName": "S:&K& X:&X& Y:&Y&\nCity Scout Report",
+      "String": "[u][c][db3737] K:&K& X:&X& Y:&Y& [-][/c][/u]\nCity Scout Report",
+      "desc": "Your scout troop to the city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url] has returned. Here is the scout report:",
+      "title": "Scout Report",
+      "desc2": "Information on [c][db3737]&MechCityId&[-][/c] has been scouted"
+    },
+    "8722": {
+      "id": 8722,
+      "titleName": "32",
+      "String": "Celia"
+    },
+    "304": {
+      "id": 304,
+      "titleName": "Your custom avatar has been restored to default.",
+      "String": "Celia",
+      "title": "Your custom avatar has been restored to default.",
+      "desc": "Your banned avatar has been restored after review."
+    },
+    "4016": {
+      "id": 4016,
+      "titleName": "New King Appointed",
+      "String": "Celia",
+      "title": "New King Appointed",
+      "desc": "&CodeName1& &PlayerName1& has been appointed as King."
+    },
+    "2102020": {
+      "id": 2102020,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "6207": {
+      "id": 6207,
+      "titleName": "[Alliance Duel] Victory!",
+      "String": "Celia",
+      "title": "[Alliance Duel] Victory!",
+      "desc": "Your alliance won this week's [Alliance Duel]! However, your points were below &Number&, so you didn't qualify for the participation reward this time. Better luck next time!"
+    },
+    "6220": {
+      "id": 6220,
+      "titleName": "Excavation Reward",
+      "String": "Celia",
+      "title": "Excavation Reward",
+      "desc": "During your excavation, you received the following surprise rewards."
+    },
+    "13504": {
+      "id": 13504,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "You did not reach the top &Number2& in the [c][fdf246]&ActivityId&[-][/c] event, so no rewards were earned!"
+    },
+    "8220": {
+      "id": 8220,
+      "titleName": "Triangular Arena",
+      "String": "Celia",
+      "title": "Triangular Arena",
+      "desc": "Congrats to alliance member &PlayerName& for achieving No.&Number& in the Triangular Arena. All alliance members will receive rewards."
+    },
+    "4900106": {
+      "id": 4900106,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "[c][db3737]Wave &ZombieWave& &RallyId&[-][/c]"
+    },
+    "2003": {
+      "id": 2003,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc": "Here are your unclaimed rewards from &ActivityId&!"
+    },
+    "6116": {
+      "id": 6116,
+      "titleName": "Demon King Blight Ranking Reward",
+      "String": "Celia",
+      "title": "Demon King Blight Ranking Reward - Not Ranked",
+      "desc": "Unfortunately, you did not make it into the top &Number1&, so you cannot receive a reward."
+    },
+    "6104": {
+      "id": 6104,
+      "titleName": "Occupation Success",
+      "String": "Celia",
+      "desc": "The city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url] has been captured through the efforts of alliance members. Celebrate the victory!",
+      "title": "Occupation Success",
+      "desc2": "The alliance has claimed ownership of the city!"
+    },
+    "6003": {
+      "id": 6003,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Assistance Rewards Limit Reached",
+      "desc": "You have reached the limit for assisting other players in the Survivor's Trial for extra rewards today! No more assistance rewards can be obtained today."
+    },
+    "7003": {
+      "id": 7003,
+      "titleName": "[Cheese Trap] Alliance Rewards",
+      "String": "Celia",
+      "desc": "Your alliance performed exceptionally in the Cheese Trap, dealing a total of [c][db3737]&Number&[-][/c] damage and completing Phase [c][db3737]&Number1&[-][/c]. Special recognition goes to [c][db3737]&PlayerName&[-][/c], who dealt [c][db3737]&Number2&[-][/c] damage individually. All alliance members have earned the following rewards:",
+      "title": "[Cheese Trap] Alliance Rewards",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "3402": {
+      "id": 3402,
+      "titleName": "4",
+      "title": "Resource Transport Report",
+      "desc": "Received resources from [c][db3737]&PlayerName&[-][/c]."
+    },
+    "305": {
+      "id": 305,
+      "titleName": "Claim Loot Rewards",
+      "String": "Celia",
+      "title": "Claim Loot Rewards",
+      "desc": "Your unclaimed loot exceeds the limit of 200. The system will claim them for you. Please check your inventory!"
+    },
+    "6126": {
+      "id": 6126,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "6118": {
+      "id": 6118,
+      "titleName": "S:&K& X:&X& Y:&Y&\nCity Scout Report",
+      "String": "[u][c][db3737] K:&K& X:&X& Y:&Y& [-][/c][/u]\nCity Scout Report",
+      "desc": "Scout Failed: City under Protection",
+      "title": "Scout Failed: City under Protection",
+      "desc2": "City is under protection, scout unavailable."
+    },
+    "115004": {
+      "id": 115004,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "title": "Battle Damage Details",
+      "desc2": "Battle Damage Details"
+    },
+    "10628": {
+      "id": 10628,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "102514": {
+      "id": 102514,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "&CodeName1& &PlayerName1& attacked your reinforcements at &RongWarFortBaseId& occupied by &CodeName2& &PlayerName2&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "4018": {
+      "id": 4018,
+      "titleName": "&Serverid& Kingdom Announcement",
+      "String": "Celia",
+      "title": "&Serverid& Kingdom Announcement",
+      "desc": "&ServerId& King [c][FDF246]&CodeName& &PlayerName&[-][/c] has issued a kingdom announcement at the Royal City!"
+    },
+    "6107": {
+      "id": 6107,
+      "titleName": "Occupation Points Ranking",
+      "String": "Celia",
+      "desc": "Here are the points results for participants of the target city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]. Due to insufficient points or a low ranking, you cannot receive a reward. Keep trying!",
+      "title": "Occupation Points Ranking",
+      "desc2": "Points Ranking Results Announced"
+    },
+    "6132": {
+      "id": 6132,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "The rallied troop you joined attacked &MechCityId&."
+    },
+    "4019": {
+      "id": 4019,
+      "titleName": "Kingdom Decree",
+      "String": "Celia",
+      "title": "Kingdom Decree",
+      "desc": "You have used the &KingdomBuff& skill. The coordinates of the commanders will be displayed on the skill interface (saved for &Number& days or until the skill is used again)."
+    },
+    "2102004": {
+      "id": 2102004,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "4900103": {
+      "id": 4900103,
+      "titleName": "Undead Siege Report Reward (Alliance)",
+      "String": "Celia",
+      "desc": "Congratulations! Your Alliance withstood &Number1& waves of attacks on Lv.&Number& difficulty. Here are your bonus rewards:",
+      "title": "Undead Siege Report Reward (Alliance)",
+      "desc2": "Alliance Defense Battle Report"
+    },
+    "11902": {
+      "id": 11902,
+      "titleName": "88",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "4022": {
+      "id": 4022,
+      "titleName": "Congratulations on becoming the new King of Battle!",
+      "String": "Celia",
+      "title": "Congratulations on becoming the new King of Battle!",
+      "desc": "Congratulations on becoming the new King of Battle!\nYou can now appoint two extra positions: Chief of War and Chief of Affairs! They each offer unique attribute bonuses.\nAdditionally, you can distribute extra King of Battle Chests to your followers!\nFor more details, visit the Kingdom Official page."
+    },
+    "3931": {
+      "id": 3931,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "1502": {
+      "id": 1502,
+      "titleName": "Invites you to join the alliance.",
+      "String": "Celia",
+      "title": "Invites you to join the alliance.",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c], representing [c][db3737]&CodeName&&UnionName&[-][/c], sincerely invites you to join the alliance and conquer the world together."
+    },
+    "6004": {
+      "id": 6004,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Alliance Boss Challenge Successful",
+      "desc": "Your alliance has defeated [c][db3737]&CannibalNpcBaseId&[-][/c], and all members can receive the following rewards."
+    },
+    "2102": {
+      "id": 2102,
+      "titleName": "[Top Doctor] Overall Ranking Reward",
+      "String": "Celia",
+      "title": "[Top Doctor] Overall Ranking Reward",
+      "desc": "Final rankings for the [Top Doctor] event have been announced, and you rank No.&Number&. Below are your ranking rewards!"
+    },
+    "6103": {
+      "id": 6103,
+      "titleName": "Also declare war",
+      "String": "Celia",
+      "desc": "The city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url] has been declared war on by the Alliance &CodeName&&UnionName&. Join the battle and contribute to capturing the city for your alliance!",
+      "title": "Also declare war",
+      "desc2": "A rival has appeared for the target city!"
+    },
+    "122509": {
+      "id": 122509,
+      "titleName": "Canyon Conquest",
+      "String": "Canyon Conquest",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&"
+    },
+    "6102": {
+      "id": 6102,
+      "titleName": "Alliance city under attack",
+      "String": "Celia",
+      "desc": "The alliance city [&MechCityId&] has been declared war on by alliance: &CodeName&&UnionName&.\n\n    Conquest starts at: UTC &TimeNumber1&.\n    Conquest ends at: UTC &TimeNumber2&.\n    City Location: [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]\n\nPlease join the battle to defend our city!",
+      "title": "Alliance city under attack",
+      "desc2": "An enemy has declared war on our city."
+    },
+    "8300": {
+      "id": 8300,
+      "titleName": "Delivery Notification",
+      "String": "Celia",
+      "title": "Delivery Notification",
+      "desc": "You have purchased [c][db3737][&GiftId&][-][/c]. Please go to the Event Center to claim it."
+    },
+    "11303": {
+      "id": 11303,
+      "titleName": "79",
+      "String": "Celia"
+    },
+    "6317": {
+      "id": 6317,
+      "titleName": "Attack Defeat",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Attack Defeat",
+      "desc2": "You failed to attack &CodeName& &PlayerName&'s &EscortQuality& caravan."
+    },
+    "4004": {
+      "id": 4004,
+      "titleName": "Kingdom Reward",
+      "desc": "Congratulations! You have excelled in the [c][fdf246]Royal City Scramble[-][/c], and the King has rewarded you with a supply chest: &LargessId&.",
+      "String": "Celia"
+    },
+    "8216": {
+      "id": 8216,
+      "titleName": "Arena of Fate",
+      "String": "Celia",
+      "title": "Arena of Fate",
+      "desc": "The Arena of Fate season has concluded, and you achieved No.&Number&.\nHere is your season ranking reward. Please check!"
+    },
+    "8218": {
+      "id": 8218,
+      "titleName": "Triangular Arena",
+      "String": "Celia",
+      "title": "Triangular Arena",
+      "desc": "Here is your daily Triangular Arena victory reward! Please collect!"
+    },
+    "4020": {
+      "id": 4020,
+      "titleName": "1st Occupation Reward",
+      "String": "Celia",
+      "title": "1st Occupation Reward",
+      "desc": "Congratulations! To celebrate your alliance's first occupation of the Royal City, here is your first occupation reward."
+    },
+    "6007": {
+      "id": 6007,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Monster Vanished",
+      "desc": "The monster you rallied against has disappeared! Your troop has returned, and the rally attempt has been refunded!"
+    },
+    "4007": {
+      "id": 4007,
+      "titleName": "Title Appointment",
+      "desc": "Queen &PlayerName1& has appointed you as the &TitleId& of our kingdom.",
+      "String": "Celia"
+    },
+    "140021": {
+      "id": 140021,
+      "titleName": "Era Kingdom Ranking Reward",
+      "String": "Celia",
+      "title": "Era Kingdom Ranking Reward",
+      "desc": "Congratulations! Your Kingdom ranked No.[c][db3737]&Number&[-][/c] in the Era Competition!\nThank you for your tremendous contribution to your Kingdom's glory. Please claim your rewards below."
+    },
+    "13503": {
+      "id": 13503,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "You secured the [c][fdf246]&Number&[-][/c] place in [c][fdf246]&ActivityId&[-][/c], but unfortunately, you did not complete all personal stage goals, so no ranking rewards were earned."
+    },
+    "5502": {
+      "id": 5502,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&MonsterNpcBaseId&"
+    },
+    "140002": {
+      "id": 140002,
+      "titleName": "[Kingdom War] Sovereign Alliance",
+      "String": "Celia",
+      "title": "Rewards for Sovereign Alliance",
+      "desc": "The Kingdom War has concluded. Your Sovereign Alliance made outstanding contributions! Here are your rewards. May friendship and honor shine on you forever!"
+    },
+    "2805": {
+      "id": 2805,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy scouted your &WonderBaseId&.",
+      "title": "&CodeName& &PlayerName& Scouted Your &WonderBaseId&",
+      "desc2": "[c][db3737]&CodeName&[-][/c] [c][db3737]&PlayerName&[-][/c] scouted your &WonderBaseId&"
+    },
+    "10601": {
+      "id": 10601,
+      "titleName": "S:&K& X:&X& Y:&Y&\n&FortId& Scout Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\n&FortId& Scout Report",
+      "desc": "Scout Successful",
+      "title": "Scout &CodeName& &PlayerName& at &FortId&",
+      "desc2": "Scout Successful"
+    },
+    "2202": {
+      "id": 2202,
+      "titleName": "Delivery Notification",
+      "String": "Celia",
+      "title": "Delivery Notification",
+      "desc": "You've purchased [c][db3737][&Number2&][-][/c] and can receive the following items."
+    },
+    "6202": {
+      "id": 6202,
+      "titleName": "[Alliance Duel] Participation Reward",
+      "String": "Celia",
+      "title": "[Alliance Duel] Participation Reward",
+      "desc": "Yesterday's [Alliance Duel] phase has ended. Here are your participation rewards!"
+    },
+    "104202": {
+      "id": 104202,
+      "titleName": "159",
+      "String": "Celia"
+    },
+    "102508": {
+      "id": 102508,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked your &RongWarFortBaseId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "3940": {
+      "id": 3940,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "12004": {
+      "id": 12004,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8219": {
+      "id": 8219,
+      "titleName": "Triangular Arena",
+      "String": "Celia",
+      "desc": "The Triangular Arena season has ended, and you achieved No.&Number&. \nHere is your season ranking reward. Please check!",
+      "title": "Triangular Arena",
+      "desc2": "Triangular Arena has concluded!"
+    },
+    "2102034": {
+      "id": 2102034,
+      "titleName": "Crystal Cluster Valley Stronghold Scouted",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Stronghold Scouted",
+      "desc": "Crystal Cluster Valley Stronghold Scouted"
+    },
+    "39582": {
+      "id": 39582,
+      "titleName": "131",
+      "String": "Celia"
+    },
+    "10103": {
+      "id": 10103,
+      "titleName": "Demon King Siege Blight Ranking Reward",
+      "String": "Celia",
+      "title": "Demon King Siege Blight Ranking Reward",
+      "desc": "Unfortunately, you did not make it into the top &Number1&, so you cannot receive a reward."
+    },
+    "102512": {
+      "id": 102512,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked your reinforcements at &RongWarFortBaseId& occupied by &CodeName2& &PlayerName2&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "50306": {
+      "id": 50306,
+      "titleName": "System Notice",
+      "String": "System Notice",
+      "title": "Delivery Notification",
+      "desc": "Congrats! You have successfully purchased: Development Contract. Once the Sanctuary reaches the required level, return to the Shop to claim your diamond reward."
+    },
+    "3905": {
+      "id": 3905,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s &WonderBaseId&."
+    },
+    "2905": {
+      "id": 2905,
+      "titleName": "&ResBaseId& Gathering Report",
+      "String": "&ResBaseId& Gathering Report",
+      "title": "Resource Gathering Report",
+      "desc": "&RewardStr&"
+    },
+    "4012": {
+      "id": 4012,
+      "titleName": "The King's term has ended!",
+      "String": "Celia",
+      "title": "The King's term has ended!",
+      "desc": "Your term as King has ended. Please lead your alliance to the Royal City to vie for the Kingship once more!"
+    },
+    "3950": {
+      "id": 3950,
+      "titleName": "6",
+      "String": "Celia"
+    },
+    "6012": {
+      "id": 6012,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "desc": "&PlayerName& summoned [c][db3737]&CannibalNpcBaseId&[-][/c]. Go challenge!",
+      "title": "Trial of the Plague Boss Summoned",
+      "desc2": "&PlayerName& summoned [c][db3737]&CannibalNpcBaseId&[-][/c]. Go challenge!"
+    },
+    "13301": {
+      "id": 13301,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Congrats! Your alliance secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Unfortunately, your points are less than [c][db3737]&Number4&[-][/c], so no ranking rewards were earned."
+    },
+    "2806": {
+      "id": 2806,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy scouted your &FortId&.",
+      "title": "&CodeName& &PlayerName& Scouted Your &FortId&",
+      "desc2": "[c][db3737]&CodeName&[-][/c] [c][db3737]&PlayerName&[-][/c] scouted your &FortId&"
+    },
+    "10606": {
+      "id": 10606,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "10629": {
+      "id": 10629,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3954": {
+      "id": 3954,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "220005": {
+      "id": 220005,
+      "titleName": "[Hunt Battle] Report",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&HuntWarMonsterNpcBaseId&"
+    },
+    "6119": {
+      "id": 6119,
+      "titleName": "29",
+      "String": "Celia"
+    },
+    "116022": {
+      "id": 116022,
+      "titleName": "[&ActivityId&] Alliance Ranking Reward",
+      "String": "Celia",
+      "title": "[&ActivityId&] Alliance Ranking (Not Met)",
+      "desc": "Your alliance secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Unfortunately, your points are less than [c][db3737]&Number4&[-][/c], so no ranking rewards were earned."
+    },
+    "13104": {
+      "id": 13104,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "13111": {
+      "id": 13111,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "2102017": {
+      "id": 2102017,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "3956": {
+      "id": 3956,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "2002": {
+      "id": 2002,
+      "titleName": "[Survival Battle] Ranking Reward",
+      "String": "Celia",
+      "title": "[Survival Battle] Ranking Reward",
+      "desc": "The ranking results for yesterday's [Survival Battle] event are out, and you rank No.&Number&. You did not meet the reward criteria, so no rewards were given. Keep trying!"
+    },
+    "900009": {
+      "id": 900009,
+      "titleName": "[Alliance League] Defeat",
+      "String": "Celia",
+      "title": "[Alliance League] Defeat",
+      "desc": "Your Alliance [c][017600]&GroupName&[-][/c] didn't secure victory in this week's [c][db3737][Alliance League][-][/c]. Unfortunately, your League Points fell short of [c][db3737]&Number4&[-][/c], so you didn't qualify for League Rewards."
+    },
+    "5504": {
+      "id": 5504,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "6017": {
+      "id": 6017,
+      "titleName": "Ranking Rewards",
+      "String": "Celia",
+      "title": "Thief Hunt Ranking Rewards",
+      "desc": "The Thief Hunt event has ended, and this is the final result of the overall ranking. You are ranked No.&Number&. Here are your ranking rewards!"
+    },
+    "7002": {
+      "id": 7002,
+      "titleName": "[Cheese Trap 1] Personal Reward",
+      "String": "Celia",
+      "desc": "You dealt [c][db3737]&Number&[-][/c] damage in the Cheese Trap I, completing the requirements for Phase [c][db3737]&Number1&[-][/c] and earning the following rewards:",
+      "title": "[Cheese Trap 1] Personal Reward",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "1504": {
+      "id": 1504,
+      "titleName": "Expelled from the alliance.",
+      "String": "Celia",
+      "title": "Expelled from the alliance.",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c], representing [c][db3737]&CodeName&&UnionName&[-][/c] Alliance, has expelled you. You can use the alliance search function to find another suitable alliance."
+    },
+    "2740": {
+      "id": 2740,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][0C910C]Victory[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "122508": {
+      "id": 122508,
+      "titleName": "Canyon Conquest",
+      "String": "Canyon Conquest",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&"
+    },
+    "6130": {
+      "id": 6130,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "6002": {
+      "id": 6002,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Assistance Rewards",
+      "desc": "You assisted &PlayerName& in defeating the [c][db3737]&CannibalNpcBaseId&[-][/c] on &Number& difficulty and received the following rewards:"
+    },
+    "130003": {
+      "id": 130003,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ArenaId& Reward Unclaimed",
+      "desc": "Here are your unclaimed rewards from &ArenaId&."
+    },
+    "2741": {
+      "id": 2741,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][DB3737]Defeat[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2742": {
+      "id": 2742,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][0C910C]Victory[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "6320": {
+      "id": 6320,
+      "titleName": "Welcome to the official Discord community!",
+      "String": "Celia",
+      "desc": "Welcome to the world of Last Asylum: Plague. To help you survive in this plague-ridden world, we invite you to join our official Discord community.\nHere, you may talk to seasoned players to quickly enhance your understanding of the game, and acquire essential survival and combat knowledge. Also, there will be exciting events and rewards.\n\n Discord Link↓↓\n",
+      "title": "Welcome to the official Discord community!",
+      "desc2": "Welcome to the official Discord community!"
+    },
+    "104205": {
+      "id": 104205,
+      "titleName": "162",
+      "String": "Celia"
+    },
+    "10625": {
+      "id": 10625,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "6209": {
+      "id": 6209,
+      "titleName": "[Alliance Duel] Daily Victory!",
+      "String": "Celia",
+      "title": "[Alliance Duel] Daily Victory!",
+      "desc": "Your alliance has achieved victory in [&ActivityId&]! Here are your rewards!"
+    },
+    "6110": {
+      "id": 6110,
+      "titleName": "Occupation Points Ranking",
+      "String": "Celia",
+      "desc": "Here are the points results for participants of the target city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]. Your alliance failed to capture the city. Keep trying!",
+      "title": "Occupation Points Ranking",
+      "desc2": "Points Ranking Results Announced"
+    },
+    "900002": {
+      "id": 900002,
+      "titleName": "[Alliance League] Participation Reward",
+      "String": "Celia",
+      "title": "[Alliance League] Participation Reward",
+      "desc": "Yesterday's [c][db3737][Alliance League][-][/c] Phase has ended. You earned [c][db3737]&Score&[-][/c] Points. Below are your participation rewards. Please claim them!"
+    },
+    "5503": {
+      "id": 5503,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&MonsterNpcBaseId&"
+    },
+    "10619": {
+      "id": 10619,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "title": "&CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3947": {
+      "id": 3947,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "12008": {
+      "id": 12008,
+      "titleName": "100",
+      "String": "Celia"
+    },
+    "4008": {
+      "id": 4008,
+      "titleName": "Title Revocation",
+      "desc": "Your title has been revoked by the Queen.",
+      "String": "Celia"
+    },
+    "102564": {
+      "id": 102564,
+      "titleName": "[Elixir Scramble] Alliance Reward",
+      "title": "[Elixir Scramble] Alliance Reward",
+      "desc": "Your alliance members fought valiantly in the Elixir Scramble, holding out until the very last moment!\nAll alliance members receive the following rewards! Long live the Heroes!"
+    },
+    "4900112": {
+      "id": 4900112,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "[c][db3737]Wave &ZombieWave& &RallyId&[-][/c] Garrison Defense Victory"
+    },
+    "10623": {
+      "id": 10623,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "140003": {
+      "id": 140003,
+      "titleName": "[Kingdom War] King of Battle",
+      "String": "Celia",
+      "title": "Congratulations! You are the\tKing of Battle in this Kingdom War!",
+      "desc": "The Kingdom War has concluded. You've become this season's King of Battle! Here are your rewards. May friendship and honor shine on you forever!"
+    },
+    "11906": {
+      "id": 11906,
+      "titleName": "92",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "3935": {
+      "id": 3935,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10101": {
+      "id": 10101,
+      "titleName": "Demon King Siege Blight Ranking Reward",
+      "String": "Celia",
+      "title": "Demon King Siege Blight Ranking Reward",
+      "desc": "Esteemed Doctor, you completed &Number& attacks in the Demon King Siege Blight event and earned the following rewards"
+    },
+    "900003": {
+      "id": 900003,
+      "titleName": "[Alliance League] Overall Ranking",
+      "String": "Celia",
+      "title": "[Alliance League] Overall Ranking",
+      "desc": "The above rankings are your personal alliance rankings.\nThis round of [c][db3737][Alliance League][-][/c] has concluded. Here are the overall rankings for [c][017600]&GroupName&[-][/c]. Your alliance ranked No.[c][db3737]&Number&[-][/c] in this league, and you ranked No.[c][db3737]&Number2&[-][/c] within your alliance. These are your ranking rewards."
+    },
+    "6109": {
+      "id": 6109,
+      "titleName": "Abandon City",
+      "String": "Celia",
+      "desc": "[c][db3737]&UnionJob&&PlayerName&[-][/c] has abandoned the city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]. The city is now neutral and open for other Alliances to claim.",
+      "title": "Abandon City",
+      "desc2": "Your alliance has abandoned a city."
+    },
+    "3710": {
+      "id": 3710,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated [c][db3737]&PlayerName&[-][/c]'s rally against [c][db3737]&CannibalNpcBaseId&[-][/c]"
+    },
+    "2710": {
+      "id": 2710,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "5506": {
+      "id": 5506,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&SeasonMonsterNpcBaseId&"
+    },
+    "1506": {
+      "id": 1506,
+      "titleName": "Troop Returned",
+      "String": "Celia",
+      "title": "Troop Returned",
+      "desc": "Doctor, your troop has been sent back by [c][db3737]&PlayerName1&[-][/c]"
+    },
+    "10622": {
+      "id": 10622,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8214": {
+      "id": 8214,
+      "titleName": "Apex Arena",
+      "String": "Celia",
+      "title": "Apex Arena",
+      "desc": "The Apex Arena season has concluded, and you achieved No.&Number&.\nHere is your season ranking reward. Please check!"
+    },
+    "10607": {
+      "id": 10607,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "900008": {
+      "id": 900008,
+      "titleName": "[Alliance League] Victory!",
+      "String": "Celia",
+      "title": "[Alliance League] Victory!",
+      "desc": "Your Alliance [c][017600]&GroupName&[-][/c] won this week's [c][db3737][Alliance League][-][/c]! Unfortunately, your League Points fell short of [c][db3737]&Number4&[-][/c], so you didn't qualify for League Rewards."
+    },
+    "210001": {
+      "id": 210001,
+      "titleName": "Kingdom Ranking Rewards",
+      "String": "Celia",
+      "title": "Dawn Breakout - Kingdom Ranking Rewards",
+      "desc": "Congrats! You have achieved No.&Number& in Kingdom Ranking in &ActivityId&!"
+    },
+    "2743": {
+      "id": 2743,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][DB3737]Defeat[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "102561": {
+      "id": 102561,
+      "titleName": "[Elixir Scramble] Bye rewards!",
+      "title": "[Elixir Scramble] Bye rewards!",
+      "desc": "Team &TeamId& couldn't find a suitable opponent. All alliance members receive a bye reward!"
+    },
+    "43011": {
+      "id": 43011,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc": "Here are your unclaimed rescue quest rewards:"
+    },
+    "1513": {
+      "id": 1513,
+      "titleName": "New Alliance Gathering Point",
+      "String": "Alliance Message",
+      "title": "New Alliance Gathering Point",
+      "desc": "The alliance manager has just set a new Alliance Assembly Point, urging all members to move their territory to this location. Go check it out!"
+    },
+    "102505": {
+      "id": 102505,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s &RongWarFortBaseId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "6128": {
+      "id": 6128,
+      "titleName": "[City Conquest] Event Settlement",
+      "String": "Event Settlement",
+      "title": "City Pass Point Ranking Ended",
+      "desc": "[City Conquest] occupation points ranking has ended. Your alliance ranked No.&Number&. Please collect your alliance rewards."
+    },
+    "13501": {
+      "id": 13501,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Unfortunately, you did not meet the min points requirement for ranking in [c][e47514]&ActivityId&[-][/c], and cannot receive ranking rewards."
+    },
+    "3908": {
+      "id": 3908,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your &WonderBaseId&."
+    },
+    "3917": {
+      "id": 3917,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated [c][db3737]&PlayerName1&[-][/c]'s rally against [c][db3737]&WonderBaseId&[-][/c]"
+    },
+    "1505": {
+      "id": 1505,
+      "titleName": "Leader Changed",
+      "String": "Celia",
+      "title": "Leader Changed",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c] has transferred the position of leader to [c][db3737]&PlayerName2&[-][/c]. [c][db3737]&PlayerName2&[-][/c] is now the new leader."
+    },
+    "140006": {
+      "id": 140006,
+      "titleName": "Kingdom War - Victory",
+      "String": "Celia",
+      "desc": "Congratulations! Your kingdom has won the Kingdom War between Kingdom &Number& vs Kingdom &Number1& this week and captured the Royal City!\nYour king has spawned abundant Diamond Mines in the Cursed Land of Kingdom &Number1&. Join the celebration and rejoice in victory!",
+      "title": "Kingdom War - Victory",
+      "desc2": "Your Kingdom's assault succeeded!"
+    },
+    "6314": {
+      "id": 6314,
+      "titleName": "[Protect Personal Privacy]",
+      "String": "Celia",
+      "title": "Please protect your personal information!",
+      "desc": "Dear Doctor,\nRecently, some individuals have been creating [abnormal] alliances, using announcements, emails, and impersonating leaders or R4 to invite doctors to join unofficial communities or obtain their private contact information. Communication outside the gaming platform may lead to privacy breaches or even personal property loss.\nPlease refrain from tapping or downloading content from unfamiliar links to prevent personal information leakage. Also, do not trust game information spread by unofficial personnel. Any changes or adjustments to the game will be announced through in-game notices, the official website, official Discord, Facebook, and other official channels.\nIf you encounter such illegal activities while playing, feel free to report them to us with relevant screenshots or recordings. Creating a harmonious gaming environment and resisting harmful information requires our joint effort!"
+    },
+    "5505": {
+      "id": 5505,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "8725": {
+      "id": 8725,
+      "titleName": "35",
+      "String": "Celia"
+    },
+    "8727": {
+      "id": 8727,
+      "titleName": "37",
+      "String": "Celia"
+    },
+    "2709": {
+      "id": 2709,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "3709": {
+      "id": 3709,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated your rally against [c][db3737]&CannibalNpcBaseId&[-][/c]"
+    },
+    "6322": {
+      "id": 6322,
+      "titleName": "[Grant Raven greater power]",
+      "String": "Celia",
+      "title": "Congratulations, Doctor! Your territory has been upgraded to Lv.15!",
+      "desc": "Dear Doctor\nCongratulations on upgrading your territory to Lv.15! You can now construct the Raven Workshop to equip your Ravens with powerful gear!\nThe Raven Workshop produces Raven Gear Chests over time, which contain randomized Raven Gear when opened.\nOnce you obtain Raven gear, visit the Raven Nest to equip it and significantly boost your Heroes' power.\nRaven equipment can also be upgraded—Fuse 3 lower-tier pieces to create 1 higher-tier piece.\nBuild your Raven Workshop now and unleash your full potential in the vast skies!"
+    },
+    "2725": {
+      "id": 2725,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied Troop &CodeName1& &PlayerName1& Attacked Your Territory"
+    },
+    "129010": {
+      "id": 129010,
+      "titleName": "167",
+      "String": "Celia"
+    },
+    "8706": {
+      "id": 8706,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Unfortunately, you did not reach the top [c][db3737]100[-][/c] in the [c][db3737]&ActivityId&[-][/c] event, so no rewards were earned!"
+    },
+    "13801": {
+      "id": 13801,
+      "titleName": "&Activityid& Not Ranked",
+      "String": "Celia",
+      "title": "&Activityid& Not Ranked",
+      "desc": "You did not make it to the global leaderboard in the &ActivityId& event, so no ranking rewards were earned!"
+    },
+    "50301": {
+      "id": 50301,
+      "titleName": "System Notice",
+      "String": "System Notice",
+      "title": "Delivery Notification",
+      "desc": "You purchased [c][db3737][&Number1&][-][/c], and received the following items."
+    },
+    "2706": {
+      "id": 2706,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Failed to defeat [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "102560": {
+      "id": 102560,
+      "titleName": "[Elixir Scramble] Team &TeamId& members confirmed!",
+      "title": "[Elixir Scramble] Team &TeamId& members confirmed!",
+      "desc": "[Elixir Scramble] will be held in the game timezone: {0}[c][db3737](My timezone: {1})[-][/c]\nBelow is the list of combatants for this battlefield. Please prepare for battle!"
+    },
+    "10301": {
+      "id": 10301,
+      "titleName": "39",
+      "desc": "Congratulations! To thank you for your contribution to the alliance in [c][db3737]&UnionRewardsType&[-][/c], the alliance manager has distributed [c][db3737]&Number&[-][/c] from the Alliance Treasury to your bag!",
+      "String": "Celia"
+    },
+    "2102022": {
+      "id": 2102022,
+      "titleName": "Crystal Cluster Valley Event Compensation for Unclaimed Gathering Rewards",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Event Compensation for Unclaimed Gathering Rewards",
+      "desc": "Crystal Cluster Valley Event Compensation for Unclaimed Gathering Rewards"
+    },
+    "3911": {
+      "id": 3911,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your troop reinforcing &WonderBaseId& occupied by &CodeName2& &PlayerName2&."
+    },
+    "2803": {
+      "id": 2803,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy Scouted Your Resource point",
+      "title": "Enemy Scouted Your Resource point",
+      "desc2": "[c][db3737]&CodeName& &PlayerName&[-][/c] scouted your resource point"
+    },
+    "2103101": {
+      "id": 2103101,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s Troop",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "12001": {
+      "id": 12001,
+      "String": "Celia"
+    },
+    "2904": {
+      "id": 2904,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You attacked [c][db3737]&CodeName& &PlayerName&[-][/c]'s troop"
+    },
+    "3904": {
+      "id": 3904,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&"
+    },
+    "2907": {
+      "id": 2907,
+      "titleName": "S:&K& X:&X& Y:&Y&\nResource Spot Recon Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nResource Spot Scout Report",
+      "desc": "Resource Point Scout Successful",
+      "title": "Resource Point Scout Successful",
+      "desc2": "Scout Successful"
+    },
+    "3907": {
+      "id": 3907,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your &WonderBaseId&."
+    },
+    "3943": {
+      "id": 3943,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "140007": {
+      "id": 140007,
+      "titleName": "Kingdom War - Defeat",
+      "String": "Celia",
+      "desc": "In the Kingdom War between Kingdom &Number& and Kingdom &Number1&, everyone fought with all their might to defend. Sadly, fortune was not on our side, and the Royal City has been occupied by Kingdom &Number2& [&CodeName&] &UnionName&.\nDo not lose heart! Boost your might, rally your forces, and anything is possible!",
+      "title": "Kingdom War - Defeat",
+      "desc2": "Your Kingdom's defense failed."
+    },
+    "2705": {
+      "id": 2705,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "7903": {
+      "id": 7903,
+      "titleName": "[Cheese Trap 2] Opening Soon",
+      "String": "Celia",
+      "desc": "The Cheese Trap 2 is set and will open at UTC &TimeNumber1&. Please schedule your challenge time accordingly!",
+      "title": "[Cheese Trap 2] Opening Soon",
+      "desc2": "Cheese Trap 2 set"
+    },
+    "8723": {
+      "id": 8723,
+      "titleName": "33",
+      "String": "Celia"
+    },
+    "3926": {
+      "id": 3926,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "8705": {
+      "id": 8705,
+      "titleName": "&ChildActId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ChildActId& Ranking Reward not obtained",
+      "desc": "Unfortunately, you did not reach the top [c][db3737]100[-][/c] in [c][db3737]&ChildActId&[-][/c], so no rewards were earned!"
+    },
+    "11301": {
+      "id": 11301,
+      "titleName": "77",
+      "String": "Celia"
+    },
+    "116011": {
+      "id": 116011,
+      "titleName": "[&ActivityId&] Personal Ranking Reward",
+      "String": "Celia",
+      "title": "[&ActivityId&] Personal Ranking Reward",
+      "desc": "Congrats! You achieved No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Here are your resource rewards."
+    },
+    "3903": {
+      "id": 3903,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&"
+    },
+    "2903": {
+      "id": 2903,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You attacked [c][db3737]&CodeName& &PlayerName&[-][/c]'s troop"
+    },
+    "2804": {
+      "id": 2804,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "title": "&CodeName& &PlayerName& Scouted Your Territory",
+      "desc": "Due to strict counter-reconnaissance measures in the territory, 1 scout was successfully prevented."
+    },
+    "2748": {
+      "id": 2748,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s Troop",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "900005": {
+      "id": 900005,
+      "titleName": "[Alliance League] Victory!",
+      "String": "Celia",
+      "title": "[Alliance League] Victory!",
+      "desc": "Your Alliance [c][017600]&GroupName&[-][/c] claimed victory in this week's [c][db3737][Alliance League][-][/c]! These are your rewards. Please check them!"
+    },
+    "6122": {
+      "id": 6122,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "The rallied troop you joined attacked &MechCityId&."
+    },
+    "8719": {
+      "id": 8719,
+      "titleName": "&Activityid& Reward",
+      "String": "Celia",
+      "title": "&Activityid& Reward",
+      "desc": "Congrats! You visited &TargetName& &Number& times and received the following rewards!"
+    },
+    "13701": {
+      "id": 13701,
+      "titleName": "&Activityid& Not Ranked",
+      "String": "Celia",
+      "title": "&Activityid& Not Ranked",
+      "desc": "You did not make it to the global leaderboard in the &ActivityId& event, so no ranking rewards were earned!"
+    },
+    "2719": {
+      "id": 2719,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s territory."
+    },
+    "12002": {
+      "id": 12002,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "6106": {
+      "id": 6106,
+      "titleName": "Occupation Points Ranking",
+      "String": "Celia",
+      "desc": "Here are the points results for participants of the target city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]. You rank No.&Number&. Here is your ranking reward!",
+      "title": "Occupation Points Ranking",
+      "desc2": "Points Ranking Results Announced"
+    },
+    "11802": {
+      "id": 11802,
+      "titleName": "83",
+      "String": "Celia"
+    },
+    "10102": {
+      "id": 10102,
+      "titleName": "Demon King Siege Blight Ranking Reward",
+      "String": "Celia",
+      "title": "Demon King Siege Blight Ranking Reward",
+      "desc": "Esteemed Doctor, you dealt &Number& damage to the Demon King Blight in one blow in this event, ranking No.&Number1&, and received the following rewards"
+    },
+    "4005": {
+      "id": 4005,
+      "titleName": "Title Appointment",
+      "desc": "King &PlayerName1& has appointed you as the &TitleId& of our kingdom.",
+      "String": "Celia"
+    },
+    "8735": {
+      "id": 8735,
+      "titleName": "Daily Must-Buy Progress Reward Reissued",
+      "String": "Celia",
+      "title": "Daily Must-Buy Progress Reward Reissued",
+      "desc": "You purchased a pack in [c][db3737]Daily Must-Buy[-][/c] and had unclaimed Top Up EXP rewards. They have now been reissued."
+    },
+    "6005": {
+      "id": 6005,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Alliance Boss Challenge Failed",
+      "desc": "Your alliance failed to defeat [c][db3737]&CannibalNpcBaseId&[-][/c] within the time limit and will not receive any rewards"
+    },
+    "2711": {
+      "id": 2711,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s Troop",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "3958": {
+      "id": 3958,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "2102031": {
+      "id": 2102031,
+      "titleName": "Crystal Cluster Valley Lode Scouted",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Lode Scouted",
+      "desc": "Crystal Cluster Valley Lode Scouted"
+    },
+    "3942": {
+      "id": 3942,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3941": {
+      "id": 3941,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2801": {
+      "id": 2801,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy Scouted Your Territory",
+      "title": "Enemy Scouted Your Territory",
+      "desc2": "[c][db3737]&CodeName& &PlayerName&[-][/c] scouted your territory"
+    },
+    "902": {
+      "id": 902,
+      "titleName": "1",
+      "String": "Celia"
+    },
+    "150001": {
+      "id": 150001,
+      "titleName": "First Rename Reward",
+      "String": "Celia",
+      "title": "Renamed",
+      "desc": "Dear Doctor,\nCongrats on changing your name. Please accept our gift."
+    },
+    "102510": {
+      "id": 102510,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "&CodeName1& &PlayerName1& attacked your &RongWarFortBaseId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "3707": {
+      "id": 3707,
+      "titleName": "Rally Canceled",
+      "String": "Celia",
+      "title": "Rally Canceled",
+      "desc": "Doctor, [c][db3737]&PlayerName&[-][/c] has canceled the rally against [c][db3737]&CannibalNpcBaseId&[-][/c]"
+    },
+    "3951": {
+      "id": 3951,
+      "titleName": "7",
+      "String": "Celia"
+    },
+    "6123": {
+      "id": 6123,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "The rallied troop you joined attacked &MechCityId&."
+    },
+    "3955": {
+      "id": 3955,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "4006": {
+      "id": 4006,
+      "titleName": "Title Revocation",
+      "desc": "Your title has been revoked by the King.",
+      "String": "Celia"
+    },
+    "7006": {
+      "id": 7006,
+      "titleName": "&Activityid& Reward",
+      "String": "Celia",
+      "title": "&Activityid& Reward",
+      "desc": "Congrats! You secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! The reward has been sent to your Bag"
+    },
+    "3948": {
+      "id": 3948,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "102570": {
+      "id": 102570,
+      "titleName": "[Elixir Scramble] Insufficient sign-ups!",
+      "String": "Celia",
+      "title": "[Elixir Scramble] Insufficient sign-ups!",
+      "desc": "Dear Doctor, [Elixir Scramble] registration is closing soon, but your Alliance's &Content& team has fewer than 10 members signed up. To ensure a better Event experience and help more Alliance Members earn Rewards, please ask your Alliance administrator to recruit more members."
+    },
+    "2718": {
+      "id": 2718,
+      "titleName": "S:&K& X:&X& Y:&Y&\nTerritory Scout Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nTerritory Scout Report",
+      "title": "Scout &CodeName& &PlayerName&",
+      "desc2": "Scout failed: the opponent activated anti-scout."
+    },
+    "6105": {
+      "id": 6105,
+      "titleName": "Occupation Failed",
+      "String": "Celia",
+      "desc": "Unfortunately, your alliance failed to capture [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]. Try harder next time!",
+      "title": "Occupation Failed",
+      "desc2": "Failed to capture the city."
+    },
+    "302": {
+      "id": 302,
+      "titleName": "Avatar Revocation Notice",
+      "String": "Celia",
+      "title": "Avatar Revocation Notice",
+      "desc": "Sorry! Your custom avatar is suspected of violation, and we have no choice but to revoke it and restore to your default avatar."
+    },
+    "10621": {
+      "id": 10621,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2701": {
+      "id": 2701,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "129013": {
+      "id": 129013,
+      "titleName": "170",
+      "String": "Celia"
+    },
+    "2735": {
+      "id": 2735,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "You activated a defense shield, effectively defending against the enemy's attack.",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked Your Territory",
+      "desc2": "Defence Successful"
+    },
+    "8701": {
+      "id": 8701,
+      "titleName": "&Childactid& Reward",
+      "String": "Celia",
+      "title": "&Childactid& Reward",
+      "desc": "Congrats! You earned [c][db3737]&Number1&[-][/c] Points in [c][db3737]&ChildActId&[-][/c], securing No.[c][db3737]&Number&[-][/c]!"
+    },
+    "6010": {
+      "id": 6010,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated [c][db3737]&CannibalNpcBaseId&[-][/c]"
+    },
+    "3701": {
+      "id": 3701,
+      "titleName": "Target Lost",
+      "String": "Celia",
+      "title": "Target Lost",
+      "desc": "Target missed, S:&K& X:&X& Y:&Y& [c][db3737]&CannibalNpcBaseId&[-][/c] has been killed by another Doctor or has vanished."
+    },
+    "3938": {
+      "id": 3938,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2102032": {
+      "id": 2102032,
+      "titleName": "Crystal Cluster Valley Rich Lode Scouted",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Rich Lode Scouted",
+      "desc": "Crystal Cluster Valley Rich Lode Scouted"
+    },
+    "4014": {
+      "id": 4014,
+      "titleName": "Kingdom Decree",
+      "String": "Celia",
+      "title": "Kingdom Decree",
+      "desc": "The King has issued the latest Kingdom decree -&KingdomBuff&\nAll doctors within the kingdom will receive the following buffs, lasting 4h."
+    },
+    "6015": {
+      "id": 6015,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "6306": {
+      "id": 6306,
+      "titleName": "Alliance Caravan has been dispatched.",
+      "String": "Celia",
+      "desc": "Coachman &CodeName& &PlayerName&'s Alliance Caravan has been dispatched and will arrive at the destination at &TimeNumber1&. Safe travels to all!",
+      "title": "Alliance Caravan has been dispatched.",
+      "desc2": "Transport Initiated"
+    },
+    "6014": {
+      "id": 6014,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "6205": {
+      "id": 6205,
+      "titleName": "[Alliance Duel] Defeat",
+      "String": "Celia",
+      "title": "[Alliance Duel] Defeat",
+      "desc": "Your alliance did not win this week's [Alliance Duel]. Here are the rewards!"
+    },
+    "3713": {
+      "id": 3713,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&SeasonCannibalNpcBaseId&"
+    },
+    "2103103": {
+      "id": 2103103,
+      "titleName": "Supreme Duel unclaimed Ranking Reward resent",
+      "String": "Celia",
+      "title": "Supreme Duel unclaimed Ranking Reward resent",
+      "desc": "Supreme Duel has ended. The Ranking Rewards you didn't claim have been reissued."
+    },
+    "4800101": {
+      "id": 4800101,
+      "titleName": "Shadow Blight - Kill Reward",
+      "String": "Celia",
+      "desc": "Thanks to everyone's combined efforts, the Demon King Blight has been defeated! We have collected the following loot for you:",
+      "title": "Shadow Blight - Kill Reward",
+      "desc2": "Demon King Blight Kill Reward"
+    },
+    "10610": {
+      "id": 10610,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "150005": {
+      "id": 150005,
+      "titleName": "Blight Extermination Rewards",
+      "String": "Celia",
+      "title": "Blight Extermination Rewards",
+      "desc": "Unclaimed rewards from Blight Purge have been sent to your bag!"
+    },
+    "3708": {
+      "id": 3708,
+      "titleName": "Rally Canceled",
+      "String": "Celia",
+      "title": "Rally Canceled",
+      "desc": "Doctor, the rally against [c][db3737]&CannibalNpcBaseId&[-][/c] has been forcibly canceled due to fewer than 2 participants"
+    },
+    "11904": {
+      "id": 11904,
+      "titleName": "90",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "2717": {
+      "id": 2717,
+      "titleName": "S:&K& X:&X& Y:&Y&\nTerritory Scout Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nTerritory Scout Report",
+      "desc": "Scout failed: the opponent activated a defense shield",
+      "title": "Scout &CodeName& &PlayerName&",
+      "desc2": "Scout failed: the opponent activated a defense shield"
+    },
+    "102507": {
+      "id": 102507,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked your &RongWarFortBaseId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "6206": {
+      "id": 6206,
+      "titleName": "[Alliance Duel] Participation Reward",
+      "String": "Celia",
+      "title": "[Alliance Duel] Participation Reward",
+      "desc": "The [Alliance Duel] phase ended yesterday. Your points were below &Number&, so you didn't qualify for the participation reward this time. Better luck next time!"
+    },
+    "3952": {
+      "id": 3952,
+      "titleName": "8",
+      "String": "Celia"
+    },
+    "6305": {
+      "id": 6305,
+      "titleName": "Alliance Caravan is about to be dispatched.",
+      "String": "Celia",
+      "desc": "&CodeName& &PlayerName& has been chosen as the Coachman, and the alliance caravan will be dispatched at &TimeNumber1&. Passengers, please queue up for boarding promptly.",
+      "title": "Alliance Caravan is about to be dispatched.",
+      "desc2": "{0} has been appointed as Coachman"
+    },
+    "2103105": {
+      "id": 2103105,
+      "titleName": "Supreme Duel unclaimed Kingdom Ranking Reward resent",
+      "String": "Celia",
+      "title": "Supreme Duel unclaimed Kingdom Ranking Reward resent",
+      "desc": "Supreme Duel has ended. The Kingdom Ranking Reward you didn't claim have been reissued."
+    },
+    "3711": {
+      "id": 3711,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "2901": {
+      "id": 2901,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "[c][db3737]&CodeName& &PlayerName&[-][/c] attacked your troop"
+    },
+    "6125": {
+      "id": 6125,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Your troop reinforcing &MechCityId& was attacked by &CodeName1& &PlayerName1&."
+    },
+    "4024": {
+      "id": 4024,
+      "titleName": "The King's term has ended!",
+      "String": "Celia",
+      "title": "The King's term has ended!",
+      "desc": "Your term as King has ended. You have stepped down."
+    },
+    "140005": {
+      "id": 140005,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward",
+      "desc": "Congrats! You secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Every effort pays off. Please claim your reward!"
+    },
+    "8717": {
+      "id": 8717,
+      "titleName": "Delivery Notification",
+      "String": "Celia",
+      "title": "Delivery Notification",
+      "desc": "You have purchased [c][db3737][&GiftId&][-][/c]. Please go to the Event Center to claim it."
+    },
+    "6115": {
+      "id": 6115,
+      "titleName": "Demon King Blight Ranking Reward",
+      "String": "Celia",
+      "title": "Demon King Blight Ranking Reward",
+      "desc": "You dealt the highest damage of &Number& for an instance in the Demon King Blight event, ranking &Number1&, and earned the following rewards"
+    },
+    "210101": {
+      "id": 210101,
+      "titleName": "Dawn Breakout Achievement Reward Reissue",
+      "String": "Celia",
+      "title": "Dawn Breakout - Kingdom Ranking Rewards",
+      "desc": "Here are your unclaimed achievement rewards for the Dawn Breakout event."
+    },
+    "10614": {
+      "id": 10614,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "10603": {
+      "id": 10603,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "8721": {
+      "id": 8721,
+      "titleName": "31",
+      "String": "Celia"
+    },
+    "102513": {
+      "id": 102513,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "&CodeName1& &PlayerName1& attacked your reinforcements at &RongWarFortBaseId& occupied by &CodeName2& &PlayerName2&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "3401": {
+      "id": 3401,
+      "titleName": "3",
+      "title": "Resource Transport Report",
+      "desc": "Sent resources to [c][db3737]&PlayerName&[-][/c]."
+    },
+    "8215": {
+      "id": 8215,
+      "titleName": "Rookie Arena",
+      "String": "Celia",
+      "title": "Rookie Arena",
+      "desc": "The Rookie Arena season has concluded, and you achieved No.&Number&.\nHere is your season ranking reward. Please check!"
+    },
+    "129014": {
+      "id": 129014,
+      "titleName": "171",
+      "String": "Celia"
+    },
+    "10647": {
+      "id": 10647,
+      "titleName": "70",
+      "String": "Celia"
+    },
+    "2301": {
+      "id": 2301,
+      "titleName": "[City Boss] Battle Rewards",
+      "String": "Celia",
+      "title": "[City Boss] Battle Rewards",
+      "desc": "The damage results for the [City Boss] event are out, and your alliance dealt &Number& damage. Here are your rewards!"
+    },
+    "2102023": {
+      "id": 2102023,
+      "titleName": "Crystal Cluster Valley Scout Successful",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Scout Successful",
+      "desc": "Unoccupied"
+    },
+    "122506": {
+      "id": 122506,
+      "titleName": "Canyon Conquest Kill Reward",
+      "String": "Celia",
+      "title": "Canyon Conquest Kill Reward",
+      "desc": "You eliminated &Number& Troops this round and earned the following rewards"
+    },
+    "6301": {
+      "id": 6301,
+      "titleName": "Attack Victory",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Attack Victory",
+      "desc2": "You plundered &CodeName& &PlayerName&'s &EscortQuality& caravan."
+    },
+    "303": {
+      "id": 303,
+      "titleName": "Avatar Not Approved",
+      "String": "Celia",
+      "title": "Avatar Not Approved",
+      "desc": "Sorry! Your uploaded custom avatar did not pass the review."
+    },
+    "900001": {
+      "id": 900001,
+      "titleName": "[Alliance League] Daily Ranking",
+      "String": "Celia",
+      "title": "[Alliance League] Daily Ranking",
+      "desc": "Yesterday's [c][db3737][Alliance League][-][/c] Phase has ended. The final rankings for [c][017600]&GroupName&[-][/c] on that day have been announced. Your final ranking is No.[c][db3737]&Number&[-][/c]. Below are your ranking settlement rewards. Please claim them!"
+    },
+    "6315": {
+      "id": 6315,
+      "titleName": "[The Charm of Competition]",
+      "String": "Celia",
+      "title": "Congratulations! You've unlocked the Arena!",
+      "desc": "Dear Doctor,\nCongratulations on becoming a highly skilled expert! The Arena League is now officially open to you, allowing you to compete with other doctors, pursue higher rankings, and earn honor and generous rewards!\nEverything in the Arena is just for practice, causing no damage to your soldiers and heroes! While challenging formidable opponents, don't forget to set up your defense lineup!\n A new challenge has begun; seize your glory!"
+    },
+    "903": {
+      "id": 903,
+      "titleName": "2",
+      "String": "Celia"
+    },
+    "10634": {
+      "id": 10634,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "6121": {
+      "id": 6121,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Your troop reinforcing &MechCityId& was attacked by a rallied troop."
+    },
+    "2102005": {
+      "id": 2102005,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "4025": {
+      "id": 4025,
+      "titleName": "Title Revocation",
+      "String": "Celia",
+      "title": "Title Revocation",
+      "desc": "Your title has been revoked by the Queen."
+    },
+    "6313": {
+      "id": 6313,
+      "titleName": "[Meet Heroes in the Tavern]",
+      "String": "Celia",
+      "title": "Congratulations! You've unlocked the Tavern!",
+      "desc": "[c][db3737]Heroes[-][/c] are your most powerful commanders, leading the charge and strengthening your forces.\nThe Tavern is where these mighty heroes gather to unwind and share stories after battle, and it's also the place to [c][db3737]recruit new talent[-][/c].\nIf you're looking for capable allies, be sure to visit the Tavern often. Your heroes can lead troops into battle and help you grow stronger faster, don't miss out!"
+    },
+    "129008": {
+      "id": 129008,
+      "titleName": "1665",
+      "String": "Celia"
+    },
+    "10639": {
+      "id": 10639,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "140009": {
+      "id": 140009,
+      "titleName": "Kingdom War - Victory",
+      "String": "Celia",
+      "desc": "In the Kingdom War between Kingdom &Number& and Kingdom &Number1&, your kingdom repelled the enemy invasion! This victory is the fruit of everyone's efforts! Remember to keep boosting your might to face even stronger foes!",
+      "title": "Kingdom War - Victory",
+      "desc2": "Your kingdom defense succeeded!"
+    },
+    "10642": {
+      "id": 10642,
+      "titleName": "65",
+      "String": "Celia"
+    },
+    "13114": {
+      "id": 13114,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "6129": {
+      "id": 6129,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "1515": {
+      "id": 1515,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated your rally targeting [c][db3737]&CodeName& &PlayerName2&[-][/c]"
+    },
+    "3944": {
+      "id": 3944,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "1514": {
+      "id": 1514,
+      "titleName": "New Alliance Marker",
+      "String": "Alliance Message",
+      "title": "New Alliance Marker",
+      "desc": "The alliance manager &PlayerName& has just set a new alliance marker. Please check it out as soon as possible and actively participate in the alliance event!"
+    },
+    "102567": {
+      "id": 102567,
+      "titleName": "[Elixir Scramble] Victory - Personal Points Reward!",
+      "title": "[Elixir Scramble] Victory - Personal Points Reward!",
+      "desc": "You fought valiantly in [Elixir Scramble], earning &Score& personal points, a glory uniquely yours!"
+    },
+    "116021": {
+      "id": 116021,
+      "titleName": "[&ActivityId&] Alliance Ranking Reward",
+      "String": "Celia",
+      "title": "[&ActivityId&] Alliance Ranking Reward",
+      "desc": "Congrats! Your alliance secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Here are your resource rewards."
+    },
+    "13116": {
+      "id": 13116,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][db3737]&Number&[-][/c] in the [c][db3737]&ActivityId&[-][/c]!",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "2102010": {
+      "id": 2102010,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "10633": {
+      "id": 10633,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "1501": {
+      "id": 1501,
+      "titleName": "Alliance Application Denied",
+      "String": "Celia",
+      "title": "Alliance Application Denied",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c], representing [c][db3737]&CodeName&&UnionName&[-][/c] Alliance, has declined your request to join. You can use the alliance search function to find another suitable alliance."
+    },
+    "11903": {
+      "id": 11903,
+      "titleName": "89",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "6013": {
+      "id": 6013,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "2734": {
+      "id": 2734,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "You activated a defense shield, effectively defending against the enemy's attack.",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Territory",
+      "desc2": "Defence Successful"
+    },
+    "6311": {
+      "id": 6311,
+      "titleName": "[Unite and Fight Side by Side]",
+      "String": "Celia",
+      "title": "[Unite and Fight Side by Side]",
+      "desc": "Under your guidance, the town has grown stronger than ever. But standing alone makes it hard to withstand great disasters. Your allies are your greatest support. By building an [c][db3737]Alliance Hall[-][/c], you can connect with other doctors to combat enemies together.\nAlliance members can help accelerate construction and soldier Training, allowing your development to progress twice as fast. You can also rally together to take down powerful foes and claim greater spoils of war!\nBuild the [c][db3737]Alliance Hall[-][/c] and prepare to face even greater challenges!"
+    },
+    "5501": {
+      "id": 5501,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "title": "You're Late!",
+      "desc": "My lord!\nThe Blight was hunted down before your troop arrived!\nYour troop is returning to the territory."
+    },
+    "50314": {
+      "id": 50314,
+      "titleName": "System Notice",
+      "String": "System Notice",
+      "title": "Delivery Notification",
+      "desc": "2nd Build Queue activated! Develop faster and stay one step ahead!"
+    },
+    "129001": {
+      "id": 129001,
+      "titleName": "163",
+      "String": "Celia"
+    },
+    "10609": {
+      "id": 10609,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "6321": {
+      "id": 6321,
+      "titleName": "Secure Your Account",
+      "String": "Celia",
+      "desc": "Dear Doctors: \n\nRecently, some players have been sharing personal social accounts or selling in-game resources in our chat channel; Celia advises all doctors not to add strangers' social accounts and to protect your personal information. The purchasable packs are officially priced.\n\nIf you need more Diamonds to upgrade buildings or purchase items, the only authorized way to buy them is through your own account within the game. \n\nIf you want more resource rewards, follow our official community account for generous rewards.\n\nThank you for your support and understanding, enjoy the game; \n\nLast Asylum Team;",
+      "title": "Secure Your Account",
+      "desc2": "Secure Your Account"
+    },
+    "13106": {
+      "id": 13106,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][db3737]&Number&[-][/c] in the [c][db3737]&ActivityId&[-][/c]!",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "116012": {
+      "id": 116012,
+      "titleName": "[Strike First] Personal Ranking",
+      "String": "Celia",
+      "title": "[Strike First] Personal Ranking (Not Met)",
+      "desc": "You achieved No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Unfortunately, your points are less than [c][db3737]&Number4&[-][/c], so no ranking rewards were earned."
+    },
+    "3959": {
+      "id": 3959,
+      "titleName": "9",
+      "String": "Celia"
+    },
+    "7001": {
+      "id": 7001,
+      "titleName": "[Hero Rebate] Compensation Reward",
+      "String": "Celia",
+      "title": "Hero's Trial Rewards Reissued",
+      "desc": "Here are the unclaimed rewards from Hero's Trial."
+    },
+    "2102012": {
+      "id": 2102012,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "2001": {
+      "id": 2001,
+      "titleName": "[Survival Battle] Ranking Reward",
+      "String": "Celia",
+      "title": "[Survival Battle] Ranking Reward",
+      "desc": "The ranking results for yesterday's [Survival Battle] event are out, and you rank No.&Number&. Here are your ranking rewards!"
+    },
+    "3949": {
+      "id": 3949,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "4800102": {
+      "id": 4800102,
+      "titleName": "Shadow Blight - Kill Reward",
+      "String": "Celia",
+      "desc": "You dealt a total of {&Number&} damage to the Demon King Blight, ranking No.{&Number1&}. Thank you for your contribution to the Kingdom. Please accept this token of gratitude:",
+      "title": "Shadow Blight - Kill Reward",
+      "desc2": "Damage Ranking Reward"
+    },
+    "6211": {
+      "id": 6211,
+      "titleName": "[Alliance Duel] Daily Victory!",
+      "String": "Celia",
+      "title": "[Alliance Duel] Daily Victory!",
+      "desc": "Your alliance won the [&ActivityId&]! However, your points were below &Number&, so you didn't qualify for the victory reward this time. Better luck next time!"
+    },
+    "12006": {
+      "id": 12006,
+      "titleName": "98",
+      "String": "Celia"
+    },
+    "10626": {
+      "id": 10626,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10611": {
+      "id": 10611,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "2715": {
+      "id": 2715,
+      "titleName": "S:&K& X:&X& Y:&Y&\nTerritory Scout Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nTerritory Scout Report",
+      "desc": "Scout Report",
+      "title": "Territory Scout Successful",
+      "desc2": "Scout &CodeName& &PlayerName&"
+    },
+    "3934": {
+      "id": 3934,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3937": {
+      "id": 3937,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "140001": {
+      "id": 140001,
+      "titleName": "[Kingdom War] Results",
+      "String": "Celia",
+      "title": "The results of this Kingdom War are out!",
+      "desc": "The Kingdom War has concluded. Your Kingdom ranked No.&Number&. Every effort deserves its reward. Please claim your prizes!"
+    },
+    "10630": {
+      "id": 10630,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3933": {
+      "id": 3933,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10": {
+      "id": 10,
+      "titleName": "System Notice",
+      "String": "System Notice"
+    },
+    "8715": {
+      "id": 8715,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc": "Your unclaimed rewards from &ActivityId& have been sent to your bag. Please check!"
+    },
+    "4023": {
+      "id": 4023,
+      "titleName": "King's Commendation Reissued",
+      "String": "Celia",
+      "title": "King's Commendation Reissued",
+      "desc": "King's Commendation Reissued"
+    },
+    "2102001": {
+      "id": 2102001,
+      "titleName": "Crystal Cluster Valley Points Ranking Reward",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Points Ranking Reward",
+      "desc": "Congrats! You rank No.[c][db3737]&Number&[-][/c] in [c][db3737]Crystal Cluster Valley[-][/c]! Here are your ranking rewards!"
+    },
+    "10615": {
+      "id": 10615,
+      "titleName": "Rally Canceled",
+      "String": "Celia",
+      "title": "Rally Canceled",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c] has canceled the rally against [c][db3737]&FortId&[-][/c]"
+    },
+    "3953": {
+      "id": 3953,
+      "titleName": "Celia",
+      "String": "Celia"
+    },
+    "100201": {
+      "id": 100201,
+      "titleName": "Your &GiftId& Reward is unclaimed",
+      "String": "Celia",
+      "title": "Your &GiftId& Reward is unclaimed",
+      "desc": "Your [c][db3737]&GiftId&[-][/c] has unclaimed Rewards. Please collect them!"
+    },
+    "130001": {
+      "id": 130001,
+      "titleName": "Stamina Refund",
+      "String": "Celia",
+      "title": "Stamina Refund",
+      "desc": "Attack canceled: &Number& Stamina has been refunded."
+    },
+    "39011": {
+      "id": 39011,
+      "titleName": "128",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nScout Failed"
+    },
+    "13201": {
+      "id": 13201,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "6201": {
+      "id": 6201,
+      "titleName": "[Alliance Duel] Daily Ranking",
+      "String": "Celia",
+      "title": "[Alliance Duel] Daily Ranking",
+      "desc": "Yesterday's [Alliance Duel] phase has ended, and the final daily ranking results have been announced. Your final rank is No.&Number&. Here are your ranking settlement rewards!"
+    },
+    "8724": {
+      "id": 8724,
+      "titleName": "34",
+      "String": "Celia"
+    },
+    "11": {
+      "id": 11,
+      "titleName": "&Title&",
+      "desc": "&Content&",
+      "String": "Celia"
+    },
+    "5000001": {
+      "id": 5000001,
+      "titleName": "Hero Promotion Material Refund",
+      "String": "Celia",
+      "desc": "Claire has been promoted to UR. The materials consumed have been refunded! Please claim them!",
+      "title": "Hero Promotion Material Refund",
+      "desc2": "Hero Promotion Material Refund"
+    },
+    "2102026": {
+      "id": 2102026,
+      "titleName": "&ResBaseId& Gathering Report",
+      "String": "&ResBaseId& Gathering Report",
+      "title": "Resource Gathering Report",
+      "desc": "&RewardStr&"
+    },
+    "4011": {
+      "id": 4011,
+      "titleName": "Title Appointment",
+      "String": "Celia",
+      "title": "Congratulations on becoming the new King!",
+      "desc": "Congrats on becoming the new King! You can now change the name and banner of the Kingdom, appoint titles, grant supply chests, and issue announcements.\nFor more details, visit the Royal City."
+    },
+    "115001": {
+      "id": 115001,
+      "titleName": "[Alliance Expedition] Personal Ranking Rewards",
+      "String": "Celia",
+      "title": "[Alliance Expedition] Personal Ranking Rewards",
+      "desc": "Congrats! You rank No.[c][db3737]&Number&[-][/c] in [c][db3737]Alliance Expedition[-][/c]! Here are your resource rewards!"
+    },
+    "13616": {
+      "id": 13616,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][fdf246]&Number&[-][/c] in [c][fdf246]&ActivityId&[-][/c]",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "4021": {
+      "id": 4021,
+      "titleName": "King Mail",
+      "title": "King Mail",
+      "String": "Celia"
+    },
+    "2103001": {
+      "id": 2103001,
+      "titleName": "Excess Lord EXP Converted",
+      "String": "Celia",
+      "title": "Excess Lord EXP Converted",
+      "desc": "Era ended, excess Specialty EXP: &Number&, converted: &Number1&."
+    },
+    "2102029": {
+      "id": 2102029,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout Report",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Lode Scout Report: Unoccupied",
+      "desc": "Crystal Cluster Valley Lode Scout Report: Unoccupied"
+    },
+    "3915": {
+      "id": 3915,
+      "titleName": "Rally Canceled",
+      "String": "Celia",
+      "title": "Rally Canceled",
+      "desc": "Doctor, [c][db3737]&PlayerName1&[-][/c] has canceled the rally against [c][db3737]&WonderBaseId&[-][/c]"
+    },
+    "2737": {
+      "id": 2737,
+      "titleName": "S:&K& X:&X& Y:&Y&\nAttack Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nAttack Report",
+      "desc": "Attack failed: the opponent has relocated.",
+      "title": "Attack &Codename& &Playername&",
+      "desc2": "Attack failed: the opponent has relocated."
+    },
+    "6114": {
+      "id": 6114,
+      "titleName": "Demon King Blight Quest Reward",
+      "String": "Celia",
+      "title": "Demon King Blight Quest Reward",
+      "desc": "You completed &Number& attacks in the Demon King Blight event and earned the following rewards"
+    },
+    "2102021": {
+      "id": 2102021,
+      "titleName": "Crystal Cluster Valley Outpost Ranking Mail",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Outpost Ranking Mail",
+      "desc": "Congrats! Your ranks No.[c][db3737]&Number&[-][/c] in the total occupation time of [c][db3737]Sacred Cave[-][/c] in the [c][db3737]Crystal Cluster Valley[-][/c] event!"
+    },
+    "2101": {
+      "id": 2101,
+      "titleName": "[Top Doctor] Daily Ranking Reward",
+      "String": "Celia",
+      "title": "Yesterday's [Top Doctor] Ranking Results",
+      "desc": "The ranking results for yesterday's [Top Doctor] event are out, and you rank No.&Number&. Here are your ranking rewards!"
+    },
+    "3927": {
+      "id": 3927,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s &WonderBaseId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "6101": {
+      "id": 6101,
+      "titleName": "Declare War",
+      "String": "Celia",
+      "desc": "[c][db3737]&UnionJob&&PlayerName&[-][/c] declared war on the city: [&MechCityId&].\n\n    Battle starts at: UTC &TimeNumber1&.\n    Battle ends at: UTC &TimeNumber2&.\n    City location: [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url]\n\nJoin the battle and contribute to your alliance's conquest of the city!",
+      "title": "Declare War",
+      "desc2": "The alliance has declared war on the city."
+    },
+    "2733": {
+      "id": 2733,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "Attack failed: the opponent activated a defense shield.",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked &CodeName2& &PlayerName2&",
+      "desc2": "The opponent activated a defense shield."
+    },
+    "2102024": {
+      "id": 2102024,
+      "titleName": "&ResBaseId& Gathering Report",
+      "String": "&ResBaseId& Gathering Report",
+      "title": "Resource Gathering Report",
+      "desc": "&RewardStr&"
+    },
+    "12": {
+      "id": 12,
+      "titleName": "&Title&",
+      "desc": "&Content&",
+      "String": "Celia"
+    },
+    "4900102": {
+      "id": 4900102,
+      "titleName": "Defense Success Reward (Warden)",
+      "String": "Celia",
+      "desc": "You've successfully defended against the Warden's assault and earned the following rewards:",
+      "title": "Defense Success Reward (Warden)",
+      "desc2": "Defense successful, reward obtained"
+    },
+    "3936": {
+      "id": 3936,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8733": {
+      "id": 8733,
+      "titleName": "&Activityid& Activated",
+      "String": "Celia",
+      "title": "&Activityid& Activated",
+      "desc": "&PlayerName1& has started &ActivityId&. Please join."
+    },
+    "10636": {
+      "id": 10636,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10651": {
+      "id": 10651,
+      "titleName": "72",
+      "String": "Celia"
+    },
+    "2716": {
+      "id": 2716,
+      "titleName": "S:&K& X:&X& Y:&Y& \nTroop Recon Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\nTroop Scout Report",
+      "desc": "Scout Report",
+      "title": "Troop Scout Successful",
+      "desc2": "Scout &CodeName& &PlayerName&"
+    },
+    "11905": {
+      "id": 11905,
+      "titleName": "91",
+      "String": "Lv.&ResBaseId& Mine, Defense Battle"
+    },
+    "11305": {
+      "id": 11305,
+      "titleName": "81",
+      "String": "Celia"
+    },
+    "8729": {
+      "id": 8729,
+      "titleName": "&Activityid& Reward",
+      "String": "Celia",
+      "title": "&Activityid& Reward",
+      "desc": "&ActivityId& has ended.\nCongratulations to the following doctors for ranking in the top 10 of this event:\nCongratulations! You are ranked No.&Number& in &ActivityId&! Highest damage was &Number1&! Rewards have been sent to your Bag."
+    },
+    "2726": {
+      "id": 2726,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied Troop &CodeName1& &PlayerName1& Attacked Your Territory"
+    },
+    "129015": {
+      "id": 129015,
+      "titleName": "172",
+      "String": "Celia"
+    },
+    "122502": {
+      "id": 122502,
+      "titleName": "Canyon Conquest Entry Notice",
+      "String": "Celia",
+      "desc": "Your Alliance lacks participants for Canyon Conquest",
+      "title": "Canyon Conquest Entry Notice",
+      "desc2": "Your alliance is not qualified for the match"
+    },
+    "8726": {
+      "id": 8726,
+      "titleName": "36",
+      "String": "Celia"
+    },
+    "4900104": {
+      "id": 4900104,
+      "titleName": "Undead Siege Report Defeat (Alliance)",
+      "String": "Celia",
+      "desc": "Your Alliance withstood &Number1& waves of attacks on Lv.&Number& difficulty. Unfortunately, no rewards were earned this time. Keep up the effort!.",
+      "title": "Undead Siege Report Defeat (Alliance)",
+      "desc2": "Alliance Defense Battle Report"
+    },
+    "4900111": {
+      "id": 4900111,
+      "titleName": "Undead Siege Event Failed",
+      "String": "Celia",
+      "desc": "Since you relocated your sanctuary during the event, you can no longer participate in this event.",
+      "title": "Undead Siege Event Failed",
+      "desc2": "Undead Siege Event Failed"
+    },
+    "4900110": {
+      "id": 4900110,
+      "titleName": "Undead Siege Event Pre-registration Modified",
+      "String": "Celia",
+      "desc": "&PlayerName& updated their Undead Siege Event schedule. The event now launches at &TimeNumber1& local time. Don't miss out!",
+      "title": "Undead Siege Event Pre-registration Modified",
+      "desc2": "Alliance Admin changed an event time"
+    },
+    "12003": {
+      "id": 12003,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10605": {
+      "id": 10605,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "2102009": {
+      "id": 2102009,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "115002": {
+      "id": 115002,
+      "titleName": "[Alliance Expedition] Alliance Ranking Rewards",
+      "String": "Celia",
+      "title": "[Alliance Expedition] Alliance Ranking Rewards",
+      "desc": "Congrats! Your alliance ranks No.[c][db3737]&Number&[-][/c] in [c][db3737]Alliance Expedition[-][/c]! Here are your resource rewards!"
+    },
+    "3957": {
+      "id": 3957,
+      "titleName": "Troop Returned",
+      "String": "Celia",
+      "title": "Troop Returned",
+      "desc": "Doctor, your troop has been sent back by [c][db3737]&PlayerName1&[-][/c]"
+    },
+    "104204": {
+      "id": 104204,
+      "titleName": "161",
+      "String": "Celia"
+    },
+    "2102016": {
+      "id": 2102016,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Patrol defeated",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&MonsterId&"
+    },
+    "2747": {
+      "id": 2747,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][DB3737]Defeat[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2103106": {
+      "id": 2103106,
+      "titleName": "Supreme Duel expired fireworks recycling reward reissued",
+      "String": "Celia",
+      "title": "Supreme Duel expired fireworks recycling reward reissued",
+      "desc": "Your Supreme Fireworks have expired and been automatically reclaimed. Here is the reward reissued to you."
+    },
+    "2103104": {
+      "id": 2103104,
+      "titleName": "Supreme Duel unclaimed Participation Reward resent",
+      "String": "Celia",
+      "title": "Supreme Duel unclaimed Participation Reward resent",
+      "desc": "Supreme Duel has ended. The Participation Reward you didn't claim have been reissued."
+    },
+    "2103102": {
+      "id": 2103102,
+      "titleName": "Supreme Duel unclaimed Prediction Reward resent",
+      "String": "Celia",
+      "title": "Supreme Duel unclaimed Prediction Reward resent",
+      "desc": "Supreme Duel has ended. The Prediction Rewards you didn't claim have been reissued."
+    },
+    "100001": {
+      "id": 100001,
+      "titleName": "Your &GiftId& Reward is unclaimed",
+      "String": "Celia",
+      "title": "Your &GiftId& Reward is unclaimed",
+      "desc": "[c][db3737]&GiftId&[-][/c] has changed. You have [c][017600]&Number&[-][/c]d of unclaimed Rewards from your Weekly Pass purchase. Please collect them!"
+    },
+    "102509": {
+      "id": 102509,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "&CodeName1& &PlayerName1& attacked your &RongWarFortBaseId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "11205": {
+      "id": 11205,
+      "titleName": "&Giftcenterid& Event Ended",
+      "String": "Celia",
+      "title": "&Giftcenterid& Event Ended",
+      "desc": "The &GiftCenterId& event has ended. Your unused &ItemId& has been converted into [1m Speedup x10]"
+    },
+    "9999999": {
+      "id": 9999999,
+      "titleName": "Reward redeemed successfully",
+      "String": "Celia",
+      "desc": "You have exchanged the following rewards:",
+      "title": "Reward redeemed successfully",
+      "desc2": "You have exchanged the following rewards:"
+    },
+    "10631": {
+      "id": 10631,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "13406": {
+      "id": 13406,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward",
+      "desc": "Congrats! Your Kingdom secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! The reward has been sent to your bag."
+    },
+    "11302": {
+      "id": 11302,
+      "titleName": "78",
+      "String": "Celia"
+    },
+    "900004": {
+      "id": 900004,
+      "titleName": "[Alliance League] Overall Ranking",
+      "String": "Celia",
+      "title": "[Alliance League] Overall Ranking",
+      "desc": "The above Rankings is your personal alliance Rankings.\nThis round of [c][db3737][Alliance League][-][/c] has concluded. Here are the overall rankings for [c][017600]&GroupName&[-][/c]. Your alliance ranked No.[c][db3737]&Number&[-][/c] in this league, and you ranked No.[c][db3737]&Number2&[-][/c] within your alliance. Unfortunately, your Points fell below [c][db3737]&Number4&[-][/c], so you didn't qualify for ranking Rewards."
+    },
+    "220001": {
+      "id": 220001,
+      "titleName": "[Hunt Battle] is about to begin",
+      "String": "Celia",
+      "desc": "The [Hunt Battle] is set and will open at UTC &TimeNumber1&. Please schedule your challenge time accordingly!",
+      "title": "[Hunt Battle] is about to begin",
+      "desc2": "The Hunt Battle is about to begin"
+    },
+    "5507": {
+      "id": 5507,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&SeasonMonsterNpcBaseId&"
+    },
+    "3714": {
+      "id": 3714,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&SeasonCannibalNpcBaseId&"
+    },
+    "122507": {
+      "id": 122507,
+      "titleName": "Canyon Conquest Bye Round",
+      "String": "Celia",
+      "title": "Canyon Conquest Bye Round",
+      "desc": "Your Alliance received a bye this round and advances directly to victory"
+    },
+    "13806": {
+      "id": 13806,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward",
+      "desc": "Congrats! You ranked in the [c][e47514]&Number&[-][/c] division in [c][e47514]&ActivityId&[-][/c]! Rewards have been sent to your bag."
+    },
+    "3910": {
+      "id": 3910,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your &WonderBaseId&."
+    },
+    "122505": {
+      "id": 122505,
+      "titleName": "Canyon Conquest Settlement Reward",
+      "String": "Celia",
+      "title": "Canyon Conquest Settlement Reward",
+      "desc": "This Canyon Conquest has ended. Your Alliance placed No.&Number& in the group. Here are your settlement rewards"
+    },
+    "122504": {
+      "id": 122504,
+      "titleName": "Canyon Conquest Battle Reward",
+      "String": "Celia",
+      "desc": "In Canyon Conquest Round &Number4&, your Alliance vs {0} result: {1}. Below are your rewards for this round!",
+      "title": "Canyon Conquest Battle Reward",
+      "desc2": "Round &UnionFlagWarRoundId& result: &UnionFlagWarWinType&"
+    },
+    "13306": {
+      "id": 13306,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward",
+      "desc": "Congrats! Your alliance secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! The reward has been sent to your bag."
+    },
+    "13706": {
+      "id": 13706,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][fdf246]&Number&[-][/c] in [c][fdf246]&ActivityId&[-][/c]",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "8734": {
+      "id": 8734,
+      "titleName": "&GiftCenterId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&GiftCenterId& Reward Unclaimed",
+      "desc": "Unclaimed rewards in &GiftCenterId& have been sent to your bag!"
+    },
+    "122501": {
+      "id": 122501,
+      "titleName": "Canyon Conquest Entry Notice",
+      "String": "Celia",
+      "desc": "Your Alliance has joined Canyon Conquest. Prepare for battle!",
+      "title": "Canyon Conquest Entry Notice",
+      "desc2": "Your alliance is qualified for the match"
+    },
+    "10646": {
+      "id": 10646,
+      "titleName": "69",
+      "String": "Celia"
+    },
+    "4900113": {
+      "id": 4900113,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "[c][db3737]Wave &ZombieWave& &RallyId&[-][/c] Garrison Defense Failed"
+    },
+    "4900108": {
+      "id": 4900108,
+      "titleName": "Undead Siege Event Pre-registration",
+      "String": "Celia",
+      "desc": "&PlayerName& has scheduled an Undead Siege event, launching at &TimeNumber1& local time. Don't miss out!",
+      "title": "Undead Siege Event Pre-registration",
+      "desc2": "Alliance Admin scheduled an event"
+    },
+    "2102033": {
+      "id": 2102033,
+      "titleName": "Crystal Cluster Valley Patrol Scout Successful",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Patrol Scout Successful",
+      "desc": "Crystal Cluster Valley Patrol Scout Successful"
+    },
+    "3939": {
+      "id": 3939,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "4900105": {
+      "id": 4900105,
+      "titleName": "Defense Success Reward (Rabid Warden)",
+      "String": "Celia",
+      "desc": "You've successfully defended against the Rabid Warden's assault and earned the following rewards:",
+      "title": "Defense Success Reward (Rabid Warden)",
+      "desc2": "Defense successful, reward obtained"
+    },
+    "2720": {
+      "id": 2720,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s territory."
+    },
+    "13305": {
+      "id": 13305,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Sorry! Your alliance ranked No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! No rewards were earned"
+    },
+    "4900101": {
+      "id": 4900101,
+      "titleName": "Undead Siege Report (Personal)",
+      "String": "Celia",
+      "desc": "Congratulations! You withstood &Number1& waves of attacks on Lv.&Number& difficulty. Here are your bonus rewards:",
+      "title": "Undead Siege Report (Personal)",
+      "desc2": "Personal Defense Battle Report"
+    },
+    "150020": {
+      "id": 150020,
+      "titleName": "&Childactid& Reward",
+      "String": "Celia",
+      "title": "&Childactid& Reward",
+      "desc": "Congrats! You defeated Lv.[c][db3737]&Number1&[-][/c] Monsters in yesterday's [c][db3737]&ChildActId&[-][/c] event, securing No.[c][db3737]&Number&[-][/c] that day!"
+    },
+    "93001": {
+      "id": 93001,
+      "titleName": "&ArenaId& Arena daily rewards not claimed.",
+      "String": "Celia",
+      "desc": "The Arena match has ended today.\nHere are your unclaimed daily rewards for this match! &ArenaId&",
+      "title": "&ArenaId& Arena daily rewards not claimed.",
+      "desc2": "Today's Arena match concluded"
+    },
+    "3929": {
+      "id": 3929,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2102011": {
+      "id": 2102011,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "6131": {
+      "id": 6131,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "The rallied troop you joined attacked &MechCityId&."
+    },
+    "10638": {
+      "id": 10638,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "43001": {
+      "id": 43001,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc": "The current Pass has ended. Here are your unclaimed points rewards:"
+    },
+    "80001": {
+      "id": 80001,
+      "titleName": "&ActivityId& Daily Reward Reissue",
+      "String": "Celia",
+      "desc": "&ActivityId& event has ended, you have [c][db3737]&Number&[-][/c] days of unclaimed rewards in [c][db3737]&GiftId&[-][/c]. Below are your restored rewards. Please claim them.",
+      "title": "Daily &GiftId& Reward Reissue",
+      "desc2": "Here are your unclaimed daily &GiftId& rewards. Please check them"
+    },
+    "4900107": {
+      "id": 4900107,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "[c][db3737]Wave &ZombieWave& &RallyId&[-][/c]"
+    },
+    "2102030": {
+      "id": 2102030,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout Report",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Rich Lode Scout Report: Unoccupied",
+      "desc": "Crystal Cluster Valley Rich Lode Scout Report: Unoccupied"
+    },
+    "2102028": {
+      "id": 2102028,
+      "titleName": "Crystal Cluster Valley Rich Lode Plundered",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Rich Lode Plundered",
+      "desc": "Crystal Cluster Valley Rich Lode Plundered"
+    },
+    "2102027": {
+      "id": 2102027,
+      "titleName": "Crystal Cluster Valley Lode Plundered",
+      "String": "Celia",
+      "title": "Crystal Cluster Valley Lode Plundered",
+      "desc": "Crystal Cluster Valley Lode Plundered"
+    },
+    "2102025": {
+      "id": 2102025,
+      "titleName": "&ResBaseId& Gathering Report",
+      "String": "&ResBaseId& Gathering Report",
+      "title": "Resource Gathering Report",
+      "desc": "&RewardStr&"
+    },
+    "10632": {
+      "id": 10632,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "9901": {
+      "id": 9901,
+      "titleName": "Daily Donation Ranking Reward",
+      "String": "Celia",
+      "title": "Daily Donation Ranking Reward",
+      "desc": "Dear Doctor, here is your reward for ranking No.&Number& in yesterday's Alliance Donation Ranking."
+    },
+    "2102018": {
+      "id": 2102018,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName2& &PlayerName2&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "116023": {
+      "id": 116023,
+      "titleName": "&ActivityId& Event Ranking",
+      "String": "Celia",
+      "title": "&ActivityId& Event Ranking",
+      "desc": "Sorry! Your alliance did not make it to the top [c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! No rewards were earned."
+    },
+    "87005": {
+      "id": 87005,
+      "titleName": "&ChildActId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ChildActId& Ranking Reward not obtained",
+      "desc": "Unfortunately, you did not reach the top [c][db3737]&Number&[-][/c] in [c][db3737]&ChildActId&[-][/c], so no rewards were earned!"
+    },
+    "2102015": {
+      "id": 2102015,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Patrol Victory",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&MonsterId&"
+    },
+    "150006": {
+      "id": 150006,
+      "titleName": "Royal City Scramble Rewards",
+      "String": "Celia",
+      "title": "Royal City Scramble Rewards",
+      "desc": "Unclaimed rewards from Royal City Scramble have been sent to your bag!"
+    },
+    "3932": {
+      "id": 3932,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "2102013": {
+      "id": 2102013,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Normal Vein Attack Victory Report",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&MonsterId&"
+    },
+    "2102008": {
+      "id": 2102008,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout Report",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Ordinary Vein Scout Successful",
+      "title": "Crystal Cluster Valley Ordinary Vein Scout Successful",
+      "desc2": "Crystal Cluster Valley Ordinary Vein Scout Successful"
+    },
+    "2102007": {
+      "id": 2102007,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "2102006": {
+      "id": 2102006,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "102501": {
+      "id": 102501,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& &RongWarFortBaseId& Scout Report",
+      "String": "[u][c][db3737] K:&K& X:&X& Y:&Y& [-][/c][/u]\nCity Scout Report",
+      "desc": "Scout Successful",
+      "title": "Scout &CodeName& &PlayerName&'s &RongWarFortBaseId&",
+      "desc2": "Scout Successful"
+    },
+    "2102002": {
+      "id": 2102002,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout Report",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Scout Successful",
+      "title": "Crystal Cluster Valley Scout Successful",
+      "desc2": "Crystal Cluster Valley Scout Successful"
+    },
+    "140008": {
+      "id": 140008,
+      "titleName": "Kingdom War - Defeat",
+      "String": "Celia",
+      "desc": "In the Kingdom War between Kingdom &Number& and Kingdom &Number1&, we attacked with full force, yet the enemy's defense proved superior. We failed to capture the enemy Royal City.\nKeep strengthening your might and stand united. Victory will surely be ours in future battles!",
+      "title": "Kingdom War - Defeat",
+      "desc2": "Your Kingdom's assault failed."
+    },
+    "90006001": {
+      "id": 90006001,
+      "titleName": "[Star Grace] Unclaimed Rewards",
+      "String": "Celia",
+      "title": "[Star Grace] Unclaimed Rewards",
+      "desc": "Unclaimed rewards from [Star Grace] have been sent to your Bag!"
+    },
+    "220004": {
+      "id": 220004,
+      "titleName": "[Hunt Battle] Report",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&HuntWarMonsterNpcBaseId&"
+    },
+    "12009": {
+      "id": 12009,
+      "titleName": "101",
+      "String": "Celia"
+    },
+    "220003": {
+      "id": 220003,
+      "titleName": "Your [Hunt Battle] rewards are unclaimed",
+      "String": "Celia",
+      "title": "Your [Hunt Battle] rewards are unclaimed",
+      "desc": "Here are your unclaimed rewards from the [Hunt Battle]."
+    },
+    "220002": {
+      "id": 220002,
+      "titleName": "[Hunt Battle] has ended",
+      "String": "Celia",
+      "title": "[Hunt Battle] has ended",
+      "desc": "[Hunt Battle] event ended. You've slain &Number2& waves of Difficulty &Number1& monsters. Keep up the good work."
+    },
+    "140020": {
+      "id": 140020,
+      "titleName": "Era Reward",
+      "String": "Celia",
+      "title": "Era Reward",
+      "desc": "Esteemed Lord,\nTime flows ever onward, and the campaign of [c][118c11]&Number1&[-][/c] has reached its conclusion.\nReflecting on your journey, you have stood shoulder to shoulder with your Alliance Members, forging eternal bonds through the flames of battle and writing a glorious chapter.\nThrough collective effort, your alliance has shone brilliantly among the stars and claimed the Reward for the No.[c][118c11]&Number2&[-][/c] Alliance.\nYour outstanding performance deserves to be remembered. An exclusive [c][118c11]&Number3&[-][/c] awaits you in your mailbox.\nMay glory accompany you always!"
+    },
+    "115003": {
+      "id": 115003,
+      "titleName": "[Alliance Expedition] Gift",
+      "String": "Celia",
+      "title": "[Alliance Expedition] Gift",
+      "desc": "Exciting news! [c][52e545]&CodeName&&PlayerName&[-][/c] from your alliance has ranked No.&Number& in the [c][db3737]Alliance Expedition[-][/c] event. All alliance members will receive generous rewards. Hooray!"
+    },
+    "11105": {
+      "id": 11105,
+      "titleName": "The alliance caravan of &CodeName& &PlayerName& has arrived!",
+      "String": "Celia",
+      "desc": "Dear Doctor:\n[&CodeName&] &PlayerName& has purchased an alliance caravan for us, which will depart in &TimeNumber1&. Members, please onboard promptly for generous rewards!",
+      "title": "The alliance caravan of &CodeName& &PlayerName& has arrived!",
+      "desc2": "&CodeName& &PlayerName& purchased the alliance caravan!"
+    },
+    "3916": {
+      "id": 3916,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated your rally against [c][db3737]&WonderBaseId&[-][/c]"
+    },
+    "11104": {
+      "id": 11104,
+      "titleName": "Alliance Caravan VIP Rewards",
+      "String": "Celia",
+      "desc": "&CodeName&&PlayerName&'s caravan has arrived at its destination. Please claim your rewards.",
+      "title": "Alliance Caravan VIP Rewards",
+      "desc2": "Alliance Caravan VIP Rewards"
+    },
+    "300000020": {
+      "id": 300000020,
+      "titleName": "Unclaimed 1st Top Up Rewards for Day &Number&",
+      "String": "Celia",
+      "desc": "Here are the rewards given on Day &Number& after you purchased the 1st Top Up Pack.",
+      "title": "1st Top Up Reward Reissue",
+      "desc2": "Here are your rewards for purchasing the 1st Top Up Pack."
+    },
+    "11106": {
+      "id": 11106,
+      "titleName": "Monster Report",
+      "String": "Celia",
+      "desc": "Victory",
+      "title": "Battle Damage Details",
+      "desc2": "Demon King Blight Battle Report"
+    },
+    "210002": {
+      "id": 210002,
+      "titleName": "World Ranking Reward",
+      "String": "Celia",
+      "title": "Dawn Breakout - World Ranking Rewards",
+      "desc": "Congrats! You have achieved No.&Number& in World Ranking in &ActivityId&"
+    },
+    "2102014": {
+      "id": 2102014,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Normal Vein Attack Defeat Report",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&MonsterId&"
+    },
+    "150004": {
+      "id": 150004,
+      "titleName": "Blight Siege Rewards",
+      "String": "Celia",
+      "title": "Blight Siege Rewards",
+      "desc": "Unclaimed rewards from Zombie Siege have been sent to your bag!"
+    },
+    "93003": {
+      "id": 93003,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Defeat",
+      "desc2": "Rallied troop &CannibalNpcBaseId& attacked &CodeName&&PlayerName&."
+    },
+    "39581": {
+      "id": 39581,
+      "titleName": "130",
+      "String": "Celia"
+    },
+    "2807": {
+      "id": 2807,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy Scouted Your Territory",
+      "title": "Enemy Scouted Your Territory",
+      "desc2": "&CodeName& &PlayerName& Scouted Your Territory"
+    },
+    "10613": {
+      "id": 10613,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "&CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "102569": {
+      "id": 102569,
+      "titleName": "[Elixir Scramble] Alliance not registered!",
+      "String": "Celia",
+      "title": "[Elixir Scramble] Alliance not registered!",
+      "desc": "Dear Doctor, [Elixir Scramble] registration is closing soon, but your Alliance hasn't registered yet. To avoid missing this Event and losing Rewards, please contact your Alliance administrator to complete the registration."
+    },
+    "102568": {
+      "id": 102568,
+      "titleName": "[Elixir Scramble] Personal Points Reward!",
+      "title": "[Elixir Scramble] Personal Points Reward!",
+      "desc": "You fought valiantly in [Elixir Scramble], earning &Score& personal points, a glory uniquely yours!"
+    },
+    "8707": {
+      "id": 8707,
+      "titleName": "&Childactid& Reward",
+      "String": "Celia",
+      "title": "&Childactid& Reward",
+      "desc": "Congratulations! Your alliance has earned [c][db3737]&Number1&[-][/c] Points in [c][db3737]&ChildActId&[-][/c], securing No.[c][db3737]&Number&[-][/c] place! Rewards have been sent to your bag"
+    },
+    "8736": {
+      "id": 8736,
+      "titleName": "Notice Regarding the Adjustment of the 2nd Research Queue and Resource Refund",
+      "String": "Celia",
+      "title": "Notice Regarding the Adjustment of the 2nd Research Queue and Resource Refund",
+      "desc": "Dear Doctor,\n\nDue to city planning and experience optimization, we have now removed the Research Lab 2. Your second Research Queue can still be used in the Lab, and all research queues will share the optimal speedup buff.\nWe apologize for any inconvenience caused and have returned the resources and speedup items used for upgrading Research Lab 2. An additional 24-hour building speedup is sent to you as compensation. In the future, we will develop new functional buildings for the vacant site. Please stay tuned for official announcements.\n\nIf you have any questions, feel free to contact us via [Avatar→Settings→Help]\n\nHave a wonderful day.\nLast Asylum Team"
+    },
+    "102565": {
+      "id": 102565,
+      "titleName": "[Elixir Scramble] Victory - Participation Reward!",
+      "title": "[Elixir Scramble] Victory - Participation Reward!",
+      "desc": "You have brought a great victory to the alliance. Please accept the rewards and glory of the victors!"
+    },
+    "102563": {
+      "id": 102563,
+      "titleName": "[Elixir Scramble] Victory - Alliance Reward",
+      "title": "[Elixir Scramble] Victory - Alliance Reward",
+      "desc": "Your alliance members fought valiantly in Elixir Scramble, securing victory!\nAll alliance members receive the following rewards! Long live the Heroes!"
+    },
+    "102562": {
+      "id": 102562,
+      "titleName": "[Elixir Scramble] Operation Results",
+      "title": "[Elixir Scramble] Operation Results",
+      "desc": "[Elixir Scramble] concluded with intense combat. Many doctors shone brightly; thanks to their efforts and dedication! Here are the detailed results of this battle:"
+    },
+    "90007001": {
+      "id": 90007001,
+      "titleName": "Your Trade Agreement rewards are unclaimed",
+      "String": "Celia",
+      "title": "Your Trade Agreement rewards are unclaimed",
+      "desc": "Here is your unclaimed Trade Agreement, please check!"
+    },
+    "130002": {
+      "id": 130002,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s Troop",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "2802": {
+      "id": 2802,
+      "titleName": "Recon Report",
+      "String": "[u][c][db3737]S:&K& X:&X& Y:&Y& [-][/c][/u]\nEnemy Scout Report",
+      "desc": "Enemy Scouted Your Troop",
+      "title": "Enemy Scouted Your Troop",
+      "desc2": "[c][db3737]&CodeName& &PlayerName&[-][/c] scouted your troop"
+    },
+    "130006": {
+      "id": 130006,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "130005": {
+      "id": 130005,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "6316": {
+      "id": 6316,
+      "titleName": "Attack Victory",
+      "String": "Celia",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Attack Victory",
+      "desc2": "You plundered &CodeName& &PlayerName&'s &EscortQuality& caravan."
+    },
+    "3946": {
+      "id": 3946,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "301": {
+      "id": 301,
+      "titleName": "Avatar Approved",
+      "String": "Celia",
+      "title": "Avatar Approved",
+      "desc": "Congratulations! Your custom avatar has passed the review."
+    },
+    "6203": {
+      "id": 6203,
+      "titleName": "[Alliance Duel] Overall Ranking",
+      "String": "Celia",
+      "title": "[Alliance Duel] Overall Ranking",
+      "desc": "This round of [Alliance Duel] has ended, and this is the final result of this week's overall ranking. You are ranked No.&Number&. Here are your ranking rewards!"
+    },
+    "8732": {
+      "id": 8732,
+      "titleName": "&Activityid& Pre-Registration Cancelled",
+      "String": "Celia",
+      "title": "&Activityid& Pre-Registration Cancelled",
+      "desc": "&PlayerName1& has canceled the scheduled start of &ActivityId&."
+    },
+    "129012": {
+      "id": 129012,
+      "titleName": "169",
+      "String": "Celia"
+    },
+    "129011": {
+      "id": 129011,
+      "titleName": "168",
+      "String": "Celia"
+    },
+    "8730": {
+      "id": 8730,
+      "titleName": "&ActivityId& Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Reward not obtained",
+      "desc": "Congratulations to the following doctors for ranking in the top 10 in this event.\nYou did not reach the top &Number& in &ActivityId&, so no rewards were earned."
+    },
+    "1508": {
+      "id": 1508,
+      "titleName": "Leader Changed",
+      "String": "Celia",
+      "title": "Leader Changed",
+      "desc": "Doctor, due to [c][db3737]&PlayerName1&[-][/c] being offline for a long time, [c][db3737]&PlayerName2&[-][/c] has replaced them as the leader!"
+    },
+    "2730": {
+      "id": 2730,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your troop reinforcing &CodeName2& &PlayerName2&'s territory."
+    },
+    "11203": {
+      "id": 11203,
+      "titleName": "&ActivityId& Ending Soon",
+      "String": "Celia",
+      "title": "&ActivityId& Ending Soon",
+      "desc": "Dear Doctor, the &ActivityId& event will close in 24 hours, and you can still claim great rewards before it ends! Don't miss out!\n\n[c][fb3a3f]Note: After the event ends, any unused Star-Moon Sigil will be converted into [1m Speedup*10], so please use them in time[-][/c]"
+    },
+    "104203": {
+      "id": 104203,
+      "titleName": "160",
+      "String": "Celia"
+    },
+    "104201": {
+      "id": 104201,
+      "titleName": "158",
+      "String": "Celia"
+    },
+    "13206": {
+      "id": 13206,
+      "titleName": "&ActivityId& Ranking Reward",
+      "title": "&ActivityId& Ranking Reward",
+      "String": "Celia"
+    },
+    "102503": {
+      "id": 102503,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "You attacked &CodeName2& &PlayerName2&'s &RongWarFortBaseId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "101615001": {
+      "id": 101615001,
+      "titleName": "Arthur's Gift Rewards Reissued",
+      "String": "Celia",
+      "desc": "Arthur's Gift has ended. The rewards you didn't claim have been reissued. Please claim them below.",
+      "title": "Arthur's Gift Rewards Reissued",
+      "desc2": "Please find below the unclaimed rewards from Arthur's Gift."
+    },
+    "4026": {
+      "id": 4026,
+      "titleName": "Title Revocation",
+      "String": "Celia",
+      "title": "Title Revocation",
+      "desc": "Your title has been revoked by the Queen."
+    },
+    "102504": {
+      "id": 102504,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You attacked &CodeName2& &PlayerName2&'s &RongWarFortBaseId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "2102003": {
+      "id": 2102003,
+      "titleName": "S:&K& X:&X& Y:&Y&\nScout Report",
+      "String": "Celia",
+      "desc": "Crystal Cluster Valley Erupting Vein Scout Successful",
+      "title": "Crystal Cluster Valley Erupting Vein Scout Successful",
+      "desc2": "Crystal Cluster Valley Erupting Vein Scout Successful"
+    },
+    "150003": {
+      "id": 150003,
+      "titleName": "Your Raven's Gratitude reward is unclaimed",
+      "String": "Celia",
+      "title": "Your Raven's Gratitude reward is unclaimed",
+      "desc": "Unclaimed rewards from Raven's Gratitude have been sent to your Bag!"
+    },
+    "93002": {
+      "id": 93002,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][79deff] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Victory",
+      "desc2": "Rallied troop &CannibalNpcBaseId& attacked &CodeName&&PlayerName&."
+    },
+    "92002": {
+      "id": 92002,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "desc": "You did not reach the top &Number2& in the [c][db3737]&ActivityId&[-][/c] event, so no rewards were earned!",
+      "desc2": "You did not reach the top &Number2& in the [c][db3737]&ActivityId&[-][/c] event, so no rewards were earned!"
+    },
+    "92001": {
+      "id": 92001,
+      "titleName": "&Activityid& Reward",
+      "String": "Celia",
+      "desc": "Congrats! You secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! The reward has been sent to your Bag",
+      "desc2": "Congrats! You've secured No.[c][db3737]&Number&[-][/c] in the [c][db3737]&ActivityId&[-][/c]!"
+    },
+    "50305": {
+      "id": 50305,
+      "titleName": "System Notice",
+      "String": "System Notice",
+      "title": "Delivery Notification",
+      "desc": "You have purchased [c][6bff23][&Number2&][-][/c]. Please proceed to the [c][6bff23]Welfare Center[-][/c] to claim your rewards!"
+    },
+    "43002": {
+      "id": 43002,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc": "The current Pass has ended. Here are your unclaimed chest rewards:"
+    },
+    "150002": {
+      "id": 150002,
+      "titleName": "Leave Alliance",
+      "String": "Celia",
+      "title": "Leave Alliance",
+      "desc": "You have left the current alliance!"
+    },
+    "13405": {
+      "id": 13405,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Your kingdom did not make it to the top [c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c], so no rewards were earned."
+    },
+    "39551": {
+      "id": 39551,
+      "titleName": "129",
+      "String": "Celia"
+    },
+    "13716": {
+      "id": 13716,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][fdf246]&Number&[-][/c] in [c][fdf246]&ActivityId&[-][/c]",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "13711": {
+      "id": 13711,
+      "titleName": "&Activityid& Not Ranked",
+      "String": "Celia",
+      "title": "&Activityid& Not Ranked",
+      "desc": "You did not make it to the global leaderboard in the &ActivityId& event, so no ranking rewards were earned!"
+    },
+    "2702": {
+      "id": 2702,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Defeated by [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "13606": {
+      "id": 13606,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward",
+      "desc": "Congrats! You ranked in the [c][e47514]&Number&[-][/c] division in [c][e47514]&ActivityId&[-][/c]! Rewards have been sent to your bag."
+    },
+    "13601": {
+      "id": 13601,
+      "titleName": "&Activityid& Not Ranked",
+      "String": "Celia",
+      "title": "&Activityid& Not Ranked",
+      "desc": "You did not make it to the global leaderboard in the &ActivityId& event, so no ranking rewards were earned!"
+    },
+    "10637": {
+      "id": 10637,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "6113": {
+      "id": 6113,
+      "titleName": "Monster Report",
+      "String": "Demon King Blight Battle Report",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Battle Damage Details",
+      "desc2": "Battle Damage Details"
+    },
+    "13502": {
+      "id": 13502,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Unfortunately, you did not complete all personal stage goals and cannot receive ranking rewards."
+    },
+    "6303": {
+      "id": 6303,
+      "titleName": "Defense Succeeded",
+      "String": "Celia",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "Defense Succeeded",
+      "desc2": "&CodeName& &PlayerName& failed to attack your &EscortQuality& caravan."
+    },
+    "2712": {
+      "id": 2712,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2&'s Troop",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "1517": {
+      "id": 1517,
+      "titleName": "Official Change",
+      "String": "Celia",
+      "title": "Official Change",
+      "desc": "Doctor, there has been an official change in your alliance: &PlayerName& is now the new &UnionJob&"
+    },
+    "4027": {
+      "id": 4027,
+      "titleName": "S:&K& X:&X& Y:&Y&\nCity Scout Report",
+      "String": "S:&K& X:&X& Y:&Y&\nCity Scout Report",
+      "title": "Scout Report",
+      "desc": "Recon successful!\nNo garrison inside the city!"
+    },
+    "3712": {
+      "id": 3712,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CannibalNpcBaseId&"
+    },
+    "13401": {
+      "id": 13401,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "desc": "Congrats! Your Kingdom secured No.[c][db3737]&Number&[-][/c] in [c][db3737]&ActivityId&[-][/c]! Unfortunately, your points are less than [c][db3737]&Number1&[-][/c], so no ranking rewards were earned"
+    },
+    "102511": {
+      "id": 102511,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked your reinforcements at &RongWarFortBaseId& occupied by &CodeName2& &PlayerName2&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "13103": {
+      "id": 13103,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "13102": {
+      "id": 13102,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "13101": {
+      "id": 13101,
+      "titleName": "&ActivityId& Ranking Reward not obtained",
+      "title": "&ActivityId& Ranking Reward not obtained",
+      "String": "Celia"
+    },
+    "4009": {
+      "id": 4009,
+      "titleName": "Reward Notification",
+      "desc": "Congratulations on becoming the new King, please accept your gift!",
+      "String": "Celia"
+    },
+    "12010": {
+      "id": 12010,
+      "titleName": "102",
+      "String": "Celia"
+    },
+    "12007": {
+      "id": 12007,
+      "titleName": "99",
+      "String": "Celia"
+    },
+    "10640": {
+      "id": 10640,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "11901": {
+      "id": 11901,
+      "titleName": "87",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "11801": {
+      "id": 11801,
+      "titleName": "82",
+      "String": "Celia"
+    },
+    "10627": {
+      "id": 10627,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "900006": {
+      "id": 900006,
+      "titleName": "[Alliance League] Defeat",
+      "String": "Celia",
+      "title": "[Alliance League] Defeat",
+      "desc": "Your Alliance [c][017600]&GroupName&[-][/c] didn't secure this week's [c][db3737][Alliance League][-][/c] victory. These are your rewards. Please check them!"
+    },
+    "2746": {
+      "id": 2746,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "desc2": "[c][0C910C]Victory[-][/c]",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "11204": {
+      "id": 11204,
+      "titleName": "&Activityid& Event Ended",
+      "String": "Celia",
+      "title": "&Activityid& Event Ended",
+      "desc": "The &ActivityId& event has ended. Your unused &ItemId& has been converted into [1m Speedup x10]"
+    },
+    "6309": {
+      "id": 6309,
+      "titleName": "Alliance Caravan has been reclaimed.",
+      "String": "Celia",
+      "desc": "No Alliance Caravan was dispatched yesterday, and it has been automatically reset today. R4/R5 members, please remember to arrange the caravans daily to avoid missing out on generous rewards!",
+      "title": "Alliance Caravan has been reclaimed.",
+      "desc2": "Alliance Caravan has been reclaimed."
+    },
+    "129002": {
+      "id": 129002,
+      "titleName": "164",
+      "String": "Celia"
+    },
+    "11101": {
+      "id": 11101,
+      "titleName": "73",
+      "String": "&ResBaseId& Gathering Report"
+    },
+    "10650": {
+      "id": 10650,
+      "titleName": "71",
+      "String": "Celia"
+    },
+    "10645": {
+      "id": 10645,
+      "titleName": "68",
+      "String": "Celia"
+    },
+    "10644": {
+      "id": 10644,
+      "titleName": "67",
+      "String": "Celia"
+    },
+    "10643": {
+      "id": 10643,
+      "titleName": "66",
+      "String": "Celia"
+    },
+    "10641": {
+      "id": 10641,
+      "titleName": "64",
+      "String": "Celia"
+    },
+    "1516": {
+      "id": 1516,
+      "titleName": "Rally Terminated",
+      "String": "Celia",
+      "title": "Rally Terminated",
+      "desc": "The alliance's [c][db3737]&UnionJob&[-][/c] has terminated [c][db3737]&PlayerName1&[-][/c]'s rally targeting [c][db3737]&CodeName& &PlayerName2&[-][/c]"
+    },
+    "12005": {
+      "id": 12005,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8731": {
+      "id": 8731,
+      "titleName": "&Activityid& Pre-Registration Open",
+      "String": "Celia",
+      "title": "&Activityid& Pre-Registration Open",
+      "desc": "&PlayerName1& has scheduled &ActivityId& to start at UTC&TimeNumber&. Please prepare in advance."
+    },
+    "900007": {
+      "id": 900007,
+      "titleName": "[Alliance League] Daily Ranking",
+      "String": "Celia",
+      "title": "[Alliance League] Daily Ranking",
+      "desc": "Yesterday's [c][db3737][Alliance League][-][/c] Phase has concluded, and [c][017600]&GroupName&[-][/c]'s final rankings have been released. Unfortunately, you didn't make the list—keep pushing!"
+    },
+    "10624": {
+      "id": 10624,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8213": {
+      "id": 8213,
+      "titleName": "30",
+      "String": "Celia"
+    },
+    "6127": {
+      "id": 6127,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "You attacked the garrison troop of &MechCityId&."
+    },
+    "3930": {
+      "id": 3930,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "3928": {
+      "id": 3928,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10617": {
+      "id": 10617,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "6018": {
+      "id": 6018,
+      "titleName": "Participation Rewards",
+      "String": "Celia",
+      "title": "Thief Hunt Participation Rewards",
+      "desc": "The Thief Hunt event has ended. Thank you for your contribution to the event, repelling and eliminating the thieves. Please accept this participation reward."
+    },
+    "10608": {
+      "id": 10608,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "10604": {
+      "id": 10604,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "1507": {
+      "id": 1507,
+      "titleName": "Rally Canceled",
+      "String": "Celia",
+      "title": "Rally Canceled",
+      "desc": "Doctor, the rally you joined has been canceled, and your troop has returned to the territory."
+    },
+    "3913": {
+      "id": 3913,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your troop reinforcing &WonderBaseId& occupied by &CodeName2& &PlayerName2&."
+    },
+    "2102019": {
+      "id": 2102019,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "Celia",
+      "desc": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Defeated [c][DB3737]&CodeName1& &PlayerName1&[-][/c]; Soldiers killed: [c][db3737]&Number&[-][/c]"
+    },
+    "122503": {
+      "id": 122503,
+      "titleName": "Canyon Conquest Matchmaking",
+      "String": "Celia",
+      "title": "Canyon Conquest Matchmaking",
+      "desc": "Canyon Conquest matchmaking complete. Your Alliance schedule:"
+    },
+    "140004": {
+      "id": 140004,
+      "titleName": "&ActivityId& Reward Unclaimed",
+      "String": "Celia",
+      "desc": "Here are your unclaimed rewards from &ActivityId&!",
+      "title": "&ActivityId& Reward Unclaimed",
+      "desc2": "&ActivityId& Reward Unclaimed"
+    },
+    "10635": {
+      "id": 10635,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "8728": {
+      "id": 8728,
+      "titleName": "38",
+      "String": "Celia"
+    },
+    "8720": {
+      "id": 8720,
+      "titleName": "&Activityid& Failed",
+      "String": "Celia",
+      "title": "&Activityid& Failed",
+      "desc": "Visit to &TargetName& failed: target disappeared before troop arrival! Expedition costs have been refunded."
+    },
+    "8301": {
+      "id": 8301,
+      "titleName": "&Activityid& Reward",
+      "String": "Celia",
+      "title": "&Activityid& Reward",
+      "desc": "Congratulations! You used &Number& &ItemId& in &ActivityId& and earned &Score& points! Received the following rewards:"
+    },
+    "102566": {
+      "id": 102566,
+      "titleName": "[Elixir Scramble] Participation Reward!",
+      "title": "[Elixir Scramble] Participation Reward!",
+      "desc": "Please accept the rewards and respect due to the warriors!"
+    },
+    "8217": {
+      "id": 8217,
+      "titleName": "Arena of Fate",
+      "String": "Celia",
+      "title": "Arena of Fate",
+      "desc": "Congrats to alliance member &PlayerName& for achieving No.&Number& in the &ArenaRankGroup& Arena of Fate. All alliance members will receive rewards."
+    },
+    "10620": {
+      "id": 10620,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "title": "&CodeName1& &PlayerName1& Attacked You at &FortId&",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "7100": {
+      "id": 7100,
+      "titleName": "[VIP Daily Reward] Compensation Reward",
+      "String": "Celia",
+      "title": "VIP Daily Rewards Reissued",
+      "desc": "Congrats on gaining a VIP level. Here are your missed daily VIP rewards."
+    },
+    "3906": {
+      "id": 3906,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s &WonderBaseId&."
+    },
+    "7901": {
+      "id": 7901,
+      "titleName": "[Cheese Trap 2] Personal Reward",
+      "String": "Celia",
+      "desc": "You dealt [c][db3737]&Number&[-][/c] damage in the Cheese Trap II, completing the requirements for Phase [c][db3737]&Number1&[-][/c] and earning the following rewards:",
+      "title": "[Cheese Trap 2] Personal Reward",
+      "desc2": "[c][0C910C]Victory[-][/c]"
+    },
+    "7005": {
+      "id": 7005,
+      "titleName": "[Cheese Trap 1] Opening Soon",
+      "String": "Celia",
+      "desc": "The Cheese Trap 1 is set and will open at UTC &TimeNumber1&. Please schedule your challenge time accordingly!",
+      "title": "[Cheese Trap 1] Opening Soon",
+      "desc2": "Cheese Trap1 set"
+    },
+    "7004": {
+      "id": 7004,
+      "titleName": "[Cheese Trap 1] Damage Mail",
+      "String": "Celia",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Challenge Completed",
+      "desc2": "Battle Damage Details"
+    },
+    "6310": {
+      "id": 6310,
+      "titleName": "[The World Through the Falcon's Eyes]",
+      "String": "Celia",
+      "title": "[The World Through the Falcon's Eyes]",
+      "desc": "Under your leadership, the town is thriving. To develop your territory, you'll need not only full control over internal affairs, but also keen insight into the outside world!\nBuild the [c][db3737]Falcon Tower[-][/c] to expand your vision across the land, gathering valuable intel and resources from afar. Through the Falcon Tower, you can also obtain [c][db3737]manpower and materials[-][/c], and even uncover [c][db3737]rare treasures[-][/c].\nThe eyes of the falcon are your eyes. Now, explore the world!"
+    },
+    "6308": {
+      "id": 6308,
+      "titleName": "Alliance Caravan Rewards",
+      "String": "Celia",
+      "desc": "Coachman &CodeName&&Leader&'s Alliance Caravan has reached its destination. Please claim your rewards:",
+      "title": "Alliance Caravan Rewards",
+      "desc2": "The caravan has reached its destination. Please check the cargo records."
+    },
+    "6319": {
+      "id": 6319,
+      "titleName": "Defense Failed",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Defense Failed",
+      "desc2": "Your &EscortQuality& caravan was plundered by &CodeName& &PlayerName&."
+    },
+    "6304": {
+      "id": 6304,
+      "titleName": "Defense Failed",
+      "String": "Celia",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Defense Failed",
+      "desc2": "Your &EscortQuality& caravan was plundered by &CodeName& &PlayerName&."
+    },
+    "6210": {
+      "id": 6210,
+      "titleName": "Thief Hunt",
+      "String": "Celia",
+      "title": "Thief Hunt",
+      "desc": "The &CannibalNpcBaseId& you discovered was defeated by &CodeName& &PlayerName&. Thank you for your contribution to defending the city. Here is your reward for providing intel on &CannibalNpcBaseId&."
+    },
+    "2902": {
+      "id": 2902,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "[c][db3737]&CodeName& &PlayerName&[-][/c] attacked your troop"
+    },
+    "6204": {
+      "id": 6204,
+      "titleName": "[Alliance Duel] Victory!",
+      "String": "Celia",
+      "title": "[Alliance Duel] Victory!",
+      "desc": "Your alliance has won this week's [Alliance Duel]! Here are your rewards!"
+    },
+    "6124": {
+      "id": 6124,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Your troop reinforcing &MechCityId& was attacked by &CodeName1& &PlayerName1&."
+    },
+    "13506": {
+      "id": 13506,
+      "titleName": "&ActivityId& Ranking Reward",
+      "String": "Celia",
+      "desc": "Congrats! You've secured No.[c][fdf246]&Number&[-][/c] in [c][fdf246]&ActivityId&[-][/c]",
+      "title": "&ActivityId& Ranking Reward",
+      "desc2": "Congrats! You have achieved No.&Number& in &ActivityId&."
+    },
+    "6112": {
+      "id": 6112,
+      "titleName": "Battle Cancelled",
+      "String": "Celia",
+      "desc": "Your marching troop to the city: [&MechCityId&] [url=pos][c][118c11]X:&X& Y:&Y&[-][/c] [-][/url] did not engage any enemy. The city is now under protection, and your troop is returning.",
+      "title": "Battle Cancelled",
+      "desc2": "Troop has returned to the territory."
+    },
+    "10612": {
+      "id": 10612,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied Troop &CodeName1& &PlayerName1& Attacked Your Troop Reinforcing &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "6011": {
+      "id": 6011,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "desc": "&PlayerName& summoned [c][db3737]&CannibalNpcBaseId&[-][/c]. Go challenge!",
+      "title": "Trial of the Plague Boss Summoned",
+      "desc2": "&PlayerName& summoned [c][db3737]&CannibalNpcBaseId&[-][/c]. Go challenge!"
+    },
+    "6008": {
+      "id": 6008,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Monster Vanished",
+      "desc": "The alliance monster you attacked has vanished! Your troop has returned."
+    },
+    "3912": {
+      "id": 3912,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your troop reinforcing &WonderBaseId& occupied by &CodeName2& &PlayerName2&."
+    },
+    "6006": {
+      "id": 6006,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Monster Vanished",
+      "desc": "The monster you attacked has disappeared! Your troop has returned."
+    },
+    "6001": {
+      "id": 6001,
+      "titleName": "Trial of the Plague",
+      "String": "Celia",
+      "title": "Trial of the Plague Personal Challenge Rewards",
+      "desc": "During the event, you defeated the [c][db3737]&CannibalNpcBaseId&[-][/c] on &Number&, and received the following rewards:"
+    },
+    "102506": {
+      "id": 102506,
+      "titleName": "Elixir Scramble X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "Rallied troop &CodeName1& &PlayerName1& attacked &CodeName2& &PlayerName2&'s &RongWarFortBaseId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "1518": {
+      "id": 1518,
+      "titleName": "Voting Result Announcement",
+      "title": "Voting Result Announcement",
+      "String": "Alliance Message"
+    },
+    "4017": {
+      "id": 4017,
+      "titleName": "Official Removed",
+      "String": "Celia",
+      "title": "Official Removed",
+      "desc": "Your official position has been temporarily removed due to the start of &ActivityId&"
+    },
+    "12011": {
+      "id": 12011,
+      "titleName": "103",
+      "String": "Celia"
+    },
+    "130004": {
+      "id": 130004,
+      "titleName": "First Time Joining Alliance",
+      "String": "Celia",
+      "title": "First Time Joining Alliance",
+      "desc": "Dear Doctor,\nCongratulations on joining an alliance! From this moment forward, you no longer stand alone. To help you settle in and make the most of your alliance experience, here are a few helpful tips:\n1. Donate to Alliance Technology daily. Alliance Technology is the backbone of alliance growth. Your contributions strengthen the alliance and earn you valuable Contribution Rewards in return.\n2. Take part in alliance events. Alliance events offer rich rewards to boost your strength, and they're also a great way to fight alongside your teammates and build lasting bonds.\n3. Relocate to the Alliance Assembly Point. The world is full of dangers. Standing shoulder to shoulder with your alliance members creates a powerful and unbreakable frontline.\n4. Speak up in the Alliance Chat. Communication brings the alliance together. Whether you're sharing stories or asking for help, every message helps strengthen our connection.\n5. Spend your Alliance Coins wisely. You earn Alliance Coins through donations and events. Use them to exchange for valuable items and accelerate your progress.\nWe wish you an exciting and rewarding journey with your alliance!"
+    },
+    "3945": {
+      "id": 3945,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle"
+    },
+    "10618": {
+      "id": 10618,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "You Attacked &CodeName2& &PlayerName2& at &FortId&",
+      "desc2": "[c][DB3737]Defeat[-][/c]"
+    },
+    "3909": {
+      "id": 3909,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your &WonderBaseId&."
+    },
+    "9902": {
+      "id": 9902,
+      "titleName": "Weekly Donation Ranking Reward",
+      "String": "Celia",
+      "title": "Weekly Donation Ranking Reward",
+      "desc": "Congratulations on earning your Weekly Donation Ranking Reward!\nYou earned over 3,000 Contribution and placed No.[c][db3737]&Number&[-][/c] in this week's donation rankings. Please claim your reward!"
+    },
+    "3914": {
+      "id": 3914,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][DB3737]Defeat[-][/c]",
+      "title": "[c][DB3737]Defeat[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your troop reinforcing &WonderBaseId& occupied by &CodeName2& &PlayerName2&."
+    },
+    "7902": {
+      "id": 7902,
+      "titleName": "[Cheese Trap 2] Damage Mail",
+      "String": "Celia",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "Challenge Completed",
+      "desc2": "Battle Damage Details"
+    },
+    "3901": {
+      "id": 3901,
+      "titleName": "S:&K& X:&X& Y:&Y&\n&WonderBaseId& Scout Report",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u]\n&WonderBaseId& Scout Report",
+      "desc": "Scout Successful",
+      "title": "Scout Successful",
+      "desc2": "Scout &CodeName& &PlayerName&'s &WonderBaseId&."
+    },
+    "2732": {
+      "id": 2732,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "Attack failed: the opponent activated a defense shield.",
+      "title": "Attack &CodeName2& &PlayerName2&",
+      "desc2": "The opponent activated a defense shield."
+    },
+    "2729": {
+      "id": 2729,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][0C910C]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "Rallied troop &CodeName1& &PlayerName1& attacked your troop reinforcing &CodeName2& &PlayerName2&'s territory."
+    },
+    "2703": {
+      "id": 2703,
+      "titleName": "S:&K& X:&X& Y:&Y& Battle",
+      "String": "[u][c][db3737] S:&K& X:&X& Y:&Y& [-][/c][/u] Battle",
+      "desc": "[c][db3737]Victory[-][/c]",
+      "title": "[c][0C910C]Victory[-][/c]",
+      "desc2": "&CodeName1& &PlayerName1& attacked your troop reinforcing &CodeName2& &PlayerName2&"
+    }
+  },
+  "len": 597,
+  "key": "id",
+  "source_format": "locale rows"
+}

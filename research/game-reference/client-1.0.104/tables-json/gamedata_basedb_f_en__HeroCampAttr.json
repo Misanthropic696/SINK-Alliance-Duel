@@ -1,0 +1,32 @@
+{
+  "data": {
+    "3": {
+      "desc": "Hero HP, ATK, and DEF increase by 15% in combat.",
+      "id": 3,
+      "title": "Deploys 4 heroes from the same faction."
+    },
+    "4": {
+      "desc": "Hero HP, ATK, and DEF increase by 20% in combat.",
+      "id": 4,
+      "title": "Deploys 5 heroes from the same faction."
+    },
+    "1": {
+      "desc": "Hero HP, ATK, and DEF increase by 5% in combat.",
+      "id": 1,
+      "title": "Deploys 3 heroes from the same faction."
+    },
+    "2": {
+      "desc": "Hero HP, ATK, and DEF increase by 10% in combat.",
+      "id": 2,
+      "title": "Deploys 3 heroes from the same faction and 2 from another faction."
+    },
+    "0": {
+      "desc": "No faction effects activated.",
+      "id": 0,
+      "title": "Faction activation requirements not met."
+    }
+  },
+  "len": 5,
+  "key": "id",
+  "source_format": "locale rows"
+}

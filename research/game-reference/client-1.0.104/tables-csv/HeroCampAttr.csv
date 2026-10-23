@@ -1,0 +1,6 @@
+﻿record_key,title,icon,attribute,desc,otherSameCampHeroCount,sameCampHeroCount,id
+3,Deploys 4 heroes from the same faction.,icon_cz_hz3,"{""1"": {""type"": 1, ""percent"": 0.15}, ""2"": {""type"": 2, ""percent"": 0.15}, ""3"": {""type"": 3, ""percent"": 0.15}}","Hero HP, ATK, and DEF increase by 15% in combat.",0,4,3
+4,Deploys 5 heroes from the same faction.,icon_cz_hz4,"{""1"": {""type"": 1, ""percent"": 0.2}, ""2"": {""type"": 2, ""percent"": 0.2}, ""3"": {""type"": 3, ""percent"": 0.2}}","Hero HP, ATK, and DEF increase by 20% in combat.",0,5,4
+0,Faction activation requirements not met.,icon_cz_hz0,{},No faction effects activated.,0,0,0
+1,Deploys 3 heroes from the same faction.,icon_cz_hz1,"{""1"": {""type"": 1, ""percent"": 0.05}, ""2"": {""type"": 2, ""percent"": 0.05}, ""3"": {""type"": 3, ""percent"": 0.05}}","Hero HP, ATK, and DEF increase by 5% in combat.",0,3,1
+2,Deploys 3 heroes from the same faction and 2 from another faction.,icon_cz_hz2,"{""1"": {""type"": 1, ""percent"": 0.1}, ""2"": {""type"": 2, ""percent"": 0.1}, ""3"": {""type"": 3, ""percent"": 0.1}}","Hero HP, ATK, and DEF increase by 10% in combat.",2,3,2

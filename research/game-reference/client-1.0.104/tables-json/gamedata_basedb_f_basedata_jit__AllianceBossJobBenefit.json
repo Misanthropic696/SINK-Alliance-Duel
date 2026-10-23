@@ -1,0 +1,93 @@
+{
+  "key": "id",
+  "len": 6,
+  "data": {
+    "4": {
+      "icon": "Icon_Alliance_Officer_Economy1",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 202,
+      "benefitDes": "",
+      "id": 4,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.05,
+          "Type": 10017
+        }
+      }
+    },
+    "5": {
+      "icon": "Icon_Alliance_Officer_War2",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 203,
+      "benefitDes": "",
+      "id": 5,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.05,
+          "Type": 10017
+        }
+      }
+    },
+    "6": {
+      "icon": "Icon_Alliance_Officer_Economy2",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 204,
+      "benefitDes": "",
+      "id": 6,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.05,
+          "Type": 10017
+        }
+      }
+    },
+    "1": {
+      "icon": "Icon_Alliance_R4",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 104,
+      "benefitDes": "",
+      "id": 1,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.025,
+          "Type": 10017
+        }
+      }
+    },
+    "2": {
+      "icon": "Icon_Alliance_R5",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 105,
+      "benefitDes": "",
+      "id": 2,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.05,
+          "Type": 10017
+        }
+      }
+    },
+    "3": {
+      "icon": "Icon_Alliance_Officer_War1",
+      "Atlas": "SpriteAtlas/UI_AllianceIcon.spriteatlas",
+      "rankJob": 201,
+      "benefitDes": "",
+      "id": 3,
+      "benefit": {
+        "1": {
+          "Source": 1202,
+          "Value": 0.05,
+          "Type": 10017
+        }
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "Activity_Alliance_BOSS_联盟BOSS"
+}

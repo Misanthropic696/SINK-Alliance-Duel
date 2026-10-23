@@ -1,0 +1,123 @@
+{
+  "first": 1,
+  "isNeedTransform": false,
+  "key": "id",
+  "data": {
+    "5": {
+      "icon": "K3_WorldMap_OmegaBioTechLabs",
+      "id": 5,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 3031000,
+      "declareNeedPower": 3031000,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    },
+    "6": {
+      "icon": "K3_WorldMap_FortThunder",
+      "id": 6,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 4672500,
+      "declareNeedPower": 4672500,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    },
+    "3": {
+      "icon": "K3_WorldMap_LintonResidentialComplex",
+      "id": 3,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 907500,
+      "declareNeedPower": 907500,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    },
+    "4": {
+      "icon": "K3_WorldMap_AidenCivicDistrict",
+      "id": 4,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 1358500,
+      "declareNeedPower": 1358500,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    },
+    "1": {
+      "icon": "K3_WorldMap_IndustrialTown",
+      "id": 1,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 341000,
+      "declareNeedPower": 341000,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    },
+    "2": {
+      "icon": "K3_WorldMap_WestlakeCommercialZone",
+      "id": 2,
+      "soldierDeathRate": 0.2,
+      "iconAtlas": "SpriteAtlas/WorldMap_Common.spriteatlas",
+      "totalMechCityNum": 6,
+      "mechCityDeclareNumMax": 3,
+      "rallyLimit": 5,
+      "recommendPower": 597500,
+      "declareNeedPower": 597500,
+      "levelMechCityNum": {
+        "1": 6,
+        "2": 6,
+        "3": 6,
+        "4": 6,
+        "5": 6,
+        "6": 6
+      }
+    }
+  },
+  "len": 6,
+  "excelName": "MechCityWar_城市战"
+}

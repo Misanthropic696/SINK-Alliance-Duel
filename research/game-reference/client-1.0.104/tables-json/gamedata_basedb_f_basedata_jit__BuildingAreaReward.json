@@ -1,0 +1,1504 @@
+{
+  "key": "id",
+  "len": 24,
+  "data": {
+    "4": {
+      "rotation": {
+        "1": 0.8,
+        "2": -15.39999,
+        "3": 75.74998,
+        "4": -36.5
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_coat_premium\",\"count\":1},{\"type\":5,\"count\":5000},{\"type\":1,\"count\":5000},{\"type\":2,\"count\":5000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 5,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_coat_premium",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 5000,
+          "type": 5
+        },
+        "3": {
+          "count": 5000,
+          "type": 1
+        },
+        "4": {
+          "count": 5000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100303,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 1019,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 4,
+      "pos": {
+        "1": 41.77522,
+        "2": -45.3689,
+        "3": -3
+      }
+    },
+    "5": {
+      "rotation": {
+        "1": 0.8,
+        "2": -19.56006,
+        "3": -56.39999,
+        "4": 31.3
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_trousers_premium\",\"count\":1},{\"type\":5,\"count\":7000},{\"type\":1,\"count\":7000},{\"type\":2,\"count\":7000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 6,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_trousers_premium",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 7000,
+          "type": 5
+        },
+        "3": {
+          "count": 7000,
+          "type": 1
+        },
+        "4": {
+          "count": 7000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100304,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 5,
+      "pos": {
+        "1": 29.95716,
+        "2": -50.92676,
+        "3": -2
+      }
+    },
+    "6": {
+      "rotation": {
+        "1": 0.8,
+        "2": -7.299988,
+        "3": -81.60004,
+        "4": 40.59999
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_shield_premium\",\"count\":1},{\"type\":5,\"count\":9000},{\"type\":1,\"count\":9000},{\"type\":2,\"count\":9000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 7,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_shield_premium",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 9000,
+          "type": 5
+        },
+        "3": {
+          "count": 9000,
+          "type": 1
+        },
+        "4": {
+          "count": 9000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100302,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 1017,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 6,
+      "pos": {
+        "1": 41.27,
+        "2": -61.57,
+        "3": -23.5
+      }
+    },
+    "7": {
+      "rotation": {
+        "1": 0.8,
+        "2": 13.8,
+        "3": 112.1001,
+        "4": -33
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_coat_rare\",\"count\":1},{\"type\":5,\"count\":11000},{\"type\":1,\"count\":11000},{\"type\":2,\"count\":11000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 8,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_coat_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 11000,
+          "type": 5
+        },
+        "3": {
+          "count": 11000,
+          "type": 1
+        },
+        "4": {
+          "count": 11000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100403,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV3",
+      "des": "",
+      "quality": 3,
+      "id": 7,
+      "pos": {
+        "1": 53.16,
+        "2": -56.48,
+        "3": -25
+      }
+    },
+    "13": {
+      "rotation": {
+        "1": 0.8,
+        "2": -8.800049,
+        "3": -76.40002,
+        "4": 36.3
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_weapon_rare\",\"count\":1},{\"type\":5,\"count\":15000},{\"type\":1,\"count\":15000},{\"type\":2,\"count\":15000},{\"type\":3,\"count\":15000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 14,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_weapon_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 5
+        },
+        "3": {
+          "count": 15000,
+          "type": 1
+        },
+        "4": {
+          "count": 15000,
+          "type": 2
+        },
+        "5": {
+          "count": 15000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100401,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 13,
+      "pos": {
+        "1": 81.7,
+        "2": -49.56,
+        "3": -20.55
+      }
+    },
+    "12": {
+      "rotation": {
+        "1": 0.8,
+        "2": -27.70001,
+        "3": -55.20001,
+        "4": 34.99999
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_shield_rare\",\"count\":1},{\"type\":5,\"count\":13000},{\"type\":1,\"count\":13000},{\"type\":2,\"count\":13000},{\"type\":3,\"count\":13000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 13,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_shield_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 13000,
+          "type": 5
+        },
+        "3": {
+          "count": 13000,
+          "type": 1
+        },
+        "4": {
+          "count": 13000,
+          "type": 2
+        },
+        "5": {
+          "count": 13000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100402,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 12,
+      "pos": {
+        "1": 72.99,
+        "2": -42.4,
+        "3": -26
+      }
+    },
+    "11": {
+      "rotation": {
+        "1": 0.8,
+        "2": 22.3,
+        "3": 116,
+        "4": -35.20001
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_trousers_rare\",\"count\":1},{\"type\":5,\"count\":13000},{\"type\":1,\"count\":13000},{\"type\":2,\"count\":13000},{\"type\":3,\"count\":13000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 12,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_trousers_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 13000,
+          "type": 5
+        },
+        "3": {
+          "count": 13000,
+          "type": 1
+        },
+        "4": {
+          "count": 13000,
+          "type": 2
+        },
+        "5": {
+          "count": 13000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100404,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 11,
+      "pos": {
+        "1": 72.24,
+        "2": -54.88,
+        "3": -1.05
+      }
+    },
+    "10": {
+      "rotation": {
+        "1": 0.8,
+        "2": -31,
+        "3": 49.10001,
+        "4": -35.10001
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_coat_rare\",\"count\":1},{\"type\":5,\"count\":13000},{\"type\":1,\"count\":13000},{\"type\":2,\"count\":13000},{\"type\":3,\"count\":13000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 11,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_coat_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 13000,
+          "type": 5
+        },
+        "3": {
+          "count": 13000,
+          "type": 1
+        },
+        "4": {
+          "count": 13000,
+          "type": 2
+        },
+        "5": {
+          "count": 13000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100403,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 10,
+      "pos": {
+        "1": 67.1,
+        "2": -45.37,
+        "3": -8
+      }
+    },
+    "16": {
+      "rotation": {
+        "1": 0.8,
+        "2": 25.9,
+        "3": 128.7,
+        "4": -30.80002
+      },
+      "showReward": "[{\"type\":5,\"count\":18000},{\"type\":1,\"count\":18000},{\"type\":2,\"count\":18000},{\"type\":3,\"count\":18000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 17,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_shield_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 18000,
+          "type": 5
+        },
+        "3": {
+          "count": 18000,
+          "type": 1
+        },
+        "4": {
+          "count": 18000,
+          "type": 2
+        },
+        "5": {
+          "count": 18000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100402,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 16,
+      "pos": {
+        "1": 73.38,
+        "2": -31.74,
+        "3": -1
+      }
+    },
+    "17": {
+      "rotation": {
+        "1": 0.8,
+        "2": 21.60002,
+        "3": 124.2,
+        "4": -35.29999
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_coat_rare\",\"count\":1},{\"type\":5,\"count\":18000},{\"type\":1,\"count\":18000},{\"type\":2,\"count\":18000},{\"type\":3,\"count\":18000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 18,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_coat_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 18000,
+          "type": 5
+        },
+        "3": {
+          "count": 18000,
+          "type": 1
+        },
+        "4": {
+          "count": 18000,
+          "type": 2
+        },
+        "5": {
+          "count": 18000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100403,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 17,
+      "pos": {
+        "1": 67.08,
+        "2": -35.05,
+        "3": -24
+      }
+    },
+    "14": {
+      "rotation": {
+        "1": 0.8,
+        "2": 14.69001,
+        "3": 117.9,
+        "4": -32.60001
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_coat_rare\",\"count\":1},{\"type\":5,\"count\":15000},{\"type\":1,\"count\":15000},{\"type\":2,\"count\":15000},{\"type\":3,\"count\":15000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 15,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_coat_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 5
+        },
+        "3": {
+          "count": 15000,
+          "type": 1
+        },
+        "4": {
+          "count": 15000,
+          "type": 2
+        },
+        "5": {
+          "count": 15000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100403,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 3,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV3",
+      "des": "",
+      "quality": 3,
+      "id": 14,
+      "pos": {
+        "1": 91.66811,
+        "2": -43.59,
+        "3": -18.5
+      }
+    },
+    "15": {
+      "rotation": {
+        "1": 0.8,
+        "2": 31.7,
+        "3": 131.5,
+        "4": -31.20001
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_trousers_rare\",\"count\":1},{\"type\":5,\"count\":15000},{\"type\":1,\"count\":15000},{\"type\":2,\"count\":15000},{\"type\":3,\"count\":15000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 16,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_trousers_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 15000,
+          "type": 5
+        },
+        "3": {
+          "count": 15000,
+          "type": 1
+        },
+        "4": {
+          "count": 15000,
+          "type": 2
+        },
+        "5": {
+          "count": 15000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100404,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 15,
+      "pos": {
+        "1": 85.15,
+        "2": -39.02,
+        "3": -23
+      }
+    },
+    "19": {
+      "rotation": {
+        "1": 0.8,
+        "2": -19.39999,
+        "3": -57.26996,
+        "4": 35.79999
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_shield_rare\",\"count\":1},{\"type\":5,\"count\":20000},{\"type\":1,\"count\":20000},{\"type\":2,\"count\":20000},{\"type\":3,\"count\":20000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 20,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_shield_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 20000,
+          "type": 5
+        },
+        "3": {
+          "count": 20000,
+          "type": 1
+        },
+        "4": {
+          "count": 20000,
+          "type": 2
+        },
+        "5": {
+          "count": 20000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100402,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 19,
+      "pos": {
+        "1": 50.79267,
+        "2": -36.9123,
+        "3": -1
+      }
+    },
+    "18": {
+      "rotation": {
+        "1": 0.8,
+        "2": 32.7,
+        "3": 133.2,
+        "4": -26.40009
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_trousers_rare\",\"count\":1},{\"type\":5,\"count\":18000},{\"type\":1,\"count\":18000},{\"type\":2,\"count\":18000},{\"type\":3,\"count\":18000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 19,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_trousers_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 18000,
+          "type": 5
+        },
+        "3": {
+          "count": 18000,
+          "type": 1
+        },
+        "4": {
+          "count": 18000,
+          "type": 2
+        },
+        "5": {
+          "count": 18000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 100404,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 18,
+      "pos": {
+        "1": 61.96781,
+        "2": -43.69595,
+        "3": -22.5
+      }
+    },
+    "9": {
+      "rotation": {
+        "1": 0.8,
+        "2": -26.32001,
+        "3": -48.66,
+        "4": 31
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_shield_rare\",\"count\":1},{\"type\":5,\"count\":11000},{\"type\":1,\"count\":11000},{\"type\":2,\"count\":11000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 10,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_shield_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 11000,
+          "type": 5
+        },
+        "3": {
+          "count": 11000,
+          "type": 1
+        },
+        "4": {
+          "count": 11000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100402,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 9,
+      "pos": {
+        "1": 59.53376,
+        "2": -51.45543,
+        "3": -41
+      }
+    },
+    "8": {
+      "rotation": {
+        "1": 0.8,
+        "2": -30.5,
+        "3": -49.79999,
+        "4": 29.5
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_equipment_trousers_rare\",\"count\":1},{\"type\":5,\"count\":11000},{\"type\":1,\"count\":11000},{\"type\":2,\"count\":11000}]",
+      "rewardIcon": "img_jiangli_02",
+      "areaId": 9,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_trousers_rare",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 11000,
+          "type": 5
+        },
+        "3": {
+          "count": 11000,
+          "type": 1
+        },
+        "4": {
+          "count": 11000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100404,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 3,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 8,
+      "pos": {
+        "1": 66.58221,
+        "2": -58.44116,
+        "3": -1
+      }
+    },
+    "20": {
+      "rotation": {
+        "1": 0.8,
+        "2": -37.89999,
+        "3": -23.44,
+        "4": 15.5
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_Box_SpeedBox_5m\",\"count\":8},{\"type\":5,\"count\":22000},{\"type\":1,\"count\":22000},{\"type\":2,\"count\":22000},{\"type\":3,\"count\":22000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 21,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "count": 22000,
+          "type": 5
+        },
+        "3": {
+          "count": 22000,
+          "type": 1
+        },
+        "4": {
+          "count": 22000,
+          "type": 2
+        },
+        "5": {
+          "count": 22000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 20,
+      "pos": {
+        "1": 62.05187,
+        "2": -29.5605,
+        "3": -0.55
+      }
+    },
+    "24": {
+      "rotation": {
+        "1": 0.8,
+        "2": 30,
+        "3": 120.4,
+        "4": -32.40002
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_Box_SpeedBox_5m\",\"count\":8},{\"type\":5,\"count\":30000},{\"type\":1,\"count\":30000},{\"type\":2,\"count\":30000},{\"type\":3,\"count\":30000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 28,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "count": 30000,
+          "type": 5
+        },
+        "3": {
+          "count": 30000,
+          "type": 1
+        },
+        "4": {
+          "count": 30000,
+          "type": 2
+        },
+        "5": {
+          "count": 30000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV3",
+      "des": "",
+      "quality": 3,
+      "id": 24,
+      "pos": {
+        "1": 27.59,
+        "2": -59.54,
+        "3": -20
+      }
+    },
+    "23": {
+      "rotation": {
+        "1": 0.72,
+        "2": 26.80004,
+        "3": 128.8,
+        "4": -34.70001
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_Box_SpeedBox_5m\",\"count\":8},{\"type\":5,\"count\":28000},{\"type\":1,\"count\":28000},{\"type\":2,\"count\":28000},{\"type\":3,\"count\":28000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 27,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "count": 28000,
+          "type": 5
+        },
+        "3": {
+          "count": 28000,
+          "type": 1
+        },
+        "4": {
+          "count": 28000,
+          "type": 2
+        },
+        "5": {
+          "count": 28000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5002,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV3",
+      "des": "",
+      "quality": 3,
+      "id": 23,
+      "pos": {
+        "1": 51.81,
+        "2": -70.47,
+        "3": -19
+      }
+    },
+    "22": {
+      "rotation": {
+        "1": 0.8,
+        "2": -28.89999,
+        "3": -55.5,
+        "4": 31.50003
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_Box_SpeedBox_5m\",\"count\":8},{\"type\":5,\"count\":26000},{\"type\":1,\"count\":26000},{\"type\":2,\"count\":26000},{\"type\":3,\"count\":26000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 23,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "count": 26000,
+          "type": 5
+        },
+        "3": {
+          "count": 26000,
+          "type": 1
+        },
+        "4": {
+          "count": 26000,
+          "type": 2
+        },
+        "5": {
+          "count": 26000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 3,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 22,
+      "pos": {
+        "1": 97.23,
+        "2": -38.93,
+        "3": -0.55
+      }
+    },
+    "21": {
+      "rotation": {
+        "1": 0.8,
+        "2": -37.89999,
+        "3": -23.44,
+        "4": 15.5
+      },
+      "showReward": "[{\"type\":99,\"id\":\"item_Box_SpeedBox_5m\",\"count\":8},{\"type\":5,\"count\":24000},{\"type\":1,\"count\":24000},{\"type\":2,\"count\":24000},{\"type\":3,\"count\":24000}]",
+      "rewardIcon": "img_jiangli_01",
+      "areaId": 22,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_Box_SpeedBox_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "count": 24000,
+          "type": 5
+        },
+        "3": {
+          "count": 24000,
+          "type": 1
+        },
+        "4": {
+          "count": 24000,
+          "type": 2
+        },
+        "5": {
+          "count": 24000,
+          "type": 3
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5031,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV2-2",
+      "des": "",
+      "quality": 2,
+      "id": 21,
+      "pos": {
+        "1": 76.4,
+        "2": -25.4,
+        "3": -0.55
+      }
+    },
+    "1": {
+      "rotation": {
+        "1": 0.8,
+        "2": 4.900014,
+        "3": -85.70001,
+        "4": 34.30004
+      },
+      "showReward": "[{\"type\":90,\"id\":40010,\"count\":1},{\"type\":1100001,\"id\":\"10385\",\"count\":1},{\"type\":1100001,\"id\":\"10384\",\"count\":1},{\"type\":99,\"id\":\"item_SpeedUp_build_1m\",\"count\":10},{\"type\":5,\"count\":2000},{\"type\":1,\"count\":2000},{\"type\":2,\"count\":2000}]",
+      "rewardIcon": "img_jiangli_03",
+      "areaId": 2,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_build_1m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "count": 2000,
+          "type": 5
+        },
+        "3": {
+          "count": 2000,
+          "type": 1
+        },
+        "4": {
+          "count": 2000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 2
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 1,
+      "pos": {
+        "1": 44.9,
+        "2": -41.5,
+        "3": -20
+      }
+    },
+    "2": {
+      "rotation": {
+        "1": 0.8,
+        "2": -14,
+        "3": 71.80003,
+        "4": -40
+      },
+      "showReward": "[{\"type\":90,\"id\":30001,\"count\":1},{\"type\":99,\"id\":\"item_equip_produce_materials_03\",\"count\":40},{\"type\":5,\"count\":3000},{\"type\":1,\"count\":3000},{\"type\":2,\"count\":3000}]",
+      "rewardIcon": "img_jiangli_04",
+      "areaId": 3,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equip_produce_materials_03",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "count": 3000,
+          "type": 5
+        },
+        "3": {
+          "count": 3000,
+          "type": 1
+        },
+        "4": {
+          "count": 3000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 0,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5021,
+          "count": 2,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 1017,
+          "count": 1,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 2,
+      "pos": {
+        "1": 60.34569,
+        "2": -47.035,
+        "3": -6
+      }
+    },
+    "3": {
+      "rotation": {
+        "1": 0.8,
+        "2": 33,
+        "3": -123.9,
+        "4": 28.20001
+      },
+      "showReward": "[{\"type\":90,\"id\":30004,\"count\":1},{\"type\":99,\"id\":\"item_equipment_weapon_premium\",\"count\":1},{\"type\":5,\"count\":4000},{\"type\":1,\"count\":4000},{\"type\":2,\"count\":4000}]",
+      "rewardIcon": "img_jiangli_05",
+      "areaId": 4,
+      "versionType": "A",
+      "reward": {
+        "1": {
+          "id": "item_equipment_weapon_premium",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "count": 4000,
+          "type": 5
+        },
+        "3": {
+          "count": 4000,
+          "type": 1
+        },
+        "4": {
+          "count": 4000,
+          "type": 2
+        }
+      },
+      "ShowEquipTipId": 100301,
+      "npcConfig": {
+        "1": {
+          "targetBuildId": 5008,
+          "count": 1,
+          "type": 2
+        },
+        "2": {
+          "targetBuildId": 5024,
+          "count": 2,
+          "type": 2
+        },
+        "3": {
+          "targetBuildId": 1001,
+          "count": {
+            "1": 1
+          },
+          "type": 3
+        }
+      },
+      "boxIcon": "baoxiangLV1-1",
+      "des": "",
+      "quality": 1,
+      "id": 3,
+      "pos": {
+        "1": 45.41796,
+        "2": -55.1118,
+        "3": -22.05
+      }
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1,
+  "excelName": "Building_建筑"
+}

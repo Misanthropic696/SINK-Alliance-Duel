@@ -1,0 +1,35 @@
+{
+  "data": {
+    "4": {
+      "id": 4,
+      "desc": "Alliance Welcome"
+    },
+    "3": {
+      "id": 3,
+      "desc": "Alliance Announcement"
+    },
+    "2": {
+      "id": 2,
+      "desc": "Alliance Mining"
+    },
+    "1": {
+      "id": 1,
+      "desc": "Scout"
+    },
+    "7": {
+      "id": 7,
+      "desc": "Private Chat"
+    },
+    "6": {
+      "id": 6,
+      "desc": "Alliance Mention"
+    },
+    "5": {
+      "id": 5,
+      "desc": "Golden Egg Hint"
+    }
+  },
+  "len": 7,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,1241 @@
+{
+  "excelName": "HermitMerchant_隐士商人",
+  "data": {
+    "28": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 6,
+      "type": 2,
+      "id": 28,
+      "weight": 24,
+      "actId": 60001101
+    },
+    "29": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 60,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 7,
+      "type": 2,
+      "id": 29,
+      "weight": 744,
+      "actId": 60001101
+    },
+    "48": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 3000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 2,
+      "type": 4,
+      "id": 48,
+      "weight": 150,
+      "actId": 60001101
+    },
+    "62": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 700,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 16,
+      "type": 4,
+      "id": 62,
+      "weight": 600,
+      "actId": 60001101
+    },
+    "61": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 31,
+          "id": "item_SpeedUp_general_60m"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 15,
+      "type": 4,
+      "id": 61,
+      "weight": 740,
+      "actId": 60001101
+    },
+    "60": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 2500,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 14,
+      "type": 4,
+      "id": 60,
+      "weight": 1100,
+      "actId": 60001101
+    },
+    "47": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 4000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 1,
+      "type": 4,
+      "id": 47,
+      "weight": 75,
+      "actId": 60001101
+    },
+    "59": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 600,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 2000,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 13,
+      "type": 4,
+      "id": 59,
+      "weight": 1100,
+      "actId": 60001101
+    },
+    "58": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "item_research_info"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 12,
+      "type": 4,
+      "id": 58,
+      "weight": 740,
+      "actId": 60001101
+    },
+    "57": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 6,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 11,
+      "type": 4,
+      "id": 57,
+      "weight": 1255,
+      "actId": 60001101
+    },
+    "56": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "item_decorations_universal"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 10,
+      "type": 4,
+      "id": 56,
+      "weight": 740,
+      "actId": 60001101
+    },
+    "55": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_drone_part"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 9,
+      "type": 4,
+      "id": 55,
+      "weight": 1450,
+      "actId": 60001101
+    },
+    "54": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_box_hero_ue_optional_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 8,
+      "type": 4,
+      "id": 54,
+      "weight": 445,
+      "actId": 60001101
+    },
+    "53": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_box_hero_awaken_optional_only_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 7,
+      "type": 4,
+      "id": 53,
+      "weight": 445,
+      "actId": 60001101
+    },
+    "30": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 60,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_box_hero_awaken_optional_only_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 8,
+      "type": 2,
+      "id": 30,
+      "weight": 744,
+      "actId": 60001101
+    },
+    "40": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 300,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_research_info"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 18,
+      "type": 2,
+      "id": 40,
+      "weight": 110,
+      "actId": 60001101
+    },
+    "32": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 600,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_equipmentDrawing_legendary"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 10,
+      "type": 2,
+      "id": 32,
+      "weight": 330,
+      "actId": 60001101
+    },
+    "42": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 20,
+      "type": 2,
+      "id": 42,
+      "weight": 1150,
+      "actId": 60001101
+    },
+    "12": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Metal_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 12,
+      "type": 1,
+      "id": 12,
+      "weight": 90,
+      "actId": 60001101
+    },
+    "22": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 22,
+      "type": 1,
+      "id": 22,
+      "weight": 1210,
+      "actId": 60001101
+    },
+    "10": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_box_hero_ue_optional_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 10,
+      "type": 1,
+      "id": 10,
+      "weight": 134,
+      "actId": 60001101
+    },
+    "20": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 20,
+      "type": 1,
+      "id": 20,
+      "weight": 1210,
+      "actId": 60001101
+    },
+    "18": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 18,
+      "type": 1,
+      "id": 18,
+      "weight": 300,
+      "actId": 60001101
+    },
+    "16": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 16,
+      "type": 1,
+      "id": 16,
+      "weight": 4200,
+      "actId": 60001101
+    },
+    "38": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 150,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_heroSkillBookRandomBox_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 16,
+      "type": 2,
+      "id": 38,
+      "weight": 110,
+      "actId": 60001101
+    },
+    "14": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_strength001_50"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 14,
+      "type": 1,
+      "id": 14,
+      "weight": 120,
+      "actId": 60001101
+    },
+    "24": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 1500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 2,
+      "type": 2,
+      "id": 24,
+      "weight": 20,
+      "actId": 60001101
+    },
+    "34": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 25,
+          "id": "item_drone_part"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 12,
+      "type": 2,
+      "id": 34,
+      "weight": 330,
+      "actId": 60001101
+    },
+    "26": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_1004"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 4,
+      "type": 2,
+      "id": 26,
+      "weight": 65,
+      "actId": 60001101
+    },
+    "36": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 120,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Metal_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 14,
+      "type": 2,
+      "id": 36,
+      "weight": 460,
+      "actId": 60001101
+    },
+    "52": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 6,
+      "type": 4,
+      "id": 52,
+      "weight": 640,
+      "actId": 60001101
+    },
+    "51": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 500,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_3"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 5,
+      "type": 4,
+      "id": 51,
+      "weight": 300,
+      "actId": 60001101
+    },
+    "50": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 1000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 4,
+      "type": 4,
+      "id": 50,
+      "weight": 145,
+      "actId": 60001101
+    },
+    "46": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 24,
+      "type": 2,
+      "id": 46,
+      "weight": 1300,
+      "actId": 60001101
+    },
+    "3": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_box_hero_ue_optional_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 3,
+      "type": 1,
+      "id": 3,
+      "weight": 30,
+      "actId": 60001101
+    },
+    "2": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 2,
+      "type": 1,
+      "id": 2,
+      "weight": 43,
+      "actId": 60001101
+    },
+    "1": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_01"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 1,
+      "type": 1,
+      "id": 1,
+      "weight": 43,
+      "actId": 60001101
+    },
+    "49": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 4000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_equipment_equipmentDrawing_legendary"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 3,
+      "type": 4,
+      "id": 49,
+      "weight": 75,
+      "actId": 60001101
+    },
+    "7": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_enhanceStoneRandomBox_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 7,
+      "type": 1,
+      "id": 7,
+      "weight": 43,
+      "actId": 60001101
+    },
+    "6": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_heroSkillBookRandomBox_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 6,
+      "type": 1,
+      "id": 6,
+      "weight": 43,
+      "actId": 60001101
+    },
+    "5": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_box_hero_awaken_optional_only_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 5,
+      "type": 1,
+      "id": 5,
+      "weight": 30,
+      "actId": 60001101
+    },
+    "4": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 4,
+      "type": 1,
+      "id": 4,
+      "weight": 30,
+      "actId": 60001101
+    },
+    "45": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 13,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 23,
+      "type": 2,
+      "id": 45,
+      "weight": 250,
+      "actId": 60001101
+    },
+    "44": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 22,
+      "type": 2,
+      "id": 44,
+      "weight": 1050,
+      "actId": 60001101
+    },
+    "9": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_box_hero_awaken_optional_only_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 9,
+      "type": 1,
+      "id": 9,
+      "weight": 134,
+      "actId": 60001101
+    },
+    "8": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 8,
+      "type": 1,
+      "id": 8,
+      "weight": 134,
+      "actId": 60001101
+    },
+    "41": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 420,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 19,
+      "type": 2,
+      "id": 41,
+      "weight": 1150,
+      "actId": 60001101
+    },
+    "31": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 60,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_box_hero_ue_optional_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 9,
+      "type": 2,
+      "id": 31,
+      "weight": 744,
+      "actId": 60001101
+    },
+    "43": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 150,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 30,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 21,
+      "type": 2,
+      "id": 43,
+      "weight": 400,
+      "actId": 60001101
+    },
+    "33": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 250,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_3"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 11,
+      "type": 2,
+      "id": 33,
+      "weight": 120,
+      "actId": 60001101
+    },
+    "23": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 3000,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_module_props_Box_5"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 1,
+      "type": 2,
+      "id": 23,
+      "weight": 20,
+      "actId": 60001101
+    },
+    "13": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Food_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 13,
+      "type": 1,
+      "id": 13,
+      "weight": 90,
+      "actId": 60001101
+    },
+    "21": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 21,
+      "type": 1,
+      "id": 21,
+      "weight": 1210,
+      "actId": 60001101
+    },
+    "11": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Energy_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 11,
+      "type": 1,
+      "id": 11,
+      "weight": 90,
+      "actId": 60001101
+    },
+    "17": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_20"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 17,
+      "type": 1,
+      "id": 17,
+      "weight": 400,
+      "actId": 60001101
+    },
+    "19": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 19,
+      "type": 1,
+      "id": 19,
+      "weight": 200,
+      "actId": 60001101
+    },
+    "15": {
+      "cost": {},
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Material_universalFragment_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 15,
+      "type": 1,
+      "id": 15,
+      "weight": 216,
+      "actId": 60001101
+    },
+    "39": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_enhanceStoneRandomBox_1"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 17,
+      "type": 2,
+      "id": 39,
+      "weight": 110,
+      "actId": 60001101
+    },
+    "35": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 200,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 30,
+          "id": "item_decorations_universal"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 13,
+      "type": 2,
+      "id": 35,
+      "weight": 220,
+      "actId": 60001101
+    },
+    "25": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 800,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_1003"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 3,
+      "type": 2,
+      "id": 25,
+      "weight": 65,
+      "actId": 60001101
+    },
+    "37": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 120,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Food_4"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 15,
+      "type": 2,
+      "id": 37,
+      "weight": 460,
+      "actId": 60001101
+    },
+    "27": {
+      "cost": {
+        "1": {
+          "type": 99,
+          "count": 600,
+          "id": "recluse_coin"
+        }
+      },
+      "goods": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "buyTimes": 1,
+      "sortIdx": 5,
+      "type": 2,
+      "id": 27,
+      "weight": 24,
+      "actId": 60001101
+    }
+  },
+  "key": "id",
+  "first": 1,
+  "len": 62,
+  "isNeedTransform": false
+}

@@ -1,0 +1,21 @@
+{
+  "key": "id",
+  "len": 1,
+  "data": {
+    "1001": {
+      "id": 1001,
+      "addOrReduce": 0,
+      "colddown": 500,
+      "critItem": {
+        "1": {
+          "id": "item_monster_hit_dec25",
+          "count": 1,
+          "type": 99
+        }
+      }
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1001,
+  "excelName": "Activity_AttackBoss_全服打怪"
+}

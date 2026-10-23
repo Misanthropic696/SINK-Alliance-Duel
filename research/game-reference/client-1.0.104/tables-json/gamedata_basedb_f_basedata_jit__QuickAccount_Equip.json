@@ -1,0 +1,56 @@
+{
+  "excelName": "QuickAccount_快速调号",
+  "isNeedTransform": false,
+  "data": {
+    "o1": {
+      "itemId": "item_equipment_weapon_legendary",
+      "id": "o1"
+    },
+    "o2": {
+      "itemId": "item_equipment_shield_legendary",
+      "id": "o2"
+    },
+    "o3": {
+      "itemId": "item_equipment_coat_legendary",
+      "id": "o3"
+    },
+    "o4": {
+      "itemId": "item_equipment_trousers_legendary",
+      "id": "o4"
+    },
+    "b2": {
+      "itemId": "item_equipment_shield_premium",
+      "id": "b2"
+    },
+    "b1": {
+      "itemId": "item_equipment_weapon_premium",
+      "id": "b1"
+    },
+    "b4": {
+      "itemId": "item_equipment_trousers_premium",
+      "id": "b4"
+    },
+    "b3": {
+      "itemId": "item_equipment_coat_premium",
+      "id": "b3"
+    },
+    "p4": {
+      "itemId": "item_equipment_trousers_rare",
+      "id": "p4"
+    },
+    "p3": {
+      "itemId": "item_equipment_coat_rare",
+      "id": "p3"
+    },
+    "p2": {
+      "itemId": "item_equipment_shield_rare",
+      "id": "p2"
+    },
+    "p1": {
+      "itemId": "item_equipment_weapon_rare",
+      "id": "p1"
+    }
+  },
+  "len": 12,
+  "key": "id"
+}

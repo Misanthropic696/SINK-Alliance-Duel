@@ -1,0 +1,3240 @@
+{
+  "first": 1000,
+  "isNeedTransform": true,
+  "excelName": "Activity_ABYSS_BOSS_新世界BOSS",
+  "key": "id",
+  "len": 66,
+  "data": {
+    "3010": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 28
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_equipment_equipmentDrawing_mythology",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 5000
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 40000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 400
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3010,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 6400000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 11,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1017": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "type": 99,
+          "count": 200
+        },
+        "2": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 200
+        },
+        "3": {
+          "id": "item_SpeedUp_build_8h",
+          "type": 99,
+          "count": 50
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1017,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 32000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 18,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3002": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 600
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 4000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "type": 99,
+          "count": 200
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 3002,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 3,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2002": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 5
+        },
+        "3": {
+          "type": 11,
+          "count": 600
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 2002,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 3,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1002": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_3",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 600
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 1002,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 3,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1018": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 25
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 25
+        },
+        "3": {
+          "type": 11,
+          "count": 900
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1018,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 36000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 19,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2010": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 28
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 120
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 25
+        },
+        "3": {
+          "type": 11,
+          "count": 5000
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 40000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2010,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 6400000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 11,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1010": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 28
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "type": 99,
+          "count": 150
+        },
+        "2": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 100
+        },
+        "3": {
+          "id": "item_SpeedUp_build_8h",
+          "type": 99,
+          "count": 30
+        },
+        "4": {
+          "type": 11,
+          "count": 5000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1010,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 6400000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 11,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1009": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 21
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 60
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 60
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 60
+        },
+        "4": {
+          "type": 11,
+          "count": 5000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1009,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 3200000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 10,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2009": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 21
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 80
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "type": 11,
+          "count": 5000
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 25000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2009,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 3200000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 10,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3009": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 21
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 5000
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 40000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 350
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3009,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 3200000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 10,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3013": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 300
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "type": 11,
+          "count": 800
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3013,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 16000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 14,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2013": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 14
+        },
+        "2": {
+          "type": 11,
+          "count": 800
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 4000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2013,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 16000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 14,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1013": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "type": 11,
+          "count": 800
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1013,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 16000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 14,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1019": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 30
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 30
+        },
+        "3": {
+          "type": 11,
+          "count": 1000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1019,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 20,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3008": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 14
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 3500
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 30000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 300
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3008,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 1600000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 9,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2008": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 14
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 50
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "type": 11,
+          "count": 3500
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 20000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2008,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 1600000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 9,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3015": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 350
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 25
+        },
+        "3": {
+          "type": 11,
+          "count": 900
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3015,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 24000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 16,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2021": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_Awaken_universalFragment",
+          "type": 99,
+          "count": 40
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 40
+        },
+        "3": {
+          "type": 11,
+          "count": 5500
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 50000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2021,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 50000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 22,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1021": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "type": 99,
+          "count": 200
+        },
+        "2": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 200
+        },
+        "3": {
+          "id": "item_SpeedUp_build_8h",
+          "type": 99,
+          "count": 50
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1021,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 50000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 22,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1006": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 2000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1006,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 320000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 7,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1008": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 14
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 60
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 60
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 60
+        },
+        "4": {
+          "type": 11,
+          "count": 3500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1008,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 1600000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 9,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2006": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 30
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 10
+        },
+        "3": {
+          "type": 11,
+          "count": 2000
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_4",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2006,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 320000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 7,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1020": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 35
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 35
+        },
+        "3": {
+          "type": 11,
+          "count": 1100
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1020,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 45000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 21,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2020": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 22
+        },
+        "2": {
+          "type": 11,
+          "count": 1100
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 6000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2020,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 45000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 21,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1005": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 1200
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1005,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 160000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 6,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2005": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 25
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 10
+        },
+        "3": {
+          "type": 11,
+          "count": 1200
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_4",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2005,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 160000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 6,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2015": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 18
+        },
+        "2": {
+          "type": 11,
+          "count": 900
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 4000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2015,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 24000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 16,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1015": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 25
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 25
+        },
+        "3": {
+          "type": 11,
+          "count": 900
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1015,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 24000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 16,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3005": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 1200
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 10000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 100
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3005,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 160000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 6,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3020": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 450
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 35
+        },
+        "3": {
+          "type": 11,
+          "count": 1100
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3020,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 45000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 21,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1001": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_3",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 1001,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 4000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 2,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1000": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_3",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 500
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "bAchievement": false,
+      "id": 1000,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 2000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 1,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3000": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 500
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 2000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "type": 99,
+          "count": 200
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "bAchievement": false,
+      "id": 3000,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 2000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 1,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2000": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 5
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 5
+        },
+        "3": {
+          "type": 11,
+          "count": 500
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_castleBox_HeroEXP_2",
+          "type": 99,
+          "count": 5
+        }
+      },
+      "bAchievement": false,
+      "id": 2000,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 2000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 1,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1014": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "type": 99,
+          "count": 150
+        },
+        "2": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 150
+        },
+        "3": {
+          "id": "item_SpeedUp_build_8h",
+          "type": 99,
+          "count": 50
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1014,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 15,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2014": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 150
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 30
+        },
+        "3": {
+          "type": 11,
+          "count": 5500
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 50000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2014,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 15,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1011": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 35
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "type": 99,
+          "count": 150
+        },
+        "2": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 150
+        },
+        "3": {
+          "id": "item_SpeedUp_build_8h",
+          "type": 99,
+          "count": 50
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1011,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 9600000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 12,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2011": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 35
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 150
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 30
+        },
+        "3": {
+          "type": 11,
+          "count": 5500
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 50000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2011,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 9600000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 12,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2007": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 7
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 45
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 10
+        },
+        "3": {
+          "type": 11,
+          "count": 3000
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_4",
+          "type": 99,
+          "count": 50
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2007,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 640000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 8,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3007": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 7
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 3000
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 26000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 200
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3007,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 640000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 8,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3003": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 700
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 6000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "type": 99,
+          "count": 200
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 3003,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 4,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1007": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 7
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_4",
+          "type": 99,
+          "count": 40
+        },
+        "2": {
+          "id": "item_castleBox_Food_4",
+          "type": 99,
+          "count": 40
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "type": 99,
+          "count": 40
+        },
+        "4": {
+          "type": 11,
+          "count": 3000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1007,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 640000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 8,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1003": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_castleBox_Food_3",
+          "type": 99,
+          "count": 20
+        },
+        "3": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "4": {
+          "type": 11,
+          "count": 700
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 1003,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 4,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1004": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Metal_3",
+          "type": 99,
+          "count": 40
+        },
+        "2": {
+          "id": "item_castleBox_Food_3",
+          "type": 99,
+          "count": 40
+        },
+        "3": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 40
+        },
+        "4": {
+          "type": 11,
+          "count": 1000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 1004,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 80000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 5,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3004": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 1000
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 8000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "type": 99,
+          "count": 400
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 3004,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 80000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 5,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3021": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 160
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "type": 99,
+          "count": 4
+        },
+        "3": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 4
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3021,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 50000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 22,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3019": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 400
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 30
+        },
+        "3": {
+          "type": 11,
+          "count": 1000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3019,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 20,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3018": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 350
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 25
+        },
+        "3": {
+          "type": 11,
+          "count": 900
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3018,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 36000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 19,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3017": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 140
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "type": 99,
+          "count": 4
+        },
+        "3": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 4
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3017,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 32000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 18,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3011": {
+      "seasonId": 0,
+      "openCondition": {
+        "1": {
+          "id": 100004,
+          "param2": 1,
+          "param1": 35
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_equipment_equipmentDrawing_mythology",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 5500
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 50000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3011,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 9600000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 12,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3014": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "type": 99,
+          "count": 100
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "type": 99,
+          "count": 3
+        },
+        "3": {
+          "id": "item_module_props_Box_4",
+          "type": 99,
+          "count": 3
+        },
+        "4": {
+          "type": 11,
+          "count": 5500
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3014,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 20000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 15,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3012": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 200
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 15
+        },
+        "3": {
+          "type": 11,
+          "count": 500
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3012,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 13000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 13,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1016": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 35
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 35
+        },
+        "3": {
+          "type": 11,
+          "count": 1100
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1016,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 28000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 17,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2016": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 22
+        },
+        "2": {
+          "type": 11,
+          "count": 1100
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 6000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2016,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 28000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 17,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3016": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_fighter_jet_experience_card_3",
+          "type": 99,
+          "count": 400
+        },
+        "2": {
+          "id": "item_SpeedUp_general_60m",
+          "type": 99,
+          "count": 35
+        },
+        "3": {
+          "type": 11,
+          "count": 1100
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3016,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 28000000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 17,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3006": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 2000
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 12000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_05",
+          "type": 99,
+          "count": 150
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 3006,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 320000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 7,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "3001": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_Energy_3",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 500
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "type": 99,
+          "count": 2000
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "type": 99,
+          "count": 200
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 3001,
+      "openDays": 0,
+      "taskGroupID": 10003,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 4000000,
+          "param1": 440010301
+        }
+      },
+      "showSort": 2,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2019": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "type": 11,
+          "count": 1000
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 5000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2019,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 20,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2018": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 18
+        },
+        "2": {
+          "type": 11,
+          "count": 900
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 4000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2018,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 36000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 19,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2017": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_Awaken_universalFragment",
+          "type": 99,
+          "count": 40
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 40
+        },
+        "3": {
+          "type": 11,
+          "count": 5500
+        },
+        "4": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 50000
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2017,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 32000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 18,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2012": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 10
+        },
+        "2": {
+          "type": 11,
+          "count": 500
+        },
+        "3": {
+          "id": "item_HeroSkill_Book",
+          "type": 99,
+          "count": 3000
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 2012,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 13000000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 13,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2004": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 20
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 5
+        },
+        "3": {
+          "type": 11,
+          "count": 1000
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 40
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 2004,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 80000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 5,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2003": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 15
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 5
+        },
+        "3": {
+          "type": 11,
+          "count": 700
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 15
+        }
+      },
+      "bAchievement": false,
+      "id": 2003,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 40000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 4,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "2001": {
+      "seasonId": 0,
+      "openCondition": {},
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 5
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 5
+        },
+        "3": {
+          "type": 11,
+          "count": 500
+        },
+        "4": {
+          "id": "item_castleBox_HeroEXP_3",
+          "type": 99,
+          "count": 20
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 10
+        }
+      },
+      "bAchievement": false,
+      "id": 2001,
+      "openDays": 0,
+      "taskGroupID": 10002,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 4000000,
+          "param1": 440010201
+        }
+      },
+      "showSort": 2,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    },
+    "1012": {
+      "seasonId": 1,
+      "openCondition": {
+        "1": {
+          "id": 100012,
+          "param2": 0,
+          "param1": 1,
+          "param3": 1
+        }
+      },
+      "desc1": "",
+      "functionId": "",
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource3",
+          "type": 99,
+          "count": 15
+        },
+        "2": {
+          "id": "item_SpeedUp_build_60m",
+          "type": 99,
+          "count": 15
+        },
+        "3": {
+          "type": 11,
+          "count": 500
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 20
+        }
+      },
+      "bAchievement": false,
+      "id": 1012,
+      "openDays": 0,
+      "taskGroupID": 10001,
+      "target": {
+        "1": {
+          "id": 140012,
+          "param2": 13000000000,
+          "param1": 440010101
+        }
+      },
+      "showSort": 13,
+      "seasonOpenDay": 0,
+      "taskName": ""
+    }
+  }
+}

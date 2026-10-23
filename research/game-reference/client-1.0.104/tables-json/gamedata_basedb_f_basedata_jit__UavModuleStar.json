@@ -1,0 +1,3146 @@
+{
+  "data": {
+    "103200": {
+      "itemExp": 200,
+      "startUpSkills": {
+        "1": 4332001
+      },
+      "id": 103200,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1032,
+      "keyStarRating": 0,
+      "combatPower": 4000
+    },
+    "101903": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4319004
+      },
+      "id": 101903,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "102100": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4321001
+      },
+      "id": 102100,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "101003": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310004,
+        "2": 4310015
+      },
+      "id": 101003,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100805": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308006
+      },
+      "id": 100805,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "100902": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309003
+      },
+      "id": 100902,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "102404": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4324005
+      },
+      "id": 102404,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "100406": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304007
+      },
+      "id": 100406,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101705": {
+      "itemExp": 760000,
+      "startUpSkills": {
+        "1": 4317006
+      },
+      "id": 101705,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "101404": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4314005
+      },
+      "id": 101404,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "101804": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4318005
+      },
+      "id": 101804,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "101503": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4315004
+      },
+      "id": 101503,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "100600": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306001,
+        "2": 4306012
+      },
+      "id": 100600,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "101301": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4313002
+      },
+      "id": 101301,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101704": {
+      "itemExp": 480000,
+      "startUpSkills": {
+        "1": 4317005
+      },
+      "id": 101704,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "101000": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310001,
+        "2": 4310012
+      },
+      "id": 101000,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100906": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309007
+      },
+      "id": 100906,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "100904": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309005
+      },
+      "id": 100904,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "100903": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309004
+      },
+      "id": 100903,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100304": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303005
+      },
+      "id": 100304,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "100201": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302002,
+        "2": 4302013
+      },
+      "id": 100201,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100206": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302007,
+        "2": 4302018
+      },
+      "id": 100206,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "102302": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4323003
+      },
+      "id": 102302,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "101304": {
+      "itemExp": 480000,
+      "startUpSkills": {
+        "1": 4313005
+      },
+      "id": 101304,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "100603": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306004,
+        "2": 4306015
+      },
+      "id": 100603,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100704": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307005
+      },
+      "id": 100704,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "100205": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302006,
+        "2": 4302017
+      },
+      "id": 100205,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "102401": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4324002
+      },
+      "id": 102401,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "100405": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304006
+      },
+      "id": 100405,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "100400": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304001
+      },
+      "id": 100400,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "101904": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4319005
+      },
+      "id": 101904,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "100806": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308007
+      },
+      "id": 100806,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "100401": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304002
+      },
+      "id": 100401,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "101302": {
+      "itemExp": 160000,
+      "startUpSkills": {
+        "1": 4313003
+      },
+      "id": 101302,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100102": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301003
+      },
+      "id": 100102,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "100706": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307007
+      },
+      "id": 100706,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101106": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311007
+      },
+      "id": 101106,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101501": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4315002
+      },
+      "id": 101501,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101400": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4314001
+      },
+      "id": 101400,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "100101": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301002
+      },
+      "id": 100101,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100204": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302005,
+        "2": 4302016
+      },
+      "id": 100204,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "101905": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4319006
+      },
+      "id": 101905,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "102003": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4320004
+      },
+      "id": 102003,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "100905": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309006
+      },
+      "id": 100905,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101202": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312003
+      },
+      "id": 101202,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "101803": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4318004
+      },
+      "id": 101803,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101104": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311005
+      },
+      "id": 101104,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "101505": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4315006
+      },
+      "id": 101505,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "101502": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4315003
+      },
+      "id": 101502,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100601": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306002,
+        "2": 4306013
+      },
+      "id": 100601,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100500": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305001
+      },
+      "id": 100500,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100502": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305003
+      },
+      "id": 100502,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "102202": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4322003
+      },
+      "id": 102202,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100804": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308005
+      },
+      "id": 100804,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "100106": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301007
+      },
+      "id": 100106,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "102103": {
+      "itemExp": 280000,
+      "startUpSkills": {
+        "1": 4321004
+      },
+      "id": 102103,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101805": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4318006
+      },
+      "id": 101805,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "100801": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308002
+      },
+      "id": 100801,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100105": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301006
+      },
+      "id": 100105,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101902": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4319003
+      },
+      "id": 101902,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100203": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302004,
+        "2": 4302015
+      },
+      "id": 100203,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "101200": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312001
+      },
+      "id": 101200,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100103": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301004
+      },
+      "id": 100103,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100200": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302001,
+        "2": 4302012
+      },
+      "id": 100200,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "102205": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4322006
+      },
+      "id": 102205,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "103000": {
+      "itemExp": 200,
+      "startUpSkills": {
+        "1": 4330001
+      },
+      "id": 103000,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1030,
+      "keyStarRating": 0,
+      "combatPower": 4000
+    },
+    "102900": {
+      "itemExp": 400,
+      "startUpSkills": {
+        "1": 4329001
+      },
+      "id": 102900,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1029,
+      "keyStarRating": 0,
+      "combatPower": 4000
+    },
+    "101103": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311004
+      },
+      "id": 101103,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100104": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301005
+      },
+      "id": 100104,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "102800": {
+      "itemExp": 2000,
+      "startUpSkills": {
+        "1": 4328001
+      },
+      "id": 102800,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1028,
+      "keyStarRating": 0,
+      "combatPower": 8000
+    },
+    "102700": {
+      "itemExp": 2000,
+      "startUpSkills": {
+        "1": 4327001
+      },
+      "id": 102700,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1027,
+      "keyStarRating": 0,
+      "combatPower": 8000
+    },
+    "102600": {
+      "itemExp": 2000,
+      "startUpSkills": {
+        "1": 4326001
+      },
+      "id": 102600,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1026,
+      "keyStarRating": 0,
+      "combatPower": 8000
+    },
+    "100506": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305007
+      },
+      "id": 100506,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "102500": {
+      "itemExp": 4000,
+      "startUpSkills": {
+        "1": 4325001
+      },
+      "id": 102500,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1025,
+      "keyStarRating": 0,
+      "combatPower": 8000
+    },
+    "102300": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4323001
+      },
+      "id": 102300,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "102403": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4324004
+      },
+      "id": 102403,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101701": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4317002
+      },
+      "id": 101701,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "100901": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309002
+      },
+      "id": 100901,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "102402": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4324003
+      },
+      "id": 102402,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100302": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303003
+      },
+      "id": 100302,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "102400": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4324001
+      },
+      "id": 102400,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "101206": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312007
+      },
+      "id": 101206,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101402": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4314003
+      },
+      "id": 101402,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "102304": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4323005
+      },
+      "id": 102304,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "102303": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4323004
+      },
+      "id": 102303,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "100100": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4301001
+      },
+      "id": 100100,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1001,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "101600": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4316001
+      },
+      "id": 101600,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "100605": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306006,
+        "2": 4306017
+      },
+      "id": 100605,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "102301": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4323002
+      },
+      "id": 102301,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "102405": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4324006
+      },
+      "id": 102405,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1024,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "103100": {
+      "itemExp": 200,
+      "startUpSkills": {
+        "1": 4331001
+      },
+      "id": 103100,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 0,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1031,
+      "keyStarRating": 0,
+      "combatPower": 4000
+    },
+    "100300": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303001
+      },
+      "id": 100300,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "101002": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310003,
+        "2": 4310014
+      },
+      "id": 101002,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "100606": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306007,
+        "2": 4306018
+      },
+      "id": 100606,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101403": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4314004
+      },
+      "id": 101403,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "102204": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4322005
+      },
+      "id": 102204,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "102201": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4322002
+      },
+      "id": 102201,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "102203": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4322004
+      },
+      "id": 102203,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101300": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4313001
+      },
+      "id": 101300,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "102005": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4320006
+      },
+      "id": 102005,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "101900": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4319001
+      },
+      "id": 101900,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "100505": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305006
+      },
+      "id": 100505,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101800": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4318001
+      },
+      "id": 101800,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "101801": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4318002
+      },
+      "id": 101801,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101201": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312002
+      },
+      "id": 101201,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100404": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304005
+      },
+      "id": 100404,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "101405": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4314006
+      },
+      "id": 101405,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "101005": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310006,
+        "2": 4310017
+      },
+      "id": 101005,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "102200": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4322001
+      },
+      "id": 102200,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1022,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "101001": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310002,
+        "2": 4310013
+      },
+      "id": 101001,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100303": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303004
+      },
+      "id": 100303,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "102004": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4320005
+      },
+      "id": 102004,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "102002": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4320003
+      },
+      "id": 102002,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "101601": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4316002
+      },
+      "id": 101601,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101305": {
+      "itemExp": 760000,
+      "startUpSkills": {
+        "1": 4313006
+      },
+      "id": 101305,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "102001": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4320002
+      },
+      "id": 102001,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101105": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311006
+      },
+      "id": 101105,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101604": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4316005
+      },
+      "id": 101604,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "100803": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308004
+      },
+      "id": 100803,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100503": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305004
+      },
+      "id": 100503,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "102104": {
+      "itemExp": 480000,
+      "startUpSkills": {
+        "1": 4321005
+      },
+      "id": 102104,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "101102": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311003
+      },
+      "id": 101102,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "100202": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4302003,
+        "2": 4302014
+      },
+      "id": 100202,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1002,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "102305": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4323006
+      },
+      "id": 102305,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1023,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "100604": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306005,
+        "2": 4306016
+      },
+      "id": 100604,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "102105": {
+      "itemExp": 760000,
+      "startUpSkills": {
+        "1": 4321006
+      },
+      "id": 102105,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "101802": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4318003
+      },
+      "id": 101802,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1018,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100306": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303007
+      },
+      "id": 100306,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "102102": {
+      "itemExp": 160000,
+      "startUpSkills": {
+        "1": 4321003
+      },
+      "id": 102102,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "101100": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311001
+      },
+      "id": 101100,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "101004": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310005,
+        "2": 4310016
+      },
+      "id": 101004,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "101700": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4317001
+      },
+      "id": 101700,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "100700": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307001
+      },
+      "id": 100700,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100403": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304004
+      },
+      "id": 100403,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "101401": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4314002
+      },
+      "id": 101401,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1014,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101101": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4311002
+      },
+      "id": 101101,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1011,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "101605": {
+      "itemExp": 380000,
+      "startUpSkills": {
+        "1": 4316006
+      },
+      "id": 101605,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 1,
+      "combatPower": 210000
+    },
+    "100305": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303006
+      },
+      "id": 100305,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101205": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312006
+      },
+      "id": 101205,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "101602": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4316003
+      },
+      "id": 101602,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "102000": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4320001
+      },
+      "id": 102000,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1020,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "101500": {
+      "itemExp": 20000,
+      "startUpSkills": {
+        "1": 4315001
+      },
+      "id": 101500,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 0,
+      "combatPower": 20000
+    },
+    "102101": {
+      "itemExp": 80000,
+      "startUpSkills": {
+        "1": 4321002
+      },
+      "id": 102101,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1021,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101901": {
+      "itemExp": 40000,
+      "startUpSkills": {
+        "1": 4319002
+      },
+      "id": 101901,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1019,
+      "keyStarRating": 0,
+      "combatPower": 30000
+    },
+    "101303": {
+      "itemExp": 280000,
+      "startUpSkills": {
+        "1": 4313004
+      },
+      "id": 101303,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1013,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101603": {
+      "itemExp": 140000,
+      "startUpSkills": {
+        "1": 4316004
+      },
+      "id": 101603,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1016,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "100900": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4309001
+      },
+      "id": 100900,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1009,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100501": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305002
+      },
+      "id": 100501,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100402": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4304003
+      },
+      "id": 100402,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1004,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "101203": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312004
+      },
+      "id": 101203,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "101204": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4312005
+      },
+      "id": 101204,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1012,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "101006": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4310007,
+        "2": 4310018
+      },
+      "id": 101006,
+      "resetRefund": 28,
+      "starLevel": 6,
+      "starNumber": 15,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1010,
+      "keyStarRating": 0,
+      "combatPower": 600000
+    },
+    "101703": {
+      "itemExp": 280000,
+      "startUpSkills": {
+        "1": 4317004
+      },
+      "id": 101703,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 0,
+      "combatPower": 75000
+    },
+    "101702": {
+      "itemExp": 160000,
+      "startUpSkills": {
+        "1": 4317003
+      },
+      "id": 101702,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1017,
+      "keyStarRating": 1,
+      "combatPower": 60000
+    },
+    "100802": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308003
+      },
+      "id": 100802,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "100504": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4305005
+      },
+      "id": 100504,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1005,
+      "keyStarRating": 0,
+      "combatPower": 340000
+    },
+    "100800": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4308001
+      },
+      "id": 100800,
+      "resetRefund": 0,
+      "starLevel": 0,
+      "starNumber": 1,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1008,
+      "keyStarRating": 0,
+      "combatPower": 120000
+    },
+    "100705": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307006
+      },
+      "id": 100705,
+      "resetRefund": 18,
+      "starLevel": 5,
+      "starNumber": 10,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 1,
+      "combatPower": 500000
+    },
+    "100703": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307004
+      },
+      "id": 100703,
+      "resetRefund": 6,
+      "starLevel": 3,
+      "starNumber": 5,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 0,
+      "combatPower": 280000
+    },
+    "100701": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307002
+      },
+      "id": 100701,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    },
+    "100702": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4307003
+      },
+      "id": 100702,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1007,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "100602": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4306003,
+        "2": 4306014
+      },
+      "id": 100602,
+      "resetRefund": 3,
+      "starLevel": 2,
+      "starNumber": 3,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1006,
+      "keyStarRating": 1,
+      "combatPower": 240000
+    },
+    "101504": {
+      "itemExp": 240000,
+      "startUpSkills": {
+        "1": 4315005
+      },
+      "id": 101504,
+      "resetRefund": 11,
+      "starLevel": 4,
+      "starNumber": 7,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1015,
+      "keyStarRating": 0,
+      "combatPower": 110000
+    },
+    "100301": {
+      "itemExp": 0,
+      "startUpSkills": {
+        "1": 4303002
+      },
+      "id": 100301,
+      "resetRefund": 1,
+      "starLevel": 1,
+      "starNumber": 2,
+      "skillDesParam2": "",
+      "StarUpParam2": "",
+      "skillDesParam1": "",
+      "skillDes": "",
+      "StarUpParam1": "",
+      "StarUpDes": "",
+      "moduleId": 1003,
+      "keyStarRating": 0,
+      "combatPower": 160000
+    }
+  },
+  "excelName": "Uav_无人机",
+  "len": 164,
+  "isNeedTransform": true,
+  "first": 100100,
+  "key": "id"
+}

@@ -1,0 +1,19 @@
+{
+  "key": "id",
+  "excelName": "BlackMine_燃霜矿场",
+  "len": 1,
+  "first": 1,
+  "data": {
+    "1": {
+      "id": 1,
+      "buffString": {
+        "1": {
+          "Type": 10001,
+          "Value": 50,
+          "Source": 601
+        }
+      }
+    }
+  },
+  "isNeedTransform": false
+}

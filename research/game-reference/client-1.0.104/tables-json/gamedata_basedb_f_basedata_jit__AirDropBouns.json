@@ -1,0 +1,77 @@
+{
+  "enum": {
+    "AIRDROPBOXQUALITY": {
+      "RED": 2,
+      "NULL": 3,
+      "ORANGE": 1,
+      "FREE": 0
+    }
+  },
+  "excelName": "Activity_AirDrop_空投召唤",
+  "first": 1,
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "1": {
+      "icon": "icon_bjzhicon_jxqyng03",
+      "multipleGroup": 1,
+      "rebateRatio": 0,
+      "quality": 0,
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 487
+        }
+      },
+      "name": "",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 1
+    },
+    "4": {
+      "icon": "",
+      "multipleGroup": 1,
+      "rebateRatio": 0,
+      "quality": 3,
+      "random": {
+        "1": {
+          "id": 4,
+          "weight": 6899
+        }
+      },
+      "name": "",
+      "atlas": "",
+      "id": 4
+    },
+    "3": {
+      "icon": "icon_jxqy_baoxiang05",
+      "multipleGroup": 1,
+      "rebateRatio": 45,
+      "quality": 2,
+      "random": {
+        "1": {
+          "id": 3,
+          "weight": 1308
+        }
+      },
+      "name": "",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 3
+    },
+    "2": {
+      "icon": "icon_jxqy_baoxiang04",
+      "multipleGroup": 1,
+      "rebateRatio": 35,
+      "quality": 1,
+      "random": {
+        "1": {
+          "id": 2,
+          "weight": 1306
+        }
+      },
+      "name": "",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "id": 2
+    }
+  },
+  "len": 4
+}

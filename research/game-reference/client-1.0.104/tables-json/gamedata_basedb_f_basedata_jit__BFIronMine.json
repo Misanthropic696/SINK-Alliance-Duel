@@ -1,0 +1,219 @@
+{
+  "key": "id",
+  "len": 30,
+  "data": {
+    "4": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 2930,
+      "id": 4,
+      "productMaxTime": 30720
+    },
+    "5": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 3669,
+      "id": 5,
+      "productMaxTime": 31200
+    },
+    "6": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 4396,
+      "id": 6,
+      "productMaxTime": 31680
+    },
+    "7": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 5128,
+      "id": 7,
+      "productMaxTime": 32160
+    },
+    "13": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 9510,
+      "id": 13,
+      "productMaxTime": 35040
+    },
+    "12": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 8770,
+      "id": 12,
+      "productMaxTime": 34560
+    },
+    "11": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 8048,
+      "id": 11,
+      "productMaxTime": 34080
+    },
+    "10": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 7319,
+      "id": 10,
+      "productMaxTime": 33600
+    },
+    "9": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 6590,
+      "id": 9,
+      "productMaxTime": 33120
+    },
+    "8": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 5852,
+      "id": 8,
+      "productMaxTime": 32640
+    },
+    "30": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 21912,
+      "id": 30,
+      "productMaxTime": 43200
+    },
+    "20": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 14613,
+      "id": 20,
+      "productMaxTime": 38400
+    },
+    "29": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 21186,
+      "id": 29,
+      "productMaxTime": 42720
+    },
+    "28": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 20457,
+      "id": 28,
+      "productMaxTime": 42240
+    },
+    "16": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 11696,
+      "id": 16,
+      "productMaxTime": 36480
+    },
+    "17": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 12426,
+      "id": 17,
+      "productMaxTime": 36960
+    },
+    "14": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 10231,
+      "id": 14,
+      "productMaxTime": 35520
+    },
+    "15": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 10960,
+      "id": 15,
+      "productMaxTime": 36000
+    },
+    "19": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 13885,
+      "id": 19,
+      "productMaxTime": 37920
+    },
+    "18": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 13152,
+      "id": 18,
+      "productMaxTime": 37440
+    },
+    "27": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 19730,
+      "id": 27,
+      "productMaxTime": 41760
+    },
+    "26": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 18990,
+      "id": 26,
+      "productMaxTime": 41280
+    },
+    "25": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 18263,
+      "id": 25,
+      "productMaxTime": 40800
+    },
+    "24": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 17533,
+      "id": 24,
+      "productMaxTime": 40320
+    },
+    "23": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 16800,
+      "id": 23,
+      "productMaxTime": 39840
+    },
+    "22": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 16070,
+      "id": 22,
+      "productMaxTime": 39360
+    },
+    "21": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 15340,
+      "id": 21,
+      "productMaxTime": 38880
+    },
+    "1": {
+      "fillTime": 60,
+      "minTime": 1,
+      "speed": 72,
+      "id": 1,
+      "productMaxTime": 12600
+    },
+    "2": {
+      "fillTime": 60,
+      "minTime": 5,
+      "speed": 1474,
+      "id": 2,
+      "productMaxTime": 29760
+    },
+    "3": {
+      "fillTime": 60,
+      "minTime": 120,
+      "speed": 2206,
+      "id": 3,
+      "productMaxTime": 30240
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BuildingFunction_建筑功能"
+}

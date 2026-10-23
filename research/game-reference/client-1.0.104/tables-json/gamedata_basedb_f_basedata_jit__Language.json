@@ -1,0 +1,214 @@
+{
+  "excelName": "多语言",
+  "key": "id",
+  "len": 17,
+  "isNeedTransform": false,
+  "data": {
+    "19": {
+      "translateType": "nl",
+      "sdkLocal": 18,
+      "id": 19,
+      "systemLanguageType": {
+        "1": 9
+      },
+      "displayName": "Nederlands",
+      "isInner": 0,
+      "translateTitleType": 19,
+      "displayNameKey": "sys_language_translate_19"
+    },
+    "18": {
+      "translateType": "pl",
+      "sdkLocal": 19,
+      "id": 18,
+      "systemLanguageType": {
+        "1": 27
+      },
+      "displayName": "Polski",
+      "isInner": 0,
+      "translateTitleType": 18,
+      "displayNameKey": "sys_language_translate_18"
+    },
+    "17": {
+      "translateType": "vi",
+      "sdkLocal": 4,
+      "id": 17,
+      "systemLanguageType": {
+        "1": 39
+      },
+      "displayName": "Tiếng Việt",
+      "isInner": 0,
+      "translateTitleType": 17,
+      "displayNameKey": "sys_language_translate_17"
+    },
+    "16": {
+      "translateType": "tr",
+      "sdkLocal": 7,
+      "id": 16,
+      "systemLanguageType": {
+        "1": 37
+      },
+      "displayName": "Türkçe",
+      "isInner": 0,
+      "translateTitleType": 16,
+      "displayNameKey": "sys_language_translate_16"
+    },
+    "12": {
+      "translateType": "th",
+      "sdkLocal": 5,
+      "id": 12,
+      "systemLanguageType": {
+        "1": 36
+      },
+      "displayName": "Thai",
+      "isInner": 0,
+      "translateTitleType": 12,
+      "displayNameKey": "sys_language_translate_12"
+    },
+    "13": {
+      "translateType": "ja",
+      "sdkLocal": 8,
+      "id": 13,
+      "systemLanguageType": {
+        "1": 22
+      },
+      "displayName": "日本語",
+      "isInner": 0,
+      "translateTitleType": 13,
+      "displayNameKey": "sys_language_translate_13"
+    },
+    "14": {
+      "translateType": "id",
+      "sdkLocal": 16,
+      "id": 14,
+      "systemLanguageType": {
+        "1": 20
+      },
+      "displayName": "Indonesian",
+      "isInner": 0,
+      "translateTitleType": 14,
+      "displayNameKey": "sys_language_translate_14"
+    },
+    "15": {
+      "translateType": "ko",
+      "sdkLocal": 6,
+      "id": 15,
+      "systemLanguageType": {
+        "1": 23
+      },
+      "displayName": "한국어",
+      "isInner": 0,
+      "translateTitleType": 15,
+      "displayNameKey": "sys_language_translate_15"
+    },
+    "5": {
+      "translateType": "fr",
+      "sdkLocal": 9,
+      "id": 5,
+      "systemLanguageType": {
+        "1": 14
+      },
+      "displayName": "Français",
+      "isInner": 0,
+      "translateTitleType": 5,
+      "displayNameKey": "sys_language_translate_05"
+    },
+    "2": {
+      "translateType": "zh_cn",
+      "sdkLocal": 1,
+      "id": 2,
+      "systemLanguageType": {
+        "1": 6,
+        "2": 40
+      },
+      "displayName": "中文（简体）",
+      "isInner": 1,
+      "translateTitleType": 2,
+      "displayNameKey": "sys_language_translate_02"
+    },
+    "3": {
+      "translateType": "zh_tw",
+      "sdkLocal": 3,
+      "id": 3,
+      "systemLanguageType": {
+        "1": 41
+      },
+      "displayName": "繁体中文",
+      "isInner": 0,
+      "translateTitleType": 3,
+      "displayNameKey": "sys_language_translate_03"
+    },
+    "8": {
+      "translateType": "it",
+      "sdkLocal": 14,
+      "id": 8,
+      "systemLanguageType": {
+        "1": 21
+      },
+      "displayName": "Italiano",
+      "isInner": 0,
+      "translateTitleType": 8,
+      "displayNameKey": "sys_language_translate_08"
+    },
+    "9": {
+      "translateType": "pt",
+      "sdkLocal": 11,
+      "id": 9,
+      "systemLanguageType": {
+        "1": 28
+      },
+      "displayName": "Português",
+      "isInner": 0,
+      "translateTitleType": 9,
+      "displayNameKey": "sys_language_translate_09"
+    },
+    "6": {
+      "translateType": "de",
+      "sdkLocal": 10,
+      "id": 6,
+      "systemLanguageType": {
+        "1": 15
+      },
+      "displayName": "Deutsch",
+      "isInner": 0,
+      "translateTitleType": 6,
+      "displayNameKey": "sys_language_translate_06"
+    },
+    "1": {
+      "translateType": "en",
+      "sdkLocal": 2,
+      "id": 1,
+      "systemLanguageType": {
+        "1": 10
+      },
+      "displayName": "English",
+      "isInner": 0,
+      "translateTitleType": 1,
+      "displayNameKey": "sys_language_translate_01"
+    },
+    "11": {
+      "translateType": "es",
+      "sdkLocal": 12,
+      "id": 11,
+      "systemLanguageType": {
+        "1": 34
+      },
+      "displayName": "Español",
+      "isInner": 0,
+      "translateTitleType": 11,
+      "displayNameKey": "sys_language_translate_11"
+    },
+    "10": {
+      "translateType": "ru",
+      "sdkLocal": 13,
+      "id": 10,
+      "systemLanguageType": {
+        "1": 30
+      },
+      "displayName": "Русский",
+      "isInner": 0,
+      "translateTitleType": 10,
+      "displayNameKey": "sys_language_translate_10"
+    }
+  },
+  "first": 1
+}

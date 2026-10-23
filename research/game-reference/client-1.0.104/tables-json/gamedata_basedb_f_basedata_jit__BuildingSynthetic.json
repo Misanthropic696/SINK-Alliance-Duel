@@ -1,0 +1,16 @@
+{
+  "data": {},
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 0,
+  "excelName": "Building_建筑",
+  "first": 0,
+  "enum": {
+    "BUILDTYPE": {
+      "COREBUILD": 1,
+      "ITEMBUILD": 4,
+      "DECORATEBUILD": 3,
+      "RESOURCEBUILD": 2
+    }
+  }
+}

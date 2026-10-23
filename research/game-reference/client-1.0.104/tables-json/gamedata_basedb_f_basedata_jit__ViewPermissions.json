@@ -1,0 +1,489 @@
+{
+  "first": 1,
+  "data": {
+    "1003": {
+      "destinationButton": 1,
+      "id": 1003,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1003
+    },
+    "9": {
+      "destinationButton": 1,
+      "id": 9,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 9
+    },
+    "1005": {
+      "destinationButton": 1,
+      "id": 1005,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1005
+    },
+    "10": {
+      "destinationButton": 1,
+      "id": 10,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 10
+    },
+    "8": {
+      "destinationButton": 0,
+      "id": 8,
+      "callbackButton": 0,
+      "speedupButton": 0,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {},
+      "startButton": 0,
+      "returnSpeedupItem": {},
+      "detailButton": 1,
+      "callbackItem": 0,
+      "queueType": 8
+    },
+    "1002": {
+      "destinationButton": 1,
+      "id": 1002,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1002
+    },
+    "7": {
+      "destinationButton": 1,
+      "id": 7,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 7
+    },
+    "1001": {
+      "destinationButton": 1,
+      "id": 1001,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1001
+    },
+    "12": {
+      "destinationButton": 1,
+      "id": 12,
+      "callbackButton": 0,
+      "speedupButton": 0,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {},
+      "startButton": 1,
+      "returnSpeedupItem": {},
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 12
+    },
+    "13": {
+      "destinationButton": 1,
+      "id": 13,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 13
+    },
+    "14": {
+      "destinationButton": 1,
+      "id": 14,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 14
+    },
+    "3": {
+      "destinationButton": 1,
+      "id": 3,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 3
+    },
+    "4": {
+      "destinationButton": 1,
+      "id": 4,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 4
+    },
+    "1": {
+      "destinationButton": 1,
+      "id": 1,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1
+    },
+    "2": {
+      "destinationButton": 1,
+      "id": 2,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 2
+    },
+    "6": {
+      "destinationButton": 1,
+      "id": 6,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 6
+    },
+    "5": {
+      "destinationButton": 1,
+      "id": 5,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 5
+    },
+    "26": {
+      "destinationButton": 1,
+      "id": 26,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {},
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 26
+    },
+    "1007": {
+      "destinationButton": 1,
+      "id": 1007,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1007
+    },
+    "25": {
+      "destinationButton": 1,
+      "id": 25,
+      "callbackButton": 1,
+      "speedupButton": 0,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {},
+      "startButton": 1,
+      "returnSpeedupItem": {},
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 25
+    },
+    "15": {
+      "destinationButton": 1,
+      "id": 15,
+      "callbackButton": 1,
+      "speedupButton": 0,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {},
+      "startButton": 1,
+      "returnSpeedupItem": {},
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 15
+    },
+    "27": {
+      "destinationButton": 1,
+      "id": 27,
+      "callbackButton": 0,
+      "speedupButton": 0,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {},
+      "startButton": 1,
+      "returnSpeedupItem": {},
+      "detailButton": 1,
+      "callbackItem": 0,
+      "queueType": 27
+    },
+    "24": {
+      "destinationButton": 1,
+      "id": 24,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 1,
+      "callbackItem": 1,
+      "queueType": 3
+    },
+    "1004": {
+      "destinationButton": 1,
+      "id": 1004,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1004
+    },
+    "11": {
+      "destinationButton": 1,
+      "id": 11,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 11
+    },
+    "1008": {
+      "destinationButton": 1,
+      "id": 1008,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1008
+    },
+    "1006": {
+      "destinationButton": 1,
+      "id": 1006,
+      "callbackButton": 1,
+      "speedupButton": 1,
+      "prefab": "WorldMap/Prefab/Team/MapTeam.prefab",
+      "speedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "startButton": 1,
+      "returnSpeedupItem": {
+        "1": 3,
+        "2": 4
+      },
+      "detailButton": 0,
+      "callbackItem": 1,
+      "queueType": 1006
+    }
+  },
+  "isNeedTransform": false,
+  "len": 27,
+  "excelName": "ScanQueue_查看队列",
+  "key": "id"
+}

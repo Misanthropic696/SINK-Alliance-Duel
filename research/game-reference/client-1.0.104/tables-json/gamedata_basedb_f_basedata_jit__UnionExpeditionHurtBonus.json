@@ -1,0 +1,74 @@
+{
+  "first": 1,
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "UnionExpedition_联盟远征",
+  "len": 5,
+  "data": {
+    "3": {
+      "maxDamg": 16000000,
+      "minDamg": 10000001,
+      "id": 3,
+      "actId": 1,
+      "extraBenefit": {
+        "1": {
+          "Source": 704,
+          "Type": 10017,
+          "Value": 0.06
+        }
+      }
+    },
+    "4": {
+      "maxDamg": 25000000,
+      "minDamg": 16000001,
+      "id": 4,
+      "actId": 1,
+      "extraBenefit": {
+        "1": {
+          "Source": 704,
+          "Type": 10017,
+          "Value": 0.08
+        }
+      }
+    },
+    "1": {
+      "maxDamg": 5000000,
+      "minDamg": 2000000,
+      "id": 1,
+      "actId": 1,
+      "extraBenefit": {
+        "1": {
+          "Source": 704,
+          "Type": 10017,
+          "Value": 0.02
+        }
+      }
+    },
+    "2": {
+      "maxDamg": 10000000,
+      "minDamg": 5000001,
+      "id": 2,
+      "actId": 1,
+      "extraBenefit": {
+        "1": {
+          "Source": 704,
+          "Type": 10017,
+          "Value": 0.04
+        }
+      }
+    },
+    "5": {
+      "maxDamg": 999999999999,
+      "minDamg": 25000001,
+      "id": 5,
+      "actId": 1,
+      "extraBenefit": {
+        "1": {
+          "Source": 704,
+          "Type": 10017,
+          "Value": 0.1
+        }
+      }
+    }
+  }
+}

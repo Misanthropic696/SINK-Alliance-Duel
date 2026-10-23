@@ -1,0 +1,8409 @@
+{
+  "key": "id",
+  "len": 600,
+  "excelName": "HeroUniqueEquipment_英雄专武",
+  "data": {
+    "512": {
+      "id": 512,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 736640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 512,
+      "type": 1,
+      "ability": 110496
+    },
+    "212": {
+      "id": 212,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 144000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 212,
+      "type": 1,
+      "ability": 21600
+    },
+    "112": {
+      "id": 112,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 71680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 112,
+      "type": 1,
+      "ability": 10752
+    },
+    "412": {
+      "id": 412,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 480640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 412,
+      "type": 1,
+      "ability": 72096
+    },
+    "312": {
+      "id": 312,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 280320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 312,
+      "type": 1,
+      "ability": 42048
+    },
+    "105": {
+      "id": 105,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 67200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 105,
+      "type": 1,
+      "ability": 10080
+    },
+    "405": {
+      "id": 405,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 462720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 405,
+      "type": 1,
+      "ability": 69408
+    },
+    "505": {
+      "id": 505,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 718720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 505,
+      "type": 1,
+      "ability": 107808
+    },
+    "205": {
+      "id": 205,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 135040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 205,
+      "type": 1,
+      "ability": 20256
+    },
+    "305": {
+      "id": 305,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 266880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 305,
+      "type": 1,
+      "ability": 40032
+    },
+    "203": {
+      "id": 203,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 132480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 203,
+      "type": 1,
+      "ability": 19872
+    },
+    "103": {
+      "id": 103,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 65920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 103,
+      "type": 1,
+      "ability": 9888
+    },
+    "403": {
+      "id": 403,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 457600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 403,
+      "type": 1,
+      "ability": 68640
+    },
+    "303": {
+      "id": 303,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 263040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 303,
+      "type": 1,
+      "ability": 39456
+    },
+    "503": {
+      "id": 503,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 713600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 503,
+      "type": 1,
+      "ability": 107040
+    },
+    "113": {
+      "id": 113,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 72320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 113,
+      "type": 1,
+      "ability": 10848
+    },
+    "213": {
+      "id": 213,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 145280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 213,
+      "type": 1,
+      "ability": 21792
+    },
+    "313": {
+      "id": 313,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 282240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 313,
+      "type": 1,
+      "ability": 42336
+    },
+    "413": {
+      "id": 413,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 483200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 413,
+      "type": 1,
+      "ability": 72480
+    },
+    "511": {
+      "id": 511,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 734080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 511,
+      "type": 1,
+      "ability": 110112
+    },
+    "401": {
+      "id": 401,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 452480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 401,
+      "type": 1,
+      "ability": 67872
+    },
+    "301": {
+      "id": 301,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 259200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 301,
+      "type": 1,
+      "ability": 38880
+    },
+    "201": {
+      "id": 201,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 129920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 201,
+      "type": 1,
+      "ability": 19488
+    },
+    "101": {
+      "id": 101,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 64640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 101,
+      "type": 1,
+      "ability": 9696
+    },
+    "500": {
+      "id": 500,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 705920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 500,
+      "type": 1,
+      "ability": 105888
+    },
+    "600": {
+      "id": 600,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 961920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 600,
+      "type": 1,
+      "ability": 144288
+    },
+    "104": {
+      "id": 104,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 66560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 104,
+      "type": 1,
+      "ability": 9984
+    },
+    "400": {
+      "id": 400,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 449920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 400,
+      "type": 1,
+      "ability": 67488
+    },
+    "100": {
+      "id": 100,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 64000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 100,
+      "type": 1,
+      "ability": 9600
+    },
+    "200": {
+      "id": 200,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 128640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 200,
+      "type": 1,
+      "ability": 19296
+    },
+    "504": {
+      "id": 504,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 716160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 504,
+      "type": 1,
+      "ability": 107424
+    },
+    "404": {
+      "id": 404,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 460160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 404,
+      "type": 1,
+      "ability": 69024
+    },
+    "304": {
+      "id": 304,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 264960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 304,
+      "type": 1,
+      "ability": 39744
+    },
+    "204": {
+      "id": 204,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 133760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 204,
+      "type": 1,
+      "ability": 20064
+    },
+    "107": {
+      "id": 107,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 68480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 107,
+      "type": 1,
+      "ability": 10272
+    },
+    "207": {
+      "id": 207,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 137600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 207,
+      "type": 1,
+      "ability": 20640
+    },
+    "307": {
+      "id": 307,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 270720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 307,
+      "type": 1,
+      "ability": 40608
+    },
+    "407": {
+      "id": 407,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 467840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 407,
+      "type": 1,
+      "ability": 70176
+    },
+    "507": {
+      "id": 507,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 723840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 507,
+      "type": 1,
+      "ability": 108576
+    },
+    "102": {
+      "id": 102,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 65280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 102,
+      "type": 1,
+      "ability": 9792
+    },
+    "202": {
+      "id": 202,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 131200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 202,
+      "type": 1,
+      "ability": 19680
+    },
+    "106": {
+      "id": 106,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 67840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 106,
+      "type": 1,
+      "ability": 10176
+    },
+    "402": {
+      "id": 402,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 455040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 402,
+      "type": 1,
+      "ability": 68256
+    },
+    "306": {
+      "id": 306,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 268800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 306,
+      "type": 1,
+      "ability": 40320
+    },
+    "206": {
+      "id": 206,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 136320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 206,
+      "type": 1,
+      "ability": 20448
+    },
+    "506": {
+      "id": 506,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 721280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 506,
+      "type": 1,
+      "ability": 108192
+    },
+    "406": {
+      "id": 406,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 465280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 406,
+      "type": 1,
+      "ability": 69792
+    },
+    "311": {
+      "id": 311,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 278400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 311,
+      "type": 1,
+      "ability": 41760
+    },
+    "411": {
+      "id": 411,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 478080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 411,
+      "type": 1,
+      "ability": 71712
+    },
+    "111": {
+      "id": 111,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 71040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 111,
+      "type": 1,
+      "ability": 10656
+    },
+    "211": {
+      "id": 211,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 142720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 211,
+      "type": 1,
+      "ability": 21408
+    },
+    "510": {
+      "id": 510,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 731520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 510,
+      "type": 1,
+      "ability": 109728
+    },
+    "410": {
+      "id": 410,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 475520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 410,
+      "type": 1,
+      "ability": 71328
+    },
+    "310": {
+      "id": 310,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 276480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 310,
+      "type": 1,
+      "ability": 41472
+    },
+    "210": {
+      "id": 210,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 141440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 210,
+      "type": 1,
+      "ability": 21216
+    },
+    "110": {
+      "id": 110,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 70400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 110,
+      "type": 1,
+      "ability": 10560
+    },
+    "589": {
+      "id": 589,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 933760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 589,
+      "type": 1,
+      "ability": 140064
+    },
+    "489": {
+      "id": 489,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 677760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 489,
+      "type": 1,
+      "ability": 101664
+    },
+    "572": {
+      "id": 572,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 890240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 572,
+      "type": 1,
+      "ability": 133536
+    },
+    "472": {
+      "id": 472,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 634240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 472,
+      "type": 1,
+      "ability": 95136
+    },
+    "372": {
+      "id": 372,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 395520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 372,
+      "type": 1,
+      "ability": 59328
+    },
+    "272": {
+      "id": 272,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 220800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 272,
+      "type": 1,
+      "ability": 33120
+    },
+    "172": {
+      "id": 172,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 110080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 172,
+      "type": 1,
+      "ability": 16512
+    },
+    "198": {
+      "id": 198,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 126720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 198,
+      "type": 1,
+      "ability": 19008
+    },
+    "398": {
+      "id": 398,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 445440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 398,
+      "type": 1,
+      "ability": 66816
+    },
+    "298": {
+      "id": 298,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 254080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 298,
+      "type": 1,
+      "ability": 38112
+    },
+    "598": {
+      "id": 598,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 956800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 598,
+      "type": 1,
+      "ability": 143520
+    },
+    "498": {
+      "id": 498,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 700800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 498,
+      "type": 1,
+      "ability": 105120
+    },
+    "563": {
+      "id": 563,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 867200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 563,
+      "type": 1,
+      "ability": 130080
+    },
+    "463": {
+      "id": 463,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 611200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 463,
+      "type": 1,
+      "ability": 91680
+    },
+    "363": {
+      "id": 363,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 378240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 363,
+      "type": 1,
+      "ability": 56736
+    },
+    "263": {
+      "id": 263,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 209280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 263,
+      "type": 1,
+      "ability": 31392
+    },
+    "163": {
+      "id": 163,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 104320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 163,
+      "type": 1,
+      "ability": 15648
+    },
+    "256": {
+      "id": 256,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 200320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 256,
+      "type": 1,
+      "ability": 30048
+    },
+    "356": {
+      "id": 356,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 364800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 356,
+      "type": 1,
+      "ability": 54720
+    },
+    "156": {
+      "id": 156,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 99840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 156,
+      "type": 1,
+      "ability": 14976
+    },
+    "292": {
+      "id": 292,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 246400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 292,
+      "type": 1,
+      "ability": 36960
+    },
+    "192": {
+      "id": 192,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 122880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 192,
+      "type": 1,
+      "ability": 18432
+    },
+    "357": {
+      "id": 357,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 366720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 357,
+      "type": 1,
+      "ability": 55008
+    },
+    "257": {
+      "id": 257,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 201600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 257,
+      "type": 1,
+      "ability": 30240
+    },
+    "157": {
+      "id": 157,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 100480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 157,
+      "type": 1,
+      "ability": 15072
+    },
+    "473": {
+      "id": 473,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 636800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 473,
+      "type": 1,
+      "ability": 95520
+    },
+    "173": {
+      "id": 173,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 110720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 173,
+      "type": 1,
+      "ability": 16608
+    },
+    "273": {
+      "id": 273,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 222080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 273,
+      "type": 1,
+      "ability": 33312
+    },
+    "557": {
+      "id": 557,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 851840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 557,
+      "type": 1,
+      "ability": 127776
+    },
+    "457": {
+      "id": 457,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 595840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 457,
+      "type": 1,
+      "ability": 89376
+    },
+    "164": {
+      "id": 164,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 104960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 164,
+      "type": 1,
+      "ability": 15744
+    },
+    "460": {
+      "id": 460,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 603520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 460,
+      "type": 1,
+      "ability": 90528
+    },
+    "364": {
+      "id": 364,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 380160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 364,
+      "type": 1,
+      "ability": 57024
+    },
+    "264": {
+      "id": 264,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 210560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 264,
+      "type": 1,
+      "ability": 31584
+    },
+    "564": {
+      "id": 564,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 869760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 564,
+      "type": 1,
+      "ability": 130464
+    },
+    "464": {
+      "id": 464,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 613760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 464,
+      "type": 1,
+      "ability": 92064
+    },
+    "160": {
+      "id": 160,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 102400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 160,
+      "type": 1,
+      "ability": 15360
+    },
+    "260": {
+      "id": 260,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 205440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 260,
+      "type": 1,
+      "ability": 30816
+    },
+    "285": {
+      "id": 285,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 237440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 285,
+      "type": 1,
+      "ability": 35616
+    },
+    "361": {
+      "id": 361,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 374400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 361,
+      "type": 1,
+      "ability": 56160
+    },
+    "185": {
+      "id": 185,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 118400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 185,
+      "type": 1,
+      "ability": 17760
+    },
+    "261": {
+      "id": 261,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 206720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 261,
+      "type": 1,
+      "ability": 31008
+    },
+    "161": {
+      "id": 161,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 103040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 161,
+      "type": 1,
+      "ability": 15456
+    },
+    "366": {
+      "id": 366,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 384000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 366,
+      "type": 1,
+      "ability": 57600
+    },
+    "266": {
+      "id": 266,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 213120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 266,
+      "type": 1,
+      "ability": 31968
+    },
+    "166": {
+      "id": 166,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 106240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 166,
+      "type": 1,
+      "ability": 15936
+    },
+    "462": {
+      "id": 462,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 608640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 462,
+      "type": 1,
+      "ability": 91296
+    },
+    "162": {
+      "id": 162,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 103680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 162,
+      "type": 1,
+      "ability": 15552
+    },
+    "262": {
+      "id": 262,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 208000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 262,
+      "type": 1,
+      "ability": 31200
+    },
+    "566": {
+      "id": 566,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 874880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 566,
+      "type": 1,
+      "ability": 131232
+    },
+    "466": {
+      "id": 466,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 618880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 466,
+      "type": 1,
+      "ability": 92832
+    },
+    "267": {
+      "id": 267,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 214400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 267,
+      "type": 1,
+      "ability": 32160
+    },
+    "367": {
+      "id": 367,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 385920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 367,
+      "type": 1,
+      "ability": 57888
+    },
+    "167": {
+      "id": 167,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 106880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 167,
+      "type": 1,
+      "ability": 16032
+    },
+    "283": {
+      "id": 283,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 234880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 283,
+      "type": 1,
+      "ability": 35232
+    },
+    "183": {
+      "id": 183,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 117120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 183,
+      "type": 1,
+      "ability": 17568
+    },
+    "274": {
+      "id": 274,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 223360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 274,
+      "type": 1,
+      "ability": 33504
+    },
+    "370": {
+      "id": 370,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 391680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 370,
+      "type": 1,
+      "ability": 58752
+    },
+    "174": {
+      "id": 174,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 111360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 174,
+      "type": 1,
+      "ability": 16704
+    },
+    "270": {
+      "id": 270,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 218240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 270,
+      "type": 1,
+      "ability": 32736
+    },
+    "170": {
+      "id": 170,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 108800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 170,
+      "type": 1,
+      "ability": 16320
+    },
+    "155": {
+      "id": 155,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 99200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 155,
+      "type": 1,
+      "ability": 14880
+    },
+    "471": {
+      "id": 471,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 631680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 471,
+      "type": 1,
+      "ability": 94752
+    },
+    "355": {
+      "id": 355,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 362880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 355,
+      "type": 1,
+      "ability": 54432
+    },
+    "255": {
+      "id": 255,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 199040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 255,
+      "type": 1,
+      "ability": 29856
+    },
+    "555": {
+      "id": 555,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 846720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 555,
+      "type": 1,
+      "ability": 127008
+    },
+    "455": {
+      "id": 455,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 590720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 455,
+      "type": 1,
+      "ability": 88608
+    },
+    "171": {
+      "id": 171,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 109440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 171,
+      "type": 1,
+      "ability": 16416
+    },
+    "271": {
+      "id": 271,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 219520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 271,
+      "type": 1,
+      "ability": 32928
+    },
+    "332": {
+      "id": 332,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 318720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 332,
+      "type": 1,
+      "ability": 47808
+    },
+    "176": {
+      "id": 176,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 112640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 176,
+      "type": 1,
+      "ability": 16896
+    },
+    "132": {
+      "id": 132,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 84480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 132,
+      "type": 1,
+      "ability": 12672
+    },
+    "376": {
+      "id": 376,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 403200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 376,
+      "type": 1,
+      "ability": 60480
+    },
+    "476": {
+      "id": 476,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 644480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 476,
+      "type": 1,
+      "ability": 96672
+    },
+    "576": {
+      "id": 576,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 900480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 576,
+      "type": 1,
+      "ability": 135072
+    },
+    "532": {
+      "id": 532,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 787840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 532,
+      "type": 1,
+      "ability": 118176
+    },
+    "432": {
+      "id": 432,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 531840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 432,
+      "type": 1,
+      "ability": 79776
+    },
+    "177": {
+      "id": 177,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 113280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 177,
+      "type": 1,
+      "ability": 16992
+    },
+    "493": {
+      "id": 493,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 688000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 493,
+      "type": 1,
+      "ability": 103200
+    },
+    "377": {
+      "id": 377,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 405120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 377,
+      "type": 1,
+      "ability": 60768
+    },
+    "277": {
+      "id": 277,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 227200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 277,
+      "type": 1,
+      "ability": 34080
+    },
+    "577": {
+      "id": 577,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 903040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 577,
+      "type": 1,
+      "ability": 135456
+    },
+    "477": {
+      "id": 477,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 647040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 477,
+      "type": 1,
+      "ability": 97056
+    },
+    "193": {
+      "id": 193,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 123520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 193,
+      "type": 1,
+      "ability": 18528
+    },
+    "293": {
+      "id": 293,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 247680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 293,
+      "type": 1,
+      "ability": 37152
+    },
+    "384": {
+      "id": 384,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 418560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 384,
+      "type": 1,
+      "ability": 62784
+    },
+    "284": {
+      "id": 284,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 236160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 284,
+      "type": 1,
+      "ability": 35424
+    },
+    "184": {
+      "id": 184,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 117760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 184,
+      "type": 1,
+      "ability": 17664
+    },
+    "480": {
+      "id": 480,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 654720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 480,
+      "type": 1,
+      "ability": 98208
+    },
+    "180": {
+      "id": 180,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 115200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 180,
+      "type": 1,
+      "ability": 17280
+    },
+    "280": {
+      "id": 280,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 231040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 280,
+      "type": 1,
+      "ability": 34656
+    },
+    "584": {
+      "id": 584,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 920960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 584,
+      "type": 1,
+      "ability": 138144
+    },
+    "484": {
+      "id": 484,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 664960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 484,
+      "type": 1,
+      "ability": 99744
+    },
+    "325": {
+      "id": 325,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 305280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 325,
+      "type": 1,
+      "ability": 45792
+    },
+    "425": {
+      "id": 425,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 513920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 425,
+      "type": 1,
+      "ability": 77088
+    },
+    "481": {
+      "id": 481,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 657280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 481,
+      "type": 1,
+      "ability": 98592
+    },
+    "381": {
+      "id": 381,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 412800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 381,
+      "type": 1,
+      "ability": 61920
+    },
+    "281": {
+      "id": 281,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 232320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 281,
+      "type": 1,
+      "ability": 34848
+    },
+    "181": {
+      "id": 181,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 115840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 181,
+      "type": 1,
+      "ability": 17376
+    },
+    "125": {
+      "id": 125,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 80000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 125,
+      "type": 1,
+      "ability": 12000
+    },
+    "225": {
+      "id": 225,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 160640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 225,
+      "type": 1,
+      "ability": 24096
+    },
+    "186": {
+      "id": 186,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 119040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 186,
+      "type": 1,
+      "ability": 17856
+    },
+    "482": {
+      "id": 482,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 659840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 482,
+      "type": 1,
+      "ability": 98976
+    },
+    "386": {
+      "id": 386,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 422400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 386,
+      "type": 1,
+      "ability": 63360
+    },
+    "286": {
+      "id": 286,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 238720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 286,
+      "type": 1,
+      "ability": 35808
+    },
+    "586": {
+      "id": 586,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 926080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 586,
+      "type": 1,
+      "ability": 138912
+    },
+    "486": {
+      "id": 486,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 670080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 486,
+      "type": 1,
+      "ability": 100512
+    },
+    "182": {
+      "id": 182,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 116480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 182,
+      "type": 1,
+      "ability": 17472
+    },
+    "282": {
+      "id": 282,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 233600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 282,
+      "type": 1,
+      "ability": 35040
+    },
+    "323": {
+      "id": 323,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 301440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 323,
+      "type": 1,
+      "ability": 45216
+    },
+    "187": {
+      "id": 187,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 119680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 187,
+      "type": 1,
+      "ability": 17952
+    },
+    "123": {
+      "id": 123,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 78720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 123,
+      "type": 1,
+      "ability": 11808
+    },
+    "387": {
+      "id": 387,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 424320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 387,
+      "type": 1,
+      "ability": 63648
+    },
+    "487": {
+      "id": 487,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 672640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 487,
+      "type": 1,
+      "ability": 100896
+    },
+    "587": {
+      "id": 587,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 928640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 587,
+      "type": 1,
+      "ability": 139296
+    },
+    "523": {
+      "id": 523,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 764800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 523,
+      "type": 1,
+      "ability": 114720
+    },
+    "423": {
+      "id": 423,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 508800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 423,
+      "type": 1,
+      "ability": 76320
+    },
+    "314": {
+      "id": 314,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 284160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 314,
+      "type": 1,
+      "ability": 42624
+    },
+    "414": {
+      "id": 414,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 485760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 414,
+      "type": 1,
+      "ability": 72864
+    },
+    "490": {
+      "id": 490,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 680320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 490,
+      "type": 1,
+      "ability": 102048
+    },
+    "390": {
+      "id": 390,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 430080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 390,
+      "type": 1,
+      "ability": 64512
+    },
+    "290": {
+      "id": 290,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 243840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 290,
+      "type": 1,
+      "ability": 36576
+    },
+    "190": {
+      "id": 190,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 121600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 190,
+      "type": 1,
+      "ability": 18240
+    },
+    "114": {
+      "id": 114,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 72960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 114,
+      "type": 1,
+      "ability": 10944
+    },
+    "214": {
+      "id": 214,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 146560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 214,
+      "type": 1,
+      "ability": 21984
+    },
+    "375": {
+      "id": 375,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 401280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 375,
+      "type": 1,
+      "ability": 60192
+    },
+    "275": {
+      "id": 275,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 224640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 275,
+      "type": 1,
+      "ability": 33696
+    },
+    "175": {
+      "id": 175,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 112000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 175,
+      "type": 1,
+      "ability": 16800
+    },
+    "491": {
+      "id": 491,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 682880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 491,
+      "type": 1,
+      "ability": 102432
+    },
+    "191": {
+      "id": 191,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 122240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 191,
+      "type": 1,
+      "ability": 18336
+    },
+    "291": {
+      "id": 291,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 245120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 291,
+      "type": 1,
+      "ability": 36768
+    },
+    "575": {
+      "id": 575,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 897920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 575,
+      "type": 1,
+      "ability": 134688
+    },
+    "475": {
+      "id": 475,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 641920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 475,
+      "type": 1,
+      "ability": 96288
+    },
+    "152": {
+      "id": 152,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 97280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 152,
+      "type": 1,
+      "ability": 14592
+    },
+    "316": {
+      "id": 316,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 288000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 316,
+      "type": 1,
+      "ability": 43200
+    },
+    "252": {
+      "id": 252,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 195200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 252,
+      "type": 1,
+      "ability": 29280
+    },
+    "116": {
+      "id": 116,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 74240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 116,
+      "type": 1,
+      "ability": 11136
+    },
+    "216": {
+      "id": 216,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 149120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 216,
+      "type": 1,
+      "ability": 22368
+    },
+    "233": {
+      "id": 233,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 170880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 233,
+      "type": 1,
+      "ability": 25632
+    },
+    "333": {
+      "id": 333,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 320640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 333,
+      "type": 1,
+      "ability": 48096
+    },
+    "417": {
+      "id": 417,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 493440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 417,
+      "type": 1,
+      "ability": 74016
+    },
+    "133": {
+      "id": 133,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 85120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 133,
+      "type": 1,
+      "ability": 12768
+    },
+    "217": {
+      "id": 217,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 150400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 217,
+      "type": 1,
+      "ability": 22560
+    },
+    "117": {
+      "id": 117,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 74880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 117,
+      "type": 1,
+      "ability": 11232
+    },
+    "433": {
+      "id": 433,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 534400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 433,
+      "type": 1,
+      "ability": 80160
+    },
+    "533": {
+      "id": 533,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 790400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 533,
+      "type": 1,
+      "ability": 118560
+    },
+    "424": {
+      "id": 424,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 511360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 424,
+      "type": 1,
+      "ability": 76704
+    },
+    "120": {
+      "id": 120,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 76800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 120,
+      "type": 1,
+      "ability": 11520
+    },
+    "220": {
+      "id": 220,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 154240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 220,
+      "type": 1,
+      "ability": 23136
+    },
+    "320": {
+      "id": 320,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 295680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 320,
+      "type": 1,
+      "ability": 44352
+    },
+    "420": {
+      "id": 420,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 501120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 420,
+      "type": 1,
+      "ability": 75168
+    },
+    "520": {
+      "id": 520,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 757120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 520,
+      "type": 1,
+      "ability": 113568
+    },
+    "224": {
+      "id": 224,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 159360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 224,
+      "type": 1,
+      "ability": 23904
+    },
+    "124": {
+      "id": 124,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 79360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 124,
+      "type": 1,
+      "ability": 11904
+    },
+    "121": {
+      "id": 121,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 77440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 121,
+      "type": 1,
+      "ability": 11616
+    },
+    "321": {
+      "id": 321,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 297600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 321,
+      "type": 1,
+      "ability": 44640
+    },
+    "221": {
+      "id": 221,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 155520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 221,
+      "type": 1,
+      "ability": 23328
+    },
+    "145": {
+      "id": 145,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 92800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 145,
+      "type": 1,
+      "ability": 13920
+    },
+    "245": {
+      "id": 245,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 186240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 245,
+      "type": 1,
+      "ability": 27936
+    },
+    "222": {
+      "id": 222,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 156800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 222,
+      "type": 1,
+      "ability": 23520
+    },
+    "322": {
+      "id": 322,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 299520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 322,
+      "type": 1,
+      "ability": 44928
+    },
+    "426": {
+      "id": 426,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 516480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 426,
+      "type": 1,
+      "ability": 77472
+    },
+    "122": {
+      "id": 122,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 78080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 122,
+      "type": 1,
+      "ability": 11712
+    },
+    "226": {
+      "id": 226,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 161920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 226,
+      "type": 1,
+      "ability": 24288
+    },
+    "126": {
+      "id": 126,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 80640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 126,
+      "type": 1,
+      "ability": 12096
+    },
+    "422": {
+      "id": 422,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 506240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 422,
+      "type": 1,
+      "ability": 75936
+    },
+    "522": {
+      "id": 522,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 762240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 522,
+      "type": 1,
+      "ability": 114336
+    },
+    "143": {
+      "id": 143,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 91520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 143,
+      "type": 1,
+      "ability": 13728
+    },
+    "327": {
+      "id": 327,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 309120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 327,
+      "type": 1,
+      "ability": 46368
+    },
+    "243": {
+      "id": 243,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 183680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 243,
+      "type": 1,
+      "ability": 27552
+    },
+    "127": {
+      "id": 127,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 81280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 127,
+      "type": 1,
+      "ability": 12192
+    },
+    "227": {
+      "id": 227,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 163200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 227,
+      "type": 1,
+      "ability": 24480
+    },
+    "130": {
+      "id": 130,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 83200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 130,
+      "type": 1,
+      "ability": 12480
+    },
+    "330": {
+      "id": 330,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 314880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 330,
+      "type": 1,
+      "ability": 47232
+    },
+    "230": {
+      "id": 230,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 167040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 230,
+      "type": 1,
+      "ability": 25056
+    },
+    "134": {
+      "id": 134,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 85760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 134,
+      "type": 1,
+      "ability": 12864
+    },
+    "234": {
+      "id": 234,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 172160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 234,
+      "type": 1,
+      "ability": 25824
+    },
+    "415": {
+      "id": 415,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 488320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 415,
+      "type": 1,
+      "ability": 73248
+    },
+    "131": {
+      "id": 131,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 83840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 131,
+      "type": 1,
+      "ability": 12576
+    },
+    "231": {
+      "id": 231,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 168320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 231,
+      "type": 1,
+      "ability": 25248
+    },
+    "331": {
+      "id": 331,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 316800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 331,
+      "type": 1,
+      "ability": 47520
+    },
+    "431": {
+      "id": 431,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 529280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 431,
+      "type": 1,
+      "ability": 79392
+    },
+    "531": {
+      "id": 531,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 785280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 531,
+      "type": 1,
+      "ability": 117792
+    },
+    "215": {
+      "id": 215,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 147840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 215,
+      "type": 1,
+      "ability": 22176
+    },
+    "115": {
+      "id": 115,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 73600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 115,
+      "type": 1,
+      "ability": 11040
+    },
+    "336": {
+      "id": 336,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 326400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 336,
+      "type": 1,
+      "ability": 48960
+    },
+    "436": {
+      "id": 436,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 542080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 436,
+      "type": 1,
+      "ability": 81312
+    },
+    "536": {
+      "id": 536,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 798080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 536,
+      "type": 1,
+      "ability": 119712
+    },
+    "136": {
+      "id": 136,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 87040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 136,
+      "type": 1,
+      "ability": 13056
+    },
+    "236": {
+      "id": 236,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 174720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 236,
+      "type": 1,
+      "ability": 26208
+    },
+    "437": {
+      "id": 437,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 544640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 437,
+      "type": 1,
+      "ability": 81696
+    },
+    "153": {
+      "id": 153,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 97920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 153,
+      "type": 1,
+      "ability": 14688
+    },
+    "253": {
+      "id": 253,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 196480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 253,
+      "type": 1,
+      "ability": 29472
+    },
+    "353": {
+      "id": 353,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 359040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 353,
+      "type": 1,
+      "ability": 53856
+    },
+    "453": {
+      "id": 453,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 585600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 453,
+      "type": 1,
+      "ability": 87840
+    },
+    "553": {
+      "id": 553,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 841600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 553,
+      "type": 1,
+      "ability": 126240
+    },
+    "237": {
+      "id": 237,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 176000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 237,
+      "type": 1,
+      "ability": 26400
+    },
+    "137": {
+      "id": 137,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 87680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 137,
+      "type": 1,
+      "ability": 13152
+    },
+    "240": {
+      "id": 240,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 179840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 240,
+      "type": 1,
+      "ability": 26976
+    },
+    "340": {
+      "id": 340,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 334080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 340,
+      "type": 1,
+      "ability": 50112
+    },
+    "444": {
+      "id": 444,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 562560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 444,
+      "type": 1,
+      "ability": 84384
+    },
+    "140": {
+      "id": 140,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 89600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 140,
+      "type": 1,
+      "ability": 13440
+    },
+    "244": {
+      "id": 244,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 184960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 244,
+      "type": 1,
+      "ability": 27744
+    },
+    "144": {
+      "id": 144,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 92160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 144,
+      "type": 1,
+      "ability": 13824
+    },
+    "440": {
+      "id": 440,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 552320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 440,
+      "type": 1,
+      "ability": 82848
+    },
+    "540": {
+      "id": 540,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 808320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 540,
+      "type": 1,
+      "ability": 121248
+    },
+    "341": {
+      "id": 341,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 336000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 341,
+      "type": 1,
+      "ability": 50400
+    },
+    "241": {
+      "id": 241,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 181120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 241,
+      "type": 1,
+      "ability": 27168
+    },
+    "141": {
+      "id": 141,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 90240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 141,
+      "type": 1,
+      "ability": 13536
+    },
+    "541": {
+      "id": 541,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 810880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 541,
+      "type": 1,
+      "ability": 121632
+    },
+    "441": {
+      "id": 441,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 554880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 441,
+      "type": 1,
+      "ability": 83232
+    },
+    "446": {
+      "id": 446,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 567680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 446,
+      "type": 1,
+      "ability": 85152
+    },
+    "142": {
+      "id": 142,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 90880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 142,
+      "type": 1,
+      "ability": 13632
+    },
+    "242": {
+      "id": 242,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 182400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 242,
+      "type": 1,
+      "ability": 27360
+    },
+    "342": {
+      "id": 342,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 337920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 342,
+      "type": 1,
+      "ability": 50688
+    },
+    "442": {
+      "id": 442,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 557440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 442,
+      "type": 1,
+      "ability": 83616
+    },
+    "542": {
+      "id": 542,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 813440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 542,
+      "type": 1,
+      "ability": 122016
+    },
+    "246": {
+      "id": 246,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 187520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 246,
+      "type": 1,
+      "ability": 28128
+    },
+    "146": {
+      "id": 146,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 93440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 146,
+      "type": 1,
+      "ability": 14016
+    },
+    "347": {
+      "id": 347,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 347520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 347,
+      "type": 1,
+      "ability": 52128
+    },
+    "447": {
+      "id": 447,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 570240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 447,
+      "type": 1,
+      "ability": 85536
+    },
+    "547": {
+      "id": 547,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 826240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 547,
+      "type": 1,
+      "ability": 123936
+    },
+    "147": {
+      "id": 147,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 94080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 147,
+      "type": 1,
+      "ability": 14112
+    },
+    "247": {
+      "id": 247,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 188800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 247,
+      "type": 1,
+      "ability": 28320
+    },
+    "350": {
+      "id": 350,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 353280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 350,
+      "type": 1,
+      "ability": 52992
+    },
+    "250": {
+      "id": 250,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 192640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 250,
+      "type": 1,
+      "ability": 28896
+    },
+    "150": {
+      "id": 150,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 96000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 150,
+      "type": 1,
+      "ability": 14400
+    },
+    "550": {
+      "id": 550,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 833920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 550,
+      "type": 1,
+      "ability": 125088
+    },
+    "450": {
+      "id": 450,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 577920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 450,
+      "type": 1,
+      "ability": 86688
+    },
+    "251": {
+      "id": 251,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 193920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 251,
+      "type": 1,
+      "ability": 29088
+    },
+    "351": {
+      "id": 351,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 355200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 351,
+      "type": 1,
+      "ability": 53280
+    },
+    "435": {
+      "id": 435,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 539520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 435,
+      "type": 1,
+      "ability": 80928
+    },
+    "151": {
+      "id": 151,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 96640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 151,
+      "type": 1,
+      "ability": 14496
+    },
+    "235": {
+      "id": 235,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 173440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 235,
+      "type": 1,
+      "ability": 26016
+    },
+    "135": {
+      "id": 135,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 86400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 135,
+      "type": 1,
+      "ability": 12960
+    },
+    "451": {
+      "id": 451,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 580480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 451,
+      "type": 1,
+      "ability": 87072
+    },
+    "551": {
+      "id": 551,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 836480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 551,
+      "type": 1,
+      "ability": 125472
+    },
+    "108": {
+      "id": 108,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 69120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 108,
+      "type": 1,
+      "ability": 10368
+    },
+    "208": {
+      "id": 208,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 138880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 208,
+      "type": 1,
+      "ability": 20832
+    },
+    "308": {
+      "id": 308,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 272640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 308,
+      "type": 1,
+      "ability": 40896
+    },
+    "408": {
+      "id": 408,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 470400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 408,
+      "type": 1,
+      "ability": 70560
+    },
+    "508": {
+      "id": 508,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 726400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 508,
+      "type": 1,
+      "ability": 108960
+    },
+    "109": {
+      "id": 109,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 69760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 109,
+      "type": 1,
+      "ability": 10464
+    },
+    "309": {
+      "id": 309,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 274560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 309,
+      "type": 1,
+      "ability": 41184
+    },
+    "209": {
+      "id": 209,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 140160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 209,
+      "type": 1,
+      "ability": 21024
+    },
+    "509": {
+      "id": 509,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 728960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 509,
+      "type": 1,
+      "ability": 109344
+    },
+    "409": {
+      "id": 409,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 472960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 409,
+      "type": 1,
+      "ability": 70944
+    },
+    "119": {
+      "id": 119,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 76160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 119,
+      "type": 1,
+      "ability": 11424
+    },
+    "219": {
+      "id": 219,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 152960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 219,
+      "type": 1,
+      "ability": 22944
+    },
+    "319": {
+      "id": 319,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 293760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 319,
+      "type": 1,
+      "ability": 44064
+    },
+    "419": {
+      "id": 419,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 498560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 419,
+      "type": 1,
+      "ability": 74784
+    },
+    "519": {
+      "id": 519,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 754560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 519,
+      "type": 1,
+      "ability": 113184
+    },
+    "18": {
+      "id": 18,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 11520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 18,
+      "type": 1,
+      "ability": 1728
+    },
+    "38": {
+      "id": 38,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 24320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 38,
+      "type": 1,
+      "ability": 3648
+    },
+    "28": {
+      "id": 28,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 17920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 28,
+      "type": 1,
+      "ability": 2688
+    },
+    "58": {
+      "id": 58,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 37120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 58,
+      "type": 1,
+      "ability": 5568
+    },
+    "48": {
+      "id": 48,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 30720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 48,
+      "type": 1,
+      "ability": 4608
+    },
+    "78": {
+      "id": 78,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 49920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 78,
+      "type": 1,
+      "ability": 7488
+    },
+    "68": {
+      "id": 68,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 43520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 68,
+      "type": 1,
+      "ability": 6528
+    },
+    "98": {
+      "id": 98,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 62720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 98,
+      "type": 1,
+      "ability": 9408
+    },
+    "88": {
+      "id": 88,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 56320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 88,
+      "type": 1,
+      "ability": 8448
+    },
+    "596": {
+      "id": 596,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 951680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 596,
+      "type": 1,
+      "ability": 142752
+    },
+    "396": {
+      "id": 396,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 441600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 396,
+      "type": 1,
+      "ability": 66240
+    },
+    "496": {
+      "id": 496,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 695680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 496,
+      "type": 1,
+      "ability": 104352
+    },
+    "196": {
+      "id": 196,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 125440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 196,
+      "type": 1,
+      "ability": 18816
+    },
+    "296": {
+      "id": 296,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 251520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 296,
+      "type": 1,
+      "ability": 37728
+    },
+    "594": {
+      "id": 594,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 946560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 594,
+      "type": 1,
+      "ability": 141984
+    },
+    "194": {
+      "id": 194,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 124160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 194,
+      "type": 1,
+      "ability": 18624
+    },
+    "294": {
+      "id": 294,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 248960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 294,
+      "type": 1,
+      "ability": 37344
+    },
+    "394": {
+      "id": 394,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 437760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 394,
+      "type": 1,
+      "ability": 65664
+    },
+    "494": {
+      "id": 494,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 690560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 494,
+      "type": 1,
+      "ability": 103584
+    },
+    "165": {
+      "id": 165,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 105600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 165,
+      "type": 1,
+      "ability": 15840
+    },
+    "265": {
+      "id": 265,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 211840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 265,
+      "type": 1,
+      "ability": 31776
+    },
+    "365": {
+      "id": 365,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 382080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 365,
+      "type": 1,
+      "ability": 57312
+    },
+    "465": {
+      "id": 465,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 616320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 465,
+      "type": 1,
+      "ability": 92448
+    },
+    "565": {
+      "id": 565,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 872320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 565,
+      "type": 1,
+      "ability": 130848
+    },
+    "19": {
+      "id": 19,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 12160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 19,
+      "type": 1,
+      "ability": 1824
+    },
+    "29": {
+      "id": 29,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 18560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 29,
+      "type": 1,
+      "ability": 2784
+    },
+    "39": {
+      "id": 39,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 24960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 39,
+      "type": 1,
+      "ability": 3744
+    },
+    "49": {
+      "id": 49,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 31360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 49,
+      "type": 1,
+      "ability": 4704
+    },
+    "59": {
+      "id": 59,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 37760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 59,
+      "type": 1,
+      "ability": 5664
+    },
+    "69": {
+      "id": 69,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 44160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 69,
+      "type": 1,
+      "ability": 6624
+    },
+    "79": {
+      "id": 79,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 50560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 79,
+      "type": 1,
+      "ability": 7584
+    },
+    "86": {
+      "id": 86,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 55040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 86,
+      "type": 1,
+      "ability": 8256
+    },
+    "76": {
+      "id": 76,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 48640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 76,
+      "type": 1,
+      "ability": 7296
+    },
+    "66": {
+      "id": 66,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 42240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 66,
+      "type": 1,
+      "ability": 6336
+    },
+    "56": {
+      "id": 56,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 35840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 56,
+      "type": 1,
+      "ability": 5376
+    },
+    "46": {
+      "id": 46,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 29440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 46,
+      "type": 1,
+      "ability": 4416
+    },
+    "36": {
+      "id": 36,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 23040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 36,
+      "type": 1,
+      "ability": 3456
+    },
+    "26": {
+      "id": 26,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 16640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 26,
+      "type": 1,
+      "ability": 2496
+    },
+    "16": {
+      "id": 16,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 10240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 16,
+      "type": 1,
+      "ability": 1536
+    },
+    "154": {
+      "id": 154,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 98560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 154,
+      "type": 1,
+      "ability": 14784
+    },
+    "254": {
+      "id": 254,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 197760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 254,
+      "type": 1,
+      "ability": 29664
+    },
+    "354": {
+      "id": 354,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 360960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 354,
+      "type": 1,
+      "ability": 54144
+    },
+    "295": {
+      "id": 295,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 250240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 295,
+      "type": 1,
+      "ability": 37536
+    },
+    "195": {
+      "id": 195,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 124800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 195,
+      "type": 1,
+      "ability": 18720
+    },
+    "495": {
+      "id": 495,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 693120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 495,
+      "type": 1,
+      "ability": 103968
+    },
+    "395": {
+      "id": 395,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 439680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 395,
+      "type": 1,
+      "ability": 65952
+    },
+    "97": {
+      "id": 97,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 62080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 97,
+      "type": 1,
+      "ability": 9312
+    },
+    "578": {
+      "id": 578,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 905600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 578,
+      "type": 1,
+      "ability": 135840
+    },
+    "478": {
+      "id": 478,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 649600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 478,
+      "type": 1,
+      "ability": 97440
+    },
+    "378": {
+      "id": 378,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 407040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 378,
+      "type": 1,
+      "ability": 61056
+    },
+    "278": {
+      "id": 278,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 228480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 278,
+      "type": 1,
+      "ability": 34272
+    },
+    "178": {
+      "id": 178,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 113920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 178,
+      "type": 1,
+      "ability": 17088
+    },
+    "37": {
+      "id": 37,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 23680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 37,
+      "type": 1,
+      "ability": 3552
+    },
+    "47": {
+      "id": 47,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 30080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 47,
+      "type": 1,
+      "ability": 4512
+    },
+    "17": {
+      "id": 17,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 10880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 17,
+      "type": 1,
+      "ability": 1632
+    },
+    "27": {
+      "id": 27,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 17280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 27,
+      "type": 1,
+      "ability": 2592
+    },
+    "469": {
+      "id": 469,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 626560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 469,
+      "type": 1,
+      "ability": 93984
+    },
+    "369": {
+      "id": 369,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 389760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 369,
+      "type": 1,
+      "ability": 58464
+    },
+    "269": {
+      "id": 269,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 216960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 269,
+      "type": 1,
+      "ability": 32544
+    },
+    "169": {
+      "id": 169,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 108160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 169,
+      "type": 1,
+      "ability": 16224
+    },
+    "99": {
+      "id": 99,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 63360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 99,
+      "type": 1,
+      "ability": 9504
+    },
+    "96": {
+      "id": 96,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 61440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 96,
+      "type": 1,
+      "ability": 9216
+    },
+    "474": {
+      "id": 474,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 639360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 474,
+      "type": 1,
+      "ability": 95904
+    },
+    "94": {
+      "id": 94,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 60160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 94,
+      "type": 1,
+      "ability": 9024
+    },
+    "93": {
+      "id": 93,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 59520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 93,
+      "type": 1,
+      "ability": 8928
+    },
+    "57": {
+      "id": 57,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 36480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 57,
+      "type": 1,
+      "ability": 5472
+    },
+    "91": {
+      "id": 91,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 58240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 91,
+      "type": 1,
+      "ability": 8736
+    },
+    "468": {
+      "id": 468,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 624000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 468,
+      "type": 1,
+      "ability": 93600
+    },
+    "9": {
+      "id": 9,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 5760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 9,
+      "type": 1,
+      "ability": 864
+    },
+    "89": {
+      "id": 89,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 56960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 89,
+      "type": 1,
+      "ability": 8544
+    },
+    "87": {
+      "id": 87,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 55680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 87,
+      "type": 1,
+      "ability": 8352
+    },
+    "597": {
+      "id": 597,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 954240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 597,
+      "type": 1,
+      "ability": 143136
+    },
+    "497": {
+      "id": 497,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 698240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 497,
+      "type": 1,
+      "ability": 104736
+    },
+    "397": {
+      "id": 397,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 443520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 397,
+      "type": 1,
+      "ability": 66528
+    },
+    "297": {
+      "id": 297,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 252800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 297,
+      "type": 1,
+      "ability": 37920
+    },
+    "197": {
+      "id": 197,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 126080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 197,
+      "type": 1,
+      "ability": 18912
+    },
+    "64": {
+      "id": 64,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 40960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 64,
+      "type": 1,
+      "ability": 6144
+    },
+    "54": {
+      "id": 54,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 34560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 54,
+      "type": 1,
+      "ability": 5184
+    },
+    "84": {
+      "id": 84,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 53760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 84,
+      "type": 1,
+      "ability": 8064
+    },
+    "74": {
+      "id": 74,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 47360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 74,
+      "type": 1,
+      "ability": 7104
+    },
+    "24": {
+      "id": 24,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 15360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 24,
+      "type": 1,
+      "ability": 2304
+    },
+    "14": {
+      "id": 14,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 8960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 14,
+      "type": 1,
+      "ability": 1344
+    },
+    "44": {
+      "id": 44,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 28160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 44,
+      "type": 1,
+      "ability": 4224
+    },
+    "34": {
+      "id": 34,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 21760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 34,
+      "type": 1,
+      "ability": 3264
+    },
+    "379": {
+      "id": 379,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 408960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 379,
+      "type": 1,
+      "ability": 61344
+    },
+    "479": {
+      "id": 479,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 652160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 479,
+      "type": 1,
+      "ability": 97824
+    },
+    "179": {
+      "id": 179,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 114560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 179,
+      "type": 1,
+      "ability": 17184
+    },
+    "279": {
+      "id": 279,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 229760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 279,
+      "type": 1,
+      "ability": 34464
+    },
+    "85": {
+      "id": 85,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 54400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 85,
+      "type": 1,
+      "ability": 8160
+    },
+    "188": {
+      "id": 188,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 120320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 188,
+      "type": 1,
+      "ability": 18048
+    },
+    "288": {
+      "id": 288,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 241280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 288,
+      "type": 1,
+      "ability": 36192
+    },
+    "388": {
+      "id": 388,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 426240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 388,
+      "type": 1,
+      "ability": 63936
+    },
+    "488": {
+      "id": 488,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 675200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 488,
+      "type": 1,
+      "ability": 101280
+    },
+    "588": {
+      "id": 588,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 931200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 588,
+      "type": 1,
+      "ability": 139680
+    },
+    "83": {
+      "id": 83,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 53120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 83,
+      "type": 1,
+      "ability": 7968
+    },
+    "82": {
+      "id": 82,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 52480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 82,
+      "type": 1,
+      "ability": 7872
+    },
+    "81": {
+      "id": 81,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 51840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 81,
+      "type": 1,
+      "ability": 7776
+    },
+    "80": {
+      "id": 80,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 51200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 80,
+      "type": 1,
+      "ability": 7680
+    },
+    "8": {
+      "id": 8,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 5120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 8,
+      "type": 1,
+      "ability": 768
+    },
+    "77": {
+      "id": 77,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 49280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 77,
+      "type": 1,
+      "ability": 7392
+    },
+    "75": {
+      "id": 75,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 48000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 75,
+      "type": 1,
+      "ability": 7200
+    },
+    "73": {
+      "id": 73,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 46720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 73,
+      "type": 1,
+      "ability": 7008
+    },
+    "72": {
+      "id": 72,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 46080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 72,
+      "type": 1,
+      "ability": 6912
+    },
+    "71": {
+      "id": 71,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 45440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 71,
+      "type": 1,
+      "ability": 6816
+    },
+    "95": {
+      "id": 95,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 60800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 95,
+      "type": 1,
+      "ability": 9120
+    },
+    "558": {
+      "id": 558,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 854400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 558,
+      "type": 1,
+      "ability": 128160
+    },
+    "374": {
+      "id": 374,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 399360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 374,
+      "type": 1,
+      "ability": 59904
+    },
+    "67": {
+      "id": 67,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 42880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 67,
+      "type": 1,
+      "ability": 6432
+    },
+    "258": {
+      "id": 258,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 202880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 258,
+      "type": 1,
+      "ability": 30432
+    },
+    "158": {
+      "id": 158,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 101120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 158,
+      "type": 1,
+      "ability": 15168
+    },
+    "458": {
+      "id": 458,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 598400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 458,
+      "type": 1,
+      "ability": 89760
+    },
+    "358": {
+      "id": 358,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 368640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 358,
+      "type": 1,
+      "ability": 55296
+    },
+    "15": {
+      "id": 15,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 9600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 15,
+      "type": 1,
+      "ability": 1440
+    },
+    "25": {
+      "id": 25,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 16000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 25,
+      "type": 1,
+      "ability": 2400
+    },
+    "35": {
+      "id": 35,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 22400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 35,
+      "type": 1,
+      "ability": 3360
+    },
+    "289": {
+      "id": 289,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 242560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 289,
+      "type": 1,
+      "ability": 36384
+    },
+    "499": {
+      "id": 499,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 703360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 499,
+      "type": 1,
+      "ability": 105504
+    },
+    "599": {
+      "id": 599,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 959360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 599,
+      "type": 1,
+      "ability": 143904
+    },
+    "65": {
+      "id": 65,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 41600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 65,
+      "type": 1,
+      "ability": 6240
+    },
+    "63": {
+      "id": 63,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 40320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 63,
+      "type": 1,
+      "ability": 6048
+    },
+    "62": {
+      "id": 62,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 39680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 62,
+      "type": 1,
+      "ability": 5952
+    },
+    "61": {
+      "id": 61,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 39040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 61,
+      "type": 1,
+      "ability": 5856
+    },
+    "470": {
+      "id": 470,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 629120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 470,
+      "type": 1,
+      "ability": 94368
+    },
+    "380": {
+      "id": 380,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 410880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 380,
+      "type": 1,
+      "ability": 61632
+    },
+    "595": {
+      "id": 595,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 949120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 595,
+      "type": 1,
+      "ability": 142368
+    },
+    "593": {
+      "id": 593,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 944000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 593,
+      "type": 1,
+      "ability": 141600
+    },
+    "592": {
+      "id": 592,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 941440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 592,
+      "type": 1,
+      "ability": 141216
+    },
+    "591": {
+      "id": 591,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 938880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 591,
+      "type": 1,
+      "ability": 140832
+    },
+    "590": {
+      "id": 590,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 936320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 590,
+      "type": 1,
+      "ability": 140448
+    },
+    "585": {
+      "id": 585,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 923520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 585,
+      "type": 1,
+      "ability": 138528
+    },
+    "583": {
+      "id": 583,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 918400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 583,
+      "type": 1,
+      "ability": 137760
+    },
+    "582": {
+      "id": 582,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 915840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 582,
+      "type": 1,
+      "ability": 137376
+    },
+    "581": {
+      "id": 581,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 913280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 581,
+      "type": 1,
+      "ability": 136992
+    },
+    "580": {
+      "id": 580,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 910720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 580,
+      "type": 1,
+      "ability": 136608
+    },
+    "579": {
+      "id": 579,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 908160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 579,
+      "type": 1,
+      "ability": 136224
+    },
+    "574": {
+      "id": 574,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 895360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 574,
+      "type": 1,
+      "ability": 134304
+    },
+    "573": {
+      "id": 573,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 892800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 573,
+      "type": 1,
+      "ability": 133920
+    },
+    "571": {
+      "id": 571,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 887680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 571,
+      "type": 1,
+      "ability": 133152
+    },
+    "568": {
+      "id": 568,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 880000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 568,
+      "type": 1,
+      "ability": 132000
+    },
+    "570": {
+      "id": 570,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 885120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 570,
+      "type": 1,
+      "ability": 132768
+    },
+    "368": {
+      "id": 368,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 387840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 368,
+      "type": 1,
+      "ability": 58176
+    },
+    "42": {
+      "id": 42,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 26880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 42,
+      "type": 1,
+      "ability": 4032
+    },
+    "168": {
+      "id": 168,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 107520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 168,
+      "type": 1,
+      "ability": 16128
+    },
+    "22": {
+      "id": 22,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 14080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 22,
+      "type": 1,
+      "ability": 2112
+    },
+    "92": {
+      "id": 92,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 58880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 92,
+      "type": 1,
+      "ability": 8832
+    },
+    "199": {
+      "id": 199,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 127360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 199,
+      "type": 1,
+      "ability": 19104
+    },
+    "299": {
+      "id": 299,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 255360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 299,
+      "type": 1,
+      "ability": 38304
+    },
+    "399": {
+      "id": 399,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 447360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 399,
+      "type": 1,
+      "ability": 67104
+    },
+    "569": {
+      "id": 569,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 882560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 569,
+      "type": 1,
+      "ability": 132384
+    },
+    "567": {
+      "id": 567,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 877440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 567,
+      "type": 1,
+      "ability": 131616
+    },
+    "562": {
+      "id": 562,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 864640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 562,
+      "type": 1,
+      "ability": 129696
+    },
+    "561": {
+      "id": 561,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 862080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 561,
+      "type": 1,
+      "ability": 129312
+    },
+    "12": {
+      "id": 12,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 7680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 12,
+      "type": 1,
+      "ability": 1152
+    },
+    "560": {
+      "id": 560,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 859520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 560,
+      "type": 1,
+      "ability": 128928
+    },
+    "559": {
+      "id": 559,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 856960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 559,
+      "type": 1,
+      "ability": 128544
+    },
+    "556": {
+      "id": 556,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 849280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 556,
+      "type": 1,
+      "ability": 127392
+    },
+    "554": {
+      "id": 554,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 844160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 554,
+      "type": 1,
+      "ability": 126624
+    },
+    "552": {
+      "id": 552,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 839040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 552,
+      "type": 1,
+      "ability": 125856
+    },
+    "55": {
+      "id": 55,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 35200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 55,
+      "type": 1,
+      "ability": 5280
+    },
+    "549": {
+      "id": 549,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 831360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 549,
+      "type": 1,
+      "ability": 124704
+    },
+    "371": {
+      "id": 371,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 393600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 371,
+      "type": 1,
+      "ability": 59040
+    },
+    "546": {
+      "id": 546,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 823680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 546,
+      "type": 1,
+      "ability": 123552
+    },
+    "545": {
+      "id": 545,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 821120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 545,
+      "type": 1,
+      "ability": 123168
+    },
+    "544": {
+      "id": 544,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 818560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 544,
+      "type": 1,
+      "ability": 122784
+    },
+    "543": {
+      "id": 543,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 816000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 543,
+      "type": 1,
+      "ability": 122400
+    },
+    "454": {
+      "id": 454,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 588160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 454,
+      "type": 1,
+      "ability": 88224
+    },
+    "326": {
+      "id": 326,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 307200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 326,
+      "type": 1,
+      "ability": 46080
+    },
+    "537": {
+      "id": 537,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 800640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 537,
+      "type": 1,
+      "ability": 120096
+    },
+    "535": {
+      "id": 535,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 795520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 535,
+      "type": 1,
+      "ability": 119328
+    },
+    "534": {
+      "id": 534,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 792960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 534,
+      "type": 1,
+      "ability": 118944
+    },
+    "530": {
+      "id": 530,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 782720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 530,
+      "type": 1,
+      "ability": 117408
+    },
+    "524": {
+      "id": 524,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 767360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 524,
+      "type": 1,
+      "ability": 115104
+    },
+    "138": {
+      "id": 138,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 88320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 138,
+      "type": 1,
+      "ability": 13248
+    },
+    "53": {
+      "id": 53,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 33920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 53,
+      "type": 1,
+      "ability": 5088
+    },
+    "23": {
+      "id": 23,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 14720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 23,
+      "type": 1,
+      "ability": 2208
+    },
+    "33": {
+      "id": 33,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 21120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 33,
+      "type": 1,
+      "ability": 3168
+    },
+    "538": {
+      "id": 538,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 803200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 538,
+      "type": 1,
+      "ability": 120480
+    },
+    "438": {
+      "id": 438,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 547200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 438,
+      "type": 1,
+      "ability": 82080
+    },
+    "338": {
+      "id": 338,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 330240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 338,
+      "type": 1,
+      "ability": 49536
+    },
+    "238": {
+      "id": 238,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 177280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 238,
+      "type": 1,
+      "ability": 26592
+    },
+    "129": {
+      "id": 129,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 82560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 129,
+      "type": 1,
+      "ability": 12384
+    },
+    "527": {
+      "id": 527,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 775040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 527,
+      "type": 1,
+      "ability": 116256
+    },
+    "526": {
+      "id": 526,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 772480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 526,
+      "type": 1,
+      "ability": 115872
+    },
+    "525": {
+      "id": 525,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 769920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 525,
+      "type": 1,
+      "ability": 115488
+    },
+    "529": {
+      "id": 529,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 780160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 529,
+      "type": 1,
+      "ability": 117024
+    },
+    "13": {
+      "id": 13,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 8320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 13,
+      "type": 1,
+      "ability": 1248
+    },
+    "329": {
+      "id": 329,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 312960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 329,
+      "type": 1,
+      "ability": 46944
+    },
+    "229": {
+      "id": 229,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 165760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 229,
+      "type": 1,
+      "ability": 24864
+    },
+    "521": {
+      "id": 521,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 759680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 521,
+      "type": 1,
+      "ability": 113952
+    },
+    "52": {
+      "id": 52,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 33280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 52,
+      "type": 1,
+      "ability": 4992
+    },
+    "393": {
+      "id": 393,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 435840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 393,
+      "type": 1,
+      "ability": 65376
+    },
+    "517": {
+      "id": 517,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 749440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 517,
+      "type": 1,
+      "ability": 112416
+    },
+    "516": {
+      "id": 516,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 746880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 516,
+      "type": 1,
+      "ability": 112032
+    },
+    "515": {
+      "id": 515,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 744320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 515,
+      "type": 1,
+      "ability": 111648
+    },
+    "514": {
+      "id": 514,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 741760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 514,
+      "type": 1,
+      "ability": 111264
+    },
+    "513": {
+      "id": 513,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 739200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 513,
+      "type": 1,
+      "ability": 110880
+    },
+    "373": {
+      "id": 373,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 397440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 373,
+      "type": 1,
+      "ability": 59616
+    },
+    "502": {
+      "id": 502,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 711040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 502,
+      "type": 1,
+      "ability": 106656
+    },
+    "467": {
+      "id": 467,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 621440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 467,
+      "type": 1,
+      "ability": 93216
+    },
+    "50": {
+      "id": 50,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 32000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 50,
+      "type": 1,
+      "ability": 4800
+    },
+    "548": {
+      "id": 548,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 828800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 548,
+      "type": 1,
+      "ability": 124320
+    },
+    "492": {
+      "id": 492,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 685440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 492,
+      "type": 1,
+      "ability": 102816
+    },
+    "485": {
+      "id": 485,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 667520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 485,
+      "type": 1,
+      "ability": 100128
+    },
+    "483": {
+      "id": 483,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 662400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 483,
+      "type": 1,
+      "ability": 99360
+    },
+    "148": {
+      "id": 148,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 94720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 148,
+      "type": 1,
+      "ability": 14208
+    },
+    "20": {
+      "id": 20,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 12800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 20,
+      "type": 1,
+      "ability": 1920
+    },
+    "348": {
+      "id": 348,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 349440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 348,
+      "type": 1,
+      "ability": 52416
+    },
+    "40": {
+      "id": 40,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 25600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 40,
+      "type": 1,
+      "ability": 3840
+    },
+    "70": {
+      "id": 70,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 44800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 70,
+      "type": 1,
+      "ability": 6720
+    },
+    "60": {
+      "id": 60,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 38400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 60,
+      "type": 1,
+      "ability": 5760
+    },
+    "90": {
+      "id": 90,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 57600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 90,
+      "type": 1,
+      "ability": 8640
+    },
+    "501": {
+      "id": 501,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 708480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 501,
+      "type": 1,
+      "ability": 106272
+    },
+    "461": {
+      "id": 461,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 606080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 461,
+      "type": 1,
+      "ability": 90912
+    },
+    "139": {
+      "id": 139,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 88960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 139,
+      "type": 1,
+      "ability": 13344
+    },
+    "317": {
+      "id": 317,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 289920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 317,
+      "type": 1,
+      "ability": 43488
+    },
+    "456": {
+      "id": 456,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 593280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 456,
+      "type": 1,
+      "ability": 88992
+    },
+    "439": {
+      "id": 439,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 549760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 439,
+      "type": 1,
+      "ability": 82464
+    },
+    "539": {
+      "id": 539,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 805760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 539,
+      "type": 1,
+      "ability": 120864
+    },
+    "10": {
+      "id": 10,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 6400,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 10,
+      "type": 1,
+      "ability": 960
+    },
+    "339": {
+      "id": 339,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 332160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 339,
+      "type": 1,
+      "ability": 49824
+    },
+    "452": {
+      "id": 452,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 583040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 452,
+      "type": 1,
+      "ability": 87456
+    },
+    "45": {
+      "id": 45,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 28800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 45,
+      "type": 1,
+      "ability": 4320
+    },
+    "391": {
+      "id": 391,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 432000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 391,
+      "type": 1,
+      "ability": 64800
+    },
+    "448": {
+      "id": 448,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 572800,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 448,
+      "type": 1,
+      "ability": 85920
+    },
+    "445": {
+      "id": 445,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 565120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 445,
+      "type": 1,
+      "ability": 84768
+    },
+    "443": {
+      "id": 443,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 560000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 443,
+      "type": 1,
+      "ability": 84000
+    },
+    "434": {
+      "id": 434,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 536960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 434,
+      "type": 1,
+      "ability": 80544
+    },
+    "430": {
+      "id": 430,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 526720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 430,
+      "type": 1,
+      "ability": 79008
+    },
+    "43": {
+      "id": 43,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 27520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 43,
+      "type": 1,
+      "ability": 4128
+    },
+    "429": {
+      "id": 429,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 524160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 429,
+      "type": 1,
+      "ability": 78624
+    },
+    "324": {
+      "id": 324,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 303360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 324,
+      "type": 1,
+      "ability": 45504
+    },
+    "427": {
+      "id": 427,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 519040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 427,
+      "type": 1,
+      "ability": 77856
+    },
+    "421": {
+      "id": 421,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 503680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 421,
+      "type": 1,
+      "ability": 75552
+    },
+    "392": {
+      "id": 392,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 433920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 392,
+      "type": 1,
+      "ability": 65088
+    },
+    "416": {
+      "id": 416,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 490880,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 416,
+      "type": 1,
+      "ability": 73632
+    },
+    "41": {
+      "id": 41,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 26240,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 41,
+      "type": 1,
+      "ability": 3936
+    },
+    "21": {
+      "id": 21,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 13440,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 21,
+      "type": 1,
+      "ability": 2016
+    },
+    "31": {
+      "id": 31,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 19840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 31,
+      "type": 1,
+      "ability": 2976
+    },
+    "118": {
+      "id": 118,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 75520,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 118,
+      "type": 1,
+      "ability": 11328
+    },
+    "51": {
+      "id": 51,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 32640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 51,
+      "type": 1,
+      "ability": 4896
+    },
+    "318": {
+      "id": 318,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 291840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 318,
+      "type": 1,
+      "ability": 43776
+    },
+    "218": {
+      "id": 218,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 151680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 218,
+      "type": 1,
+      "ability": 22752
+    },
+    "518": {
+      "id": 518,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 752000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 518,
+      "type": 1,
+      "ability": 112800
+    },
+    "418": {
+      "id": 418,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 496000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 418,
+      "type": 1,
+      "ability": 74400
+    },
+    "249": {
+      "id": 249,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 191360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 249,
+      "type": 1,
+      "ability": 28704
+    },
+    "149": {
+      "id": 149,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 95360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 149,
+      "type": 1,
+      "ability": 14304
+    },
+    "449": {
+      "id": 449,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 575360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 449,
+      "type": 1,
+      "ability": 86304
+    },
+    "349": {
+      "id": 349,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 351360,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 349,
+      "type": 1,
+      "ability": 52704
+    },
+    "389": {
+      "id": 389,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 428160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 389,
+      "type": 1,
+      "ability": 64224
+    },
+    "385": {
+      "id": 385,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 420480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 385,
+      "type": 1,
+      "ability": 63072
+    },
+    "383": {
+      "id": 383,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 416640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 383,
+      "type": 1,
+      "ability": 62496
+    },
+    "11": {
+      "id": 11,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 7040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 11,
+      "type": 1,
+      "ability": 1056
+    },
+    "2": {
+      "id": 2,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 1280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 2,
+      "type": 1,
+      "ability": 192
+    },
+    "3": {
+      "id": 3,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 1920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 3,
+      "type": 1,
+      "ability": 288
+    },
+    "382": {
+      "id": 382,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 414720,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 382,
+      "type": 1,
+      "ability": 62208
+    },
+    "1": {
+      "id": 1,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 640,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 1,
+      "type": 1,
+      "ability": 96
+    },
+    "6": {
+      "id": 6,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 3840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 6,
+      "type": 1,
+      "ability": 576
+    },
+    "7": {
+      "id": 7,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 4480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 7,
+      "type": 1,
+      "ability": 672
+    },
+    "4": {
+      "id": 4,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 2560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 4,
+      "type": 1,
+      "ability": 384
+    },
+    "5": {
+      "id": 5,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 3200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 5,
+      "type": 1,
+      "ability": 480
+    },
+    "362": {
+      "id": 362,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 376320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 362,
+      "type": 1,
+      "ability": 56448
+    },
+    "360": {
+      "id": 360,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 372480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 360,
+      "type": 1,
+      "ability": 55872
+    },
+    "32": {
+      "id": 32,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 20480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 32,
+      "type": 1,
+      "ability": 3072
+    },
+    "352": {
+      "id": 352,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 357120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 352,
+      "type": 1,
+      "ability": 53568
+    },
+    "346": {
+      "id": 346,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 345600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 346,
+      "type": 1,
+      "ability": 51840
+    },
+    "345": {
+      "id": 345,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 343680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 345,
+      "type": 1,
+      "ability": 51552
+    },
+    "344": {
+      "id": 344,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 341760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 344,
+      "type": 1,
+      "ability": 51264
+    },
+    "343": {
+      "id": 343,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 339840,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 343,
+      "type": 1,
+      "ability": 50976
+    },
+    "337": {
+      "id": 337,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 328320,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 337,
+      "type": 1,
+      "ability": 49248
+    },
+    "128": {
+      "id": 128,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 81920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 128,
+      "type": 1,
+      "ability": 12288
+    },
+    "335": {
+      "id": 335,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 324480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 335,
+      "type": 1,
+      "ability": 48672
+    },
+    "334": {
+      "id": 334,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 322560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 334,
+      "type": 1,
+      "ability": 48384
+    },
+    "428": {
+      "id": 428,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 521600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 428,
+      "type": 1,
+      "ability": 78240
+    },
+    "528": {
+      "id": 528,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 777600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 528,
+      "type": 1,
+      "ability": 116640
+    },
+    "228": {
+      "id": 228,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 164480,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 228,
+      "type": 1,
+      "ability": 24672
+    },
+    "328": {
+      "id": 328,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 311040,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 328,
+      "type": 1,
+      "ability": 46656
+    },
+    "159": {
+      "id": 159,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 101760,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 159,
+      "type": 1,
+      "ability": 15264
+    },
+    "259": {
+      "id": 259,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 204160,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 259,
+      "type": 1,
+      "ability": 30624
+    },
+    "359": {
+      "id": 359,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 370560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 359,
+      "type": 1,
+      "ability": 55584
+    },
+    "459": {
+      "id": 459,
+      "cost": 40,
+      "benefits1": {
+        "1": {
+          "Value": 600960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 459,
+      "type": 1,
+      "ability": 90144
+    },
+    "315": {
+      "id": 315,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 286080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 315,
+      "type": 1,
+      "ability": 42912
+    },
+    "302": {
+      "id": 302,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 261120,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 302,
+      "type": 1,
+      "ability": 39168
+    },
+    "300": {
+      "id": 300,
+      "cost": 30,
+      "benefits1": {
+        "1": {
+          "Value": 257280,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 300,
+      "type": 1,
+      "ability": 38592
+    },
+    "30": {
+      "id": 30,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 19200,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 30,
+      "type": 1,
+      "ability": 2880
+    },
+    "287": {
+      "id": 287,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 240000,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 287,
+      "type": 1,
+      "ability": 36000
+    },
+    "276": {
+      "id": 276,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 225920,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 276,
+      "type": 1,
+      "ability": 33888
+    },
+    "268": {
+      "id": 268,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 215680,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 268,
+      "type": 1,
+      "ability": 32352
+    },
+    "248": {
+      "id": 248,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 190080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 248,
+      "type": 1,
+      "ability": 28512
+    },
+    "239": {
+      "id": 239,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 178560,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 239,
+      "type": 1,
+      "ability": 26784
+    },
+    "232": {
+      "id": 232,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 169600,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 232,
+      "type": 1,
+      "ability": 25440
+    },
+    "223": {
+      "id": 223,
+      "cost": 20,
+      "benefits1": {
+        "1": {
+          "Value": 158080,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 223,
+      "type": 1,
+      "ability": 23712
+    },
+    "189": {
+      "id": 189,
+      "cost": 10,
+      "benefits1": {
+        "1": {
+          "Value": 120960,
+          "Source": 100006,
+          "Type": 10002
+        }
+      },
+      "lv": 189,
+      "type": 1,
+      "ability": 18144
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1
+}

@@ -1,0 +1,20 @@
+{
+  "data": {},
+  "len": 0,
+  "excelName": "Monopoly_大富翁",
+  "key": "id",
+  "first": 0,
+  "isNeedTransform": false,
+  "enum": {
+    "BLOCKTYPE": {
+      "NRD": 2,
+      "SRD": 3,
+      "FREE": 4,
+      "NLU": 1
+    },
+    "WALLTYPE": {
+      "OUTSIDE": 2,
+      "INSIDE": 1
+    }
+  }
+}

@@ -1,0 +1,684 @@
+{
+  "excelName": "Activity_ChampionDuel_冠军对决",
+  "data": {
+    "102024": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 3
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102024,
+      "requiredWins": 5
+    },
+    "101011": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 500
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 5
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101011,
+      "requiredWins": 1
+    },
+    "101022": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 500
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 5
+        }
+      },
+      "requiredScore": 1000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101022,
+      "requiredWins": 0
+    },
+    "101015": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 20
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101015,
+      "requiredWins": 10
+    },
+    "101021": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 500
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 5
+        }
+      },
+      "requiredScore": 500000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101021,
+      "requiredWins": 0
+    },
+    "101025": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 20
+        }
+      },
+      "requiredScore": 4000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101025,
+      "requiredWins": 0
+    },
+    "102012": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 20
+        },
+        "2": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 3
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 3,
+      "activityId": 610010001,
+      "id": 102012,
+      "requiredWins": 0
+    },
+    "102035": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 4000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 5
+        }
+      },
+      "requiredScore": 4000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102035,
+      "requiredWins": 0
+    },
+    "102013": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 20
+        },
+        "2": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 3
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 5,
+      "activityId": 610010001,
+      "id": 102013,
+      "requiredWins": 0
+    },
+    "102023": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 3
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102023,
+      "requiredWins": 3
+    },
+    "102033": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 3
+        }
+      },
+      "requiredScore": 2000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102033,
+      "requiredWins": 0
+    },
+    "102021": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 2
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102021,
+      "requiredWins": 1
+    },
+    "102025": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 4000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 5
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102025,
+      "requiredWins": 7
+    },
+    "102032": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 2
+        }
+      },
+      "requiredScore": 1000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102032,
+      "requiredWins": 0
+    },
+    "102031": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 2
+        }
+      },
+      "requiredScore": 500000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102031,
+      "requiredWins": 0
+    },
+    "102034": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 2000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 100
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 3
+        }
+      },
+      "requiredScore": 3000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102034,
+      "requiredWins": 0
+    },
+    "101023": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 10
+        }
+      },
+      "requiredScore": 2000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101023,
+      "requiredWins": 0
+    },
+    "101013": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 10
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101013,
+      "requiredWins": 3
+    },
+    "101024": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_research_info",
+          "count": 50
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 10
+        }
+      },
+      "requiredScore": 3000000,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101024,
+      "requiredWins": 0
+    },
+    "102022": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_3",
+          "count": 2
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 102022,
+      "requiredWins": 2
+    },
+    "102011": {
+      "stageCode": 5,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 2
+        },
+        "3": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 3
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 1,
+      "activityId": 610010001,
+      "id": 102011,
+      "requiredWins": 0
+    },
+    "101014": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 1000
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 10
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101014,
+      "requiredWins": 5
+    },
+    "101012": {
+      "stageCode": 3,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Activity_dualCommander",
+          "count": 500
+        },
+        "2": {
+          "type": 99,
+          "id": "recluse_coin",
+          "count": 50
+        },
+        "3": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "4": {
+          "type": 99,
+          "id": "item_castleBox_Energy_2",
+          "count": 5
+        }
+      },
+      "requiredScore": 0,
+      "requiredPredicts": 0,
+      "activityId": 610010001,
+      "id": 101012,
+      "requiredWins": 2
+    }
+  },
+  "first": 101011,
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 23
+}

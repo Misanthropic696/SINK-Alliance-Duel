@@ -1,0 +1,564 @@
+{
+  "excelName": "Activity-MiniEliminateMasterAct遗迹寻宝（15关卡）",
+  "len": 20,
+  "key": "id",
+  "data": {
+    "10106": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 30,
+          "id": "item_decorations_universal"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "passName": "",
+      "id": 10106,
+      "actId": 1,
+      "passId": 6,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_3"
+    },
+    "10115": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_enhanceStoneRandomBox_1"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_universalFragment_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_2"
+        },
+        "4": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10115,
+      "actId": 1,
+      "passId": 15,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10101": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_train_15m"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_research_15m"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_build_15m"
+        },
+        "4": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_cure_15m"
+        }
+      },
+      "passName": "",
+      "id": 10101,
+      "actId": 1,
+      "passId": 1,
+      "cardGroup": "1_4|2_3|3_3|4_3"
+    },
+    "10117": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 4,
+          "id": "item_decor_1016"
+        },
+        "2": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "passName": "",
+      "id": 10117,
+      "actId": 1,
+      "passId": 17,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10109": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 15,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_data_10k"
+        },
+        "4": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10109,
+      "actId": 1,
+      "passId": 9,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_3"
+    },
+    "10116": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_4"
+        },
+        "3": {
+          "type": 99,
+          "count": 15,
+          "id": "item_drone_data_10k"
+        },
+        "4": {
+          "type": 99,
+          "count": 15,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10116,
+      "actId": 1,
+      "passId": 16,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10110": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_decor_1016"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "passName": "",
+      "id": 10110,
+      "actId": 1,
+      "passId": 10,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10112": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 30,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_componentBox_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_drone_data_10k"
+        },
+        "4": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10112,
+      "actId": 1,
+      "passId": 12,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10114": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_decorations_universal"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "passName": "",
+      "id": 10114,
+      "actId": 1,
+      "passId": 14,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10113": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_decor_1016"
+        },
+        "2": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "type": 99,
+          "count": 20,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "passName": "",
+      "id": 10113,
+      "actId": 1,
+      "passId": 13,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10105": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equipment_enhanceStoneRandomBox_1"
+        },
+        "2": {
+          "type": 99,
+          "count": 500,
+          "id": "item_equipment_enhanceStone"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_equip_produce_materials_05"
+        },
+        "4": {
+          "type": 99,
+          "count": 50,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "passName": "",
+      "id": 10105,
+      "actId": 1,
+      "passId": 5,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_3"
+    },
+    "10102": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_food_150k"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_wood_150k"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_steel_90k"
+        },
+        "4": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_3"
+        }
+      },
+      "passName": "",
+      "id": 10102,
+      "actId": 1,
+      "passId": 2,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_3|6_3"
+    },
+    "10104": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_drone_data_10k"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10104,
+      "actId": 1,
+      "passId": 4,
+      "cardGroup": "1_3|2_3|3_3|4_3|5_3|6_3|7_3|8_2|9_2|10_2|11_2"
+    },
+    "10107": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_1016"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "type": 99,
+          "count": 10,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "passName": "",
+      "id": 10107,
+      "actId": 1,
+      "passId": 7,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_5|14_5"
+    },
+    "10118": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_equipment_enhanceStoneRandomBox_1"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_Material_universalFragment_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_2"
+        },
+        "4": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10118,
+      "actId": 1,
+      "passId": 18,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    },
+    "10120": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 6,
+          "id": "item_decor_1016"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_Material_universalFragment_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 30,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "4": {
+          "type": 99,
+          "count": 30,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "5": {
+          "type": 99,
+          "count": 30,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "passName": "",
+      "id": 10120,
+      "actId": 1,
+      "passId": 20,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_5|16_5"
+    },
+    "10119": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 100,
+          "id": "item_drone_part"
+        },
+        "2": {
+          "type": 99,
+          "count": 1,
+          "id": "item_drone_componentBox_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 20,
+          "id": "item_drone_data_10k"
+        },
+        "4": {
+          "type": 99,
+          "count": 20,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10119,
+      "actId": 1,
+      "passId": 19,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_5|16_5"
+    },
+    "10103": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Material_universalFragment_5"
+        },
+        "2": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_HeroEXP_2"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource2"
+        }
+      },
+      "passName": "",
+      "id": 10103,
+      "actId": 1,
+      "passId": 3,
+      "cardGroup": "1_3|2_3|3_3|4_3|5_3|6_3|7_3|8_2|9_2|10_2|11_2|12_2"
+    },
+    "10108": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 40,
+          "id": "item_decorations_universal"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Food_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 2,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "passName": "",
+      "id": 10108,
+      "actId": 1,
+      "passId": 8,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4"
+    },
+    "10111": {
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "item_decorations_universal"
+        },
+        "2": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        },
+        "3": {
+          "type": 99,
+          "count": 3,
+          "id": "item_optionalBox_Resource4"
+        }
+      },
+      "passName": "",
+      "id": 10111,
+      "actId": 1,
+      "passId": 11,
+      "cardGroup": "1_4|2_4|3_4|4_4|5_4|6_4|7_4|8_4|9_4|10_4|11_4|12_4|13_4|14_4|15_4|16_5"
+    }
+  },
+  "first": 10101,
+  "isNeedTransform": true
+}

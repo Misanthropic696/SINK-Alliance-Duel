@@ -1,0 +1,93 @@
+{
+  "excelName": "Activity_ZoneContest_战区对决",
+  "data": {
+    "1005": {
+      "desc": "",
+      "type": 4,
+      "score": 250000,
+      "sort": 3,
+      "icon2": "icon_wgdj_wangguoshanghai",
+      "id": 1005,
+      "buttonShow": 1,
+      "congressDesc": "",
+      "defaultScore": 0,
+      "icon1": "icon_wgdj_wangguoshanghai"
+    },
+    "1004": {
+      "desc": "",
+      "type": 3,
+      "score": 50000,
+      "sort": 7,
+      "icon2": "icon_wgdj_gerenshanghai",
+      "id": 1004,
+      "buttonShow": 0,
+      "congressDesc": "",
+      "defaultScore": 0,
+      "icon1": "icon_wgdj_gerenshanghai"
+    },
+    "1008": {
+      "desc": "",
+      "type": 7,
+      "score": 2200,
+      "sort": 6,
+      "icon2": "icon_wgdj_shengcunzhizhan",
+      "id": 1008,
+      "buttonShow": 0,
+      "congressDesc": "",
+      "defaultScore": 1,
+      "icon1": "icon_wgdj_shengcunzhizhan"
+    },
+    "1006": {
+      "desc": "",
+      "type": 5,
+      "score": 150000,
+      "sort": 4,
+      "icon2": "icon_wgdj_shiguishanghai",
+      "id": 1006,
+      "buttonShow": 1,
+      "congressDesc": "",
+      "defaultScore": 0,
+      "icon1": "icon_wgdj_shiguishanghai"
+    },
+    "1007": {
+      "desc": "",
+      "type": 6,
+      "score": 120,
+      "sort": 5,
+      "icon2": "icon_wgdj_mache",
+      "id": 1007,
+      "buttonShow": 0,
+      "congressDesc": "",
+      "defaultScore": 1,
+      "icon1": "icon_wgdj_mache"
+    },
+    "1001": {
+      "desc": "",
+      "type": 0,
+      "score": 30000,
+      "sort": 1,
+      "icon2": "icon_wgdj_vs",
+      "id": 1001,
+      "buttonShow": 1,
+      "congressDesc": "",
+      "defaultScore": 0,
+      "icon1": "icon_wgdj_vs"
+    },
+    "1002": {
+      "desc": "",
+      "type": 1,
+      "score": 6000,
+      "sort": 2,
+      "icon2": "icon_wgdj_mvp",
+      "id": 1002,
+      "buttonShow": 1,
+      "congressDesc": "",
+      "defaultScore": 0,
+      "icon1": "icon_wgdj_mvp"
+    }
+  },
+  "first": 1001,
+  "isNeedTransform": true,
+  "key": "id",
+  "len": 7
+}

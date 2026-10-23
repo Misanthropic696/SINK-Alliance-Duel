@@ -1,0 +1,515 @@
+{
+  "data": {
+    "1002": {
+      "difficult": 2,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8102,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 2,
+      "id": 1002,
+      "reward": {
+        "1": {
+          "count": 3200000,
+          "type": 1
+        },
+        "2": {
+          "count": 3200000,
+          "type": 2
+        },
+        "3": {
+          "count": 1200000,
+          "type": 3
+        },
+        "4": {
+          "count": 3200000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 8,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 300000,
+      "guardID": 8102,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1008": {
+      "difficult": 8,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8108,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 8,
+      "id": 1008,
+      "reward": {
+        "1": {
+          "count": 24100000,
+          "type": 1
+        },
+        "2": {
+          "count": 24100000,
+          "type": 2
+        },
+        "3": {
+          "count": 15400000,
+          "type": 3
+        },
+        "4": {
+          "count": 81900000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 70,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 35,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 400000000,
+      "guardID": 8108,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1011": {
+      "difficult": 11,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8111,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 11,
+      "id": 1011,
+      "reward": {
+        "1": {
+          "count": 30000000,
+          "type": 1
+        },
+        "2": {
+          "count": 30000000,
+          "type": 2
+        },
+        "3": {
+          "count": 20000000,
+          "type": 3
+        },
+        "4": {
+          "count": 105000000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 90,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 40,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 1600000000,
+      "guardID": 8111,
+      "grade": 10,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1004": {
+      "difficult": 4,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8104,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 4,
+      "id": 1004,
+      "reward": {
+        "1": {
+          "count": 8800000,
+          "type": 1
+        },
+        "2": {
+          "count": 8800000,
+          "type": 2
+        },
+        "3": {
+          "count": 5600000,
+          "type": 3
+        },
+        "4": {
+          "count": 23400000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 25,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 15,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 15000000,
+      "guardID": 8104,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1005": {
+      "difficult": 5,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8105,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 5,
+      "id": 1005,
+      "reward": {
+        "1": {
+          "count": 12600000,
+          "type": 1
+        },
+        "2": {
+          "count": 12600000,
+          "type": 2
+        },
+        "3": {
+          "count": 8000000,
+          "type": 3
+        },
+        "4": {
+          "count": 34000000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 2,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 35,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 20,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 50000000,
+      "guardID": 8105,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1009": {
+      "difficult": 9,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8109,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 9,
+      "id": 1009,
+      "reward": {
+        "1": {
+          "count": 26500000,
+          "type": 1
+        },
+        "2": {
+          "count": 26500000,
+          "type": 2
+        },
+        "3": {
+          "count": 16900000,
+          "type": 3
+        },
+        "4": {
+          "count": 90100000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 80,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 40,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 800000000,
+      "guardID": 8109,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1007": {
+      "difficult": 7,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8107,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 7,
+      "id": 1007,
+      "reward": {
+        "1": {
+          "count": 21900000,
+          "type": 1
+        },
+        "2": {
+          "count": 21900000,
+          "type": 2
+        },
+        "3": {
+          "count": 14000000,
+          "type": 3
+        },
+        "4": {
+          "count": 74400000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 65,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 30,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 200000000,
+      "guardID": 8107,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1010": {
+      "difficult": 10,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8110,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 10,
+      "id": 1010,
+      "reward": {
+        "1": {
+          "count": 28500000,
+          "type": 1
+        },
+        "2": {
+          "count": 28500000,
+          "type": 2
+        },
+        "3": {
+          "count": 18400000,
+          "type": 3
+        },
+        "4": {
+          "count": 98000000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 85,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 40,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 1200000000,
+      "guardID": 8110,
+      "grade": 10,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1006": {
+      "difficult": 6,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8106,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 6,
+      "id": 1006,
+      "reward": {
+        "1": {
+          "count": 17200000,
+          "type": 1
+        },
+        "2": {
+          "count": 17200000,
+          "type": 2
+        },
+        "3": {
+          "count": 10800000,
+          "type": 3
+        },
+        "4": {
+          "count": 51000000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 3,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 50,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 25,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 100000000,
+      "guardID": 8106,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1001": {
+      "difficult": 1,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8101,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 1,
+      "id": 1001,
+      "reward": {
+        "1": {
+          "count": 1500000,
+          "type": 1
+        },
+        "2": {
+          "count": 1500000,
+          "type": 2
+        },
+        "3": {
+          "count": 401000,
+          "type": 3
+        },
+        "4": {
+          "count": 991000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 5,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 5,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 60000,
+      "guardID": 8101,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    },
+    "1003": {
+      "difficult": 3,
+      "guardUIOffset": "[0,0,0]",
+      "bossUIOffset": "[0,0.3,0]",
+      "bossID": 8103,
+      "challengeTimes": 2,
+      "bossUIRotate": "[0,180,0]",
+      "guardUIScale": "[0.3,0.3,0.3]",
+      "level": 3,
+      "id": 1003,
+      "reward": {
+        "1": {
+          "count": 5600000,
+          "type": 1
+        },
+        "2": {
+          "count": 5600000,
+          "type": 2
+        },
+        "3": {
+          "count": 2800000,
+          "type": 3
+        },
+        "4": {
+          "count": 10200000,
+          "type": 5
+        },
+        "5": {
+          "type": 99,
+          "count": 1,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "type": 99,
+          "count": 15,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "num": 10,
+      "modelIconAtlas": "UI_Sprite/Others/HeroRoad",
+      "modelIcon": "UI_Sprite/Others/HeroRoad/General Trial_img_boss.png",
+      "bossHP": 2000000,
+      "guardID": 8103,
+      "grade": 30,
+      "bossUIScale": "[0.2,0.2,0.2]"
+    }
+  },
+  "key": "id",
+  "excelName": "Activity_HeroRoad_勇者之路",
+  "first": 1001,
+  "isNeedTransform": false,
+  "len": 11
+}

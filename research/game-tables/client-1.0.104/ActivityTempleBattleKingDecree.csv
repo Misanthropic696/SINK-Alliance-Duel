@@ -1,0 +1,9 @@
+﻿record_key,name,record,benefit,image,type,officialRequest,cost,count,cdTime,dayReset,occupyCount,lastTime,reward,id,desc,descParam
+6,,,{},Icon_UI_Power_Skill_Gather,2,"{""1"": 1}",3000,-1,604800,0,0,86400,{},6,,"[""20%"",1440]"
+9,,,{},Icon_UI_Power_Skill_Search,3,"{""1"": 1}",3000,3,0,1,0,0,{},9,,
+8,,,{},Icon_UI_Power_Skill_Diamond,2,"{""1"": 1}",10000,-1,604800,0,1,604800,{},8,,"[""5"",10080]"
+1,,,{},Icon_UI_Power_Skill_Business,1,"{""1"": 1}",3000,3,0,1,0,0,"{""1"": {""type"": 12, ""count"": 200}}",1,,"[3000,200,3]"
+2,,,{},Icon_UI_Power_Skill_Recovery,2,"{""1"": 1}",10000,-1,1209600,0,0,259200,{},2,,
+3,,,{},Icon_UI_Power_Skill_Build,2,"{""1"": 1}",3000,-1,604800,0,0,86400,{},3,,"[""20%"",1440]"
+4,,,{},Icon_UI_Power_Skill_Research,2,"{""1"": 1}",3000,-1,604800,0,0,86400,{},4,,"[""20%"",1440]"
+5,,,{},Icon_UI_Power_Skill_Train,2,"{""1"": 1}",5000,-1,604800,0,0,604800,{},5,,"[""30%"",10080]"

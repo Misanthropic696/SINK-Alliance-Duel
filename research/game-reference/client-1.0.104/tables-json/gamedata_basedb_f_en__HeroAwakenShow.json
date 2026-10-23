@@ -1,0 +1,262 @@
+{
+  "data": {
+    "67": {
+      "id": 67
+    },
+    "73": {
+      "id": 73
+    },
+    "63": {
+      "id": 63
+    },
+    "53": {
+      "id": 53
+    },
+    "17": {
+      "awakenSkillName": "Battle Skill: Lunar Hunt",
+      "id": 17,
+      "awakenSkillDesc": "Lunar Hunt deals 20% additional damage and grants Cynthia 2 stacks of [Moonlight]."
+    },
+    "33": {
+      "id": 33
+    },
+    "23": {
+      "awakenSkillName": "Battle Skill: Candy Jar",
+      "id": 23,
+      "awakenSkillDesc": "Deals additional Energy DMG to all enemies with [Scorch], equal to 250% of Annie's ATK × the target's [Scorch] stacks."
+    },
+    "13": {
+      "id": 13
+    },
+    "57": {
+      "id": 57
+    },
+    "47": {
+      "id": 47
+    },
+    "37": {
+      "id": 37
+    },
+    "27": {
+      "id": 27
+    },
+    "12": {
+      "id": 12
+    },
+    "22": {
+      "awakenSkillName": "Battle Skill: Surprise Gift",
+      "id": 22,
+      "awakenSkillDesc": "Surprise Gift damage increased by 15%. for each stack of [Scorch] the target has, damage increased by an additional 4%"
+    },
+    "32": {
+      "id": 32
+    },
+    "42": {
+      "id": 42
+    },
+    "52": {
+      "id": 52
+    },
+    "62": {
+      "id": 62
+    },
+    "72": {
+      "id": 72
+    },
+    "16": {
+      "awakenSkillName": "Battle Skill: Moon Blade",
+      "id": 16,
+      "awakenSkillDesc": "Each Moon Blade cast grants Cynthia 1 stack of [Moonlight], capped at 4x the number of Ranger Heroes in your team. Each stack grants Cynthia 1% Energy Dmg Bonus"
+    },
+    "26": {
+      "id": 26
+    },
+    "36": {
+      "id": 36
+    },
+    "46": {
+      "id": 46
+    },
+    "11": {
+      "id": 11
+    },
+    "69": {
+      "id": 69
+    },
+    "31": {
+      "id": 31
+    },
+    "21": {
+      "awakenSkillName": "Battle Skill: Candy",
+      "id": 21,
+      "awakenSkillDesc": "Candy has a 50% Probabilities to inflict [Burn] on the target for 2s, dealing 200% Energy Dmg per second. When the team successfully applies [Burn], additionally apply 1 stack of [Scorch] to the target. [Scorch] deals 35% of Annie's ATK as damage per second, lasting 20s, with a maximum stack count equal to the number of allied Warlock Heroes"
+    },
+    "51": {
+      "id": 51
+    },
+    "41": {
+      "id": 41
+    },
+    "71": {
+      "id": 71
+    },
+    "61": {
+      "id": 61
+    },
+    "25": {
+      "awakenSkillName": "Sweet Troublemaker",
+      "id": 25,
+      "awakenSkillDesc": "When normal attack triggers [Burn], apply 1 additional [Burn] to a random enemy hero. [Scorch] duration increased to 30s, and max stack increased by allied Warlock Hero count +3"
+    },
+    "15": {
+      "id": 15
+    },
+    "19": {
+      "awakenSkillName": "[c][118c11][Faction Enhance][-][/c] Soul of Ranger",
+      "id": 19,
+      "awakenSkillDesc": "In battle, increase all allied Ranger Heroes' ATK, HP, and DEF by 8%"
+    },
+    "35": {
+      "id": 35
+    },
+    "39": {
+      "id": 39
+    },
+    "29": {
+      "id": 29
+    },
+    "59": {
+      "id": 59
+    },
+    "49": {
+      "id": 49
+    },
+    "75": {
+      "id": 75
+    },
+    "74": {
+      "id": 74
+    },
+    "66": {
+      "id": 66
+    },
+    "68": {
+      "id": 68
+    },
+    "20": {
+      "awakenSkillName": "Lunar Blessing",
+      "id": 20,
+      "awakenSkillDesc": "When Cynthia lands a Crit on an enemy target, damage increases by an additional 20%"
+    },
+    "30": {
+      "id": 30
+    },
+    "1": {
+      "id": 1
+    },
+    "2": {
+      "id": 2
+    },
+    "60": {
+      "id": 60
+    },
+    "70": {
+      "id": 70
+    },
+    "40": {
+      "id": 40
+    },
+    "50": {
+      "id": 50
+    },
+    "7": {
+      "awakenSkillName": "Battle Skill: Crimson Bloom",
+      "id": 7,
+      "awakenSkillDesc": "Crimson Bloom deals damage to all enemies; if Marlena's [Battle Will] exceeds 5 stacks, inflict [Dread] on all enemies (reduces their damage by 5%)"
+    },
+    "8": {
+      "awakenSkillName": "Blade Tempest",
+      "id": 8,
+      "awakenSkillDesc": "At battle start, Marlena attacks the 3 enemies with the highest HP, dealing 2500% ATK Energy Dmg. on hit, Marlena gains 3 stacks of [Battle Will]"
+    },
+    "9": {
+      "awakenSkillName": "[c][118c11][Faction Enhance][-][/c] Soul of Warrior",
+      "id": 9,
+      "awakenSkillDesc": "During battle, boost all allied Warrior Heroes' ATK, HP, and DEF by 8%"
+    },
+    "24": {
+      "awakenSkillName": "[c][118c11][Faction Enhance][-][/c] Soul of Warlock",
+      "id": 24,
+      "awakenSkillDesc": "During battle, increase all allied Warlock Heroes' ATK, HP, and DEF by 8%"
+    },
+    "3": {
+      "id": 3
+    },
+    "4": {
+      "id": 4
+    },
+    "5": {
+      "id": 5
+    },
+    "6": {
+      "awakenSkillName": "Battle Skill: Skybreaker Slash",
+      "id": 6,
+      "awakenSkillDesc": "When Skybreaker Slash triggers a Crit, Marlena gains 1 stack of [Battle Will], with a stack cap equal to 2X the number of Warrior Heroes on the team. Each stack of [Battle Will] grants Marlena 1% DMG Bonus and 1% DMG↓"
+    },
+    "65": {
+      "id": 65
+    },
+    "64": {
+      "id": 64
+    },
+    "58": {
+      "id": 58
+    },
+    "56": {
+      "id": 56
+    },
+    "55": {
+      "id": 55
+    },
+    "54": {
+      "id": 54
+    },
+    "48": {
+      "id": 48
+    },
+    "45": {
+      "id": 45
+    },
+    "44": {
+      "id": 44
+    },
+    "43": {
+      "id": 43
+    },
+    "38": {
+      "id": 38
+    },
+    "34": {
+      "id": 34
+    },
+    "28": {
+      "id": 28
+    },
+    "18": {
+      "awakenSkillName": "Battle Skill: Moonfall Dance",
+      "id": 18,
+      "awakenSkillDesc": "Consume up to 10 stacks of [Moonlight]. Moonfall Dance deals 1 additional attack at 60% ATK * number of [Moonlight] stacks consumed as Energy Dmg to the target"
+    },
+    "14": {
+      "id": 14
+    },
+    "10": {
+      "awakenSkillName": "Battle Skill: Peerless Blade",
+      "id": 10,
+      "awakenSkillDesc": "Unleash 5 additional sword winds with damage reduced to 60% of original."
+    }
+  },
+  "len": 75,
+  "key": "id",
+  "source_format": "locale rows"
+}

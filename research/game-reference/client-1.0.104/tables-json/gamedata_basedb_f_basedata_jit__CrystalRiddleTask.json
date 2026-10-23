@@ -1,0 +1,511 @@
+{
+  "isNeedTransform": true,
+  "excelName": "Activity_LinkTreasure连线夺宝活动",
+  "len": 15,
+  "key": "id",
+  "data": {
+    "7": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "hermit_getitem_goto8",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 7,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 220,
+          "id": 140004
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_lianmengliwu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "6": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "rookieQuest_gather",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 6,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 100000,
+          "id": 10502
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_caiji",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "5": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "999_5",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 5,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "id": 60710,
+          "param2": "20",
+          "param1": "3"
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_zhaomu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "4": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 4,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 1,
+          "id": 70802
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_denglu1",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "3": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "getItem_Building",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 3,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 4000,
+          "id": 60305
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_jiasu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "9": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "rookieQuest_rally",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 9,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 30,
+          "id": 10105
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_jijieshigui",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "8": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 8,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 5,
+          "id": 70802
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_denglu2",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "15": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "999_5",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 15,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "id": 60710,
+          "param2": "100",
+          "param1": "3"
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_zhaomu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "14": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "12000_06",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 14,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": "120",
+          "id": 50104
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_lianmengjuanxian",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "2": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "bp_secret_c",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 2,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "id": 200132,
+          "param2": 5,
+          "param1": 10
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_yinmirenwu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "12": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "goto_become_stronger_11",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 12,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": "3000",
+          "id": 140009
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_jiasuyanjiu",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "10": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "getItem_radar",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 10,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param1": 90,
+          "id": 200060
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_lieyingta",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "11": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "12000_21",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 11,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "id": 200601,
+          "param2": "1",
+          "param1": "12"
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_mache",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "1": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "rookieQuest_train",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 1,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "param3": 3500,
+          "id": 90024,
+          "param2": "1",
+          "param1": "1"
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_xunlian",
+      "stuffType": 0,
+      "taskType": 17
+    },
+    "13": {
+      "taskDesc": "",
+      "isTimeChange": 0,
+      "functionId": "999_3_1",
+      "actId": 1,
+      "taskReward": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "recluse_coin"
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "type": 99,
+          "count": 10,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "id": 13,
+      "tasktitle": "",
+      "targets": {
+        "1": {
+          "id": 50101,
+          "param1": "200",
+          "includeHistory": "TRUE"
+        }
+      },
+      "taskIcon": "icon_lxdb_renwu_bangzhu",
+      "stuffType": 0,
+      "taskType": 17
+    }
+  },
+  "first": 1
+}

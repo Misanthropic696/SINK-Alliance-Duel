@@ -1,0 +1,4 @@
+﻿record_key,GoToTargets,vipLimit,unlockIds,refreshWeekDay,prevDifficult,prevCampType,difficultNum,bannerPath,durationSeconds,id,name,difficultLimit,campType,needCastleLevel,heroUpRate,desc
+1,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",8,"202,207,208","{""1"": 7, ""2"": 2, ""3"": 4}",0,0,60,pic_yz_peitu1,172800,1,Warrior,20,3,16,1,Warrior Arena
+3,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",8,"202,207,208","{""1"": 7, ""2"": 2, ""3"": 4}",12,1,60,pic_yz_peitu3,172800,3,Warlock,20,2,16,1,Warlock Arena
+2,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",8,"202,207,208","{""1"": 7, ""2"": 2, ""3"": 4}",8,1,60,pic_yz_peitu2,172800,2,Ranger,20,1,16,1,Ranger Arena

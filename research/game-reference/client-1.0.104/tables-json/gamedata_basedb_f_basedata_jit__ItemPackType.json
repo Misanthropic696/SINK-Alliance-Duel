@@ -1,0 +1,460 @@
+{
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "Item_道具",
+  "data": {
+    "ItemEgg": {
+      "gotoID": {},
+      "id": "ItemEgg",
+      "tag": 1
+    },
+    "Decorate": {
+      "gotoID": {},
+      "id": "Decorate",
+      "tag": 0
+    },
+    "Synthesis": {
+      "gotoID": {},
+      "id": "Synthesis",
+      "tag": 1
+    },
+    "present": {
+      "gotoID": {},
+      "id": "present",
+      "tag": 1
+    },
+    "boxAll": {
+      "gotoID": {},
+      "id": "boxAll",
+      "tag": 1
+    },
+    "shield": {
+      "gotoID": {},
+      "id": "shield",
+      "tag": 1
+    },
+    "VirtualNuolaAwaken": {
+      "gotoID": {},
+      "id": "VirtualNuolaAwaken",
+      "tag": 0
+    },
+    "normalComponent": {
+      "gotoID": {},
+      "id": "normalComponent",
+      "tag": 5
+    },
+    "ueFragment": {
+      "gotoID": {},
+      "id": "ueFragment",
+      "tag": 4
+    },
+    "build": {
+      "gotoID": {},
+      "id": "build",
+      "tag": 3
+    },
+    "fragment": {
+      "gotoID": {},
+      "id": "fragment",
+      "tag": 4
+    },
+    "boxWorker": {
+      "gotoID": {},
+      "id": "boxWorker",
+      "tag": 4
+    },
+    "nameSkin": {
+      "gotoID": {},
+      "id": "nameSkin",
+      "tag": 1
+    },
+    "UavEvolutionConsum": {
+      "gotoID": {},
+      "id": "UavEvolutionConsum",
+      "tag": 1
+    },
+    "DecorateExchange": {
+      "gotoID": {},
+      "id": "DecorateExchange",
+      "tag": 1
+    },
+    "boxUavEquipDrop": {
+      "gotoID": {},
+      "id": "boxUavEquipDrop",
+      "tag": 1
+    },
+    "research": {
+      "gotoID": {},
+      "id": "research",
+      "tag": 3
+    },
+    "food": {
+      "gotoID": {},
+      "id": "food",
+      "tag": 2
+    },
+    "dailyBuy": {
+      "gotoID": {},
+      "id": "dailyBuy",
+      "tag": 0
+    },
+    "secret": {
+      "gotoID": {},
+      "id": "secret",
+      "tag": 1
+    },
+    "SEASON_1": {
+      "gotoID": {},
+      "id": "SEASON_1",
+      "tag": 1
+    },
+    "boxChooseHero": {
+      "gotoID": {},
+      "id": "boxChooseHero",
+      "tag": 4
+    },
+    "unionName": {
+      "gotoID": {},
+      "id": "unionName",
+      "tag": 0
+    },
+    "diamond_vip_point": {
+      "gotoID": {},
+      "id": "diamond_vip_point",
+      "tag": 0
+    },
+    "escort": {
+      "gotoID": {},
+      "id": "escort",
+      "tag": 1
+    },
+    "randomMove": {
+      "gotoID": {},
+      "id": "randomMove",
+      "tag": 1
+    },
+    "boxOneHero": {
+      "gotoID": {},
+      "id": "boxOneHero",
+      "tag": 4
+    },
+    "hqSkin": {
+      "gotoID": {},
+      "id": "hqSkin",
+      "tag": 1
+    },
+    "train": {
+      "gotoID": {},
+      "id": "train",
+      "tag": 3
+    },
+    "building": {
+      "gotoID": {},
+      "id": "building",
+      "tag": 0
+    },
+    "advancedComponentPieces": {
+      "gotoID": {},
+      "id": "advancedComponentPieces",
+      "tag": 5
+    },
+    "abroadMove": {
+      "gotoID": {},
+      "id": "abroadMove",
+      "tag": 1
+    },
+    "systemShield": {
+      "gotoID": {},
+      "id": "systemShield",
+      "tag": 0
+    },
+    "hammer": {
+      "gotoID": {},
+      "id": "hammer",
+      "tag": 0
+    },
+    "heroExp": {
+      "gotoID": {},
+      "id": "heroExp",
+      "tag": 4
+    },
+    "fragmentAll": {
+      "gotoID": {},
+      "id": "fragmentAll",
+      "tag": 4
+    },
+    "rapid": {
+      "gotoID": {},
+      "id": "rapid",
+      "tag": 0
+    },
+    "boxEquip": {
+      "gotoID": {},
+      "id": "boxEquip",
+      "tag": 5
+    },
+    "headFrameSkin": {
+      "gotoID": {},
+      "id": "headFrameSkin",
+      "tag": 1
+    },
+    "workerRecruitCoin": {
+      "gotoID": {},
+      "id": "workerRecruitCoin",
+      "tag": 4
+    },
+    "awakenFragment": {
+      "gotoID": {},
+      "id": "awakenFragment",
+      "tag": 4
+    },
+    "workerFragment": {
+      "gotoID": {},
+      "id": "workerFragment",
+      "tag": 4
+    },
+    "wood": {
+      "gotoID": {},
+      "id": "wood",
+      "tag": 2
+    },
+    "boxResource": {
+      "gotoID": {},
+      "id": "boxResource",
+      "tag": 2
+    },
+    "Score": {
+      "gotoID": {},
+      "id": "Score",
+      "tag": 0
+    },
+    "advancedComponent": {
+      "gotoID": {},
+      "id": "advancedComponent",
+      "tag": 5
+    },
+    "vip_active": {
+      "gotoID": {
+        "1": 300201
+      },
+      "id": "vip_active",
+      "tag": 0
+    },
+    "atmosphereSkin": {
+      "gotoID": {},
+      "id": "atmosphereSkin",
+      "tag": 1
+    },
+    "UavExp": {
+      "gotoID": {},
+      "id": "UavExp",
+      "tag": 5
+    },
+    "vipPoint": {
+      "gotoID": {},
+      "id": "vipPoint",
+      "tag": 1
+    },
+    "chatSkin": {
+      "gotoID": {},
+      "id": "chatSkin",
+      "tag": 1
+    },
+    "userName": {
+      "gotoID": {},
+      "id": "userName",
+      "tag": 0
+    },
+    "advancedComponentUrPrints": {
+      "gotoID": {},
+      "id": "advancedComponentUrPrints",
+      "tag": 5
+    },
+    "upgradeFragment": {
+      "gotoID": {},
+      "id": "upgradeFragment",
+      "tag": 4
+    },
+    "unionMove": {
+      "gotoID": {},
+      "id": "unionMove",
+      "tag": 1
+    },
+    "moveBack": {
+      "gotoID": {},
+      "id": "moveBack",
+      "tag": 0
+    },
+    "uavSkin": {
+      "gotoID": {},
+      "id": "uavSkin",
+      "tag": 1
+    },
+    "tech": {
+      "gotoID": {},
+      "id": "tech",
+      "tag": 1
+    },
+    "WorldEmojiSkin": {
+      "gotoID": {},
+      "id": "WorldEmojiSkin",
+      "tag": 1
+    },
+    "strength": {
+      "gotoID": {},
+      "id": "strength",
+      "tag": 1
+    },
+    "steel": {
+      "gotoID": {},
+      "id": "steel",
+      "tag": 2
+    },
+    "badge": {
+      "gotoID": {},
+      "id": "badge",
+      "tag": 0
+    },
+    "coin": {
+      "gotoID": {},
+      "id": "coin",
+      "tag": 1
+    },
+    "resetTalent": {
+      "gotoID": {},
+      "id": "resetTalent",
+      "tag": 0
+    },
+    "advancedComponentMrPrints": {
+      "gotoID": {},
+      "id": "advancedComponentMrPrints",
+      "tag": 5
+    },
+    "general": {
+      "gotoID": {},
+      "id": "general",
+      "tag": 3
+    },
+    "recruitCoin": {
+      "gotoID": {},
+      "id": "recruitCoin",
+      "tag": 4
+    },
+    "workerToken": {
+      "gotoID": {},
+      "id": "workerToken",
+      "tag": 4
+    },
+    "rankMaterial": {
+      "gotoID": {},
+      "id": "rankMaterial",
+      "tag": 4
+    },
+    "privilegeName": {
+      "gotoID": {},
+      "id": "privilegeName",
+      "tag": 0
+    },
+    "plans": {
+      "gotoID": {},
+      "id": "plans",
+      "tag": 1
+    },
+    "newShield": {
+      "gotoID": {},
+      "id": "newShield",
+      "tag": 0
+    },
+    "BlackMine": {
+      "gotoID": {},
+      "id": "BlackMine",
+      "tag": 0
+    },
+    "boxCastleResource": {
+      "gotoID": {},
+      "id": "boxCastleResource",
+      "tag": 2
+    },
+    "moveSkin": {
+      "gotoID": {},
+      "id": "moveSkin",
+      "tag": 0
+    },
+    "luckyDrawItem": {
+      "gotoID": {},
+      "id": "luckyDrawItem",
+      "tag": 1
+    },
+    "heroEquip": {
+      "gotoID": {},
+      "id": "heroEquip",
+      "tag": 5
+    },
+    "boxDiamond": {
+      "gotoID": {},
+      "id": "boxDiamond",
+      "tag": 2
+    },
+    "Soldier": {
+      "gotoID": {},
+      "id": "Soldier",
+      "tag": 1
+    },
+    "dualCommander": {
+      "gotoID": {},
+      "id": "dualCommander",
+      "tag": 0
+    },
+    "cure": {
+      "gotoID": {},
+      "id": "cure",
+      "tag": 3
+    },
+    "boxUavEquipOne": {
+      "gotoID": {},
+      "id": "boxUavEquipOne",
+      "tag": 1
+    },
+    "boxSpeed": {
+      "gotoID": {},
+      "id": "boxSpeed",
+      "tag": 3
+    },
+    "boxOneResource": {
+      "gotoID": {},
+      "id": "boxOneResource",
+      "tag": 2
+    },
+    "boxOne": {
+      "gotoID": {},
+      "id": "boxOne",
+      "tag": 1
+    },
+    "boxDrop": {
+      "gotoID": {},
+      "id": "boxDrop",
+      "tag": 1
+    },
+    "boxCastleEXP": {
+      "gotoID": {},
+      "id": "boxCastleEXP",
+      "tag": 4
+    },
+    "giftGather": {
+      "gotoID": {},
+      "id": "giftGather",
+      "tag": 1
+    },
+    "targetMove": {
+      "gotoID": {},
+      "id": "targetMove",
+      "tag": 1
+    },
+    "UavEquip": {
+      "gotoID": {},
+      "id": "UavEquip",
+      "tag": 5
+    }
+  },
+  "len": 90
+}

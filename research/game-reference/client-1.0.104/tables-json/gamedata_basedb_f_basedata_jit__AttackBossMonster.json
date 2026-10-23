@@ -1,0 +1,55 @@
+{
+  "first": 1001,
+  "data": {
+    "1001": {
+      "beatRewardDisplay": 10002,
+      "dieAction": 2,
+      "attackRewardDisplay": 10001,
+      "attackDrop": {
+        "1": {
+          "count": 1,
+          "id": 10038
+        },
+        "2": {
+          "count": 1,
+          "id": 10039
+        },
+        "3": {
+          "count": 1,
+          "id": 10040
+        },
+        "4": {
+          "count": 1,
+          "id": 10041
+        }
+      },
+      "beatDrop": {
+        "1": {
+          "count": 1,
+          "id": 10042
+        },
+        "2": {
+          "count": 1,
+          "id": 10043
+        },
+        "3": {
+          "count": 1,
+          "id": 10044
+        },
+        "4": {
+          "count": 1,
+          "id": 10045
+        }
+      },
+      "stage": "[0.3,0.6]",
+      "attackAction": 1,
+      "monsterName": "",
+      "monsterSpine": "UI_Panel/Activity/PackCommander/Monster_SummerDay_PearlMiser.prefab",
+      "id": 1001
+    }
+  },
+  "excelName": "Activity_AttackBoss_全服打怪",
+  "key": "id",
+  "isNeedTransform": true,
+  "len": 1
+}

@@ -1,0 +1,186 @@
+{
+  "excelName": "Clinic_诊所",
+  "first": 1,
+  "key": "id",
+  "len": 17,
+  "isNeedTransform": false,
+  "data": {
+    "4": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 99
+        }
+      },
+      "id": 4,
+      "dialogueShowTime": 4000
+    },
+    "3": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 99
+        }
+      },
+      "id": 3,
+      "dialogueShowTime": 4000
+    },
+    "6": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 6,
+      "dialogueShowTime": 4000
+    },
+    "5": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 15000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 99
+        }
+      },
+      "id": 5,
+      "dialogueShowTime": 4000
+    },
+    "2": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 2,
+      "dialogueShowTime": 4000
+    },
+    "1": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 1,
+      "dialogueShowTime": 4000
+    },
+    "16": {
+      "dialogueShowProbability": 10000,
+      "dialogueShowTimeCd": 0,
+      "dialogueDeliver": 10000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 16,
+      "dialogueShowTime": 4000
+    },
+    "15": {
+      "dialogueShowProbability": 10000,
+      "dialogueShowTimeCd": 0,
+      "dialogueDeliver": 10000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 15,
+      "dialogueShowTime": 4000
+    },
+    "14": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 14,
+      "dialogueShowTime": 4000
+    },
+    "13": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 13,
+      "dialogueShowTime": 4000
+    },
+    "8": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 20000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 8,
+      "dialogueShowTime": 4000
+    },
+    "10": {
+      "dialogueShowProbability": 10000,
+      "dialogueShowTimeCd": 0,
+      "dialogueDeliver": 10000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 99
+        }
+      },
+      "id": 10,
+      "dialogueShowTime": 300000
+    },
+    "11": {
+      "dialogueShowProbability": 10000,
+      "dialogueShowTimeCd": 0,
+      "dialogueDeliver": 10000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 99
+        }
+      },
+      "id": 11,
+      "dialogueShowTime": 300000
+    },
+    "12": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {
+        "1": {
+          "level": 2
+        }
+      },
+      "id": 12,
+      "dialogueShowTime": 4000
+    },
+    "99": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 12000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 99,
+      "dialogueShowTime": 4000
+    },
+    "9": {
+      "dialogueShowProbability": 10000,
+      "dialogueShowTimeCd": 0,
+      "dialogueDeliver": 10000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 9,
+      "dialogueShowTime": 300000
+    },
+    "7": {
+      "dialogueShowProbability": 8000,
+      "dialogueShowTimeCd": 18000,
+      "dialogueDeliver": 3000,
+      "dialogueMaxNum": 1,
+      "openCondition": {},
+      "id": 7,
+      "dialogueShowTime": 4000
+    }
+  }
+}

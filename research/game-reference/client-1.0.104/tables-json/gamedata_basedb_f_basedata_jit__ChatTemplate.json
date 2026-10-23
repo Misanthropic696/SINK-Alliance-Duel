@@ -1,0 +1,814 @@
+{
+  "excelName": "Message_系统消息",
+  "data": {
+    "1041": {
+      "text": "",
+      "gotoId": "",
+      "id": 1041,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "48": {
+      "text": "",
+      "gotoId": "",
+      "id": 48,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "64": {
+      "text": "",
+      "gotoId": "",
+      "id": 64,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "28": {
+      "text": "",
+      "gotoId": "",
+      "id": 28,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "30": {
+      "text": "",
+      "gotoId": "",
+      "id": 30,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "88": {
+      "text": "",
+      "gotoId": "",
+      "id": 88,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "10": {
+      "text": "",
+      "gotoId": "",
+      "id": 10,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "68": {
+      "text": "",
+      "gotoId": "",
+      "id": 68,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "70": {
+      "text": "",
+      "gotoId": "",
+      "id": 70,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "60": {
+      "text": "",
+      "gotoId": "",
+      "id": 60,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1023": {
+      "text": "",
+      "gotoId": "",
+      "id": 1023,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "90": {
+      "text": "",
+      "gotoId": "",
+      "id": 90,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1025": {
+      "text": "",
+      "gotoId": "",
+      "id": 1025,
+      "canExclude": false,
+      "priority": 0
+    },
+    "10011": {
+      "text": "",
+      "gotoId": "",
+      "id": 10011,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "1003": {
+      "text": "",
+      "gotoId": "",
+      "id": 1003,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "2003": {
+      "text": "",
+      "gotoId": "",
+      "id": 2003,
+      "canExclude": false,
+      "priority": 0
+    },
+    "95": {
+      "text": "",
+      "gotoId": "",
+      "id": 95,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "100002": {
+      "text": "",
+      "gotoId": "goto_allianceexpedition_boss",
+      "id": 100002,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "94": {
+      "text": "",
+      "gotoId": "",
+      "id": 94,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "29": {
+      "text": "",
+      "gotoId": "",
+      "id": 29,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "101": {
+      "text": "",
+      "gotoId": "",
+      "id": 101,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "122503": {
+      "text": "",
+      "gotoId": "",
+      "id": 122503,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "59": {
+      "text": "",
+      "gotoId": "",
+      "id": 59,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1024": {
+      "text": "",
+      "gotoId": "",
+      "id": 1024,
+      "canExclude": false,
+      "priority": 0
+    },
+    "11": {
+      "text": "",
+      "gotoId": "",
+      "id": 11,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "89": {
+      "text": "",
+      "gotoId": "",
+      "id": 89,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "45": {
+      "text": "",
+      "gotoId": "",
+      "id": 45,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "93": {
+      "text": "",
+      "gotoId": "",
+      "id": 93,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "51": {
+      "text": "",
+      "gotoId": "",
+      "id": 51,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "61": {
+      "text": "",
+      "gotoId": "",
+      "id": 61,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "11001": {
+      "text": "",
+      "gotoId": "",
+      "id": 11001,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "71": {
+      "text": "",
+      "gotoId": "",
+      "id": 71,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1034": {
+      "text": "",
+      "gotoId": "",
+      "id": 1034,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "91": {
+      "text": "",
+      "gotoId": "",
+      "id": 91,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1033": {
+      "text": "",
+      "gotoId": "",
+      "id": 1033,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1032": {
+      "text": "",
+      "gotoId": "",
+      "id": 1032,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "9": {
+      "text": "",
+      "gotoId": "",
+      "id": 9,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "10003": {
+      "text": "",
+      "gotoId": "",
+      "id": 10003,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "87": {
+      "text": "",
+      "gotoId": "",
+      "id": 87,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1004": {
+      "text": "",
+      "gotoId": "",
+      "id": 1004,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "86": {
+      "text": "",
+      "gotoId": "",
+      "id": 86,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "2004": {
+      "text": "",
+      "gotoId": "",
+      "id": 2004,
+      "canExclude": false,
+      "priority": 0
+    },
+    "1040": {
+      "text": "",
+      "gotoId": "",
+      "id": 1040,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "79": {
+      "text": "",
+      "gotoId": "",
+      "id": 79,
+      "canExclude": 0,
+      "priority": 3
+    },
+    "78": {
+      "text": "",
+      "gotoId": "",
+      "id": 78,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "77": {
+      "text": "",
+      "gotoId": "",
+      "id": 77,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "76": {
+      "text": "",
+      "gotoId": "",
+      "id": 76,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "75": {
+      "text": "",
+      "gotoId": "",
+      "id": 75,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "74": {
+      "text": "",
+      "gotoId": "",
+      "id": 74,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1010": {
+      "text": "",
+      "gotoId": "",
+      "id": 1010,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "139": {
+      "text": "",
+      "gotoId": "",
+      "id": 139,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "66": {
+      "text": "",
+      "gotoId": "",
+      "id": 66,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "56": {
+      "text": "",
+      "gotoId": "",
+      "id": 56,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "2002": {
+      "text": "",
+      "gotoId": "",
+      "id": 2002,
+      "canExclude": false,
+      "priority": 0
+    },
+    "1002": {
+      "text": "",
+      "gotoId": "",
+      "id": 1002,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "12": {
+      "text": "",
+      "gotoId": "",
+      "id": 12,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "73": {
+      "text": "",
+      "gotoId": "",
+      "id": 73,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "46": {
+      "text": "",
+      "gotoId": "",
+      "id": 46,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "36": {
+      "text": "",
+      "gotoId": "",
+      "id": 36,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "52": {
+      "text": "",
+      "gotoId": "",
+      "id": 52,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "42": {
+      "text": "",
+      "gotoId": "",
+      "id": 42,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "72": {
+      "text": "",
+      "gotoId": "",
+      "id": 72,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "62": {
+      "text": "",
+      "gotoId": "",
+      "id": 62,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "92": {
+      "text": "",
+      "gotoId": "",
+      "id": 92,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "137": {
+      "text": "",
+      "gotoId": "",
+      "id": 137,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1001": {
+      "text": "",
+      "gotoId": "",
+      "id": 1001,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "2001": {
+      "text": "",
+      "gotoId": "",
+      "id": 2001,
+      "canExclude": false,
+      "priority": 0
+    },
+    "67": {
+      "text": "",
+      "gotoId": "",
+      "id": 67,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "65": {
+      "text": "",
+      "gotoId": "",
+      "id": 65,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "49": {
+      "text": "",
+      "gotoId": "",
+      "id": 49,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1039": {
+      "text": "",
+      "gotoId": "",
+      "id": 1039,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "1035": {
+      "text": "",
+      "gotoId": "",
+      "id": 1035,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "10001": {
+      "text": "",
+      "gotoId": "",
+      "id": 10001,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "58": {
+      "text": "",
+      "gotoId": "",
+      "id": 58,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "10013": {
+      "text": "",
+      "gotoId": "",
+      "id": 10013,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "10010": {
+      "text": "",
+      "gotoId": "",
+      "id": 10010,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "1031": {
+      "text": "",
+      "gotoId": "",
+      "id": 1031,
+      "canExclude": 1,
+      "priority": 1
+    },
+    "55": {
+      "text": "",
+      "gotoId": "",
+      "id": 55,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "54": {
+      "text": "",
+      "gotoId": "",
+      "id": 54,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1021": {
+      "text": "",
+      "gotoId": "",
+      "id": 1021,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "53": {
+      "text": "",
+      "gotoId": "",
+      "id": 53,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "50": {
+      "text": "",
+      "gotoId": "",
+      "id": 50,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "11002": {
+      "text": "",
+      "gotoId": "",
+      "id": 11002,
+      "canExclude": false,
+      "priority": 0
+    },
+    "47": {
+      "text": "",
+      "gotoId": "",
+      "id": 47,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "57": {
+      "text": "",
+      "gotoId": "",
+      "id": 57,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "100001": {
+      "text": "",
+      "gotoId": "goto_allianceexpedition_boss",
+      "id": 100001,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "63": {
+      "text": "",
+      "gotoId": "",
+      "id": 63,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "138": {
+      "text": "",
+      "gotoId": "",
+      "id": 138,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "1011": {
+      "text": "",
+      "gotoId": "",
+      "id": 1011,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "13": {
+      "text": "",
+      "gotoId": "",
+      "id": 13,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "113": {
+      "text": "",
+      "gotoId": "",
+      "id": 113,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1012": {
+      "text": "",
+      "gotoId": "",
+      "id": 1012,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "44": {
+      "text": "",
+      "gotoId": "",
+      "id": 44,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "43": {
+      "text": "",
+      "gotoId": "",
+      "id": 43,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "4": {
+      "text": "",
+      "gotoId": "",
+      "id": 4,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1037": {
+      "text": "",
+      "gotoId": "",
+      "id": 1037,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "27": {
+      "text": "",
+      "gotoId": "",
+      "id": 27,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "122502": {
+      "text": "",
+      "gotoId": "",
+      "id": 122502,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "26": {
+      "text": "",
+      "gotoId": "",
+      "id": 26,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "25": {
+      "text": "",
+      "gotoId": "",
+      "id": 25,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1022": {
+      "text": "",
+      "gotoId": "",
+      "id": 1022,
+      "canExclude": 0,
+      "priority": 2
+    },
+    "2": {
+      "text": "",
+      "gotoId": "",
+      "id": 2,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1": {
+      "text": "",
+      "gotoId": "",
+      "id": 1,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "1038": {
+      "text": "",
+      "gotoId": "",
+      "id": 1038,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "10012": {
+      "text": "",
+      "gotoId": "",
+      "id": 10012,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "24": {
+      "text": "",
+      "gotoId": "",
+      "id": 24,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "10004": {
+      "text": "",
+      "gotoId": "",
+      "id": 10004,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "8": {
+      "text": "",
+      "gotoId": "",
+      "id": 8,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "7": {
+      "text": "",
+      "gotoId": "",
+      "id": 7,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "122501": {
+      "text": "",
+      "gotoId": "",
+      "id": 122501,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "1036": {
+      "text": "",
+      "gotoId": "",
+      "id": 1036,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "10002": {
+      "text": "",
+      "gotoId": "",
+      "id": 10002,
+      "canExclude": 0,
+      "priority": 1
+    },
+    "3": {
+      "text": "",
+      "gotoId": "",
+      "id": 3,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "6": {
+      "text": "",
+      "gotoId": "",
+      "id": 6,
+      "canExclude": 1,
+      "priority": 2
+    },
+    "5": {
+      "text": "",
+      "gotoId": "",
+      "id": 5,
+      "canExclude": 1,
+      "priority": 2
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "isNeedTransform": true,
+  "len": 115
+}

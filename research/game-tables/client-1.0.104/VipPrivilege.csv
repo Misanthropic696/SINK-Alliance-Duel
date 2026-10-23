@@ -1,0 +1,19 @@
+﻿record_key,vip8,desc,vip4,vip9,vip7,vip13,vip6,vip3,vip17,vip5,endVipLv,sort,vip20,vip12,vip11,vip2,vip18,icon,vip19,descRight,scanType,specialPrivilege,vip10,vip15,startVipLv,vip14,vip1,id,vip16
+1,0,Hero HP↑,0,0,0,4,0,0,9,0,0,13,13,4,2.5,0,10,,11,,1,False,2.5,5.5,0,5.5,0,1,8
+2,0,Hero ATK↑,0,0,0,4,0,0,9,0,0,11,13,4,2.5,0,10,,11,,1,False,2.5,5.5,0,5.5,0,2,8
+9,8,Research Speed↑,0,10,5,20,0,0,25,0,0,5,25,18,15,0,25,,25,,1,False,13,25,0,23,0,9,25
+15,1,Quick Collect (permanently activated with Lv.20 Sanctuary),1,1,1,1,1,1,1,1,0,15,1,1,1,1,1,,1,,2,False,1,1,0,1,1,15,1
+7,20,Herb Output↑,10,23,18,25,15,8,25,13,0,3,25,25,25,5,25,,25,,1,False,25,25,0,25,0,7,25
+8,30,Building Construction Speed↑,10,35,25,50,20,10,50,15,0,4,50,50,45,0,50,,50,,1,False,40,50,0,50,0,8,50
+5,20,Grain Output↑,10,23,18,25,15,8,25,13,0,1,25,25,25,5,25,,25,,1,False,25,25,0,25,3,5,25
+6,20,Timber Output↑,10,23,18,25,15,8,25,13,0,2,25,25,25,5,25,,25,,1,False,25,25,0,25,0,6,25
+3,0,Hero DEF↑,0,0,0,4,0,0,9,0,0,12,13,4,2.5,0,10,,11,,1,False,2.5,5.5,0,5.5,0,3,8
+4,8,Overall March Speed↑,5,8,5,13,5,0,18,5,0,10,20,13,10,0,18,,20,,1,False,10,15,0,15,0,4,15
+11,5,Increases soldier capacity in barracks,0,5,5,5,5,0,7.5,0,0,8,10,5,5,0,7.5,,10,,1,False,5,5,0,5,0,11,5
+12,0,Increases Healing Speed,0,0,0,10,0,0,20,0,0,7,30,10,10,0,20,,25,,1,False,10,15,0,15,0,12,15
+16,1,Enable auto dispatch for Covert Operation,1,1,1,1,1,0,1,1,0,16,1,1,1,0,1,,1,,2,False,1,1,0,1,0,16,1
+10,0,Training Speed↑,0,0,0,0,0,0,13,0,0,6,15,0,0,0,13,,15,,1,False,0,10,0,0,0,10,10
+17,0,Activate super mode for Covert Operation,0,0,0,1,0,0,1,0,0,17,1,1,0,0,1,,1,,2,False,0,1,0,1,0,17,1
+18,1,Unlock Expedition Battle Quick Challenge,0,1,0,1,0,0,1,0,0,18,1,1,1,0,1,,1,,2,False,1,1,0,1,0,18,1
+19,1,Display VIP level during chat,1,1,1,1,1,1,1,1,0,18,1,1,1,0,1,,1,,2,False,1,1,0,1,0,19,1
+13,25,Hero Gear Crafting Speedup,0,30,25,40,25,0,50,25,0,9,50,30,30,0,50,,50,,1,False,30,40,0,40,0,13,40

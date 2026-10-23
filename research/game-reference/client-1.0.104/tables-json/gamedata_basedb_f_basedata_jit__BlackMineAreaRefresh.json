@@ -1,0 +1,54 @@
+{
+  "key": "id",
+  "excelName": "BlackMine_燃霜矿场",
+  "len": 5,
+  "first": 1,
+  "data": {
+    "4": {
+      "excludedRegion": "1|2|3",
+      "id": 4,
+      "width": 256,
+      "centerY": 128,
+      "rhombus": false,
+      "centerX": 128,
+      "height": 256
+    },
+    "5": {
+      "excludedRegion": "1",
+      "id": 5,
+      "width": 256,
+      "centerY": 128,
+      "rhombus": false,
+      "centerX": 128,
+      "height": 256
+    },
+    "1": {
+      "excludedRegion": "",
+      "id": 1,
+      "width": 15,
+      "centerY": 128,
+      "rhombus": true,
+      "centerX": 128,
+      "height": 15
+    },
+    "2": {
+      "excludedRegion": "1",
+      "id": 2,
+      "width": 85,
+      "centerY": 128,
+      "rhombus": false,
+      "centerX": 128,
+      "height": 85
+    },
+    "3": {
+      "excludedRegion": "1|2",
+      "id": 3,
+      "width": 155,
+      "centerY": 128,
+      "rhombus": false,
+      "centerX": 128,
+      "height": 155
+    }
+  },
+  "isNeedTransform": false
+}

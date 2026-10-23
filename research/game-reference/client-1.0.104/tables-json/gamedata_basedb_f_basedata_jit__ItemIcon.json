@@ -1,0 +1,712 @@
+{
+  "data": {
+    "202": {
+      "iconAtlas": "SpriteAtlas/UI_SoldierIcon.spriteatlas",
+      "quality": 0,
+      "getSourceId": {
+        "1": 96
+      },
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_xinshou_005",
+      "id": 202,
+      "sortType": 30,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {
+        "1": 910901001,
+        "2": 910901006
+      }
+    },
+    "1100002": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {
+        "1": 500000,
+        "2": 500001,
+        "3": 500002,
+        "4": 500003
+      },
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_star",
+      "id": 1100002,
+      "sortType": 0,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "11": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 4,
+      "getSourceId": {
+        "1": 2000006
+      },
+      "typeArray": {
+        "1": "boxDiamond"
+      },
+      "frame": 7,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_zuanshi",
+      "id": 11,
+      "sortType": 2,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {
+        "1": "boxDiamond"
+      },
+      "giftGroupId": {}
+    },
+    "206": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {
+        "1": 97
+      },
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 900903004,
+      "resourceitems": {},
+      "icon": "icon_shrjinhua",
+      "id": 206,
+      "sortType": 33,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "1043": {
+      "iconAtlas": "",
+      "quality": 1,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 6,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_tongbi",
+      "id": 1043,
+      "sortType": 0,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "2": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 1,
+      "getSourceId": {
+        "1": 300322
+      },
+      "typeArray": {
+        "1": "wood",
+        "2": "boxResource",
+        "3": "boxOne",
+        "4": "boxCastleResource",
+        "5": "boxOneResource"
+      },
+      "frame": 9,
+      "lastGiftId": 910901095,
+      "resourceitems": {
+        "1": "wood",
+        "2": "boxCastleResource"
+      },
+      "icon": "icon_wood",
+      "id": 2,
+      "sortType": 5,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {
+        "1": "boxOneResource"
+      },
+      "backpackStatisticsTypeArray": {
+        "1": "wood",
+        "2": "boxCastleResource"
+      },
+      "giftGroupId": {
+        "1": 900902001,
+        "2": 900902002,
+        "3": 900902003,
+        "4": 900902004,
+        "5": 900902011,
+        "6": 900902012,
+        "7": 900902013,
+        "8": 900902014,
+        "9": 900902015,
+        "10": 900902016,
+        "11": 900902017,
+        "12": 900902018,
+        "13": 900902019,
+        "14": 900902020,
+        "15": 900902021,
+        "16": 900902022,
+        "17": 900902023,
+        "18": 900902024,
+        "19": 900902025,
+        "20": 900902026,
+        "21": 900902027,
+        "22": 900902028,
+        "23": 910901091,
+        "24": 910901096,
+        "25": 900903010,
+        "26": 900903011,
+        "27": 900901001,
+        "28": 900901006
+      }
+    },
+    "9": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 3,
+      "getSourceId": {
+        "1": 2000001
+      },
+      "typeArray": {},
+      "frame": 1,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_lianmenggongxiandian",
+      "id": 9,
+      "sortType": 10,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "1100007": {
+      "iconAtlas": "",
+      "quality": 5,
+      "getSourceId": {
+        "1": 400001
+      },
+      "typeArray": {
+        "1": "SEASON_0"
+      },
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_lz_kangxingjy",
+      "id": 1100007,
+      "sortType": 30,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "18": {
+      "iconAtlas": "",
+      "quality": 3,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "",
+      "id": 18,
+      "sortType": 18,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "17": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "",
+      "id": 17,
+      "sortType": 17,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "102": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "Icon_Item_Activity_DualCommander",
+      "id": 102,
+      "sortType": 27,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "5": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 2,
+      "getSourceId": {
+        "1": 1
+      },
+      "typeArray": {
+        "1": "heroExp",
+        "2": "boxCastleEXP"
+      },
+      "frame": 6,
+      "lastGiftId": 900904035,
+      "resourceitems": {},
+      "icon": "icon_herojingyan",
+      "id": 5,
+      "sortType": 3,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {
+        "1": "heroExp",
+        "2": "boxCastleEXP"
+      },
+      "giftGroupId": {
+        "1": 900902403,
+        "2": 900900001,
+        "3": 900900101,
+        "4": 900900201,
+        "5": 900900301,
+        "6": 900900401,
+        "7": 900900501,
+        "8": 900900601,
+        "9": 900900701,
+        "10": 900900801,
+        "11": 900900901,
+        "12": 900901101,
+        "13": 900901201,
+        "14": 900901301,
+        "15": 900901401,
+        "16": 900901501,
+        "17": 900904031,
+        "18": 900901041
+      }
+    },
+    "6": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {
+        "1": "strength"
+      },
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_tili",
+      "id": 6,
+      "sortType": 7,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {
+        "1": "strength"
+      },
+      "giftGroupId": {}
+    },
+    "204": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {
+        "1": 98
+      },
+      "typeArray": {
+        "1": "boxUavEquipDrop",
+        "2": "boxUavEquipOne"
+      },
+      "frame": 0,
+      "lastGiftId": 910901032,
+      "resourceitems": {},
+      "icon": "",
+      "id": 204,
+      "sortType": 32,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {
+        "1": "boxUavEquipDrop",
+        "2": "boxUavEquipOne"
+      },
+      "giftGroupId": {}
+    },
+    "203": {
+      "iconAtlas": "",
+      "quality": 3,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_rw_jifen",
+      "id": 203,
+      "sortType": 31,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "99": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "",
+      "id": 99,
+      "sortType": 1,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "98": {
+      "iconAtlas": "SpriteAtlas/UI_SoldierIcon.spriteatlas",
+      "quality": 0,
+      "getSourceId": {
+        "1": 14
+      },
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "pic_sb_01",
+      "id": 98,
+      "sortType": 26,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "103": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "Icon_Alliance_Milestone",
+      "id": 103,
+      "sortType": 28,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "1100006": {
+      "iconAtlas": "",
+      "quality": 5,
+      "getSourceId": {
+        "1": 400003
+      },
+      "typeArray": {
+        "1": "SEASON_0"
+      },
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_lz_lingzhuzyjy",
+      "id": 1100006,
+      "sortType": 0,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "20": {
+      "iconAtlas": "",
+      "quality": 3,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "",
+      "id": 20,
+      "sortType": 20,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "21": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 5,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_wangguojinquan",
+      "id": 21,
+      "sortType": 0,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "1": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 1,
+      "getSourceId": {
+        "1": 300321
+      },
+      "typeArray": {
+        "1": "food",
+        "2": "boxResource",
+        "3": "boxOne",
+        "4": "boxCastleResource",
+        "5": "boxOneResource"
+      },
+      "frame": 6,
+      "lastGiftId": 910901085,
+      "resourceitems": {
+        "1": "food",
+        "2": "boxCastleResource"
+      },
+      "icon": "icon_food",
+      "id": 1,
+      "sortType": 4,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {
+        "1": "boxOneResource"
+      },
+      "backpackStatisticsTypeArray": {
+        "1": "food",
+        "2": "boxCastleResource"
+      },
+      "giftGroupId": {
+        "1": 900902001,
+        "2": 900902002,
+        "3": 900902003,
+        "4": 900902004,
+        "5": 900902011,
+        "6": 900902012,
+        "7": 900902013,
+        "8": 900902014,
+        "9": 900902015,
+        "10": 900902016,
+        "11": 900902017,
+        "12": 900902018,
+        "13": 900902019,
+        "14": 900902020,
+        "15": 900902021,
+        "16": 900902022,
+        "17": 900902023,
+        "18": 900902024,
+        "19": 900902025,
+        "20": 900902026,
+        "21": 900902027,
+        "22": 900902028,
+        "23": 910901081,
+        "24": 910901086,
+        "25": 900903010,
+        "26": 900903011,
+        "27": 900901001,
+        "28": 900901006
+      }
+    },
+    "205": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {
+        "1": 97
+      },
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 900903004,
+      "resourceitems": {},
+      "icon": "icon_shrjinhua",
+      "id": 205,
+      "sortType": 33,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "3": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 1,
+      "getSourceId": {
+        "1": 300323
+      },
+      "typeArray": {
+        "1": "steel",
+        "2": "boxResource",
+        "3": "boxOne",
+        "4": "boxCastleResource",
+        "5": "boxOneResource"
+      },
+      "frame": 9,
+      "lastGiftId": 910901105,
+      "resourceitems": {
+        "1": "steel",
+        "2": "boxCastleResource"
+      },
+      "icon": "icon_power",
+      "id": 3,
+      "sortType": 6,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {
+        "1": "boxOneResource"
+      },
+      "backpackStatisticsTypeArray": {
+        "1": "steel",
+        "2": "boxCastleResource"
+      },
+      "giftGroupId": {
+        "1": 900902001,
+        "2": 900902002,
+        "3": 900902003,
+        "4": 900902004,
+        "5": 900902011,
+        "6": 900902012,
+        "7": 900902013,
+        "8": 900902014,
+        "9": 900902015,
+        "10": 900902016,
+        "11": 900902017,
+        "12": 900902018,
+        "13": 900902019,
+        "14": 900902020,
+        "15": 900902021,
+        "16": 900902022,
+        "17": 900902023,
+        "18": 900902024,
+        "19": 900902025,
+        "20": 900902026,
+        "21": 900902027,
+        "22": 900902028,
+        "23": 910901101,
+        "24": 910901106,
+        "25": 900903010,
+        "26": 900903011,
+        "27": 900901001,
+        "28": 900901006
+      }
+    },
+    "104": {
+      "iconAtlas": "",
+      "quality": 0,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 0,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "Icon_Item_Activity_Gift",
+      "id": 104,
+      "sortType": 29,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "12": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 4,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 7,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_zuanshi",
+      "id": 12,
+      "sortType": 12,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    },
+    "13": {
+      "iconAtlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "quality": 4,
+      "getSourceId": {},
+      "typeArray": {},
+      "frame": 7,
+      "lastGiftId": 0,
+      "resourceitems": {},
+      "icon": "icon_zuanshi",
+      "id": 13,
+      "sortType": 13,
+      "desc": "",
+      "name": "",
+      "description": "",
+      "selectableResourcelitems": {},
+      "backpackStatisticsTypeArray": {},
+      "giftGroupId": {}
+    }
+  },
+  "enum": {
+    "QUALITY": {
+      "BLUE": 3,
+      "ORANGE": 5,
+      "WHITE": 1,
+      "RED": 6,
+      "GREEN": 2,
+      "PURPLE": 4,
+      "NOQUALITY": 0
+    }
+  },
+  "excelName": "Item_道具",
+  "len": 27,
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 1
+}

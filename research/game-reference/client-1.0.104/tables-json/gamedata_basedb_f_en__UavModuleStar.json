@@ -1,0 +1,1175 @@
+{
+  "data": {
+    "100705": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100705,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.0%[-][/c]"
+    },
+    "100106": {
+      "skillDesParam2": "[c][118c11]4.0M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100106,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.0M[-][/c]"
+    },
+    "100203": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100203,
+      "skillDesParam1": "[c][118c11]7.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.5%[-][/c]"
+    },
+    "101702": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101702,
+      "skillDesParam1": "[c][118c11]3%[-][/c]",
+      "StarUpParam1": "[c][118c11]3%[-][/c]"
+    },
+    "101501": {
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101501,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "100305": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100305,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.0%[-][/c]"
+    },
+    "100202": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100202,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2[-][/c]"
+    },
+    "101705": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101705,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "102001": {
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102001,
+      "skillDesParam1": "[c][118c11]4.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.25%[-][/c]"
+    },
+    "103200": {
+      "skillDes": "At the start of battle, the 2 allies with the highest HP gain Raven DEF +{0}+{1} until battle ends.",
+      "id": 103200,
+      "skillDesParam1": "[c][118c11]4%[-][/c]"
+    },
+    "101206": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101206,
+      "skillDesParam1": "[c][118c11]27.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "100400": {
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100400,
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "100904": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100904,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.2M[-][/c]"
+    },
+    "100306": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100306,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "102500": {
+      "skillDes": "Applies a buff to all allies, reducing damage taken by allies with HP above 50% by {0}+{1}.",
+      "id": 102500,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "101200": {
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101200,
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "101602": {
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101602,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "100403": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100403,
+      "skillDesParam1": "[c][118c11]18.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]18.0%[-][/c]"
+    },
+    "100402": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100402,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "100704": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100704,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "100602": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100602,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2[-][/c]"
+    },
+    "100802": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100802,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "101700": {
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101700,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "102201": {
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102201,
+      "skillDesParam1": "[c][118c11]1.7%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.7%[-][/c]"
+    },
+    "100406": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100406,
+      "skillDesParam1": "[c][118c11]27.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "100605": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100605,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3[-][/c]"
+    },
+    "100303": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100303,
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "100702": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100702,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "100800": {
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100800,
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "102400": {
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102400,
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "101001": {
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101001,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "103100": {
+      "skillDes": "After Raven casts a skill, the 3 allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 103100,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "101201": {
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101201,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.5%[-][/c]"
+    },
+    "100804": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100804,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]22.5%[-][/c]"
+    },
+    "101005": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101005,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3[-][/c]"
+    },
+    "102100": {
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102100,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "102300": {
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102300,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "100101": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100101,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.6M[-][/c]"
+    },
+    "101400": {
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101400,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "102105": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102105,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "100301": {
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100301,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]6.0%[-][/c]"
+    },
+    "100204": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100204,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "100103": {
+      "skillDesParam2": "[c][118c11]2.4M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100103,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4M[-][/c]"
+    },
+    "102101": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102101,
+      "skillDesParam1": "[c][118c11]2%[-][/c]",
+      "StarUpParam1": "[c][118c11]2%[-][/c]"
+    },
+    "100803": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100803,
+      "skillDesParam1": "[c][118c11]18.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]18.0%[-][/c]"
+    },
+    "100500": {
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100500,
+      "skillDesParam2": "[c][118c11]800K[-][/c]",
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "100405": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100405,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]40.5%[-][/c]"
+    },
+    "100906": {
+      "skillDesParam2": "[c][118c11]4.0M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100906,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.0M[-][/c]"
+    },
+    "101305": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101305,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "100501": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100501,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.6M[-][/c]"
+    },
+    "100304": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100304,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "100300": {
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100300,
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "skillDesParam1": "[c][118c11]3.0%[-][/c]"
+    },
+    "101304": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101304,
+      "skillDesParam1": "[c][118c11]5%[-][/c]",
+      "StarUpParam1": "[c][118c11]5%[-][/c]"
+    },
+    "101703": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101703,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "101401": {
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101401,
+      "skillDesParam1": "[c][118c11]1.7%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.7%[-][/c]"
+    },
+    "101402": {
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101402,
+      "skillDesParam1": "[c][118c11]2.4%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4%[-][/c]"
+    },
+    "100201": {
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100201,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "100703": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100703,
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "100404": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100404,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]22.5%[-][/c]"
+    },
+    "101003": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101003,
+      "skillDesParam1": "[c][118c11]7.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.5%[-][/c]"
+    },
+    "101603": {
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101603,
+      "skillDesParam1": "[c][118c11]7.75%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.75%[-][/c]"
+    },
+    "100600": {
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100600,
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "101100": {
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101100,
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "skillDesParam1": "[c][118c11]3.0%[-][/c]"
+    },
+    "101302": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101302,
+      "skillDesParam1": "[c][118c11]3%[-][/c]",
+      "StarUpParam1": "[c][118c11]3%[-][/c]"
+    },
+    "101204": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101204,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]22.5%[-][/c]"
+    },
+    "102203": {
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102203,
+      "skillDesParam1": "[c][118c11]3.1%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.1%[-][/c]"
+    },
+    "101704": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101704,
+      "skillDesParam1": "[c][118c11]5%[-][/c]",
+      "StarUpParam1": "[c][118c11]5%[-][/c]"
+    },
+    "100502": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100502,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "101505": {
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101505,
+      "skillDesParam1": "[c][118c11]12%[-][/c]",
+      "StarUpParam1": "[c][118c11]12%[-][/c]"
+    },
+    "102000": {
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102000,
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "102700": {
+      "skillDes": "After Raven casts a skill, the 3 allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102700,
+      "skillDesParam1": "[c][118c11]3%[-][/c]"
+    },
+    "102205": {
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102205,
+      "skillDesParam1": "[c][118c11]4.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.5%[-][/c]"
+    },
+    "101502": {
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101502,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "101901": {
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101901,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "101503": {
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101503,
+      "skillDesParam1": "[c][118c11]8%[-][/c]",
+      "StarUpParam1": "[c][118c11]8%[-][/c]"
+    },
+    "102800": {
+      "skillDes": "At the start of battle, the 2 allies with the highest HP gain Raven DEF +{0}+{1} until battle ends.",
+      "id": 102800,
+      "skillDesParam1": "[c][118c11]6%[-][/c]"
+    },
+    "103000": {
+      "skillDes": "After Raven casts a skill, the 3 allies with the highest ATK gain {0}+{1} of Raven's ATK for 3s.",
+      "id": 103000,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "102303": {
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102303,
+      "skillDesParam1": "[c][118c11]8%[-][/c]",
+      "StarUpParam1": "[c][118c11]8%[-][/c]"
+    },
+    "100504": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100504,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.2M[-][/c]"
+    },
+    "102600": {
+      "skillDes": "After Raven casts a skill, the 3 allies with the highest ATK gain {0}+{1} of Raven's ATK for 3s.",
+      "id": 102600,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "101103": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101103,
+      "skillDesParam1": "[c][118c11]9.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "102404": {
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102404,
+      "skillDesParam1": "[c][118c11]9.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.5%[-][/c]"
+    },
+    "100801": {
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100801,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.5%[-][/c]"
+    },
+    "102402": {
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102402,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "101903": {
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101903,
+      "skillDesParam1": "[c][118c11]8%[-][/c]",
+      "StarUpParam1": "[c][118c11]8%[-][/c]"
+    },
+    "102401": {
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102401,
+      "skillDesParam1": "[c][118c11]4.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.25%[-][/c]"
+    },
+    "102305": {
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102305,
+      "skillDesParam1": "[c][118c11]12%[-][/c]",
+      "StarUpParam1": "[c][118c11]12%[-][/c]"
+    },
+    "101504": {
+      "StarUpDes": "The 3 Warrior allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101504,
+      "skillDesParam1": "[c][118c11]10%[-][/c]",
+      "StarUpParam1": "[c][118c11]10%[-][/c]"
+    },
+    "100603": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100603,
+      "skillDesParam1": "[c][118c11]7.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.5%[-][/c]"
+    },
+    "102304": {
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102304,
+      "skillDesParam1": "[c][118c11]10%[-][/c]",
+      "StarUpParam1": "[c][118c11]10%[-][/c]"
+    },
+    "102202": {
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102202,
+      "skillDesParam1": "[c][118c11]2.4%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4%[-][/c]"
+    },
+    "102302": {
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102302,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "102301": {
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 102301,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "102204": {
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102204,
+      "skillDesParam1": "[c][118c11]3.8%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.8%[-][/c]"
+    },
+    "101301": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101301,
+      "skillDesParam1": "[c][118c11]2%[-][/c]",
+      "StarUpParam1": "[c][118c11]2%[-][/c]"
+    },
+    "101403": {
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101403,
+      "skillDesParam1": "[c][118c11]3.1%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.1%[-][/c]"
+    },
+    "102104": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102104,
+      "skillDesParam1": "[c][118c11]5%[-][/c]",
+      "StarUpParam1": "[c][118c11]5%[-][/c]"
+    },
+    "102103": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102103,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "101404": {
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101404,
+      "skillDesParam1": "[c][118c11]3.8%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.8%[-][/c]"
+    },
+    "100205": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100205,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3[-][/c]"
+    },
+    "101500": {
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101500,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "102003": {
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102003,
+      "skillDesParam1": "[c][118c11]7.75%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.75%[-][/c]"
+    },
+    "100701": {
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100701,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]6.0%[-][/c]"
+    },
+    "102102": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warlock faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 102102,
+      "skillDesParam1": "[c][118c11]3%[-][/c]",
+      "StarUpParam1": "[c][118c11]3%[-][/c]"
+    },
+    "101701": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Ranger faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101701,
+      "skillDesParam1": "[c][118c11]2%[-][/c]",
+      "StarUpParam1": "[c][118c11]2%[-][/c]"
+    },
+    "102004": {
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102004,
+      "skillDesParam1": "[c][118c11]9.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.5%[-][/c]"
+    },
+    "102002": {
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102002,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "101600": {
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101600,
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "101904": {
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101904,
+      "skillDesParam1": "[c][118c11]10%[-][/c]",
+      "StarUpParam1": "[c][118c11]10%[-][/c]"
+    },
+    "101902": {
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101902,
+      "skillDesParam1": "[c][118c11]6%[-][/c]",
+      "StarUpParam1": "[c][118c11]6%[-][/c]"
+    },
+    "101002": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "Raven skill targets +{0}",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101002,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2[-][/c]"
+    },
+    "101900": {
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101900,
+      "skillDesParam1": "[c][118c11]2%[-][/c]"
+    },
+    "100900": {
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100900,
+      "skillDesParam2": "[c][118c11]800K[-][/c]",
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "101805": {
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101805,
+      "skillDesParam1": "[c][118c11]4.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.5%[-][/c]"
+    },
+    "101801": {
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101801,
+      "skillDesParam1": "[c][118c11]1.7%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.7%[-][/c]"
+    },
+    "101804": {
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101804,
+      "skillDesParam1": "[c][118c11]3.8%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.8%[-][/c]"
+    },
+    "101604": {
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101604,
+      "skillDesParam1": "[c][118c11]9.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.5%[-][/c]"
+    },
+    "101803": {
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101803,
+      "skillDesParam1": "[c][118c11]3.1%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.1%[-][/c]"
+    },
+    "101802": {
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101802,
+      "skillDesParam1": "[c][118c11]2.4%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4%[-][/c]"
+    },
+    "101800": {
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s.",
+      "id": 101800,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "100401": {
+      "skillDesParam2": "[c][118c11]13.5%[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3}until the battle ends.",
+      "id": 100401,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.5%[-][/c]"
+    },
+    "102005": {
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102005,
+      "skillDesParam1": "[c][118c11]11.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]11.25%[-][/c]"
+    },
+    "102403": {
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102403,
+      "skillDesParam1": "[c][118c11]7.75%[-][/c]",
+      "StarUpParam1": "[c][118c11]7.75%[-][/c]"
+    },
+    "100505": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100505,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "101601": {
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101601,
+      "skillDesParam1": "[c][118c11]4.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.25%[-][/c]"
+    },
+    "100604": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100604,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "100100": {
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100100,
+      "skillDesParam2": "[c][118c11]800K[-][/c]",
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "101004": {
+      "skillDesParam2": "[c][118c11]2[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101004,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "100105": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100105,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "101905": {
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s.",
+      "id": 101905,
+      "skillDesParam1": "[c][118c11]12%[-][/c]",
+      "StarUpParam1": "[c][118c11]12%[-][/c]"
+    },
+    "102900": {
+      "skillDes": "Applies a buff to all allies, reducing damage taken by allies with HP above 50% by {0}+{1}.",
+      "id": 102900,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "100503": {
+      "skillDesParam2": "[c][118c11]2.4M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100503,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4M[-][/c]"
+    },
+    "101303": {
+      "StarUpDes": "When HP is above 50%, all allies take {0} less damage.",
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101303,
+      "skillDesParam1": "[c][118c11]4%[-][/c]",
+      "StarUpParam1": "[c][118c11]4%[-][/c]"
+    },
+    "101102": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101102,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "101104": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101104,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "101405": {
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s.",
+      "id": 101405,
+      "skillDesParam1": "[c][118c11]4.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.5%[-][/c]"
+    },
+    "102200": {
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s.",
+      "id": 102200,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "101105": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101105,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]13.0%[-][/c]"
+    },
+    "101300": {
+      "skillDes": "At the start of battle, if the Warrior faction has HP above 50%, all allies take {0}+{1} less damage.",
+      "id": 101300,
+      "skillDesParam1": "[c][118c11]1%[-][/c]"
+    },
+    "101205": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101205,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]40.5%[-][/c]"
+    },
+    "100102": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100102,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "101203": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101203,
+      "skillDesParam1": "[c][118c11]18.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]18.0%[-][/c]"
+    },
+    "101202": {
+      "skillDesParam2": "[c][118c11]27.0%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 101202,
+      "skillDesParam1": "[c][118c11]13.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "101106": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101106,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "100901": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100901,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]1.6M[-][/c]"
+    },
+    "101101": {
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "StarUpDes": "The 3 Warlock allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Warlock allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 101101,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]6.0%[-][/c]"
+    },
+    "102405": {
+      "StarUpDes": "All Warlock allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warlock allies gain {0}+{1} DEF until the battle ends.",
+      "id": 102405,
+      "skillDesParam1": "[c][118c11]11.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]11.25%[-][/c]"
+    },
+    "101006": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "All Warlock allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101006,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "100700": {
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100700,
+      "skillDesParam2": "[c][118c11]5.0%[-][/c]",
+      "skillDesParam1": "[c][118c11]3.0%[-][/c]"
+    },
+    "101605": {
+      "StarUpDes": "All Warrior allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Warrior allies gain{0}+{1} DEF until the battle ends.",
+      "id": 101605,
+      "skillDesParam1": "[c][118c11]11.25%[-][/c]",
+      "StarUpParam1": "[c][118c11]11.25%[-][/c]"
+    },
+    "100606": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100606,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "100902": {
+      "skillDesParam2": "[c][118c11]1.6M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100902,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]10.0%[-][/c]"
+    },
+    "100806": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100806,
+      "skillDesParam1": "[c][118c11]27.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]27.0%[-][/c]"
+    },
+    "100200": {
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100200,
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "100905": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "After shield ends, ally damage taken reduced by {0}",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100905,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "100706": {
+      "skillDesParam2": "[c][118c11]13.0%[-][/c]",
+      "StarUpDes": "The 3 Ranger allies with the highest ATK deal {0} more damage.",
+      "skillDes": "After Raven casts a skill, the 3 Ranger allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100706,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]15.0%[-][/c]"
+    },
+    "101000": {
+      "skillDes": "After Raven casts a skill, all Warlock allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 101000,
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "skillDesParam1": "[c][118c11]2.5%[-][/c]"
+    },
+    "100104": {
+      "skillDesParam2": "[c][118c11]3.2M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warrior allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100104,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]3.2M[-][/c]"
+    },
+    "100206": {
+      "skillDesParam2": "[c][118c11]3[-][/c]",
+      "StarUpDes": "All Warrior allies gain {0} ATK.",
+      "skillDes": "After Raven casts a skill, all Warrior allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100206,
+      "skillDesParam1": "[c][118c11]12.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]12.0%[-][/c]"
+    },
+    "100903": {
+      "skillDesParam2": "[c][118c11]2.4M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Warlock allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100903,
+      "skillDesParam1": "[c][118c11]10.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]2.4M[-][/c]"
+    },
+    "100601": {
+      "skillDesParam2": "[c][118c11]1[-][/c]",
+      "StarUpDes": "All Ranger allies gain {0} ATK",
+      "skillDes": "After Raven casts a skill, all Ranger allies gain {0}+{1} ATK for 3s, and Raven's skill targets +{2}",
+      "id": 100601,
+      "skillDesParam1": "[c][118c11]5.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]5.0%[-][/c]"
+    },
+    "100506": {
+      "skillDesParam2": "[c][118c11]4.0M[-][/c]",
+      "StarUpDes": "Gain a {0}-HP shield at battle start, which absorbs 50% damage",
+      "skillDes": "At battle start, Ranger allies gain a {2}+{3}-HP shield, which absorbs 50% damage for 15s. After shield ends, ally damage taken reduced by {0}+{1} until battle ends",
+      "id": 100506,
+      "skillDesParam1": "[c][118c11]15.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]4.0M[-][/c]"
+    },
+    "100302": {
+      "skillDesParam2": "[c][118c11]9.0%[-][/c]",
+      "StarUpDes": "Reduces DMG dealt by all enemies' [Ultimate Skill] by {0}",
+      "skillDes": "After Raven casts a skill, the 3 Warrior allies with the highest ATK deal {0}+{1} more damage for 3s, and all enemies deal {2}+{3} less [Ultimate Skill] damage for 3s.",
+      "id": 100302,
+      "skillDesParam1": "[c][118c11]6.0%[-][/c]",
+      "StarUpParam1": "[c][118c11]9.0%[-][/c]"
+    },
+    "100805": {
+      "skillDesParam2": "[c][118c11]40.5%[-][/c]",
+      "StarUpDes": "2 allies with the highest max HP gain {0} DEF",
+      "skillDes": "At the start of battle, all Ranger allies gain DEF +{0}+{1} until the battle ends, and the 2 allies with the highest max HP gain an additional DEF +{2}+{3} until the battle ends.",
+      "id": 100805,
+      "skillDesParam1": "[c][118c11]22.5%[-][/c]",
+      "StarUpParam1": "[c][118c11]40.5%[-][/c]"
+    }
+  },
+  "len": 164,
+  "key": "id",
+  "source_format": "locale rows"
+}

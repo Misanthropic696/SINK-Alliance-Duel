@@ -1,0 +1,57 @@
+{
+  "data": {
+    "9": {
+      "name": "Valley Awakening",
+      "des": "Increases Hero DMG by 15% for 60s. CD: 300s",
+      "id": 9
+    },
+    "8": {
+      "name": "Iron Will",
+      "des": "Reduces the duration of debuffs received by 30s",
+      "id": 8
+    },
+    "7": {
+      "name": "Crystal Mining",
+      "des": "Crystal Cluster Gathering Speed increases by 15%",
+      "id": 7
+    },
+    "6": {
+      "name": "Valley Vigil",
+      "des": "Gain 5000 extra Purified Crystals when you fail to seize a Lode. CD: 60s",
+      "id": 6
+    },
+    "5": {
+      "name": "Valley Plunder",
+      "des": "Gain 5000 extra Purified Crystals when you seize a Lode. CD: 60s",
+      "id": 5
+    },
+    "4": {
+      "name": "Swift March",
+      "des": "Troop March Speed in Crystal Cluster Valley +25%",
+      "id": 4
+    },
+    "3": {
+      "name": "Force Expansion",
+      "des": "Single Hero March Capacity +50",
+      "id": 3
+    },
+    "2": {
+      "name": "Plague Rat Hunter",
+      "des": "Gain 1500 extra Crystals when you slay a Plague Rat",
+      "id": 2
+    },
+    "1": {
+      "name": "Crystal Surge",
+      "des": "Periodically gain 1080 Purified Crystals",
+      "id": 1
+    },
+    "10": {
+      "name": "Crystal Resonance",
+      "des": "Temporarily increases Crystal Cluster Gathering Speed by 50% for 60s. CD: 300s",
+      "id": 10
+    }
+  },
+  "len": 10,
+  "key": "id",
+  "source_format": "locale rows"
+}

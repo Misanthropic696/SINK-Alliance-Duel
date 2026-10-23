@@ -1,0 +1,809 @@
+{
+  "len": 100,
+  "data": {
+    "19": {
+      "id": 19,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 10,
+      "deadRate": 0.1
+    },
+    "31": {
+      "id": 31,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 6,
+      "deadRate": 0.2
+    },
+    "21": {
+      "id": 21,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 1,
+      "deadRate": 0.2
+    },
+    "11": {
+      "id": 11,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 6,
+      "deadRate": 0.1
+    },
+    "62": {
+      "id": 62,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 1,
+      "deadRate": 0.8
+    },
+    "72": {
+      "id": 72,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 6,
+      "deadRate": 0.7
+    },
+    "42": {
+      "id": 42,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 1,
+      "deadRate": 0.7
+    },
+    "52": {
+      "id": 52,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 6,
+      "deadRate": 0.7
+    },
+    "82": {
+      "id": 82,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 1,
+      "deadRate": 0.9
+    },
+    "92": {
+      "id": 92,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 6,
+      "deadRate": 0.9
+    },
+    "76": {
+      "id": 76,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 8,
+      "deadRate": 0.7
+    },
+    "86": {
+      "id": 86,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 3,
+      "deadRate": 0.9
+    },
+    "56": {
+      "id": 56,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 8,
+      "deadRate": 0.7
+    },
+    "66": {
+      "id": 66,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 3,
+      "deadRate": 0.7
+    },
+    "36": {
+      "id": 36,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 8,
+      "deadRate": 0.6
+    },
+    "46": {
+      "id": 46,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 3,
+      "deadRate": 0.7
+    },
+    "16": {
+      "id": 16,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 8,
+      "deadRate": 0.5
+    },
+    "26": {
+      "id": 26,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 3,
+      "deadRate": 0.6
+    },
+    "22": {
+      "id": 22,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 1,
+      "deadRate": 0.6
+    },
+    "32": {
+      "id": 32,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 6,
+      "deadRate": 0.6
+    },
+    "100": {
+      "id": 100,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 10,
+      "deadRate": 0.9
+    },
+    "99": {
+      "id": 99,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 10,
+      "deadRate": 0.9
+    },
+    "98": {
+      "id": 98,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 9,
+      "deadRate": 0.9
+    },
+    "97": {
+      "id": 97,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 9,
+      "deadRate": 0.9
+    },
+    "96": {
+      "id": 96,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 8,
+      "deadRate": 0.9
+    },
+    "93": {
+      "id": 93,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 7,
+      "deadRate": 0.9
+    },
+    "95": {
+      "id": 95,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 8,
+      "deadRate": 0.9
+    },
+    "94": {
+      "id": 94,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 7,
+      "deadRate": 0.9
+    },
+    "37": {
+      "id": 37,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 9,
+      "deadRate": 0.2
+    },
+    "27": {
+      "id": 27,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 4,
+      "deadRate": 0.2
+    },
+    "57": {
+      "id": 57,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 9,
+      "deadRate": 0.3
+    },
+    "47": {
+      "id": 47,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 4,
+      "deadRate": 0.3
+    },
+    "23": {
+      "id": 23,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 2,
+      "deadRate": 0.2
+    },
+    "13": {
+      "id": 13,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 7,
+      "deadRate": 0.1
+    },
+    "43": {
+      "id": 43,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 2,
+      "deadRate": 0.3
+    },
+    "33": {
+      "id": 33,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 7,
+      "deadRate": 0.2
+    },
+    "34": {
+      "id": 34,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 7,
+      "deadRate": 0.6
+    },
+    "74": {
+      "id": 74,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 7,
+      "deadRate": 0.7
+    },
+    "9": {
+      "id": 9,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 5,
+      "deadRate": 0.1
+    },
+    "89": {
+      "id": 89,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 5,
+      "deadRate": 0.9
+    },
+    "88": {
+      "id": 88,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 4,
+      "deadRate": 0.9
+    },
+    "87": {
+      "id": 87,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 4,
+      "deadRate": 0.9
+    },
+    "17": {
+      "id": 17,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 9,
+      "deadRate": 0.1
+    },
+    "85": {
+      "id": 85,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 3,
+      "deadRate": 0.9
+    },
+    "84": {
+      "id": 84,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 2,
+      "deadRate": 0.9
+    },
+    "83": {
+      "id": 83,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 2,
+      "deadRate": 0.9
+    },
+    "44": {
+      "id": 44,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 2,
+      "deadRate": 0.7
+    },
+    "75": {
+      "id": 75,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 8,
+      "deadRate": 0.3
+    },
+    "8": {
+      "id": 8,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 4,
+      "deadRate": 0.5
+    },
+    "79": {
+      "id": 79,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 10,
+      "deadRate": 0.3
+    },
+    "78": {
+      "id": 78,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 9,
+      "deadRate": 0.7
+    },
+    "77": {
+      "id": 77,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 9,
+      "deadRate": 0.3
+    },
+    "1": {
+      "id": 1,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 1,
+      "deadRate": 0.1
+    },
+    "2": {
+      "id": 2,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 1,
+      "deadRate": 0.5
+    },
+    "60": {
+      "id": 60,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 10,
+      "deadRate": 0.7
+    },
+    "70": {
+      "id": 70,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 5,
+      "deadRate": 0.7
+    },
+    "80": {
+      "id": 80,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 10,
+      "deadRate": 0.7
+    },
+    "90": {
+      "id": 90,
+      "deadMax": 9999999,
+      "skillLevel": 5,
+      "deadMin": 1001,
+      "soldierLevel": 5,
+      "deadRate": 0.9
+    },
+    "73": {
+      "id": 73,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 7,
+      "deadRate": 0.3
+    },
+    "53": {
+      "id": 53,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 7,
+      "deadRate": 0.3
+    },
+    "28": {
+      "id": 28,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 4,
+      "deadRate": 0.6
+    },
+    "38": {
+      "id": 38,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 9,
+      "deadRate": 0.6
+    },
+    "48": {
+      "id": 48,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 4,
+      "deadRate": 0.7
+    },
+    "58": {
+      "id": 58,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 9,
+      "deadRate": 0.7
+    },
+    "14": {
+      "id": 14,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 7,
+      "deadRate": 0.5
+    },
+    "24": {
+      "id": 24,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 2,
+      "deadRate": 0.6
+    },
+    "3": {
+      "id": 3,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 2,
+      "deadRate": 0.1
+    },
+    "4": {
+      "id": 4,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 2,
+      "deadRate": 0.5
+    },
+    "7": {
+      "id": 7,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 4,
+      "deadRate": 0.1
+    },
+    "69": {
+      "id": 69,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 5,
+      "deadRate": 0.3
+    },
+    "68": {
+      "id": 68,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 4,
+      "deadRate": 0.7
+    },
+    "67": {
+      "id": 67,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 4,
+      "deadRate": 0.3
+    },
+    "65": {
+      "id": 65,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 3,
+      "deadRate": 0.8
+    },
+    "64": {
+      "id": 64,
+      "deadMax": 9999999,
+      "skillLevel": 4,
+      "deadMin": 1001,
+      "soldierLevel": 2,
+      "deadRate": 0.4
+    },
+    "63": {
+      "id": 63,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 2,
+      "deadRate": 0.3
+    },
+    "18": {
+      "id": 18,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 9,
+      "deadRate": 0.5
+    },
+    "50": {
+      "id": 50,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 5,
+      "deadRate": 0.7
+    },
+    "6": {
+      "id": 6,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 3,
+      "deadRate": 0.5
+    },
+    "40": {
+      "id": 40,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 10,
+      "deadRate": 0.6
+    },
+    "55": {
+      "id": 55,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 8,
+      "deadRate": 0.3
+    },
+    "54": {
+      "id": 54,
+      "deadMax": 9999999,
+      "skillLevel": 3,
+      "deadMin": 1001,
+      "soldierLevel": 7,
+      "deadRate": 0.7
+    },
+    "10": {
+      "id": 10,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 5,
+      "deadRate": 0.5
+    },
+    "20": {
+      "id": 20,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 10,
+      "deadRate": 0.5
+    },
+    "30": {
+      "id": 30,
+      "deadMax": 9999999,
+      "skillLevel": 2,
+      "deadMin": 1001,
+      "soldierLevel": 5,
+      "deadRate": 0.6
+    },
+    "71": {
+      "id": 71,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 6,
+      "deadRate": 0.3
+    },
+    "61": {
+      "id": 61,
+      "deadMax": 1000,
+      "skillLevel": 4,
+      "deadMin": 1,
+      "soldierLevel": 1,
+      "deadRate": 0.4
+    },
+    "51": {
+      "id": 51,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 6,
+      "deadRate": 0.3
+    },
+    "41": {
+      "id": 41,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 1,
+      "deadRate": 0.3
+    },
+    "5": {
+      "id": 5,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 3,
+      "deadRate": 0.1
+    },
+    "12": {
+      "id": 12,
+      "deadMax": 9999999,
+      "skillLevel": 1,
+      "deadMin": 1001,
+      "soldierLevel": 6,
+      "deadRate": 0.5
+    },
+    "91": {
+      "id": 91,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 6,
+      "deadRate": 0.9
+    },
+    "81": {
+      "id": 81,
+      "deadMax": 1000,
+      "skillLevel": 5,
+      "deadMin": 1,
+      "soldierLevel": 1,
+      "deadRate": 0.9
+    },
+    "59": {
+      "id": 59,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 10,
+      "deadRate": 0.3
+    },
+    "49": {
+      "id": 49,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 5,
+      "deadRate": 0.3
+    },
+    "39": {
+      "id": 39,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 10,
+      "deadRate": 0.2
+    },
+    "29": {
+      "id": 29,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 5,
+      "deadRate": 0.2
+    },
+    "45": {
+      "id": 45,
+      "deadMax": 1000,
+      "skillLevel": 3,
+      "deadMin": 1,
+      "soldierLevel": 3,
+      "deadRate": 0.3
+    },
+    "35": {
+      "id": 35,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 8,
+      "deadRate": 0.2
+    },
+    "25": {
+      "id": 25,
+      "deadMax": 1000,
+      "skillLevel": 2,
+      "deadMin": 1,
+      "soldierLevel": 3,
+      "deadRate": 0.2
+    },
+    "15": {
+      "id": 15,
+      "deadMax": 1000,
+      "skillLevel": 1,
+      "deadMin": 1,
+      "soldierLevel": 8,
+      "deadRate": 0.1
+    }
+  },
+  "excelName": "L-领主专长",
+  "first": 1,
+  "isNeedTransform": false,
+  "key": "id"
+}

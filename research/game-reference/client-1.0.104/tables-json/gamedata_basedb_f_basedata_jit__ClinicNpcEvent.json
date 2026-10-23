@@ -1,0 +1,338 @@
+{
+  "isNeedTransform": false,
+  "key": "id",
+  "excelName": "Clinic_诊所",
+  "first": 1,
+  "len": 22,
+  "data": {
+    "12": {
+      "id": 12,
+      "weighted": 100,
+      "patientType": 5,
+      "entityType": 2,
+      "eventType": {
+        "1": 111,
+        "2": 112
+      }
+    },
+    "11": {
+      "id": 11,
+      "weighted": 100,
+      "patientType": 4,
+      "entityType": 2,
+      "eventType": {
+        "1": 8,
+        "2": 17,
+        "3": 6
+      }
+    },
+    "10": {
+      "id": 10,
+      "weighted": 100,
+      "patientType": 3,
+      "entityType": 2,
+      "eventType": {
+        "1": 12,
+        "2": 6
+      }
+    },
+    "14": {
+      "id": 14,
+      "weighted": 3000,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 113,
+        "9": 115,
+        "10": 114,
+        "11": 6
+      }
+    },
+    "18": {
+      "id": 18,
+      "weighted": 100,
+      "patientType": 9,
+      "entityType": 55,
+      "eventType": {
+        "1": 1,
+        "2": 22,
+        "3": 30,
+        "4": 24,
+        "5": 31,
+        "6": 16,
+        "7": 6
+      }
+    },
+    "17": {
+      "id": 17,
+      "weighted": 100,
+      "patientType": 1,
+      "entityType": 100,
+      "eventType": {
+        "1": 1,
+        "2": 22,
+        "3": 30,
+        "4": 24,
+        "5": 31,
+        "6": 16,
+        "7": 6
+      }
+    },
+    "19": {
+      "id": 19,
+      "weighted": 100,
+      "patientType": 10,
+      "entityType": 60,
+      "eventType": {
+        "1": 1,
+        "2": 22,
+        "3": 30,
+        "4": 24,
+        "5": 31,
+        "6": 16,
+        "7": 6
+      }
+    },
+    "21": {
+      "id": 21,
+      "weighted": 100,
+      "patientType": 12,
+      "entityType": 58,
+      "eventType": {
+        "1": 1,
+        "2": 22,
+        "3": 30,
+        "4": 24,
+        "5": 31,
+        "6": 16,
+        "7": 6
+      }
+    },
+    "2": {
+      "id": 2,
+      "weighted": 200,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 11,
+        "5": 4,
+        "6": 7,
+        "7": 10,
+        "8": 16,
+        "9": 6
+      }
+    },
+    "1": {
+      "id": 1,
+      "weighted": 4300,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 6
+      }
+    },
+    "20": {
+      "id": 20,
+      "weighted": 100,
+      "patientType": 11,
+      "entityType": 101,
+      "eventType": {
+        "1": 1,
+        "2": 22,
+        "3": 30,
+        "4": 24,
+        "5": 31,
+        "6": 16,
+        "7": 6
+      }
+    },
+    "16": {
+      "id": 16,
+      "weighted": 100,
+      "patientType": 8,
+      "entityType": 2,
+      "eventType": {
+        "1": 111,
+        "2": 112
+      }
+    },
+    "15": {
+      "id": 15,
+      "weighted": 100,
+      "patientType": 7,
+      "entityType": 2,
+      "eventType": {
+        "1": 114,
+        "2": 6
+      }
+    },
+    "13": {
+      "id": 13,
+      "weighted": 100,
+      "patientType": 6,
+      "entityType": 2,
+      "eventType": {
+        "1": 11,
+        "2": 4,
+        "3": 7,
+        "4": 10,
+        "5": 16,
+        "6": 120
+      }
+    },
+    "8": {
+      "id": 8,
+      "weighted": 0,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 11,
+        "5": 4,
+        "6": 7,
+        "7": 10,
+        "8": 16,
+        "9": 12,
+        "10": 8,
+        "11": 17,
+        "12": 6
+      }
+    },
+    "7": {
+      "id": 7,
+      "weighted": 0,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 11,
+        "5": 4,
+        "6": 7,
+        "7": 10,
+        "8": 16,
+        "9": 8,
+        "10": 17,
+        "11": 6
+      }
+    },
+    "22": {
+      "id": 22,
+      "weighted": 100,
+      "patientType": 13,
+      "entityType": 64,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 6
+      }
+    },
+    "9": {
+      "id": 9,
+      "weighted": 100,
+      "patientType": 2,
+      "entityType": 2,
+      "eventType": {
+        "1": 111,
+        "2": 112
+      }
+    },
+    "4": {
+      "id": 4,
+      "weighted": 0,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 3,
+        "4": 11,
+        "5": 4,
+        "6": 7,
+        "7": 10,
+        "8": 16,
+        "9": 12,
+        "10": 6
+      }
+    },
+    "3": {
+      "id": 3,
+      "weighted": 2500,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 12,
+        "9": 6
+      }
+    },
+    "6": {
+      "id": 6,
+      "weighted": 500,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 12,
+        "9": 8,
+        "10": 17,
+        "11": 6
+      }
+    },
+    "5": {
+      "id": 5,
+      "weighted": 2500,
+      "patientType": 1,
+      "entityType": 2,
+      "eventType": {
+        "1": 1,
+        "2": 2,
+        "3": 11,
+        "4": 4,
+        "5": 7,
+        "6": 10,
+        "7": 16,
+        "8": 8,
+        "9": 17,
+        "10": 6
+      }
+    }
+  }
+}

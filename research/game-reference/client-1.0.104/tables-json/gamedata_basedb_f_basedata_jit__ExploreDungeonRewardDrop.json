@@ -1,0 +1,22 @@
+{
+  "len": 1,
+  "excelName": "F探索副本",
+  "first": 1,
+  "data": {
+    "1": {
+      "rate": 100,
+      "fullValue": 100,
+      "id": 1,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_food_1k"
+        }
+      },
+      "limit": 99999
+    }
+  },
+  "key": "id",
+  "isNeedTransform": false
+}

@@ -1,0 +1,1052 @@
+{
+  "len": 15,
+  "data": {
+    "2": {
+      "showTaskCount": 6,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 0,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 2,
+      "assistLimit": 0,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 6,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 0
+        },
+        "2": {
+          "id": 4,
+          "weight": 0
+        },
+        "3": {
+          "id": 11,
+          "weight": 0
+        },
+        "4": {
+          "id": 14,
+          "weight": 0
+        }
+      },
+      "needTaskCount": 5,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 6000
+        },
+        "2": {
+          "id": 3,
+          "weight": 4000
+        },
+        "3": {
+          "id": 5,
+          "weight": 0
+        },
+        "4": {
+          "id": 6,
+          "weight": 0
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1,
+      "storageLimit": 25,
+      "taskMaxDistance": 30,
+      "taskMinDistance": 8,
+      "upgradeAddTaskIds": {
+        "1": 101001,
+        "2": 101002,
+        "3": 101003
+      }
+    },
+    "3": {
+      "showTaskCount": 6,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 0,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 3,
+      "assistLimit": 25,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 7,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 0
+        },
+        "2": {
+          "id": 4,
+          "weight": 0
+        },
+        "3": {
+          "id": 11,
+          "weight": 0
+        },
+        "4": {
+          "id": 14,
+          "weight": 0
+        }
+      },
+      "needTaskCount": 30,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.05,
+      "storageLimit": 25,
+      "taskMaxDistance": 40,
+      "taskMinDistance": 7,
+      "upgradeAddTaskIds": {
+        "1": 600305,
+        "2": 600309,
+        "3": 500162
+      }
+    },
+    "4": {
+      "showTaskCount": 6,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 0,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 4,
+      "assistLimit": 25,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 8,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 0
+        },
+        "3": {
+          "id": 11,
+          "weight": 0
+        },
+        "4": {
+          "id": 14,
+          "weight": 0
+        }
+      },
+      "needTaskCount": 40,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.05,
+      "storageLimit": 25,
+      "taskMaxDistance": 40,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 200508,
+        "2": 500186,
+        "3": 600325,
+        "4": 600324
+      }
+    },
+    "5": {
+      "showTaskCount": 7,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 0,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 5,
+      "assistLimit": 25,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 9,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 50,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.05,
+      "storageLimit": 25,
+      "taskMaxDistance": 40,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 400143,
+        "2": 500210,
+        "3": 300145,
+        "4": 300144
+      }
+    },
+    "6": {
+      "showTaskCount": 7,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 6,
+      "assistLimit": 25,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 10,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 60,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.05,
+      "storageLimit": 25,
+      "taskMaxDistance": 40,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 600319,
+        "2": 600325,
+        "3": 500210,
+        "4": 500205
+      }
+    },
+    "7": {
+      "showTaskCount": 8,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 7,
+      "assistLimit": 30,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 10,
+      "refreshTaskCount": 10,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 250,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.1,
+      "storageLimit": 30,
+      "taskMaxDistance": 40,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500210,
+        "2": 500218,
+        "3": 500221,
+        "4": 300160,
+        "5": 300159
+      }
+    },
+    "8": {
+      "showTaskCount": 8,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 8,
+      "assistLimit": 35,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 10,
+      "refreshTaskCount": 10,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 500,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.1,
+      "storageLimit": 35,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500233,
+        "3": 300180,
+        "4": 300179,
+        "5": 100375
+      }
+    },
+    "9": {
+      "showTaskCount": 9,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 9,
+      "assistLimit": 35,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 10,
+      "refreshTaskCount": 11,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 1000,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.1,
+      "storageLimit": 35,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500257,
+        "3": 300185,
+        "4": 300184,
+        "5": 100380
+      }
+    },
+    "15": {
+      "showTaskCount": 12,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 15,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 20,
+      "refreshTaskCount": 13,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 5000,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.2,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500329,
+        "3": 300215,
+        "4": 300214,
+        "5": 100410
+      }
+    },
+    "14": {
+      "showTaskCount": 12,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 14,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 20,
+      "refreshTaskCount": 12,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 4000,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.2,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500329,
+        "3": 300210,
+        "4": 300209,
+        "5": 100405
+      }
+    },
+    "13": {
+      "showTaskCount": 11,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 13,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 20,
+      "refreshTaskCount": 12,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 3000,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.2,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500329,
+        "3": 300205,
+        "4": 300204,
+        "5": 100400
+      }
+    },
+    "11": {
+      "showTaskCount": 10,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 11,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 15,
+      "refreshTaskCount": 11,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 2000,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.15,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500305,
+        "3": 300195,
+        "4": 300194,
+        "5": 100390
+      }
+    },
+    "10": {
+      "showTaskCount": 9,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 10,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 15,
+      "refreshTaskCount": 11,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 1500,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.15,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500281,
+        "3": 300190,
+        "4": 300189,
+        "5": 100385
+      }
+    },
+    "12": {
+      "showTaskCount": 10,
+      "radarAddTaskIdsIcon": "pic_ld_icon11",
+      "rateDig": 2,
+      "radarAddTaskIdsIconIconAtlas": "Zombie_RadarAtlas",
+      "id": 12,
+      "assistLimit": 40,
+      "initTaskIds": {},
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 15,
+      "refreshTaskCount": 12,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 1000
+        },
+        "2": {
+          "id": 4,
+          "weight": 1000
+        },
+        "3": {
+          "id": 11,
+          "weight": 1000
+        },
+        "4": {
+          "id": 14,
+          "weight": 1000
+        }
+      },
+      "needTaskCount": 2500,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 2993
+        },
+        "2": {
+          "id": 3,
+          "weight": 1995
+        },
+        "3": {
+          "id": 5,
+          "weight": 1995
+        },
+        "4": {
+          "id": 6,
+          "weight": 2993
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1.15,
+      "storageLimit": 40,
+      "taskMaxDistance": 50,
+      "taskMinDistance": 10,
+      "upgradeAddTaskIds": {
+        "1": 500222,
+        "2": 500329,
+        "3": 300200,
+        "4": 300199,
+        "5": 100395
+      }
+    },
+    "1": {
+      "showTaskCount": 5,
+      "radarAddTaskIdsIcon": "",
+      "rateDig": 0,
+      "radarAddTaskIdsIconIconAtlas": "",
+      "id": 1,
+      "assistLimit": 0,
+      "initTaskIds": {
+        "1": 1400185,
+        "2": 301001,
+        "3": 301002,
+        "4": 301003,
+        "5": 301004
+      },
+      "random": {
+        "1": {
+          "id": 1,
+          "weight": 100
+        },
+        "2": {
+          "id": 2,
+          "weight": 100
+        }
+      },
+      "assistNumber": 5,
+      "refreshTaskCount": 6,
+      "poolA": {
+        "1": {
+          "id": 2,
+          "weight": 0
+        },
+        "2": {
+          "id": 4,
+          "weight": 0
+        },
+        "3": {
+          "id": 11,
+          "weight": 0
+        },
+        "4": {
+          "id": 14,
+          "weight": 0
+        }
+      },
+      "needTaskCount": 0,
+      "poolB": {
+        "1": {
+          "id": 1,
+          "weight": 0
+        },
+        "2": {
+          "id": 3,
+          "weight": 10000
+        },
+        "3": {
+          "id": 5,
+          "weight": 0
+        },
+        "4": {
+          "id": 6,
+          "weight": 0
+        }
+      },
+      "upgradeAddTaskCount": 0,
+      "basicResourceEff": 1,
+      "storageLimit": 25,
+      "taskMaxDistance": 30,
+      "taskMinDistance": 8,
+      "upgradeAddTaskIds": {}
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "first": 1,
+  "excelName": "RadarIntelligence_k3新版情报站"
+}

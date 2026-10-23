@@ -1,0 +1,97 @@
+{
+  "data": {
+    "3": {
+      "HelpTimes": 5,
+      "id": 3,
+      "baseDifficulty": 2,
+      "name": "",
+      "image": "pic_jjsl_nd03",
+      "recommandPower": 6800000
+    },
+    "2": {
+      "HelpTimes": 5,
+      "id": 2,
+      "baseDifficulty": 1,
+      "name": "",
+      "image": "pic_jjsl_nd02",
+      "recommandPower": 2800000
+    },
+    "1": {
+      "HelpTimes": 5,
+      "id": 1,
+      "baseDifficulty": 0,
+      "name": "",
+      "image": "pic_jjsl_nd01",
+      "recommandPower": 770000
+    },
+    "7": {
+      "HelpTimes": 5,
+      "id": 7,
+      "baseDifficulty": 6,
+      "name": "",
+      "image": "pic_jjsl_nd07",
+      "recommandPower": 21500000
+    },
+    "6": {
+      "HelpTimes": 5,
+      "id": 6,
+      "baseDifficulty": 5,
+      "name": "",
+      "image": "pic_jjsl_nd06",
+      "recommandPower": 16400000
+    },
+    "5": {
+      "HelpTimes": 5,
+      "id": 5,
+      "baseDifficulty": 4,
+      "name": "",
+      "image": "pic_jjsl_nd05",
+      "recommandPower": 11600000
+    },
+    "4": {
+      "HelpTimes": 5,
+      "id": 4,
+      "baseDifficulty": 3,
+      "name": "",
+      "image": "pic_jjsl_nd04",
+      "recommandPower": 8600000
+    },
+    "11": {
+      "HelpTimes": 5,
+      "id": 11,
+      "baseDifficulty": 10,
+      "name": "",
+      "image": "pic_jjsl_nd11",
+      "recommandPower": 40000000
+    },
+    "10": {
+      "HelpTimes": 5,
+      "id": 10,
+      "baseDifficulty": 9,
+      "name": "",
+      "image": "pic_jjsl_nd10",
+      "recommandPower": 35000000
+    },
+    "9": {
+      "HelpTimes": 5,
+      "id": 9,
+      "baseDifficulty": 8,
+      "name": "",
+      "image": "pic_jjsl_nd09",
+      "recommandPower": 30000000
+    },
+    "8": {
+      "HelpTimes": 5,
+      "id": 8,
+      "baseDifficulty": 7,
+      "name": "",
+      "image": "pic_jjsl_nd08",
+      "recommandPower": 25500000
+    }
+  },
+  "excelName": "Activity_HeroRoad_勇者之路",
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 1,
+  "len": 11
+}

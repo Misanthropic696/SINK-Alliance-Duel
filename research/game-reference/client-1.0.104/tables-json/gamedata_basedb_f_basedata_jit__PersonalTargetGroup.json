@@ -1,0 +1,2015 @@
+{
+  "first": 1,
+  "key": "id",
+  "excelName": "Activity_Alliance_BOSS_联盟BOSS",
+  "isNeedTransform": false,
+  "len": 60,
+  "data": {
+    "103": {
+      "id": 103,
+      "stage": 3,
+      "highestDmg": 864000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 87,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 152
+        },
+        "3": {
+          "id": "item_module_props_Box_2",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1220,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 168,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 110001,
+      "minnimumDmg": 576000001
+    },
+    "22": {
+      "id": 22,
+      "stage": 2,
+      "highestDmg": 11000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 17,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 65
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 460,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 35,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "groupId": 30001,
+      "minnimumDmg": 5500001
+    },
+    "94": {
+      "id": 94,
+      "stage": 4,
+      "highestDmg": 1050000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 91,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 175
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1350,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 181,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "groupId": 100001,
+      "minnimumDmg": 630000001
+    },
+    "93": {
+      "id": 93,
+      "stage": 3,
+      "highestDmg": 630000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 80,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 140
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 160,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 100001,
+      "minnimumDmg": 420000001
+    },
+    "92": {
+      "id": 92,
+      "stage": 2,
+      "highestDmg": 420000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 59,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 105
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 900,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 119,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "groupId": 100001,
+      "minnimumDmg": 210000001
+    },
+    "91": {
+      "id": 91,
+      "stage": 1,
+      "highestDmg": 210000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 39,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 70
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 600,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 79,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "groupId": 100001,
+      "minnimumDmg": 1
+    },
+    "104": {
+      "id": 104,
+      "stage": 4,
+      "highestDmg": 1440000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 186
+        },
+        "3": {
+          "id": "item_module_props_Box_2",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1430,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 197,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 110001,
+      "minnimumDmg": 864000001
+    },
+    "85": {
+      "id": 85,
+      "stage": 5,
+      "highestDmg": 800000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 91,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 195
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1440,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 181,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "groupId": 90001,
+      "minnimumDmg": 800000001
+    },
+    "84": {
+      "id": 84,
+      "stage": 4,
+      "highestDmg": 800000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 82,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 165
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1280,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 163,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 90001,
+      "minnimumDmg": 480000001
+    },
+    "83": {
+      "id": 83,
+      "stage": 3,
+      "highestDmg": 480000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 72,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 135
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1120,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 144,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "groupId": 90001,
+      "minnimumDmg": 320000001
+    },
+    "82": {
+      "id": 82,
+      "stage": 2,
+      "highestDmg": 320000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 53,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 100
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 820,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 107,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "groupId": 90001,
+      "minnimumDmg": 160000001
+    },
+    "81": {
+      "id": 81,
+      "stage": 1,
+      "highestDmg": 160000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 70
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 520,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 71,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "groupId": 90001,
+      "minnimumDmg": 1
+    },
+    "111": {
+      "id": 111,
+      "stage": 1,
+      "highestDmg": 360000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 48,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 90
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 680,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 96,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 120001,
+      "minnimumDmg": 1
+    },
+    "31": {
+      "id": 31,
+      "stage": 1,
+      "highestDmg": 9500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 15,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 55
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 320,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 31,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "groupId": 40001,
+      "minnimumDmg": 1
+    },
+    "15": {
+      "id": 15,
+      "stage": 5,
+      "highestDmg": 12000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 21,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 90
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 41,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "groupId": 20001,
+      "minnimumDmg": 12000001
+    },
+    "25": {
+      "id": 25,
+      "stage": 5,
+      "highestDmg": 27500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 31,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 105
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 840,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 61,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "groupId": 30001,
+      "minnimumDmg": 27500001
+    },
+    "61": {
+      "id": 61,
+      "stage": 1,
+      "highestDmg": 70000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 27,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 65
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 440,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 55,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "groupId": 70001,
+      "minnimumDmg": 1
+    },
+    "71": {
+      "id": 71,
+      "stage": 1,
+      "highestDmg": 110000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 31,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 480,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equip_produce_materials_04",
+          "count": 63,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "groupId": 80001,
+      "minnimumDmg": 1
+    },
+    "63": {
+      "id": 63,
+      "stage": 3,
+      "highestDmg": 210000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 56,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 115
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 960,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 112,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 14,
+          "type": 99
+        }
+      },
+      "groupId": 70001,
+      "minnimumDmg": 140000001
+    },
+    "73": {
+      "id": 73,
+      "stage": 3,
+      "highestDmg": 330000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 64,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 125
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1040,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 128,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "groupId": 80001,
+      "minnimumDmg": 220000001
+    },
+    "75": {
+      "id": 75,
+      "stage": 5,
+      "highestDmg": 550000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 81,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 180
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1340,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 161,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 80001,
+      "minnimumDmg": 550000001
+    },
+    "112": {
+      "id": 112,
+      "stage": 2,
+      "highestDmg": 720000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 72,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 126
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1020,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 144,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 120001,
+      "minnimumDmg": 360000001
+    },
+    "95": {
+      "id": 95,
+      "stage": 5,
+      "highestDmg": 1050000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 101,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 210
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 201,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "groupId": 100001,
+      "minnimumDmg": 1050000001
+    },
+    "35": {
+      "id": 35,
+      "stage": 5,
+      "highestDmg": 47500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 41,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 120
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 940,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 81,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "groupId": 40001,
+      "minnimumDmg": 47500001
+    },
+    "115": {
+      "id": 115,
+      "stage": 5,
+      "highestDmg": 1800000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 232
+        },
+        "3": {
+          "id": "item_module_props_Box_3",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1730,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 244,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 120001,
+      "minnimumDmg": 1800000001
+    },
+    "13": {
+      "id": 13,
+      "stage": 3,
+      "highestDmg": 7200001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 16,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 70
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 560,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 32,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "groupId": 20001,
+      "minnimumDmg": 4800001
+    },
+    "55": {
+      "id": 55,
+      "stage": 5,
+      "highestDmg": 225000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 61,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 150
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1140,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 121,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "groupId": 60001,
+      "minnimumDmg": 225000001
+    },
+    "11": {
+      "id": 11,
+      "stage": 1,
+      "highestDmg": 2400001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 7,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 240,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 15,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "groupId": 20001,
+      "minnimumDmg": 1
+    },
+    "65": {
+      "id": 65,
+      "stage": 5,
+      "highestDmg": 350000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 71,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 165
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1240,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 141,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 17,
+          "type": 99
+        }
+      },
+      "groupId": 70001,
+      "minnimumDmg": 350000001
+    },
+    "64": {
+      "id": 64,
+      "stage": 4,
+      "highestDmg": 350000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 64,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 140
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 127,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "groupId": 70001,
+      "minnimumDmg": 210000001
+    },
+    "113": {
+      "id": 113,
+      "stage": 3,
+      "highestDmg": 1080000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 95,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 161
+        },
+        "3": {
+          "id": "item_module_props_Box_2",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1300,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 183,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 120001,
+      "minnimumDmg": 720000001
+    },
+    "33": {
+      "id": 33,
+      "stage": 3,
+      "highestDmg": 28500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 32,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 90
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 720,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 64,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "groupId": 40001,
+      "minnimumDmg": 19000001
+    },
+    "54": {
+      "id": 54,
+      "stage": 4,
+      "highestDmg": 225000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 55,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 130
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1010,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 109,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 13,
+          "type": 99
+        }
+      },
+      "groupId": 60001,
+      "minnimumDmg": 135000001
+    },
+    "53": {
+      "id": 53,
+      "stage": 3,
+      "highestDmg": 135000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 48,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 105
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 880,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 96,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "groupId": 60001,
+      "minnimumDmg": 90000001
+    },
+    "52": {
+      "id": 52,
+      "stage": 2,
+      "highestDmg": 90000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 85
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 71,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "groupId": 60001,
+      "minnimumDmg": 45000001
+    },
+    "51": {
+      "id": 51,
+      "stage": 1,
+      "highestDmg": 45000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 23,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 60
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 47,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "groupId": 60001,
+      "minnimumDmg": 1
+    },
+    "23": {
+      "id": 23,
+      "stage": 3,
+      "highestDmg": 16500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 24,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 80
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 48,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "groupId": 30001,
+      "minnimumDmg": 11000001
+    },
+    "45": {
+      "id": 45,
+      "stage": 5,
+      "highestDmg": 110000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 51,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 135
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1040,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 101,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "groupId": 50001,
+      "minnimumDmg": 110000001
+    },
+    "44": {
+      "id": 44,
+      "stage": 4,
+      "highestDmg": 110000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 46,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 115
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 920,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 91,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 11,
+          "type": 99
+        }
+      },
+      "groupId": 50001,
+      "minnimumDmg": 66000001
+    },
+    "114": {
+      "id": 114,
+      "stage": 4,
+      "highestDmg": 1800000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 108,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 194
+        },
+        "3": {
+          "id": "item_module_props_Box_2",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1520,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 214,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 120001,
+      "minnimumDmg": 1080000001
+    },
+    "43": {
+      "id": 43,
+      "stage": 3,
+      "highestDmg": 66000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 95
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 80,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "groupId": 50001,
+      "minnimumDmg": 44000001
+    },
+    "42": {
+      "id": 42,
+      "stage": 2,
+      "highestDmg": 44000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 29,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 75
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 580,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 59,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "groupId": 50001,
+      "minnimumDmg": 22000001
+    },
+    "41": {
+      "id": 41,
+      "stage": 1,
+      "highestDmg": 22000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 19,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 55
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 360,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 39,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "groupId": 50001,
+      "minnimumDmg": 1
+    },
+    "4": {
+      "id": 4,
+      "stage": 4,
+      "highestDmg": 5000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 70
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 560,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 19,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "groupId": 10001,
+      "minnimumDmg": 3000001
+    },
+    "32": {
+      "id": 32,
+      "stage": 2,
+      "highestDmg": 19000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 23,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 70
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 520,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 47,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "groupId": 40001,
+      "minnimumDmg": 9500001
+    },
+    "101": {
+      "id": 101,
+      "stage": 1,
+      "highestDmg": 288000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 44,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 86
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 88,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 110001,
+      "minnimumDmg": 1
+    },
+    "34": {
+      "id": 34,
+      "stage": 4,
+      "highestDmg": 47500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 37,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 105
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 830,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 73,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 9,
+          "type": 99
+        }
+      },
+      "groupId": 40001,
+      "minnimumDmg": 28500001
+    },
+    "24": {
+      "id": 24,
+      "stage": 4,
+      "highestDmg": 27500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 28,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 95
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 740,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 55,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "groupId": 30001,
+      "minnimumDmg": 16500001
+    },
+    "72": {
+      "id": 72,
+      "stage": 2,
+      "highestDmg": 220000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 47,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 95
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 760,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 95,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 12,
+          "type": 99
+        }
+      },
+      "groupId": 80001,
+      "minnimumDmg": 110000001
+    },
+    "62": {
+      "id": 62,
+      "stage": 2,
+      "highestDmg": 140000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 41,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 90
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 700,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 83,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "groupId": 70001,
+      "minnimumDmg": 70000001
+    },
+    "74": {
+      "id": 74,
+      "stage": 4,
+      "highestDmg": 550000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 73,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 155
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1190,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 145,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "groupId": 80001,
+      "minnimumDmg": 330000001
+    },
+    "5": {
+      "id": 5,
+      "stage": 5,
+      "highestDmg": 5000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 75
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 640,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 21,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "groupId": 10001,
+      "minnimumDmg": 5000001
+    },
+    "102": {
+      "id": 102,
+      "stage": 2,
+      "highestDmg": 576000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 66,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 120
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 960,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 132,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 110001,
+      "minnimumDmg": 288000001
+    },
+    "3": {
+      "id": 3,
+      "stage": 3,
+      "highestDmg": 3000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 8,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 60
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 480,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 16,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "groupId": 10001,
+      "minnimumDmg": 2000001
+    },
+    "2": {
+      "id": 2,
+      "stage": 2,
+      "highestDmg": 2000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 55
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 340,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 11,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "groupId": 10001,
+      "minnimumDmg": 1000001
+    },
+    "1": {
+      "id": 1,
+      "stage": 1,
+      "highestDmg": 1000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 45
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 7,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "groupId": 10001,
+      "minnimumDmg": 1
+    },
+    "14": {
+      "id": 14,
+      "stage": 4,
+      "highestDmg": 12000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 19,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 80
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 650,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 37,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "groupId": 20001,
+      "minnimumDmg": 7200001
+    },
+    "21": {
+      "id": 21,
+      "stage": 1,
+      "highestDmg": 5500001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 50
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 280,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 23,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "groupId": 30001,
+      "minnimumDmg": 1
+    },
+    "12": {
+      "id": 12,
+      "stage": 2,
+      "highestDmg": 4800001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 11,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 60
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 23,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "groupId": 20001,
+      "minnimumDmg": 2400001
+    },
+    "105": {
+      "id": 105,
+      "stage": 5,
+      "highestDmg": 1440000001,
+      "reward": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 110,
+          "type": 99
+        },
+        "2": {
+          "type": 11,
+          "count": 215
+        },
+        "3": {
+          "id": "item_module_props_Box_2",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1630,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equip_produce_materials_04",
+          "count": 225,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "groupId": 110001,
+      "minnimumDmg": 1440000001
+    }
+  }
+}

@@ -1,0 +1,5414 @@
+{
+  "key": "id",
+  "isNeedTransform": false,
+  "enum": {
+    "GUIDETYPE": {
+      "FORCE": 1,
+      "TIP": 2
+    }
+  },
+  "first": 100501,
+  "data": {
+    "2002508": {
+      "target": {},
+      "id": 2002508,
+      "guideType": 1,
+      "nextGuideId": 2002509,
+      "event": {
+        "1": {
+          "param1": "2",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "3003705": {
+      "target": {},
+      "id": 3003705,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30037,
+      "guideOrder": 0
+    },
+    "3003604": {
+      "target": {},
+      "id": 3003604,
+      "guideType": 2,
+      "nextGuideId": 3003605,
+      "event": {
+        "1": {
+          "param1": "30003",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30036,
+      "guideOrder": 0
+    },
+    "3005107": {
+      "target": {},
+      "id": 3005107,
+      "guideType": 2,
+      "nextGuideId": 3005108,
+      "event": {
+        "1": {
+          "param1": "10006",
+          "id": 11025
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3000803": {
+      "target": {},
+      "id": 3000803,
+      "guideType": 2,
+      "nextGuideId": 3000804,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000803": {
+      "target": {},
+      "id": 2000803,
+      "guideType": 1,
+      "nextGuideId": 2000804,
+      "event": {
+        "1": {
+          "param1": "MonopolyPlotPicPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3002803": {
+      "target": {},
+      "id": 3002803,
+      "guideType": 2,
+      "nextGuideId": 3002804,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30028,
+      "guideOrder": 0
+    },
+    "2002803": {
+      "target": {},
+      "id": 2002803,
+      "guideType": 1,
+      "nextGuideId": 2002804,
+      "event": {
+        "1": {
+          "param1": "2",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20028,
+      "guideOrder": 5
+    },
+    "2000604": {
+      "target": {},
+      "id": 2000604,
+      "guideType": 1,
+      "nextGuideId": 2000607,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "2000602": {
+      "target": {},
+      "id": 2000602,
+      "guideType": 1,
+      "nextGuideId": 2000603,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "3001808": {
+      "target": {},
+      "id": 3001808,
+      "guideType": 2,
+      "nextGuideId": 3001809,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001601": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "5010"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3001601,
+      "guideType": 1,
+      "nextGuideId": 3001602,
+      "event": {
+        "1": {
+          "param1": "5010",
+          "id": 10044
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2001601": {
+      "target": {
+        "1": {
+          "param1": "20030",
+          "id": 80014
+        }
+      },
+      "id": 2001601,
+      "guideType": 1,
+      "nextGuideId": 2001602,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/TruckCrash.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3000804": {
+      "target": {},
+      "id": 3000804,
+      "guideType": 2,
+      "nextGuideId": 3000805,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param3": "5",
+          "param1": "PubNewHeroPanel/m_btn_close"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000804": {
+      "target": {},
+      "id": 2000804,
+      "guideType": 2,
+      "nextGuideId": 2000805,
+      "event": {
+        "1": {
+          "param1": "MonopolyPlotPicPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2000201": {
+      "target": {
+        "1": {
+          "param1": "9900002",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000201,
+      "guideType": 1,
+      "nextGuideId": 2000202,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Go_in_City.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20002,
+      "guideOrder": 2
+    },
+    "3004803": {
+      "target": {},
+      "id": 3004803,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30048,
+      "guideOrder": 0
+    },
+    "2000607": {
+      "target": {},
+      "id": 2000607,
+      "guideType": 1,
+      "nextGuideId": 2000608,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Go_in_Boss.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "3000201": {
+      "target": {
+        "1": {
+          "param1": "126",
+          "id": 80021
+        },
+        "2": {
+          "param1": "4",
+          "id": 80015
+        },
+        "3": {
+          "id": 80034
+        }
+      },
+      "id": 3000201,
+      "guideType": 2,
+      "nextGuideId": 3000202,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_taskPart/m_chapterItem_root/m_chapterItem/m_btn_reward",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30002,
+      "guideOrder": 0
+    },
+    "3001602": {
+      "target": {},
+      "id": 3001602,
+      "guideType": 1,
+      "nextGuideId": 3001603,
+      "event": {
+        "1": {
+          "param1": "5010",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2001602": {
+      "target": {},
+      "id": 2001602,
+      "guideType": 1,
+      "nextGuideId": 2001603,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/TruckCrash.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2001204": {
+      "target": {},
+      "id": 2001204,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20012,
+      "guideOrder": 14
+    },
+    "3000801": {
+      "target": {
+        "1": {
+          "id": 80035,
+          "param2": "1",
+          "param1": "2"
+        }
+      },
+      "id": 3000801,
+      "guideType": 2,
+      "nextGuideId": 3000802,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000801": {
+      "target": {
+        "1": {
+          "param1": "9900007",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000801,
+      "guideType": 1,
+      "nextGuideId": 2000802,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Boss_Run.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2000702": {
+      "target": {},
+      "id": 2000702,
+      "guideType": 1,
+      "nextGuideId": 2000703,
+      "event": {
+        "1": {
+          "id": 11022,
+          "param3": "-1|-1",
+          "param1": "106"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20007,
+      "guideOrder": 8
+    },
+    "2001607": {
+      "target": {},
+      "id": 2001607,
+      "guideType": 1,
+      "nextGuideId": 2001608,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3001607": {
+      "target": {},
+      "id": 3001607,
+      "guideType": 1,
+      "nextGuideId": 3001608,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "3000702": {
+      "target": {},
+      "id": 3000702,
+      "guideType": 2,
+      "nextGuideId": 3000703,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30007,
+      "guideOrder": 0
+    },
+    "2000204": {
+      "target": {},
+      "id": 2000204,
+      "guideType": 1,
+      "nextGuideId": 2000205,
+      "event": {
+        "1": {
+          "param1": "2",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20002,
+      "guideOrder": 2
+    },
+    "3003911": {
+      "target": {},
+      "id": 3003911,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2000304": {
+      "target": {},
+      "id": 2000304,
+      "guideType": 1,
+      "nextGuideId": 2000305,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "2000102": {
+      "target": {},
+      "id": 2000102,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/First_Battle.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20001,
+      "guideOrder": 1
+    },
+    "3004104": {
+      "target": {},
+      "id": 3004104,
+      "guideType": 2,
+      "nextGuideId": 3004105,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombiePanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30041,
+      "guideOrder": 0
+    },
+    "3003403": {
+      "target": {},
+      "id": 3003403,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30034,
+      "guideOrder": 0
+    },
+    "2003403": {
+      "target": {},
+      "id": 2003403,
+      "guideType": 1,
+      "nextGuideId": 2003404,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2000905": {
+      "target": {},
+      "id": 2000905,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20009,
+      "guideOrder": 11
+    },
+    "2002202": {
+      "target": {},
+      "id": 2002202,
+      "guideType": 1,
+      "nextGuideId": 2002203,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20022,
+      "guideOrder": 22
+    },
+    "2002602": {
+      "target": {},
+      "id": 2002602,
+      "guideType": 1,
+      "nextGuideId": 2002603,
+      "event": {
+        "1": {
+          "param1": "10010",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20026,
+      "guideOrder": 30
+    },
+    "3002602": {
+      "target": {},
+      "id": 3002602,
+      "guideType": 2,
+      "nextGuideId": 3002603,
+      "event": {
+        "1": {
+          "param1": "20032",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30026,
+      "guideOrder": 0
+    },
+    "3001811": {
+      "target": {},
+      "id": 3001811,
+      "guideType": 2,
+      "nextGuideId": 3001812,
+      "event": {
+        "1": {
+          "param1": "HeroShowPanel/Canvas/bottom/heroAttItem/m_bottom_node/s_part_upgrade/m_part_canUpgrade/GameObject/m_btn_upgrade",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3002604": {
+      "target": {},
+      "id": 3002604,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "RadarCollect",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30026,
+      "guideOrder": 0
+    },
+    "2001305": {
+      "target": {},
+      "id": 2001305,
+      "guideType": 1,
+      "nextGuideId": 2001306,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Boss_Help.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "2001702": {
+      "target": {},
+      "id": 2001702,
+      "guideType": 1,
+      "nextGuideId": 2001703,
+      "event": {
+        "1": {
+          "param1": "10002",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3001005": {
+      "target": {},
+      "id": 3001005,
+      "guideType": 2,
+      "nextGuideId": 3001006,
+      "event": {
+        "1": {
+          "param1": "HospitalPanel/temp/bottomControlItem/hospitalBtnControl/btnChangeItem/m_btn_treatStart",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "3003004": {
+      "target": {},
+      "id": 3003004,
+      "guideType": 1,
+      "nextGuideId": 3003005,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2003411": {
+      "target": {},
+      "id": 2003411,
+      "guideType": 1,
+      "nextGuideId": 2003412,
+      "event": {
+        "1": {
+          "param1": "30002",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3003601": {
+      "target": {
+        "1": {
+          "param1": "1400185",
+          "id": 200068
+        }
+      },
+      "id": 3003601,
+      "guideType": 2,
+      "nextGuideId": 3003602,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30036,
+      "guideOrder": 0
+    },
+    "2003104": {
+      "target": {},
+      "id": 2003104,
+      "guideType": 1,
+      "nextGuideId": 2003105,
+      "event": {
+        "1": {
+          "param1": "10021",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "2001605": {
+      "target": {},
+      "id": 2001605,
+      "guideType": 1,
+      "nextGuideId": 2001606,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3002402": {
+      "target": {},
+      "id": 3002402,
+      "guideType": 2,
+      "nextGuideId": 3002403,
+      "event": {
+        "1": {
+          "param1": "20031",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30024,
+      "guideOrder": 0
+    },
+    "2001701": {
+      "target": {
+        "1": {
+          "param1": "1004",
+          "id": 80030
+        }
+      },
+      "id": 2001701,
+      "guideType": 1,
+      "nextGuideId": 2001702,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3003501": {
+      "target": {
+        "1": {
+          "param1": "9900103",
+          "id": 200028
+        }
+      },
+      "id": 3003501,
+      "guideType": 2,
+      "nextGuideId": 3003502,
+      "event": {
+        "1": {
+          "id": 11038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "2001304": {
+      "target": {},
+      "id": 2001304,
+      "guideType": 1,
+      "nextGuideId": 2001305,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "3005104": {
+      "target": {},
+      "id": 3005104,
+      "guideType": 1,
+      "nextGuideId": 3005105,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_bottom/bottomGroup/bottomBtnChooseItem1/m_btn_hero",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3003602": {
+      "target": {},
+      "id": 3003602,
+      "guideType": 2,
+      "nextGuideId": 3003603,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30036,
+      "guideOrder": 0
+    },
+    "3004301": {
+      "target": {
+        "1": {
+          "param2": "40",
+          "id": 80027
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004301,
+      "guideType": 2,
+      "nextGuideId": 3004302,
+      "event": {
+        "1": {
+          "id": 10017,
+          "param2": "30",
+          "param3": "1"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "3002405": {
+      "target": {},
+      "id": 3002405,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30024,
+      "guideOrder": 0
+    },
+    "2001501": {
+      "target": {
+        "1": {
+          "param1": "9900101",
+          "id": 200003
+        }
+      },
+      "id": 2001501,
+      "guideType": 1,
+      "nextGuideId": 2001502,
+      "event": {
+        "1": {
+          "param1": "Battle",
+          "id": 10004
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "3003402": {
+      "target": {},
+      "id": 3003402,
+      "guideType": 2,
+      "nextGuideId": 3003403,
+      "event": {
+        "1": {
+          "param1": "1400185",
+          "id": 10037
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30034,
+      "guideOrder": 0
+    },
+    "2003402": {
+      "target": {},
+      "id": 2003402,
+      "guideType": 1,
+      "nextGuideId": 2003403,
+      "event": {
+        "1": {
+          "param1": "5029",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2000805": {
+      "target": {},
+      "id": 2000805,
+      "guideType": 1,
+      "nextGuideId": 2000806,
+      "event": {
+        "1": {
+          "param1": "10054",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3000805": {
+      "target": {},
+      "id": 3000805,
+      "guideType": 2,
+      "nextGuideId": 3000806,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "3002703": {
+      "target": {},
+      "id": 3002703,
+      "guideType": 2,
+      "nextGuideId": 3002704,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30027,
+      "guideOrder": 0
+    },
+    "2001001": {
+      "target": {
+        "1": {
+          "param1": "126",
+          "id": 80021
+        }
+      },
+      "id": 2001001,
+      "guideType": 1,
+      "nextGuideId": 2001002,
+      "event": {
+        "1": {
+          "id": 10005,
+          "param2": "2",
+          "param1": "FunctionUnlockPanel"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20010,
+      "guideOrder": 12
+    },
+    "3001001": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "5029"
+        }
+      },
+      "id": 3001001,
+      "guideType": 2,
+      "nextGuideId": 3001002,
+      "event": {
+        "1": {
+          "param1": "3",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "2000305": {
+      "target": {},
+      "id": 2000305,
+      "guideType": 1,
+      "nextGuideId": 2000306,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Meet_Nola.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "3000807": {
+      "target": {},
+      "id": 3000807,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000807": {
+      "target": {},
+      "id": 2000807,
+      "guideType": 1,
+      "nextGuideId": 2000808,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3004307": {
+      "target": {},
+      "id": 3004307,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "2002505": {
+      "target": {},
+      "id": 2002505,
+      "guideType": 1,
+      "nextGuideId": 2002506,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2002601": {
+      "target": {
+        "1": {
+          "param1": "9001",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002601,
+      "guideType": 1,
+      "nextGuideId": 2002602,
+      "event": {
+        "1": {
+          "param1": "8001",
+          "id": 11024
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20026,
+      "guideOrder": 30
+    },
+    "2002902": {
+      "target": {},
+      "id": 2002902,
+      "guideType": 1,
+      "nextGuideId": 2002903,
+      "event": {
+        "1": {
+          "param1": "PubRecruit",
+          "id": 10008
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3002504": {
+      "target": {},
+      "id": 3002504,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "RadarUnionHelp",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30025,
+      "guideOrder": 0
+    },
+    "2001508": {
+      "target": {},
+      "id": 2001508,
+      "guideType": 1,
+      "nextGuideId": 2001509,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param2": "1",
+          "param1": "MarchEditBattlePanel/m_btn_battle"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "2001801": {
+      "target": {
+        "1": {
+          "param1": "20017",
+          "id": 80014
+        }
+      },
+      "id": 2001801,
+      "guideType": 1,
+      "nextGuideId": 2001802,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2001505": {
+      "target": {},
+      "id": 2001505,
+      "guideType": 1,
+      "nextGuideId": 2001506,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "3004201": {
+      "target": {
+        "1": {
+          "id": 201001,
+          "param2": "0",
+          "param1": "6"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004201,
+      "guideType": 1,
+      "nextGuideId": 3004202,
+      "event": {
+        "1": {
+          "param1": "10027",
+          "id": 10012
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30042,
+      "guideOrder": 0
+    },
+    "2000302": {
+      "target": {},
+      "id": 2000302,
+      "guideType": 1,
+      "nextGuideId": 2000303,
+      "event": {
+        "1": {
+          "param1": "PubNewHero",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "2003105": {
+      "target": {},
+      "id": 2003105,
+      "guideType": 1,
+      "nextGuideId": 2003106,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "2001705": {
+      "target": {},
+      "id": 2001705,
+      "guideType": 2,
+      "nextGuideId": 2001706,
+      "event": {
+        "1": {
+          "param1": "RescuePopUpPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3004701": {
+      "target": {
+        "1": {
+          "param1": "7",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004701,
+      "guideType": 2,
+      "nextGuideId": 3004702,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30047,
+      "guideOrder": 0
+    },
+    "2002506": {
+      "target": {},
+      "id": 2002506,
+      "guideType": 1,
+      "nextGuideId": 2002507,
+      "event": {
+        "1": {
+          "param1": "122",
+          "id": 11033
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2003102": {
+      "target": {},
+      "id": 2003102,
+      "guideType": 1,
+      "nextGuideId": 2003103,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param3": "5",
+          "param1": "CommonGetRewardPanel/windows/m_btn_close"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "2003106": {
+      "target": {},
+      "id": 2003106,
+      "guideType": 1,
+      "nextGuideId": 2003107,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/UAV_Bomb.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "3003102": {
+      "target": {},
+      "id": 3003102,
+      "guideType": 2,
+      "nextGuideId": 3003103,
+      "event": {
+        "1": {
+          "id": 10074,
+          "param2": "8",
+          "param3": "0.45"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30031,
+      "guideOrder": 0
+    },
+    "2003410": {
+      "target": {},
+      "id": 2003410,
+      "guideType": 2,
+      "nextGuideId": 2003411,
+      "event": {
+        "1": {
+          "param1": "SecretRewardReceivePanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3005103": {
+      "target": {},
+      "id": 3005103,
+      "guideType": 1,
+      "nextGuideId": 3005104,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3002401": {
+      "target": {
+        "1": {
+          "param1": "2",
+          "id": 80036
+        },
+        "2": {
+          "param1": "RadarUpgrade",
+          "id": 200022
+        }
+      },
+      "id": 3002401,
+      "guideType": 2,
+      "nextGuideId": 3002402,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30024,
+      "guideOrder": 0
+    },
+    "2002701": {
+      "target": {
+        "1": {
+          "param1": "11003",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002701,
+      "guideType": 1,
+      "nextGuideId": 2002702,
+      "event": {
+        "1": {
+          "param1": "11003",
+          "id": 11024
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20027,
+      "guideOrder": 30
+    },
+    "3001006": {
+      "target": {},
+      "id": 3001006,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "2001604": {
+      "target": {},
+      "id": 2001604,
+      "guideType": 1,
+      "nextGuideId": 2001605,
+      "event": {
+        "1": {
+          "param1": "5002",
+          "id": 10044
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2001506": {
+      "target": {},
+      "id": 2001506,
+      "guideType": 1,
+      "nextGuideId": 2001507,
+      "event": {
+        "1": {
+          "param1": "30003",
+          "id": 11025
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "2000205": {
+      "target": {},
+      "id": 2000205,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20002,
+      "guideOrder": 2
+    },
+    "2000307": {
+      "target": {},
+      "id": 2000307,
+      "guideType": 1,
+      "nextGuideId": 2000308,
+      "event": {
+        "1": {
+          "id": 11022,
+          "param3": "-1|-1",
+          "param1": "102"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "3002501": {
+      "target": {
+        "1": {
+          "param1": "12",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3002501,
+      "guideType": 2,
+      "nextGuideId": 3002502,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30025,
+      "guideOrder": 0
+    },
+    "3004203": {
+      "target": {},
+      "id": 3004203,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "EmergencySettleTaskPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30042,
+      "guideOrder": 0
+    },
+    "3004102": {
+      "target": {},
+      "id": 3004102,
+      "guideType": 1,
+      "nextGuideId": 3004103,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30041,
+      "guideOrder": 0
+    },
+    "2003401": {
+      "target": {
+        "1": {
+          "param1": "20025",
+          "id": 80014
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2003401,
+      "guideType": 1,
+      "nextGuideId": 2003402,
+      "event": {
+        "1": {
+          "param1": "122",
+          "id": 10010
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3003401": {
+      "target": {
+        "1": {
+          "param1": "1400185",
+          "id": 200065
+        },
+        "2": {
+          "param1": "UIRadarPanel",
+          "id": 80020
+        }
+      },
+      "id": 3003401,
+      "guideType": 2,
+      "nextGuideId": 3003402,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30034,
+      "guideOrder": 0
+    },
+    "3000806": {
+      "target": {},
+      "id": 3000806,
+      "guideType": 2,
+      "nextGuideId": 3000807,
+      "event": {
+        "1": {
+          "param1": "10007",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000806": {
+      "target": {},
+      "id": 2000806,
+      "guideType": 1,
+      "nextGuideId": 2000807,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3002901": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "1010"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        },
+        "3": {
+          "id": 40107
+        }
+      },
+      "id": 3002901,
+      "guideType": 2,
+      "nextGuideId": 3002902,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30029,
+      "guideOrder": 0
+    },
+    "2002901": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "5008"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002901,
+      "guideType": 1,
+      "nextGuideId": 2002902,
+      "event": {
+        "1": {
+          "id": 10044,
+          "param2": "1",
+          "param1": "5008"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "2001806": {
+      "target": {},
+      "id": 2001806,
+      "guideType": 1,
+      "nextGuideId": 2001807,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Rescue_Gril.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2002502": {
+      "target": {},
+      "id": 2002502,
+      "guideType": 1,
+      "nextGuideId": 2002503,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/TruckTwo.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2000704": {
+      "target": {},
+      "id": 2000704,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20007,
+      "guideOrder": 8
+    },
+    "2001504": {
+      "target": {},
+      "id": 2001504,
+      "guideType": 1,
+      "nextGuideId": 2001505,
+      "event": {
+        "1": {
+          "param1": "40002",
+          "id": 11025
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "3000704": {
+      "target": {},
+      "id": 3000704,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30007,
+      "guideOrder": 0
+    },
+    "2003412": {
+      "target": {},
+      "id": 2003412,
+      "guideType": 1,
+      "nextGuideId": 2003413,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3002905": {
+      "target": {},
+      "id": 3002905,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30029,
+      "guideOrder": 0
+    },
+    "2002905": {
+      "target": {},
+      "id": 2002905,
+      "guideType": 1,
+      "nextGuideId": 2002906,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3003908": {
+      "target": {},
+      "id": 3003908,
+      "guideType": 1,
+      "nextGuideId": 3003909,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2001202": {
+      "target": {},
+      "id": 2001202,
+      "guideType": 1,
+      "nextGuideId": 2001203,
+      "event": {
+        "1": {
+          "id": 11034,
+          "param2": "0",
+          "param1": "69"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20012,
+      "guideOrder": 14
+    },
+    "2001612": {
+      "target": {},
+      "id": 2001612,
+      "guideType": 1,
+      "nextGuideId": 2001613,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2000812": {
+      "target": {},
+      "id": 2000812,
+      "guideType": 1,
+      "nextGuideId": 2000813,
+      "event": {
+        "1": {
+          "param1": "3",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2002704": {
+      "target": {},
+      "id": 2002704,
+      "guideType": 1,
+      "nextGuideId": 2002705,
+      "event": {
+        "1": {
+          "param1": "20038",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20027,
+      "guideOrder": 31
+    },
+    "3003001": {
+      "target": {
+        "1": {
+          "param1": "UIRadarPanel",
+          "id": 80020
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3003001,
+      "guideType": 1,
+      "nextGuideId": 3003002,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2003001": {
+      "target": {
+        "1": {
+          "param1": "1002",
+          "id": 80038
+        }
+      },
+      "id": 2003001,
+      "guideType": 1,
+      "nextGuideId": 2003002,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20030,
+      "guideOrder": 18
+    },
+    "3003502": {
+      "target": {},
+      "id": 3003502,
+      "guideType": 1,
+      "nextGuideId": 3003503,
+      "event": {
+        "1": {
+          "param1": "10023",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "2003413": {
+      "target": {},
+      "id": 2003413,
+      "guideType": 1,
+      "nextGuideId": 2003414,
+      "event": {
+        "1": {
+          "param1": "SecretCommandMainPanel/m_content/s_commandSubPanel/m_personalScroll/Viewport/Content/2/m_btn_goto",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3004802": {
+      "target": {},
+      "id": 3004802,
+      "guideType": 2,
+      "nextGuideId": 3004803,
+      "event": {
+        "1": {
+          "param1": "1",
+          "id": 11035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30048,
+      "guideOrder": 0
+    },
+    "3000505": {
+      "target": {},
+      "id": 3000505,
+      "guideType": 1,
+      "nextGuideId": 3000506,
+      "event": {
+        "1": {
+          "param1": "1006",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "2000808": {
+      "target": {},
+      "id": 2000808,
+      "guideType": 1,
+      "nextGuideId": 2000809,
+      "event": {
+        "1": {
+          "param1": "101",
+          "id": 10010
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2001614": {
+      "target": {},
+      "id": 2001614,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "5002",
+          "id": 10043
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3003006": {
+      "target": {},
+      "id": 3003006,
+      "guideType": 1,
+      "nextGuideId": 3003007,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "3003506": {
+      "target": {},
+      "id": 3003506,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 11039
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "2000309": {
+      "target": {},
+      "id": 2000309,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "3003803": {
+      "target": {},
+      "id": 3003803,
+      "guideType": 1,
+      "nextGuideId": 3003804,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30038,
+      "guideOrder": 0
+    },
+    "3003802": {
+      "target": {},
+      "id": 3003802,
+      "guideType": 1,
+      "nextGuideId": 3003803,
+      "event": {
+        "1": {
+          "param1": "10024",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30038,
+      "guideOrder": 0
+    },
+    "3004704": {
+      "target": {},
+      "id": 3004704,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "UnionDigSend",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30047,
+      "guideOrder": 0
+    },
+    "2003404": {
+      "target": {},
+      "id": 2003404,
+      "guideType": 1,
+      "nextGuideId": 2003405,
+      "event": {
+        "1": {
+          "param1": "UISecretMainPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2003408": {
+      "target": {},
+      "id": 2003408,
+      "guideType": 1,
+      "nextGuideId": 2003409,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2001610": {
+      "target": {},
+      "id": 2001610,
+      "guideType": 1,
+      "nextGuideId": 2001611,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2003101": {
+      "target": {
+        "1": {
+          "param1": "7001",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2003101,
+      "guideType": 1,
+      "nextGuideId": 2003102,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "2002904": {
+      "target": {},
+      "id": 2002904,
+      "guideType": 1,
+      "nextGuideId": 2002905,
+      "event": {
+        "1": {
+          "param1": "PubMainPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3000502": {
+      "target": {},
+      "id": 3000502,
+      "guideType": 1,
+      "nextGuideId": 3000503,
+      "event": {
+        "1": {
+          "param1": "1006",
+          "id": 10044
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "2000502": {
+      "target": {},
+      "id": 2000502,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Level5_Victory.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20005,
+      "guideOrder": 6
+    },
+    "3003904": {
+      "target": {},
+      "id": 3003904,
+      "guideType": 1,
+      "nextGuideId": 3003905,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2000813": {
+      "target": {},
+      "id": 2000813,
+      "guideType": 1,
+      "nextGuideId": 2000814,
+      "event": {
+        "1": {
+          "param1": "101",
+          "id": 10026
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2000301": {
+      "target": {
+        "1": {
+          "param1": "9900003",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000301,
+      "guideType": 1,
+      "nextGuideId": 2000302,
+      "event": {
+        "1": {
+          "param1": "10006",
+          "id": 11032
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "2000308": {
+      "target": {},
+      "id": 2000308,
+      "guideType": 1,
+      "nextGuideId": 2000309,
+      "event": {
+        "1": {
+          "param1": "2",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "2001502": {
+      "target": {},
+      "id": 2001502,
+      "guideType": 1,
+      "nextGuideId": 2001503,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "2001302": {
+      "target": {},
+      "id": 2001302,
+      "guideType": 1,
+      "nextGuideId": 2001303,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Boss_Death.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "2002903": {
+      "target": {},
+      "id": 2002903,
+      "guideType": 1,
+      "nextGuideId": 2002904,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3002903": {
+      "target": {},
+      "id": 3002903,
+      "guideType": 2,
+      "nextGuideId": 3002904,
+      "event": {
+        "1": {
+          "param1": "1",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30029,
+      "guideOrder": 0
+    },
+    "3003804": {
+      "target": {},
+      "id": 3003804,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 11039
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30038,
+      "guideOrder": 0
+    },
+    "3001603": {
+      "target": {},
+      "id": 3001603,
+      "guideType": 1,
+      "nextGuideId": 3001604,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2001603": {
+      "target": {},
+      "id": 2001603,
+      "guideType": 1,
+      "nextGuideId": 2001604,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2000203": {
+      "target": {},
+      "id": 2000203,
+      "guideType": 1,
+      "nextGuideId": 2000204,
+      "event": {
+        "1": {
+          "id": 11022,
+          "param3": "-1|-1",
+          "param1": "101"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20002,
+      "guideOrder": 2
+    },
+    "3002801": {
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3002801,
+      "guideType": 2,
+      "nextGuideId": 3002802,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30028,
+      "guideOrder": 0
+    },
+    "2003406": {
+      "target": {},
+      "id": 2003406,
+      "guideType": 1,
+      "nextGuideId": 2003407,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2000603": {
+      "target": {},
+      "id": 2000603,
+      "guideType": 1,
+      "nextGuideId": 2000604,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param3": "5",
+          "param1": "PubNewHeroPanel/m_btn_close"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "2002801": {
+      "target": {
+        "1": {
+          "param1": "103",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002801,
+      "guideType": 1,
+      "nextGuideId": 2002802,
+      "event": {
+        "1": {
+          "param1": "103",
+          "id": 11024
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20028,
+      "guideOrder": 5
+    },
+    "3003504": {
+      "target": {},
+      "id": 3003504,
+      "guideType": 1,
+      "nextGuideId": 3003505,
+      "event": {
+        "1": {
+          "param3": "dialog_npc_Firstpay_Monroe",
+          "id": 10005,
+          "param2": "15001",
+          "param1": "RollerDialogPanel"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "3004304": {
+      "target": {},
+      "id": 3004304,
+      "guideType": 2,
+      "nextGuideId": 3004305,
+      "event": {
+        "1": {
+          "param1": "ItemSpeedUse",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "2000703": {
+      "target": {},
+      "id": 2000703,
+      "guideType": 1,
+      "nextGuideId": 2000704,
+      "event": {
+        "1": {
+          "param1": "2",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20007,
+      "guideOrder": 8
+    },
+    "3000703": {
+      "target": {},
+      "id": 3000703,
+      "guideType": 2,
+      "nextGuideId": 3000704,
+      "event": {
+        "1": {
+          "param1": "WorkerSendPanel/panel/workes/m_scroll_workers/Viewport/Content/0/s_CommonWorkerCell/m_root/m_btn_bg",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30007,
+      "guideOrder": 0
+    },
+    "3000504": {
+      "target": {},
+      "id": 3000504,
+      "guideType": 1,
+      "nextGuideId": 3000505,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "2001507": {
+      "target": {},
+      "id": 2001507,
+      "guideType": 1,
+      "nextGuideId": 2001508,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "2000814": {
+      "target": {},
+      "id": 2000814,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3004404": {
+      "target": {},
+      "id": 3004404,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "RadarCollect",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30044,
+      "guideOrder": 0
+    },
+    "2002203": {
+      "target": {},
+      "id": 2002203,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20022,
+      "guideOrder": 22
+    },
+    "3005106": {
+      "target": {},
+      "id": 3005106,
+      "guideType": 2,
+      "nextGuideId": 3005107,
+      "event": {
+        "1": {
+          "param1": "Hero",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "2000202": {
+      "target": {},
+      "id": 2000202,
+      "guideType": 1,
+      "nextGuideId": 2000203,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Go_in_City.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20002,
+      "guideOrder": 2
+    },
+    "3000202": {
+      "target": {},
+      "id": 3000202,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30002,
+      "guideOrder": 0
+    },
+    "2001503": {
+      "target": {},
+      "id": 2001503,
+      "guideType": 1,
+      "nextGuideId": 2001504,
+      "event": {
+        "1": {
+          "param1": "Roller_March",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "2002804": {
+      "target": {},
+      "id": 2002804,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20028,
+      "guideOrder": 5
+    },
+    "2001509": {
+      "target": {},
+      "id": 2001509,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20015,
+      "guideOrder": 17
+    },
+    "3003009": {
+      "target": {},
+      "id": 3003009,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "WorldMap",
+          "id": 10004
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2003107": {
+      "target": {},
+      "id": 2003107,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/UAV_Bomb.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "3003303": {
+      "target": {},
+      "id": 3003303,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30033,
+      "guideOrder": 0
+    },
+    "2003303": {
+      "target": {},
+      "id": 2003303,
+      "guideType": 1,
+      "nextGuideId": 2003304,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20033,
+      "guideOrder": 29
+    },
+    "3003901": {
+      "target": {
+        "1": {
+          "id": 20103,
+          "param2": "1",
+          "param1": "5006"
+        },
+        "2": {
+          "id": 20103,
+          "param2": "1",
+          "param1": "5013"
+        },
+        "3": {
+          "param1": "CityMapScene",
+          "id": 80002
+        },
+        "4": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "0",
+          "param1": "1001"
+        }
+      },
+      "id": 3003901,
+      "guideType": 1,
+      "nextGuideId": 3003902,
+      "event": {
+        "1": {
+          "id": 10035,
+          "param3": "1",
+          "param1": "1.5"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "3003704": {
+      "target": {},
+      "id": 3003704,
+      "guideType": 2,
+      "nextGuideId": 3003705,
+      "event": {
+        "1": {
+          "param1": "301001",
+          "id": 10037
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30037,
+      "guideOrder": 0
+    },
+    "3000503": {
+      "target": {},
+      "id": 3000503,
+      "guideType": 1,
+      "nextGuideId": 3000504,
+      "event": {
+        "1": {
+          "param1": "20036",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "3002802": {
+      "target": {},
+      "id": 3002802,
+      "guideType": 2,
+      "nextGuideId": 3002803,
+      "event": {
+        "1": {
+          "param1": "20035",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30028,
+      "guideOrder": 0
+    },
+    "2002802": {
+      "target": {},
+      "id": 2002802,
+      "guideType": 1,
+      "nextGuideId": 2002803,
+      "event": {
+        "1": {
+          "id": 11022,
+          "param3": "-1|0",
+          "param1": "104"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20028,
+      "guideOrder": 5
+    },
+    "3005108": {
+      "target": {},
+      "id": 3005108,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3003002": {
+      "target": {},
+      "id": 3003002,
+      "guideType": 1,
+      "nextGuideId": 3003003,
+      "event": {
+        "1": {
+          "param1": "4",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2001703": {
+      "target": {},
+      "id": 2001703,
+      "guideType": 1,
+      "nextGuideId": 2001704,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3005101": {
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": 80043
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3005101,
+      "guideType": 1,
+      "nextGuideId": 3005102,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3005001": {
+      "target": {
+        "1": {
+          "param1": "20013",
+          "id": 80014
+        },
+        "2": {
+          "param1": "1",
+          "id": 80015
+        },
+        "3": {
+          "id": 80034
+        }
+      },
+      "id": 3005001,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_taskPart/m_chapterItem_root/m_chapterItem/m_btn_reward",
+          "id": 10007
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30050,
+      "guideOrder": 0
+    },
+    "3004903": {
+      "target": {},
+      "id": 3004903,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30049,
+      "guideOrder": 0
+    },
+    "2001002": {
+      "target": {},
+      "id": 2001002,
+      "guideType": 1,
+      "nextGuideId": 2001003,
+      "event": {
+        "1": {
+          "param1": "FunctionUnlockPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20010,
+      "guideOrder": 12
+    },
+    "3001002": {
+      "target": {},
+      "id": 3001002,
+      "guideType": 2,
+      "nextGuideId": 3001003,
+      "event": {
+        "1": {
+          "param1": "5029",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "2001003": {
+      "target": {},
+      "id": 2001003,
+      "guideType": 1,
+      "nextGuideId": 2001004,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_taskPart/m_chapterItem_root/m_chapterItem/m_btn_reward",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20010,
+      "guideOrder": 12
+    },
+    "3004902": {
+      "target": {},
+      "id": 3004902,
+      "guideType": 1,
+      "nextGuideId": 3004903,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_left/s_city/m_rescue/m_btn_rescue",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30049,
+      "guideOrder": 0
+    },
+    "3002804": {
+      "target": {},
+      "id": 3002804,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "Attack",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30028,
+      "guideOrder": 0
+    },
+    "3001003": {
+      "target": {},
+      "id": 3001003,
+      "guideType": 2,
+      "nextGuideId": 3001004,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "3004801": {
+      "target": {
+        "1": {
+          "param1": "2001",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004801,
+      "guideType": 2,
+      "nextGuideId": 3004802,
+      "event": {
+        "1": {
+          "param1": "1",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30048,
+      "guideOrder": 0
+    },
+    "3004703": {
+      "target": {},
+      "id": 3004703,
+      "guideType": 2,
+      "nextGuideId": 3004704,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30047,
+      "guideOrder": 0
+    },
+    "3004702": {
+      "target": {},
+      "id": 3004702,
+      "guideType": 2,
+      "nextGuideId": 3004703,
+      "event": {
+        "1": {
+          "param1": "30008",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30047,
+      "guideOrder": 0
+    },
+    "2001203": {
+      "target": {},
+      "id": 2001203,
+      "guideType": 1,
+      "nextGuideId": 2001204,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20012,
+      "guideOrder": 14
+    },
+    "3004403": {
+      "target": {},
+      "id": 3004403,
+      "guideType": 2,
+      "nextGuideId": 3004404,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30044,
+      "guideOrder": 0
+    },
+    "3004402": {
+      "target": {},
+      "id": 3004402,
+      "guideType": 2,
+      "nextGuideId": 3004403,
+      "event": {
+        "1": {
+          "param1": "30005",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30044,
+      "guideOrder": 0
+    },
+    "3004401": {
+      "target": {
+        "1": {
+          "param1": "14",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004401,
+      "guideType": 2,
+      "nextGuideId": 3004402,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30044,
+      "guideOrder": 0
+    },
+    "3004306": {
+      "target": {},
+      "id": 3004306,
+      "guideType": 2,
+      "nextGuideId": 3004307,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param2": "1",
+          "param1": "ItemSpeedUsePanel/root/bottom/trans_layout/m_listView/m_Content/ll_ItemSpeedUseCell_1/btnGroup/m_btn_onekey"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "2000810": {
+      "target": {},
+      "id": 2000810,
+      "guideType": 1,
+      "nextGuideId": 2000811,
+      "event": {
+        "1": {
+          "param1": "101",
+          "id": 10026
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3004305": {
+      "target": {},
+      "id": 3004305,
+      "guideType": 2,
+      "nextGuideId": 3004306,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "3001609": {
+      "target": {},
+      "id": 3001609,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2000608": {
+      "target": {},
+      "id": 2000608,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Go_in_Boss.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "3002601": {
+      "target": {
+        "1": {
+          "param1": "3",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3002601,
+      "guideType": 2,
+      "nextGuideId": 3002602,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30026,
+      "guideOrder": 0
+    },
+    "3004302": {
+      "target": {},
+      "id": 3004302,
+      "guideType": 2,
+      "nextGuideId": 3004303,
+      "event": {
+        "1": {
+          "param1": "BuildingSpeed",
+          "id": 10008
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "3004202": {
+      "target": {},
+      "id": 3004202,
+      "guideType": 1,
+      "nextGuideId": 3004203,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30042,
+      "guideOrder": 0
+    },
+    "3004105": {
+      "target": {},
+      "id": 3004105,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombieTaskPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30041,
+      "guideOrder": 0
+    },
+    "3004004": {
+      "target": {},
+      "id": 3004004,
+      "guideType": 2,
+      "nextGuideId": 3004005,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombiePanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30040,
+      "guideOrder": 0
+    },
+    "3004103": {
+      "target": {},
+      "id": 3004103,
+      "guideType": 1,
+      "nextGuideId": 3004104,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombiePanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30041,
+      "guideOrder": 0
+    },
+    "3004101": {
+      "target": {
+        "1": {
+          "id": 201001,
+          "param2": "2",
+          "param1": "5"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004101,
+      "guideType": 1,
+      "nextGuideId": 3004102,
+      "event": {
+        "1": {
+          "param1": "10026",
+          "id": 10012
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30041,
+      "guideOrder": 0
+    },
+    "3004005": {
+      "target": {},
+      "id": 3004005,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombieTaskPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30040,
+      "guideOrder": 0
+    },
+    "3004003": {
+      "target": {},
+      "id": 3004003,
+      "guideType": 1,
+      "nextGuideId": 3004004,
+      "event": {
+        "1": {
+          "param1": "EmergencyZombiePanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30040,
+      "guideOrder": 0
+    },
+    "2001201": {
+      "target": {
+        "1": {
+          "param1": "20011",
+          "id": 80014
+        }
+      },
+      "id": 2001201,
+      "guideType": 1,
+      "nextGuideId": 2001202,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20012,
+      "guideOrder": 14
+    },
+    "2003407": {
+      "target": {},
+      "id": 2003407,
+      "guideType": 1,
+      "nextGuideId": 2003408,
+      "event": {
+        "1": {
+          "param1": "SecretCommandMainPanel/m_content/s_commandSubPanel/m_personalScroll/Viewport/Content/0/m_btn_reward",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "3004001": {
+      "target": {
+        "1": {
+          "param1": "10001",
+          "id": 80029
+        },
+        "2": {
+          "id": 201001,
+          "param2": "1",
+          "param1": "5"
+        },
+        "3": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3004001,
+      "guideType": 1,
+      "nextGuideId": 3004002,
+      "event": {
+        "1": {
+          "param1": "10025",
+          "id": 10012
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30040,
+      "guideOrder": 0
+    },
+    "3003910": {
+      "target": {},
+      "id": 3003910,
+      "guideType": 1,
+      "nextGuideId": 3003911,
+      "event": {
+        "1": {
+          "param1": "101",
+          "id": 10026
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2000811": {
+      "target": {},
+      "id": 2000811,
+      "guideType": 1,
+      "nextGuideId": 2000812,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3003909": {
+      "target": {},
+      "id": 3003909,
+      "guideType": 1,
+      "nextGuideId": 3003910,
+      "event": {
+        "1": {
+          "param1": "3",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "3003907": {
+      "target": {},
+      "id": 3003907,
+      "guideType": 1,
+      "nextGuideId": 3003908,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param2": "1",
+          "param1": "BuildingUpgradePanel/root/m_bg/img_bg/m_Btns/m_useResBtn"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "3003906": {
+      "target": {},
+      "id": 3003906,
+      "guideType": 1,
+      "nextGuideId": 3003907,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "3003905": {
+      "target": {},
+      "id": 3003905,
+      "guideType": 1,
+      "nextGuideId": 3003906,
+      "event": {
+        "1": {
+          "param1": "BuildingUpgrade",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "3002403": {
+      "target": {},
+      "id": 3002403,
+      "guideType": 2,
+      "nextGuideId": 3002404,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30024,
+      "guideOrder": 0
+    },
+    "3003903": {
+      "target": {},
+      "id": 3003903,
+      "guideType": 1,
+      "nextGuideId": 3003904,
+      "event": {
+        "1": {
+          "param1": "UpLevel",
+          "id": 10008
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2001608": {
+      "target": {},
+      "id": 2001608,
+      "guideType": 1,
+      "nextGuideId": 2001609,
+      "event": {
+        "1": {
+          "param1": "GU_AbyssIdleRewardPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3001608": {
+      "target": {},
+      "id": 3001608,
+      "guideType": 1,
+      "nextGuideId": 3001609,
+      "event": {
+        "1": {
+          "param1": "ArenaMainPanel/m_arenaRect/RookieArenaMainSub(Clone)/bottom/RookieArenaChallengeInfo/m_node_btn/btn/m_btn_challenge",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2002907": {
+      "target": {},
+      "id": 2002907,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3003902": {
+      "target": {},
+      "id": 3003902,
+      "guideType": 1,
+      "nextGuideId": 3003903,
+      "event": {
+        "1": {
+          "id": 10010,
+          "param2": "1",
+          "param1": "101"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30039,
+      "guideOrder": 0
+    },
+    "2000601": {
+      "target": {
+        "1": {
+          "param1": "9900005",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000601,
+      "guideType": 1,
+      "nextGuideId": 2000602,
+      "event": {
+        "1": {
+          "param1": "30003",
+          "id": 11032
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20006,
+      "guideOrder": 7
+    },
+    "3003703": {
+      "target": {},
+      "id": 3003703,
+      "guideType": 2,
+      "nextGuideId": 3003704,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30037,
+      "guideOrder": 0
+    },
+    "3003702": {
+      "target": {},
+      "id": 3003702,
+      "guideType": 2,
+      "nextGuideId": 3003703,
+      "event": {
+        "1": {
+          "param1": "30004",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30037,
+      "guideOrder": 0
+    },
+    "2000306": {
+      "target": {},
+      "id": 2000306,
+      "guideType": 1,
+      "nextGuideId": 2000307,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Meet_Nola.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "3003701": {
+      "target": {
+        "1": {
+          "param1": "30036",
+          "id": 80014
+        },
+        "2": {
+          "param1": "301001",
+          "id": 200067
+        }
+      },
+      "id": 3003701,
+      "guideType": 2,
+      "nextGuideId": 3003702,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30037,
+      "guideOrder": 0
+    },
+    "2000303": {
+      "target": {},
+      "id": 2000303,
+      "guideType": 1,
+      "nextGuideId": 2000304,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param3": "5",
+          "param1": "PubNewHeroPanel/m_btn_close"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20003,
+      "guideOrder": 3
+    },
+    "3003605": {
+      "target": {},
+      "id": 3003605,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30036,
+      "guideOrder": 0
+    },
+    "3003603": {
+      "target": {},
+      "id": 3003603,
+      "guideType": 2,
+      "nextGuideId": 3003604,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30036,
+      "guideOrder": 0
+    },
+    "3000802": {
+      "target": {},
+      "id": 3000802,
+      "guideType": 2,
+      "nextGuideId": 3000803,
+      "event": {
+        "1": {
+          "param1": "10005",
+          "id": 11032
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30008,
+      "guideOrder": 0
+    },
+    "2000802": {
+      "target": {},
+      "id": 2000802,
+      "guideType": 1,
+      "nextGuideId": 2000803,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Boss_Run.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "2002201": {
+      "target": {
+        "1": {
+          "param1": "9900103",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002201,
+      "guideType": 1,
+      "nextGuideId": 2002202,
+      "event": {
+        "1": {
+          "param1": "1006",
+          "id": 11024
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20022,
+      "guideOrder": 22
+    },
+    "2001301": {
+      "target": {
+        "1": {
+          "param1": "9900008",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2001301,
+      "guideType": 1,
+      "nextGuideId": 2001302,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Boss_Death.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "3003505": {
+      "target": {},
+      "id": 3003505,
+      "guideType": 2,
+      "nextGuideId": 3003506,
+      "event": {
+        "1": {
+          "param1": "RollerDialogPanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "3003503": {
+      "target": {},
+      "id": 3003503,
+      "guideType": 1,
+      "nextGuideId": 3003504,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20035,
+      "guideOrder": 0
+    },
+    "2001706": {
+      "target": {},
+      "id": 2001706,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_left/s_city/m_rescue",
+          "id": 10071
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3002902": {
+      "target": {},
+      "id": 3002902,
+      "guideType": 2,
+      "nextGuideId": 3002903,
+      "event": {
+        "1": {
+          "param1": "AllianceGuide ",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30029,
+      "guideOrder": 0
+    },
+    "3003301": {
+      "target": {
+        "1": {
+          "id": 200066
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3003301,
+      "guideType": 2,
+      "nextGuideId": 3003302,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30033,
+      "guideOrder": 0
+    },
+    "3003202": {
+      "target": {},
+      "id": 3003202,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10088,
+          "param2": "1",
+          "param1": "RollerMainPanel/m_joystick/m_guide_joystick"
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30032,
+      "guideOrder": 0
+    },
+    "3003201": {
+      "target": {
+        "1": {
+          "id": 200027,
+          "param2": "2",
+          "param1": "9900104"
+        }
+      },
+      "id": 3003201,
+      "guideType": 2,
+      "nextGuideId": 3003202,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30032,
+      "guideOrder": 0
+    },
+    "2002906": {
+      "target": {},
+      "id": 2002906,
+      "guideType": 1,
+      "nextGuideId": 2002907,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param2": "1",
+          "param1": "PubMainPanel/m_recruitPoolRect/PubHeroPoolSub(Clone)/root/Order2/s_poolOperation/m_btn_recruitOnce"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20029,
+      "guideOrder": 24
+    },
+    "3003103": {
+      "target": {},
+      "id": 3003103,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "0.4",
+          "id": 10035
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30031,
+      "guideOrder": 0
+    },
+    "2000809": {
+      "target": {},
+      "id": 2000809,
+      "guideType": 1,
+      "nextGuideId": 2000810,
+      "event": {
+        "1": {
+          "param1": "1",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20008,
+      "guideOrder": 10
+    },
+    "3001606": {
+      "target": {},
+      "id": 3001606,
+      "guideType": 1,
+      "nextGuideId": 3001607,
+      "event": {
+        "1": {
+          "param1": "20037",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "2001606": {
+      "target": {},
+      "id": 2001606,
+      "guideType": 1,
+      "nextGuideId": 2001607,
+      "event": {
+        "1": {
+          "param1": "5002",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3003101": {
+      "target": {
+        "1": {
+          "id": 20103,
+          "param2": "1",
+          "param1": "1002"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3003101,
+      "guideType": 2,
+      "nextGuideId": 3003102,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30031,
+      "guideOrder": 0
+    },
+    "3003008": {
+      "target": {},
+      "id": 3003008,
+      "guideType": 1,
+      "nextGuideId": 3003009,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "3003007": {
+      "target": {},
+      "id": 3003007,
+      "guideType": 1,
+      "nextGuideId": 3003008,
+      "event": {
+        "1": {
+          "param1": "RadarPanel/m_root/s_radarEventDetail/obj_bottom/m_btn_go",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "3003005": {
+      "target": {},
+      "id": 3003005,
+      "guideType": 1,
+      "nextGuideId": 3003006,
+      "event": {
+        "1": {
+          "param1": "1400185",
+          "id": 10037
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2001802": {
+      "target": {},
+      "id": 2001802,
+      "guideType": 1,
+      "nextGuideId": 2001803,
+      "event": {
+        "1": {
+          "param1": "RescuePanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2003409": {
+      "target": {},
+      "id": 2003409,
+      "guideType": 1,
+      "nextGuideId": 2003410,
+      "event": {
+        "1": {
+          "param1": "SecretRewardReceivePanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2003405": {
+      "target": {},
+      "id": 2003405,
+      "guideType": 1,
+      "nextGuideId": 2003406,
+      "event": {
+        "1": {
+          "param1": "30001",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2003304": {
+      "target": {},
+      "id": 2003304,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "EmergencyUAVPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20033,
+      "guideOrder": 29
+    },
+    "3002503": {
+      "target": {},
+      "id": 3002503,
+      "guideType": 2,
+      "nextGuideId": 3002504,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30025,
+      "guideOrder": 0
+    },
+    "2002503": {
+      "target": {},
+      "id": 2002503,
+      "guideType": 1,
+      "nextGuideId": 2002504,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/TruckTwo.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "3005105": {
+      "target": {},
+      "id": 3005105,
+      "guideType": 2,
+      "nextGuideId": 3005106,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "3002904": {
+      "target": {},
+      "id": 3002904,
+      "guideType": 2,
+      "nextGuideId": 3002905,
+      "event": {
+        "1": {
+          "param1": "AllianceGuidePanel/root/Ani/BtnGroup/m_btn_join",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30029,
+      "guideOrder": 0
+    },
+    "3003302": {
+      "target": {},
+      "id": 3003302,
+      "guideType": 2,
+      "nextGuideId": 3003303,
+      "event": {
+        "1": {
+          "param1": "MainPanel/s_taskPart/functionLeftItem/m_radar",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30033,
+      "guideOrder": 0
+    },
+    "100501": {
+      "target": {},
+      "id": 100501,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "MallPanel/m_middlePart/s_MallFirstFloor_9/m_img_banner/m_btn_buy",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 1005,
+      "guideOrder": 0
+    },
+    "3004901": {
+      "target": {
+        "1": {
+          "param1": "3001",
+          "id": 80029
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        },
+        "3": {
+          "param1": "1800",
+          "id": 80044
+        }
+      },
+      "id": 3004901,
+      "guideType": 1,
+      "nextGuideId": 3004902,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30049,
+      "guideOrder": 0
+    },
+    "3002704": {
+      "target": {},
+      "id": 3002704,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param2": "Attack",
+          "id": 10082
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30027,
+      "guideOrder": 0
+    },
+    "2003414": {
+      "target": {},
+      "id": 2003414,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20034,
+      "guideOrder": 26
+    },
+    "2000901": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "1001"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000901,
+      "guideType": 1,
+      "nextGuideId": 2000902,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Repair_HP.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20009,
+      "guideOrder": 11
+    },
+    "2001102": {
+      "target": {},
+      "id": 2001102,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Boss_Irrupt.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20011,
+      "guideOrder": 13
+    },
+    "2003202": {
+      "target": {},
+      "id": 2003202,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20032,
+      "guideOrder": 28
+    },
+    "3000501": {
+      "target": {
+        "1": {
+          "param3": "1",
+          "id": 200014,
+          "param2": "1",
+          "param1": "1006"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3000501,
+      "guideType": 1,
+      "nextGuideId": 3000502,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "2000501": {
+      "target": {
+        "1": {
+          "param1": "9900005",
+          "id": 200005
+        }
+      },
+      "id": 2000501,
+      "guideType": 1,
+      "nextGuideId": 2000502,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Level5_Victory.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20005,
+      "guideOrder": 6
+    },
+    "2000701": {
+      "target": {
+        "1": {
+          "param1": "20006",
+          "id": 80014
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000701,
+      "guideType": 1,
+      "nextGuideId": 2000702,
+      "event": {
+        "1": {
+          "param1": "105",
+          "id": 11024
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20007,
+      "guideOrder": 8
+    },
+    "2000902": {
+      "target": {},
+      "id": 2000902,
+      "guideType": 1,
+      "nextGuideId": 2000903,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Repair_HP.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20009,
+      "guideOrder": 11
+    },
+    "2001101": {
+      "target": {
+        "1": {
+          "param3": "2",
+          "id": 200014,
+          "param2": "1",
+          "param1": "1001"
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        },
+        "3": {
+          "id": 200002
+        }
+      },
+      "id": 2001101,
+      "guideType": 1,
+      "nextGuideId": 2001102,
+      "event": {
+        "1": {
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/Boss_Irrupt.prefab"
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20011,
+      "guideOrder": 13
+    },
+    "3002701": {
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": 80037
+        },
+        "2": {
+          "param1": "WorldMapScene",
+          "id": 80002
+        }
+      },
+      "id": 3002701,
+      "guideType": 2,
+      "nextGuideId": 3002702,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30027,
+      "guideOrder": 0
+    },
+    "3002603": {
+      "target": {},
+      "id": 3002603,
+      "guideType": 2,
+      "nextGuideId": 3002604,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30026,
+      "guideOrder": 0
+    },
+    "2000904": {
+      "target": {},
+      "id": 2000904,
+      "guideType": 1,
+      "nextGuideId": 2000905,
+      "event": {
+        "1": {
+          "param1": "10058",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20009,
+      "guideOrder": 11
+    },
+    "2001807": {
+      "target": {},
+      "id": 2001807,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Rescue_Gril.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2000101": {
+      "target": {
+        "1": {
+          "param1": "RollerBattleScene",
+          "id": 80019
+        }
+      },
+      "id": 2000101,
+      "guideType": 1,
+      "nextGuideId": 2000102,
+      "event": {
+        "1": {
+          "param3": "1",
+          "id": 10027,
+          "param2": "1",
+          "param1": "Prefab/Timeline/Prefab/First_Battle.prefab"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20001,
+      "guideOrder": 1
+    },
+    "3001004": {
+      "target": {},
+      "id": 3001004,
+      "guideType": 2,
+      "nextGuideId": 3001005,
+      "event": {
+        "1": {
+          "param1": "Hospital",
+          "id": 10006
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30010,
+      "guideOrder": 0
+    },
+    "3004303": {
+      "target": {},
+      "id": 3004303,
+      "guideType": 2,
+      "nextGuideId": 3004304,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30043,
+      "guideOrder": 0
+    },
+    "3002502": {
+      "target": {},
+      "id": 3002502,
+      "guideType": 2,
+      "nextGuideId": 3002503,
+      "event": {
+        "1": {
+          "param1": "20034",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30025,
+      "guideOrder": 0
+    },
+    "3002404": {
+      "target": {},
+      "id": 3002404,
+      "guideType": 2,
+      "nextGuideId": 3002405,
+      "event": {
+        "1": {
+          "param1": "RadarPanel/m_root/obj_Lv/m_btn_New",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30024,
+      "guideOrder": 0
+    },
+    "3004002": {
+      "target": {},
+      "id": 3004002,
+      "guideType": 1,
+      "nextGuideId": 3004003,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30040,
+      "guideOrder": 0
+    },
+    "3001810": {
+      "target": {},
+      "id": 3001810,
+      "guideType": 2,
+      "nextGuideId": 3001811,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001809": {
+      "target": {},
+      "id": 3001809,
+      "guideType": 2,
+      "nextGuideId": 3001810,
+      "event": {
+        "1": {
+          "param1": "HeroShowPanel/Canvas/bottom/heroAttItem/m_bottom_node/s_part_upgrade/m_part_canUpgrade/GameObject/m_btn_upgrade",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "2001613": {
+      "target": {},
+      "id": 2001613,
+      "guideType": 1,
+      "nextGuideId": 2001614,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "3001807": {
+      "target": {},
+      "id": 3001807,
+      "guideType": 2,
+      "nextGuideId": 3001808,
+      "event": {
+        "1": {
+          "param1": "HeroShowPanel/Canvas/bottom/heroAttItem/m_bottom_node/s_part_upgrade/m_part_canUpgrade/GameObject/m_btn_upgrade",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001806": {
+      "target": {},
+      "id": 3001806,
+      "guideType": 2,
+      "nextGuideId": 3001807,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 1,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001805": {
+      "target": {},
+      "id": 3001805,
+      "guideType": 2,
+      "nextGuideId": 3001806,
+      "event": {
+        "1": {
+          "param1": "HeroShowPanel/Canvas/bottom/heroAttItem/m_bottom_node/s_part_upgrade/m_part_canUpgrade/GameObject/m_btn_upgrade",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001804": {
+      "target": {},
+      "id": 3001804,
+      "guideType": 2,
+      "nextGuideId": 3001805,
+      "event": {
+        "1": {
+          "param1": "HeroShow",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3000506": {
+      "target": {},
+      "id": 3000506,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30005,
+      "guideOrder": 0
+    },
+    "3001802": {
+      "target": {},
+      "id": 3001802,
+      "guideType": 2,
+      "nextGuideId": 3001803,
+      "event": {
+        "1": {
+          "param1": "20001",
+          "id": 11025
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001801": {
+      "target": {
+        "1": {
+          "param1": "UIHeroPanel",
+          "id": 80003
+        }
+      },
+      "id": 3001801,
+      "guideType": 2,
+      "nextGuideId": 3001802,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "3001605": {
+      "target": {},
+      "id": 3001605,
+      "guideType": 1,
+      "nextGuideId": 3001606,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "3001604": {
+      "target": {},
+      "id": 3001604,
+      "guideType": 1,
+      "nextGuideId": 3001605,
+      "event": {
+        "1": {
+          "param1": "ArenaMainPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30016,
+      "guideOrder": 0
+    },
+    "3000701": {
+      "target": {
+        "1": {
+          "param1": "UIWorkerSendPanel",
+          "id": 80003
+        }
+      },
+      "id": 3000701,
+      "guideType": 2,
+      "nextGuideId": 3000702,
+      "event": {
+        "1": {
+          "id": 10038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30007,
+      "guideOrder": 0
+    },
+    "2001803": {
+      "target": {},
+      "id": 2001803,
+      "guideType": 1,
+      "nextGuideId": 2001804,
+      "event": {
+        "1": {
+          "param1": "0.5",
+          "id": 10035
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "3001803": {
+      "target": {},
+      "id": 3001803,
+      "guideType": 2,
+      "nextGuideId": 3001804,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "2003003": {
+      "target": {},
+      "id": 2003003,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20030,
+      "guideOrder": 18
+    },
+    "3003003": {
+      "target": {},
+      "id": 3003003,
+      "guideType": 1,
+      "nextGuideId": 3003004,
+      "event": {
+        "1": {
+          "param1": "10008",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30030,
+      "guideOrder": 0
+    },
+    "2003302": {
+      "target": {},
+      "id": 2003302,
+      "guideType": 1,
+      "nextGuideId": 2003303,
+      "event": {
+        "1": {
+          "id": 10007,
+          "param3": "5",
+          "param1": "CommonGetRewardPanel/windows/m_btn_close"
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20033,
+      "guideOrder": 29
+    },
+    "2003301": {
+      "target": {
+        "1": {
+          "param1": "8002",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2003301,
+      "guideType": 1,
+      "nextGuideId": 2003302,
+      "event": {
+        "1": {
+          "param1": "CommonGetRewardPanel",
+          "id": 10006
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20033,
+      "guideOrder": 29
+    },
+    "2003201": {
+      "target": {
+        "1": {
+          "param1": "20031",
+          "id": 80014
+        }
+      },
+      "id": 2003201,
+      "guideType": 1,
+      "nextGuideId": 2003202,
+      "event": {
+        "1": {
+          "param1": "10022",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20032,
+      "guideOrder": 28
+    },
+    "2003103": {
+      "target": {},
+      "id": 2003103,
+      "guideType": 1,
+      "nextGuideId": 2003104,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20031,
+      "guideOrder": 27
+    },
+    "2003002": {
+      "target": {},
+      "id": 2003002,
+      "guideType": 1,
+      "nextGuideId": 2003003,
+      "event": {
+        "1": {
+          "param1": "10006",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20030,
+      "guideOrder": 18
+    },
+    "2002705": {
+      "target": {},
+      "id": 2002705,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20027,
+      "guideOrder": 31
+    },
+    "2002703": {
+      "target": {},
+      "id": 2002703,
+      "guideType": 1,
+      "nextGuideId": 2002704,
+      "event": {
+        "1": {
+          "param1": "123",
+          "id": 11033
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20027,
+      "guideOrder": 31
+    },
+    "3003801": {
+      "target": {
+        "1": {
+          "param1": "9900106",
+          "id": 200028
+        }
+      },
+      "id": 3003801,
+      "guideType": 2,
+      "nextGuideId": 3003802,
+      "event": {
+        "1": {
+          "id": 11038
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30038,
+      "guideOrder": 0
+    },
+    "2002603": {
+      "target": {},
+      "id": 2002603,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10013
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20026,
+      "guideOrder": 30
+    },
+    "2001611": {
+      "target": {},
+      "id": 2001611,
+      "guideType": 1,
+      "nextGuideId": 2001612,
+      "event": {
+        "1": {
+          "param1": "10059",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2002510": {
+      "target": {},
+      "id": 2002510,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2002509": {
+      "target": {},
+      "id": 2002509,
+      "guideType": 1,
+      "nextGuideId": 2002510,
+      "event": {
+        "1": {
+          "param1": "5029",
+          "id": 10043
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2002507": {
+      "target": {},
+      "id": 2002507,
+      "guideType": 1,
+      "nextGuideId": 2002508,
+      "event": {
+        "1": {
+          "param1": "122",
+          "id": 10010
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2002504": {
+      "target": {},
+      "id": 2002504,
+      "guideType": 1,
+      "nextGuideId": 2002505,
+      "event": {
+        "1": {
+          "param1": "10009",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2002501": {
+      "target": {
+        "1": {
+          "param1": "6003",
+          "id": 80030
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2002501,
+      "guideType": 1,
+      "nextGuideId": 2002502,
+      "event": {
+        "1": {
+          "param1": "6003",
+          "id": 11024
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20025,
+      "guideOrder": 25
+    },
+    "2001805": {
+      "target": {},
+      "id": 2001805,
+      "guideType": 1,
+      "nextGuideId": 2001806,
+      "event": {
+        "1": {
+          "param1": "RescuePanel",
+          "id": 10054
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2001804": {
+      "target": {},
+      "id": 2001804,
+      "guideType": 1,
+      "nextGuideId": 2001805,
+      "event": {
+        "1": {
+          "param1": "RescuePanel/m_obj_common/m_btn_go",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20018,
+      "guideOrder": 21
+    },
+    "2001704": {
+      "target": {},
+      "id": 2001704,
+      "guideType": 1,
+      "nextGuideId": 2001705,
+      "event": {
+        "1": {
+          "param1": "RescuePopUpPanel",
+          "id": 10005
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20017,
+      "guideOrder": 20
+    },
+    "3005102": {
+      "target": {},
+      "id": 3005102,
+      "guideType": 1,
+      "nextGuideId": 3005103,
+      "event": {
+        "1": {
+          "param1": "RescuePanel/m_obj_common/img_CloseBg/m_btn_close",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30051,
+      "guideOrder": 0
+    },
+    "2001609": {
+      "target": {},
+      "id": 2001609,
+      "guideType": 1,
+      "nextGuideId": 2001610,
+      "event": {
+        "1": {
+          "param1": "AbyssIdleRewardPanel/img_windows/buttonGroup/m_btn_ok",
+          "id": 10007
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20016,
+      "guideOrder": 19
+    },
+    "2001306": {
+      "target": {},
+      "id": 2001306,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "Prefab/Timeline/Prefab/Boss_Help.prefab",
+          "id": 10029
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "2001303": {
+      "target": {},
+      "id": 2001303,
+      "guideType": 1,
+      "nextGuideId": 2001304,
+      "event": {
+        "1": {
+          "param1": "10056",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20013,
+      "guideOrder": 15
+    },
+    "2000903": {
+      "target": {},
+      "id": 2000903,
+      "guideType": 1,
+      "nextGuideId": 2000904,
+      "event": {
+        "1": {
+          "param4": "112",
+          "id": 11033,
+          "param3": "110",
+          "param2": "108",
+          "param1": "106"
+        }
+      },
+      "keyStep": 1,
+      "groupId": 20009,
+      "guideOrder": 11
+    },
+    "3001812": {
+      "target": {},
+      "id": 3001812,
+      "guideType": 2,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 30018,
+      "guideOrder": 0
+    },
+    "2001004": {
+      "target": {},
+      "id": 2001004,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "id": 10009
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20010,
+      "guideOrder": 12
+    },
+    "3002702": {
+      "target": {},
+      "id": 3002702,
+      "guideType": 2,
+      "nextGuideId": 3002703,
+      "event": {
+        "1": {
+          "param1": "20033",
+          "id": 10012
+        }
+      },
+      "keyStep": 0,
+      "groupId": 30027,
+      "guideOrder": 0
+    },
+    "2002702": {
+      "target": {},
+      "id": 2002702,
+      "guideType": 1,
+      "nextGuideId": 2002703,
+      "event": {
+        "1": {
+          "param1": "123",
+          "id": 10010
+        }
+      },
+      "keyStep": 0,
+      "groupId": 20027,
+      "guideOrder": 31
+    },
+    "2000401": {
+      "target": {
+        "1": {
+          "param1": "9900004",
+          "id": 30801
+        },
+        "2": {
+          "param1": "CityMapScene",
+          "id": 80002
+        }
+      },
+      "id": 2000401,
+      "guideType": 1,
+      "nextGuideId": 0,
+      "event": {
+        "1": {
+          "param1": "102",
+          "id": 11024
+        }
+      },
+      "keyStep": 2,
+      "groupId": 20004,
+      "guideOrder": 4
+    }
+  },
+  "len": 329,
+  "excelName": "Event_事件"
+}

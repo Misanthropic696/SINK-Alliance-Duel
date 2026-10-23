@@ -1,0 +1,95 @@
+{
+  "data": {
+    "103": {
+      "rightEntryName": "Tech Research",
+      "id": 103,
+      "name1": "Technology Research",
+      "name2": "Study Scroll",
+      "name3": "Falcon Tower"
+    },
+    "102": {
+      "rightEntryName": "Territory Development",
+      "id": 102,
+      "name1": "Construct",
+      "name2": "Covert Operation",
+      "name3": "Trade Caravan"
+    },
+    "105": {
+      "rightEntryName": "War Preparation",
+      "id": 105,
+      "name1": "Falcon Tower",
+      "tipsNameTwo": "Relocate to Alliance Assembly Point",
+      "tipsNameOne": "Activate Shield",
+      "name2": "Speedup",
+      "name3": "Soldier Training"
+    },
+    "106": {
+      "rightEntryName": "Raid the Enemy",
+      "id": 106,
+      "name1": "Defeat",
+      "name4": "Trade Caravan",
+      "name2": "Covert Operation",
+      "name3": "Speedup"
+    },
+    "3": {
+      "rightEntryName": "Tech Research",
+      "id": 3,
+      "name1": "Technology Research",
+      "name2": "Study Scroll",
+      "name3": "Falcon Tower"
+    },
+    "4": {
+      "rightEntryName": "Enhance Heroes",
+      "id": 4,
+      "name1": "Recruit",
+      "name2": "Hero Shard"
+    },
+    "5": {
+      "rightEntryName": "Full Development I",
+      "id": 5,
+      "name1": "Falcon Tower",
+      "name2": "Speedup",
+      "name3": "Soldier Training"
+    },
+    "6": {
+      "rightEntryName": "Full Development II",
+      "id": 6,
+      "name1": "Defeat",
+      "name4": "Trade Caravan",
+      "name2": "Covert Operation",
+      "name3": "Speedup"
+    },
+    "101": {
+      "rightEntryName": "Enhance Raven",
+      "id": 101,
+      "name1": "Falcon Tower",
+      "name4": "Gather Resources",
+      "name2": "Raven Upgrade",
+      "name3": "Consume Stamina"
+    },
+    "104": {
+      "rightEntryName": "Enhance Heroes",
+      "id": 104,
+      "name1": "Recruit",
+      "name2": "Hero Shard"
+    },
+    "1": {
+      "rightEntryName": "Enhance Raven",
+      "id": 1,
+      "name1": "Falcon Tower",
+      "name4": "Gather Resources",
+      "name2": "Raven Upgrade",
+      "name3": "Consume Stamina"
+    },
+    "2": {
+      "rightEntryName": "Territory Development",
+      "id": 2,
+      "name1": "Construct",
+      "name2": "Covert Operation",
+      "name3": "Trade Caravan"
+    }
+  },
+  "len": 12,
+  "key": "id",
+  "source_format": "locale rows"
+}

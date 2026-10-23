@@ -1,0 +1,6619 @@
+{
+  "isNeedTransform": true,
+  "first": 1,
+  "data": {
+    "710": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50013
+        }
+      },
+      "id": 710,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "610": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50009
+        }
+      },
+      "id": 610,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "110": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50012
+        }
+      },
+      "id": 110,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 18
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "510": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50008
+        }
+      },
+      "id": 510,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "410": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50003
+        }
+      },
+      "id": 410,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "310": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50010
+        }
+      },
+      "id": 310,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "210": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50001
+        }
+      },
+      "id": 210,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "59": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50004
+        }
+      },
+      "id": 59,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 60,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 16
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "51": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50004
+        }
+      },
+      "id": 51,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 52,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "208": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50001
+        }
+      },
+      "id": 208,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 209,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "308": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50010
+        }
+      },
+      "id": 308,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 309,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "108": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50012
+        }
+      },
+      "id": 108,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 109,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 14
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "355": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 25,
+          "heroId": 50010
+        }
+      },
+      "id": 355,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 356,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "255": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50007
+        }
+      },
+      "id": 255,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 256,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "155": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 25,
+          "heroId": 50002
+        }
+      },
+      "id": 155,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 156,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "508": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50008
+        }
+      },
+      "id": 508,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 509,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "655": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50013
+        }
+      },
+      "id": 655,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 656,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "555": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 25,
+          "heroId": 50008
+        }
+      },
+      "id": 555,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 556,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "455": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50005
+        }
+      },
+      "id": 455,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 456,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "560": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50008
+        }
+      },
+      "id": 560,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "660": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50013
+        }
+      },
+      "id": 660,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "360": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50010
+        }
+      },
+      "id": 360,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "460": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50005
+        }
+      },
+      "id": 460,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "54": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50004
+        }
+      },
+      "id": 54,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 55,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "656": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50013
+        }
+      },
+      "id": 656,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 657,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "456": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50005
+        }
+      },
+      "id": 456,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 457,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "556": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50008
+        }
+      },
+      "id": 556,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 557,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "57": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50004
+        }
+      },
+      "id": 57,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 58,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 12
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "256": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50007
+        }
+      },
+      "id": 256,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 257,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "356": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50010
+        }
+      },
+      "id": 356,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 357,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "156": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 25,
+          "heroId": 50002
+        }
+      },
+      "id": 156,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 157,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "257": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50007
+        }
+      },
+      "id": 257,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 258,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "357": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50010
+        }
+      },
+      "id": 357,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 358,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "457": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50005
+        }
+      },
+      "id": 457,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 458,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "557": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50008
+        }
+      },
+      "id": 557,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 558,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "153": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 15,
+          "heroId": 50002
+        }
+      },
+      "id": 153,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 154,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "353": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 15,
+          "heroId": 50010
+        }
+      },
+      "id": 353,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 354,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "253": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50007
+        }
+      },
+      "id": 253,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 254,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "553": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 15,
+          "heroId": 50008
+        }
+      },
+      "id": 553,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 554,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "102": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50012
+        }
+      },
+      "id": 102,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 103,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "653": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50013
+        }
+      },
+      "id": 653,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 654,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "402": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50003
+        }
+      },
+      "id": 402,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 403,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "502": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50008
+        }
+      },
+      "id": 502,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 503,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "202": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50001
+        }
+      },
+      "id": 202,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 203,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "157": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50002
+        }
+      },
+      "id": 157,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 158,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "452": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50005
+        }
+      },
+      "id": 452,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 453,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "352": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 10,
+          "heroId": 50010
+        }
+      },
+      "id": 352,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 353,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "652": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50013
+        }
+      },
+      "id": 652,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 653,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "552": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 10,
+          "heroId": 50008
+        }
+      },
+      "id": 552,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 553,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "701": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 5,
+          "heroId": 50013
+        }
+      },
+      "id": 701,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 702,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "601": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50009
+        }
+      },
+      "id": 601,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 602,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "705": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 25,
+          "heroId": 50013
+        }
+      },
+      "id": 705,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 706,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "505": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50008
+        }
+      },
+      "id": 505,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 506,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "605": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50009
+        }
+      },
+      "id": 605,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 606,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "358": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 35,
+          "heroId": 50010
+        }
+      },
+      "id": 358,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 359,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "258": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50007
+        }
+      },
+      "id": 258,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 259,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "252": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50007
+        }
+      },
+      "id": 252,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 253,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "152": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 10,
+          "heroId": 50002
+        }
+      },
+      "id": 152,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 153,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "658": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50013
+        }
+      },
+      "id": 658,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 659,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "459": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50005
+        }
+      },
+      "id": 459,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 460,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "559": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50008
+        }
+      },
+      "id": 559,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 560,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "151": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 5,
+          "heroId": 50002
+        }
+      },
+      "id": 151,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 152,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "251": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50007
+        }
+      },
+      "id": 251,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 252,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "158": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 35,
+          "heroId": 50002
+        }
+      },
+      "id": 158,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 159,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "9": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 10007
+        }
+      },
+      "id": 9,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 10,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 16
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "105": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50012
+        }
+      },
+      "id": 105,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 106,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "351": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 5,
+          "heroId": 50010
+        }
+      },
+      "id": 351,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 352,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "159": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 35,
+          "heroId": 50002
+        }
+      },
+      "id": 159,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 160,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "551": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 5,
+          "heroId": 50008
+        }
+      },
+      "id": 551,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 552,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "651": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50013
+        }
+      },
+      "id": 651,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 652,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "101": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50012
+        }
+      },
+      "id": 101,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 102,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "405": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50003
+        }
+      },
+      "id": 405,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 406,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "10": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 40,
+          "heroId": 10007
+        }
+      },
+      "id": 10,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 18
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "205": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50001
+        }
+      },
+      "id": 205,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 206,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "501": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50008
+        }
+      },
+      "id": 501,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 502,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "401": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50003
+        }
+      },
+      "id": 401,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 402,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "301": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50010
+        }
+      },
+      "id": 301,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 302,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "201": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50001
+        }
+      },
+      "id": 201,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 202,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "109": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50012
+        }
+      },
+      "id": 109,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 110,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 16
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "306": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50010
+        }
+      },
+      "id": 306,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 307,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "206": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50001
+        }
+      },
+      "id": 206,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 207,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "106": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50012
+        }
+      },
+      "id": 106,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 107,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "509": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50008
+        }
+      },
+      "id": 509,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 510,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "409": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50003
+        }
+      },
+      "id": 409,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 410,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "709": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50013
+        }
+      },
+      "id": 709,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 710,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "60": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50004
+        }
+      },
+      "id": 60,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 18
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "708": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 35,
+          "heroId": 50013
+        }
+      },
+      "id": 708,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 709,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "408": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50003
+        }
+      },
+      "id": 408,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 409,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "706": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50013
+        }
+      },
+      "id": 706,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 707,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "451": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 5,
+          "heroId": 50005
+        }
+      },
+      "id": 451,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 452,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "703": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 15,
+          "heroId": 50013
+        }
+      },
+      "id": 703,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 704,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "702": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 10,
+          "heroId": 50013
+        }
+      },
+      "id": 702,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 703,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "207": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50001
+        }
+      },
+      "id": 207,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 208,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "659": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50013
+        }
+      },
+      "id": 659,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 660,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "160": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50002
+        }
+      },
+      "id": 160,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "260": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 40,
+          "heroId": 50007
+        }
+      },
+      "id": 260,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 0,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 108
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 4050
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 24
+        }
+      }
+    },
+    "657": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50013
+        }
+      },
+      "id": 657,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 658,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "407": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50003
+        }
+      },
+      "id": 407,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 408,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "609": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50009
+        }
+      },
+      "id": 609,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 610,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "608": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50009
+        }
+      },
+      "id": 608,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 609,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "607": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50009
+        }
+      },
+      "id": 607,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 608,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "606": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50009
+        }
+      },
+      "id": 606,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 607,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "454": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50005
+        }
+      },
+      "id": 454,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 455,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "554": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 20,
+          "heroId": 50008
+        }
+      },
+      "id": 554,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 555,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "654": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50013
+        }
+      },
+      "id": 654,
+      "taskTitle": "",
+      "taskGroup": 1014,
+      "nextTask": 655,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "209": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50001
+        }
+      },
+      "id": 209,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 210,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "602": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50009
+        }
+      },
+      "id": 602,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 603,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "406": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50003
+        }
+      },
+      "id": 406,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 407,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "58": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50004
+        }
+      },
+      "id": 58,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 59,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 14
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "302": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50010
+        }
+      },
+      "id": 302,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 303,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 2
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "53": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50004
+        }
+      },
+      "id": 53,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 54,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "558": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50003
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50005
+        },
+        "3": {
+          "star": 35,
+          "heroId": 50008
+        }
+      },
+      "id": 558,
+      "taskTitle": "",
+      "taskGroup": 1012,
+      "nextTask": 559,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "55": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50004
+        }
+      },
+      "id": 55,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 56,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "52": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 10,
+          "heroId": 50004
+        }
+      },
+      "id": 52,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 53,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "507": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50008
+        }
+      },
+      "id": 507,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 508,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "506": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50008
+        }
+      },
+      "id": 506,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 507,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "458": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50005
+        }
+      },
+      "id": 458,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 459,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 7
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    },
+    "259": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50007
+        }
+      },
+      "id": 259,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 260,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "103": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50012
+        }
+      },
+      "id": 103,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 104,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "203": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50001
+        }
+      },
+      "id": 203,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 204,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "303": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50010
+        }
+      },
+      "id": 303,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 304,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "403": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50003
+        }
+      },
+      "id": 403,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 404,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "604": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50009
+        }
+      },
+      "id": 604,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 605,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "504": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50008
+        }
+      },
+      "id": 504,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 505,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "453": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50005
+        }
+      },
+      "id": 453,
+      "taskTitle": "",
+      "taskGroup": 1010,
+      "nextTask": 454,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "704": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 20,
+          "heroId": 50013
+        }
+      },
+      "id": 704,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 705,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "204": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50001
+        }
+      },
+      "id": 204,
+      "taskTitle": "",
+      "taskGroup": 1005,
+      "nextTask": 205,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "104": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50012
+        }
+      },
+      "id": 104,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 105,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "107": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50012
+        }
+      },
+      "id": 107,
+      "taskTitle": "",
+      "taskGroup": 1003,
+      "nextTask": 108,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 12
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "304": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50010
+        }
+      },
+      "id": 304,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 305,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "707": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50005
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50009
+        },
+        "3": {
+          "star": 30,
+          "heroId": 50013
+        }
+      },
+      "id": 707,
+      "taskTitle": "",
+      "taskGroup": 1015,
+      "nextTask": 708,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "154": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50011
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50004
+        },
+        "3": {
+          "star": 20,
+          "heroId": 50002
+        }
+      },
+      "id": 154,
+      "taskTitle": "",
+      "taskGroup": 1004,
+      "nextTask": 155,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "254": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50007
+        }
+      },
+      "id": 254,
+      "taskTitle": "",
+      "taskGroup": 1006,
+      "nextTask": 255,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "354": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 20,
+          "heroId": 50010
+        }
+      },
+      "id": 354,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 355,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "5": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 25,
+          "heroId": 10007
+        }
+      },
+      "id": 5,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 6,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "6": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 10007
+        }
+      },
+      "id": 6,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 7,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "3": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 15,
+          "heroId": 10007
+        }
+      },
+      "id": 3,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 4,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "4": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 20,
+          "heroId": 10007
+        }
+      },
+      "id": 4,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 5,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "1": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 5,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 5,
+          "heroId": 10007
+        }
+      },
+      "id": 1,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 2,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "2": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 10,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 10,
+          "heroId": 10007
+        }
+      },
+      "id": 2,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 3,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 5
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1250
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 30
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1125
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 6
+        }
+      }
+    },
+    "404": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 20,
+          "heroId": 10007
+        },
+        "2": {
+          "star": 20,
+          "heroId": 50003
+        }
+      },
+      "id": 404,
+      "taskTitle": "",
+      "taskGroup": 1009,
+      "nextTask": 405,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "359": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50001
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50007
+        },
+        "3": {
+          "star": 40,
+          "heroId": 50010
+        }
+      },
+      "id": 359,
+      "taskTitle": "",
+      "taskGroup": 1008,
+      "nextTask": 360,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "309": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 40,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 35,
+          "heroId": 50010
+        }
+      },
+      "id": 309,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 310,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 8
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 4000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 96
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3600
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 22
+        }
+      }
+    },
+    "307": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50010
+        }
+      },
+      "id": 307,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 308,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 6
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "305": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 25,
+          "heroId": 50012
+        },
+        "2": {
+          "star": 25,
+          "heroId": 50010
+        }
+      },
+      "id": 305,
+      "taskTitle": "",
+      "taskGroup": 1007,
+      "nextTask": 306,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 4
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 48
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1800
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 10
+        }
+      }
+    },
+    "56": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 30,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 50004
+        }
+      },
+      "id": 56,
+      "taskTitle": "",
+      "taskGroup": 1002,
+      "nextTask": 57,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 10
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 2500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 60
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2250
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 12
+        }
+      }
+    },
+    "503": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50008
+        }
+      },
+      "id": 503,
+      "taskTitle": "",
+      "taskGroup": 1011,
+      "nextTask": 504,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "603": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 15,
+          "heroId": 50006
+        },
+        "2": {
+          "star": 15,
+          "heroId": 50009
+        }
+      },
+      "id": 603,
+      "taskTitle": "",
+      "taskGroup": 1013,
+      "nextTask": 604,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 1500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 36
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 1350
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 8
+        }
+      }
+    },
+    "7": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 30,
+          "heroId": 10007
+        }
+      },
+      "id": 7,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 8,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 12
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3000
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 72
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 2700
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 16
+        }
+      }
+    },
+    "8": {
+      "heroGrowthBean": {
+        "1": {
+          "star": 35,
+          "heroId": 30006
+        },
+        "2": {
+          "star": 35,
+          "heroId": 10007
+        }
+      },
+      "id": 8,
+      "taskTitle": "",
+      "taskGroup": 1001,
+      "nextTask": 9,
+      "reward": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 14
+        },
+        "2": {
+          "type": 99,
+          "id": "item_HeroSkill_Book",
+          "count": 3500
+        },
+        "3": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 84
+        },
+        "4": {
+          "type": 99,
+          "id": "item_equipment_enhanceStone",
+          "count": 3150
+        },
+        "5": {
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2",
+          "count": 18
+        }
+      }
+    }
+  },
+  "len": 150,
+  "excelName": "Activity_HeroGrowth_英雄返利",
+  "key": "id"
+}

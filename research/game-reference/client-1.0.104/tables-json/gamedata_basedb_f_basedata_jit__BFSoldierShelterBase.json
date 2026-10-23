@@ -1,0 +1,279 @@
+{
+  "key": "id",
+  "len": 30,
+  "data": {
+    "4": {
+      "ability": 2000,
+      "shelterPercent": 0.21,
+      "coolDown": 212400,
+      "shelterLimit": 550,
+      "openId": "",
+      "helpNum": 5,
+      "id": 4
+    },
+    "5": {
+      "ability": 2500,
+      "shelterPercent": 0.22,
+      "coolDown": 212400,
+      "shelterLimit": 600,
+      "openId": "",
+      "helpNum": 5,
+      "id": 5
+    },
+    "6": {
+      "ability": 3000,
+      "shelterPercent": 0.23,
+      "coolDown": 208800,
+      "shelterLimit": 650,
+      "openId": "",
+      "helpNum": 6,
+      "id": 6
+    },
+    "7": {
+      "ability": 3500,
+      "shelterPercent": 0.24,
+      "coolDown": 208800,
+      "shelterLimit": 700,
+      "openId": "",
+      "helpNum": 6,
+      "id": 7
+    },
+    "13": {
+      "ability": 11600,
+      "shelterPercent": 0.3,
+      "coolDown": 201600,
+      "shelterLimit": 1000,
+      "openId": "",
+      "helpNum": 7,
+      "id": 13
+    },
+    "12": {
+      "ability": 9600,
+      "shelterPercent": 0.29,
+      "coolDown": 201600,
+      "shelterLimit": 950,
+      "openId": "",
+      "helpNum": 7,
+      "id": 12
+    },
+    "11": {
+      "ability": 7600,
+      "shelterPercent": 0.28,
+      "coolDown": 205200,
+      "shelterLimit": 900,
+      "openId": "",
+      "helpNum": 7,
+      "id": 11
+    },
+    "10": {
+      "ability": 6100,
+      "shelterPercent": 0.27,
+      "coolDown": 205200,
+      "shelterLimit": 850,
+      "openId": "",
+      "helpNum": 6,
+      "id": 10
+    },
+    "9": {
+      "ability": 5100,
+      "shelterPercent": 0.26,
+      "coolDown": 205200,
+      "shelterLimit": 800,
+      "openId": "",
+      "helpNum": 6,
+      "id": 9
+    },
+    "8": {
+      "ability": 4200,
+      "shelterPercent": 0.25,
+      "coolDown": 208800,
+      "shelterLimit": 750,
+      "openId": "",
+      "helpNum": 6,
+      "id": 8
+    },
+    "30": {
+      "ability": 260000,
+      "shelterPercent": 0.4,
+      "coolDown": 172800,
+      "shelterLimit": 2000,
+      "openId": "",
+      "helpNum": 10,
+      "id": 30
+    },
+    "20": {
+      "ability": 45200,
+      "shelterPercent": 0.37,
+      "coolDown": 190800,
+      "shelterLimit": 1350,
+      "openId": "",
+      "helpNum": 8,
+      "id": 20
+    },
+    "29": {
+      "ability": 219500,
+      "shelterPercent": 0.4,
+      "coolDown": 176400,
+      "shelterLimit": 1935,
+      "openId": "",
+      "helpNum": 10,
+      "id": 29
+    },
+    "28": {
+      "ability": 185100,
+      "shelterPercent": 0.4,
+      "coolDown": 176400,
+      "shelterLimit": 1870,
+      "openId": "",
+      "helpNum": 10,
+      "id": 28
+    },
+    "16": {
+      "ability": 20600,
+      "shelterPercent": 0.33,
+      "coolDown": 198000,
+      "shelterLimit": 1150,
+      "openId": "",
+      "helpNum": 8,
+      "id": 16
+    },
+    "17": {
+      "ability": 24900,
+      "shelterPercent": 0.34,
+      "coolDown": 198000,
+      "shelterLimit": 1200,
+      "openId": "",
+      "helpNum": 8,
+      "id": 17
+    },
+    "14": {
+      "ability": 14000,
+      "shelterPercent": 0.31,
+      "coolDown": 201600,
+      "shelterLimit": 1050,
+      "openId": "",
+      "helpNum": 7,
+      "id": 14
+    },
+    "15": {
+      "ability": 16800,
+      "shelterPercent": 0.32,
+      "coolDown": 198000,
+      "shelterLimit": 1100,
+      "openId": "",
+      "helpNum": 7,
+      "id": 15
+    },
+    "19": {
+      "ability": 36900,
+      "shelterPercent": 0.36,
+      "coolDown": 194400,
+      "shelterLimit": 1300,
+      "openId": "",
+      "helpNum": 8,
+      "id": 19
+    },
+    "18": {
+      "ability": 30600,
+      "shelterPercent": 0.35,
+      "coolDown": 194400,
+      "shelterLimit": 1250,
+      "openId": "",
+      "helpNum": 8,
+      "id": 18
+    },
+    "27": {
+      "ability": 156100,
+      "shelterPercent": 0.4,
+      "coolDown": 180000,
+      "shelterLimit": 1805,
+      "openId": "",
+      "helpNum": 10,
+      "id": 27
+    },
+    "26": {
+      "ability": 131800,
+      "shelterPercent": 0.4,
+      "coolDown": 180000,
+      "shelterLimit": 1740,
+      "openId": "",
+      "helpNum": 10,
+      "id": 26
+    },
+    "25": {
+      "ability": 110500,
+      "shelterPercent": 0.4,
+      "coolDown": 183600,
+      "shelterLimit": 1675,
+      "openId": "",
+      "helpNum": 9,
+      "id": 25
+    },
+    "24": {
+      "ability": 92600,
+      "shelterPercent": 0.4,
+      "coolDown": 183600,
+      "shelterLimit": 1610,
+      "openId": "",
+      "helpNum": 9,
+      "id": 24
+    },
+    "23": {
+      "ability": 78600,
+      "shelterPercent": 0.4,
+      "coolDown": 187200,
+      "shelterLimit": 1545,
+      "openId": "",
+      "helpNum": 9,
+      "id": 23
+    },
+    "22": {
+      "ability": 66100,
+      "shelterPercent": 0.39,
+      "coolDown": 187200,
+      "shelterLimit": 1480,
+      "openId": "",
+      "helpNum": 9,
+      "id": 22
+    },
+    "21": {
+      "ability": 55000,
+      "shelterPercent": 0.38,
+      "coolDown": 190800,
+      "shelterLimit": 1415,
+      "openId": "",
+      "helpNum": 9,
+      "id": 21
+    },
+    "1": {
+      "ability": 500,
+      "shelterPercent": 0.18,
+      "coolDown": 216000,
+      "shelterLimit": 400,
+      "openId": "",
+      "helpNum": 5,
+      "id": 1
+    },
+    "2": {
+      "ability": 1000,
+      "shelterPercent": 0.19,
+      "coolDown": 216000,
+      "shelterLimit": 450,
+      "openId": "",
+      "helpNum": 5,
+      "id": 2
+    },
+    "3": {
+      "ability": 1500,
+      "shelterPercent": 0.2,
+      "coolDown": 212400,
+      "shelterLimit": 500,
+      "openId": "",
+      "helpNum": 5,
+      "id": 3
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BuildingDetails_建筑详情"
+}

@@ -1,0 +1,569 @@
+{
+  "key": "id",
+  "excelName": "Emoji_表情",
+  "data": {
+    "13": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7007,
+      "pos": {
+        "1": {
+          "y": -70,
+          "x": 0
+        },
+        "2": {
+          "y": -75,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a03_biaoqing2",
+      "sort": 7,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 13,
+      "displayType": 2,
+      "animation": "stand",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_emo_xiliya_songhua.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "14": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7008,
+      "pos": {
+        "1": {
+          "y": -59,
+          "x": -37
+        },
+        "2": {
+          "y": -59,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a04_biaoqing1",
+      "sort": 8,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 14,
+      "displayType": 2,
+      "animation": "animation",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_emo_yase_chiji.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "15": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7009,
+      "pos": {
+        "1": {
+          "y": -59,
+          "x": -37
+        },
+        "2": {
+          "y": -59,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a03_biaoqing3",
+      "sort": 9,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 15,
+      "displayType": 2,
+      "animation": "stand",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_emo_xiliya_queen.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "16": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7010,
+      "pos": {
+        "1": {
+          "y": -59,
+          "x": -37
+        },
+        "2": {
+          "y": -59,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a03_biaoqing4",
+      "sort": 10,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 16,
+      "displayType": 2,
+      "animation": "stand",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_emo_xiliya_ganbei.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "1": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -32,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing6",
+      "sort": 20,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 1,
+      "displayType": 2,
+      "animation": "fennu",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "11": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7005,
+      "pos": {
+        "1": {
+          "y": -60,
+          "x": 0
+        },
+        "2": {
+          "y": -60,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a02_biaoqing5",
+      "sort": 5,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 11,
+      "displayType": 2,
+      "animation": "sabi",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu_2.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "10": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7004,
+      "pos": {
+        "1": {
+          "y": -60,
+          "x": 0
+        },
+        "2": {
+          "y": -60,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a02_biaoqing4",
+      "sort": 4,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 10,
+      "displayType": 2,
+      "animation": "daku",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu_2.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "4": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -32,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing2",
+      "sort": 23,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 4,
+      "displayType": 2,
+      "animation": "ku",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "12": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7006,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -32,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a03_biaoqing1",
+      "sort": 6,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 12,
+      "displayType": 2,
+      "animation": "stand",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_emo_xiliya_zan.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "2": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -32,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing1",
+      "sort": 21,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 2,
+      "displayType": 2,
+      "animation": "haha",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "6": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -65,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing3",
+      "sort": 25,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 6,
+      "displayType": 2,
+      "animation": "yun",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "5": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -40,
+          "x": 0
+        },
+        "2": {
+          "y": -32,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing5",
+      "sort": 24,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 5,
+      "displayType": 2,
+      "animation": "xihuan",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "9": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7003,
+      "pos": {
+        "1": {
+          "y": -60,
+          "x": 0
+        },
+        "2": {
+          "y": -60,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a02_biaoqing3",
+      "sort": 3,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 9,
+      "displayType": 2,
+      "animation": "shengqi",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu_2.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "3": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 0,
+      "pos": {
+        "1": {
+          "y": -69,
+          "x": 0
+        },
+        "2": {
+          "y": -65,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a01_biaoqing4",
+      "sort": 22,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 3,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 3,
+      "displayType": 2,
+      "animation": "jingya",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "7": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7001,
+      "pos": {
+        "1": {
+          "y": -60,
+          "x": 0
+        },
+        "2": {
+          "y": -60,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a02_biaoqing1",
+      "sort": 1,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 7,
+      "displayType": 2,
+      "animation": "yiwen",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu_2.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    },
+    "8": {
+      "showInAp": 1,
+      "desc": "",
+      "MapSkinInfoId": 7002,
+      "pos": {
+        "1": {
+          "y": -60,
+          "x": 0
+        },
+        "2": {
+          "y": -70,
+          "x": 27
+        }
+      },
+      "name": "",
+      "pic": "pic_a02_biaoqing2",
+      "sort": 2,
+      "condition": {
+        "1": {
+          "id": 20103,
+          "param2": 1,
+          "param1": 1001
+        }
+      },
+      "type": 2,
+      "id": 8,
+      "displayType": 2,
+      "animation": "kaixin",
+      "spine": "Scenes/WorldScene/prefabs/WorldEmojis/w_Nanzhu_2.prefab",
+      "zonePic": "icon_lt_bq3",
+      "atlas": "SpriteAtlas/UI_Icon.spriteatlas",
+      "args": {},
+      "zone": 2,
+      "unlockTips": ""
+    }
+  },
+  "first": 1,
+  "len": 16,
+  "isNeedTransform": true
+}

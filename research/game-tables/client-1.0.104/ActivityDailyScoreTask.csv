@@ -1,0 +1,17 @@
+﻿record_key,id,functionId,preTaskId,rewards,taskType,desc,activityId,scoreType,score
+820030102,820030102,goto_activity_pirate,820030101,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820030108,6,5
+820040107,820040107,goto_activity_pirate,820040106,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""mid_autumn_lucky_box1""}}",2,,820040108,6,10
+820030104,820030104,goto_activity_pirate,820030103,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820030108,2,5
+820040104,820040104,goto_activity_pirate,820040103,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820040108,2,5
+820040101,820040101,goto_activity_pirate,0,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""mid_autumn_lucky_box1""}}",2,,820040108,5,5
+820030105,820030105,goto_activity_pirate,820030104,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""pirate_box1""}}",2,,820030108,4,10
+820040108,820040108,goto_activity_pirate,820040107,"{""1"": {""type"": 99, ""count"": 30, ""id"": ""mid_autumn_market_money""}}",2,,820040108,3,10
+820030108,820030108,goto_activity_pirate,820030107,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820030108,3,10
+820030103,820030103,goto_activity_pirate,820030102,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""pirate_box1""}}",2,,820030108,3,5
+820040106,820040106,goto_activity_pirate,820040105,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820040108,5,10
+820030101,820030101,goto_activity_pirate,0,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""pirate_box1""}}",2,,820030108,5,5
+820040105,820040105,goto_activity_pirate,820040104,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""mid_autumn_lucky_box1""}}",2,,820040108,4,10
+820040103,820040103,goto_activity_pirate,820040102,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""mid_autumn_lucky_box1""}}",2,,820040108,3,5
+820040102,820040102,goto_activity_pirate,820040101,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820040108,6,5
+820030107,820030107,goto_activity_pirate,820030106,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""pirate_box1""}}",2,,820030108,6,10
+820030106,820030106,goto_activity_pirate,820030105,"{""1"": {""type"": 99, ""count"": 2, ""id"": ""item_Material_universalFragment_5""}}",2,,820030108,5,10

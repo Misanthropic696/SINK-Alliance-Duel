@@ -1,0 +1,2285 @@
+{
+  "first": 1,
+  "excelName": "Building_建筑",
+  "data": {
+    "79": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10001,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 79
+    },
+    "98": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10020,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 98
+    },
+    "35": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5006_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 9,
+      "pos2": {},
+      "buildingId": 5006,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 66.6,
+        "2": -57.3,
+        "3": -30.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5006_2",
+      "id": 35
+    },
+    "20": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5010",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 11,
+      "pos2": {},
+      "buildingId": 5010,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 68.6,
+        "2": -48,
+        "3": -25
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5010",
+      "id": 20
+    },
+    "102": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11000,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 102
+    },
+    "28": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1020_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 8,
+      "pos2": {},
+      "buildingId": 1020,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 51.1,
+        "2": -57.3,
+        "3": -15
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1020_1",
+      "id": 28
+    },
+    "38": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1004_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 10,
+      "pos2": {},
+      "buildingId": 1004,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 61.9,
+        "2": -54.9,
+        "3": -25
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1004_2",
+      "id": 38
+    },
+    "48": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1020_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 8,
+      "pos2": {},
+      "buildingId": 1020,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 54.3,
+        "2": -55.3,
+        "3": -10
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1020_3",
+      "id": 48
+    },
+    "58": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1020_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 8,
+      "pos2": {},
+      "buildingId": 1020,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 57.6,
+        "2": -57.2,
+        "3": -18
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1020_4",
+      "id": 58
+    },
+    "119": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11011,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 119
+    },
+    "24": {
+      "effect1": "effect_jiaoshoujiaA_01_x_1",
+      "buildingImage": "5040",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.524,
+        "2": 0.329,
+        "3": 0
+      },
+      "buildingId": 5040,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 35.16,
+        "2": -25.34,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5040",
+      "id": 24
+    },
+    "106": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11004,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 106
+    },
+    "111": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11005,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 111
+    },
+    "40": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5033_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.874,
+        "2": 0,
+        "3": 0
+      },
+      "buildingId": 5033,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 24.52,
+        "2": -35.48,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5033_3",
+      "id": 40
+    },
+    "77": {
+      "effect1": "effect_jiaoshoujiaA_01_1",
+      "buildingImage": "5051",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 22,
+      "pos2": {},
+      "buildingId": 5051,
+      "effect2": "effect_jiaoshoujiaA_03",
+      "pos": {
+        "1": 75.54,
+        "2": -26.52,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5051",
+      "id": 77
+    },
+    "74": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "5015",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 5015,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 49.11,
+        "2": -27.77,
+        "3": -10
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5015",
+      "id": 74
+    },
+    "84": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10006,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 84
+    },
+    "94": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10016,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 94
+    },
+    "10": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1019_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.156,
+        "2": 0.367,
+        "3": 0
+      },
+      "buildingId": 1019,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 15.31,
+        "2": -23.49,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1019_1",
+      "id": 10
+    },
+    "21": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5038",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.27,
+        "2": -0.14,
+        "3": 0
+      },
+      "buildingId": 5038,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 31.81,
+        "2": -35.12,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5038",
+      "id": 21
+    },
+    "92": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10014,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 92
+    },
+    "91": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10013,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 91
+    },
+    "90": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10012,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 90
+    },
+    "117": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5055",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 16,
+      "pos2": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "buildingId": 5055,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 52.7000008,
+        "2": -65.5800018,
+        "3": -62
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1010",
+      "id": 117
+    },
+    "66": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5042_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 5,
+      "pos2": {},
+      "buildingId": 5042,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 33.9,
+        "2": -49.7,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5042_4",
+      "id": 66
+    },
+    "78": {
+      "effect1": "effect_jiaoshoujiaA_01_1",
+      "buildingImage": "5052",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 23,
+      "pos2": {},
+      "buildingId": 5052,
+      "effect2": "effect_jiaoshoujiaA_03",
+      "pos": {
+        "1": 89.54,
+        "2": -35.34,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5052",
+      "id": 78
+    },
+    "88": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10010,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 88
+    },
+    "124": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11016,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 124
+    },
+    "34": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5042_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 5,
+      "pos2": {},
+      "buildingId": 5042,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 39.1,
+        "2": -49.4,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5042_1",
+      "id": 34
+    },
+    "55": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1027_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.296,
+        "2": -0.124,
+        "3": 0
+      },
+      "buildingId": 1027,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 42.79,
+        "2": -22.79,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1027_5",
+      "id": 55
+    },
+    "30": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1027_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.867,
+        "2": -0.413,
+        "3": 0
+      },
+      "buildingId": 1027,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 42.54,
+        "2": -28.17,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1027_3",
+      "id": 30
+    },
+    "31": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5033_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.944,
+        "2": -0.767,
+        "3": 0
+      },
+      "buildingId": 5033,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 16.8,
+        "2": -32.24,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5033_1",
+      "id": 31
+    },
+    "82": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10004,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 82
+    },
+    "81": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10003,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 81
+    },
+    "80": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10002,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 80
+    },
+    "39": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5033_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.224,
+        "2": -0.132,
+        "3": 0
+      },
+      "buildingId": 5033,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 20.38,
+        "2": -34.28,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5033_2",
+      "id": 39
+    },
+    "29": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1004_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 10,
+      "pos2": {},
+      "buildingId": 1004,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 58.8,
+        "2": -52.9,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1004_1",
+      "id": 29
+    },
+    "19": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5029",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 19,
+      "pos2": {},
+      "buildingId": 5029,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 59.6,
+        "2": -42.1,
+        "3": -22
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5029",
+      "id": 19
+    },
+    "125": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11017,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 125
+    },
+    "25": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1027_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.067,
+        "2": -0.306,
+        "3": 0
+      },
+      "buildingId": 1027,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 39.59,
+        "2": -26.86,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1027_2",
+      "id": 25
+    },
+    "15": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5047",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 16,
+      "pos2": {},
+      "buildingId": 5047,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 81.65,
+        "2": -38.74,
+        "3": -45
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5047",
+      "id": 15
+    },
+    "59": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5006_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 14,
+      "pos2": {},
+      "buildingId": 5006,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 81.4,
+        "2": -47.6,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5006_4",
+      "id": 59
+    },
+    "109": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5054",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.379,
+        "2": 1.327,
+        "3": 0
+      },
+      "buildingId": 5054,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 19.522,
+        "2": -15.336,
+        "3": -18
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5054",
+      "id": 109
+    },
+    "101": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10999,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 101
+    },
+    "65": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5042_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 5,
+      "pos2": {},
+      "buildingId": 5042,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 36.2,
+        "2": -51.4,
+        "3": -25
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5042_3",
+      "id": 65
+    },
+    "99": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10021,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 99
+    },
+    "89": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10011,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 89
+    },
+    "11": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5023",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.381,
+        "2": 0.754,
+        "3": 0
+      },
+      "buildingId": 5023,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 28.5,
+        "2": -18.51,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5023",
+      "id": 11
+    },
+    "95": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10017,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 95
+    },
+    "85": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10007,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 85
+    },
+    "75": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "5016",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 5016,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 33.77,
+        "2": -38.45,
+        "3": -35
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5016",
+      "id": 75
+    },
+    "64": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1017_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.049,
+        "2": -0.454,
+        "3": 0
+      },
+      "buildingId": 1017,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 40.36,
+        "2": -17.02,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1017_4",
+      "id": 64
+    },
+    "123": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11015,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 123
+    },
+    "70": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5043_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 5,
+      "pos2": {},
+      "buildingId": 5043,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 41.8,
+        "2": -47.5,
+        "3": -15
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5043_5",
+      "id": 70
+    },
+    "7": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5002",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 2,
+      "pos2": {},
+      "buildingId": 5002,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 46.1,
+        "2": -42.4,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5002",
+      "id": 7
+    },
+    "69": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1017_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.262,
+        "2": -0.161,
+        "3": 0
+      },
+      "buildingId": 1017,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 38.27,
+        "2": -15.08,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1017_5",
+      "id": 69
+    },
+    "107": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10024,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 107
+    },
+    "68": {
+      "effect1": "effect_jiaoshoujiaA_01_x_6",
+      "buildingImage": "1016_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.357,
+        "2": -0.297,
+        "3": 0
+      },
+      "buildingId": 1016,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 27.83,
+        "2": -11.71,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1016_5",
+      "id": 68
+    },
+    "67": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5042_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 6,
+      "pos2": {},
+      "buildingId": 5042,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 38.8,
+        "2": -45.7,
+        "3": -5
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5042_5",
+      "id": 67
+    },
+    "9": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5036",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 13,
+      "pos2": {},
+      "buildingId": 5036,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 75.7,
+        "2": -43.4,
+        "3": -24
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5036",
+      "id": 9
+    },
+    "114": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11008,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 114
+    },
+    "122": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11014,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 122
+    },
+    "8": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "1006",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 6,
+      "pos2": {},
+      "buildingId": 1006,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 39,
+        "2": -55.6,
+        "3": -56
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1006",
+      "id": 8
+    },
+    "5": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "5031",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.19,
+        "2": 0.37,
+        "3": 0
+      },
+      "buildingId": 5031,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 30.65,
+        "2": -30.5,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5031",
+      "id": 5
+    },
+    "118": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11010,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 118
+    },
+    "3": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1017_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0,
+        "2": 0.59,
+        "3": 0
+      },
+      "buildingId": 1017,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 36.76,
+        "2": -17.72,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1017_1",
+      "id": 3
+    },
+    "4": {
+      "effect1": "effect_jiaoshoujiaA_01_z_5",
+      "buildingImage": "5021",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 5021,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 23.36,
+        "2": -30.45,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5021",
+      "id": 4
+    },
+    "42": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1017_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.082,
+        "2": 0.281,
+        "3": 0
+      },
+      "buildingId": 1017,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 38.58,
+        "2": -20.1,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1017_2",
+      "id": 42
+    },
+    "52": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1027_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.521,
+        "2": -0.559,
+        "3": 0
+      },
+      "buildingId": 1027,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 43.08,
+        "2": -25.53,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1027_4",
+      "id": 52
+    },
+    "115": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11009,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 115
+    },
+    "32": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5049",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 20,
+      "pos2": {},
+      "buildingId": 5049,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 54.2,
+        "2": -37,
+        "3": -5
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5049",
+      "id": 32
+    },
+    "16": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "1007",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 15,
+      "pos2": {},
+      "buildingId": 1007,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 88.1,
+        "2": -43.2,
+        "3": -45
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1007",
+      "id": 16
+    },
+    "26": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5034",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 18,
+      "pos2": {},
+      "buildingId": 5034,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 67.2,
+        "2": -38,
+        "3": -5
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5034",
+      "id": 26
+    },
+    "62": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1017_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.56,
+        "2": 0.026,
+        "3": 0
+      },
+      "buildingId": 1017,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 42,
+        "2": -19.5,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1017_3",
+      "id": 62
+    },
+    "72": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "5013",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.16,
+        "2": -0.16,
+        "3": 0
+      },
+      "buildingId": 5013,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 38.58,
+        "2": -37.14,
+        "3": -30
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5013",
+      "id": 72
+    },
+    "63": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5043_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 4,
+      "pos2": {},
+      "buildingId": 5043,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 44.9,
+        "2": -49.7,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5043_4",
+      "id": 63
+    },
+    "61": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1016_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.095,
+        "2": -0.067,
+        "3": 0
+      },
+      "buildingId": 1016,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 30.82,
+        "2": -12.23,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1016_4",
+      "id": 61
+    },
+    "60": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1019_5",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.065,
+        "2": -0.396,
+        "3": 0
+      },
+      "buildingId": 1019,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 12.35,
+        "2": -22.0,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1019_5",
+      "id": 60
+    },
+    "6": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5008",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.04,
+        "2": 0.68,
+        "3": 0
+      },
+      "buildingId": 5008,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 20.76,
+        "2": -20.11,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5008",
+      "id": 6
+    },
+    "96": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10018,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 96
+    },
+    "12": {
+      "effect1": "effect_jiaoshoujiaA_01_x_3",
+      "buildingImage": "1016_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.9,
+        "2": 1.24,
+        "3": 0
+      },
+      "buildingId": 1016,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 28.52,
+        "2": -14.2,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1016_1",
+      "id": 12
+    },
+    "56": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1004_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 10,
+      "pos2": {},
+      "buildingId": 1004,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 65.1,
+        "2": -53,
+        "3": -15
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1004_4",
+      "id": 56
+    },
+    "86": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10008,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 86
+    },
+    "1": {
+      "effect1": "effect_jiaoshoujiaA_01",
+      "buildingImage": "1001",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 1001,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 27.68,
+        "2": -24.62,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1001",
+      "id": 1
+    },
+    "2": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "1002",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 1002,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 43.8,
+        "2": -34.27,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1002",
+      "id": 2
+    },
+    "110": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5035",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 16,
+      "pos2": {},
+      "buildingId": 5035,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 81.65,
+        "2": -38.74,
+        "3": -45
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5035",
+      "id": 110
+    },
+    "54": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5042_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 6,
+      "pos2": {},
+      "buildingId": 5042,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 36.3,
+        "2": -47.8,
+        "3": -10
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5042_2",
+      "id": 54
+    },
+    "53": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5043_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 4,
+      "pos2": {},
+      "buildingId": 5043,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 48.1,
+        "2": -51.7,
+        "3": -23
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5043_3",
+      "id": 53
+    },
+    "51": {
+      "effect1": "effect_jiaoshoujiaA_01_x_5",
+      "buildingImage": "1016_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.53,
+        "2": -0.071,
+        "3": 0
+      },
+      "buildingId": 1016,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 33.89,
+        "2": -13.01,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1016_3",
+      "id": 51
+    },
+    "50": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1019_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.168,
+        "2": 0.184,
+        "3": 0
+      },
+      "buildingId": 1019,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 12.24,
+        "2": -27.54,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1019_3",
+      "id": 50
+    },
+    "49": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1004_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 10,
+      "pos2": {},
+      "buildingId": 1004,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 62.1,
+        "2": -50.9,
+        "3": -10
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1004_3",
+      "id": 49
+    },
+    "36": {
+      "effect1": "effect_jiaoshoujiaA_01_x_3",
+      "buildingImage": "1016_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0.197,
+        "2": 0.291,
+        "3": 0
+      },
+      "buildingId": 1016,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 31.95,
+        "2": -14.84,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1016_2",
+      "id": 36
+    },
+    "46": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5045",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.379,
+        "2": 1.327,
+        "3": 0
+      },
+      "buildingId": 5045,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 14,
+        "2": -18,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5045",
+      "id": 46
+    },
+    "104": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11002,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 104
+    },
+    "45": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1020_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 8,
+      "pos2": {},
+      "buildingId": 1020,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 54.3,
+        "2": -59.2,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1020_2",
+      "id": 45
+    },
+    "108": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5053",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.55,
+        "2": 1.1,
+        "3": 0
+      },
+      "buildingId": 5053,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 14.768,
+        "2": -18.98,
+        "3": -20
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5053",
+      "id": 108
+    },
+    "44": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5043_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 4,
+      "pos2": {},
+      "buildingId": 5043,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 45.8,
+        "2": -52.7599,
+        "3": -55
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5043_2",
+      "id": 44
+    },
+    "43": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1019_2",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.09,
+        "2": 0.123,
+        "3": 0
+      },
+      "buildingId": 1019,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 15.26,
+        "2": -26.33,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1019_2",
+      "id": 43
+    },
+    "41": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5046",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.55,
+        "2": 1.1,
+        "3": 0
+      },
+      "buildingId": 5046,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 14,
+        "2": -18,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5046",
+      "id": 41
+    },
+    "112": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11006,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 112
+    },
+    "105": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11003,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 105
+    },
+    "37": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5044",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {},
+      "buildingId": 5044,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 14,
+        "2": -18,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5044",
+      "id": 37
+    },
+    "27": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5006_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 8,
+      "pos2": {},
+      "buildingId": 5006,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 59,
+        "2": -62.15,
+        "3": -47
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5006_1",
+      "id": 27
+    },
+    "57": {
+      "effect1": "effect_jiaoshoujiaA_01_x_4",
+      "buildingImage": "1019_4",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.478,
+        "2": -0.025,
+        "3": 0
+      },
+      "buildingId": 1019,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 12.2,
+        "2": -24.78,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1019_4",
+      "id": 57
+    },
+    "47": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5006_3",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 12,
+      "pos2": {},
+      "buildingId": 5006,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 74.1,
+        "2": -52.3,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5006_3",
+      "id": 47
+    },
+    "23": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "1008",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 3,
+      "pos2": {},
+      "buildingId": 1008,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 53.5,
+        "2": -46.6,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1008",
+      "id": 23
+    },
+    "13": {
+      "effect1": "effect_jiaoshoujiaA_01_z_1",
+      "buildingImage": "5024",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.184,
+        "2": 0.743,
+        "3": 0
+      },
+      "buildingId": 5024,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 34.4,
+        "2": -21.31,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5024",
+      "id": 13
+    },
+    "97": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10019,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 97
+    },
+    "87": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10009,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 87
+    },
+    "33": {
+      "effect1": "effect_jiaoshoujiaA_01_x_7",
+      "buildingImage": "5043_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 4,
+      "pos2": {},
+      "buildingId": 5043,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 42.5,
+        "2": -51.5,
+        "3": -52
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5043_1",
+      "id": 33
+    },
+    "116": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5056",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "buildingId": 5056,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 36.6399994,
+        "2": -33.5999985,
+        "3": -20
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5035",
+      "id": 116
+    },
+    "83": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10005,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 83
+    },
+    "73": {
+      "effect1": "effect_jiaoshoujiaA_01_z_6",
+      "buildingImage": "5014",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -1.04,
+        "2": -1.17,
+        "3": 0
+      },
+      "buildingId": 5014,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 48.13,
+        "2": -30.33,
+        "3": -15
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5014",
+      "id": 73
+    },
+    "22": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "1010",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 7,
+      "pos2": {},
+      "buildingId": 1010,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 47,
+        "2": -61.8,
+        "3": -62
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1010",
+      "id": 22
+    },
+    "93": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10015,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 93
+    },
+    "18": {
+      "effect1": "effect_jiaoshoujiaA_01_z_2",
+      "buildingImage": "5039",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 17,
+      "pos2": {},
+      "buildingId": 5039,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 73.75,
+        "2": -33.65,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5039",
+      "id": 18
+    },
+    "17": {
+      "effect1": "effect_jiaoshoujiaA_01_x_2",
+      "buildingImage": "1027_1",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.069,
+        "2": 0.753,
+        "3": 0
+      },
+      "buildingId": 1027,
+      "effect2": "effect_jiaoshoujiaA_02_x",
+      "pos": {
+        "1": 39.82,
+        "2": -24.09,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_1027_1",
+      "id": 17
+    },
+    "14": {
+      "effect1": "effect_jiaoshoujiaA_01_z_3",
+      "buildingImage": "5025",
+      "rotation": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "areaId": 1,
+      "pos2": {
+        "1": -0.09,
+        "2": 0.94,
+        "3": 0
+      },
+      "buildingId": 5025,
+      "effect2": "effect_jiaoshoujiaA_02",
+      "pos": {
+        "1": 19.87,
+        "2": -25.59,
+        "3": -20.0
+      },
+      "upgradeAnimations": "p_jiaoshoujiaA_5025",
+      "id": 14
+    },
+    "100": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 10022,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 100
+    },
+    "121": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11013,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 121
+    },
+    "120": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11012,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 120
+    },
+    "113": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11007,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 113
+    },
+    "103": {
+      "effect1": "",
+      "buildingImage": "",
+      "rotation": {},
+      "areaId": 9999,
+      "pos2": {},
+      "buildingId": 11001,
+      "effect2": "",
+      "pos": {},
+      "upgradeAnimations": "",
+      "id": 103
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 123
+}

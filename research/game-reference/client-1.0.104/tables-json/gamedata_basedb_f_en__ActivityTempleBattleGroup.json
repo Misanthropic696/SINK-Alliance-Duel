@@ -1,0 +1,19 @@
+{
+  "data": {
+    "1": {
+      "id": 1,
+      "groupName": "Beginner Group"
+    },
+    "3": {
+      "id": 3,
+      "groupName": "Advanced Group"
+    },
+    "2": {
+      "id": 2,
+      "groupName": "Intermediate Group"
+    }
+  },
+  "len": 3,
+  "key": "id",
+  "source_format": "locale rows"
+}

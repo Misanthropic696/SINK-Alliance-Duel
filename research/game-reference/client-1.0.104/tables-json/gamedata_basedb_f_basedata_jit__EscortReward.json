@@ -1,0 +1,7541 @@
+{
+  "excelName": "Escort_押镖",
+  "first": 2,
+  "isNeedTransform": false,
+  "len": 409,
+  "data": {
+    "82": {
+      "id": 82,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1411740,
+          "type": 1
+        },
+        "3": {
+          "count": 1411740,
+          "type": 2
+        },
+        "4": {
+          "count": 898920,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100321
+    },
+    "72": {
+      "id": 72,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 582120,
+          "type": 1
+        },
+        "3": {
+          "count": 582120,
+          "type": 2
+        },
+        "4": {
+          "count": 189090,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100311
+    },
+    "92": {
+      "id": 92,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 41580,
+          "type": 1
+        },
+        "3": {
+          "count": 41580,
+          "type": 2
+        },
+        "4": {
+          "count": 10890,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100401
+    },
+    "246": {
+      "id": 246,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "32": {
+      "id": 32,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 27720,
+          "type": 1
+        },
+        "3": {
+          "count": 27720,
+          "type": 2
+        },
+        "4": {
+          "count": 6930,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100201
+    },
+    "262": {
+      "id": 262,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 750,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "146": {
+      "id": 146,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2502720,
+          "type": 1
+        },
+        "3": {
+          "count": 2502720,
+          "type": 2
+        },
+        "4": {
+          "count": 1603800,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100525
+    },
+    "347": {
+      "id": 347,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "103": {
+      "id": 103,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 975150,
+          "type": 1
+        },
+        "3": {
+          "count": 975150,
+          "type": 2
+        },
+        "4": {
+          "count": 246510,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100412
+    },
+    "147": {
+      "id": 147,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2630430,
+          "type": 1
+        },
+        "3": {
+          "count": 2630430,
+          "type": 2
+        },
+        "4": {
+          "count": 1668150,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100526
+    },
+    "303": {
+      "id": 303,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "164": {
+      "id": 164,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2566080,
+          "type": 1
+        },
+        "3": {
+          "count": 2566080,
+          "type": 2
+        },
+        "4": {
+          "count": 1000890,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100613
+    },
+    "208": {
+      "id": 208,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "408": {
+      "id": 408,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "300": {
+      "id": 300,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 600,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "200": {
+      "id": 200,
+      "quality": 3,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_01"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "100": {
+      "id": 100,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 575190,
+          "type": 1
+        },
+        "3": {
+          "count": 575190,
+          "type": 2
+        },
+        "4": {
+          "count": 93060,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100409
+    },
+    "265": {
+      "id": 265,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "165": {
+      "id": 165,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2823480,
+          "type": 1
+        },
+        "3": {
+          "count": 2823480,
+          "type": 2
+        },
+        "4": {
+          "count": 1078110,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100614
+    },
+    "22": {
+      "id": 22,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 705870,
+          "type": 1
+        },
+        "3": {
+          "count": 705870,
+          "type": 2
+        },
+        "4": {
+          "count": 449460,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100121
+    },
+    "12": {
+      "id": 12,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 291060,
+          "type": 1
+        },
+        "3": {
+          "count": 291060,
+          "type": 2
+        },
+        "4": {
+          "count": 95040,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100111
+    },
+    "353": {
+      "id": 353,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2402
+    },
+    "108": {
+      "id": 108,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1386000,
+          "type": 1
+        },
+        "3": {
+          "count": 1386000,
+          "type": 2
+        },
+        "4": {
+          "count": 698940,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100417
+    },
+    "153": {
+      "id": 153,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 154440,
+          "type": 1
+        },
+        "3": {
+          "count": 154440,
+          "type": 2
+        },
+        "4": {
+          "count": 51480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100602
+    },
+    "73": {
+      "id": 73,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 812790,
+          "type": 1
+        },
+        "3": {
+          "count": 812790,
+          "type": 2
+        },
+        "4": {
+          "count": 205920,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100312
+    },
+    "83": {
+      "id": 83,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1496880,
+          "type": 1
+        },
+        "3": {
+          "count": 1496880,
+          "type": 2
+        },
+        "4": {
+          "count": 941490,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100322
+    },
+    "93": {
+      "id": 93,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 62370,
+          "type": 1
+        },
+        "3": {
+          "count": 62370,
+          "type": 2
+        },
+        "4": {
+          "count": 20790,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100402
+    },
+    "33": {
+      "id": 33,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 41580,
+          "type": 1
+        },
+        "3": {
+          "count": 41580,
+          "type": 2
+        },
+        "4": {
+          "count": 13860,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100202
+    },
+    "256": {
+      "id": 256,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "156": {
+      "id": 156,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 410850,
+          "type": 1
+        },
+        "3": {
+          "count": 410850,
+          "type": 2
+        },
+        "4": {
+          "count": 128700,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100605
+    },
+    "63": {
+      "id": 63,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 51480,
+          "type": 1
+        },
+        "3": {
+          "count": 51480,
+          "type": 2
+        },
+        "4": {
+          "count": 17820,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100302
+    },
+    "257": {
+      "id": 257,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "357": {
+      "id": 357,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "157": {
+      "id": 157,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 462330,
+          "type": 1
+        },
+        "3": {
+          "count": 462330,
+          "type": 2
+        },
+        "4": {
+          "count": 154440,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100606
+    },
+    "274": {
+      "id": 274,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "174": {
+      "id": 174,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 13,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 4619340,
+          "type": 1
+        },
+        "3": {
+          "count": 4619340,
+          "type": 2
+        },
+        "4": {
+          "count": 2951190,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100623
+    },
+    "175": {
+      "id": 175,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 14,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 4875750,
+          "type": 1
+        },
+        "3": {
+          "count": 4875750,
+          "type": 2
+        },
+        "4": {
+          "count": 3079890,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100624
+    },
+    "275": {
+      "id": 275,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "13": {
+      "id": 13,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 406890,
+          "type": 1
+        },
+        "3": {
+          "count": 406890,
+          "type": 2
+        },
+        "4": {
+          "count": 102960,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100112
+    },
+    "23": {
+      "id": 23,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 748440,
+          "type": 1
+        },
+        "3": {
+          "count": 748440,
+          "type": 2
+        },
+        "4": {
+          "count": 471240,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100122
+    },
+    "363": {
+      "id": 363,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "163": {
+      "id": 163,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2438370,
+          "type": 1
+        },
+        "3": {
+          "count": 2438370,
+          "type": 2
+        },
+        "4": {
+          "count": 616770,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100612
+    },
+    "263": {
+      "id": 263,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "166": {
+      "id": 166,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3079890,
+          "type": 1
+        },
+        "3": {
+          "count": 3079890,
+          "type": 2
+        },
+        "4": {
+          "count": 1155330,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100615
+    },
+    "102": {
+      "id": 102,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 698940,
+          "type": 1
+        },
+        "3": {
+          "count": 698940,
+          "type": 2
+        },
+        "4": {
+          "count": 226710,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100411
+    },
+    "385": {
+      "id": 385,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_3"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "302": {
+      "id": 302,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "209": {
+      "id": 209,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "309": {
+      "id": 309,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "267": {
+      "id": 267,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "167": {
+      "id": 167,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3207600,
+          "type": 1
+        },
+        "3": {
+          "count": 3207600,
+          "type": 2
+        },
+        "4": {
+          "count": 1232550,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100616
+    },
+    "223": {
+      "id": 223,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "323": {
+      "id": 323,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "123": {
+      "id": 123,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 77220,
+          "type": 1
+        },
+        "3": {
+          "count": 77220,
+          "type": 2
+        },
+        "4": {
+          "count": 25740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100502
+    },
+    "228": {
+      "id": 228,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "128": {
+      "id": 128,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 283140,
+          "type": 1
+        },
+        "3": {
+          "count": 283140,
+          "type": 2
+        },
+        "4": {
+          "count": 90090,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100507
+    },
+    "284": {
+      "id": 284,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "120": {
+      "id": 120,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2361150,
+          "type": 1
+        },
+        "3": {
+          "count": 2361150,
+          "type": 2
+        },
+        "4": {
+          "count": 1488960,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100429
+    },
+    "320": {
+      "id": 320,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "109": {
+      "id": 109,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1437480,
+          "type": 1
+        },
+        "3": {
+          "count": 1437480,
+          "type": 2
+        },
+        "4": {
+          "count": 739530,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100418
+    },
+    "420": {
+      "id": 420,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "285": {
+      "id": 285,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "185": {
+      "id": 185,
+      "quality": 55,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 1101
+    },
+    "201": {
+      "id": 201,
+      "quality": 1,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_02"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "301": {
+      "id": 301,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "101": {
+      "id": 101,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 657360,
+          "type": 1
+        },
+        "3": {
+          "count": 657360,
+          "type": 2
+        },
+        "4": {
+          "count": 205920,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100410
+    },
+    "411": {
+      "id": 411,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "176": {
+      "id": 176,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 5004450,
+          "type": 1
+        },
+        "3": {
+          "count": 5004450,
+          "type": 2
+        },
+        "4": {
+          "count": 3207600,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100625
+    },
+    "395": {
+      "id": 395,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "419": {
+      "id": 419,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 55,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "112": {
+      "id": 112,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1693890,
+          "type": 1
+        },
+        "3": {
+          "count": 1693890,
+          "type": 2
+        },
+        "4": {
+          "count": 1078110,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100421
+    },
+    "177": {
+      "id": 177,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 5260860,
+          "type": 1
+        },
+        "3": {
+          "count": 5260860,
+          "type": 2
+        },
+        "4": {
+          "count": 3336300,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100626
+    },
+    "277": {
+      "id": 277,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "376": {
+      "id": 376,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "294": {
+      "id": 294,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "194": {
+      "id": 194,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "219": {
+      "id": 219,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "119": {
+      "id": 119,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2258190,
+          "type": 1
+        },
+        "3": {
+          "count": 2258190,
+          "type": 2
+        },
+        "4": {
+          "count": 1437480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100428
+    },
+    "195": {
+      "id": 195,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "295": {
+      "id": 295,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "111": {
+      "id": 111,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1642410,
+          "type": 1
+        },
+        "3": {
+          "count": 1642410,
+          "type": 2
+        },
+        "4": {
+          "count": 821700,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100420
+    },
+    "394": {
+      "id": 394,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "311": {
+      "id": 311,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "211": {
+      "id": 211,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "421": {
+      "id": 421,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "306": {
+      "id": 306,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "222": {
+      "id": 222,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_2"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "106": {
+      "id": 106,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1232550,
+          "type": 1
+        },
+        "3": {
+          "count": 1232550,
+          "type": 2
+        },
+        "4": {
+          "count": 462330,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100415
+    },
+    "206": {
+      "id": 206,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "36": {
+      "id": 36,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 109890,
+          "type": 1
+        },
+        "3": {
+          "count": 109890,
+          "type": 2
+        },
+        "4": {
+          "count": 34650,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100205
+    },
+    "26": {
+      "id": 26,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 834570,
+          "type": 1
+        },
+        "3": {
+          "count": 834570,
+          "type": 2
+        },
+        "4": {
+          "count": 534600,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100125
+    },
+    "56": {
+      "id": 56,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1334520,
+          "type": 1
+        },
+        "3": {
+          "count": 1334520,
+          "type": 2
+        },
+        "4": {
+          "count": 855360,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100225
+    },
+    "422": {
+      "id": 422,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_decorations_universal"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "76": {
+      "id": 76,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1026630,
+          "type": 1
+        },
+        "3": {
+          "count": 1026630,
+          "type": 2
+        },
+        "4": {
+          "count": 385110,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100315
+    },
+    "66": {
+      "id": 66,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 137610,
+          "type": 1
+        },
+        "3": {
+          "count": 137610,
+          "type": 2
+        },
+        "4": {
+          "count": 43560,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100305
+    },
+    "96": {
+      "id": 96,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 164340,
+          "type": 1
+        },
+        "3": {
+          "count": 164340,
+          "type": 2
+        },
+        "4": {
+          "count": 51480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100405
+    },
+    "86": {
+      "id": 86,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1668150,
+          "type": 1
+        },
+        "3": {
+          "count": 1668150,
+          "type": 2
+        },
+        "4": {
+          "count": 1069200,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100325
+    },
+    "248": {
+      "id": 248,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "148": {
+      "id": 148,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2759130,
+          "type": 1
+        },
+        "3": {
+          "count": 2759130,
+          "type": 2
+        },
+        "4": {
+          "count": 1732500,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100527
+    },
+    "440": {
+      "id": 440,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "rewardGroup": 2407
+    },
+    "340": {
+      "id": 340,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "16": {
+      "id": 16,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 513810,
+          "type": 1
+        },
+        "3": {
+          "count": 513810,
+          "type": 2
+        },
+        "4": {
+          "count": 193050,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100115
+    },
+    "140": {
+      "id": 140,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1924560,
+          "type": 1
+        },
+        "3": {
+          "count": 1924560,
+          "type": 2
+        },
+        "4": {
+          "count": 975150,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100519
+    },
+    "129": {
+      "id": 129,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 500940,
+          "type": 1
+        },
+        "3": {
+          "count": 500940,
+          "type": 2
+        },
+        "4": {
+          "count": 102960,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100508
+    },
+    "229": {
+      "id": 229,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "317": {
+      "id": 317,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "121": {
+      "id": 121,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2412630,
+          "type": 1
+        },
+        "3": {
+          "count": 2412630,
+          "type": 2
+        },
+        "4": {
+          "count": 1540440,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100430
+    },
+    "117": {
+      "id": 117,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2104740,
+          "type": 1
+        },
+        "3": {
+          "count": 2104740,
+          "type": 2
+        },
+        "4": {
+          "count": 1334520,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100426
+    },
+    "217": {
+      "id": 217,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "416": {
+      "id": 416,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "316": {
+      "id": 316,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1200,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "216": {
+      "id": 216,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "116": {
+      "id": 116,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2001780,
+          "type": 1
+        },
+        "3": {
+          "count": 2001780,
+          "type": 2
+        },
+        "4": {
+          "count": 1283040,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100425
+    },
+    "27": {
+      "id": 27,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 877140,
+          "type": 1
+        },
+        "3": {
+          "count": 877140,
+          "type": 2
+        },
+        "4": {
+          "count": 556380,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100126
+    },
+    "37": {
+      "id": 37,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 123750,
+          "type": 1
+        },
+        "3": {
+          "count": 123750,
+          "type": 2
+        },
+        "4": {
+          "count": 41580,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100206
+    },
+    "47": {
+      "id": 47,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 855360,
+          "type": 1
+        },
+        "3": {
+          "count": 855360,
+          "type": 2
+        },
+        "4": {
+          "count": 328680,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100216
+    },
+    "57": {
+      "id": 57,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1402830,
+          "type": 1
+        },
+        "3": {
+          "count": 1402830,
+          "type": 2
+        },
+        "4": {
+          "count": 890010,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100226
+    },
+    "313": {
+      "id": 313,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "213": {
+      "id": 213,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "113": {
+      "id": 113,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1796850,
+          "type": 1
+        },
+        "3": {
+          "count": 1796850,
+          "type": 2
+        },
+        "4": {
+          "count": 1129590,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100422
+    },
+    "131": {
+      "id": 131,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 821700,
+          "type": 1
+        },
+        "3": {
+          "count": 821700,
+          "type": 2
+        },
+        "4": {
+          "count": 257400,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100510
+    },
+    "118": {
+      "id": 118,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2207700,
+          "type": 1
+        },
+        "3": {
+          "count": 2207700,
+          "type": 2
+        },
+        "4": {
+          "count": 1386000,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100427
+    },
+    "218": {
+      "id": 218,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "110": {
+      "id": 110,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1540440,
+          "type": 1
+        },
+        "3": {
+          "count": 1540440,
+          "type": 2
+        },
+        "4": {
+          "count": 780120,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100419
+    },
+    "210": {
+      "id": 210,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "17": {
+      "id": 17,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 534600,
+          "type": 1
+        },
+        "3": {
+          "count": 534600,
+          "type": 2
+        },
+        "4": {
+          "count": 205920,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100116
+    },
+    "410": {
+      "id": 410,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 55,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "239": {
+      "id": 239,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "139": {
+      "id": 139,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1796850,
+          "type": 1
+        },
+        "3": {
+          "count": 1796850,
+          "type": 2
+        },
+        "4": {
+          "count": 924660,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100518
+    },
+    "318": {
+      "id": 318,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_20"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "418": {
+      "id": 418,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "90": {
+      "id": 90,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1968120,
+          "type": 1
+        },
+        "3": {
+          "count": 1968120,
+          "type": 2
+        },
+        "4": {
+          "count": 1240470,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100329
+    },
+    "80": {
+      "id": 80,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1283040,
+          "type": 1
+        },
+        "3": {
+          "count": 1283040,
+          "type": 2
+        },
+        "4": {
+          "count": 650430,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100319
+    },
+    "70": {
+      "id": 70,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 479160,
+          "type": 1
+        },
+        "3": {
+          "count": 479160,
+          "type": 2
+        },
+        "4": {
+          "count": 77220,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100309
+    },
+    "60": {
+      "id": 60,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1574100,
+          "type": 1
+        },
+        "3": {
+          "count": 1574100,
+          "type": 2
+        },
+        "4": {
+          "count": 992970,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100229
+    },
+    "126": {
+      "id": 126,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 205920,
+          "type": 1
+        },
+        "3": {
+          "count": 205920,
+          "type": 2
+        },
+        "4": {
+          "count": 64350,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100505
+    },
+    "226": {
+      "id": 226,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_20"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "30": {
+      "id": 30,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 984060,
+          "type": 1
+        },
+        "3": {
+          "count": 984060,
+          "type": 2
+        },
+        "4": {
+          "count": 620730,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100129
+    },
+    "426": {
+      "id": 426,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2107
+    },
+    "127": {
+      "id": 127,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 231660,
+          "type": 1
+        },
+        "3": {
+          "count": 231660,
+          "type": 2
+        },
+        "4": {
+          "count": 77220,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100506
+    },
+    "441": {
+      "id": 441,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_decorations_universal"
+        }
+      },
+      "rewardGroup": 2407
+    },
+    "141": {
+      "id": 141,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2053260,
+          "type": 1
+        },
+        "3": {
+          "count": 2053260,
+          "type": 2
+        },
+        "4": {
+          "count": 1026630,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100520
+    },
+    "227": {
+      "id": 227,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 26,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "437": {
+      "id": 437,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3000,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2307
+    },
+    "260": {
+      "id": 260,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_common"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "160": {
+      "id": 160,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1437480,
+          "type": 1
+        },
+        "3": {
+          "count": 1437480,
+          "type": 2
+        },
+        "4": {
+          "count": 231660,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100609
+    },
+    "168": {
+      "id": 168,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3465000,
+          "type": 1
+        },
+        "3": {
+          "count": 3465000,
+          "type": 2
+        },
+        "4": {
+          "count": 1745370,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100617
+    },
+    "360": {
+      "id": 360,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "20": {
+      "id": 20,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 641520,
+          "type": 1
+        },
+        "3": {
+          "count": 641520,
+          "type": 2
+        },
+        "4": {
+          "count": 325710,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100119
+    },
+    "10": {
+      "id": 10,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 239580,
+          "type": 1
+        },
+        "3": {
+          "count": 239580,
+          "type": 2
+        },
+        "4": {
+          "count": 38610,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100109
+    },
+    "149": {
+      "id": 149,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2823480,
+          "type": 1
+        },
+        "3": {
+          "count": 2823480,
+          "type": 2
+        },
+        "4": {
+          "count": 1796850,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100528
+    },
+    "249": {
+      "id": 249,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "91": {
+      "id": 91,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2010690,
+          "type": 1
+        },
+        "3": {
+          "count": 2010690,
+          "type": 2
+        },
+        "4": {
+          "count": 1283040,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100330
+    },
+    "71": {
+      "id": 71,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 547470,
+          "type": 1
+        },
+        "3": {
+          "count": 547470,
+          "type": 2
+        },
+        "4": {
+          "count": 171270,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100310
+    },
+    "81": {
+      "id": 81,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1369170,
+          "type": 1
+        },
+        "3": {
+          "count": 1369170,
+          "type": 2
+        },
+        "4": {
+          "count": 685080,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100320
+    },
+    "136": {
+      "id": 136,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1540440,
+          "type": 1
+        },
+        "3": {
+          "count": 1540440,
+          "type": 2
+        },
+        "4": {
+          "count": 578160,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100515
+    },
+    "61": {
+      "id": 61,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1608750,
+          "type": 1
+        },
+        "3": {
+          "count": 1608750,
+          "type": 2
+        },
+        "4": {
+          "count": 1026630,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100230
+    },
+    "31": {
+      "id": 31,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1005840,
+          "type": 1
+        },
+        "3": {
+          "count": 1005840,
+          "type": 2
+        },
+        "4": {
+          "count": 641520,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100130
+    },
+    "236": {
+      "id": 236,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "436": {
+      "id": 436,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "rewardGroup": 2307
+    },
+    "251": {
+      "id": 251,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "137": {
+      "id": 137,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1603800,
+          "type": 1
+        },
+        "3": {
+          "count": 1603800,
+          "type": 2
+        },
+        "4": {
+          "count": 616770,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100516
+    },
+    "237": {
+      "id": 237,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "337": {
+      "id": 337,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "138": {
+      "id": 138,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1732500,
+          "type": 1
+        },
+        "3": {
+          "count": 1732500,
+          "type": 2
+        },
+        "4": {
+          "count": 873180,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100517
+    },
+    "238": {
+      "id": 238,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "330": {
+      "id": 330,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "430": {
+      "id": 430,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        }
+      },
+      "rewardGroup": 2207
+    },
+    "130": {
+      "id": 130,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 718740,
+          "type": 1
+        },
+        "3": {
+          "count": 718740,
+          "type": 2
+        },
+        "4": {
+          "count": 115830,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100509
+    },
+    "11": {
+      "id": 11,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 274230,
+          "type": 1
+        },
+        "3": {
+          "count": 274230,
+          "type": 2
+        },
+        "4": {
+          "count": 86130,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100110
+    },
+    "21": {
+      "id": 21,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 685080,
+          "type": 1
+        },
+        "3": {
+          "count": 685080,
+          "type": 2
+        },
+        "4": {
+          "count": 342540,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100120
+    },
+    "338": {
+      "id": 338,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "259": {
+      "id": 259,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "159": {
+      "id": 159,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1000890,
+          "type": 1
+        },
+        "3": {
+          "count": 1000890,
+          "type": 2
+        },
+        "4": {
+          "count": 205920,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100608
+    },
+    "107": {
+      "id": 107,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1283040,
+          "type": 1
+        },
+        "3": {
+          "count": 1283040,
+          "type": 2
+        },
+        "4": {
+          "count": 493020,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100416
+    },
+    "183": {
+      "id": 183,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_3"
+        },
+        "2": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "3": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "4": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "6": {
+          "count": 100,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        }
+      },
+      "rewardGroup": 20001
+    },
+    "161": {
+      "id": 161,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1642410,
+          "type": 1
+        },
+        "3": {
+          "count": 1642410,
+          "type": 2
+        },
+        "4": {
+          "count": 513810,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100610
+    },
+    "261": {
+      "id": 261,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "361": {
+      "id": 361,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_20"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "380": {
+      "id": 380,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 41,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "280": {
+      "id": 280,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1500,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "188": {
+      "id": 188,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_secret_rescue_refresh"
+        }
+      },
+      "rewardGroup": 1101
+    },
+    "388": {
+      "id": 388,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "288": {
+      "id": 288,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "180": {
+      "id": 180,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 17,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 5902380,
+          "type": 1
+        },
+        "3": {
+          "count": 5902380,
+          "type": 2
+        },
+        "4": {
+          "count": 3721410,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100629
+    },
+    "369": {
+      "id": 369,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "169": {
+      "id": 169,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3592710,
+          "type": 1
+        },
+        "3": {
+          "count": 3592710,
+          "type": 2
+        },
+        "4": {
+          "count": 1848330,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100618
+    },
+    "272": {
+      "id": 272,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_20"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "372": {
+      "id": 372,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "99": {
+      "id": 99,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 400950,
+          "type": 1
+        },
+        "3": {
+          "count": 400950,
+          "type": 2
+        },
+        "4": {
+          "count": 82170,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100408
+    },
+    "321": {
+      "id": 321,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "97": {
+      "id": 97,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 185130,
+          "type": 1
+        },
+        "3": {
+          "count": 185130,
+          "type": 2
+        },
+        "4": {
+          "count": 62370,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100406
+    },
+    "95": {
+      "id": 95,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 123750,
+          "type": 1
+        },
+        "3": {
+          "count": 123750,
+          "type": 2
+        },
+        "4": {
+          "count": 41580,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100404
+    },
+    "94": {
+      "id": 94,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 102960,
+          "type": 1
+        },
+        "3": {
+          "count": 102960,
+          "type": 2
+        },
+        "4": {
+          "count": 31680,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100403
+    },
+    "9": {
+      "id": 9,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 167310,
+          "type": 1
+        },
+        "3": {
+          "count": 167310,
+          "type": 2
+        },
+        "4": {
+          "count": 34650,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100108
+    },
+    "371": {
+      "id": 371,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "271": {
+      "id": 271,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "178": {
+      "id": 178,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 5517270,
+          "type": 1
+        },
+        "3": {
+          "count": 5517270,
+          "type": 2
+        },
+        "4": {
+          "count": 3465000,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100627
+    },
+    "343": {
+      "id": 343,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "87": {
+      "id": 87,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1754280,
+          "type": 1
+        },
+        "3": {
+          "count": 1754280,
+          "type": 2
+        },
+        "4": {
+          "count": 1112760,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100326
+    },
+    "172": {
+      "id": 172,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 12,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 4234230,
+          "type": 1
+        },
+        "3": {
+          "count": 4234230,
+          "type": 2
+        },
+        "4": {
+          "count": 2694780,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100621
+    },
+    "85": {
+      "id": 85,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1625580,
+          "type": 1
+        },
+        "3": {
+          "count": 1625580,
+          "type": 2
+        },
+        "4": {
+          "count": 1026630,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100324
+    },
+    "84": {
+      "id": 84,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1540440,
+          "type": 1
+        },
+        "3": {
+          "count": 1540440,
+          "type": 2
+        },
+        "4": {
+          "count": 984060,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100323
+    },
+    "8": {
+      "id": 8,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 95040,
+          "type": 1
+        },
+        "3": {
+          "count": 95040,
+          "type": 2
+        },
+        "4": {
+          "count": 30690,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100107
+    },
+    "14": {
+      "id": 14,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 427680,
+          "type": 1
+        },
+        "3": {
+          "count": 427680,
+          "type": 2
+        },
+        "4": {
+          "count": 167310,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100113
+    },
+    "150": {
+      "id": 150,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2951190,
+          "type": 1
+        },
+        "3": {
+          "count": 2951190,
+          "type": 2
+        },
+        "4": {
+          "count": 1861200,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100529
+    },
+    "358": {
+      "id": 358,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "350": {
+      "id": 350,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2402
+    },
+    "158": {
+      "id": 158,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 565290,
+          "type": 1
+        },
+        "3": {
+          "count": 565290,
+          "type": 2
+        },
+        "4": {
+          "count": 180180,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100607
+    },
+    "341": {
+      "id": 341,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "77": {
+      "id": 77,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1069200,
+          "type": 1
+        },
+        "3": {
+          "count": 1069200,
+          "type": 2
+        },
+        "4": {
+          "count": 410850,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100316
+    },
+    "75": {
+      "id": 75,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 941490,
+          "type": 1
+        },
+        "3": {
+          "count": 941490,
+          "type": 2
+        },
+        "4": {
+          "count": 359370,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100314
+    },
+    "74": {
+      "id": 74,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 855360,
+          "type": 1
+        },
+        "3": {
+          "count": 855360,
+          "type": 2
+        },
+        "4": {
+          "count": 333630,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100313
+    },
+    "179": {
+      "id": 179,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 17,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 5645970,
+          "type": 1
+        },
+        "3": {
+          "count": 5645970,
+          "type": 2
+        },
+        "4": {
+          "count": 3592710,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100628
+    },
+    "7": {
+      "id": 7,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 77220,
+          "type": 1
+        },
+        "3": {
+          "count": 77220,
+          "type": 2
+        },
+        "4": {
+          "count": 25740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100106
+    },
+    "379": {
+      "id": 379,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "279": {
+      "id": 279,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "382": {
+      "id": 382,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "282": {
+      "id": 282,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "247": {
+      "id": 247,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 41,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "34": {
+      "id": 34,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 69300,
+          "type": 1
+        },
+        "3": {
+          "count": 69300,
+          "type": 2
+        },
+        "4": {
+          "count": 20790,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100203
+    },
+    "67": {
+      "id": 67,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 154440,
+          "type": 1
+        },
+        "3": {
+          "count": 154440,
+          "type": 2
+        },
+        "4": {
+          "count": 51480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100306
+    },
+    "65": {
+      "id": 65,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 102960,
+          "type": 1
+        },
+        "3": {
+          "count": 102960,
+          "type": 2
+        },
+        "4": {
+          "count": 34650,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100304
+    },
+    "64": {
+      "id": 64,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 86130,
+          "type": 1
+        },
+        "3": {
+          "count": 86130,
+          "type": 2
+        },
+        "4": {
+          "count": 25740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100303
+    },
+    "62": {
+      "id": 62,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 34650,
+          "type": 1
+        },
+        "3": {
+          "count": 34650,
+          "type": 2
+        },
+        "4": {
+          "count": 8910,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100301
+    },
+    "54": {
+      "id": 54,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1232550,
+          "type": 1
+        },
+        "3": {
+          "count": 1232550,
+          "type": 2
+        },
+        "4": {
+          "count": 787050,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100223
+    },
+    "44": {
+      "id": 44,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 685080,
+          "type": 1
+        },
+        "3": {
+          "count": 685080,
+          "type": 2
+        },
+        "4": {
+          "count": 267300,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100213
+    },
+    "281": {
+      "id": 281,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "24": {
+      "id": 24,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 770220,
+          "type": 1
+        },
+        "3": {
+          "count": 770220,
+          "type": 2
+        },
+        "4": {
+          "count": 492030,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100123
+    },
+    "205": {
+      "id": 205,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "105": {
+      "id": 105,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1129590,
+          "type": 1
+        },
+        "3": {
+          "count": 1129590,
+          "type": 2
+        },
+        "4": {
+          "count": 431640,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100414
+    },
+    "405": {
+      "id": 405,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "305": {
+      "id": 305,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "6": {
+      "id": 6,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 69300,
+          "type": 1
+        },
+        "3": {
+          "count": 69300,
+          "type": 2
+        },
+        "4": {
+          "count": 21780,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100105
+    },
+    "253": {
+      "id": 253,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "339": {
+      "id": 339,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 41,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "55": {
+      "id": 55,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1300860,
+          "type": 1
+        },
+        "3": {
+          "count": 1300860,
+          "type": 2
+        },
+        "4": {
+          "count": 821700,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100224
+    },
+    "104": {
+      "id": 104,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1026630,
+          "type": 1
+        },
+        "3": {
+          "count": 1026630,
+          "type": 2
+        },
+        "4": {
+          "count": 400950,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100413
+    },
+    "181": {
+      "id": 181,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 18,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 6031080,
+          "type": 1
+        },
+        "3": {
+          "count": 6031080,
+          "type": 2
+        },
+        "4": {
+          "count": 3849120,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100630
+    },
+    "53": {
+      "id": 53,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1197900,
+          "type": 1
+        },
+        "3": {
+          "count": 1197900,
+          "type": 2
+        },
+        "4": {
+          "count": 753390,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100222
+    },
+    "404": {
+      "id": 404,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "373": {
+      "id": 373,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "273": {
+      "id": 273,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 26,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "52": {
+      "id": 52,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1129590,
+          "type": 1
+        },
+        "3": {
+          "count": 1129590,
+          "type": 2
+        },
+        "4": {
+          "count": 718740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100221
+    },
+    "51": {
+      "id": 51,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1094940,
+          "type": 1
+        },
+        "3": {
+          "count": 1094940,
+          "type": 2
+        },
+        "4": {
+          "count": 547470,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100220
+    },
+    "50": {
+      "id": 50,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1026630,
+          "type": 1
+        },
+        "3": {
+          "count": 1026630,
+          "type": 2
+        },
+        "4": {
+          "count": 520740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100219
+    },
+    "189": {
+      "id": 189,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_common"
+        }
+      },
+      "rewardGroup": 1101
+    },
+    "289": {
+      "id": 289,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "389": {
+      "id": 389,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "398": {
+      "id": 398,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "399": {
+      "id": 399,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "292": {
+      "id": 292,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "199": {
+      "id": 199,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_secret_rescue_refresh"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "241": {
+      "id": 241,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "336": {
+      "id": 336,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2400,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "173": {
+      "id": 173,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 13,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 4490640,
+          "type": 1
+        },
+        "3": {
+          "count": 4490640,
+          "type": 2
+        },
+        "4": {
+          "count": 2823480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100622
+    },
+    "46": {
+      "id": 46,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 821700,
+          "type": 1
+        },
+        "3": {
+          "count": 821700,
+          "type": 2
+        },
+        "4": {
+          "count": 308880,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100215
+    },
+    "391": {
+      "id": 391,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "291": {
+      "id": 291,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "25": {
+      "id": 25,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 812790,
+          "type": 1
+        },
+        "3": {
+          "count": 812790,
+          "type": 2
+        },
+        "4": {
+          "count": 513810,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100124
+    },
+    "35": {
+      "id": 35,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 82170,
+          "type": 1
+        },
+        "3": {
+          "count": 82170,
+          "type": 2
+        },
+        "4": {
+          "count": 27720,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100204
+    },
+    "115": {
+      "id": 115,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1950300,
+          "type": 1
+        },
+        "3": {
+          "count": 1950300,
+          "type": 2
+        },
+        "4": {
+          "count": 1232550,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100424
+    },
+    "192": {
+      "id": 192,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "315": {
+      "id": 315,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_3"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "415": {
+      "id": 415,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "45": {
+      "id": 45,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 753390,
+          "type": 1
+        },
+        "3": {
+          "count": 753390,
+          "type": 2
+        },
+        "4": {
+          "count": 288090,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100214
+    },
+    "3": {
+      "id": 3,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 25740,
+          "type": 1
+        },
+        "3": {
+          "count": 25740,
+          "type": 2
+        },
+        "4": {
+          "count": 8910,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100102
+    },
+    "270": {
+      "id": 270,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1000,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "370": {
+      "id": 370,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "214": {
+      "id": 214,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_1"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "114": {
+      "id": 114,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1848330,
+          "type": 1
+        },
+        "3": {
+          "count": 1848330,
+          "type": 2
+        },
+        "4": {
+          "count": 1181070,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100423
+    },
+    "191": {
+      "id": 191,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "314": {
+      "id": 314,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "283": {
+      "id": 283,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "439": {
+      "id": 439,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "rewardGroup": 2407
+    },
+    "375": {
+      "id": 375,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "122": {
+      "id": 122,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 51480,
+          "type": 1
+        },
+        "3": {
+          "count": 51480,
+          "type": 2
+        },
+        "4": {
+          "count": 12870,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100501
+    },
+    "384": {
+      "id": 384,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "170": {
+      "id": 170,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 11,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3849120,
+          "type": 1
+        },
+        "3": {
+          "count": 3849120,
+          "type": 2
+        },
+        "4": {
+          "count": 1950300,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100619
+    },
+    "431": {
+      "id": 431,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 50,
+          "type": 99,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "rewardGroup": 2207
+    },
+    "43": {
+      "id": 43,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 650430,
+          "type": 1
+        },
+        "3": {
+          "count": 650430,
+          "type": 2
+        },
+        "4": {
+          "count": 164340,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100212
+    },
+    "186": {
+      "id": 186,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 1101
+    },
+    "429": {
+      "id": 429,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "rewardGroup": 2207
+    },
+    "427": {
+      "id": 427,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2107
+    },
+    "425": {
+      "id": 425,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_3"
+        }
+      },
+      "rewardGroup": 2107
+    },
+    "397": {
+      "id": 397,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2000,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "42": {
+      "id": 42,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 466290,
+          "type": 1
+        },
+        "3": {
+          "count": 466290,
+          "type": 2
+        },
+        "4": {
+          "count": 151470,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100211
+    },
+    "417": {
+      "id": 417,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "414": {
+      "id": 414,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 32,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2406
+    },
+    "287": {
+      "id": 287,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "187": {
+      "id": 187,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "rewardGroup": 1101
+    },
+    "412": {
+      "id": 412,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "41": {
+      "id": 41,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 438570,
+          "type": 1
+        },
+        "3": {
+          "count": 438570,
+          "type": 2
+        },
+        "4": {
+          "count": 137610,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100210
+    },
+    "409": {
+      "id": 409,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "407": {
+      "id": 407,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2400,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "386": {
+      "id": 386,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "406": {
+      "id": 406,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "rewardGroup": 2306
+    },
+    "402": {
+      "id": 402,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "401": {
+      "id": 401,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "400": {
+      "id": 400,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 55,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "40": {
+      "id": 40,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 384120,
+          "type": 1
+        },
+        "3": {
+          "count": 384120,
+          "type": 2
+        },
+        "4": {
+          "count": 62370,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100209
+    },
+    "224": {
+      "id": 224,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "324": {
+      "id": 324,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "2": {
+      "id": 2,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 17820,
+          "type": 1
+        },
+        "3": {
+          "count": 17820,
+          "type": 2
+        },
+        "4": {
+          "count": 4950,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100101
+    },
+    "124": {
+      "id": 124,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 128700,
+          "type": 1
+        },
+        "3": {
+          "count": 128700,
+          "type": 2
+        },
+        "4": {
+          "count": 38610,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100503
+    },
+    "4": {
+      "id": 4,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 43560,
+          "type": 1
+        },
+        "3": {
+          "count": 43560,
+          "type": 2
+        },
+        "4": {
+          "count": 12870,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100103
+    },
+    "5": {
+      "id": 5,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 51480,
+          "type": 1
+        },
+        "3": {
+          "count": 51480,
+          "type": 2
+        },
+        "4": {
+          "count": 17820,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100104
+    },
+    "424": {
+      "id": 424,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "rewardGroup": 2107
+    },
+    "293": {
+      "id": 293,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 41,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "325": {
+      "id": 325,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_4"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "225": {
+      "id": 225,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "125": {
+      "id": 125,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 154440,
+          "type": 1
+        },
+        "3": {
+          "count": 154440,
+          "type": 2
+        },
+        "4": {
+          "count": 51480,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100504
+    },
+    "377": {
+      "id": 377,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_03"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "392": {
+      "id": 392,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "196": {
+      "id": 196,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "435": {
+      "id": 435,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "rewardGroup": 2307
+    },
+    "243": {
+      "id": 243,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "132": {
+      "id": 132,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 873180,
+          "type": 1
+        },
+        "3": {
+          "count": 873180,
+          "type": 2
+        },
+        "4": {
+          "count": 283140,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100511
+    },
+    "232": {
+      "id": 232,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_2"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "387": {
+      "id": 387,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "432": {
+      "id": 432,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2500,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2207
+    },
+    "197": {
+      "id": 197,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "297": {
+      "id": 297,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "198": {
+      "id": 198,
+      "quality": 6,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 25,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "298": {
+      "id": 298,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "381": {
+      "id": 381,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "333": {
+      "id": 333,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "378": {
+      "id": 378,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2405
+    },
+    "396": {
+      "id": 396,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        }
+      },
+      "rewardGroup": 2206
+    },
+    "290": {
+      "id": 290,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2000,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2205
+    },
+    "390": {
+      "id": 390,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 55,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2106
+    },
+    "368": {
+      "id": 368,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_02"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "367": {
+      "id": 367,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "334": {
+      "id": 334,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 24,
+          "type": 99,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "234": {
+      "id": 234,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "134": {
+      "id": 134,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1283040,
+          "type": 1
+        },
+        "3": {
+          "count": 1283040,
+          "type": 2
+        },
+        "4": {
+          "count": 500940,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100513
+    },
+    "366": {
+      "id": 366,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "rewardGroup": 2404
+    },
+    "364": {
+      "id": 364,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "362": {
+      "id": 362,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 26,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "359": {
+      "id": 359,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_01"
+        }
+      },
+      "rewardGroup": 2403
+    },
+    "434": {
+      "id": 434,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource3"
+        }
+      },
+      "rewardGroup": 2307
+    },
+    "235": {
+      "id": 235,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "335": {
+      "id": 335,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        }
+      },
+      "rewardGroup": 2305
+    },
+    "193": {
+      "id": 193,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        }
+      },
+      "rewardGroup": 1201
+    },
+    "135": {
+      "id": 135,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1411740,
+          "type": 1
+        },
+        "3": {
+          "count": 1411740,
+          "type": 2
+        },
+        "4": {
+          "count": 539550,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100514
+    },
+    "268": {
+      "id": 268,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_common"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "351": {
+      "id": 351,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2402
+    },
+    "348": {
+      "id": 348,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "346": {
+      "id": 346,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "242": {
+      "id": 242,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_componentBox_3"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "142": {
+      "id": 142,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2117610,
+          "type": 1
+        },
+        "3": {
+          "count": 2117610,
+          "type": 2
+        },
+        "4": {
+          "count": 1347390,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100521
+    },
+    "442": {
+      "id": 442,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2407
+    },
+    "98": {
+      "id": 98,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 226710,
+          "type": 1
+        },
+        "3": {
+          "count": 226710,
+          "type": 2
+        },
+        "4": {
+          "count": 72270,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100407
+    },
+    "88": {
+      "id": 88,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1839420,
+          "type": 1
+        },
+        "3": {
+          "count": 1839420,
+          "type": 2
+        },
+        "4": {
+          "count": 1155330,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100327
+    },
+    "78": {
+      "id": 78,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1155330,
+          "type": 1
+        },
+        "3": {
+          "count": 1155330,
+          "type": 2
+        },
+        "4": {
+          "count": 582120,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100317
+    },
+    "68": {
+      "id": 68,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 189090,
+          "type": 1
+        },
+        "3": {
+          "count": 189090,
+          "type": 2
+        },
+        "4": {
+          "count": 60390,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100307
+    },
+    "58": {
+      "id": 58,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1472130,
+          "type": 1
+        },
+        "3": {
+          "count": 1472130,
+          "type": 2
+        },
+        "4": {
+          "count": 924660,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100227
+    },
+    "48": {
+      "id": 48,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 924660,
+          "type": 1
+        },
+        "3": {
+          "count": 924660,
+          "type": 2
+        },
+        "4": {
+          "count": 466290,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100217
+    },
+    "38": {
+      "id": 38,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 151470,
+          "type": 1
+        },
+        "3": {
+          "count": 151470,
+          "type": 2
+        },
+        "4": {
+          "count": 48510,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100207
+    },
+    "28": {
+      "id": 28,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 919710,
+          "type": 1
+        },
+        "3": {
+          "count": 919710,
+          "type": 2
+        },
+        "4": {
+          "count": 578160,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100127
+    },
+    "18": {
+      "id": 18,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 578160,
+          "type": 1
+        },
+        "3": {
+          "count": 578160,
+          "type": 2
+        },
+        "4": {
+          "count": 291060,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100117
+    },
+    "331": {
+      "id": 331,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 15,
+          "type": 99,
+          "id": "item_Box_SpeedBox_5m"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "329": {
+      "id": 329,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 31,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "328": {
+      "id": 328,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_50"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "327": {
+      "id": 327,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "326": {
+      "id": 326,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1800,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2304
+    },
+    "144": {
+      "id": 144,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2309670,
+          "type": 1
+        },
+        "3": {
+          "count": 2309670,
+          "type": 2
+        },
+        "4": {
+          "count": 1476090,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100523
+    },
+    "244": {
+      "id": 244,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "344": {
+      "id": 344,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "319": {
+      "id": 319,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 26,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2303
+    },
+    "310": {
+      "id": 310,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "308": {
+      "id": 308,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 900,
+          "type": 99,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "307": {
+      "id": 307,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_3"
+        }
+      },
+      "rewardGroup": 2302
+    },
+    "145": {
+      "id": 145,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 7,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2438370,
+          "type": 1
+        },
+        "3": {
+          "count": 2438370,
+          "type": 2
+        },
+        "4": {
+          "count": 1540440,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100524
+    },
+    "133": {
+      "id": 133,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1219680,
+          "type": 1
+        },
+        "3": {
+          "count": 1219680,
+          "type": 2
+        },
+        "4": {
+          "count": 308880,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100512
+    },
+    "345": {
+      "id": 345,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_01"
+        }
+      },
+      "rewardGroup": 2401
+    },
+    "245": {
+      "id": 245,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2105
+    },
+    "299": {
+      "id": 299,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_3"
+        }
+      },
+      "rewardGroup": 2301
+    },
+    "233": {
+      "id": 233,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "278": {
+      "id": 278,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2204
+    },
+    "269": {
+      "id": 269,
+      "quality": 5,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_premium"
+        }
+      },
+      "rewardGroup": 2203
+    },
+    "352": {
+      "id": 352,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_01"
+        }
+      },
+      "rewardGroup": 2402
+    },
+    "264": {
+      "id": 264,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2202
+    },
+    "152": {
+      "id": 152,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 102960,
+          "type": 1
+        },
+        "3": {
+          "count": 102960,
+          "type": 2
+        },
+        "4": {
+          "count": 25740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100601
+    },
+    "252": {
+      "id": 252,
+      "quality": 15,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_common"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "79": {
+      "id": 79,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1197900,
+          "type": 1
+        },
+        "3": {
+          "count": 1197900,
+          "type": 2
+        },
+        "4": {
+          "count": 616770,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100318
+    },
+    "89": {
+      "id": 89,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1881990,
+          "type": 1
+        },
+        "3": {
+          "count": 1881990,
+          "type": 2
+        },
+        "4": {
+          "count": 1197900,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100328
+    },
+    "59": {
+      "id": 59,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 4,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1505790,
+          "type": 1
+        },
+        "3": {
+          "count": 1505790,
+          "type": 2
+        },
+        "4": {
+          "count": 958320,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100228
+    },
+    "69": {
+      "id": 69,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 333630,
+          "type": 1
+        },
+        "3": {
+          "count": 333630,
+          "type": 2
+        },
+        "4": {
+          "count": 69300,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100308
+    },
+    "39": {
+      "id": 39,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 267300,
+          "type": 1
+        },
+        "3": {
+          "count": 267300,
+          "type": 2
+        },
+        "4": {
+          "count": 55440,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100208
+    },
+    "49": {
+      "id": 49,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 958320,
+          "type": 1
+        },
+        "3": {
+          "count": 958320,
+          "type": 2
+        },
+        "4": {
+          "count": 493020,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100218
+    },
+    "19": {
+      "id": 19,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 598950,
+          "type": 1
+        },
+        "3": {
+          "count": 598950,
+          "type": 2
+        },
+        "4": {
+          "count": 308880,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100118
+    },
+    "29": {
+      "id": 29,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 941490,
+          "type": 1
+        },
+        "3": {
+          "count": 941490,
+          "type": 2
+        },
+        "4": {
+          "count": 598950,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100128
+    },
+    "231": {
+      "id": 231,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 16,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2104
+    },
+    "221": {
+      "id": 221,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 8,
+          "type": 99,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "rewardGroup": 2103
+    },
+    "215": {
+      "id": 215,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2102
+    },
+    "207": {
+      "id": 207,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "rewardGroup": 2101
+    },
+    "154": {
+      "id": 154,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 257400,
+          "type": 1
+        },
+        "3": {
+          "count": 257400,
+          "type": 2
+        },
+        "4": {
+          "count": 77220,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100603
+    },
+    "203": {
+      "id": 203,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_2500"
+        },
+        "2": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_02"
+        },
+        "3": {
+          "count": 1,
+          "type": 99,
+          "id": "item_equipment_equipmentBox_rare"
+        },
+        "4": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "5": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "6": {
+          "count": 100,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "7": {
+          "count": 20,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "rewardGroup": 1601
+    },
+    "354": {
+      "id": 354,
+      "quality": 10,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_10"
+        }
+      },
+      "rewardGroup": 2402
+    },
+    "254": {
+      "id": 254,
+      "quality": 30,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 500,
+          "type": 99,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "171": {
+      "id": 171,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 12,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 4106520,
+          "type": 1
+        },
+        "3": {
+          "count": 4106520,
+          "type": 2
+        },
+        "4": {
+          "count": 2053260,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100620
+    },
+    "162": {
+      "id": 162,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 1745370,
+          "type": 1
+        },
+        "3": {
+          "count": 1745370,
+          "type": 2
+        },
+        "4": {
+          "count": 565290,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100611
+    },
+    "15": {
+      "id": 15,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 471240,
+          "type": 1
+        },
+        "3": {
+          "count": 471240,
+          "type": 2
+        },
+        "4": {
+          "count": 180180,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100114
+    },
+    "151": {
+      "id": 151,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 9,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 3015540,
+          "type": 1
+        },
+        "3": {
+          "count": 3015540,
+          "type": 2
+        },
+        "4": {
+          "count": 1924560,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100530
+    },
+    "143": {
+      "id": 143,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 2245320,
+          "type": 1
+        },
+        "3": {
+          "count": 2245320,
+          "type": 2
+        },
+        "4": {
+          "count": 1411740,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100522
+    },
+    "155": {
+      "id": 155,
+      "quality": 100,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        },
+        "2": {
+          "count": 308880,
+          "type": 1
+        },
+        "3": {
+          "count": 308880,
+          "type": 2
+        },
+        "4": {
+          "count": 102960,
+          "type": 3
+        }
+      },
+      "rewardGroup": 100604
+    },
+    "255": {
+      "id": 255,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_500"
+        }
+      },
+      "rewardGroup": 2201
+    },
+    "355": {
+      "id": 355,
+      "quality": 20,
+      "group": 0,
+      "reward": {
+        "1": {
+          "count": 21,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "rewardGroup": 2402
+    }
+  },
+  "key": "id"
+}

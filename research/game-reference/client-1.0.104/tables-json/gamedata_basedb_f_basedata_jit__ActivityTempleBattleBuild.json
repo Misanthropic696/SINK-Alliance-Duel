@@ -1,0 +1,154 @@
+{
+  "data": {
+    "1": {
+      "info": "",
+      "type": 1,
+      "benefit": {
+        "1": {
+          "Source": 905,
+          "Value": 0.1,
+          "Type": 10101
+        }
+      },
+      "level": 7,
+      "AdjacentCities": {
+        "1": 6001,
+        "2": 6002,
+        "3": 6003
+      },
+      "modelConfigId": 40001,
+      "id": 1,
+      "cityBlockId": 9999,
+      "desc": "",
+      "name": "",
+      "occupyBuff": 0,
+      "uiPic": "",
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 3000
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "type": 99,
+          "count": 50
+        },
+        "3": {
+          "id": "item_food_50k",
+          "type": 99,
+          "count": 180
+        },
+        "4": {
+          "id": "item_wood_50k",
+          "type": 99,
+          "count": 180
+        },
+        "5": {
+          "id": "item_steel_30k",
+          "type": 99,
+          "count": 180
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 300
+        }
+      },
+      "coordinate": {
+        "1": 500,
+        "2": 500
+      },
+      "area": 87,
+      "animatorPath": ""
+    },
+    "2": {
+      "info": "",
+      "type": 2,
+      "benefit": {},
+      "level": 7,
+      "AdjacentCities": {},
+      "modelConfigId": 40002,
+      "id": 2,
+      "cityBlockId": 0,
+      "desc": "",
+      "name": "",
+      "occupyBuff": 0,
+      "uiPic": "",
+      "reward": {},
+      "coordinate": {
+        "1": 509,
+        "2": 491
+      },
+      "area": 0,
+      "animatorPath": "Tower/tower_rightdown_animator.overrideController"
+    },
+    "3": {
+      "info": "",
+      "type": 2,
+      "benefit": {},
+      "level": 7,
+      "AdjacentCities": {},
+      "modelConfigId": 40003,
+      "id": 3,
+      "cityBlockId": 0,
+      "desc": "",
+      "name": "",
+      "occupyBuff": 0,
+      "uiPic": "",
+      "reward": {},
+      "coordinate": {
+        "1": 491,
+        "2": 509
+      },
+      "area": 0,
+      "animatorPath": "Tower/tower_leftup_animator.controller"
+    },
+    "4": {
+      "info": "",
+      "type": 2,
+      "benefit": {},
+      "level": 7,
+      "AdjacentCities": {},
+      "modelConfigId": 40004,
+      "id": 4,
+      "cityBlockId": 0,
+      "desc": "",
+      "name": "",
+      "occupyBuff": 0,
+      "uiPic": "",
+      "reward": {},
+      "coordinate": {
+        "1": 491,
+        "2": 491
+      },
+      "area": 0,
+      "animatorPath": "Tower/tower_leftdown_animator.overrideController"
+    },
+    "5": {
+      "info": "",
+      "type": 2,
+      "benefit": {},
+      "level": 7,
+      "AdjacentCities": {},
+      "modelConfigId": 40005,
+      "id": 5,
+      "cityBlockId": 0,
+      "desc": "",
+      "name": "",
+      "occupyBuff": 0,
+      "uiPic": "",
+      "reward": {},
+      "coordinate": {
+        "1": 509,
+        "2": 509
+      },
+      "area": 0,
+      "animatorPath": "Tower/tower_rightup_animator.overrideController"
+    }
+  },
+  "first": 1,
+  "key": "id",
+  "excelName": "Activity_TempleBattle_神殿争夺",
+  "len": 5,
+  "isNeedTransform": true
+}

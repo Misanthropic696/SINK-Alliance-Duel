@@ -1,0 +1,28 @@
+{
+  "first": 1,
+  "key": "id",
+  "excelName": "ArthurGift_亚瑟礼包",
+  "isNeedTransform": true,
+  "len": 1,
+  "data": {
+    "1": {
+      "id": 1,
+      "noPop": "337,347",
+      "heroId": 10007,
+      "triggerGiftId": 300000021,
+      "specialRewards": {},
+      "bubbleDesc": "",
+      "pickOneGiftIds": {
+        "1": 901500002,
+        "2": 901500003,
+        "3": 901500004
+      },
+      "oldGiftId": 901500001,
+      "bigPic": "Spines/UI_F/UI_yase_sanxuanyi/UI_yase_sanxuanyi.prefab",
+      "maxServerId": 9999,
+      "durationDays": 7,
+      "minServerId": 303,
+      "castleLevel": 5
+    }
+  }
+}

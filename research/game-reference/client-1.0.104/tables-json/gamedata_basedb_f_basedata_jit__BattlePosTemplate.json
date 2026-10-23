@@ -1,0 +1,89 @@
+{
+  "excelName": "Z-战斗地图站位表",
+  "len": 10,
+  "first": 1,
+  "data": {
+    "10": {
+      "battleSide": 1,
+      "pos": 5,
+      "posY": 250,
+      "tempId": 1,
+      "posX": 1490,
+      "id": 10
+    },
+    "9": {
+      "battleSide": 1,
+      "pos": 4,
+      "posY": 550,
+      "tempId": 1,
+      "posX": 1490,
+      "id": 9
+    },
+    "8": {
+      "battleSide": 1,
+      "pos": 3,
+      "posY": 850,
+      "tempId": 1,
+      "posX": 1490,
+      "id": 8
+    },
+    "1": {
+      "battleSide": 0,
+      "pos": 1,
+      "posY": 700,
+      "tempId": 1,
+      "posX": 710,
+      "id": 1
+    },
+    "2": {
+      "battleSide": 0,
+      "pos": 2,
+      "posY": 400,
+      "tempId": 1,
+      "posX": 710,
+      "id": 2
+    },
+    "3": {
+      "battleSide": 0,
+      "pos": 3,
+      "posY": 850,
+      "tempId": 1,
+      "posX": 310,
+      "id": 3
+    },
+    "4": {
+      "battleSide": 0,
+      "pos": 4,
+      "posY": 550,
+      "tempId": 1,
+      "posX": 310,
+      "id": 4
+    },
+    "5": {
+      "battleSide": 0,
+      "pos": 5,
+      "posY": 250,
+      "tempId": 1,
+      "posX": 310,
+      "id": 5
+    },
+    "6": {
+      "battleSide": 1,
+      "pos": 1,
+      "posY": 700,
+      "tempId": 1,
+      "posX": 1090,
+      "id": 6
+    },
+    "7": {
+      "battleSide": 1,
+      "pos": 2,
+      "posY": 400,
+      "tempId": 1,
+      "posX": 1090,
+      "id": 7
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id"
+}

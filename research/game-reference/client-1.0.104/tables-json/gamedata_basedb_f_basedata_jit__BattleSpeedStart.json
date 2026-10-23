@@ -1,0 +1,19 @@
+{
+  "key": "id",
+  "len": 2,
+  "data": {
+    "2": {
+      "serverId": 22,
+      "id": 2,
+      "eventId": 2002
+    },
+    "1": {
+      "serverId": 21,
+      "id": 1,
+      "eventId": 2002
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "Z-战斗多倍速按钮激活按服配置"
+}

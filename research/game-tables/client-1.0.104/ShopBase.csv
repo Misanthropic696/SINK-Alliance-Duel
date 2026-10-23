@@ -1,0 +1,19 @@
+﻿record_key,loginPupMinLv,redDotShowType,shopPrefab,shopLabelName,subShop,openLevel,shopLabel,conditionGiftId,welfare,shopName,shopBannerPic,condition,progressGroupID,shopSort,redDotType,shopLabelIcon,isGemShop,id,shopType,shopSlogan,sellOutSort,switchTime,subShopCount
+90110,0,2,s_MallFirstFloor_11,Frontier Pact,{},5,90040,"{""1"": 10, ""2"": 11}",10080,Frontier Pact,,{},0,99,26000,,0,90110,1,"Continuous Rewards, Endless Surprises!",1,-1,0
+90040,0,2,s_MallFirstFloor_9,Development Contract,{},5,90040,{},10070,Benefits,,{},0,98,22000,,0,90040,1,"Continuous Rewards, Endless Surprises!",1,-1,0
+90160,0,2,s_MallFirstFloor_14,Fast Build III,{},18,90040,"{""1"": 17, ""2"": 18}",10080,Fast Build III,,"{""1"": {""id"": 110004, ""param2"": ""1"", ""includeHistory"": true, ""param1"": ""300000102""}, ""2"": {""id"": 1001, ""param1"": 16}}",0,100,29000,,0,90160,1,Upgrade Sanctuary to unlock items and accelerate construction!,1,-1,0
+90070,0,2,s_MallFirstFloor_6,Weekly Pass,{},2,90070,{},10050,Weekly Pass,,{},0,994,23000,,0,90070,1,Rewards throughout the week!,0,-1,0
+90050,0,2,s_mallFirstFloor_2,Diamond,{},2,90050,{},0,Double Diamonds,,{},0,50,0,,1,90050,1,Doubled Diamonds for 1st purchases!,0,-1,0
+90020,0,2,s_MallFirstFloor_4,Daily Offer,{},2,90020,{},10040,Daily Offer,,{},0,998,21000,,0,90020,1,Daily Power Boost!,2,-1,0
+90150,0,2,s_MallFirstFloor_14,Fast Build II,{},12,90040,"{""1"": 15, ""2"": 16}",10080,Fast Build II,,"{""1"": {""id"": 110004, ""param2"": ""1"", ""includeHistory"": true, ""param1"": ""300000101""}, ""2"": {""id"": 1001, ""param1"": 14}}",0,100,28000,,0,90150,1,Upgrade Sanctuary to unlock items and accelerate construction!,1,-1,0
+90120,0,2,s_MallFirstFloor_12,Build Queue,{},4,90120,{},0,Build Queue,,{},0,993,0,,0,90120,1,Permanently unlock a build queue for faster development!,1,-1,0
+90130,0,2,s_MallFirstFloor_13,Research Queue,{},7,90130,{},0,Research Queue,,"{""1"": {""id"": 20107, ""param2"": ""1"", ""param1"": ""7""}}",0,992,0,,0,90130,1,Permanently unlock a research queue to boost power rapidly!,1,-1,0
+90090,0,2,s_MallFirstFloor_8,Weekly Special,{},8,90090,{},0,Weekly Special,,{},0,996,0,,0,90090,1,Don't miss out on these limited weekly offers!,0,0serverDayAfter_Every1Week_Circle,0
+90080,0,2,s_MallFirstFloor_7,Daily Must-Buy,{},6,90080,{},0,Daily Must-Buy,,{},2,997,25000,,0,90080,2,"Enhance your strength, a must-have!",0,-1,0
+90210,0,2,s_MallFirstFloor_15,Calendar Gift,{},8,90210,{},0,Calendar Gift,,{},0,900,32000,,0,90210,1,"Daily Login, Unlock More Rewards",1,-1,0
+90170,0,2,s_MallFirstFloor_14,Fast Build IV,{},24,90040,"{""1"": 19, ""2"": 20}",10080,Fast Build IV,,"{""1"": {""id"": 110004, ""param2"": ""1"", ""includeHistory"": true, ""param1"": ""300000103""}, ""2"": {""id"": 1001, ""param1"": 18}}",0,100,31000,,0,90170,1,Upgrade Sanctuary to unlock items and accelerate construction!,1,-1,0
+90140,0,2,s_MallFirstFloor_14,Fast Build I,{},6,90040,"{""1"": 13, ""2"": 14}",10080,Fast Build I,,"{""1"": {""id"": 100001, ""param2"": 99999, ""includeHistory"": ""TRUE"", ""param1"": 2}}",0,100,27000,,0,90140,1,Upgrade Sanctuary to unlock items and accelerate construction!,1,-1,0
+90030,0,2,s_MallFirstFloor_3,Pack Shop,{},5,90030,{},0,Pack Shop,,{},0,97,0,,0,90030,1,Powerful Items to Enhance Strength!,0,-1,0
+90100,0,2,s_mallFirstFloor_10,Banknote,{},2,90100,{},0,Banknote,,{},0,40,0,,0,90100,1,"Banknotes can be used to purchase any pack in the game.
+Purchasing Banknotes does not count towards in-game Total Top Up events or Top Up quests.",0,-1,0
+90060,0,2,s_MallFirstFloor_5,Premium Monthly Pass,{},2,90060,{},10060,Premium Monthly Pass,,{},0,995,24000,,0,90060,1,Monthly surprise rewards never stop!,0,-1,0

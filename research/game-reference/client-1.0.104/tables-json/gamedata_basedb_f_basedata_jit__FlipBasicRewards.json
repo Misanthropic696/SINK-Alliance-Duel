@@ -1,0 +1,273 @@
+{
+  "excelName": "Activity_FlipCard_靶场夺宝",
+  "len": 22,
+  "first": 1,
+  "isNeedTransform": false,
+  "data": {
+    "31": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_HeroSkill_Book"
+        }
+      },
+      "id": 31,
+      "weight": 10
+    },
+    "30": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "id": 30,
+      "weight": 10
+    },
+    "25": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "id": 25,
+      "weight": 10
+    },
+    "24": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 24,
+      "weight": 10
+    },
+    "27": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Metal_2"
+        }
+      },
+      "id": 27,
+      "weight": 10
+    },
+    "26": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_HeroEXP_2"
+        }
+      },
+      "id": 26,
+      "weight": 10
+    },
+    "28": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Food_2"
+        }
+      },
+      "id": 28,
+      "weight": 10
+    },
+    "29": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "id": 29,
+      "weight": 10
+    },
+    "21": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_research_5m"
+        }
+      },
+      "id": 21,
+      "weight": 10
+    },
+    "4": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 20,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "id": 4,
+      "weight": 10
+    },
+    "2": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 2,
+      "weight": 10
+    },
+    "3": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "id": 3,
+      "weight": 10
+    },
+    "7": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "id": 7,
+      "weight": 10
+    },
+    "1": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_SpeedUp_general_5m"
+        }
+      },
+      "id": 1,
+      "weight": 10
+    },
+    "22": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_build_5m"
+        }
+      },
+      "id": 22,
+      "weight": 10
+    },
+    "23": {
+      "pool": 2001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_train_5m"
+        }
+      },
+      "id": 23,
+      "weight": 10
+    },
+    "11": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "id": 11,
+      "weight": 10
+    },
+    "10": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "id": 10,
+      "weight": 10
+    },
+    "6": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "id": 6,
+      "weight": 10
+    },
+    "5": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 50,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "id": 5,
+      "weight": 10
+    },
+    "8": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 5,
+          "id": "item_castleBox_Energy_2"
+        }
+      },
+      "id": 8,
+      "weight": 10
+    },
+    "9": {
+      "pool": 1001,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "id": 9,
+      "weight": 10
+    }
+  },
+  "key": "id"
+}

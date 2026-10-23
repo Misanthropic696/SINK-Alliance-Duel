@@ -1,0 +1,16 @@
+{
+  "len": 1,
+  "isNeedTransform": false,
+  "excelName": "WorldMarchZoom_世界行军无级缩放",
+  "key": "id",
+  "first": 1,
+  "data": {
+    "1": {
+      "id": 1,
+      "seatModelScale": 0.6,
+      "marchModelScale": 0.6,
+      "marchModel": "Prefab/GPUSkin/T3_1/T3_1.prefab",
+      "seatModelOffsetY": 0
+    }
+  }
+}

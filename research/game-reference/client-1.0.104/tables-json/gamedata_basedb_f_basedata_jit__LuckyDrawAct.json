@@ -1,0 +1,39 @@
+{
+  "key": "id",
+  "len": 1,
+  "isNeedTransform": true,
+  "data": {
+    "820010101": {
+      "itemDes": "",
+      "tipsDesBuy": "",
+      "tipDes": "",
+      "itemIcon": "item_activity_muchui",
+      "castleLevel": 6,
+      "openId": "LuckyDrawAct_7",
+      "btnName2": "",
+      "itemName": "",
+      "btnName": "",
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Box_gem_50",
+          "count": 1
+        },
+        "2": {
+          "type": 99,
+          "id": "item_SpeedUp_research_5m",
+          "count": 1
+        },
+        "3": {
+          "type": 99,
+          "id": "item_SpeedUp_build_5m",
+          "count": 1
+        }
+      },
+      "name": "",
+      "id": 820010101
+    }
+  },
+  "excelName": "LuckyDrawAct_复活节抽奖",
+  "first": 820010101
+}

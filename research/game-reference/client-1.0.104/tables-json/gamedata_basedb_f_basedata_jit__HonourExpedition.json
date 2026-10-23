@@ -1,0 +1,82 @@
+{
+  "enum": {
+    "CAMPTYPE": {
+      "TAN": 1,
+      "PLANE": 2,
+      "MISSILE": 3
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "荣耀远征",
+  "key": "id",
+  "first": 1,
+  "data": {
+    "1": {
+      "GoToTargets": "goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",
+      "vipLimit": 8,
+      "unlockIds": "202,207,208",
+      "refreshWeekDay": {
+        "1": 7,
+        "2": 2,
+        "3": 4
+      },
+      "prevDifficult": 0,
+      "prevCampType": 0,
+      "difficultNum": 60,
+      "bannerPath": "pic_yz_peitu1",
+      "durationSeconds": "172800",
+      "id": 1,
+      "name": "",
+      "difficultLimit": 20,
+      "campType": 3,
+      "needCastleLevel": 16,
+      "heroUpRate": 1,
+      "desc": ""
+    },
+    "3": {
+      "GoToTargets": "goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",
+      "vipLimit": 8,
+      "unlockIds": "202,207,208",
+      "refreshWeekDay": {
+        "1": 7,
+        "2": 2,
+        "3": 4
+      },
+      "prevDifficult": 12,
+      "prevCampType": 1,
+      "difficultNum": 60,
+      "bannerPath": "pic_yz_peitu3",
+      "durationSeconds": "172800",
+      "id": 3,
+      "name": "",
+      "difficultLimit": 20,
+      "campType": 2,
+      "needCastleLevel": 16,
+      "heroUpRate": 1,
+      "desc": ""
+    },
+    "2": {
+      "GoToTargets": "goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",
+      "vipLimit": 8,
+      "unlockIds": "202,207,208",
+      "refreshWeekDay": {
+        "1": 7,
+        "2": 2,
+        "3": 4
+      },
+      "prevDifficult": 8,
+      "prevCampType": 1,
+      "difficultNum": 60,
+      "bannerPath": "pic_yz_peitu2",
+      "durationSeconds": "172800",
+      "id": 2,
+      "name": "",
+      "difficultLimit": 20,
+      "campType": 1,
+      "needCastleLevel": 16,
+      "heroUpRate": 1,
+      "desc": ""
+    }
+  },
+  "len": 3
+}

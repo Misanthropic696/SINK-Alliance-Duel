@@ -1,0 +1,24 @@
+{
+  "excelName": "GoldenEgg_金蛋表",
+  "key": "id",
+  "isNeedTransform": false,
+  "len": 3,
+  "data": {
+    "2": {
+      "id": 2,
+      "claimLimit": -1,
+      "claimType": 1
+    },
+    "3": {
+      "id": 3,
+      "claimLimit": 10,
+      "claimType": 2
+    },
+    "1": {
+      "id": 1,
+      "claimLimit": 200,
+      "claimType": 1
+    }
+  },
+  "first": 1
+}

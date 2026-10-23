@@ -1,0 +1,177 @@
+{
+  "excelName": "Activity_7日签到活动",
+  "isNeedTransform": false,
+  "len": 14,
+  "first": 120101,
+  "data": {
+    "120102": {
+      "actId": 1200010101,
+      "day": 2,
+      "id": 120102,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120112": {
+      "actId": 1200010102,
+      "day": 5,
+      "id": 120112,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120105": {
+      "actId": 1200010101,
+      "day": 5,
+      "id": 120105,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120113": {
+      "actId": 1200010102,
+      "day": 6,
+      "id": 120113,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        }
+      }
+    },
+    "120111": {
+      "actId": 1200010102,
+      "day": 4,
+      "id": 120111,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120104": {
+      "actId": 1200010101,
+      "day": 4,
+      "id": 120104,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120110": {
+      "actId": 1200010102,
+      "day": 3,
+      "id": 120110,
+      "rewards": {
+        "1": {
+          "count": 450,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "120106": {
+      "actId": 1200010101,
+      "day": 6,
+      "id": 120106,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_1"
+        }
+      }
+    },
+    "120108": {
+      "actId": 1200010102,
+      "day": 1,
+      "id": 120108,
+      "rewards": {
+        "1": {
+          "count": 420,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "120109": {
+      "actId": 1200010102,
+      "day": 2,
+      "id": 120109,
+      "rewards": {
+        "1": {
+          "count": 6,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_4"
+        }
+      }
+    },
+    "120107": {
+      "actId": 1200010101,
+      "day": 7,
+      "id": 120107,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        }
+      }
+    },
+    "120114": {
+      "actId": 1200010102,
+      "day": 7,
+      "id": 120114,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_module_props_Box_3"
+        }
+      }
+    },
+    "120101": {
+      "actId": 1200010101,
+      "day": 1,
+      "id": 120101,
+      "rewards": {
+        "1": {
+          "count": 420,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    },
+    "120103": {
+      "actId": 1200010101,
+      "day": 3,
+      "id": 120103,
+      "rewards": {
+        "1": {
+          "count": 450,
+          "type": 99,
+          "id": "item_fighter_jet_experience_card_3"
+        }
+      }
+    }
+  },
+  "key": "id"
+}

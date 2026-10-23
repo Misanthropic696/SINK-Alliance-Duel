@@ -1,0 +1,872 @@
+{
+  "len": 133,
+  "key": "id",
+  "isNeedTransform": false,
+  "excelName": "UnionSystem_联盟系统",
+  "data": {
+    "normalUnionGiftUpperLimit": {
+      "reward": {},
+      "para": 1000,
+      "para2": 0,
+      "id": "normalUnionGiftUpperLimit"
+    },
+    "r2RankUpSwitch": {
+      "reward": {},
+      "para": 0,
+      "para2": 0,
+      "id": "r2RankUpSwitch"
+    },
+    "unionRecommendMemberLoginCount3": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginCount3"
+    },
+    "alliance_impeachment": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "alliance_impeachment"
+    },
+    "changeBadgeCost": {
+      "reward": {
+        "1": {
+          "count": -1,
+          "type": 99,
+          "id": "item_UseUp_unionName1"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "changeBadgeCost"
+    },
+    "unionRecommend_playerArea_time": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionRecommend_playerArea_time"
+    },
+    "defaultMember": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "defaultMember"
+    },
+    "firstInviteMoveCityReward": {
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 0
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "firstInviteMoveCityReward"
+    },
+    "r1KickOutSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "r1KickOutSwitch"
+    },
+    "welcomeFreshManIntervalTime": {
+      "reward": {},
+      "para": 1800,
+      "para2": 0,
+      "id": "welcomeFreshManIntervalTime"
+    },
+    "unionHonor": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionHonor"
+    },
+    "donateRecommendUnionTechAddUnionCoinPercent": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "donateRecommendUnionTechAddUnionCoinPercent"
+    },
+    "rankUpPowerMin": {
+      "reward": {},
+      "para": 100000,
+      "para2": 0,
+      "id": "rankUpPowerMin"
+    },
+    "donateTimesRefreshInterval": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "donateTimesRefreshInterval"
+    },
+    "minCastleLv_showHelp": {
+      "reward": {},
+      "para": 6,
+      "para2": 0,
+      "id": "minCastleLv_showHelp"
+    },
+    "r1RankUpSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "r1RankUpSwitch"
+    },
+    "changeNameCost": {
+      "reward": {
+        "1": {
+          "count": -1,
+          "type": 99,
+          "id": "item_UseUp_unionName1"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "changeNameCost"
+    },
+    "unionRecommendLeaderLoginTime": {
+      "reward": {},
+      "para": 24,
+      "para2": 0,
+      "id": "unionRecommendLeaderLoginTime"
+    },
+    "createCost": {
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": -200
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "createCost"
+    },
+    "maxOplog": {
+      "reward": {},
+      "para": 200,
+      "para2": 0,
+      "id": "maxOplog"
+    },
+    "RecommendR4MemberNum": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "RecommendR4MemberNum"
+    },
+    "mechCityJoinWarTime": {
+      "reward": {},
+      "para": 12,
+      "para2": 0,
+      "id": "mechCityJoinWarTime"
+    },
+    "kickOutTimeMax": {
+      "reward": {},
+      "para": 1000,
+      "para2": 0,
+      "id": "kickOutTimeMax"
+    },
+    "kickOutDetectCD": {
+      "reward": {},
+      "para": 60,
+      "para2": 0,
+      "id": "kickOutDetectCD"
+    },
+    "techUpgradeCountMax": {
+      "reward": {},
+      "para": 2,
+      "para2": 0,
+      "id": "techUpgradeCountMax"
+    },
+    "changeCodeNameCost": {
+      "reward": {
+        "1": {
+          "count": -1,
+          "type": 99,
+          "id": "item_UseUp_unionName1"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "changeCodeNameCost"
+    },
+    "minCastleLv_recommendedAlliance": {
+      "reward": {},
+      "para": 4,
+      "para2": 0,
+      "id": "minCastleLv_recommendedAlliance"
+    },
+    "unionContribute_TimesUpperLimit": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "unionContribute_TimesUpperLimit"
+    },
+    "r3KickOutSwitch": {
+      "reward": {},
+      "para": 0,
+      "para2": 0,
+      "id": "r3KickOutSwitch"
+    },
+    "unionRallyRangeOuter": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "unionRallyRangeOuter"
+    },
+    "territorySize": {
+      "reward": {},
+      "para": 8,
+      "para2": 0,
+      "id": "territorySize"
+    },
+    "unionRecommendMemberLoginCount2": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginCount2"
+    },
+    "unionRecommendMemberR4Score": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendMemberR4Score"
+    },
+    "unionRecommendSameLanguageBonus": {
+      "reward": {},
+      "para": 40,
+      "para2": 0,
+      "id": "unionRecommendSameLanguageBonus"
+    },
+    "r1KickOutConfig": {
+      "reward": {},
+      "para": 24,
+      "para2": 0,
+      "id": "r1KickOutConfig"
+    },
+    "unionbuilding_single_unit_build_speed": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "unionbuilding_single_unit_build_speed"
+    },
+    "unionJoinMinCastleLevelMax": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "unionJoinMinCastleLevelMax"
+    },
+    "unionExp": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionExp"
+    },
+    "TrainSpeedUp": {
+      "reward": {},
+      "para": 8,
+      "para2": 10,
+      "id": "TrainSpeedUp"
+    },
+    "hellGateMemberCount": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "hellGateMemberCount"
+    },
+    "maxRecruitNewsLength": {
+      "reward": {},
+      "para": 2000,
+      "para2": 0,
+      "id": "maxRecruitNewsLength"
+    },
+    "unionAutoCreateOpenTime": {
+      "reward": {},
+      "para": 288,
+      "para2": 0,
+      "id": "unionAutoCreateOpenTime"
+    },
+    "unionJoinMinFightMin": {
+      "reward": {},
+      "para": 1000,
+      "para2": 0,
+      "id": "unionJoinMinFightMin"
+    },
+    "unionGiftExpiredTime": {
+      "reward": {},
+      "para": 24,
+      "para2": 0,
+      "id": "unionGiftExpiredTime"
+    },
+    "r1RankUpConfig": {
+      "reward": {},
+      "para": 500000,
+      "para2": 0,
+      "id": "r1RankUpConfig"
+    },
+    "autoTransferCD": {
+      "reward": {},
+      "para": 4,
+      "para2": 0,
+      "id": "autoTransferCD"
+    },
+    "firstJoinReward": {
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "firstJoinReward"
+    },
+    "unionShop_report_max": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "unionShop_report_max"
+    },
+    "unionTechAutoResearchSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionTechAutoResearchSwitch"
+    },
+    "postRecruitCD": {
+      "reward": {},
+      "para": 60,
+      "para2": 0,
+      "id": "postRecruitCD"
+    },
+    "first_rally_point_build_cd": {
+      "reward": {},
+      "para": 0,
+      "para2": 0,
+      "id": "first_rally_point_build_cd"
+    },
+    "unionAutoCreateMaxCount": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionAutoCreateMaxCount"
+    },
+    "freeRelocateCastleLevel": {
+      "reward": {},
+      "para": 8,
+      "para2": 0,
+      "id": "freeRelocateCastleLevel"
+    },
+    "rally_point_build_cd": {
+      "reward": {},
+      "para": 0,
+      "para2": 0,
+      "id": "rally_point_build_cd"
+    },
+    "unionTrialsHelpCD": {
+      "reward": {},
+      "para": 10,
+      "para2": 0,
+      "id": "unionTrialsHelpCD"
+    },
+    "unlockClaimAllGiftLevel": {
+      "reward": {},
+      "para": 15,
+      "para2": 0,
+      "id": "unlockClaimAllGiftLevel"
+    },
+    "TrainEnhancement": {
+      "reward": {},
+      "para": 12,
+      "para2": 1,
+      "id": "TrainEnhancement"
+    },
+    "unionAbandonMechCityCD": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionAbandonMechCityCD"
+    },
+    "unionCoin": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionCoin"
+    },
+    "applyEffectiveCount": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "applyEffectiveCount"
+    },
+    "maxDeclarationLength": {
+      "reward": {},
+      "para": 2000,
+      "para2": 0,
+      "id": "maxDeclarationLength"
+    },
+    "unionMilestoneDurationDays": {
+      "reward": {},
+      "para": 10,
+      "para2": 0,
+      "id": "unionMilestoneDurationDays"
+    },
+    "freeCreateLevel": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "freeCreateLevel"
+    },
+    "superDefendTime": {
+      "reward": {},
+      "para": 14400,
+      "para2": 0,
+      "id": "superDefendTime"
+    },
+    "unionRecruitMassageMaxLength": {
+      "reward": {},
+      "para": 200,
+      "para2": 0,
+      "id": "unionRecruitMassageMaxLength"
+    },
+    "applyEffectiveTime": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "applyEffectiveTime"
+    },
+    "welcomeFreshManItemId": {
+      "reward": {
+        "1": {
+          "count": 2,
+          "type": 99,
+          "id": "item_Resource_allianceCoin_50"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "welcomeFreshManItemId"
+    },
+    "rankUpPowerMax": {
+      "reward": {},
+      "para": 1000000000,
+      "para2": 0,
+      "id": "rankUpPowerMax"
+    },
+    "rankUpDetectCD": {
+      "reward": {},
+      "para": 60,
+      "para2": 0,
+      "id": "rankUpDetectCD"
+    },
+    "unionContribute": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionContribute"
+    },
+    "UnionGiftKeyCount": {
+      "reward": {},
+      "para": 2000000,
+      "para2": 0,
+      "id": "UnionGiftKeyCount"
+    },
+    "donateTechSpeedTime": {
+      "reward": {},
+      "para": 5000,
+      "para2": 0,
+      "id": "donateTechSpeedTime"
+    },
+    "unionRecommendLeaderLoginScore": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendLeaderLoginScore"
+    },
+    "autoTransferDetectCD": {
+      "reward": {},
+      "para": 60,
+      "para2": 0,
+      "id": "autoTransferDetectCD"
+    },
+    "unionMarkDelayReplaceMaxHour": {
+      "reward": {},
+      "para": 72,
+      "para2": 0,
+      "id": "unionMarkDelayReplaceMaxHour"
+    },
+    "mechCityDeaclareWarSameTimeMax": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "mechCityDeaclareWarSameTimeMax"
+    },
+    "unionTrialsHelpMinTime": {
+      "reward": {},
+      "para": 180,
+      "para2": 0,
+      "id": "unionTrialsHelpMinTime"
+    },
+    "hellGateJoinUnionsTime": {
+      "reward": {},
+      "para": 72,
+      "para2": 0,
+      "id": "hellGateJoinUnionsTime"
+    },
+    "minCastleLv_joinAllianceRewards": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "minCastleLv_joinAllianceRewards"
+    },
+    "TrainCoreDefense": {
+      "reward": {},
+      "para": 16,
+      "para2": 3,
+      "id": "TrainCoreDefense"
+    },
+    "hellGateDuration": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "hellGateDuration"
+    },
+    "unionRallyRangeInner": {
+      "reward": {},
+      "para": 50,
+      "para2": 0,
+      "id": "unionRallyRangeInner"
+    },
+    "welcomeFreshManDayNumber": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "welcomeFreshManDayNumber"
+    },
+    "unionActiveRequestLevel": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionActiveRequestLevel"
+    },
+    "welcomeFreshManCount": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "welcomeFreshManCount"
+    },
+    "unlockUnionMailGiftLevel": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unlockUnionMailGiftLevel"
+    },
+    "mechCityMemberLimit": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "mechCityMemberLimit"
+    },
+    "singleTeleportInvitationCD": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "singleTeleportInvitationCD"
+    },
+    "unionJoinMinFightMax": {
+      "reward": {},
+      "para": 1000000000,
+      "para2": 0,
+      "id": "unionJoinMinFightMax"
+    },
+    "unionbuilding_single_unit_demolish_speed": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "unionbuilding_single_unit_demolish_speed"
+    },
+    "TrainFirstClass": {
+      "reward": {},
+      "para": 20,
+      "para2": 1,
+      "id": "TrainFirstClass"
+    },
+    "hellGateBookingTime": {
+      "reward": {},
+      "para": 120,
+      "para2": 0,
+      "id": "hellGateBookingTime"
+    },
+    "advancedUnionGiftUpperLimit": {
+      "reward": {},
+      "para": 1000,
+      "para2": 0,
+      "id": "advancedUnionGiftUpperLimit"
+    },
+    "r2RankUpConfig": {
+      "reward": {},
+      "para": 1000000,
+      "para2": 0,
+      "id": "r2RankUpConfig"
+    },
+    "unionTrialsHelpMinTimePrice": {
+      "reward": {
+        "1": {
+          "type": 9,
+          "count": 630
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "unionTrialsHelpMinTimePrice"
+    },
+    "unionTrialsHelpEveryTimePrice": {
+      "reward": {
+        "1": {
+          "type": 9,
+          "count": 1000
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "unionTrialsHelpEveryTimePrice"
+    },
+    "editDeclarationCD": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "editDeclarationCD"
+    },
+    "unionTaskRefreshTime": {
+      "reward": {},
+      "para": 168,
+      "para2": 0,
+      "id": "unionTaskRefreshTime"
+    },
+    "autoManageFunctionSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "autoManageFunctionSwitch"
+    },
+    "unionRecommendNoApplicationBonus": {
+      "reward": {},
+      "para": 10,
+      "para2": 0,
+      "id": "unionRecommendNoApplicationBonus"
+    },
+    "JobUnActiveTime": {
+      "reward": {},
+      "para": 2,
+      "para2": 0,
+      "id": "JobUnActiveTime"
+    },
+    "unionRecommendMemberLoginScore3": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginScore3"
+    },
+    "unionRecommendMemberLoginScore2": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginScore2"
+    },
+    "unionRecommendMemberLoginScore1": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginScore1"
+    },
+    "TrainCapacityUp": {
+      "reward": {},
+      "para": 25,
+      "para2": 1,
+      "id": "TrainCapacityUp"
+    },
+    "recruitNewsCD": {
+      "reward": {},
+      "para": 60,
+      "para2": 0,
+      "id": "recruitNewsCD"
+    },
+    "unionRecommendMeetJoinLimitBonus": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "unionRecommendMeetJoinLimitBonus"
+    },
+    "unionRecommendMemberLimitNotFullBonus": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "unionRecommendMemberLimitNotFullBonus"
+    },
+    "unionProduceMaxNum": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionProduceMaxNum"
+    },
+    "unionMarkTextMaxLength": {
+      "reward": {},
+      "para": 23,
+      "para2": 0,
+      "id": "unionMarkTextMaxLength"
+    },
+    "mechCityFightRound": {
+      "reward": {},
+      "para": 5,
+      "para2": 0,
+      "id": "mechCityFightRound"
+    },
+    "inviteEffectiveTime": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "inviteEffectiveTime"
+    },
+    "unionKickedAutoQuickJoinLevel": {
+      "reward": {},
+      "para": 12,
+      "para2": 0,
+      "id": "unionKickedAutoQuickJoinLevel"
+    },
+    "unionJoinMinCastleLevelMin": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionJoinMinCastleLevelMin"
+    },
+    "unionGiftOneKeyNumber": {
+      "reward": {},
+      "para": 4,
+      "para2": 0,
+      "id": "unionGiftOneKeyNumber"
+    },
+    "maxRecruitLength": {
+      "reward": {},
+      "para": 100,
+      "para2": 0,
+      "id": "maxRecruitLength"
+    },
+    "r2KickOutConfig": {
+      "reward": {},
+      "para": 48,
+      "para2": 0,
+      "id": "r2KickOutConfig"
+    },
+    "relocateCost": {
+      "reward": {
+        "1": {
+          "count": -1,
+          "type": 99,
+          "id": "item_UseUp_unionMove"
+        }
+      },
+      "para": 0,
+      "para2": 0,
+      "id": "relocateCost"
+    },
+    "superDefendCost": {
+      "reward": {},
+      "para": 2000,
+      "para2": 0,
+      "id": "superDefendCost"
+    },
+    "relocateRequestCD": {
+      "reward": {},
+      "para": 24,
+      "para2": 0,
+      "id": "relocateRequestCD"
+    },
+    "unionRecommendMemberLoginCount1": {
+      "reward": {},
+      "para": 10,
+      "para2": 0,
+      "id": "unionRecommendMemberLoginCount1"
+    },
+    "r3KickOutConfig": {
+      "reward": {},
+      "para": 96,
+      "para2": 0,
+      "id": "r3KickOutConfig"
+    },
+    "r2KickOutSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "r2KickOutSwitch"
+    },
+    "unionContribute_EnterUnion": {
+      "reward": {},
+      "para": 0,
+      "para2": 0,
+      "id": "unionContribute_EnterUnion"
+    },
+    "kickOutTimeMin": {
+      "reward": {},
+      "para": 12,
+      "para2": 0,
+      "id": "kickOutTimeMin"
+    },
+    "hellGateOpenCD": {
+      "reward": {},
+      "para": 71,
+      "para2": 0,
+      "id": "hellGateOpenCD"
+    },
+    "firstJoinUnionContributeAmount": {
+      "reward": {},
+      "para": 10,
+      "para2": 0,
+      "id": "firstJoinUnionContributeAmount"
+    },
+    "milestone_CD": {
+      "reward": {},
+      "para": 30,
+      "para2": 0,
+      "id": "milestone_CD"
+    },
+    "mechCityJoinProduceTime": {
+      "reward": {},
+      "para": 12,
+      "para2": 0,
+      "id": "mechCityJoinProduceTime"
+    },
+    "mechCityDeclareNumMax": {
+      "reward": {},
+      "para": 3,
+      "para2": 0,
+      "id": "mechCityDeclareNumMax"
+    },
+    "mechCityDeaclareWarCreateTime": {
+      "reward": {},
+      "para": 24,
+      "para2": 0,
+      "id": "mechCityDeaclareWarCreateTime"
+    },
+    "maxR4": {
+      "reward": {},
+      "para": 20,
+      "para2": 0,
+      "id": "maxR4"
+    },
+    "unionTechAutoRecommendSwitch": {
+      "reward": {},
+      "para": 1,
+      "para2": 0,
+      "id": "unionTechAutoRecommendSwitch"
+    }
+  }
+}

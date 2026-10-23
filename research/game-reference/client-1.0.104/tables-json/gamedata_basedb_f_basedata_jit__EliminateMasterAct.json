@@ -1,0 +1,143 @@
+{
+  "excelName": "Activity-EliminateMasterAct-遗迹寻宝（羊了个羊）",
+  "data": {
+    "1": {
+      "type": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15",
+      "casteLevel": 6,
+      "challengeNum": 5,
+      "actPic": "pic_yjxb_bg",
+      "desc2": "",
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_1011"
+        },
+        "2": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Material_universalFragment_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_train_60m"
+        }
+      },
+      "challengeCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_challenge"
+        }
+      },
+      "openId": "close",
+      "removeCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_shiftout"
+        }
+      },
+      "desc1": "",
+      "refreshCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_refresh"
+        }
+      },
+      "actIcon": "pic_yjxb_banner",
+      "activitySortID": 1400030101,
+      "picSuffix": "",
+      "music": "music_beach_crush",
+      "retractCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_retraction"
+        }
+      },
+      "id": 1,
+      "giftIndex": {
+        "1": {
+          "refreshCost": 2,
+          "challengeCost": 0,
+          "retractCost": 3,
+          "removeCost": 4
+        }
+      }
+    },
+    "2": {
+      "type": "1|2|3|4|5|6|7|8|9|10|11|12|13|14|15",
+      "casteLevel": 6,
+      "challengeNum": 5,
+      "actPic": "pic_yjxb_bg_hd",
+      "desc2": "",
+      "reward": {
+        "1": {
+          "type": 99,
+          "count": 1,
+          "id": "item_decor_1011"
+        },
+        "2": {
+          "type": 99,
+          "count": 4,
+          "id": "item_Material_universalFragment_5"
+        },
+        "3": {
+          "type": 99,
+          "count": 5,
+          "id": "item_SpeedUp_train_60m"
+        }
+      },
+      "challengeCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_challenge"
+        }
+      },
+      "openId": "pirate_battlepass_7",
+      "removeCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_shiftout"
+        }
+      },
+      "desc1": "",
+      "refreshCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_refresh"
+        }
+      },
+      "actIcon": "pic_yjxb_banner_hd",
+      "activitySortID": 820030106,
+      "picSuffix": "_hd",
+      "music": "music_beach_crush",
+      "retractCost": {
+        "1": {
+          "type": 99,
+          "count": -1,
+          "id": "eliminate_retraction"
+        }
+      },
+      "id": 2,
+      "giftIndex": {
+        "1": {
+          "refreshCost": 2,
+          "challengeCost": 0,
+          "retractCost": 3,
+          "removeCost": 4
+        }
+      }
+    }
+  },
+  "key": "id",
+  "len": 2,
+  "isNeedTransform": true,
+  "first": 1
+}

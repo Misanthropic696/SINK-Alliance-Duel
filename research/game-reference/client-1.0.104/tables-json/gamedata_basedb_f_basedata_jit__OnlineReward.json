@@ -1,0 +1,237 @@
+{
+  "excelName": "TimeReward_在线时长奖励",
+  "first": 1,
+  "len": 6,
+  "data": {
+    "5": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 5,
+      "onlineTime": 3600,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    },
+    "4": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 4,
+      "onlineTime": 1800,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    },
+    "6": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 6,
+      "onlineTime": 4800,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    },
+    "1": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 1,
+      "onlineTime": 300,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    },
+    "3": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 3,
+      "onlineTime": 900,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    },
+    "2": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_1",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_1",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_1",
+          "type": 99
+        },
+        "4": {
+          "count": 1,
+          "id": "item_Resource_strength001_10",
+          "type": 99
+        },
+        "5": {
+          "count": 1,
+          "id": "item_optionalBox_Resource",
+          "type": 99
+        }
+      },
+      "id": 2,
+      "onlineTime": 600,
+      "rate": {
+        "1": 3000,
+        "2": 2500,
+        "3": 2500,
+        "4": 1000,
+        "5": 1000
+      }
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id"
+}

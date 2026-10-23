@@ -1,0 +1,19 @@
+﻿record_key,type,casteLevel,challengeNum,actPic,desc2,reward,challengeCost,openId,removeCost,desc1,refreshCost,actIcon,activitySortID,picSuffix,music,retractCost,id,giftIndex
+1,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15,6,5,pic_yjxb_bg,"1. This event features 2 stages. Each run must start from stage 1.
+2. Tap cards to place them into the card slots below. Match 3 identical cards in the slots to clear them.
+3. You can get one card reward upon clearing cards.
+4. You may use 3 items: Remove, Recall, Refresh.
+Remove: Move the first 3 cards in the slots to the removal area (max 4 stacks).
+Recall: Return the last placed card to its original position.
+Refresh: Reshuffle the card positions in the elimination area.
+5. If the card slots are full, you fail the stage.
+6. Clear all cards to beat the stage.","{""1"": {""type"": 99, ""count"": 1, ""id"": ""item_decor_1011""}, ""2"": {""type"": 99, ""count"": 4, ""id"": ""item_Material_universalFragment_5""}, ""3"": {""type"": 99, ""count"": 5, ""id"": ""item_SpeedUp_train_60m""}}","{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_challenge""}}",close,"{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_shiftout""}}","Countless structures were destroyed in a disaster. Amid the ruins, salvageable resources lie buried beneath the debris. Clear away the clutter to uncover them.","{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_refresh""}}",pic_yjxb_banner,1400030101,,music_beach_crush,"{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_retraction""}}",1,"{""1"": {""refreshCost"": 2, ""challengeCost"": 0, ""retractCost"": 3, ""removeCost"": 4}}"
+2,1|2|3|4|5|6|7|8|9|10|11|12|13|14|15,6,5,pic_yjxb_bg_hd,"1. This event features 2 stages. Each run must start from stage 1.
+2. Tap cards to place them into the card slots below. Match 3 identical cards in the slots to clear them.
+3. You can get one card reward upon clearing cards.
+4. You may use 3 items: Remove, Recall, Refresh.
+Remove: Move the first 3 cards in the slots to the removal area (max 4 stacks).
+Recall: Return the last placed card to its original position.
+Refresh: Reshuffle the card positions in the elimination area.
+5. If the card slots are full, you fail the stage.
+6. Clear all cards to beat the stage.","{""1"": {""type"": 99, ""count"": 1, ""id"": ""item_decor_1011""}, ""2"": {""type"": 99, ""count"": 4, ""id"": ""item_Material_universalFragment_5""}, ""3"": {""type"": 99, ""count"": 5, ""id"": ""item_SpeedUp_train_60m""}}","{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_challenge""}}",pirate_battlepass_7,"{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_shiftout""}}","Countless structures were destroyed in a disaster. Amid the ruins, salvageable resources lie buried beneath the debris. Clear away the clutter to uncover them.","{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_refresh""}}",pic_yjxb_banner_hd,820030106,_hd,music_beach_crush,"{""1"": {""type"": 99, ""count"": -1, ""id"": ""eliminate_retraction""}}",2,"{""1"": {""refreshCost"": 2, ""challengeCost"": 0, ""retractCost"": 3, ""removeCost"": 4}}"

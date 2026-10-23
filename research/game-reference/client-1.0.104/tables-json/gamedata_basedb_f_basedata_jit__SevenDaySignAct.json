@@ -1,0 +1,23 @@
+{
+  "excelName": "Activity_7日签到活动",
+  "isNeedTransform": true,
+  "len": 2,
+  "first": 1200010101,
+  "data": {
+    "1200010101": {
+      "days": 7,
+      "name": "",
+      "castleLevel": 10,
+      "id": 1200010101,
+      "openId": "7DaysBonus"
+    },
+    "1200010102": {
+      "days": 7,
+      "name": "",
+      "castleLevel": 10,
+      "id": 1200010102,
+      "openId": "7DaysBonus_old"
+    }
+  },
+  "key": "id"
+}

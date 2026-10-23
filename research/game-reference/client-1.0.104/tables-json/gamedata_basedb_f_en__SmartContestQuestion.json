@@ -1,0 +1,595 @@
+{
+  "data": {
+    "22": {
+      "options1": "5",
+      "options3": "8",
+      "id": 22,
+      "options2": "6",
+      "title": "At which VIP level is the Quick Challenge feature for Expedition Battle unlocked?"
+    },
+    "32": {
+      "options1": "Upgrade Heroes",
+      "options3": "Both",
+      "id": 32,
+      "options2": "Upgrade Soldier Tier",
+      "title": "How do you enhance a squad's might after a failed exploration?"
+    },
+    "36": {
+      "options1": "Signet Ring",
+      "options3": "Celia's Approval",
+      "id": 36,
+      "options2": "Beaked Mask",
+      "title": "What is the item that serves as proof of being the Mayor in the game?"
+    },
+    "12": {
+      "options1": "Ranger",
+      "options3": "Raven",
+      "id": 12,
+      "options2": "Warlock",
+      "title": "What type of heroes do Warriors counter?"
+    },
+    "16": {
+      "options1": "SR",
+      "options3": "UR",
+      "id": 16,
+      "options2": "SSR",
+      "title": "What is the quality of Celia in the game?"
+    },
+    "26": {
+      "options1": "Hero Level",
+      "options3": "Hero Quality",
+      "id": 26,
+      "options2": "Hero Stars",
+      "title": "What limits the hero skill level cap?"
+    },
+    "42": {
+      "options1": "Correct",
+      "options3": "Not Sure",
+      "id": 42,
+      "options2": "Incorrect",
+      "title": "There is no limit to the number of Soldiers."
+    },
+    "52": {
+      "options1": "Marlena",
+      "options3": "Celia",
+      "id": 52,
+      "options2": "Bella",
+      "title": "Which of the following heroes is of UR quality?"
+    },
+    "76": {
+      "options1": "Yes",
+      "options3": "Not Sure",
+      "id": 76,
+      "options2": "No",
+      "title": "Does the Covert Operation take up a march queue?"
+    },
+    "86": {
+      "options1": "Demon King Blight",
+      "options3": "All of the above",
+      "id": 86,
+      "options2": "Pvp Battle",
+      "title": "When is faction restraint applicable?"
+    },
+    "33": {
+      "options1": "5 members from the same faction",
+      "options3": "No Difference",
+      "id": 33,
+      "options2": "5 heroes from different factions",
+      "title": "How do you select heroes to maximize their overall damage dealt when building a hero lineup?"
+    },
+    "23": {
+      "options1": "3",
+      "options3": "5",
+      "id": 23,
+      "options2": "4",
+      "title": "At which VIP level is the VIP Level Display in Chat feature unlocked?"
+    },
+    "13": {
+      "options1": "60 Minutes",
+      "options3": "90 Minutes",
+      "id": 13,
+      "options2": "30 Minutes",
+      "title": "How many minutes does an Elixir Scramble last?"
+    },
+    "37": {
+      "options1": "Command Soldiers",
+      "options3": "Keep a distance from patients",
+      "id": 37,
+      "options2": "Perform surgery directly on the patient",
+      "title": "What is the primary use of the plague doctor's staff?"
+    },
+    "27": {
+      "options1": "Sanctuary Level",
+      "options3": "Hero Stars",
+      "id": 27,
+      "options2": "Hero Quality",
+      "title": "What limits the hero level cap?"
+    },
+    "17": {
+      "options1": "Antitoxin Workshop",
+      "options3": "Watchtower",
+      "id": 17,
+      "options2": "Gear Workshop",
+      "title": "Which building produces Antitoxin in the game?"
+    },
+    "53": {
+      "options1": "Allows other players to help in construction",
+      "options3": "Both",
+      "id": 53,
+      "options2": "Allows other players to Rally for battle",
+      "title": "What Buffs are available after joining an Alliance?"
+    },
+    "43": {
+      "options1": "Hero Level",
+      "options3": "Hero Quality",
+      "id": 43,
+      "options2": "Hero Stars",
+      "title": "What limits the hero skill level cap?"
+    },
+    "83": {
+      "options1": "Warrior",
+      "options3": "Warlock",
+      "id": 83,
+      "options2": "Ranger",
+      "title": "Which faction counters the Warrior"
+    },
+    "87": {
+      "options1": "Tanks can be positioned at the front to absorb damage",
+      "options3": "All of the above",
+      "id": 87,
+      "options2": "Damage dealers should be placed at the back to maximize damage output",
+      "title": "What are the roles of different Hero classes?"
+    },
+    "77": {
+      "options1": "2",
+      "options3": "4",
+      "id": 77,
+      "options2": "3",
+      "title": "How many Covert Operations can a march queue execute simultaneously?"
+    },
+    "49": {
+      "options1": "Enhances building-related stats",
+      "options3": "Both of the above",
+      "id": 49,
+      "options2": "Enhances combat-related stats",
+      "title": "What is the purpose of Curios?"
+    },
+    "66": {
+      "options1": "Train Soldiers",
+      "options3": "Enhancing Gear",
+      "id": 66,
+      "options2": "Craft Gear",
+      "title": "What can the items produced in the Weaving Workshop be used for?"
+    },
+    "85": {
+      "options1": "Warrior",
+      "options3": "Warlock",
+      "id": 85,
+      "options2": "Ranger",
+      "title": "Which faction's heroes counter Warlock?"
+    },
+    "84": {
+      "options1": "Warrior",
+      "options3": "Warlock",
+      "id": 84,
+      "options2": "Ranger",
+      "title": "Which faction counters the Ranger"
+    },
+    "80": {
+      "options1": "Speed up construction",
+      "options3": "Both of the above",
+      "id": 80,
+      "options2": "Speed up research",
+      "title": "What benefits can Alliance members provide?"
+    },
+    "48": {
+      "options1": "Enhances or upgrades hero",
+      "options3": "Defeat the Blight",
+      "id": 48,
+      "options2": "Heals",
+      "title": "What is the function of Antitoxin?"
+    },
+    "67": {
+      "options1": "Squad Count",
+      "options3": "Soldier Level",
+      "id": 67,
+      "options2": "Sanctuary Level",
+      "title": "What is the Caravan slot related to?"
+    },
+    "75": {
+      "options1": "3",
+      "options3": "5",
+      "id": 75,
+      "options2": "4",
+      "title": "How many times can non-Alliance members' Covert Operations be plundered each day?"
+    },
+    "74": {
+      "options1": "3",
+      "options3": "5",
+      "id": 74,
+      "options2": "4",
+      "title": "How many times can you assist Alliance members in completing Covert Operations daily?"
+    },
+    "73": {
+      "options1": "Higher difficulty",
+      "options3": "All of the above",
+      "id": 73,
+      "options2": "Better Rewards",
+      "title": "What changes when the Star level of Covert Operations increases?"
+    },
+    "72": {
+      "options1": "Soldier capacity increased",
+      "options3": "More Hero EXP",
+      "id": 72,
+      "options2": "Soldiers upgraded",
+      "title": "What is the benefit of having higher level Barracks in the game?"
+    },
+    "71": {
+      "options1": "Upgrade the Sanctuary",
+      "options3": "Level up heroes",
+      "id": 71,
+      "options2": "Upgrade Training Grounds",
+      "title": "How do you upgrade soldiers?"
+    },
+    "70": {
+      "options1": "Clear more stages",
+      "options3": "Occupy more cities",
+      "id": 70,
+      "options2": "Fight against more players",
+      "title": "How do you enhance the rewards obtained from the Explorer's Camp?"
+    },
+    "69": {
+      "options1": "Enhances hero stats",
+      "options3": "All of the above",
+      "id": 69,
+      "options2": "Uses skills in battle",
+      "title": "What can the Raven do in the game?"
+    },
+    "68": {
+      "options1": "Residence",
+      "options3": "Nomad Trader",
+      "id": 68,
+      "options2": "Sanctuary",
+      "title": "In which building can players quickly dispatch survivors?"
+    },
+    "38": {
+      "options1": "4 Hours",
+      "options3": "12 Hours",
+      "id": 38,
+      "options2": "8 Hours",
+      "title": "How long is the time interval between the two opportunities to claim Stamina each day?"
+    },
+    "14": {
+      "options1": "1 Minutes",
+      "options3": "3 Minutes",
+      "id": 14,
+      "options2": "2 Minutes",
+      "title": "In the Elixir Scramble, what is the initial free relocation interval (in minutes)?"
+    },
+    "24": {
+      "options1": "Add Shields",
+      "options3": "Increase ATK",
+      "id": 24,
+      "options2": "Restore HP",
+      "title": "What effects does Arthur's Active Skill have?"
+    },
+    "34": {
+      "options1": "Recruit Survivors",
+      "options3": "Train Soldiers",
+      "id": 34,
+      "options2": "Recruit Heroes",
+      "title": "Which methods do not boost squad Might after defeat?"
+    },
+    "44": {
+      "options1": "See a doctor for treatment",
+      "options3": "Lie down and wait",
+      "id": 44,
+      "options2": "Go to work",
+      "title": "What should be done after getting infected?"
+    },
+    "54": {
+      "options1": "Gather resources in the world",
+      "options3": "All of the above",
+      "id": 54,
+      "options2": "Plunder other players",
+      "title": "What can you do when lacking resources for building/technology upgrades?"
+    },
+    "18": {
+      "options1": "10",
+      "options3": "20",
+      "id": 18,
+      "options2": "15",
+      "title": "At which Sanctuary level is Raven Gear unlocked?"
+    },
+    "28": {
+      "options1": "Warrior (Red)",
+      "options3": "Warlock (Green)",
+      "id": 28,
+      "options2": "Ranger (Blue)",
+      "title": "What type of hero is Marlena?"
+    },
+    "10": {
+      "options1": "Warlock",
+      "options3": "Raven",
+      "id": 10,
+      "options2": "Warrior",
+      "title": "What type of heroes do Rangers counter?"
+    },
+    "20": {
+      "options1": "8",
+      "options3": "12",
+      "id": 20,
+      "options2": "10",
+      "title": "At which VIP level is Auto Dispatch for Covert Operations unlocked?"
+    },
+    "30": {
+      "options1": "UR",
+      "options3": "SR",
+      "id": 30,
+      "options2": "SSR",
+      "title": "Which gear boosts a hero's Might the most significantly?"
+    },
+    "40": {
+      "options1": "Falcon Quest",
+      "options3": "Main Quest",
+      "id": 40,
+      "options2": "Daily Quests",
+      "title": "Which type of Quest rewards can survivor Freya boost?"
+    },
+    "78": {
+      "options1": "Blight",
+      "options3": "Rats",
+      "id": 78,
+      "options2": "Ghosts",
+      "title": "What will infected individuals turn into if they are not treated in time?"
+    },
+    "88": {
+      "options1": "The colors are appealing",
+      "options3": "United against a common enemy",
+      "id": 88,
+      "options2": "Damage increased by faction bonus",
+      "title": "What are the advantages of forming a team with Heroes from the same faction?"
+    },
+    "65": {
+      "options1": "2",
+      "options3": "4",
+      "id": 65,
+      "options2": "3",
+      "title": "How many times can you plunder others' Trade Caravan daily?"
+    },
+    "64": {
+      "options1": "To increase player's damage dealt",
+      "options3": "To increase player's march speed",
+      "id": 64,
+      "options2": "To level up player's heroes",
+      "title": "What is the purpose of donating Mouse Lure in the Cheese Trap event?"
+    },
+    "3": {
+      "options1": "Spices and herbs",
+      "options3": "Perfume",
+      "id": 3,
+      "options2": "Poison",
+      "title": "What is typically placed inside the beak of a Plague Doctor's mask?"
+    },
+    "2": {
+      "options1": "Through airborne droplets",
+      "options3": "Water Contamination",
+      "id": 2,
+      "options2": "Flea or rat bite",
+      "title": "How did the disease enter the town?"
+    },
+    "5": {
+      "options1": "Bella",
+      "options3": "Celia",
+      "id": 5,
+      "options2": "William",
+      "title": "Who was the first emergency patient rescued by the Sanctuary?"
+    },
+    "4": {
+      "options1": "Viper",
+      "options3": "Spider",
+      "id": 4,
+      "options2": "Rat King",
+      "title": "Who is responsible for severely injuring and infecting Celia?"
+    },
+    "63": {
+      "options1": "2",
+      "options3": "4",
+      "id": 63,
+      "options2": "3",
+      "title": "How many hours does each Survival Battle last in the game?"
+    },
+    "6": {
+      "options1": "Grenwald",
+      "options3": "Celia",
+      "id": 6,
+      "options2": "Black Wizard",
+      "title": "Who controls the black rats and attacks the town?"
+    },
+    "62": {
+      "options1": "Mondays",
+      "options3": "Sundays",
+      "id": 62,
+      "options2": "Saturdays",
+      "title": "On which days is the Alliance Duel event not available?"
+    },
+    "61": {
+      "options1": "Enhance Heroes",
+      "options3": "Enhance Raven",
+      "id": 61,
+      "options2": "Full Development",
+      "title": "What is the theme for Alliance Duel on Thursdays?"
+    },
+    "60": {
+      "options1": "Tech Research",
+      "options3": "Territory Development",
+      "id": 60,
+      "options2": "Enhance Raven",
+      "title": "What is the theme for Alliance Duel on Tuesdays?"
+    },
+    "59": {
+      "options1": "Tech Research",
+      "options3": "Territory Development",
+      "id": 59,
+      "options2": "Enhance Raven",
+      "title": "What is the theme for Alliance Duel on Mondays?"
+    },
+    "58": {
+      "options1": "Train Soldiers",
+      "options3": "Enhancing Gear",
+      "id": 58,
+      "options2": "Craft Gear",
+      "title": "What can the items produced in the Weaving Workshop be used for?"
+    },
+    "57": {
+      "options1": "Smelting Workshop",
+      "options3": "Gear Workshop",
+      "id": 57,
+      "options2": "Weaving Workshop",
+      "title": "Which building produces Gearstone?"
+    },
+    "56": {
+      "options1": "Tech Research",
+      "options3": "Territory Development",
+      "id": 56,
+      "options2": "Enhance Raven",
+      "title": "What is the theme for Alliance Duel on Wednesdays?"
+    },
+    "50": {
+      "options1": "Grain",
+      "options3": "Iron Ore",
+      "id": 50,
+      "options2": "Timber",
+      "title": "Which of the following materials is not a main resource in the game?"
+    },
+    "1": {
+      "options1": "Plague Doctor's Garb",
+      "options3": "Metal Armor",
+      "id": 1,
+      "options2": "White Coat",
+      "title": "What special attire is needed to prevent the disease?"
+    },
+    "51": {
+      "options1": "Recruit Ticket",
+      "options3": "Clinic Buff",
+      "id": 51,
+      "options2": "Hero EXP",
+      "title": "Which of the following can be obtained via promotion?"
+    },
+    "15": {
+      "options1": "SR",
+      "options3": "UR",
+      "id": 15,
+      "options2": "SSR",
+      "title": "What is the quality of Arthur in the game?"
+    },
+    "39": {
+      "options1": "Correct",
+      "options3": "Not Sure",
+      "id": 39,
+      "options2": "Incorrect",
+      "title": "Researching Alliance Duel technology can increase the points gained per Alliance Duel."
+    },
+    "35": {
+      "options1": "Slay Blight",
+      "options3": "Exploration Stage",
+      "id": 35,
+      "options2": "Collect in the Sanctuary",
+      "title": "What are the ways to obtain Copper Coins?"
+    },
+    "25": {
+      "options1": "Tank",
+      "options3": "Support",
+      "id": 25,
+      "options2": "DMG Dealt",
+      "title": "What is Shadow's role in the game?"
+    },
+    "55": {
+      "options1": "Increase resource production speed",
+      "options3": "Enhance Soldier Stats",
+      "id": 55,
+      "options2": "Boost construction/research speed",
+      "title": "What buffs are not unlocked by raising your VIP level?"
+    },
+    "45": {
+      "options1": "Farm",
+      "options3": "Sanctuary",
+      "id": 45,
+      "options2": "Barracks",
+      "title": "What is the most magnificent building in the town?"
+    },
+    "29": {
+      "options1": "Correct",
+      "options3": "Place anywhere",
+      "id": 29,
+      "options2": "Incorrect",
+      "title": "We need to place Arthur (Tank Hero) in the back row."
+    },
+    "19": {
+      "options1": "Antitoxin Workshop",
+      "options3": "Watchtower",
+      "id": 19,
+      "options2": "Gear Workshop",
+      "title": "Which building produces Antitoxin in the game?"
+    },
+    "21": {
+      "options1": "8",
+      "options3": "12",
+      "id": 21,
+      "options2": "10",
+      "title": "At which VIP level is the Super Mode for Covert Operations unlocked?"
+    },
+    "11": {
+      "options1": "Warrior",
+      "options3": "Raven",
+      "id": 11,
+      "options2": "Ranger",
+      "title": "What type of heroes do Warlocks counter?"
+    },
+    "41": {
+      "options1": "Upgrade buildings in the Infirmary",
+      "options3": "Gather more herbs",
+      "id": 41,
+      "options2": "Treat more patients",
+      "title": "How do you raise the star of the Infirmary?"
+    },
+    "31": {
+      "options1": "No.1 Research Lab",
+      "options3": "Sanctuary",
+      "id": 31,
+      "options2": "Alliance Hall",
+      "title": "When a hero hits the level cap, which building do you need to upgrade?"
+    },
+    "89": {
+      "options1": "First city siege",
+      "options3": "First attack on the Demon King Blight",
+      "id": 89,
+      "options2": "First Royal City Scramble",
+      "title": "When does the faction bonus feature unlock?"
+    },
+    "79": {
+      "options1": "Recruit in Tavern",
+      "options3": "Both of the above",
+      "id": 79,
+      "options2": "Treat emergency patients",
+      "title": "How do you obtain survivors?"
+    },
+    "47": {
+      "options1": "Lumberyard",
+      "options3": "Smelting Workshop",
+      "id": 47,
+      "options2": "Farm",
+      "title": "Where is Timber produced?"
+    },
+    "46": {
+      "options1": "Farm",
+      "options3": "Tavern",
+      "id": 46,
+      "options2": "Herb Garden",
+      "title": "Where is Grain produced?"
+    }
+  },
+  "len": 84,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,297 @@
+{
+  "isNeedTransform": false,
+  "len": 40,
+  "key": "id",
+  "data": {
+    "103": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_chuanmao",
+      "id": 103,
+      "name": "船锚"
+    },
+    "5": {
+      "reward": {},
+      "icon": "pic_yjxb_guaizhang",
+      "id": 5,
+      "name": "拐杖"
+    },
+    "11": {
+      "reward": {},
+      "icon": "pic_yjxb_mianju",
+      "id": 11,
+      "name": "面具"
+    },
+    "21": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_SpeedUp_train_60m",
+          "type": 99
+        }
+      },
+      "icon": "icon_speed_xunlian",
+      "id": 21,
+      "name": "加速训练60分钟"
+    },
+    "8": {
+      "reward": {},
+      "icon": "pic_yjxb_jiantong",
+      "id": 8,
+      "name": "箭筒"
+    },
+    "9": {
+      "reward": {},
+      "icon": "pic_yjxb_lingdang",
+      "id": 9,
+      "name": "铃铛"
+    },
+    "107": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_haojiao",
+      "id": 107,
+      "name": "号角"
+    },
+    "7": {
+      "reward": {},
+      "icon": "pic_yjxb_huwan",
+      "id": 7,
+      "name": "护腕"
+    },
+    "13": {
+      "reward": {},
+      "icon": "pic_yjxb_taoguan",
+      "id": 13,
+      "name": "陶罐"
+    },
+    "104": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_haidaomao",
+      "id": 104,
+      "name": "海盗帽"
+    },
+    "1": {
+      "reward": {},
+      "icon": "pic_yjxb_baoxiang",
+      "id": 1,
+      "name": "宝箱"
+    },
+    "115": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_yandou",
+      "id": 115,
+      "name": "烟斗"
+    },
+    "111": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_zhangyu",
+      "id": 111,
+      "name": "章鱼"
+    },
+    "102": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_cangbaotu",
+      "id": 102,
+      "name": "藏宝图"
+    },
+    "131": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_SpeedUp_train_60m",
+          "type": 99
+        }
+      },
+      "icon": "icon_speed_xunlian",
+      "id": 131,
+      "name": "加速训练60分钟"
+    },
+    "106": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_haiyu",
+      "id": 106,
+      "name": "海鱼"
+    },
+    "110": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_qiandai",
+      "id": 110,
+      "name": "钱袋"
+    },
+    "10": {
+      "reward": {},
+      "icon": "pic_yjxb_luopan",
+      "id": 10,
+      "name": "罗盘"
+    },
+    "12": {
+      "reward": {},
+      "icon": "pic_yjxb_shoutao",
+      "id": 12,
+      "name": "手套"
+    },
+    "114": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_wangyuanjing",
+      "id": 114,
+      "name": "望远镜"
+    },
+    "6": {
+      "reward": {},
+      "icon": "pic_yjxb_huoba",
+      "id": 6,
+      "name": "火把"
+    },
+    "4": {
+      "reward": {},
+      "icon": "pic_yjxb_budai",
+      "id": 4,
+      "name": "布袋"
+    },
+    "33": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_decor_1011",
+          "type": 99
+        }
+      },
+      "icon": "icon_zsw_36",
+      "id": 33,
+      "name": "深海明珠"
+    },
+    "16": {
+      "reward": {},
+      "icon": "pic_yumaobi",
+      "id": 16,
+      "name": "羽毛笔"
+    },
+    "32": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_Material_universalFragment_5",
+          "type": 99
+        }
+      },
+      "icon": "icon_wannengsuipian_chengse",
+      "id": 32,
+      "name": "UR英雄万能碎片"
+    },
+    "31": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_SpeedUp_train_60m",
+          "type": 99
+        }
+      },
+      "icon": "icon_speed_xunlian",
+      "id": 31,
+      "name": "加速训练60分钟"
+    },
+    "105": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_haidaoqi",
+      "id": 105,
+      "name": "海盗旗帜"
+    },
+    "3": {
+      "reward": {},
+      "icon": "pic_yjxb_bishou",
+      "id": 3,
+      "name": "匕首"
+    },
+    "109": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_pijiu",
+      "id": 109,
+      "name": "啤酒"
+    },
+    "2": {
+      "reward": {},
+      "icon": "pic_yjxb_bengdai",
+      "id": 2,
+      "name": "绷带"
+    },
+    "15": {
+      "reward": {},
+      "icon": "pic_yjxb_yaoshi",
+      "id": 15,
+      "name": "钥匙"
+    },
+    "14": {
+      "reward": {},
+      "icon": "pic_yjxb_xianglu",
+      "id": 14,
+      "name": "香炉"
+    },
+    "101": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_baoxiang",
+      "id": 101,
+      "name": "宝箱"
+    },
+    "121": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_SpeedUp_train_60m",
+          "type": 99
+        }
+      },
+      "icon": "icon_speed_xunlian",
+      "id": 121,
+      "name": "加速训练60分钟"
+    },
+    "132": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_Material_universalFragment_5",
+          "type": 99
+        }
+      },
+      "icon": "icon_wannengsuipian_chengse",
+      "id": 132,
+      "name": "UR英雄万能碎片"
+    },
+    "133": {
+      "reward": {
+        "1": {
+          "count": 1,
+          "id": "item_decor_1011",
+          "type": 99
+        }
+      },
+      "icon": "icon_zsw_36",
+      "id": 133,
+      "name": "深海明珠"
+    },
+    "116": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_zhadan",
+      "id": 116,
+      "name": "炸弹"
+    },
+    "113": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_wangou",
+      "id": 113,
+      "name": "弯钩"
+    },
+    "112": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_wandao",
+      "id": 112,
+      "name": "弯刀"
+    },
+    "108": {
+      "reward": {},
+      "icon": "icon_hdhd_yjxb_jiezhi",
+      "id": 108,
+      "name": "戒指"
+    }
+  },
+  "excelName": "Activity-EliminateMasterAct-遗迹寻宝（羊了个羊）",
+  "first": 1
+}

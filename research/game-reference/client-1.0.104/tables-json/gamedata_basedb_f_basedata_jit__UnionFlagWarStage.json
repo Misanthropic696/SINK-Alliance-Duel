@@ -1,0 +1,465 @@
+{
+  "excelName": "Activity_AllianceCapture_峡谷争锋战",
+  "isNeedTransform": true,
+  "data": {
+    "4": {
+      "teamCount": 20,
+      "maxMedal": 4499,
+      "ownStage": 4,
+      "icon": "pic_xgzfz_duanwei4",
+      "roadDrawReward": {
+        "1": {
+          "count": 180,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 90,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 9,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 9,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 3,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 180,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 90,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 9,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 9,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 2800,
+      "id": 4,
+      "roadVictoryReward": {
+        "1": {
+          "count": 600,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 300,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 30,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 30,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    },
+    "3": {
+      "teamCount": 15,
+      "maxMedal": 2799,
+      "ownStage": 3,
+      "icon": "pic_xgzfz_duanwei3",
+      "roadDrawReward": {
+        "1": {
+          "count": 120,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 6,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 2,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 120,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 60,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 6,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 1500,
+      "id": 3,
+      "roadVictoryReward": {
+        "1": {
+          "count": 400,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 20,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 20,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "teamCount": 15,
+      "maxMedal": 1499,
+      "ownStage": 2,
+      "icon": "pic_xgzfz_duanwei2",
+      "roadDrawReward": {
+        "1": {
+          "count": 75,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 38,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 4,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 2,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 75,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 38,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 4,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 4,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 500,
+      "id": 2,
+      "roadVictoryReward": {
+        "1": {
+          "count": 250,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 125,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 13,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 13,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    },
+    "1": {
+      "teamCount": 15,
+      "maxMedal": 499,
+      "ownStage": 1,
+      "icon": "pic_xgzfz_duanwei1",
+      "roadDrawReward": {
+        "1": {
+          "count": 60,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 2,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 60,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 30,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 0,
+      "id": 1,
+      "roadVictoryReward": {
+        "1": {
+          "count": 200,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 100,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 10,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 10,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    },
+    "6": {
+      "teamCount": 20,
+      "maxMedal": 9999999,
+      "ownStage": 6,
+      "icon": "pic_xgzfz_duanwei6",
+      "roadDrawReward": {
+        "1": {
+          "count": 300,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 150,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 15,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 3,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 300,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 150,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 15,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 15,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 7000,
+      "id": 6,
+      "roadVictoryReward": {
+        "1": {
+          "count": 1000,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 500,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 50,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 50,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    },
+    "5": {
+      "teamCount": 20,
+      "maxMedal": 6999,
+      "ownStage": 5,
+      "icon": "pic_xgzfz_duanwei5",
+      "roadDrawReward": {
+        "1": {
+          "count": 240,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 120,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 12,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "name": "",
+      "battleCount": 3,
+      "roadDeafeatReward": {
+        "1": {
+          "count": 240,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 120,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 12,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 12,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      },
+      "minMedal": 4500,
+      "id": 5,
+      "roadVictoryReward": {
+        "1": {
+          "count": 800,
+          "id": "item_Activity_dualCommander",
+          "type": 99
+        },
+        "2": {
+          "count": 400,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "3": {
+          "count": 40,
+          "id": "item_SpeedUp_train_5m",
+          "type": 99
+        },
+        "4": {
+          "count": 40,
+          "id": "item_optionalBox_Resource1",
+          "type": 99
+        }
+      }
+    }
+  },
+  "key": "id",
+  "len": 6,
+  "first": 1
+}

@@ -1,0 +1,28 @@
+{
+  "data": {
+    "4": {
+      "id": 4,
+      "desc": "South Turret",
+      "name": "South Turret"
+    },
+    "3": {
+      "id": 3,
+      "name": "West Turret"
+    },
+    "5": {
+      "id": 5,
+      "name": "North Turret"
+    },
+    "2": {
+      "id": 2,
+      "name": "East Turret"
+    },
+    "1": {
+      "id": 1,
+      "name": "Royal City"
+    }
+  },
+  "len": 5,
+  "key": "id",
+  "source_format": "locale rows"
+}

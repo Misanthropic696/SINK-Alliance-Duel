@@ -1,0 +1,295 @@
+{
+  "first": 2001,
+  "isNeedTransform": true,
+  "len": 10,
+  "data": {
+    "2005": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "Activity",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2005,
+      "picAtlas": "SpriteAtlas/UI_PlayerHead.spriteatlas",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_general_7d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {
+        "1": {
+          "Value": 0.05,
+          "Source": 101,
+          "Type": 10006
+        }
+      },
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "icon_item_headframe_general",
+      "name": "",
+      "sort": 5,
+      "des1": ""
+    },
+    "2008": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "Activity",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2008,
+      "picAtlas": "SpriteAtlas/UI_PlayerHead.spriteatlas",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_colonel_7d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {
+        "1": {
+          "Value": 0.025,
+          "Source": 101,
+          "Type": 10006
+        }
+      },
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "icon_item_headframe_colonel",
+      "name": "",
+      "sort": 8,
+      "des1": ""
+    },
+    "90002": {
+      "head": "pic_lz_touxiang02",
+      "unlockType": 1,
+      "grade": 0,
+      "Gender": 2,
+      "goTo": "",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 1,
+      "id": 90002,
+      "picAtlas": "PLAYER_HEAD_ICON",
+      "unlockItem": {},
+      "effect": "",
+      "benefit": {},
+      "timeType": 0,
+      "model": "",
+      "des2": "",
+      "pic": "pic_lz_touxiang02",
+      "name": "",
+      "sort": 998,
+      "des1": ""
+    },
+    "2010": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2010,
+      "picAtlas": "",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_monthCard_30d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {},
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "pic_touxiangkuang1",
+      "name": "",
+      "sort": 996,
+      "des1": ""
+    },
+    "2006": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "Activity",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2006,
+      "picAtlas": "SpriteAtlas/UI_PlayerHead.spriteatlas",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_lieutenantGeneral_7d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {
+        "1": {
+          "Value": 0.04,
+          "Source": 101,
+          "Type": 10006
+        }
+      },
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "icon_item_headframe_lieutenantGeneral",
+      "name": "",
+      "sort": 6,
+      "des1": ""
+    },
+    "2001": {
+      "head": "",
+      "unlockType": 1,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "",
+      "initWear": 1,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2001,
+      "picAtlas": "",
+      "unlockItem": {},
+      "effect": "",
+      "benefit": {},
+      "timeType": 0,
+      "model": "",
+      "des2": "",
+      "pic": "pic_touxiangkuang0",
+      "name": "",
+      "sort": 999,
+      "des1": ""
+    },
+    "90001": {
+      "head": "pic_lz_touxiang01",
+      "unlockType": 1,
+      "grade": 0,
+      "Gender": 1,
+      "goTo": "",
+      "initWear": 1,
+      "unlockValue": 0,
+      "type": 1,
+      "id": 90001,
+      "picAtlas": "PLAYER_HEAD_ICON",
+      "unlockItem": {},
+      "effect": "",
+      "benefit": {},
+      "timeType": 0,
+      "model": "",
+      "des2": "",
+      "pic": "pic_lz_touxiang01",
+      "name": "",
+      "sort": 999,
+      "des1": ""
+    },
+    "2009": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "Activity",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2009,
+      "picAtlas": "SpriteAtlas/UI_PlayerHead.spriteatlas",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_lieutenantColonel_7d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {
+        "1": {
+          "Value": 0.02,
+          "Source": 101,
+          "Type": 10006
+        }
+      },
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "icon_item_headframe_lieutenantColonel",
+      "name": "",
+      "sort": 9,
+      "des1": ""
+    },
+    "2007": {
+      "head": "",
+      "unlockType": 4,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "Activity",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 2,
+      "id": 2007,
+      "picAtlas": "SpriteAtlas/UI_PlayerHead.spriteatlas",
+      "unlockItem": {
+        "1": {
+          "count": 1,
+          "id": "item_headframe_majorGeneral_7d",
+          "type": 99
+        }
+      },
+      "effect": "",
+      "benefit": {
+        "1": {
+          "Value": 0.03,
+          "Source": 101,
+          "Type": 10006
+        }
+      },
+      "timeType": 1,
+      "model": "",
+      "des2": "",
+      "pic": "icon_item_headframe_majorGeneral",
+      "name": "",
+      "sort": 7,
+      "des1": ""
+    },
+    "92018": {
+      "head": "pic_lz_touxiang02",
+      "unlockType": 1,
+      "grade": 0,
+      "Gender": 0,
+      "goTo": "",
+      "initWear": 0,
+      "unlockValue": 0,
+      "type": 5,
+      "id": 92018,
+      "picAtlas": "MONSTER_HEAD_ICON",
+      "unlockItem": {},
+      "effect": "",
+      "benefit": {},
+      "timeType": 0,
+      "model": "",
+      "des2": "",
+      "pic": "xiaoguai_13",
+      "name": "",
+      "sort": 998,
+      "des1": ""
+    }
+  },
+  "key": "id",
+  "excelName": "Player_指挥官"
+}

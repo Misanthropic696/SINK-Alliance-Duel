@@ -1,0 +1,57 @@
+{
+  "first": 1,
+  "excelName": "Activity_FlipCard_靶场夺宝",
+  "isNeedTransform": false,
+  "data": {
+    "4": {
+      "pool": 101,
+      "recommend": 0,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2,
+          "id": "item_drone_data_10k"
+        }
+      },
+      "id": 4
+    },
+    "1": {
+      "pool": 101,
+      "recommend": 1,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 2500,
+          "id": "item_equipment_enhanceStone"
+        }
+      },
+      "id": 1
+    },
+    "2": {
+      "pool": 101,
+      "recommend": 0,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 80,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "id": 2
+    },
+    "3": {
+      "pool": 101,
+      "recommend": 0,
+      "rewardItem": {
+        "1": {
+          "type": 99,
+          "count": 10,
+          "id": "item_castleBox_Energy_3"
+        }
+      },
+      "id": 3
+    }
+  },
+  "key": "id",
+  "len": 4
+}

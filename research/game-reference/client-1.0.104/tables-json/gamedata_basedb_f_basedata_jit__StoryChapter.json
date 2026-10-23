@@ -1,0 +1,74 @@
+{
+  "key": "id",
+  "isNeedTransform": true,
+  "excelName": "Chapter_章节",
+  "data": {
+    "2": {
+      "id": 2,
+      "reward": {
+        "1": {
+          "count": 2,
+          "id": "item_Component_special_Inf_17",
+          "type": 99,
+          "effect": "TRUE"
+        },
+        "2": {
+          "count": 2,
+          "id": "item_Component_special_Inf_18",
+          "type": 99,
+          "effect": "TRUE"
+        },
+        "3": {
+          "count": 50,
+          "id": "item_Box_Component_normal_01",
+          "type": 99,
+          "effect": "FLASE"
+        }
+      },
+      "name": "",
+      "icon": "UI_Sprite/Bg/Zillionaire/ZillionaireStory_Bg_01.png",
+      "chapters": {
+        "1": 1
+      },
+      "chapterIcon": "UI_Sprite/Others/Task/chapterTask_bg_map2.jpg",
+      "desc": ""
+    },
+    "1": {
+      "id": 1,
+      "reward": {
+        "1": {
+          "count": 10,
+          "id": "item_Material_fragment_20001",
+          "type": 99,
+          "effect": "TRUE"
+        },
+        "2": {
+          "count": 10,
+          "id": "item_SpeedUp_general_1m",
+          "type": 99,
+          "effect": "TRUE"
+        }
+      },
+      "name": "",
+      "icon": "UI_Sprite/Bg/Zillionaire/ZillionaireStory_Bg_02.png",
+      "chapters": {
+        "1": 1
+      },
+      "chapterIcon": "UI_Sprite/Others/Task/chapterTask_bg_map1.png",
+      "desc": ""
+    },
+    "3": {
+      "id": 3,
+      "reward": {},
+      "name": "",
+      "icon": "UI_Sprite/Bg/Zillionaire/ZillionaireStory_Bg_03.png",
+      "chapters": {
+        "1": 1
+      },
+      "chapterIcon": "UI_Sprite/Others/Task/chapterTask_bg_map3.png",
+      "desc": ""
+    }
+  },
+  "len": 3,
+  "first": 1
+}

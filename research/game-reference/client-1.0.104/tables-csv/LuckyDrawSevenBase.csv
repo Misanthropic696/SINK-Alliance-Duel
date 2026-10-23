@@ -1,0 +1,17 @@
+﻿record_key,giftPic,text,dailyActId,giftIds,style,id,boxPrefabPath,specialElemType,costs
+820030101,img_etj_banner_01,"Precious Anchor Coins are bringing mysterious grand prizes from the ocean depths to your city.
+1. Spend Anchor Coins to draw rewards during the event. Every draw grants points; hit designated point thresholds to unlock matching stage rewards.
+2. Complete daily pattern collection quests to claim quest rewards while the event lasts. Any unclaimed rewards will be delivered to your mailbox the following day.
+3. Drawing the Pirate Hat Chest pattern unlocks chest opening attempts. One Pirate Hat Chest pattern equals one attempt, with a maximum of 3 opens obtainable per draw. Valuable grand prizes await inside these chests.
+4. More matching patterns yield better rewards. Opt for 5x Draw to multiply both draw costs and all rewards by five times.
+5. Purchase Anchor Coin Packs throughout the event to obtain Lucky Gold Eggs.
+6. Once the event concludes, all Anchor Coins will be converted into speed-up items and mailed to you. Any leftover coins can also be manually recycled from your bag for the same speed-up items.
+7. Conversion Ratio: 1 Anchor Coin = 30x Universal Speed-Up (1m)",820030108,996002001|996002002|996002003|996002004|996002005|996002006|996002007|996002008,"{""1"": {""lightTFs"": {""1"": {""angle"": 0, ""x"": -153.9, ""y"": -32.4}, ""2"": {""angle"": 0, ""x"": -0.8, ""y"": 26.6}, ""3"": {""angle"": 0, ""x"": 148.7, ""y"": -31.3}}, ""arrow"": ""pic_hdhd_zhizhen"", ""light1"": ""pic_hdhd_dengliang"", ""bg"": ""pic_hdhd_bg"", ""light2"": ""pic_hdhd_dengmie"", ""machine"": ""pic_hdhd_laohuji""}}",820030101,Spines/UI_F/UI_777_baoxiang/UI_777_baoxiang.prefab,2,"{""1"": {""id"": ""pirate_anchorcoin"", ""count"": 1, ""type"": 99}}"
+820040101,img_etj_banner_01,"Precious Anchor Coins are bringing mysterious grand prizes from the ocean depths to your city.
+1. Spend Anchor Coins to draw rewards during the event. Every draw grants points; hit designated point thresholds to unlock matching stage rewards.
+2. Complete daily pattern collection quests to claim quest rewards while the event lasts. Any unclaimed rewards will be delivered to your mailbox the following day.
+3. Drawing the Pirate Hat Chest pattern unlocks chest opening attempts. One Pirate Hat Chest pattern equals one attempt, with a maximum of 3 opens obtainable per draw. Valuable grand prizes await inside these chests.
+4. More matching patterns yield better rewards. Opt for 5x Draw to multiply both draw costs and all rewards by five times.
+5. Purchase Anchor Coin Packs throughout the event to obtain Lucky Gold Eggs.
+6. Once the event concludes, all Anchor Coins will be converted into speed-up items and mailed to you. Any leftover coins can also be manually recycled from your bag for the same speed-up items.
+7. Conversion Ratio: 1 Anchor Coin = 30x Universal Speed-Up (1m)",820040108,997002001|997002002|997002003|997002004|997002005|997002006|997002007|997002008,"{""1"": {""lightTFs"": {""1"": {""angle"": 40, ""x"": -170, ""y"": -13}, ""2"": {""angle"": 0, ""x"": -0.8, ""y"": 46}, ""3"": {""angle"": -40, ""x"": 166, ""y"": -11}}, ""arrow"": ""pic_zqj_zhizhen"", ""light1"": ""pic_zqj_dengliang"", ""bg"": ""pic_zqj_bg"", ""light2"": ""pic_zqj_dengmie"", ""machine"": ""pic_zqj_laohuji""}}",820040101,Spines/UI_F/UI_777_baoxiang_zq/UI_777_baoxiang_zq.prefab,102,"{""1"": {""id"": ""mid_autumn_raffle_ticket"", ""count"": 1, ""type"": 99}}"

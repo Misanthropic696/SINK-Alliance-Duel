@@ -1,0 +1,2769 @@
+{
+  "key": "id",
+  "len": 60,
+  "data": {
+    "302": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 302,
+      "minRank": 2
+    },
+    "202": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 202,
+      "minRank": 2
+    },
+    "1002": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1002,
+      "minRank": 2
+    },
+    "1003": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1003,
+      "minRank": 4
+    },
+    "702": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 702,
+      "minRank": 2
+    },
+    "602": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 602,
+      "minRank": 2
+    },
+    "502": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 502,
+      "minRank": 2
+    },
+    "402": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 402,
+      "minRank": 2
+    },
+    "902": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 902,
+      "minRank": 2
+    },
+    "802": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 802,
+      "minRank": 2
+    },
+    "104": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 104,
+      "minRank": 11
+    },
+    "905": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 905,
+      "minRank": 21
+    },
+    "1004": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1004,
+      "minRank": 11
+    },
+    "306": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 306,
+      "minRank": 51
+    },
+    "406": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 406,
+      "minRank": 51
+    },
+    "506": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 506,
+      "minRank": 51
+    },
+    "606": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 606,
+      "minRank": 51
+    },
+    "706": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 706,
+      "minRank": 51
+    },
+    "1006": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1006,
+      "minRank": 51
+    },
+    "906": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 906,
+      "minRank": 51
+    },
+    "203": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 203,
+      "minRank": 4
+    },
+    "303": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 303,
+      "minRank": 4
+    },
+    "904": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 904,
+      "minRank": 11
+    },
+    "103": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 103,
+      "minRank": 4
+    },
+    "603": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 603,
+      "minRank": 4
+    },
+    "703": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 703,
+      "minRank": 4
+    },
+    "403": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 403,
+      "minRank": 4
+    },
+    "106": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 106,
+      "minRank": 51
+    },
+    "806": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 806,
+      "minRank": 51
+    },
+    "701": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 701,
+      "minRank": 1
+    },
+    "803": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 803,
+      "minRank": 4
+    },
+    "903": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 903,
+      "minRank": 4
+    },
+    "805": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 805,
+      "minRank": 21
+    },
+    "804": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 804,
+      "minRank": 11
+    },
+    "704": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 704,
+      "minRank": 11
+    },
+    "705": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 7,
+      "id": 705,
+      "minRank": 21
+    },
+    "505": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 505,
+      "minRank": 21
+    },
+    "101": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 101,
+      "minRank": 1
+    },
+    "201": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 201,
+      "minRank": 1
+    },
+    "205": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 205,
+      "minRank": 21
+    },
+    "401": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 401,
+      "minRank": 1
+    },
+    "501": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 501,
+      "minRank": 1
+    },
+    "601": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 601,
+      "minRank": 1
+    },
+    "605": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 605,
+      "minRank": 21
+    },
+    "801": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 8,
+      "id": 801,
+      "minRank": 1
+    },
+    "901": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 9,
+      "id": 901,
+      "minRank": 1
+    },
+    "604": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 6,
+      "id": 604,
+      "minRank": 11
+    },
+    "504": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 504,
+      "minRank": 11
+    },
+    "105": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 105,
+      "minRank": 21
+    },
+    "1005": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1005,
+      "minRank": 21
+    },
+    "503": {
+      "maxRank": 10,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "zoneId": 5,
+      "id": 503,
+      "minRank": 4
+    },
+    "405": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 405,
+      "minRank": 21
+    },
+    "404": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 4,
+      "id": 404,
+      "minRank": 11
+    },
+    "305": {
+      "maxRank": 50,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 305,
+      "minRank": 21
+    },
+    "304": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 304,
+      "minRank": 11
+    },
+    "301": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 3,
+      "id": 301,
+      "minRank": 1
+    },
+    "206": {
+      "maxRank": 100,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_01",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 206,
+      "minRank": 51
+    },
+    "1001": {
+      "maxRank": 1,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "zoneId": 10,
+      "id": 1001,
+      "minRank": 1
+    },
+    "204": {
+      "maxRank": 20,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_02",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_Metal_3",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_3",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "zoneId": 2,
+      "id": 204,
+      "minRank": 11
+    },
+    "102": {
+      "maxRank": 3,
+      "previewReward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "seasonRewardGroup": 0,
+      "rewards": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_3",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_castleBox_Food_3",
+          "count": 25,
+          "type": 99
+        }
+      },
+      "zoneId": 1,
+      "id": 102,
+      "minRank": 2
+    }
+  },
+  "isNeedTransform": false,
+  "first": 101,
+  "excelName": "BlackMine_燃霜矿场"
+}

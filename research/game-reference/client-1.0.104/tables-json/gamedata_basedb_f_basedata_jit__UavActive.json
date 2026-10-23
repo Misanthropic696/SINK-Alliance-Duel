@@ -1,0 +1,156 @@
+{
+  "excelName": "Uav_无人机",
+  "key": "id",
+  "isNeedTransform": false,
+  "data": {
+    "3": {
+      "cost": {
+        "1": {
+          "count": 1,
+          "id": "item_drone_part_01",
+          "type": 99
+        }
+      },
+      "id": 3,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 40000,
+          "type": 5
+        }
+      }
+    },
+    "4": {
+      "cost": {
+        "1": {
+          "count": 1,
+          "id": "item_drone_part_01",
+          "type": 99
+        }
+      },
+      "id": 4,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 40000,
+          "type": 5
+        }
+      }
+    },
+    "1": {
+      "cost": {
+        "1": {
+          "count": 1,
+          "id": "item_drone_part_01",
+          "type": 99
+        }
+      },
+      "id": 1,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "cost": {
+        "1": {
+          "count": 1,
+          "id": "item_drone_part_01",
+          "type": 99
+        }
+      },
+      "id": 2,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "5": {
+      "cost": {
+        "1": {
+          "count": 1,
+          "id": "item_drone_part_01",
+          "type": 99
+        }
+      },
+      "id": 5,
+      "reward": {
+        "1": {
+          "count": 5,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 5,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 5,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        },
+        "4": {
+          "count": 40000,
+          "type": 5
+        }
+      }
+    }
+  },
+  "len": 5,
+  "first": 1
+}

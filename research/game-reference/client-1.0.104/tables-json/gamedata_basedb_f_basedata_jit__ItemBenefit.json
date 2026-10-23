@@ -1,0 +1,110 @@
+{
+  "data": {
+    "4005": {
+      "type": 2,
+      "id": 4005,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "8h",
+          "Value": 1
+        }
+      }
+    },
+    "4002": {
+      "type": 2,
+      "id": 4002,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "2h",
+          "Value": 1
+        }
+      }
+    },
+    "4008": {
+      "type": 2,
+      "id": 4008,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "5d",
+          "Value": 1
+        }
+      }
+    },
+    "4007": {
+      "type": 2,
+      "id": 4007,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "3d",
+          "Value": 1
+        }
+      }
+    },
+    "4006": {
+      "type": 2,
+      "id": 4006,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "24h",
+          "Value": 1
+        }
+      }
+    },
+    "4009": {
+      "type": 2,
+      "id": 4009,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Value": 1
+        }
+      }
+    },
+    "4003": {
+      "type": 2,
+      "id": 4003,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "3d",
+          "Value": 1
+        }
+      }
+    },
+    "4004": {
+      "type": 2,
+      "id": 4004,
+      "benefit": {
+        "1": {
+          "Source": 211,
+          "Type": 30001,
+          "Show": "2h",
+          "Value": 1
+        }
+      }
+    }
+  },
+  "len": 8,
+  "first": 4002,
+  "excelName": "Item_道具",
+  "enum": {
+    "TYPE": {
+      "ONE": 1,
+      "ALL": 2
+    }
+  },
+  "key": "id",
+  "isNeedTransform": false
+}

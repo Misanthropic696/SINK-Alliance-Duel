@@ -1,0 +1,338 @@
+{
+  "data": {
+    "SeeUnion": {
+      "btnName": "Help",
+      "id": "SeeUnion"
+    },
+    "AllianceMarkPoint": {
+      "btnName": "Assembly Point",
+      "id": "AllianceMarkPoint"
+    },
+    "March_Destination": {
+      "btnName": "Destination",
+      "id": "March_Destination"
+    },
+    "Scout": {
+      "btnName": "Scout",
+      "id": "Scout"
+    },
+    "Confirm": {
+      "btnName": "OK",
+      "id": "Confirm"
+    },
+    "ResourceSupport": {
+      "btnName": "Transport",
+      "id": "ResourceSupport"
+    },
+    "TempleBattle_Title": {
+      "btnName": "Title",
+      "id": "TempleBattle_Title"
+    },
+    "HeroRoadPersonRally": {
+      "btnName": "Rally",
+      "id": "HeroRoadPersonRally"
+    },
+    "EnterCity": {
+      "btnName": "Territory",
+      "id": "EnterCity"
+    },
+    "SecretHelp": {
+      "btnName": "Help",
+      "id": "SecretHelp"
+    },
+    "ChangeFacade": {
+      "btnName": "Skin",
+      "id": "ChangeFacade"
+    },
+    "UnionBossBeginChallenge": {
+      "btnName": "Challenge",
+      "id": "UnionBossBeginChallenge"
+    },
+    "March_SpeedUp": {
+      "btnName": "Speedup",
+      "id": "March_SpeedUp"
+    },
+    "TempleBattle_Scout": {
+      "btnName": "Scout",
+      "id": "TempleBattle_Scout"
+    },
+    "SendLetter": {
+      "btnName": "Chat",
+      "id": "SendLetter"
+    },
+    "Rank": {
+      "btnName": "Rank",
+      "id": "Rank"
+    },
+    "BurstBattle_Scout": {
+      "btnName": "Scout",
+      "id": "BurstBattle_Scout"
+    },
+    "RelocateRallyPoint": {
+      "btnName": "Assembly Point",
+      "id": "RelocateRallyPoint"
+    },
+    "MechCity_Scout": {
+      "btnName": "Scout",
+      "id": "MechCity_Scout"
+    },
+    "MechCity_Declare": {
+      "btnName": "Declare War",
+      "id": "MechCity_Declare"
+    },
+    "Relocate": {
+      "btnName": "Relocate",
+      "id": "Relocate"
+    },
+    "Rally": {
+      "btnName": "Rally",
+      "id": "Rally"
+    },
+    "BurstBattle_Mark": {
+      "id": "BurstBattle_Mark"
+    },
+    "BurstBattle_Attack": {
+      "btnName": "Attack",
+      "id": "BurstBattle_Attack"
+    },
+    "MechCity_AllAttack": {
+      "btnName": "All-Out Assault",
+      "id": "MechCity_AllAttack"
+    },
+    "WeekendBossRank": {
+      "btnName": "Rank",
+      "id": "WeekendBossRank"
+    },
+    "ReinforceArmy": {
+      "btnName": "Reinforce",
+      "id": "ReinforceArmy"
+    },
+    "Attack": {
+      "btnName": "Attack",
+      "id": "Attack"
+    },
+    "UnionBossGather": {
+      "btnName": "Rally",
+      "id": "UnionBossGather"
+    },
+    "SecretShare": {
+      "btnName": "Share",
+      "id": "SecretShare"
+    },
+    "UnionBossDonate": {
+      "btnName": "Donate",
+      "id": "UnionBossDonate"
+    },
+    "MechCity_Attack": {
+      "btnName": "Attack",
+      "id": "MechCity_Attack"
+    },
+    "CityStrengthen": {
+      "btnName": "Shield",
+      "id": "CityStrengthen"
+    },
+    "JoinAlliance": {
+      "btnName": "Help",
+      "id": "JoinAlliance"
+    },
+    "LordJob_tianfu_feixunchanchu": {
+      "btnName": "Eliminate",
+      "id": "LordJob_tianfu_feixunchanchu"
+    },
+    "TempleBattle_Notice": {
+      "btnName": "Notice",
+      "id": "TempleBattle_Notice"
+    },
+    "BurningFrost_Collect": {
+      "btnName": "Gather",
+      "id": "BurningFrost_Collect"
+    },
+    "BurningFrost_Back": {
+      "btnName": "Recall",
+      "id": "BurningFrost_Back"
+    },
+    "BurningFrost_Attack": {
+      "btnName": "Attack",
+      "id": "BurningFrost_Attack"
+    },
+    "BurningFrost_Scout": {
+      "btnName": "Scout",
+      "id": "BurningFrost_Scout"
+    },
+    "TempleBattle_Back": {
+      "btnName": "Recall",
+      "id": "TempleBattle_Back"
+    },
+    "InviteRelocate": {
+      "btnName": "Ask to Relocate",
+      "id": "InviteRelocate"
+    },
+    "TempleBattle_TroopDetail": {
+      "btnName": "Details",
+      "id": "TempleBattle_TroopDetail"
+    },
+    "TempleBattle_Reinforce": {
+      "btnName": "Reinforce",
+      "id": "TempleBattle_Reinforce"
+    },
+    "TempleBattle_Mass": {
+      "btnName": "Rally",
+      "id": "TempleBattle_Mass"
+    },
+    "Mass": {
+      "btnName": "Rally",
+      "id": "Mass"
+    },
+    "SecretPlunder": {
+      "btnName": "Plunder",
+      "id": "SecretPlunder"
+    },
+    "TempleBattle_State": {
+      "btnName": "Status",
+      "id": "TempleBattle_State"
+    },
+    "Search": {
+      "btnName": "Search",
+      "id": "Search"
+    },
+    "HeroRoadUnionRally": {
+      "btnName": "Rally",
+      "id": "HeroRoadUnionRally"
+    },
+    "TempleBattle_Info": {
+      "btnName": "Details",
+      "id": "TempleBattle_Info"
+    },
+    "BurstBattle_Info": {
+      "btnName": "Details",
+      "id": "BurstBattle_Info"
+    },
+    "TempleBattle_Reward": {
+      "btnName": "Reward",
+      "id": "TempleBattle_Reward"
+    },
+    "BurstBattle_Back": {
+      "btnName": "Recall",
+      "id": "BurstBattle_Back"
+    },
+    "UnionBossRelocate": {
+      "btnName": "Place",
+      "id": "UnionBossRelocate"
+    },
+    "PlayerDetails": {
+      "btnName": "Details",
+      "id": "PlayerDetails"
+    },
+    "BurstBattle_Reinforce": {
+      "btnName": "Reinforce",
+      "id": "BurstBattle_Reinforce"
+    },
+    "MechCity_Reinforce": {
+      "btnName": "Reinforce",
+      "id": "MechCity_Reinforce"
+    },
+    "MechCity_Rally": {
+      "btnName": "Rally",
+      "id": "MechCity_Rally"
+    },
+    "Emoji": {
+      "btnName": "Emoji",
+      "id": "Emoji"
+    },
+    "ResourceInfo": {
+      "btnName": "Info",
+      "id": "ResourceInfo"
+    },
+    "March_Recal": {
+      "btnName": "Recall",
+      "id": "March_Recal"
+    },
+    "Cancel": {
+      "btnName": "Cancel",
+      "id": "Cancel"
+    },
+    "MechCity_Abandon": {
+      "btnName": "Abandon",
+      "id": "MechCity_Abandon"
+    },
+    "BurstBattle_Mass": {
+      "btnName": "Rally",
+      "id": "BurstBattle_Mass"
+    },
+    "LordJob_tianfu": {
+      "btnName": "Specialty",
+      "id": "LordJob_tianfu"
+    },
+    "RadarUnionHelp": {
+      "btnName": "Help",
+      "id": "RadarUnionHelp"
+    },
+    "March_OtherPlayerDetails": {
+      "btnName": "Details",
+      "id": "March_OtherPlayerDetails"
+    },
+    "Favorite": {
+      "btnName": "Favorite",
+      "id": "Favorite"
+    },
+    "LookoverSupport": {
+      "btnName": "Reinforce",
+      "id": "LookoverSupport"
+    },
+    "CityFireHelp": {
+      "btnName": "Extinguish",
+      "id": "CityFireHelp"
+    },
+    "March_Info": {
+      "btnName": "Details",
+      "id": "March_Info"
+    },
+    "UnionDigCallBack": {
+      "btnName": "Recall",
+      "id": "UnionDigCallBack"
+    },
+    "March_Departure": {
+      "btnName": "Departure",
+      "id": "March_Departure"
+    },
+    "UnionDigSend": {
+      "btnName": "Excavate",
+      "id": "UnionDigSend"
+    },
+    "SecretExecute": {
+      "btnName": "Execute",
+      "id": "SecretExecute"
+    },
+    "Like": {
+      "btnName": "Like",
+      "id": "Like"
+    },
+    "TempleBattle_Attack": {
+      "btnName": "Attack",
+      "id": "TempleBattle_Attack"
+    },
+    "UnionBossRank": {
+      "btnName": "Rank",
+      "id": "UnionBossRank"
+    },
+    "UnionBossChallengeInfo": {
+      "btnName": "Reward",
+      "id": "UnionBossChallengeInfo"
+    },
+    "ReliefTroops": {
+      "btnName": "Reinforce",
+      "id": "ReliefTroops"
+    },
+    "RadarCollect": {
+      "btnName": "Collect",
+      "id": "RadarCollect"
+    },
+    "ResourceCollect": {
+      "btnName": "Gather",
+      "id": "ResourceCollect"
+    }
+  },
+  "len": 83,
+  "key": "id",
+  "source_format": "locale rows"
+}

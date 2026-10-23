@@ -1,0 +1,1036 @@
+{
+  "isNeedTransform": true,
+  "excelName": "World_WanderBOSS_大世界游荡怪",
+  "data": {
+    "6": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 6,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_rare"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 6,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "150"
+        }
+      }
+    },
+    "7": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 7,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_legendary"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 7,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "160"
+        }
+      }
+    },
+    "4": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 4,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_rare"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 4,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "130"
+        }
+      }
+    },
+    "5": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 5,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_rare"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 5,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "140"
+        }
+      }
+    },
+    "8": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 8,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 8,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "170"
+        }
+      }
+    },
+    "9": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 9,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 9,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "180"
+        }
+      }
+    },
+    "14": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 14,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 14,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "50"
+        }
+      }
+    },
+    "15": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 15,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 15,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "60"
+        }
+      }
+    },
+    "16": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 16,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 16,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "70"
+        }
+      }
+    },
+    "17": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 17,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 17,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "80"
+        }
+      }
+    },
+    "11": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 11,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 11,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "20"
+        }
+      }
+    },
+    "10": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 10,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 3,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 10,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "190"
+        }
+      }
+    },
+    "13": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 13,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 13,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "40"
+        }
+      }
+    },
+    "12": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 12,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 12,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "30"
+        }
+      }
+    },
+    "19": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 19,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Resource_strength001_50"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 19,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "100"
+        }
+      }
+    },
+    "28": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 28,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 28,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "500"
+        }
+      }
+    },
+    "27": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 27,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 27,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "400"
+        }
+      }
+    },
+    "26": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 26,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 26,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "350"
+        }
+      }
+    },
+    "25": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 25,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 25,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "300"
+        }
+      }
+    },
+    "24": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 24,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 24,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "250"
+        }
+      }
+    },
+    "23": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 23,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 23,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "200"
+        }
+      }
+    },
+    "22": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 22,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 22,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "150"
+        }
+      }
+    },
+    "21": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 21,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 21,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "100"
+        }
+      }
+    },
+    "20": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 20,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 20,
+          "type": 11
+        },
+        "2": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_train_5m"
+        },
+        "3": {
+          "count": 5,
+          "type": 99,
+          "id": "item_SpeedUp_cure_5m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 20,
+      "target": {
+        "1": {
+          "id": 90041,
+          "param1": "50"
+        }
+      }
+    },
+    "2": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 2,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_common"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 2,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "110"
+        }
+      }
+    },
+    "3": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 3,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_common"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 3,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "120"
+        }
+      }
+    },
+    "18": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 18,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 5,
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_general_5m"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_research_5m"
+        },
+        "4": {
+          "count": 3,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 0,
+      "showSort": 18,
+      "target": {
+        "1": {
+          "id": 90043,
+          "param1": "90"
+        }
+      }
+    },
+    "1": {
+      "functionId": "",
+      "taskGroupID": 4500107,
+      "id": 1,
+      "desc1": "",
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_worker_randomBox_common"
+        },
+        "2": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Metal_3"
+        },
+        "3": {
+          "count": 2,
+          "type": 99,
+          "id": "item_castleBox_Food_3"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "taskName": "",
+      "show_goto": 1,
+      "showSort": 1,
+      "target": {
+        "1": {
+          "id": 90042,
+          "param1": "100"
+        }
+      }
+    }
+  },
+  "len": 28,
+  "first": 1,
+  "key": "id"
+}

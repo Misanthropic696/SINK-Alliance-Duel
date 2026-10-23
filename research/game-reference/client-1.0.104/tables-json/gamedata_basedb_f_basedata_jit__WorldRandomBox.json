@@ -1,0 +1,44 @@
+{
+  "first": 1,
+  "len": 6,
+  "key": "id",
+  "enum": {
+    "TYPE": {
+      "CITYWAR": 1
+    }
+  },
+  "data": {
+    "2": {
+      "id": 2,
+      "modelId": 70002,
+      "rewardCount": 10
+    },
+    "1": {
+      "id": 1,
+      "modelId": 70002,
+      "rewardCount": 10
+    },
+    "4": {
+      "id": 4,
+      "modelId": 70002,
+      "rewardCount": 10
+    },
+    "3": {
+      "id": 3,
+      "modelId": 70002,
+      "rewardCount": 10
+    },
+    "6": {
+      "id": 6,
+      "modelId": 70002,
+      "rewardCount": 10
+    },
+    "5": {
+      "id": 5,
+      "modelId": 70002,
+      "rewardCount": 10
+    }
+  },
+  "excelName": "World_大世界",
+  "isNeedTransform": false
+}

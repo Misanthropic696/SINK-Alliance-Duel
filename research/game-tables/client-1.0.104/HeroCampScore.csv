@@ -1,0 +1,6 @@
+﻿record_key,des,min,max,id
+3,Our faction is evenly matched with the opposing faction.,-14,14,3
+4,Our faction hard counters the opposing faction.,15,19,4
+5,Our faction soft counters the opposing faction.,20,9999,5
+1,Our faction is hard countered by the opposing faction.,-9999,-20,1
+2,Our faction is soft countered by the opposing faction.,-19,-15,2

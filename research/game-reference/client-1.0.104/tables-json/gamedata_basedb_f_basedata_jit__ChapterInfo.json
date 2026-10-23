@@ -1,0 +1,478 @@
+{
+  "isNeedTransform": true,
+  "excelName": "Chapter_章节",
+  "len": 10,
+  "data": {
+    "10070": {
+      "chapterEnterAnim": "zhangjie007",
+      "Pic": "zhangjie007",
+      "chapterId": 7,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 70,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 50000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10070,
+      "dialogReward": ""
+    },
+    "10030": {
+      "chapterEnterAnim": "zhangjie003",
+      "Pic": "zhangjie003",
+      "chapterId": 3,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 50000,
+          "type": 1
+        },
+        "5": {
+          "count": 50000,
+          "type": 2
+        }
+      },
+      "name": "",
+      "id": 10030,
+      "dialogReward": ""
+    },
+    "10010": {
+      "chapterEnterAnim": "zhangjie001",
+      "Pic": "zhangjie001",
+      "chapterId": 1,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 0,
+      "isPopupsReward": 0,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 10,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 50000,
+          "type": 1
+        },
+        "5": {
+          "count": 50000,
+          "type": 2
+        },
+        "6": {
+          "count": 10,
+          "type": 99,
+          "id": "item_worker_poor_builder_4_chip"
+        }
+      },
+      "name": "",
+      "id": 10010,
+      "dialogReward": ""
+    },
+    "10050": {
+      "chapterEnterAnim": "zhangjie005",
+      "Pic": "zhangjie005",
+      "chapterId": 5,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 50,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 10000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10050,
+      "dialogReward": ""
+    },
+    "10040": {
+      "chapterEnterAnim": "zhangjie004",
+      "Pic": "zhangjie004",
+      "chapterId": 4,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 40,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 10000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10040,
+      "dialogReward": ""
+    },
+    "10090": {
+      "chapterEnterAnim": "zhangjie009",
+      "Pic": "zhangjie009",
+      "chapterId": 9,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 90,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 5,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 50000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10090,
+      "dialogReward": ""
+    },
+    "10020": {
+      "chapterEnterAnim": "zhangjie002",
+      "Pic": "zhangjie002",
+      "chapterId": 2,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 20,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 50000,
+          "type": 1
+        },
+        "5": {
+          "count": 50000,
+          "type": 2
+        }
+      },
+      "name": "",
+      "id": 10020,
+      "dialogReward": ""
+    },
+    "10100": {
+      "chapterEnterAnim": "zhangjie010",
+      "Pic": "zhangjie010",
+      "chapterId": 10,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 100,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 5,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 50000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10100,
+      "dialogReward": ""
+    },
+    "10060": {
+      "chapterEnterAnim": "zhangjie006",
+      "Pic": "zhangjie006",
+      "chapterId": 6,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 60,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 2,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 10000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        }
+      },
+      "name": "",
+      "id": 10060,
+      "dialogReward": ""
+    },
+    "10080": {
+      "chapterEnterAnim": "zhangjie008",
+      "Pic": "zhangjie008",
+      "chapterId": 8,
+      "target": {},
+      "chapterPlotNode": "",
+      "desc": "",
+      "isAutoPopup": 1,
+      "isPopupsReward": 1,
+      "title": "",
+      "unlockFogId": {},
+      "packageType": 1,
+      "reward": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_Box_gem_100"
+        },
+        "2": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_fragment_30003"
+        },
+        "3": {
+          "count": 80,
+          "type": 99,
+          "id": "item_SpeedUp_general_1m"
+        },
+        "4": {
+          "count": 5,
+          "type": 99,
+          "id": "item_drone_part"
+        },
+        "5": {
+          "count": 50000,
+          "type": 99,
+          "id": "item_drone_data"
+        },
+        "6": {
+          "count": 200,
+          "type": 98,
+          "id": "1001"
+        },
+        "7": {
+          "count": 40,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        }
+      },
+      "name": "",
+      "id": 10080,
+      "dialogReward": ""
+    }
+  },
+  "first": 10010,
+  "key": "id"
+}

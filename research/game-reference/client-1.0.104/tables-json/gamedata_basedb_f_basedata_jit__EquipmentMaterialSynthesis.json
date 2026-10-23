@@ -1,0 +1,63 @@
+{
+  "data": {
+    "4": {
+      "id": 4,
+      "reward": {
+        "1": {
+          "id": "item_equip_produce_materials_03",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "count": 4,
+      "itemId": "item_equip_produce_materials_02"
+    },
+    "3": {
+      "id": 3,
+      "reward": {
+        "1": {
+          "id": "item_equip_produce_materials_04",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "count": 4,
+      "itemId": "item_equip_produce_materials_03"
+    },
+    "5": {
+      "id": 5,
+      "reward": {
+        "1": {
+          "id": "item_equip_produce_materials_02",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "count": 4,
+      "itemId": "item_equip_produce_materials_01"
+    },
+    "2": {
+      "id": 2,
+      "reward": {
+        "1": {
+          "id": "item_equip_produce_materials_05",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "count": 4,
+      "itemId": "item_equip_produce_materials_04"
+    },
+    "1": {
+      "id": 1,
+      "reward": {},
+      "count": 0,
+      "itemId": "item_equip_produce_materials_05"
+    }
+  },
+  "isNeedTransform": false,
+  "key": "id",
+  "len": 5,
+  "excelName": "Equipment_新版装备",
+  "first": 1
+}

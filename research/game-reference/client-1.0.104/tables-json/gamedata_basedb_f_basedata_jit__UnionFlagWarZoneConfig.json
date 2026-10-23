@@ -1,0 +1,34 @@
+{
+  "first": 1,
+  "excelName": "Activity_AllianceCapture_峡谷争锋战",
+  "data": {
+    "5": {
+      "serverMaxDays": 999999,
+      "id": 5,
+      "serverMinDays": 241
+    },
+    "1": {
+      "serverMaxDays": 45,
+      "id": 1,
+      "serverMinDays": 1
+    },
+    "2": {
+      "serverMaxDays": 90,
+      "id": 2,
+      "serverMinDays": 46
+    },
+    "3": {
+      "serverMaxDays": 150,
+      "id": 3,
+      "serverMinDays": 91
+    },
+    "4": {
+      "serverMaxDays": 240,
+      "id": 4,
+      "serverMinDays": 151
+    }
+  },
+  "len": 5,
+  "key": "id",
+  "isNeedTransform": false
+}

@@ -1,0 +1,27 @@
+{
+  "isNeedTransform": true,
+  "len": 3,
+  "data": {
+    "2": {
+      "img": "Map_icon_collect_2",
+      "id": 2,
+      "prefab": "WorldMap/Prefab/Unit/Unit_Collect.prefab",
+      "name": ""
+    },
+    "3": {
+      "img": "Map_icon_collect_3",
+      "id": 3,
+      "prefab": "WorldMap/Prefab/Unit/Unit_Collect.prefab",
+      "name": ""
+    },
+    "1": {
+      "img": "Map_icon_collect_1",
+      "id": 1,
+      "prefab": "WorldMap/Prefab/Unit/Unit_Collect.prefab",
+      "name": ""
+    }
+  },
+  "first": 1,
+  "excelName": "MapResource_大地图资源",
+  "key": "id"
+}

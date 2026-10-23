@@ -1,0 +1,375 @@
+{
+  "first": 1,
+  "data": {
+    "4": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 10,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 4,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 20
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 30,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 500
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "3": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 5,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 3,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 16
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 15,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 200
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "2": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 5,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 2,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 12
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 15,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 200
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "1": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 5,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 1,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 8
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 15,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 200
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "9": {
+      "issueBanner": "img_lt_jd_banner_01",
+      "showNmae": 1,
+      "randomMin": 168,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 2,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "item_itemegg_newyear",
+      "eggClaimLimitId": 3,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 9,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 20
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 1088,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 8000
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 8,
+      "chairLuckyDse": ""
+    },
+    "8": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 168,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 1,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 2,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 8,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 999
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 1088,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 8000
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "7": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 25,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 7,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 30
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 75,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 1000
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "6": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 10,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 6,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 27
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 30,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 500
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    },
+    "5": {
+      "issueBanner": "",
+      "showNmae": 1,
+      "randomMin": 10,
+      "shareBg": "UI_Sprite/Others/GoldenEggRedPacket/redpacket_img_ 2.png",
+      "doubleCoefficient": 0,
+      "describe": "",
+      "eggType": 0,
+      "type": 2,
+      "multipleText": "",
+      "itemID": "",
+      "eggClaimLimitId": 1,
+      "coverBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "doubleNumber": 0,
+      "id": 5,
+      "target": {
+        "1": {
+          "param1": 1001,
+          "id": 20103,
+          "param2": 24
+        }
+      },
+      "shareOpenIcon": "icon_lt_jd",
+      "multipleIocn": "pic_lt_jd5_2",
+      "getBanner": "Icon_UI_Main_AllianceCompetition_02",
+      "luckyDse": "",
+      "randomMax": 30,
+      "title": "",
+      "shareCloseIcon": "icon_lt_jd",
+      "frequency": 20,
+      "reward": {
+        "1": {
+          "type": 11,
+          "count": 500
+        }
+      },
+      "luckyBanner": "pic_lt_jd4",
+      "referenceID": 0,
+      "chairLuckyDse": ""
+    }
+  },
+  "excelName": "GoldenEgg_金蛋表",
+  "enum": {
+    "EGGTYPE": {
+      "ZONECONTEST": 1,
+      "CASTLE": 0
+    }
+  },
+  "len": 9,
+  "key": "id",
+  "isNeedTransform": true
+}

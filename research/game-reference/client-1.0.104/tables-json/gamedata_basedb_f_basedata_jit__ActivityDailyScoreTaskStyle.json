@@ -1,0 +1,69 @@
+{
+  "data": {
+    "820040108": {
+      "imageList": {},
+      "sourceDesc2": "",
+      "screValueList": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "5": 10,
+        "6": 10,
+        "7": 10,
+        "8": 10
+      },
+      "perform": 1,
+      "sourceTitleIcon": "icon_shrjinhua",
+      "sourceTitle": "",
+      "showSource": false,
+      "id": 820040108,
+      "sourceDesc1": "",
+      "screTypeList": {
+        "1": 5,
+        "2": 6,
+        "3": 3,
+        "4": 4,
+        "5": 2,
+        "6": 5,
+        "7": 6,
+        "8": 3
+      }
+    },
+    "820030108": {
+      "imageList": {},
+      "sourceDesc2": "",
+      "screValueList": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "5": 10,
+        "6": 10,
+        "7": 10,
+        "8": 10
+      },
+      "perform": 1,
+      "sourceTitleIcon": "icon_shrjinhua",
+      "sourceTitle": "",
+      "showSource": false,
+      "id": 820030108,
+      "sourceDesc1": "",
+      "screTypeList": {
+        "1": 5,
+        "2": 6,
+        "3": 3,
+        "4": 4,
+        "5": 2,
+        "6": 5,
+        "7": 6,
+        "8": 3
+      }
+    }
+  },
+  "first": 820030108,
+  "key": "id",
+  "excelName": "Activity_DailyScoreTask每日积分活动任务",
+  "len": 2,
+  "isNeedTransform": true
+}

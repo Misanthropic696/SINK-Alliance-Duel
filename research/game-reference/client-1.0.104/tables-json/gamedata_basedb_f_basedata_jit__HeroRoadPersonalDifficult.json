@@ -1,0 +1,2909 @@
+{
+  "first": 1001,
+  "key": "id",
+  "data": {
+    "1016": {
+      "monster": 2116,
+      "id": 1016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5016": {
+      "monster": 2516,
+      "id": 5016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4016": {
+      "monster": 2416,
+      "id": 4016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3016": {
+      "monster": 2316,
+      "id": 3016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2016": {
+      "monster": 2216,
+      "id": 2016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9016": {
+      "monster": 2916,
+      "id": 9016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8016": {
+      "monster": 2816,
+      "id": 8016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7016": {
+      "monster": 2716,
+      "id": 7016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6016": {
+      "monster": 2616,
+      "id": 6016,
+      "summonGroup": 6,
+      "grade": 16,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10007": {
+      "monster": 3007,
+      "id": 10007,
+      "summonGroup": 7,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10008": {
+      "monster": 3008,
+      "id": 10008,
+      "summonGroup": 8,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11006": {
+      "monster": 3106,
+      "id": 11006,
+      "summonGroup": 6,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11007": {
+      "monster": 3107,
+      "id": 11007,
+      "summonGroup": 7,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11002": {
+      "monster": 3102,
+      "id": 11002,
+      "summonGroup": 2,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2029": {
+      "monster": 2229,
+      "id": 2029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1029": {
+      "monster": 2129,
+      "id": 1029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9023": {
+      "monster": 2923,
+      "id": 9023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8023": {
+      "monster": 2823,
+      "id": 8023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7023": {
+      "monster": 2723,
+      "id": 7023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6023": {
+      "monster": 2623,
+      "id": 6023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5023": {
+      "monster": 2523,
+      "id": 5023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4023": {
+      "monster": 2423,
+      "id": 4023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3023": {
+      "monster": 2323,
+      "id": 3023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2023": {
+      "monster": 2223,
+      "id": 2023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1023": {
+      "monster": 2123,
+      "id": 1023,
+      "summonGroup": 8,
+      "grade": 23,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7025": {
+      "monster": 2725,
+      "id": 7025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6025": {
+      "monster": 2625,
+      "id": 6025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5025": {
+      "monster": 2525,
+      "id": 5025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4025": {
+      "monster": 2425,
+      "id": 4025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3030": {
+      "monster": 2330,
+      "id": 3030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10002": {
+      "monster": 3002,
+      "id": 10002,
+      "summonGroup": 2,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5030": {
+      "monster": 2530,
+      "id": 5030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6030": {
+      "monster": 2630,
+      "id": 6030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11003": {
+      "monster": 3103,
+      "id": 11003,
+      "summonGroup": 3,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1030": {
+      "monster": 2130,
+      "id": 1030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2030": {
+      "monster": 2230,
+      "id": 2030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3025": {
+      "monster": 2325,
+      "id": 3025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2025": {
+      "monster": 2225,
+      "id": 2025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1025": {
+      "monster": 2125,
+      "id": 1025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10005": {
+      "monster": 3005,
+      "id": 10005,
+      "summonGroup": 5,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2007": {
+      "monster": 2207,
+      "id": 2007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3007": {
+      "monster": 2307,
+      "id": 3007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11001": {
+      "monster": 3101,
+      "id": 11001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5007": {
+      "monster": 2507,
+      "id": 5007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6007": {
+      "monster": 2607,
+      "id": 6007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10009": {
+      "monster": 3009,
+      "id": 10009,
+      "summonGroup": 9,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8007": {
+      "monster": 2807,
+      "id": 8007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9007": {
+      "monster": 2907,
+      "id": 9007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2014": {
+      "monster": 2214,
+      "id": 2014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1014": {
+      "monster": 2114,
+      "id": 1014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10003": {
+      "monster": 3003,
+      "id": 10003,
+      "summonGroup": 3,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2021": {
+      "monster": 2221,
+      "id": 2021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1021": {
+      "monster": 2121,
+      "id": 1021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4021": {
+      "monster": 2421,
+      "id": 4021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3021": {
+      "monster": 2321,
+      "id": 3021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2028": {
+      "monster": 2228,
+      "id": 2028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3028": {
+      "monster": 2328,
+      "id": 3028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4028": {
+      "monster": 2428,
+      "id": 4028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5028": {
+      "monster": 2528,
+      "id": 5028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6028": {
+      "monster": 2628,
+      "id": 6028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7028": {
+      "monster": 2728,
+      "id": 7028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11008": {
+      "monster": 3108,
+      "id": 11008,
+      "summonGroup": 8,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9028": {
+      "monster": 2928,
+      "id": 9028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3018": {
+      "monster": 2318,
+      "id": 3018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2018": {
+      "monster": 2218,
+      "id": 2018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5018": {
+      "monster": 2518,
+      "id": 5018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4018": {
+      "monster": 2418,
+      "id": 4018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2003": {
+      "monster": 2203,
+      "id": 2003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10001": {
+      "monster": 3001,
+      "id": 10001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4003": {
+      "monster": 2403,
+      "id": 4003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1028": {
+      "monster": 2128,
+      "id": 1028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1008": {
+      "monster": 2108,
+      "id": 1008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3008": {
+      "monster": 2308,
+      "id": 3008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2008": {
+      "monster": 2208,
+      "id": 2008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1018": {
+      "monster": 2118,
+      "id": 1018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4008": {
+      "monster": 2408,
+      "id": 4008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1017": {
+      "monster": 2117,
+      "id": 1017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2017": {
+      "monster": 2217,
+      "id": 2017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3017": {
+      "monster": 2317,
+      "id": 3017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2015": {
+      "monster": 2215,
+      "id": 2015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3015": {
+      "monster": 2315,
+      "id": 3015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6017": {
+      "monster": 2617,
+      "id": 6017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1015": {
+      "monster": 2115,
+      "id": 1015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3022": {
+      "monster": 2322,
+      "id": 3022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4022": {
+      "monster": 2422,
+      "id": 4022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4015": {
+      "monster": 2415,
+      "id": 4015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5015": {
+      "monster": 2515,
+      "id": 5015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1022": {
+      "monster": 2122,
+      "id": 1022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2022": {
+      "monster": 2222,
+      "id": 2022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9027": {
+      "monster": 2927,
+      "id": 9027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8027": {
+      "monster": 2827,
+      "id": 8027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9013": {
+      "monster": 2913,
+      "id": 9013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5013": {
+      "monster": 2513,
+      "id": 5013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6013": {
+      "monster": 2613,
+      "id": 6013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7013": {
+      "monster": 2713,
+      "id": 7013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8013": {
+      "monster": 2813,
+      "id": 8013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1013": {
+      "monster": 2113,
+      "id": 1013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2013": {
+      "monster": 2213,
+      "id": 2013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3013": {
+      "monster": 2313,
+      "id": 3013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1005": {
+      "monster": 2105,
+      "id": 1005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8026": {
+      "monster": 2826,
+      "id": 8026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9026": {
+      "monster": 2926,
+      "id": 9026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6026": {
+      "monster": 2626,
+      "id": 6026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7026": {
+      "monster": 2726,
+      "id": 7026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1026": {
+      "monster": 2126,
+      "id": 1026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4026": {
+      "monster": 2426,
+      "id": 4026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5026": {
+      "monster": 2526,
+      "id": 5026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2026": {
+      "monster": 2226,
+      "id": 2026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3026": {
+      "monster": 2326,
+      "id": 3026,
+      "summonGroup": 9,
+      "grade": 26,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1024": {
+      "monster": 2124,
+      "id": 1024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2024": {
+      "monster": 2224,
+      "id": 2024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11009": {
+      "monster": 3109,
+      "id": 11009,
+      "summonGroup": 9,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9024": {
+      "monster": 2924,
+      "id": 9024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9021": {
+      "monster": 2921,
+      "id": 9021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7024": {
+      "monster": 2724,
+      "id": 7024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8024": {
+      "monster": 2824,
+      "id": 8024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5024": {
+      "monster": 2524,
+      "id": 5024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5021": {
+      "monster": 2521,
+      "id": 5021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3024": {
+      "monster": 2324,
+      "id": 3024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4024": {
+      "monster": 2424,
+      "id": 4024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8014": {
+      "monster": 2814,
+      "id": 8014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7014": {
+      "monster": 2714,
+      "id": 7014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1004": {
+      "monster": 2104,
+      "id": 1004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2004": {
+      "monster": 2204,
+      "id": 2004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4014": {
+      "monster": 2414,
+      "id": 4014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3014": {
+      "monster": 2314,
+      "id": 3014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6014": {
+      "monster": 2614,
+      "id": 6014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5014": {
+      "monster": 2514,
+      "id": 5014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1027": {
+      "monster": 2127,
+      "id": 1027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8004": {
+      "monster": 2804,
+      "id": 8004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3027": {
+      "monster": 2327,
+      "id": 3027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2027": {
+      "monster": 2227,
+      "id": 2027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3004": {
+      "monster": 2304,
+      "id": 3004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4004": {
+      "monster": 2404,
+      "id": 4004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5004": {
+      "monster": 2504,
+      "id": 5004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6004": {
+      "monster": 2604,
+      "id": 6004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10006": {
+      "monster": 3006,
+      "id": 10006,
+      "summonGroup": 6,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6005": {
+      "monster": 2605,
+      "id": 6005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7005": {
+      "monster": 2705,
+      "id": 7005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4005": {
+      "monster": 2405,
+      "id": 4005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10010": {
+      "monster": 3010,
+      "id": 10010,
+      "summonGroup": 10,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8005": {
+      "monster": 2805,
+      "id": 8005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9005": {
+      "monster": 2905,
+      "id": 9005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4001": {
+      "monster": 2401,
+      "id": 4001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3001": {
+      "monster": 2301,
+      "id": 3001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2001": {
+      "monster": 2201,
+      "id": 2001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1001": {
+      "monster": 2101,
+      "id": 1001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7011": {
+      "monster": 2711,
+      "id": 7011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8011": {
+      "monster": 2811,
+      "id": 8011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5011": {
+      "monster": 2511,
+      "id": 5011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6011": {
+      "monster": 2611,
+      "id": 6011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3011": {
+      "monster": 2311,
+      "id": 3011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4006": {
+      "monster": 2406,
+      "id": 4006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1011": {
+      "monster": 2111,
+      "id": 1011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2006": {
+      "monster": 2206,
+      "id": 2006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9006": {
+      "monster": 2906,
+      "id": 9006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8006": {
+      "monster": 2806,
+      "id": 8006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7006": {
+      "monster": 2706,
+      "id": 7006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6006": {
+      "monster": 2606,
+      "id": 6006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1006": {
+      "monster": 2106,
+      "id": 1006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9001": {
+      "monster": 2901,
+      "id": 9001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8001": {
+      "monster": 2801,
+      "id": 8001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7001": {
+      "monster": 2701,
+      "id": 7001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6001": {
+      "monster": 2601,
+      "id": 6001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5001": {
+      "monster": 2501,
+      "id": 5001,
+      "summonGroup": 1,
+      "grade": 1,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6012": {
+      "monster": 2612,
+      "id": 6012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5012": {
+      "monster": 2512,
+      "id": 5012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11005": {
+      "monster": 3105,
+      "id": 11005,
+      "summonGroup": 5,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3012": {
+      "monster": 2312,
+      "id": 3012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2012": {
+      "monster": 2212,
+      "id": 2012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1012": {
+      "monster": 2112,
+      "id": 1012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5002": {
+      "monster": 2502,
+      "id": 5002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6002": {
+      "monster": 2602,
+      "id": 6002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3002": {
+      "monster": 2302,
+      "id": 3002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4002": {
+      "monster": 2402,
+      "id": 4002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1002": {
+      "monster": 2102,
+      "id": 1002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2002": {
+      "monster": 2202,
+      "id": 2002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8012": {
+      "monster": 2812,
+      "id": 8012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7012": {
+      "monster": 2712,
+      "id": 7012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9002": {
+      "monster": 2902,
+      "id": 9002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7002": {
+      "monster": 2702,
+      "id": 7002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8002": {
+      "monster": 2802,
+      "id": 8002,
+      "summonGroup": 1,
+      "grade": 2,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11004": {
+      "monster": 3104,
+      "id": 11004,
+      "summonGroup": 4,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9030": {
+      "monster": 2930,
+      "id": 9030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8028": {
+      "monster": 2828,
+      "id": 8028,
+      "summonGroup": 10,
+      "grade": 28,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9025": {
+      "monster": 2925,
+      "id": 9025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "10004": {
+      "monster": 3004,
+      "id": 10004,
+      "summonGroup": 4,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 10,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9022": {
+      "monster": 2922,
+      "id": 9022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8030": {
+      "monster": 2830,
+      "id": 8030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9019": {
+      "monster": 2919,
+      "id": 9019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9018": {
+      "monster": 2918,
+      "id": 9018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9017": {
+      "monster": 2917,
+      "id": 9017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9015": {
+      "monster": 2915,
+      "id": 9015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9014": {
+      "monster": 2914,
+      "id": 9014,
+      "summonGroup": 5,
+      "grade": 14,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9012": {
+      "monster": 2912,
+      "id": 9012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9011": {
+      "monster": 2911,
+      "id": 9011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6022": {
+      "monster": 2622,
+      "id": 6022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2005": {
+      "monster": 2205,
+      "id": 2005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2020": {
+      "monster": 2220,
+      "id": 2020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3020": {
+      "monster": 2320,
+      "id": 3020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9008": {
+      "monster": 2908,
+      "id": 9008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1020": {
+      "monster": 2120,
+      "id": 1020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6020": {
+      "monster": 2620,
+      "id": 6020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7020": {
+      "monster": 2720,
+      "id": 7020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4020": {
+      "monster": 2420,
+      "id": 4020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5020": {
+      "monster": 2520,
+      "id": 5020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9004": {
+      "monster": 2904,
+      "id": 9004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9003": {
+      "monster": 2903,
+      "id": 9003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8020": {
+      "monster": 2820,
+      "id": 8020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9020": {
+      "monster": 2920,
+      "id": 9020,
+      "summonGroup": 7,
+      "grade": 20,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8025": {
+      "monster": 2825,
+      "id": 8025,
+      "summonGroup": 9,
+      "grade": 25,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9029": {
+      "monster": 2929,
+      "id": 9029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8029": {
+      "monster": 2829,
+      "id": 8029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7029": {
+      "monster": 2729,
+      "id": 7029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6029": {
+      "monster": 2629,
+      "id": 6029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5029": {
+      "monster": 2529,
+      "id": 5029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4029": {
+      "monster": 2429,
+      "id": 4029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3029": {
+      "monster": 2329,
+      "id": 3029,
+      "summonGroup": 10,
+      "grade": 29,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8022": {
+      "monster": 2822,
+      "id": 8022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8021": {
+      "monster": 2821,
+      "id": 8021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3005": {
+      "monster": 2305,
+      "id": 3005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8018": {
+      "monster": 2818,
+      "id": 8018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8017": {
+      "monster": 2817,
+      "id": 8017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8015": {
+      "monster": 2815,
+      "id": 8015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6021": {
+      "monster": 2621,
+      "id": 6021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5008": {
+      "monster": 2508,
+      "id": 5008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8008": {
+      "monster": 2808,
+      "id": 8008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8003": {
+      "monster": 2803,
+      "id": 8003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7030": {
+      "monster": 2730,
+      "id": 7030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7027": {
+      "monster": 2727,
+      "id": 7027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7022": {
+      "monster": 2722,
+      "id": 7022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7021": {
+      "monster": 2721,
+      "id": 7021,
+      "summonGroup": 7,
+      "grade": 21,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3003": {
+      "monster": 2303,
+      "id": 3003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7018": {
+      "monster": 2718,
+      "id": 7018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7017": {
+      "monster": 2717,
+      "id": 7017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7015": {
+      "monster": 2715,
+      "id": 7015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7010": {
+      "monster": 2710,
+      "id": 7010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5006": {
+      "monster": 2506,
+      "id": 5006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7008": {
+      "monster": 2708,
+      "id": 7008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7007": {
+      "monster": 2707,
+      "id": 7007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7004": {
+      "monster": 2704,
+      "id": 7004,
+      "summonGroup": 2,
+      "grade": 4,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7003": {
+      "monster": 2703,
+      "id": 7003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "11010": {
+      "monster": 3110,
+      "id": 11010,
+      "summonGroup": 10,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 11,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6010": {
+      "monster": 2610,
+      "id": 6010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5010": {
+      "monster": 2510,
+      "id": 5010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4010": {
+      "monster": 2410,
+      "id": 4010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6027": {
+      "monster": 2627,
+      "id": 6027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6024": {
+      "monster": 2624,
+      "id": 6024,
+      "summonGroup": 8,
+      "grade": 24,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9010": {
+      "monster": 2910,
+      "id": 9010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8010": {
+      "monster": 2810,
+      "id": 8010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2011": {
+      "monster": 2211,
+      "id": 2011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6018": {
+      "monster": 2618,
+      "id": 6018,
+      "summonGroup": 6,
+      "grade": 18,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6015": {
+      "monster": 2615,
+      "id": 6015,
+      "summonGroup": 5,
+      "grade": 15,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5005": {
+      "monster": 2505,
+      "id": 5005,
+      "summonGroup": 2,
+      "grade": 5,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6008": {
+      "monster": 2608,
+      "id": 6008,
+      "summonGroup": 3,
+      "grade": 8,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6003": {
+      "monster": 2603,
+      "id": 6003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5027": {
+      "monster": 2527,
+      "id": 5027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5022": {
+      "monster": 2522,
+      "id": 5022,
+      "summonGroup": 8,
+      "grade": 22,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "9009": {
+      "monster": 2909,
+      "id": 9009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 9,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5017": {
+      "monster": 2517,
+      "id": 5017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7009": {
+      "monster": 2709,
+      "id": 7009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8009": {
+      "monster": 2809,
+      "id": 8009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5009": {
+      "monster": 2509,
+      "id": 5009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6009": {
+      "monster": 2609,
+      "id": 6009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3009": {
+      "monster": 2309,
+      "id": 3009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4009": {
+      "monster": 2409,
+      "id": 4009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5003": {
+      "monster": 2503,
+      "id": 5003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4030": {
+      "monster": 2430,
+      "id": 4030,
+      "summonGroup": 10,
+      "grade": 30,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4027": {
+      "monster": 2427,
+      "id": 4027,
+      "summonGroup": 9,
+      "grade": 27,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1007": {
+      "monster": 2107,
+      "id": 1007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3010": {
+      "monster": 2310,
+      "id": 3010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2010": {
+      "monster": 2210,
+      "id": 2010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1010": {
+      "monster": 2110,
+      "id": 1010,
+      "summonGroup": 4,
+      "grade": 10,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4017": {
+      "monster": 2417,
+      "id": 4017,
+      "summonGroup": 6,
+      "grade": 17,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2019": {
+      "monster": 2219,
+      "id": 2019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1019": {
+      "monster": 2119,
+      "id": 1019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4013": {
+      "monster": 2413,
+      "id": 4013,
+      "summonGroup": 5,
+      "grade": 13,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4012": {
+      "monster": 2412,
+      "id": 4012,
+      "summonGroup": 4,
+      "grade": 12,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4011": {
+      "monster": 2411,
+      "id": 4011,
+      "summonGroup": 4,
+      "grade": 11,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4007": {
+      "monster": 2407,
+      "id": 4007,
+      "summonGroup": 3,
+      "grade": 7,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1003": {
+      "monster": 2103,
+      "id": 1003,
+      "summonGroup": 1,
+      "grade": 3,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3006": {
+      "monster": 2306,
+      "id": 3006,
+      "summonGroup": 2,
+      "grade": 6,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "1009": {
+      "monster": 2109,
+      "id": 1009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 1,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "2009": {
+      "monster": 2209,
+      "id": 2009,
+      "summonGroup": 3,
+      "grade": 9,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 2,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "8019": {
+      "monster": 2819,
+      "id": 8019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 8,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "7019": {
+      "monster": 2719,
+      "id": 7019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 7,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "6019": {
+      "monster": 2619,
+      "id": 6019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 6,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "5019": {
+      "monster": 2519,
+      "id": 5019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 5,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "4019": {
+      "monster": 2419,
+      "id": 4019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 4,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    },
+    "3019": {
+      "monster": 2319,
+      "id": 3019,
+      "summonGroup": 7,
+      "grade": 19,
+      "monsterUIRotate": "[0,180,0]",
+      "difficult": 3,
+      "monsterUIOffset": "[0,0,0]",
+      "monsterUIScale": "[1,1.6]"
+    }
+  },
+  "excelName": "Activity_HeroRoad_勇者之路",
+  "len": 290,
+  "isNeedTransform": false
+}

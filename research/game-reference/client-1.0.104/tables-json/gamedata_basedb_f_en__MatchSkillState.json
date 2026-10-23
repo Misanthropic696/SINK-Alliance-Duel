@@ -1,0 +1,485 @@
+{
+  "data": {
+    "106001": {
+      "desc": "hero_attributeDes_36",
+      "buffTips": "bat_buff_silent",
+      "id": 106001,
+      "debuffTips": "bat_buff_silent",
+      "name": "hero_attribute_29"
+    },
+    "102002": {
+      "buffTips": "bat_buff_HPRecovery",
+      "id": 102002,
+      "desc": "hero_attributeDes_33",
+      "name": "hero_attribute_24"
+    },
+    "300003": {
+      "id": 300003,
+      "desc": "hero_attribute_37",
+      "name": "hero_attribute_50"
+    },
+    "101203": {
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101203,
+      "desc": "hero_attributeDes_05",
+      "name": "hero_attribute_05"
+    },
+    "101307": {
+      "id": 101307,
+      "desc": "hero_attributeDes_29",
+      "name": "hero_attribute_23"
+    },
+    "101305": {
+      "id": 101305,
+      "desc": "hero_attributeDes_26",
+      "name": "hero_attribute_19"
+    },
+    "101008": {
+      "desc": "hero_attributeDes_14",
+      "buffTips": "bat_buff_healUp",
+      "id": 101008,
+      "debuffTips": "bat_buff_healDown",
+      "name": "hero_attribute_14"
+    },
+    "117001": {
+      "id": 117001,
+      "desc": "hero_attribute_40",
+      "name": "hero_attribute_40"
+    },
+    "200004": {
+      "id": 200004,
+      "desc": "hero_attributeDes_49",
+      "name": "hero_attribute_30"
+    },
+    "101011": {
+      "buffTips": "bat_buff_RageRecovery",
+      "id": 101011,
+      "desc": "hero_attributeDes_18",
+      "name": "hero_attribute_18"
+    },
+    "101102": {
+      "desc": "hero_attributeDes_02",
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101102,
+      "debuffTips": "bat_buff_DEFDown",
+      "name": "hero_attribute_02"
+    },
+    "104001": {
+      "desc": "hero_attributeDes_35",
+      "buffTips": "bat_buff_burn",
+      "id": 104001,
+      "debuffTips": "bat_buff_burn",
+      "name": "hero_attribute_26"
+    },
+    "109001": {
+      "id": 109001,
+      "desc": "hero_attributeDes_37",
+      "name": "hero_attribute_32"
+    },
+    "101308": {
+      "id": 101308,
+      "desc": "hero_attributeDes_30",
+      "name": "hero_attribute_23"
+    },
+    "114002": {
+      "debuffTips": "bat_buff_rageBan",
+      "id": 114002,
+      "desc": "hero_attributeDes_39",
+      "name": "hero_attribute_37"
+    },
+    "101204": {
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101204,
+      "desc": "hero_attributeDes_06",
+      "name": "hero_attribute_06"
+    },
+    "101107": {
+      "id": 101107,
+      "desc": "hero_attributeDes_13",
+      "name": "hero_attribute_13"
+    },
+    "101001": {
+      "desc": "hero_attributeDes_01",
+      "buffTips": "bat_buff_ATKUp",
+      "id": 101001,
+      "debuffTips": "bat_buff_ATKDown",
+      "name": "hero_attribute_01"
+    },
+    "111001": {
+      "id": 111001,
+      "desc": "hero_attributeDes_47",
+      "name": "hero_attribute_34"
+    },
+    "1010081": {
+      "desc": "hero_attributeDes_14",
+      "buffTips": "bat_buff_healUp",
+      "id": 1010081,
+      "debuffTips": "bat_buff_healDown",
+      "name": "hero_attribute_14"
+    },
+    "200001": {
+      "id": 200001,
+      "desc": "hero_attributeDes_44",
+      "name": "hero_attribute_17"
+    },
+    "101111": {
+      "buffTips": "bat_buff_RageRecovery",
+      "id": 101111,
+      "desc": "hero_attributeDes_18",
+      "name": "hero_attribute_18"
+    },
+    "114001": {
+      "debuffTips": "bat_buff_rageBan",
+      "id": 114001,
+      "desc": "hero_attribute_37",
+      "name": "hero_attribute_37"
+    },
+    "101205": {
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101205,
+      "desc": "hero_attributeDes_07",
+      "name": "hero_attribute_07"
+    },
+    "103001": {
+      "desc": "hero_attributeDes_34",
+      "buffTips": "bat_buff_poison",
+      "id": 103001,
+      "debuffTips": "bat_buff_poison",
+      "name": "hero_attribute_25"
+    },
+    "101301": {
+      "id": 101301,
+      "desc": "hero_attributeDes_22",
+      "name": "hero_attribute_19"
+    },
+    "101310": {
+      "id": 101310,
+      "desc": "hero_attributeDes_32",
+      "name": "hero_attribute_23"
+    },
+    "118001": {
+      "id": 118001,
+      "desc": "hero_attribute_41",
+      "name": "hero_attribute_41"
+    },
+    "119001": {
+      "id": 119001,
+      "desc": "hero_attribute_42",
+      "name": "hero_attribute_42"
+    },
+    "101101": {
+      "desc": "hero_attributeDes_01",
+      "buffTips": "bat_buff_ATKUp",
+      "id": 101101,
+      "debuffTips": "bat_buff_ATKDown",
+      "name": "hero_attribute_01"
+    },
+    "200002": {
+      "id": 200002,
+      "desc": "hero_attributeDes_45",
+      "name": "hero_attribute_17"
+    },
+    "112001": {
+      "id": 112001,
+      "desc": "hero_attributeDes_48",
+      "name": "hero_attribute_35"
+    },
+    "600201": {
+      "id": 600201,
+      "desc": "hero_attributeDes_38",
+      "name": "hero_attribute_53"
+    },
+    "121001": {
+      "id": 121001,
+      "desc": "hero_attributeDes_41",
+      "name": "hero_attribute_44"
+    },
+    "101202": {
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101202,
+      "desc": "hero_attributeDes_04",
+      "name": "hero_attribute_04"
+    },
+    "101013": {
+      "id": 101013,
+      "desc": "hero_attributeDes_27",
+      "name": "hero_attribute_23"
+    },
+    "101105": {
+      "buffTips": "bat_buff_dodgeUp",
+      "id": 101105,
+      "desc": "hero_attributeDes_10",
+      "name": "hero_attribute_10"
+    },
+    "101106": {
+      "buffTips": "bat_buff_critUp",
+      "id": 101106,
+      "desc": "hero_attributeDes_11",
+      "name": "hero_attribute_11"
+    },
+    "101005": {
+      "buffTips": "bat_buff_dodgeUp",
+      "id": 101005,
+      "desc": "hero_attributeDes_10",
+      "name": "hero_attribute_10"
+    },
+    "124001": {
+      "id": 124001,
+      "desc": "hero_attributeDes_51",
+      "name": "hero_attribute_52"
+    },
+    "101116": {
+      "id": 101116,
+      "desc": "hero_attributeDes_21",
+      "name": "hero_attribute_21"
+    },
+    "101007": {
+      "id": 101007,
+      "desc": "hero_attributeDes_13",
+      "name": "hero_attribute_13"
+    },
+    "300004": {
+      "id": 300004,
+      "desc": "hero_attributeDes_11",
+      "name": "hero_attribute_51"
+    },
+    "105002": {
+      "buffTips": "bat_buff_paralysis",
+      "id": 105002,
+      "desc": "hero_attribute_28",
+      "name": "hero_attribute_28"
+    },
+    "300002": {
+      "id": 300002,
+      "desc": "hero_attributeDes_01",
+      "name": "hero_attribute_49"
+    },
+    "300001": {
+      "id": 300001,
+      "desc": "hero_attributeDes_50",
+      "name": "hero_attribute_48"
+    },
+    "200003": {
+      "id": 200003,
+      "desc": "hero_attributeDes_36",
+      "name": "hero_attribute_29"
+    },
+    "101201": {
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101201,
+      "desc": "hero_attributeDes_03",
+      "name": "hero_attribute_03"
+    },
+    "123003": {
+      "id": 123003,
+      "desc": "hero_attributeDes_43",
+      "name": "hero_attribute_18"
+    },
+    "101002": {
+      "desc": "hero_attributeDes_02",
+      "buffTips": "bat_buff_DEFUp",
+      "id": 101002,
+      "debuffTips": "bat_buff_DEFDown",
+      "name": "hero_attribute_02"
+    },
+    "101014": {
+      "id": 101014,
+      "desc": "hero_attributeDes_20",
+      "name": "hero_attribute_20"
+    },
+    "123002": {
+      "buffTips": "bat_buff_RageRecovery",
+      "id": 123002,
+      "desc": "hero_attributeDes_18",
+      "name": "hero_attribute_18"
+    },
+    "110001": {
+      "buffTips": "bat_buff_counterAttack",
+      "id": 110001,
+      "desc": "hero_attributeDes_46",
+      "name": "hero_attribute_33"
+    },
+    "122001": {
+      "id": 122001,
+      "desc": "hero_attributeDes_42",
+      "name": "hero_attribute_45"
+    },
+    "101006": {
+      "buffTips": "bat_buff_critUp",
+      "id": 101006,
+      "desc": "hero_attributeDes_11",
+      "name": "hero_attribute_11"
+    },
+    "101302": {
+      "id": 101302,
+      "desc": "hero_attributeDes_23",
+      "name": "hero_attribute_19"
+    },
+    "120001": {
+      "id": 120001,
+      "desc": "hero_attributeDes_40",
+      "name": "hero_attribute_43"
+    },
+    "113002": {
+      "name": "hero_attribute_36",
+      "id": 113002
+    },
+    "116001": {
+      "id": 116001,
+      "desc": "hero_attribute_39",
+      "name": "hero_attribute_39"
+    },
+    "101004": {
+      "desc": "hero_attributeDes_09",
+      "buffTips": "bat_buff_hitRateDown",
+      "id": 101004,
+      "debuffTips": "bat_buff_hitRateDown",
+      "name": "hero_attribute_09"
+    },
+    "101015": {
+      "id": 101015,
+      "desc": "hero_attributeDes_21",
+      "name": "hero_attribute_21"
+    },
+    "101109": {
+      "desc": "hero_attributeDes_16",
+      "buffTips": "bat_buff_RageUp",
+      "id": 101109,
+      "debuffTips": "bat_buff_RageDown",
+      "name": "hero_attribute_16"
+    },
+    "115002": {
+      "id": 115002,
+      "desc": "hero_attribute_38",
+      "name": "hero_attribute_38"
+    },
+    "101309": {
+      "id": 101309,
+      "desc": "hero_attributeDes_31",
+      "name": "hero_attribute_23"
+    },
+    "101103": {
+      "id": 101103,
+      "desc": "hero_attributeDes_08",
+      "name": "hero_attribute_08"
+    },
+    "101003": {
+      "id": 101003,
+      "desc": "hero_attributeDes_08",
+      "name": "hero_attribute_08"
+    },
+    "1010061": {
+      "buffTips": "bat_buff_critUp",
+      "id": 1010061,
+      "desc": "hero_attributeDes_11",
+      "name": "hero_attribute_11"
+    },
+    "115001": {
+      "id": 115001,
+      "desc": "hero_attribute_38",
+      "name": "hero_attribute_38"
+    },
+    "114003": {
+      "debuffTips": "bat_buff_rageBan",
+      "id": 114003,
+      "desc": "hero_attribute_37",
+      "name": "hero_attribute_37"
+    },
+    "101303": {
+      "id": 101303,
+      "desc": "hero_attributeDes_24",
+      "name": "hero_attribute_19"
+    },
+    "113001": {
+      "debuffTips": "bat_buff_poison",
+      "id": 113001,
+      "desc": "hero_attributeDes_38",
+      "name": "hero_attribute_36"
+    },
+    "101114": {
+      "id": 101114,
+      "desc": "hero_attributeDes_20",
+      "name": "hero_attribute_20"
+    },
+    "123001": {
+      "buffTips": "bat_buff_RageRecovery",
+      "id": 123001,
+      "desc": "hero_attributeDes_18",
+      "name": "hero_attribute_18"
+    },
+    "101115": {
+      "id": 101115,
+      "desc": "hero_attributeDes_21",
+      "name": "hero_attribute_21"
+    },
+    "109002": {
+      "id": 109002,
+      "desc": "hero_attributeDes_37",
+      "name": "hero_attribute_32"
+    },
+    "101010": {
+      "id": 101010,
+      "desc": "hero_attributeDes_17",
+      "name": "hero_attribute_17"
+    },
+    "108001": {
+      "buffTips": "bat_buff_shareDmg",
+      "id": 108001,
+      "desc": "hero_attribute_31",
+      "name": "hero_attribute_31"
+    },
+    "107001": {
+      "id": 107001,
+      "desc": "hero_attribute_30",
+      "name": "hero_attribute_30"
+    },
+    "101104": {
+      "id": 101104,
+      "desc": "hero_attributeDes_09",
+      "name": "hero_attribute_09"
+    },
+    "105001": {
+      "buffTips": "bat_buff_dizzy",
+      "id": 105001,
+      "desc": "hero_attribute_27",
+      "name": "hero_attribute_27"
+    },
+    "101110": {
+      "id": 101110,
+      "desc": "hero_attributeDes_17",
+      "name": "hero_attribute_17"
+    },
+    "101108": {
+      "desc": "hero_attributeDes_14",
+      "buffTips": "bat_buff_healUp",
+      "id": 101108,
+      "debuffTips": "bat_buff_healDown",
+      "name": "hero_attribute_14"
+    },
+    "101009": {
+      "desc": "hero_attributeDes_16",
+      "buffTips": "bat_buff_RageUp",
+      "id": 101009,
+      "debuffTips": "bat_buff_RageDown",
+      "name": "hero_attribute_16"
+    },
+    "101306": {
+      "id": 101306,
+      "desc": "hero_attributeDes_28",
+      "name": "hero_attribute_23"
+    },
+    "101304": {
+      "id": 101304,
+      "desc": "hero_attributeDes_25",
+      "name": "hero_attribute_19"
+    },
+    "101012": {
+      "id": 101012,
+      "desc": "hero_attributeDes_19",
+      "name": "hero_attribute_19"
+    }
+  },
+  "len": 86,
+  "key": "id",
+  "source_format": "locale rows"
+}

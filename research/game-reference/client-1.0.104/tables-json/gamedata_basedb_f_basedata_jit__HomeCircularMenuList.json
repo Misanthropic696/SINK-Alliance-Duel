@@ -1,0 +1,308 @@
+{
+  "excelName": "H-环形菜单",
+  "key": "id",
+  "data": {
+    "PVPSlg": {
+      "btnIcon": "City_Btn_TroopsFight_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PVPSlg"
+    },
+    "Smithy": {
+      "btnIcon": "City_Btn_WeaponWorkshop_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Smithy"
+    },
+    "UAVSkillClipHome": {
+      "btnIcon": "City_Btn_WeaponWorkshop_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "UAVSkillClipHome"
+    },
+    "Scout": {
+      "btnIcon": "Icon_UI_Bubble_Prophet_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Scout"
+    },
+    "Assist": {
+      "btnIcon": "City_Btn_Assist_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Assist"
+    },
+    "Rally": {
+      "btnIcon": "City_Btn_Assemble_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Rally"
+    },
+    "CityGain": {
+      "btnIcon": "City_Btn_CastleBuff_menu",
+      "sortIndex": 200,
+      "btnName": "",
+      "id": "CityGain"
+    },
+    "PVPShop": {
+      "btnIcon": "City_Btn_ExchangeShop_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PVPShop"
+    },
+    "LordJob": {
+      "btnIcon": "City_Btn_zhuangchangdating",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "LordJob"
+    },
+    "Expedition": {
+      "btnIcon": "City_Btn_Honorexpedition_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Expedition"
+    },
+    "Arrange": {
+      "btnIcon": "City_Btn_Deploy_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Arrange"
+    },
+    "Appearance": {
+      "btnIcon": "Map_Btn_CastleSkin_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Appearance"
+    },
+    "Training": {
+      "btnIcon": "Icon_UI_Bubble_woundedSoldier_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Training"
+    },
+    "CureSpeed": {
+      "btnIcon": "City_Btn_Speed_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "CureSpeed"
+    },
+    "BuildingSpeed": {
+      "btnIcon": "City_Btn_Speed_menu",
+      "sortIndex": 400,
+      "btnName": "",
+      "id": "BuildingSpeed"
+    },
+    "AEBattle": {
+      "btnIcon": "City_Btn_ArmyAdd_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "AEBattle"
+    },
+    "WorkerOverView": {
+      "btnIcon": "Map_Btn_WorkerOverview_menu",
+      "sortIndex": 600,
+      "btnName": "",
+      "id": "WorkerOverView"
+    },
+    "BuildingSwitch": {
+      "btnIcon": "City_Btn_Switch_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "BuildingSwitch"
+    },
+    "ParadeFomation": {
+      "btnIcon": "City_Btn_ArmyEdit_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "ParadeFomation"
+    },
+    "GoTo": {
+      "btnIcon": "City_Btn_Goto_02_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "GoTo"
+    },
+    "LordJobzhudongjineng": {
+      "btnIcon": "City_Btn_zhuangchangjineng",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "LordJobzhudongjineng"
+    },
+    "Info": {
+      "btnIcon": "City_Btn_Info_menu",
+      "sortIndex": 100,
+      "btnName": "",
+      "id": "Info"
+    },
+    "UnlockBuildQueue": {
+      "btnIcon": "Map_Btn_Worker3_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "UnlockBuildQueue"
+    },
+    "Confirm": {
+      "btnIcon": "City_Btn_Confirm_menu",
+      "sortIndex": 300,
+      "btnName": "",
+      "id": "Confirm"
+    },
+    "Worker": {
+      "btnIcon": "Map_Btn_Worker_menu",
+      "sortIndex": 1000,
+      "btnName": "",
+      "id": "Worker"
+    },
+    "MissileCenterHonorWall": {
+      "btnIcon": "City_Btn_rongyuqiang_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "MissileCenterHonorWall"
+    },
+    "Drone_Common": {
+      "btnIcon": "City_Btn_Shenghuaren_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Drone_Common"
+    },
+    "Cancel": {
+      "btnIcon": "City_Btn_Cancel_menu",
+      "sortIndex": 100,
+      "btnName": "",
+      "id": "Cancel"
+    },
+    "TrialTower": {
+      "btnIcon": "City_Btn_TowerOfTrials_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "TrialTower"
+    },
+    "PVP1v1": {
+      "btnIcon": "City_Btn_SingleBattle_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PVP1v1"
+    },
+    "AllianceWar": {
+      "btnIcon": "City_Btn_Alliance_War",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "AllianceWar"
+    },
+    "TransportRes": {
+      "btnIcon": "City_Btn_Traffic_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "TransportRes"
+    },
+    "TrainingSpeed": {
+      "btnIcon": "City_Btn_Speed_menu",
+      "sortIndex": 400,
+      "btnName": "",
+      "id": "TrainingSpeed"
+    },
+    "TechSpeed": {
+      "btnIcon": "City_Btn_Speed_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "TechSpeed"
+    },
+    "PubExchange": {
+      "btnIcon": "City_Btn_Integral_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PubExchange"
+    },
+    "TechResearch": {
+      "btnIcon": "City_Btn_Research_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "TechResearch"
+    },
+    "UpgradeSoldierSpeed": {
+      "btnIcon": "City_Btn_Speed_menu",
+      "sortIndex": 400,
+      "btnName": "",
+      "id": "UpgradeSoldierSpeed"
+    },
+    "CityDefense": {
+      "btnIcon": "City_Btn_Protect_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "CityDefense"
+    },
+    "SoldierShelter": {
+      "btnIcon": "City_Btn_zhaomu_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "SoldierShelter"
+    },
+    "ParadeDetail": {
+      "btnIcon": "Map_Btn_Promotion_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "ParadeDetail"
+    },
+    "Cure": {
+      "btnIcon": "City_Btn_Treat_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "Cure"
+    },
+    "Drone_Remind": {
+      "btnIcon": "City_Btn_Shenghuaren_menu",
+      "sortIndex": 600,
+      "btnName": "",
+      "id": "Drone_Remind"
+    },
+    "ReliefTroops": {
+      "btnIcon": "City_Btn_ArmyAdd_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "ReliefTroops"
+    },
+    "PubRecruit": {
+      "btnIcon": "City_Btn_Recruit_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PubRecruit"
+    },
+    "PVP3v3": {
+      "btnIcon": "City_Btn_SingleTop500_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "PVP3v3"
+    },
+    "VStation": {
+      "btnIcon": "City_Btn_TowerOfTrials_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "VStation"
+    },
+    "Mecha": {
+      "btnIcon": "Map_Btn_Worker_menu",
+      "sortIndex": 1000,
+      "btnName": "",
+      "id": "Mecha"
+    },
+    "TankCenterHonorWall": {
+      "btnIcon": "City_Btn_rongyuqiang_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "TankCenterHonorWall"
+    },
+    "UpLevel": {
+      "btnIcon": "City_Btn_Upgrade_menu",
+      "sortIndex": 300,
+      "btnName": "",
+      "id": "UpLevel"
+    },
+    "AircraftCenterHonorWall": {
+      "btnIcon": "City_Btn_rongyuqiang_menu",
+      "sortIndex": 500,
+      "btnName": "",
+      "id": "AircraftCenterHonorWall"
+    }
+  },
+  "len": 50,
+  "isNeedTransform": true
+}

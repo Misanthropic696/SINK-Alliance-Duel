@@ -1,0 +1,1569 @@
+{
+  "key": "id",
+  "len": 60,
+  "data": {
+    "9999961": {
+      "id": 9999961,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Purple.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 1.14,
+        "2": 0.55,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20011": {
+      "id": 20011,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero10/EF_Hero10_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999967": {
+      "id": 9999967,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Blue.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": -1.59,
+        "2": 0.41,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20016": {
+      "id": 20016,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero9/EF_Hero9_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20012": {
+      "id": 20012,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero10/EF_Hero10_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 9,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999978": {
+      "id": 9999978,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_kuangyan01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0.25,
+        "3": 0
+      },
+      "scale": {
+        "1": 0.7,
+        "2": 0.7,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20019": {
+      "id": 20019,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Hit/EF_daojuqiutuowei01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 1.5,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20009": {
+      "id": 20009,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero12_jineng_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999980": {
+      "id": 9999980,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_xinbingguang01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999979": {
+      "id": 9999979,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_shizi01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": -0.08,
+        "2": 0.26,
+        "3": 0
+      },
+      "scale": {
+        "1": 0.35,
+        "2": 0.35,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999971": {
+      "id": 9999971,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_jijiayanjiusuoquanxi01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0.05,
+        "2": 0.4,
+        "3": 0
+      },
+      "scale": {
+        "1": 0.8,
+        "2": 0.8,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20023": {
+      "id": 20023,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Buff_baoqi01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 10,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20004": {
+      "id": 20004,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Dead/EF_Hero17_S_Buff01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "10004": {
+      "id": 10004,
+      "followScale": true,
+      "isUseBattleEntity": true,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Tank_tuiche.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20007": {
+      "id": 20007,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Dead/EF_Hero17_S_Buff01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 10,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999969": {
+      "id": 9999969,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Blue.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": -1.13,
+        "2": 1.13,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999970": {
+      "id": 9999970,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Blue.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 1.76,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999966": {
+      "id": 9999966,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_DeepHospial.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999968": {
+      "id": 9999968,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Blue.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": -0.68,
+        "2": 0.88,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20015": {
+      "id": 20015,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero9/EF_Hero9_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 7,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20017": {
+      "id": 20017,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Hit/EF_daojuqiutuowei01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 2,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20014": {
+      "id": 20014,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero9/EF_Hero9_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "10000001": {
+      "id": 10000001,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_defeat.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "",
+      "type": 0,
+      "time": 2,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20010": {
+      "id": 20010,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero12_jineng_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 9,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "10001": {
+      "id": 10001,
+      "followScale": true,
+      "isUseBattleEntity": true,
+      "name": "Prefab/Effect/Battle_Effect/Character/Hit/EF_Diancizhadan_hit.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "behit_chest_1",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999962": {
+      "id": 9999962,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_Building_Fountain.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999963": {
+      "id": 9999963,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_Artifact.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20028": {
+      "id": 20028,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero24_S_Buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "10003": {
+      "id": 10003,
+      "followScale": true,
+      "isUseBattleEntity": true,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Tank03_yanwu_Weapon.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Weapon",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20003": {
+      "id": 20003,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero12_jineng_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20005": {
+      "id": 20005,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Dead/EF_Hero17_S_Buff01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20022": {
+      "id": 20022,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero11_jineng01_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20018": {
+      "id": 20018,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Hit/EF_daojuqiutuowei01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 1.5,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999958": {
+      "id": 9999958,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/FX_UI_Rookie_Connect_04.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999957": {
+      "id": 9999957,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/FX_UI_Rookie_Connect_03.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999956": {
+      "id": 9999956,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/FX_UI_Rookie_Connect_02.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999955": {
+      "id": 9999955,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/FX_UI_Rookie_Connect_01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999954": {
+      "id": 9999954,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_Rookie_OpenBox.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999959": {
+      "id": 9999959,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_Rookie_CountDown.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 2,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "1000002": {
+      "id": 1000002,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/EF_wupinhuanrao02.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 11.89,
+        "3": 0
+      },
+      "scale": {
+        "1": 50,
+        "2": 50,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20025": {
+      "id": 20025,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero24_S_Buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20013": {
+      "id": 20013,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero9/EF_Hero9_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 5,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20020": {
+      "id": 20020,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero11_jineng01_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999953": {
+      "id": 9999953,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/FX_UI_Rookie_Chapter_Sweep.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 2,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20006": {
+      "id": 20006,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Dead/EF_Hero17_S_Buff01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 9,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20027": {
+      "id": 20027,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero23_Skill_02.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 8,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20026": {
+      "id": 20026,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero23_Skill_02.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 7,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999983": {
+      "id": 9999983,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/EF_Map_ronglu01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "1000005": {
+      "id": 1000005,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/EF_tianfukaiqi01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 80,
+        "2": 80,
+        "3": 80
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20021": {
+      "id": 20021,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero11_jineng01_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 7,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20024": {
+      "id": 20024,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero23_Skill_02.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 6,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999965": {
+      "id": 9999965,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_WeaponWorkShop.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20029": {
+      "id": 20029,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero24_S_Buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 10,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "1000004": {
+      "id": 1000004,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/EF_tianfushengji01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 100,
+        "2": 100,
+        "3": 100
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "10002": {
+      "id": 10002,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero11_jineng01_buff_kaidun.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 1.2
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20008": {
+      "id": 20008,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero12_jineng_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 7,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "9999960": {
+      "id": 9999960,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Map_Effect/FX_Scene_CrystalGlow_Purple.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0.32,
+        "2": 0.03,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20002": {
+      "id": 20002,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/Character/Skill/EF_Hero11_jineng01_buff.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 5,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "20001": {
+      "id": 20001,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/Battle_Effect/EF_Hero10/EF_Hero10_jineng01_1.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "scale": {
+        "1": 1,
+        "2": 1,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": 7,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    },
+    "1000003": {
+      "id": 1000003,
+      "followScale": true,
+      "isUseBattleEntity": false,
+      "name": "Prefab/Effect/UI_Effect/EF_wupinhuanrao01.prefab",
+      "delayTime": 0,
+      "positionOffset": {
+        "1": 0,
+        "2": 11.89,
+        "3": 0
+      },
+      "scale": {
+        "1": 50,
+        "2": 50,
+        "3": 1
+      },
+      "bone": "Root",
+      "type": 0,
+      "time": -1,
+      "rotationOffset": {
+        "1": 0,
+        "2": 0,
+        "3": 0
+      },
+      "param": {}
+    }
+  },
+  "first": 10001,
+  "excelName": "EffectConfig_特效配置",
+  "isNeedTransform": false
+}

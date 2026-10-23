@@ -1,0 +1,31 @@
+{
+  "data": {
+    "2001": {
+      "desc": "Construct Builder's Hut",
+      "id": 2001
+    },
+    "1003": {
+      "desc": "Collect Stars",
+      "id": 1003
+    },
+    "1002": {
+      "desc": "Collect Grain once",
+      "id": 1002
+    },
+    "1004": {
+      "desc": "Collect Timber once",
+      "id": 1004
+    },
+    "2002": {
+      "desc": "Upgrade Sanctuary to Lv.4",
+      "id": 2002
+    },
+    "1001": {
+      "desc": "Expel the Rats",
+      "id": 1001
+    }
+  },
+  "len": 6,
+  "key": "id",
+  "source_format": "locale rows"
+}

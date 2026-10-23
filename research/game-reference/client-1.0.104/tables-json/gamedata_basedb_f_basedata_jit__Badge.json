@@ -1,0 +1,45 @@
+{
+  "key": "id",
+  "len": 4,
+  "data": {
+    "4": {
+      "iconName": "pic_city_4_1",
+      "itemid": "treasure_map_debris_4",
+      "atlas": "Zombie_Temple_Icon",
+      "obtainOrder": 1001,
+      "quality": 5,
+      "id": 4,
+      "defeatBadge": 0
+    },
+    "1": {
+      "iconName": "pic_city_1_1",
+      "itemid": "treasure_map_debris_1",
+      "atlas": "Zombie_Temple_Icon",
+      "obtainOrder": 0,
+      "quality": 5,
+      "id": 1,
+      "defeatBadge": 1
+    },
+    "2": {
+      "iconName": "pic_city_2_1",
+      "itemid": "treasure_map_debris_2",
+      "atlas": "Zombie_Temple_Icon",
+      "obtainOrder": 999,
+      "quality": 5,
+      "id": 2,
+      "defeatBadge": 0
+    },
+    "3": {
+      "iconName": "pic_city_3_1",
+      "itemid": "treasure_map_debris_3",
+      "atlas": "Zombie_Temple_Icon",
+      "obtainOrder": 1000,
+      "quality": 5,
+      "id": 3,
+      "defeatBadge": 0
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "Badge_徽章表"
+}

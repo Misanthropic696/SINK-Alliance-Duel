@@ -1,0 +1,149 @@
+{
+  "len": 7,
+  "excelName": "Building_建筑",
+  "first": 1,
+  "isNeedTransform": false,
+  "data": {
+    "2": {
+      "needWin": 0,
+      "modelPosition": "30,-15,0",
+      "battleHero": "40002_1|10006_4|",
+      "id": 2,
+      "BattleEf": "",
+      "monsterNumber": 8,
+      "modelResourcePath": "Role/NPC_F/laoshu_01/laoshu_01_city.prefab",
+      "npcConfig": {},
+      "modelRotation": "",
+      "battleId": 1002,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "3"
+        }
+      }
+    },
+    "3": {
+      "needWin": 0,
+      "modelPosition": "14,-24.5,0",
+      "battleHero": "40002_1|10006_4|",
+      "id": 3,
+      "BattleEf": "",
+      "monsterNumber": 8,
+      "modelResourcePath": "Role/NPC_F/laoshu_01/laoshu_01_city.prefab",
+      "npcConfig": {},
+      "modelRotation": "",
+      "battleId": 1003,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "4"
+        }
+      }
+    },
+    "4": {
+      "needWin": 0,
+      "modelPosition": "30.32,-26.27,0",
+      "battleHero": "40002_1|10006_4|",
+      "id": 4,
+      "BattleEf": "",
+      "monsterNumber": 0,
+      "modelResourcePath": "Scenes/CityScene/MonopolyModels/boss_29/boss_29_prefab.prefab",
+      "npcConfig": {},
+      "modelRotation": "",
+      "battleId": 1004,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "1"
+        }
+      }
+    },
+    "5": {
+      "needWin": 1,
+      "modelPosition": "21.03,-42.59,-30",
+      "battleHero": "",
+      "id": 5,
+      "BattleEf": "0,1.5,0",
+      "monsterNumber": 0,
+      "modelResourcePath": "Effects/City/Momopoly_npc_boss/boss1.prefab",
+      "npcConfig": {},
+      "modelRotation": "1.6,-55.35223,6.2429,-1.734161",
+      "battleId": 1005,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "1"
+        }
+      }
+    },
+    "6": {
+      "needWin": 1,
+      "modelPosition": "15.98,-41.44,-30",
+      "battleHero": "",
+      "id": 6,
+      "BattleEf": "0,0.5,0",
+      "monsterNumber": 0,
+      "modelResourcePath": "Effects/City/Momopoly_npc_boss/boss2.prefab",
+      "npcConfig": {},
+      "modelRotation": "1.2,-26.78403,63.41307,-27.2356",
+      "battleId": 1006,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "1"
+        }
+      }
+    },
+    "7": {
+      "needWin": 1,
+      "modelPosition": "25.81,-41.74,21.53",
+      "battleHero": "",
+      "id": 7,
+      "BattleEf": "0,0.8,0",
+      "monsterNumber": 0,
+      "modelResourcePath": "Effects/City/Momopoly_npc_boss/boss3.prefab",
+      "npcConfig": {},
+      "modelRotation": "1.3,-46.87643,-26.82089,14.69966",
+      "battleId": 1007,
+      "dialogId": "",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "1"
+        }
+      }
+    },
+    "1": {
+      "needWin": 0,
+      "modelPosition": "39,-17,0",
+      "battleHero": "10006_4|",
+      "id": 1,
+      "BattleEf": "",
+      "monsterNumber": 8,
+      "modelResourcePath": "Role/NPC_F/laoshu_01/laoshu_01_city.prefab",
+      "npcConfig": {},
+      "modelRotation": "",
+      "battleId": 1001,
+      "dialogId": "101",
+      "disCond": {
+        "1": {
+          "param1": "1001",
+          "id": 20103,
+          "param2": "2"
+        }
+      }
+    }
+  },
+  "key": "id"
+}

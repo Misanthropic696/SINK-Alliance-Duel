@@ -1,0 +1,3154 @@
+{
+  "isNeedTransform": true,
+  "excelName": "SevenDay_求生之路",
+  "key": "id",
+  "first": 10014101,
+  "data": {
+    "10034202": {
+      "descParams": {
+        "1": {
+          "param1": 6
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_camp",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "16",
+          "id": "20107",
+          "param2": "6"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10034202,
+      "desc": "",
+      "scheduleMaxValue": 6
+    },
+    "10014301": {
+      "descParams": {
+        "1": {
+          "param1": 1
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "Monopoly_dangqian",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1010",
+          "id": 80029
+        }
+      },
+      "day": 1,
+      "scheduleShow": 0,
+      "showSort": 1,
+      "id": 10014301,
+      "desc": "",
+      "scheduleMaxValue": 0
+    },
+    "10014305": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "Monopoly_dangqian",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "8008",
+          "id": 80029
+        }
+      },
+      "day": 1,
+      "scheduleShow": 0,
+      "showSort": 5,
+      "id": 10014305,
+      "desc": "",
+      "scheduleMaxValue": 0
+    },
+    "10054203": {
+      "descParams": {
+        "1": {
+          "param1": 500000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "500000",
+          "id": "30107"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10054203,
+      "desc": "",
+      "scheduleMaxValue": 500000
+    },
+    "10024303": {
+      "descParams": {
+        "1": {
+          "param1": 1
+        },
+        "2": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_hero",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "30102",
+          "param2": "50"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10024303,
+      "desc": "",
+      "scheduleMaxValue": 1
+    },
+    "10034103": {
+      "descParams": {
+        "1": {
+          "param1": 300
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_train",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "300",
+          "id": "20305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10034103,
+      "desc": "",
+      "scheduleMaxValue": 300
+    },
+    "10034303": {
+      "descParams": {
+        "1": {
+          "param1": 100
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_help",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_18k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "100",
+          "id": "50101",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10034303,
+      "desc": "",
+      "scheduleMaxValue": 100
+    },
+    "10024105": {
+      "descParams": {
+        "1": {
+          "param1": 110
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_radar",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "110",
+          "id": "200060",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10024105,
+      "desc": "",
+      "scheduleMaxValue": 110
+    },
+    "10054101": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "12000_03",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "10105",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10054101,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10054205": {
+      "descParams": {
+        "1": {
+          "param1": 2000000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "2000000",
+          "id": "30107"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10054205,
+      "desc": "",
+      "scheduleMaxValue": 2000000
+    },
+    "10024104": {
+      "descParams": {
+        "1": {
+          "param1": 70
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_radar",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "70",
+          "id": "200060",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10024104,
+      "desc": "",
+      "scheduleMaxValue": 70
+    },
+    "10024305": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        },
+        "2": {
+          "param1": 80
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_hero",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_food_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "30102",
+          "param2": "80"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10024305,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10044201": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "2_5036",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "200401"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10044201,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10044302": {
+      "descParams": {
+        "1": {
+          "param1": 20
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_recruit",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "20",
+          "id": "60702",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10044302,
+      "desc": "",
+      "scheduleMaxValue": 20
+    },
+    "10014202": {
+      "descParams": {
+        "1": {
+          "param1": 6
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_headquarter",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "20107",
+          "param2": "6"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10014202,
+      "desc": "",
+      "scheduleMaxValue": 6
+    },
+    "10034204": {
+      "descParams": {
+        "1": {
+          "param1": 14
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_camp",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "16",
+          "id": "20107",
+          "param2": "14"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10034204,
+      "desc": "",
+      "scheduleMaxValue": 14
+    },
+    "10034201": {
+      "descParams": {
+        "1": {
+          "param1": 3
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_camp",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "16",
+          "id": "20107",
+          "param2": "3"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10034201,
+      "desc": "",
+      "scheduleMaxValue": 3
+    },
+    "10034301": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_help",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_6k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "50101",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10034301,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10024205": {
+      "descParams": {
+        "1": {
+          "param1": 20
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "sevendays_tutorial_arena",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "20",
+          "id": "16009",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10024205,
+      "desc": "",
+      "scheduleMaxValue": 20
+    },
+    "10054305": {
+      "descParams": {
+        "1": {
+          "param1": 3000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_30k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "3000",
+          "id": "60305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10054305,
+      "desc": "",
+      "scheduleMaxValue": 3000
+    },
+    "10024301": {
+      "descParams": {
+        "1": {
+          "param1": 1
+        },
+        "2": {
+          "param1": 30
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_hero",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "30102",
+          "param2": "30"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10024301,
+      "desc": "",
+      "scheduleMaxValue": 1
+    },
+    "10014304": {
+      "descParams": {
+        "1": {
+          "param1": 4
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "Monopoly_dangqian",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "6003",
+          "id": 80029
+        }
+      },
+      "day": 1,
+      "scheduleShow": 0,
+      "showSort": 4,
+      "id": 10014304,
+      "desc": "",
+      "scheduleMaxValue": 0
+    },
+    "10014101": {
+      "descParams": {
+        "1": {
+          "param1": 1
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "70801"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10014101,
+      "desc": "",
+      "scheduleMaxValue": 1
+    },
+    "10044202": {
+      "descParams": {
+        "1": {
+          "param1": 15
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "2_5036",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "200401"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10044202,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10014205": {
+      "descParams": {
+        "1": {
+          "param1": 17
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_headquarter",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "20107",
+          "param2": "17"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10014205,
+      "desc": "",
+      "scheduleMaxValue": 17
+    },
+    "10044103": {
+      "descParams": {
+        "1": {
+          "param1": 15
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_tech",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "15",
+          "id": "20204",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10044103,
+      "desc": "",
+      "scheduleMaxValue": 15
+    },
+    "10054303": {
+      "descParams": {
+        "1": {
+          "param1": 500
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_18k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "500",
+          "id": "60305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10054303,
+      "desc": "",
+      "scheduleMaxValue": 500
+    },
+    "10044301": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_recruit",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "60702",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10044301,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10054304": {
+      "descParams": {
+        "1": {
+          "param1": 1000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_18k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1000",
+          "id": "60305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10054304,
+      "desc": "",
+      "scheduleMaxValue": 1000
+    },
+    "10034102": {
+      "descParams": {
+        "1": {
+          "param1": 100
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_train",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "100",
+          "id": "20305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10034102,
+      "desc": "",
+      "scheduleMaxValue": 100
+    },
+    "10014204": {
+      "descParams": {
+        "1": {
+          "param1": 14
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_headquarter",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_4",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "20107",
+          "param2": "14"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10014204,
+      "desc": "",
+      "scheduleMaxValue": 14
+    },
+    "10024101": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_radar",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "200060",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10024101,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10024202": {
+      "descParams": {
+        "1": {
+          "param1": 6
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "sevendays_tutorial_arena",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "6",
+          "id": "16009",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10024202,
+      "desc": "",
+      "scheduleMaxValue": 6
+    },
+    "10034105": {
+      "descParams": {
+        "1": {
+          "param1": 1200
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_train",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1200",
+          "id": "20305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10034105,
+      "desc": "",
+      "scheduleMaxValue": 1200
+    },
+    "10034305": {
+      "descParams": {
+        "1": {
+          "param1": 300
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_help",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_30k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "300",
+          "id": "50101",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10034305,
+      "desc": "",
+      "scheduleMaxValue": 300
+    },
+    "10014102": {
+      "descParams": {
+        "1": {
+          "param1": 2
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "2",
+          "id": "70801"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10014102,
+      "desc": "",
+      "scheduleMaxValue": 2
+    },
+    "10054103": {
+      "descParams": {
+        "1": {
+          "param1": 20
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "12000_03",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "20",
+          "id": "10105",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10054103,
+      "desc": "",
+      "scheduleMaxValue": 20
+    },
+    "10044101": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_tech",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "20204",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10044101,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10054202": {
+      "descParams": {
+        "1": {
+          "param1": 200000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "200000",
+          "id": "30107"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10054202,
+      "desc": "",
+      "scheduleMaxValue": 200000
+    },
+    "10014201": {
+      "descParams": {
+        "1": {
+          "param1": 3
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_headquarter",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_optionalBox_Resource",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "20107",
+          "param2": "3"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10014201,
+      "desc": "",
+      "scheduleMaxValue": 3
+    },
+    "10044104": {
+      "descParams": {
+        "1": {
+          "param1": 30
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_tech",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "30",
+          "id": "20204",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10044104,
+      "desc": "",
+      "scheduleMaxValue": 30
+    },
+    "10024204": {
+      "descParams": {
+        "1": {
+          "param1": 15
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "sevendays_tutorial_arena",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "15",
+          "id": "16009",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10024204,
+      "desc": "",
+      "scheduleMaxValue": 15
+    },
+    "10054301": {
+      "descParams": {
+        "1": {
+          "param1": 100
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_6k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "100",
+          "id": "60305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10054301,
+      "desc": "",
+      "scheduleMaxValue": 100
+    },
+    "10024201": {
+      "descParams": {
+        "1": {
+          "param1": 3
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "sevendays_tutorial_arena",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "3",
+          "id": "16009",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10024201,
+      "desc": "",
+      "scheduleMaxValue": 3
+    },
+    "10014105": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "70801"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10014105,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10054201": {
+      "descParams": {
+        "1": {
+          "param1": 100000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "100000",
+          "id": "30107"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10054201,
+      "desc": "",
+      "scheduleMaxValue": 100000
+    },
+    "10014103": {
+      "descParams": {
+        "1": {
+          "param1": 3
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "3",
+          "id": "70801"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10014103,
+      "desc": "",
+      "scheduleMaxValue": 3
+    },
+    "10044102": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_tech",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "15",
+          "id": "20204",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10044102,
+      "desc": "",
+      "scheduleMaxValue": 15
+    },
+    "10024103": {
+      "descParams": {
+        "1": {
+          "param1": 40
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_radar",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "40",
+          "id": "200060",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10024103,
+      "desc": "",
+      "scheduleMaxValue": 40
+    },
+    "10054105": {
+      "descParams": {
+        "1": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "12000_03",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "50",
+          "id": "10105",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10054105,
+      "desc": "",
+      "scheduleMaxValue": 50
+    },
+    "10054104": {
+      "descParams": {
+        "1": {
+          "param1": 30
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "12000_03",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "30",
+          "id": "10105",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10054104,
+      "desc": "",
+      "scheduleMaxValue": 30
+    },
+    "10024203": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "sevendays_tutorial_arena",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "16009",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10024203,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10054102": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "12000_03",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "10",
+          "id": "10105",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10054102,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10044305": {
+      "descParams": {
+        "1": {
+          "param1": 150
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_recruit",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "150",
+          "id": "60702",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10044305,
+      "desc": "",
+      "scheduleMaxValue": 150
+    },
+    "10044304": {
+      "descParams": {
+        "1": {
+          "param1": 100
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_recruit",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "100",
+          "id": "60702",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10044304,
+      "desc": "",
+      "scheduleMaxValue": 100
+    },
+    "10014303": {
+      "descParams": {
+        "1": {
+          "param1": 3
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "Monopoly_dangqian",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "3010",
+          "id": 80029
+        }
+      },
+      "day": 1,
+      "scheduleShow": 0,
+      "showSort": 3,
+      "id": 10014303,
+      "desc": "",
+      "scheduleMaxValue": 0
+    },
+    "10024302": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        },
+        "2": {
+          "param1": 30
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_hero",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "30102",
+          "param2": "30"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10024302,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10044303": {
+      "descParams": {
+        "1": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_recruit",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "50",
+          "id": "60702",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10044303,
+      "desc": "",
+      "scheduleMaxValue": 50
+    },
+    "10044205": {
+      "descParams": {
+        "1": {
+          "param1": 30
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "2_5036",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "30",
+          "id": "200401"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10044205,
+      "desc": "",
+      "scheduleMaxValue": 30
+    },
+    "10044204": {
+      "descParams": {
+        "1": {
+          "param1": 25
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "2_5036",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "count": 3,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "20",
+          "id": "200401"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10044204,
+      "desc": "",
+      "scheduleMaxValue": 20
+    },
+    "10014104": {
+      "descParams": {
+        "1": {
+          "param1": 4
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "4",
+          "id": "70801"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10014104,
+      "desc": "",
+      "scheduleMaxValue": 4
+    },
+    "10044203": {
+      "descParams": {
+        "1": {
+          "param1": 20
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "2_5036",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "15",
+          "id": "200401"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10044203,
+      "desc": "",
+      "scheduleMaxValue": 15
+    },
+    "10044105": {
+      "descParams": {
+        "1": {
+          "param1": 60
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_tech",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "60",
+          "id": "20204",
+          "includeHistory": "True"
+        }
+      },
+      "day": 4,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10044105,
+      "desc": "",
+      "scheduleMaxValue": 60
+    },
+    "10014302": {
+      "descParams": {
+        "1": {
+          "param1": 2
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "Monopoly_dangqian",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "2010",
+          "id": 80029
+        }
+      },
+      "day": 1,
+      "scheduleShow": 0,
+      "showSort": 2,
+      "id": 10014302,
+      "desc": "",
+      "scheduleMaxValue": 0
+    },
+    "10054302": {
+      "descParams": {
+        "1": {
+          "param1": 200
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_6k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "200",
+          "id": "60305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10054302,
+      "desc": "",
+      "scheduleMaxValue": 200
+    },
+    "10034304": {
+      "descParams": {
+        "1": {
+          "param1": 200
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_help",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_18k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "200",
+          "id": "50101",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10034304,
+      "desc": "",
+      "scheduleMaxValue": 200
+    },
+    "10034104": {
+      "descParams": {
+        "1": {
+          "param1": 600
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_train",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "600",
+          "id": "20305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10034104,
+      "desc": "",
+      "scheduleMaxValue": 600
+    },
+    "10034302": {
+      "descParams": {
+        "1": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_help",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_steel_6k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "50",
+          "id": "50101",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10034302,
+      "desc": "",
+      "scheduleMaxValue": 50
+    },
+    "10014203": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_headquarter",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_4",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1",
+          "id": "20107",
+          "param2": "10"
+        }
+      },
+      "day": 1,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10014203,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10034203": {
+      "descParams": {
+        "1": {
+          "param1": 10
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_camp",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 4,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_15m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "16",
+          "id": "20107",
+          "param2": "10"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 3,
+      "id": 10034203,
+      "desc": "",
+      "scheduleMaxValue": 10
+    },
+    "10034101": {
+      "descParams": {
+        "1": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_train",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_wood_10k",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 5000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "50",
+          "id": "20305",
+          "includeHistory": "True"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 1,
+      "id": 10034101,
+      "desc": "",
+      "scheduleMaxValue": 50
+    },
+    "10024304": {
+      "descParams": {
+        "1": {
+          "param1": 5
+        },
+        "2": {
+          "param1": 50
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_hero",
+      "showType": 3,
+      "reward": {
+        "1": {
+          "id": "item_food_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "5",
+          "id": "30102",
+          "param2": "50"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10024304,
+      "desc": "",
+      "scheduleMaxValue": 5
+    },
+    "10054204": {
+      "descParams": {
+        "1": {
+          "param1": 1000000
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_30k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "1000000",
+          "id": "30107"
+        }
+      },
+      "day": 5,
+      "scheduleShow": 1,
+      "showSort": 4,
+      "id": 10054204,
+      "desc": "",
+      "scheduleMaxValue": 1000000
+    },
+    "10024102": {
+      "descParams": {
+        "1": {
+          "param1": 20
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_radar",
+      "showType": 1,
+      "reward": {
+        "1": {
+          "id": "item_food_10k",
+          "count": 6,
+          "type": 99
+        },
+        "2": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 15000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "20",
+          "id": "200060",
+          "includeHistory": "True"
+        }
+      },
+      "day": 2,
+      "scheduleShow": 1,
+      "showSort": 2,
+      "id": 10024102,
+      "desc": "",
+      "scheduleMaxValue": 20
+    },
+    "10034205": {
+      "descParams": {
+        "1": {
+          "param1": 17
+        }
+      },
+      "typeDesc": "",
+      "score": 10,
+      "pointSourceID": "sevenday",
+      "functionId": "rookieQuest_camp",
+      "showType": 2,
+      "reward": {
+        "1": {
+          "id": "item_wood_50k",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "count": 100000,
+          "type": 5
+        }
+      },
+      "taskType": 4,
+      "target": {
+        "1": {
+          "param1": "16",
+          "id": "20107",
+          "param2": "17"
+        }
+      },
+      "day": 3,
+      "scheduleShow": 1,
+      "showSort": 5,
+      "id": 10034205,
+      "desc": "",
+      "scheduleMaxValue": 17
+    }
+  },
+  "len": 75
+}

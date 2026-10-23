@@ -1,0 +1,43 @@
+﻿record_key,buildDes,id,attrs,attrsTranslate,cfgName
+5044,Increases Warrior Hero's counter effect against Warlock Hero.,5044,"{""1"": ""heavyHeroSoldierLoadAddValue"", ""2"": ""heavyHeroHpAddValue"", ""3"": ""heavyHeroAttackAddValue"", ""4"": ""heavyHeroDefendAddValue"", ""5"": ""ability""}","{""1"": 14, ""2"": 15, ""3"": 16, ""4"": 17, ""5"": 1}",TankCenterBase
+5021,Allows you to enhance survivor abilities and browse the roster.,5021,"{""1"": ""ability""}","{""1"": 1}",WorkerCenterBase
+1004,Shelter the wounded to preserve the town's strength.,1004,"{""1"": ""cureCount"", ""2"": ""ability""}","{""1"": 3, ""2"": 1}",HospitalBase
+1020,Where soldiers are trained. Upgrade it to increase the soldier tier.,1020,"{""1"": ""lockTip"", ""2"": ""ability""}","{""1"": 35, ""2"": 1}",BarracksBase
+5038,In honor of all great contributions.,5038,"{""1"": ""ability""}","{""1"": 1}",MonumentBase
+5042,Produces Gearstones.,5042,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 13, ""2"": 1}",EquipSmelterBase
+5002,Gather resources over time.,5002,"{""1"": ""ability""}","{""1"": 1}",AbyssDoorBase
+1002,The town's defensive line where you deploy troops to resist invasion.,1002,"{""1"": ""defendValue"", ""2"": ""ability""}","{""1"": 2, ""2"": 1}",WallBase
+5035,View Raven Epigraph and Stats of Ravens.,5035,"{""1"": ""ability""}","{""1"": 1}",QuarryBase
+1017,Produces Timber hourly.,1017,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 5, ""2"": 1}",MetalRecyclingBase
+5024,Protects a certain amount of Timber from plunder.,5024,"{""1"": ""protectCapacity"", ""2"": ""ability""}","{""1"": 10, ""2"": 1}",MetalWarehouseBase
+5013,Adjust lineups for the troops available for dispatch here.,5013,"{""1"": ""commonMarchSpeedAdd"", ""2"": ""ability""}","{""1"": 9, ""2"": 1}",SquadBase
+5053,,5053,"{""1"": ""ability""}","{""1"": 1}",TempleBase
+5045,Increases Warlock Hero's counter effect against Ranger Hero.,5045,"{""1"": ""mediumHeroSoldierLoadAddValue"", ""2"": ""mediumHeroHpAddValue"", ""3"": ""mediumHeroAttackAddValue"", ""4"": ""mediumHeroDefendAddValue"", ""5"": ""ability""}","{""1"": 18, ""2"": 19, ""3"": 20, ""4"": 21, ""5"": 1}",MissileCenterBase
+5049,"Survey the surrounding area, stay alert for incoming enemies.",5049,"{""1"": ""counterRecoProb"", ""2"": ""counterRecoHideCount"", ""3"": ""ability""}","{""1"": 26, ""2"": 27, ""3"": 1}",RadarTowerBase
+1016,Produces Grain hourly.,1016,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 5, ""2"": 1}",FarmBase
+1001,The sturdiest sanctuary that heals the afflicted and repels dark creatures.,1001,"{""1"": ""heroLvCap"", ""2"": ""heroLife"", ""3"": ""heroAttack"", ""4"": ""heroDefend"", ""5"": ""ability""}","{""1"": 30, ""2"": 31, ""3"": 32, ""4"": 33, ""5"": 1}",CastleBase
+5016,Adjust lineups for the troops available for dispatch here.,5016,"{""1"": ""commonMarchSpeedAdd"", ""2"": ""ability""}","{""1"": 9, ""2"": 1}",Squad_3Base
+1019,Produces Herb hourly.,1019,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 5, ""2"": 1}",OilWellBase
+5055,Convert fallen soldiers into resting soldiers; consume resources to return them to the Barracks.,5055,"{""1"": ""shelterPercent"", ""2"": ""shelterLimit"", ""3"": ""coolDown"", ""4"": ""helpNum"", ""5"": ""ability""}","{""1"": 36, ""2"": 37, ""3"": 38, ""4"": 39, ""5"": 1}",BFSoldierShelterBase
+5033,Scout Squad headquarters that boosts the scout speed.,5033,"{""1"": ""speedAddPercent"", ""2"": ""ability""}","{""1"": 12, ""2"": 1}",ReconnaissanceBase
+5014,Adjust lineups for the troops available for dispatch here.,5014,"{""1"": ""commonMarchSpeedAdd"", ""2"": ""ability""}","{""1"": 9, ""2"": 1}",Squad_1Base
+5015,Adjust lineups for the troops available for dispatch here.,5015,"{""1"": ""commonMarchSpeedAdd"", ""2"": ""ability""}","{""1"": 9, ""2"": 1}",Squad_2Base
+1027,Produces Antitoxin hourly.,1027,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 5, ""2"": 1}",AntitoxinBase
+5023,Protects a certain amount of Grain from plunder.,5023,"{""1"": ""protectCapacity"", ""2"": ""ability""}","{""1"": 10, ""2"": 1}",GranaryBase
+5054,,5054,"{""1"": ""ability""}","{""1"": 1}",AuditoriumBase
+1006,Gather world map intel to complete quests and earn generous rewards.,1006,"{""1"": ""ability""}","{""1"": 1}",RadarBase
+5046,Increases Ranger Hero's counter effect against Warrior Hero.,5046,"{""1"": ""lightHeroSoldierLoadAddValue"", ""2"": ""lightHeroHpAddValue"", ""3"": ""lightHeroAttackAddValue"", ""4"": ""lightHeroDefendAddValue"", ""5"": ""ability""}","{""1"": 22, ""2"": 23, ""3"": 24, ""4"": 25, ""5"": 1}",AircraftCenterBase
+5040,Exchange currency for various items.,5040,"{""1"": ""ability""}","{""1"": 1}",ExchangeShopBase
+5043,Produces gear crafting materials.,5043,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 13, ""2"": 1}",MaterialWorkshopBase
+5006,Where soldiers are rallied. Upgrade it to increase the number of soldiers it can accommodate.,5006,"{""1"": ""soldierCap"", ""2"": ""ability""}","{""1"": 6, ""2"": 1}",PlayGroundBase
+1008,Forge powerful weapons to enhance your Heroes' strength. Unlock Gear Promote at Lv.20.,1008,"{""1"": ""ability""}","{""1"": 1}",WeaponWorkshopBase
+5036,Raven roost where you can check Raven status.,5036,"{""1"": ""ability""}","{""1"": 1}",DroneCenterBase
+5029,Complete Covert Operations to earn rewards.,5029,"{""1"": ""ability""}","{""1"": 1}",SecretCenterBase
+5031,"Builders from around the world gather here, offering free speedup durations.",5031,"{""1"": ""freeTime"", ""2"": ""ability""}","{""1"": 11, ""2"": 1}",WorkerBase
+1007,Where scholars research technology to significantly boost your power.,1007,"{""1"": ""speedAddPercent"", ""2"": ""ability""}","{""1"": 4, ""2"": 1}",CollegeBase
+5034,Produces Lv.1 Raven Gear Chest over time.,5034,"{""1"": ""speed"", ""2"": ""ability""}","{""1"": 34, ""2"": 1}",DroneCompFactoryBase
+5025,Protects a certain amount of Herb from plunder.,5025,"{""1"": ""protectCapacity"", ""2"": ""ability""}","{""1"": 10, ""2"": 1}",OilTankBase
+5010,"Compete with other Doctors, showcase your prowess, and vie for honorable rewards.",5010,"{""1"": ""ability""}","{""1"": 1}",ArenaBase
+1010,Alliance hub is where you can communicate and cooperate with other members.,1010,"{""1"": ""helpMaxCount"", ""2"": ""helpTime"", ""3"": ""ability""}","{""1"": 28, ""2"": 29, ""3"": 1}",EmbassyBase
+5008,Where Heroes are recruited.,5008,"{""1"": ""heroFreeRecruitCD"", ""2"": ""workerFreeRecruitCD"", ""3"": ""ability""}","{""1"": 7, ""2"": 8, ""3"": 1}",BarBase
+5039,Check Curio collection progress.,5039,"{""1"": ""ability""}","{""1"": 1}",CollectionHallBase

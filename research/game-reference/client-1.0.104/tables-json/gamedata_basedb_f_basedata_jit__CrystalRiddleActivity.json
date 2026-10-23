@@ -1,0 +1,47 @@
+{
+  "len": 1,
+  "excelName": "Activity_LinkTreasure连线夺宝活动",
+  "data": {
+    "1": {
+      "id": 1,
+      "openId": "season1_link_treasure",
+      "rewards": {
+        "1": {
+          "count": 1,
+          "type": 99,
+          "id": "item_decorations_box_03"
+        },
+        "2": {
+          "count": 1500,
+          "type": 99,
+          "id": "recluse_coin"
+        },
+        "3": {
+          "count": 30,
+          "type": 99,
+          "id": "item_UseUp_recruitCoin"
+        },
+        "4": {
+          "count": 10,
+          "type": 99,
+          "id": "item_Material_universalFragment_5"
+        },
+        "5": {
+          "count": 20,
+          "type": 99,
+          "id": "item_optionalBox_Resource"
+        }
+      },
+      "castleLevel": 5,
+      "shopId": 0,
+      "actPic": "img_yssr_pingtu_01",
+      "actBasePic": "",
+      "isNew": 1,
+      "actDes": "",
+      "actId": 60001102
+    }
+  },
+  "key": "id",
+  "isNeedTransform": true,
+  "first": 1
+}

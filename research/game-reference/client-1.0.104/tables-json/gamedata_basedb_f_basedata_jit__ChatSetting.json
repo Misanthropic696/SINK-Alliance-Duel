@@ -1,0 +1,57 @@
+{
+  "data": {
+    "1": {
+      "functionUnlock": 130,
+      "icon": "chat_btn_cosmetics",
+      "order": 1,
+      "name": "",
+      "type": 1,
+      "id": 1
+    },
+    "2": {
+      "functionUnlock": 0,
+      "icon": "chat_btn_unreadmessages",
+      "order": 2,
+      "name": "",
+      "type": 2,
+      "id": 2
+    },
+    "3": {
+      "functionUnlock": 0,
+      "icon": "chat_btn_translation_language",
+      "order": 3,
+      "name": "",
+      "type": 3,
+      "id": 3
+    },
+    "4": {
+      "functionUnlock": 0,
+      "icon": "chat_btn_user_blocked",
+      "order": 4,
+      "name": "",
+      "type": 4,
+      "id": 4
+    },
+    "5": {
+      "functionUnlock": 0,
+      "icon": "chat_btn_notifications",
+      "order": 5,
+      "name": "",
+      "type": 5,
+      "id": 5
+    },
+    "6": {
+      "functionUnlock": 0,
+      "icon": "chat_btn_lt",
+      "order": 6,
+      "name": "",
+      "type": 6,
+      "id": 6
+    }
+  },
+  "first": 1,
+  "isNeedTransform": true,
+  "excelName": "Chat_聊天",
+  "len": 6,
+  "key": "id"
+}

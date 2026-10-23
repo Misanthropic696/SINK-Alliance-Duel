@@ -1,0 +1,91 @@
+{
+  "data": {
+    "0": {
+      "id": "0",
+      "zh_cn": "Checking version number"
+    },
+    "1": {
+      "id": "1",
+      "zh_cn": "Extracting resource"
+    },
+    "14": {
+      "id": "14",
+      "zh_cn": "Cancel"
+    },
+    "15": {
+      "id": "15",
+      "zh_cn": "The latest version is available in the shop. Would you like to download it?"
+    },
+    "12": {
+      "id": "12",
+      "zh_cn": "Enter Game"
+    },
+    "13": {
+      "id": "13",
+      "zh_cn": "Insufficient device storage. Please clear space to continue."
+    },
+    "10": {
+      "id": "10",
+      "zh_cn": "Resource download for game {0} will soon start. Continue?\nIt is recommended to proceed with WiFi."
+    },
+    "104": {
+      "id": "104",
+      "zh_cn": "In the darkness, someone will always ignite the flame of hope!"
+    },
+    "103": {
+      "id": "103",
+      "zh_cn": "Research technology to quickly enhance your strength!"
+    },
+    "102": {
+      "id": "102",
+      "zh_cn": "Upgrading Heroes can significantly boost Might!"
+    },
+    "101": {
+      "id": "101",
+      "zh_cn": "Alliance members will be your reliable companions on your conquest journey!"
+    },
+    "11": {
+      "id": "11",
+      "zh_cn": "Continue Downloading"
+    },
+    "105": {
+      "id": "105",
+      "zh_cn": "Join forces to defeat enemies and save your homeland!"
+    },
+    "4": {
+      "id": "4",
+      "zh_cn": "OK"
+    },
+    "5": {
+      "id": "5",
+      "zh_cn": "Downloading resource {0:0.00}M/{1:0.00}M"
+    },
+    "2": {
+      "id": "2",
+      "zh_cn": "Loading game. This process does not consume data. Please wait."
+    },
+    "3": {
+      "id": "3",
+      "zh_cn": "Failed to connect to server. Reconnect?"
+    },
+    "8": {
+      "id": "8",
+      "zh_cn": "Resource download failed {0}."
+    },
+    "9": {
+      "id": "9",
+      "zh_cn": "Notice"
+    },
+    "6": {
+      "id": "6",
+      "zh_cn": "Current version is outdated. Please install the latest package."
+    },
+    "7": {
+      "id": "7",
+      "zh_cn": "Version number check failed {0}."
+    }
+  },
+  "len": 21,
+  "key": "id",
+  "source_format": "locale rows"
+}

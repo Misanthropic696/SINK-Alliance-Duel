@@ -1,0 +1,153 @@
+{
+  "len": 12,
+  "isNeedTransform": false,
+  "excelName": "Activity_Lucky777_幸运777",
+  "first": 1,
+  "data": {
+    "106": {
+      "activityId": 820040101,
+      "id": 106,
+      "count": 1500,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "103": {
+      "activityId": 820040101,
+      "id": 103,
+      "count": 300,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "4": {
+      "activityId": 820030101,
+      "id": 4,
+      "count": 600,
+      "reward": {
+        "1": {
+          "id": "pirate_flag",
+          "count": 800,
+          "type": 99
+        }
+      }
+    },
+    "101": {
+      "activityId": 820040101,
+      "id": 101,
+      "count": 30,
+      "reward": {
+        "1": {
+          "id": "mid_autumn_market_money",
+          "count": 20,
+          "type": 99
+        }
+      }
+    },
+    "6": {
+      "activityId": 820030101,
+      "id": 6,
+      "count": 1500,
+      "reward": {
+        "1": {
+          "id": "item_decorations_box_03",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "5": {
+      "activityId": 820030101,
+      "id": 5,
+      "count": 1000,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "count": 100,
+          "type": 99
+        }
+      }
+    },
+    "105": {
+      "activityId": 820040101,
+      "id": 105,
+      "count": 1000,
+      "reward": {
+        "1": {
+          "id": "item_drone_part",
+          "count": 100,
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "activityId": 820030101,
+      "id": 2,
+      "count": 120,
+      "reward": {
+        "1": {
+          "id": "pirate_box1",
+          "count": 30,
+          "type": 99
+        }
+      }
+    },
+    "104": {
+      "activityId": 820040101,
+      "id": 104,
+      "count": 600,
+      "reward": {
+        "1": {
+          "id": "mid_autumn_market_money",
+          "count": 800,
+          "type": 99
+        }
+      }
+    },
+    "1": {
+      "activityId": 820030101,
+      "id": 1,
+      "count": 30,
+      "reward": {
+        "1": {
+          "id": "pirate_flag",
+          "count": 20,
+          "type": 99
+        }
+      }
+    },
+    "102": {
+      "activityId": 820040101,
+      "id": 102,
+      "count": 120,
+      "reward": {
+        "1": {
+          "id": "mid_autumn_lucky_box1",
+          "count": 30,
+          "type": 99
+        }
+      }
+    },
+    "3": {
+      "activityId": 820030101,
+      "id": 3,
+      "count": 300,
+      "reward": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        }
+      }
+    }
+  },
+  "key": "id"
+}

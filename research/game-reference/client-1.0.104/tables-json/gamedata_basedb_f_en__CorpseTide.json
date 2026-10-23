@@ -1,0 +1,21 @@
+{
+  "data": {
+    "1001": {
+      "textButtonUp": "Flame of Hope ignited. Claim your reward!",
+      "id": 1001,
+      "textTitle": "Flame of Hope",
+      "textVictory": "Ready!",
+      "textComing": "Ignite the Light of Life!"
+    },
+    "2001": {
+      "textButtonUp": "Rat Horde repelled. Claim your reward!",
+      "id": 2001,
+      "textTitle": "Rat Frenzy",
+      "textVictory": "Defense Successful!",
+      "textComing": "Crisis Approaching!"
+    }
+  },
+  "len": 2,
+  "key": "id",
+  "source_format": "locale rows"
+}

@@ -1,0 +1,418 @@
+{
+  "len": 16,
+  "data": {
+    "100304": {
+      "quality": 3,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei4_3",
+      "slot": 3,
+      "name": "",
+      "icon": "icon_equip_buwei4_3",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 5000
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 1,
+      "costTime": 3600,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_trousers_premium",
+      "id": 100304
+    },
+    "100201": {
+      "quality": 2,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei1_2",
+      "slot": 0,
+      "name": "",
+      "icon": "icon_equip_buwei1_2",
+      "pro_name": "",
+      "cost": {},
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 0,
+      "costTime": 0,
+      "pro_icon": "",
+      "manufacturable": false,
+      "itemId": "item_equipment_weapon_common",
+      "id": 100201
+    },
+    "100303": {
+      "quality": 3,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei3_3",
+      "slot": 2,
+      "name": "",
+      "icon": "icon_equip_buwei3_3",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 5000
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 1,
+      "costTime": 3600,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_coat_premium",
+      "id": 100303
+    },
+    "100402": {
+      "quality": 4,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei2_4",
+      "slot": 1,
+      "name": "",
+      "icon": "icon_equip_buwei2_4",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 100000
+        },
+        "2": {
+          "count": 150,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 5,
+      "costTime": 7200,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_shield_rare",
+      "id": 100402
+    },
+    "100302": {
+      "quality": 3,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei2_3",
+      "slot": 1,
+      "name": "",
+      "icon": "icon_equip_buwei2_3",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 5000
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 1,
+      "costTime": 3600,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_shield_premium",
+      "id": 100302
+    },
+    "100202": {
+      "quality": 2,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei2_2",
+      "slot": 1,
+      "name": "",
+      "icon": "icon_equip_buwei2_2",
+      "pro_name": "",
+      "cost": {},
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 0,
+      "costTime": 0,
+      "pro_icon": "",
+      "manufacturable": false,
+      "itemId": "item_equipment_shield_common",
+      "id": 100202
+    },
+    "100504": {
+      "quality": 5,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei4_5",
+      "slot": 3,
+      "name": "",
+      "icon": "icon_equip_buwei4_5",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 500000
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 10,
+      "costTime": 172800,
+      "pro_icon": "icon_equip_buwei4_6",
+      "manufacturable": true,
+      "itemId": "item_equipment_trousers_legendary",
+      "id": 100504
+    },
+    "100204": {
+      "quality": 2,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei4_2",
+      "slot": 3,
+      "name": "",
+      "icon": "icon_equip_buwei4_2",
+      "pro_name": "",
+      "cost": {},
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 0,
+      "costTime": 0,
+      "pro_icon": "",
+      "manufacturable": false,
+      "itemId": "item_equipment_trousers_common",
+      "id": 100204
+    },
+    "100503": {
+      "quality": 5,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei3_5",
+      "slot": 2,
+      "name": "",
+      "icon": "icon_equip_buwei3_5",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 500000
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 10,
+      "costTime": 172800,
+      "pro_icon": "icon_equip_buwei3_6",
+      "manufacturable": true,
+      "itemId": "item_equipment_coat_legendary",
+      "id": 100503
+    },
+    "100403": {
+      "quality": 4,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei3_4",
+      "slot": 2,
+      "name": "",
+      "icon": "icon_equip_buwei3_4",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 100000
+        },
+        "2": {
+          "count": 150,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 5,
+      "costTime": 7200,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_coat_rare",
+      "id": 100403
+    },
+    "100401": {
+      "quality": 4,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei1_4",
+      "slot": 0,
+      "name": "",
+      "icon": "icon_equip_buwei1_4",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 100000
+        },
+        "2": {
+          "count": 150,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 5,
+      "costTime": 7200,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_weapon_rare",
+      "id": 100401
+    },
+    "100502": {
+      "quality": 5,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei2_5",
+      "slot": 1,
+      "name": "",
+      "icon": "icon_equip_buwei2_5",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 500000
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 10,
+      "costTime": 172800,
+      "pro_icon": "icon_equip_buwei2_6",
+      "manufacturable": true,
+      "itemId": "item_equipment_shield_legendary",
+      "id": 100502
+    },
+    "100501": {
+      "quality": 5,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei1_5",
+      "slot": 0,
+      "name": "",
+      "icon": "icon_equip_buwei1_5",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 500000
+        },
+        "2": {
+          "count": 750,
+          "type": 99,
+          "id": "item_equip_produce_materials_05"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 10,
+      "costTime": 172800,
+      "pro_icon": "icon_equip_buwei1_6",
+      "manufacturable": true,
+      "itemId": "item_equipment_weapon_legendary",
+      "id": 100501
+    },
+    "100301": {
+      "quality": 3,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei1_3",
+      "slot": 0,
+      "name": "",
+      "icon": "icon_equip_buwei1_3",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 5000
+        },
+        "2": {
+          "count": 40,
+          "type": 99,
+          "id": "item_equip_produce_materials_03"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 1,
+      "costTime": 3600,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_weapon_premium",
+      "id": 100301
+    },
+    "100203": {
+      "quality": 2,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei3_2",
+      "slot": 2,
+      "name": "",
+      "icon": "icon_equip_buwei3_2",
+      "pro_name": "",
+      "cost": {},
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 0,
+      "costTime": 0,
+      "pro_icon": "",
+      "manufacturable": false,
+      "itemId": "item_equipment_coat_common",
+      "id": 100203
+    },
+    "100404": {
+      "quality": 4,
+      "promotionUnlockBuildingLevel": 0,
+      "tips_icon": "icon_equip_buwei4_4",
+      "slot": 3,
+      "name": "",
+      "icon": "icon_equip_buwei4_4",
+      "pro_name": "",
+      "cost": {
+        "1": {
+          "type": 3,
+          "count": 100000
+        },
+        "2": {
+          "count": 150,
+          "type": 99,
+          "id": "item_equip_produce_materials_04"
+        }
+      },
+      "promotionUnlockEquipmentLevel": 0,
+      "unlockBuildingLevel": 5,
+      "costTime": 7200,
+      "pro_icon": "",
+      "manufacturable": true,
+      "itemId": "item_equipment_trousers_rare",
+      "id": 100404
+    }
+  },
+  "enum": {
+    "HEROEQUIPMENTSLOT": {
+      "TROUSERS": 3,
+      "HEROWEAPON": 0,
+      "HEROSHIELD": 1,
+      "JACKET": 2
+    },
+    "QUALITY": {
+      "ORANGE": 5,
+      "GREEN": 2,
+      "WHITE": 1,
+      "NOQUALITY": 0,
+      "RED": 6,
+      "PURPLE": 4,
+      "BLUE": 3
+    }
+  },
+  "excelName": "Equipment_新版装备",
+  "first": 100201,
+  "key": "id",
+  "isNeedTransform": true
+}

@@ -1,0 +1,435 @@
+{
+  "excelName": "Activity_AllianceCapture_峡谷争锋战",
+  "isNeedTransform": false,
+  "data": {
+    "3": {
+      "stageId": 1,
+      "killCount": 3,
+      "id": 3,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "2": {
+      "stageId": 1,
+      "killCount": 2,
+      "id": 2,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "1": {
+      "stageId": 1,
+      "killCount": 1,
+      "id": 1,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "12": {
+      "stageId": 4,
+      "killCount": 1,
+      "id": 12,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "11": {
+      "stageId": 3,
+      "killCount": 3,
+      "id": 11,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "14": {
+      "stageId": 4,
+      "killCount": 3,
+      "id": 14,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "13": {
+      "stageId": 4,
+      "killCount": 2,
+      "id": 13,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "15": {
+      "stageId": 5,
+      "killCount": 1,
+      "id": 15,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "10": {
+      "stageId": 3,
+      "killCount": 2,
+      "id": 10,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "17": {
+      "stageId": 5,
+      "killCount": 3,
+      "id": 17,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "18": {
+      "stageId": 6,
+      "killCount": 1,
+      "id": 18,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "19": {
+      "stageId": 6,
+      "killCount": 2,
+      "id": 19,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "20": {
+      "stageId": 6,
+      "killCount": 3,
+      "id": 20,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "9": {
+      "stageId": 3,
+      "killCount": 1,
+      "id": 9,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "8": {
+      "stageId": 2,
+      "killCount": 3,
+      "id": 8,
+      "rewards": {
+        "1": {
+          "count": 200,
+          "id": "item_equipment_enhanceStone",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "4": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "7": {
+      "stageId": 2,
+      "killCount": 2,
+      "id": 7,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "6": {
+      "stageId": 2,
+      "killCount": 1,
+      "id": 6,
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 1,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 1,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    },
+    "16": {
+      "stageId": 5,
+      "killCount": 2,
+      "id": 16,
+      "rewards": {
+        "1": {
+          "count": 3,
+          "id": "item_castleBox_Food_2",
+          "type": 99
+        },
+        "2": {
+          "count": 3,
+          "id": "item_castleBox_Metal_2",
+          "type": 99
+        },
+        "3": {
+          "count": 3,
+          "id": "item_castleBox_Energy_2",
+          "type": 99
+        }
+      }
+    }
+  },
+  "key": "id",
+  "len": 18,
+  "first": 1
+}

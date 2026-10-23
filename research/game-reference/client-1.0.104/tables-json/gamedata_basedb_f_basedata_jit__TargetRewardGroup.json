@@ -1,0 +1,340 @@
+{
+  "first": 1001,
+  "len": 8,
+  "data": {
+    "3001": {
+      "group": 1003,
+      "id": 3001,
+      "openingTime": "openServerday1_77_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 390,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 16,
+          "type": 99
+        },
+        "4": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2300,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "3002": {
+      "group": 1003,
+      "id": 3002,
+      "openingTime": "openServerday78_9999_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 390,
+          "type": 99
+        },
+        "2": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 16,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2300,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "3003": {
+      "group": 1003,
+      "id": 3003,
+      "openingTime": "openSeason1day4_9999_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 390,
+          "type": 99
+        },
+        "2": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_5",
+          "count": 1,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 16,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2300,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        },
+        "8": {
+          "id": "item_Awaken_universalFragment",
+          "count": 1,
+          "type": 99
+        }
+      }
+    },
+    "1002": {
+      "group": 1001,
+      "id": 1002,
+      "openingTime": "openServerday78_9999_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_3",
+          "count": 4,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 500,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "2002": {
+      "group": 1002,
+      "id": 2002,
+      "openingTime": "openServerday78_9999_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_4",
+          "count": 3,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "2001": {
+      "group": 1002,
+      "id": 2001,
+      "openingTime": "openServerday1_77_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_4",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 12,
+          "type": 99
+        },
+        "4": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "1001": {
+      "group": 1001,
+      "id": 1001,
+      "openingTime": "openServerday1_77_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Material_universalFragment_3",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_tactical_supply_random_box",
+          "count": 4,
+          "type": 99
+        },
+        "4": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "5": {
+          "id": "item_equipment_enhanceStone",
+          "count": 500,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      }
+    },
+    "2003": {
+      "group": 1002,
+      "id": 2003,
+      "openingTime": "openSeason1day4_9999_reward",
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_fighter_jet_experience_card_2",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Material_universalFragment_4",
+          "count": 3,
+          "type": 99
+        },
+        "4": {
+          "id": "item_tactical_supply_random_box",
+          "count": 12,
+          "type": 99
+        },
+        "5": {
+          "id": "item_drone_componentBox_2",
+          "count": 1,
+          "type": 99
+        },
+        "6": {
+          "id": "item_equipment_enhanceStone",
+          "count": 800,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        },
+        "8": {
+          "id": "item_Awaken_universalFragment",
+          "count": 1,
+          "type": 99
+        }
+      }
+    }
+  },
+  "excelName": "Activity_活动表",
+  "isNeedTransform": false,
+  "key": "id"
+}

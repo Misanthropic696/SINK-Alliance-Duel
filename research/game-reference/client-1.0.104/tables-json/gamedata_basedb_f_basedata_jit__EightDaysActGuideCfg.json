@@ -1,0 +1,77 @@
+{
+  "excelName": "SevenDay_求生之路",
+  "data": {
+    "1": {
+      "desc": "",
+      "id": 1,
+      "gotoId": "sevendays_tutorial_stage",
+      "target": {
+        "1": {
+          "id": 10002001,
+          "param1": 5
+        }
+      },
+      "icon": "pic_qthd_icon5",
+      "iconAtlas": "UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab"
+    },
+    "5": {
+      "desc": "",
+      "id": 5,
+      "gotoId": "sevendays_tutorial_arena",
+      "target": {
+        "1": {
+          "param2": 1,
+          "id": 100004,
+          "param1": 12
+        }
+      },
+      "icon": "pic_qthd_icon4",
+      "iconAtlas": "UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab"
+    },
+    "4": {
+      "desc": "",
+      "id": 4,
+      "gotoId": "sevendays_tutorial_event",
+      "target": {
+        "1": {
+          "param2": 1,
+          "id": 200901,
+          "param1": 35
+        }
+      },
+      "icon": "pic_qthd_icon1",
+      "iconAtlas": "UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab"
+    },
+    "3": {
+      "desc": "",
+      "id": 3,
+      "gotoId": "sevendays_tutorial_main",
+      "target": {
+        "1": {
+          "param2": 1,
+          "id": 200901,
+          "param1": 1
+        }
+      },
+      "icon": "pic_qthd_icon3",
+      "iconAtlas": "UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab"
+    },
+    "2": {
+      "desc": "",
+      "id": 2,
+      "gotoId": "sevendays_tutorial_radar",
+      "target": {
+        "1": {
+          "id": 200069,
+          "param1": 1000424
+        }
+      },
+      "icon": "pic_qthd_icon2",
+      "iconAtlas": "UI/Atlas/Module/Zombie_Pioneer/Zombie_PioneerAtlas.prefab"
+    }
+  },
+  "isNeedTransform": true,
+  "len": 5,
+  "key": "id",
+  "first": 1
+}

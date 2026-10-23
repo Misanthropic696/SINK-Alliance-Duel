@@ -1,0 +1,24 @@
+﻿record_key,shopBannerPath,sort,display,displayCondition,coin,desc,subshopName,exchangeType,id,GoToTarget,typeID,iconFuncType,shopStyle,shopRefreshType,activitySortID,shopName,panelStyle,displayCoin,type
+5,UI_Sprite/Banner/Shop/grocer_honor_shop_banner.png,303,1,{},"{""1"": {""id"": ""item_Activity_dualCommander"", ""type"": 99}}","1. Earn points in the Arena.
+2. Redeem points for numerous rare items in the shop!",,1,5,,303,1,1,3,UI_Sprite/Banner/K3Banner/Banner_VIP.png,Honor Shop,0,1,3
+6,UI_Sprite/Banner/Shop/grocer_espedition_shop_banner.png,501,1,{},"{""1"": {""id"": ""item_activity_expedition"", ""type"": 99}}",Obtained from completing Expedition Battle challenges. Can be exchanged for rewards in the Expedition Shop.,,1,6,,501,1,1,2,UI_Sprite/Banner/K3Banner/Banner_VIP.png,Expedition Shop,0,1,5
+22,,0,0,{},"{""1"": {""id"": ""item_activity_shop_prepare"", ""type"": 99}}",,,1,22,,9033,2,1,0,,Blades Out,0,1,4
+23,,0,0,{},"{""1"": {""id"": ""item_activity_shop_prepare"", ""type"": 99}}",,,1,23,,9034,2,1,0,,Blades Out,0,1,4
+20,,0,0,{},"{""1"": {""id"": ""item_activity_shop_invasion"", ""type"": 99}}",,,1,20,,904,2,1,0,,Blight Invasion,0,1,4
+21,,0,0,{},"{""1"": {""id"": ""item_activity_shop_prepare"", ""type"": 99}}",,,1,21,,9032,2,1,0,,Blades Out,0,1,4
+100,,0,0,{},"{""1"": {""id"": ""item_activity_airDrop"", ""type"": 99}}",,,1,100,,10001,2,1,0,,Encounter Shop,0,1,100
+17,,0,0,{},"{""1"": {""type"": 11}}",,,2,17,,901,0,1,0,,Wheel Shop,0,1,4
+15,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,250,1,{},"{""1"": {""type"": 9}}","1. Help alliance members and donate in Alliance Tech to earn Alliance Coins.
+2. Alliance Coins can be exchanged for numerous rare items in the Alliance Shop.",,1,15,,701,1,2,2,UI_Sprite/Banner/K3Banner/Banner_alliance.png,Alliance Shop,0,1,7
+19,,0,0,{},"{""1"": {""id"": ""item_activity_shop_prepare"", ""type"": 99}}",,,1,19,,9031,2,1,0,,Blades Out,0,1,4
+18,,0,0,{},"{""1"": {""id"": ""item_activity_shop_market"", ""type"": 99}}",,Strange Coin Pack,1,18,,902,2,1,0,,Strange Bazaar,0,1,4
+97,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,502,1,"{""1"": {""param2"": ""0"", ""param1"": ""1"", ""id"": 100012, ""param3"": ""1""}}","{""1"": {""id"": ""season_item_badge"", ""type"": 99}}","1. Currency for exchanging rare items.
+2. Retained after the era ends; never reset.",,1,97,,801,1,1,0,UI_Sprite/Banner/K3Banner/Banner_alliance.png,Era Shop,0,1,99
+25,,0,0,{},"{""1"": {""id"": ""mid_autumn_market_money"", ""type"": 99}}",,,1,25,,9036,2,1,0,,Starry Bazaar,1,1,4
+98,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,502,1,"{""1"": {""param2"": ""0"", ""param1"": ""1"", ""id"": 100012, ""param3"": ""1""}}","{""1"": {""id"": ""season_item_skincoin"", ""type"": 99}}","1. Currency for exchanging rare skins.
+2. Retained after the era ends; never reset.",,1,98,goto_season_skincoin,802,2,1,0,UI_Sprite/Banner/K3Banner/Banner_alliance.png,Appearance Shop,0,1,99
+99,,503,1,{},"{""1"": {""type"": 1043}}","1.Heal patients in the Sanctuary to earn Copper Coins.
+2.Copper Coins can be exchanged for various items in the Sanctuary Shop.",,1,99,,9901,1,1,2,,Sanctuary Shop,0,1,99
+1,UI_Sprite/Banner/Shop/grocer_diamond_shop_banner.png,101,1,{},"{""1"": {""type"": 11}}",,,1,1,,101,2,1,0,UI_Sprite/Banner/K3Banner/Banner_VIP.png,Diamond Shop,0,1,1
+2,UI_Sprite/Banner/Shop/grocer_vip_shop_banner.png,201,1,{},"{""1"": {""type"": 11}}",,,1,2,,201,2,1,2,Pic_Entrance_VipShop,VIP Shop,0,1,2
+24,,0,0,{},"{""1"": {""id"": ""easter_golden_ticket"", ""type"": 99}}",,Color Card Pack,1,24,,9035,2,1,0,,Art Market,0,1,4

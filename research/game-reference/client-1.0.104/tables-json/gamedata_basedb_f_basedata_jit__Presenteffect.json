@@ -1,0 +1,54 @@
+{
+  "isNeedTransform": false,
+  "data": {
+    "2": {
+      "presentId": 2,
+      "count": 10,
+      "animation": "Prefab/Spine_UI/Emote_Flower/SkeletonGraphic_flower_lv2.prefab",
+      "audio": 0,
+      "Icon": "gift_Rose_1",
+      "id": 2,
+      "effect": ""
+    },
+    "3": {
+      "presentId": 2,
+      "count": 20,
+      "animation": "Prefab/Spine_UI/Emote_Flower/SkeletonGraphic_flower_lv3.prefab",
+      "audio": 0,
+      "Icon": "gift_Rose_1",
+      "id": 3,
+      "effect": ""
+    },
+    "1": {
+      "presentId": 2,
+      "count": 1,
+      "animation": "Prefab/Spine_UI/Emote_Flower/SkeletonGraphic_flower_lv1.prefab",
+      "audio": 0,
+      "Icon": "gift_Rose_1",
+      "id": 1,
+      "effect": ""
+    },
+    "4": {
+      "presentId": 2,
+      "count": 50,
+      "animation": "Prefab/Spine_UI/Emote_Flower/SkeletonGraphic_flower_lv4.prefab",
+      "audio": 0,
+      "Icon": "gift_Rose_1",
+      "id": 4,
+      "effect": ""
+    },
+    "5": {
+      "presentId": 2,
+      "count": 100,
+      "animation": "Prefab/Spine_UI/Emote_Flower/SkeletonGraphic_flower_lv5.prefab",
+      "audio": 0,
+      "Icon": "gift_Rose_1",
+      "id": 5,
+      "effect": ""
+    }
+  },
+  "len": 5,
+  "first": 1,
+  "key": "id",
+  "excelName": "Present_礼物表"
+}

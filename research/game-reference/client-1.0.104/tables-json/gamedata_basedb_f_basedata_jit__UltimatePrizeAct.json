@@ -1,0 +1,33 @@
+{
+  "excelName": "Activity_5DaysGifts_五日恩典",
+  "len": 3,
+  "first": 1000010101,
+  "isNeedTransform": true,
+  "key": "id",
+  "data": {
+    "1000010103": {
+      "freedays": 7,
+      "id": 1000010103,
+      "choiceType": 2,
+      "openId": "5DaysGifts_old",
+      "name": "",
+      "castleLevel": 5
+    },
+    "1000010101": {
+      "freedays": 7,
+      "id": 1000010101,
+      "choiceType": 1,
+      "openId": "5DaysGifts",
+      "name": "",
+      "castleLevel": 5
+    },
+    "1000010102": {
+      "freedays": 7,
+      "id": 1000010102,
+      "choiceType": 1,
+      "openId": "18DaysGifts",
+      "name": "",
+      "castleLevel": 5
+    }
+  }
+}

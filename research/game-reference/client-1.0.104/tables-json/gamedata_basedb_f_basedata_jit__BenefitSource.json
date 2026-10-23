@@ -1,0 +1,158 @@
+{
+  "key": "id",
+  "len": 28,
+  "data": {
+    "100002": {
+      "id": 100002,
+      "sourceType": 100002
+    },
+    "702": {
+      "id": 702,
+      "sourceType": 702
+    },
+    "905": {
+      "id": 905,
+      "sourceType": 905
+    },
+    "704": {
+      "id": 704,
+      "sourceType": 704
+    },
+    "100004": {
+      "id": 100004,
+      "sourceType": 100004
+    },
+    "101": {
+      "id": 101,
+      "sourceType": 101
+    },
+    "201": {
+      "id": 201,
+      "sourceType": 201
+    },
+    "301": {
+      "id": 301,
+      "sourceType": 301
+    },
+    "401": {
+      "id": 401,
+      "sourceType": 401
+    },
+    "501": {
+      "id": 501,
+      "sourceType": 501
+    },
+    "601": {
+      "id": 601,
+      "sourceType": 601
+    },
+    "100005": {
+      "id": 100005,
+      "sourceType": 100005
+    },
+    "1401": {
+      "id": 1401,
+      "sourceType": 1401
+    },
+    "811": {
+      "id": 811,
+      "sourceType": 811
+    },
+    "1201": {
+      "id": 1201,
+      "sourceType": 1201
+    },
+    "1101": {
+      "id": 1101,
+      "sourceType": 1101
+    },
+    "801": {
+      "id": 801,
+      "sourceType": 801
+    },
+    "706": {
+      "id": 706,
+      "sourceType": 706
+    },
+    "100003": {
+      "id": 100003,
+      "sourceType": 100003
+    },
+    "707": {
+      "id": 707,
+      "sourceType": 707
+    },
+    "705": {
+      "id": 705,
+      "sourceType": 705
+    },
+    "703": {
+      "id": 703,
+      "sourceType": 703
+    },
+    "100006": {
+      "id": 100006,
+      "sourceType": 100006
+    },
+    "701": {
+      "id": 701,
+      "sourceType": 701
+    },
+    "0": {
+      "id": 0,
+      "sourceType": 0
+    },
+    "1202": {
+      "id": 1202,
+      "sourceType": 1202
+    },
+    "211": {
+      "id": 211,
+      "sourceType": 211
+    },
+    "1102": {
+      "id": 1102,
+      "sourceType": 1102
+    }
+  },
+  "isNeedTransform": false,
+  "first": 0,
+  "excelName": "Benefit_SLG加成属性配置表",
+  "enum": {
+    "SOURCETYPE": {
+      "ALLIANCE_TECH": 1201,
+      "MECHA_LEVEL": 902,
+      "UNIQUE_EQUIP": 100003,
+      "HERO_HONOR": 705,
+      "DRONE": 811,
+      "HERO_STAR": 702,
+      "DISPLAY": 101,
+      "VIRUS_RESISTANCE": 100002,
+      "WORKER": 601,
+      "HERO_AWAKEN_BREAK": 707,
+      "HERO_EQUIP": 703,
+      "MECHA_REFINE": 903,
+      "SOLDIER": 801,
+      "ITEM": 211,
+      "MONTH_CARD": 1102,
+      "SEASON_WEEK_CARD": 100005,
+      "HERO_AWAKEN": 706,
+      "VIP": 301,
+      "BUILD": 501,
+      "BUFF": 201,
+      "HERO_SKILL": 704,
+      "ALLIANCE_JOB": 1202,
+      "KINGDOM_BATTLE": 1401,
+      "HERO_LEVEL": 701,
+      "WEEK_CARD": 1101,
+      "UNIQUE_EQUIP_SMELT": 100006,
+      "TECH": 401,
+      "MECHA_SKILL_LEVEL": 904,
+      "ALL": 0,
+      "LORD": 100004,
+      "MECHA_BREAK": 901,
+      "CLINIC": 100001,
+      "CITY_OCCUPY": 905
+    }
+  }
+}

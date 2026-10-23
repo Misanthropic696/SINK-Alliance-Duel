@@ -1,0 +1,1053 @@
+{
+  "data": {
+    "26": {
+      "id": 26,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 12240,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3060,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 68,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 77,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "16": {
+      "id": 16,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7280,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1820,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 39,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 46,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "28": {
+      "id": 28,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9520,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2380,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 51,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 60,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "18": {
+      "id": 18,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1300,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 26,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 26,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "14": {
+      "id": 14,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9360,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2340,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 52,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 59,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "10": {
+      "id": 10,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6160,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1540,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 33,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 39,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "12": {
+      "id": 12,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1100,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 22,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 22,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "24": {
+      "id": 24,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1500,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "36": {
+      "id": 36,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "9": {
+      "id": 9,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7040,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1760,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 39,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 44,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "8": {
+      "id": 8,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7920,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1980,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 44,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "7": {
+      "id": 7,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8800,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 55,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 55,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    },
+    "6": {
+      "id": 6,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "5": {
+      "id": 5,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 4800,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 25,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 30,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "4": {
+      "id": 4,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5600,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1400,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 35,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "35": {
+      "id": 35,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9600,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2400,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 60,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "34": {
+      "id": 34,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 11200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2800,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 60,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 70,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "33": {
+      "id": 33,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 12800,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3200,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 70,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 80,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "32": {
+      "id": 32,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 14400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3600,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 80,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 90,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "31": {
+      "id": 31,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 6,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 16000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 4000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 100,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 100,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    },
+    "17": {
+      "id": 17,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6240,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1560,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 33,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 39,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "27": {
+      "id": 27,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 10880,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2720,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 60,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 68,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "19": {
+      "id": 19,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 12000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 75,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 75,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    },
+    "29": {
+      "id": 29,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8160,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2040,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 43,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 51,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "11": {
+      "id": 11,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 2,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 5280,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1320,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 28,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 33,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "15": {
+      "id": 15,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8320,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2080,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 46,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 52,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "25": {
+      "id": 25,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 13600,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3400,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 85,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 85,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    },
+    "13": {
+      "id": 13,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 3,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 10400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2600,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 65,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 65,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    },
+    "30": {
+      "id": 30,
+      "maxRank": 6,
+      "medal": -500,
+      "stageId": 5,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6800,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1700,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 34,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 34,
+          "type": 99
+        }
+      },
+      "minRank": 6
+    },
+    "3": {
+      "id": 3,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 6400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1600,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 35,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 40,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "23": {
+      "id": 23,
+      "maxRank": 5,
+      "medal": -250,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1800,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 38,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 45,
+          "type": 99
+        }
+      },
+      "minRank": 5
+    },
+    "22": {
+      "id": 22,
+      "maxRank": 4,
+      "medal": 0,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2100,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 45,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 53,
+          "type": 99
+        }
+      },
+      "minRank": 4
+    },
+    "21": {
+      "id": 21,
+      "maxRank": 3,
+      "medal": 250,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 9600,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2400,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 53,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 60,
+          "type": 99
+        }
+      },
+      "minRank": 3
+    },
+    "20": {
+      "id": 20,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 4,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 10800,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2700,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 60,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 68,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "2": {
+      "id": 2,
+      "maxRank": 2,
+      "medal": 500,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 7200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1800,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 45,
+          "type": 99
+        }
+      },
+      "minRank": 2
+    },
+    "1": {
+      "id": 1,
+      "maxRank": 1,
+      "medal": 750,
+      "stageId": 1,
+      "rewards": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 8000,
+          "type": 99
+        },
+        "2": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2000,
+          "type": 99
+        },
+        "3": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource1",
+          "count": 50,
+          "type": 99
+        }
+      },
+      "minRank": 1
+    }
+  },
+  "isNeedTransform": false,
+  "len": 36,
+  "first": 1,
+  "excelName": "Activity_AllianceCapture_峡谷争锋战",
+  "key": "id"
+}

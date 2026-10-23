@@ -1,0 +1,54 @@
+{
+  "isNeedTransform": false,
+  "first": 100101,
+  "len": 1,
+  "excelName": "Activity_ArmyRace_军备竞赛",
+  "key": "id",
+  "data": {
+    "100101": {
+      "id": 100101,
+      "seasonLabel": {
+        "1": {
+          "item_ue_universalFragment": 1
+        }
+      },
+      "seasonBg": 0,
+      "condition": {
+        "1": {
+          "id": 100012,
+          "param3": "1",
+          "param2": "7",
+          "param1": "1"
+        },
+        "2": {
+          "id": 41001001,
+          "param1": "15"
+        }
+      },
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_ue_universalFragment",
+          "type": 99
+        },
+        "2": {
+          "count": 2,
+          "id": "item_Material_universalFragment_5",
+          "type": 99
+        },
+        "3": {
+          "count": 6,
+          "id": "item_UseUp_recruitCoin",
+          "type": 99
+        },
+        "4": {
+          "count": 2,
+          "id": "item_Box_gem_100",
+          "type": 99
+        }
+      },
+      "group": 1001,
+      "openingTime": "0serverDayAfter_99999serverDay_Once"
+    }
+  }
+}

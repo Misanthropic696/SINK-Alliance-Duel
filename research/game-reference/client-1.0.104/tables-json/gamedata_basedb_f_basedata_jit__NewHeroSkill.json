@@ -1,0 +1,66 @@
+{
+  "data": {},
+  "enum": {
+    "DAMAGETYPE": {
+      "PHYSICALPROTECT": 3,
+      "PHYSICALDAMAGE": 1,
+      "ENERGYPROTECT": 4,
+      "ENERGYDAMAGE": 2,
+      "ADDEFFECT": 5,
+      "SUBEFFECT": 6
+    },
+    "HEROQUALITY": {
+      "SSR": 4,
+      "R": 2,
+      "UR": 5,
+      "SR": 3
+    },
+    "SELECTTYPE": {
+      "SPECIFIC": 2,
+      "PRIOR": 1
+    },
+    "TARGETPOSTYPE": {
+      "FRONT": 1,
+      "BACK": 2
+    },
+    "TARGETCOND": {
+      "NONE": 0,
+      "ATK_MAX": 4,
+      "HP_MIN": 3,
+      "HP_MOST": 2,
+      "HP_LEAST": 1
+    },
+    "TARGETRANGETYPE": {
+      "SELF": 2,
+      "HP_MIN": 7,
+      "ORDER": 4,
+      "ALL": 1,
+      "ATK_MAX": 8,
+      "RANDOM": 3,
+      "HP_MOST": 6,
+      "HP_LEAST": 5
+    },
+    "TARGETCAMP": {
+      "ENEMY": 2,
+      "ME": 4,
+      "SELF": 1,
+      "ALL": 3
+    },
+    "TYPE": {
+      "COMMON": 1,
+      "BATTLE": 2,
+      "SPECIAL": 4,
+      "PASSIVE": 3
+    },
+    "TARGETCAMPTYPE": {
+      "HEAVY": 3,
+      "LIGHT": 1,
+      "MEDIUM": 2
+    }
+  },
+  "len": 0,
+  "first": 0,
+  "excelName": "HeroNew_新技能",
+  "key": "id",
+  "isNeedTransform": false
+}

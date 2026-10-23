@@ -1,0 +1,347 @@
+{
+  "isNeedTransform": false,
+  "excelName": "Activity_FateRevelation_命运启示",
+  "first": 101,
+  "data": {
+    "207": {
+      "benefit": {
+        "1": {
+          "Type": 10101,
+          "Value": 0.03,
+          "Source": 201
+        }
+      },
+      "id": 207,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "106": {
+      "benefit": {},
+      "id": 106,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_optionalBox_Resource4",
+          "count": 1
+        }
+      },
+      "weight": 100,
+      "poolId": 1
+    },
+    "103": {
+      "benefit": {},
+      "id": 103,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_4",
+          "count": 1
+        }
+      },
+      "weight": 13500,
+      "poolId": 1
+    },
+    "113": {
+      "benefit": {},
+      "id": 113,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_equip_produce_materials_03",
+          "count": 10
+        }
+      },
+      "weight": 12500,
+      "poolId": 1
+    },
+    "208": {
+      "benefit": {
+        "1": {
+          "Type": 10101,
+          "Value": 0.05,
+          "Source": 201
+        }
+      },
+      "id": 208,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "210": {
+      "benefit": {
+        "1": {
+          "Type": 20006,
+          "Value": 300,
+          "Source": 201
+        }
+      },
+      "id": 210,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "104": {
+      "benefit": {},
+      "id": 104,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_recruitCoin",
+          "count": 2
+        }
+      },
+      "weight": 5000,
+      "poolId": 1
+    },
+    "204": {
+      "benefit": {
+        "1": {
+          "Type": 20008,
+          "Value": 0.05,
+          "Source": 201
+        }
+      },
+      "id": 204,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "203": {
+      "benefit": {
+        "1": {
+          "Type": 20008,
+          "Value": 0.03,
+          "Source": 201
+        }
+      },
+      "id": 203,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "107": {
+      "benefit": {},
+      "id": 107,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_optionalBox_Resource3",
+          "count": 1
+        }
+      },
+      "weight": 2200,
+      "poolId": 1
+    },
+    "112": {
+      "benefit": {},
+      "id": 112,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_equip_produce_materials_04",
+          "count": 5
+        }
+      },
+      "weight": 4000,
+      "poolId": 1
+    },
+    "209": {
+      "benefit": {
+        "1": {
+          "Type": 20006,
+          "Value": 200,
+          "Source": 201
+        }
+      },
+      "id": 209,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "205": {
+      "benefit": {
+        "1": {
+          "Type": 20018,
+          "Value": 0.03,
+          "Source": 201
+        }
+      },
+      "id": 205,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "202": {
+      "benefit": {
+        "1": {
+          "Type": 20005,
+          "Value": 0.05,
+          "Source": 201
+        }
+      },
+      "id": 202,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "111": {
+      "benefit": {},
+      "id": 111,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_5m",
+          "count": 5
+        }
+      },
+      "weight": 12000,
+      "poolId": 1
+    },
+    "201": {
+      "benefit": {
+        "1": {
+          "Type": 20005,
+          "Value": 0.03,
+          "Source": 201
+        }
+      },
+      "id": 201,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "108": {
+      "benefit": {},
+      "id": 108,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_optionalBox_Resource2",
+          "count": 1
+        }
+      },
+      "weight": 6000,
+      "poolId": 1
+    },
+    "101": {
+      "benefit": {},
+      "id": 101,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 3
+        }
+      },
+      "weight": 100,
+      "poolId": 1
+    },
+    "116": {
+      "benefit": {},
+      "id": 116,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Box_gem_50",
+          "count": 1
+        }
+      },
+      "weight": 16500,
+      "poolId": 1
+    },
+    "109": {
+      "benefit": {},
+      "id": 109,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_60m",
+          "count": 1
+        }
+      },
+      "weight": 2000,
+      "poolId": 1
+    },
+    "114": {
+      "benefit": {},
+      "id": 114,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Box_gem_1000",
+          "count": 1
+        }
+      },
+      "weight": 100,
+      "poolId": 1
+    },
+    "206": {
+      "benefit": {
+        "1": {
+          "Type": 20018,
+          "Value": 0.05,
+          "Source": 201
+        }
+      },
+      "id": 206,
+      "rewards": {},
+      "weight": 1000,
+      "poolId": 2
+    },
+    "115": {
+      "benefit": {},
+      "id": 115,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Box_gem_200",
+          "count": 1
+        }
+      },
+      "weight": 8000,
+      "poolId": 1
+    },
+    "105": {
+      "benefit": {},
+      "id": 105,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_UseUp_workerRecruitCoin",
+          "count": 2
+        }
+      },
+      "weight": 5000,
+      "poolId": 1
+    },
+    "102": {
+      "benefit": {},
+      "id": 102,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_Material_universalFragment_5",
+          "count": 1
+        }
+      },
+      "weight": 5000,
+      "poolId": 1
+    },
+    "110": {
+      "benefit": {},
+      "id": 110,
+      "rewards": {
+        "1": {
+          "type": 99,
+          "id": "item_SpeedUp_general_15m",
+          "count": 2
+        }
+      },
+      "weight": 8000,
+      "poolId": 1
+    }
+  },
+  "key": "id",
+  "len": 26
+}

@@ -1,0 +1,65 @@
+{
+  "key": "id",
+  "len": 2,
+  "data": {
+    "2": {
+      "winReward": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "2": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "winDrop": {},
+      "id": 2,
+      "failReward": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "arenaId": 1002,
+      "failDrop": {}
+    },
+    "1": {
+      "winReward": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 200,
+          "type": 99
+        },
+        "2": {
+          "count": 50000,
+          "type": 5
+        }
+      },
+      "winDrop": {},
+      "id": 1,
+      "failReward": {
+        "1": {
+          "id": "item_Activity_dualCommander",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "count": 25000,
+          "type": 5
+        }
+      },
+      "arenaId": 1001,
+      "failDrop": {}
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "AEArena_竞技场"
+}

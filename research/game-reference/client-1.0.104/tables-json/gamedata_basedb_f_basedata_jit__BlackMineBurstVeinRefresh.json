@@ -1,0 +1,45 @@
+{
+  "key": "id",
+  "len": 6,
+  "data": {
+    "4": {
+      "noticeTime": 19,
+      "id": 4,
+      "delayTime": 20,
+      "disppearTime": 1
+    },
+    "5": {
+      "noticeTime": 19,
+      "id": 5,
+      "delayTime": 21,
+      "disppearTime": 1
+    },
+    "6": {
+      "noticeTime": 19,
+      "id": 6,
+      "delayTime": 22,
+      "disppearTime": 1
+    },
+    "1": {
+      "noticeTime": 9,
+      "id": 1,
+      "delayTime": 10,
+      "disppearTime": 1
+    },
+    "2": {
+      "noticeTime": 9,
+      "id": 2,
+      "delayTime": 11,
+      "disppearTime": 1
+    },
+    "3": {
+      "noticeTime": 9,
+      "id": 3,
+      "delayTime": 12,
+      "disppearTime": 1
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

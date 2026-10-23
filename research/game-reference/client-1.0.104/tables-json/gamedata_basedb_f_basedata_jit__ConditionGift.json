@@ -1,0 +1,3721 @@
+{
+  "excelName": "ConditionGift_条件礼包",
+  "len": 144,
+  "isNeedTransform": true,
+  "data": {
+    "zhubaoBP_free_11": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 11,
+      "resetCron": "",
+      "id": "zhubaoBP_free_11",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 22,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement4": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 4,
+      "resetCron": "",
+      "id": "season_Achievement4",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 400
+        }
+      }
+    },
+    "zhubaoBP_free_15": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 15,
+      "resetCron": "",
+      "id": "zhubaoBP_free_15",
+      "rewards": {
+        "1": {
+          "id": "item_Material_universalFragment_5",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 30,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement52": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 52,
+      "resetCron": "",
+      "id": "season_Achievement52",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 8400
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_3": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_3",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_4",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 21,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_2": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 20,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement26": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 26,
+      "resetCron": "",
+      "id": "season_Achievement26",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 3200
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part4_5": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_5",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 29,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part1_6": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 12,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_4": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_4",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 400
+        },
+        "2": {
+          "id": "item_optionalBox_Resource4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 8,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement30": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 30,
+      "resetCron": "",
+      "id": "season_Achievement30",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 4000
+        }
+      }
+    },
+    "season_Achievement35": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 35,
+      "resetCron": "",
+      "id": "season_Achievement35",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 5000
+        }
+      }
+    },
+    "zhubaoBP_free_3": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_free_3",
+      "rewards": {
+        "1": {
+          "id": "item_equip_produce_materials_05",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 6,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_1": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_1",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 13,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_1": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_free_1",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 2,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_8": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 8,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_8",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 600
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 16,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement31": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 31,
+      "resetCron": "",
+      "id": "season_Achievement31",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 4200
+        }
+      }
+    },
+    "zhubaoBP_Purchase_5": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_5",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 400
+        },
+        "2": {
+          "id": "item_equip_produce_materials_05",
+          "count": 75,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 10,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part4_1": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_1",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 25,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement47": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 47,
+      "resetCron": "",
+      "id": "season_Achievement47",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 7400
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_3": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_3",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_4",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 15,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part1_2": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 8,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement11": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 11,
+      "resetCron": "",
+      "id": "season_Achievement11",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1100
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_2": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 4,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 14,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement13": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 13,
+      "resetCron": "",
+      "id": "season_Achievement13",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1300
+        }
+      }
+    },
+    "zhubaoBP_free_part3_5": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_5",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 23,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_6": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 24,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement39": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 39,
+      "resetCron": "",
+      "id": "season_Achievement39",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 5800
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_1": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_1",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 19,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_11": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 11,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_11",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 700
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 22,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_15": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 15,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_15",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 30,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement58": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 58,
+      "resetCron": "",
+      "id": "season_Achievement58",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 9600
+        }
+      }
+    },
+    "season_Achievement51": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 51,
+      "resetCron": "",
+      "id": "season_Achievement51",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 8200
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part4_1": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_1",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 500,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 25,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement5": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 5,
+      "resetCron": "",
+      "id": "season_Achievement5",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 500
+        }
+      }
+    },
+    "season_Achievement15": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 15,
+      "resetCron": "",
+      "id": "season_Achievement15",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1500
+        }
+      }
+    },
+    "zhubaoBP_free_part1_3": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_3",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 9,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement54": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 54,
+      "resetCron": "",
+      "id": "season_Achievement54",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 8800
+        }
+      }
+    },
+    "season_Achievement41": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 41,
+      "resetCron": "",
+      "id": "season_Achievement41",
+      "rewards": {
+        "1": {
+          "id": "item_LordJob_jinengchongzhi",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 6200
+        }
+      }
+    },
+    "zhubaoBP_free_part1_2": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 8,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_3": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_3",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 300
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 6,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_2": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_free_2",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 4,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part2_6": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 18,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement57": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 57,
+      "resetCron": "",
+      "id": "season_Achievement57",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 9400
+        }
+      }
+    },
+    "season_Achievement10": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 10,
+      "resetCron": "",
+      "id": "season_Achievement10",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1000
+        }
+      }
+    },
+    "season_Achievement23": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 23,
+      "resetCron": "",
+      "id": "season_Achievement23",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 2600
+        }
+      }
+    },
+    "zhubaoBP_free_part1_1": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_1",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 7,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement27": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 27,
+      "resetCron": "",
+      "id": "season_Achievement27",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 3400
+        }
+      }
+    },
+    "zhubaoBP_free_6": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_free_6",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 12,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_10": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 10,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_10",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 700
+        },
+        "2": {
+          "id": "item_optionalBox_Resource4",
+          "count": 6,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 20,
+          "param1": "1001"
+        }
+      }
+    },
+    "xinshou_worker_10071": {
+      "desc": "",
+      "sourceType": 1,
+      "sort": 0,
+      "resetCron": "",
+      "id": "xinshou_worker_10071",
+      "rewards": {
+        "1": {
+          "id": 10071,
+          "count": 1,
+          "type": 1100001
+        },
+        "2": {
+          "id": 10034,
+          "count": 1,
+          "type": 1100001
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 900109,
+          "param1": "17"
+        }
+      }
+    },
+    "season_Achievement60": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 60,
+      "resetCron": "",
+      "id": "season_Achievement60",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 10000
+        }
+      }
+    },
+    "zhubaoBP_Purchase_13": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 13,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_13",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 800
+        },
+        "2": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 26,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_6": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 18,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement22": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 22,
+      "resetCron": "",
+      "id": "season_Achievement22",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 2400
+        }
+      }
+    },
+    "zhubaoBP_free_part4_4": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 28,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement29": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 29,
+      "resetCron": "",
+      "id": "season_Achievement29",
+      "rewards": {
+        "1": {
+          "id": "item_LordJob_jinengchongzhi",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 3800
+        }
+      }
+    },
+    "season_Achievement20": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 20,
+      "resetCron": "",
+      "id": "season_Achievement20",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 2000
+        }
+      }
+    },
+    "season_Achievement3": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 3,
+      "resetCron": "",
+      "id": "season_Achievement3",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 300
+        }
+      }
+    },
+    "season_Achievement28": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 28,
+      "resetCron": "",
+      "id": "season_Achievement28",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 3600
+        }
+      }
+    },
+    "season_Achievement9": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 9,
+      "resetCron": "",
+      "id": "season_Achievement9",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 900
+        }
+      }
+    },
+    "zhubaoBP_free_part3_6": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 24,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement56": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 56,
+      "resetCron": "",
+      "id": "season_Achievement56",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 9200
+        }
+      }
+    },
+    "bangding_500": {
+      "desc": "",
+      "sourceType": 0,
+      "sort": 0,
+      "resetCron": "",
+      "id": "bangding_500",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 500
+        }
+      },
+      "conditions": {}
+    },
+    "season_Achievement21": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 21,
+      "resetCron": "",
+      "id": "season_Achievement21",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 2200
+        }
+      }
+    },
+    "season_Achievement44": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 44,
+      "resetCron": "",
+      "id": "season_Achievement44",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 6800
+        }
+      }
+    },
+    "xinshou_hero_13002": {
+      "desc": "",
+      "sourceType": 0,
+      "sort": 0,
+      "resetCron": "",
+      "id": "xinshou_hero_13002",
+      "rewards": {
+        "1": {
+          "id": 13002,
+          "count": 1,
+          "type": 90
+        }
+      },
+      "conditions": {}
+    },
+    "zhubaoBP_Purchase_part1_1": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_1",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Food_4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 7,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement40": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 40,
+      "resetCron": "",
+      "id": "season_Achievement40",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 6000
+        }
+      }
+    },
+    "season_Achievement43": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 43,
+      "resetCron": "",
+      "id": "season_Achievement43",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 6600
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part1_3": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_3",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 9,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement1": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 1,
+      "resetCron": "",
+      "id": "season_Achievement1",
+      "rewards": {
+        "1": {
+          "id": "item_heroChange_30003",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 100
+        }
+      }
+    },
+    "season_Achievement7": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 7,
+      "resetCron": "",
+      "id": "season_Achievement7",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 700
+        }
+      }
+    },
+    "season_Achievement16": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 16,
+      "resetCron": "",
+      "id": "season_Achievement16",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1600
+        }
+      }
+    },
+    "xinshou_worker_10001": {
+      "desc": "",
+      "sourceType": 1,
+      "sort": 0,
+      "resetCron": "",
+      "id": "xinshou_worker_10001",
+      "rewards": {
+        "1": {
+          "id": 10036,
+          "count": 1,
+          "type": 1100001
+        }
+      },
+      "conditions": {}
+    },
+    "zhubaoBP_Purchase_part4_3": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_3",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 15,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Metal_4",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 27,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part3_3": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_3",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 21,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement55": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 55,
+      "resetCron": "",
+      "id": "season_Achievement55",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 9000
+        }
+      }
+    },
+    "season_Achievement34": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 34,
+      "resetCron": "",
+      "id": "season_Achievement34",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 4800
+        }
+      }
+    },
+    "season_Achievement17": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 17,
+      "resetCron": "",
+      "id": "season_Achievement17",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1700
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part1_5": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_5",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 11,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement59": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 59,
+      "resetCron": "",
+      "id": "season_Achievement59",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 9800
+        }
+      }
+    },
+    "season_Achievement2": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 2,
+      "resetCron": "",
+      "id": "season_Achievement2",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 10,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 200
+        }
+      }
+    },
+    "season_Achievement12": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 12,
+      "resetCron": "",
+      "id": "season_Achievement12",
+      "rewards": {
+        "1": {
+          "id": "item_LordJob_jinengchongzhi",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1200
+        }
+      }
+    },
+    "zhubaoBP_Purchase_14": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 14,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_14",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 900
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 28,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement53": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 53,
+      "resetCron": "",
+      "id": "season_Achievement53",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 8600
+        }
+      }
+    },
+    "season_Achievement32": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 32,
+      "resetCron": "",
+      "id": "season_Achievement32",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 4400
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part1_4": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 10,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement6": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 6,
+      "resetCron": "",
+      "id": "season_Achievement6",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 600
+        }
+      }
+    },
+    "bangding_200": {
+      "desc": "",
+      "sourceType": 0,
+      "sort": 0,
+      "resetCron": "",
+      "id": "bangding_200",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 200
+        }
+      },
+      "conditions": {}
+    },
+    "zhubaoBP_free_10": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 10,
+      "resetCron": "",
+      "id": "zhubaoBP_free_10",
+      "rewards": {
+        "1": {
+          "id": "item_optionalBox_Resource4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 20,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement36": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 36,
+      "resetCron": "",
+      "id": "season_Achievement36",
+      "rewards": {
+        "1": {
+          "id": "item_LordJob_zhiyechongzhi",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 5200
+        }
+      }
+    },
+    "season_Achievement8": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 8,
+      "resetCron": "",
+      "id": "season_Achievement8",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 800
+        }
+      }
+    },
+    "season_Achievement14": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 14,
+      "resetCron": "",
+      "id": "season_Achievement14",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1400
+        }
+      }
+    },
+    "season_Achievement24": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 24,
+      "resetCron": "",
+      "id": "season_Achievement24",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 2800
+        }
+      }
+    },
+    "zhubaoBP_free_part4_6": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 30,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part4_5": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_5",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 29,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement48": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 48,
+      "resetCron": "",
+      "id": "season_Achievement48",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 7600
+        }
+      }
+    },
+    "zhubaoBP_free_5": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_free_5",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 10,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_4": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 3,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 22,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part4_3": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_3",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 27,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement33": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 33,
+      "resetCron": "",
+      "id": "season_Achievement33",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 4600
+        }
+      }
+    },
+    "zhubaoBP_free_part2_2": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 14,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part4_2": {
+      "desc": "",
+      "sourceType": 19,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part4_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 26,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement46": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 46,
+      "resetCron": "",
+      "id": "season_Achievement46",
+      "rewards": {
+        "1": {
+          "id": "item_Resource_strength001_50",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 7200
+        }
+      }
+    },
+    "zhubaoBP_free_part3_2": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 20,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part3_1": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_1",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 19,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part2_5": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_5",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 17,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement49": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 49,
+      "resetCron": "",
+      "id": "season_Achievement49",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 7800
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part1_6": {
+      "desc": "",
+      "sourceType": 14,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part1_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 35,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 3,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000101",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 12,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part3_5": {
+      "desc": "",
+      "sourceType": 18,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part3_5",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 120,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000103",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 23,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part2_1": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_1",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 13,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part1_5": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_5",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 11,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part2_4": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 16,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement38": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 38,
+      "resetCron": "",
+      "id": "season_Achievement38",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 5,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 5600
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_5": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 5,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_5",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_castleBox_Energy_4",
+          "count": 7,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 17,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement19": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 19,
+      "resetCron": "",
+      "id": "season_Achievement19",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1900
+        }
+      }
+    },
+    "zhubaoBP_free_9": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 9,
+      "resetCron": "",
+      "id": "zhubaoBP_free_9",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 18,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part2_4": {
+      "desc": "",
+      "sourceType": 16,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part2_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 70,
+          "type": 99
+        },
+        "2": {
+          "id": "item_castleBox_HeroEXP_4",
+          "count": 5,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000102",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 16,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement37": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 37,
+      "resetCron": "",
+      "id": "season_Achievement37",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 5400
+        }
+      }
+    },
+    "zhubaoBP_free_8": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 8,
+      "resetCron": "",
+      "id": "zhubaoBP_free_8",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 16,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement18": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 18,
+      "resetCron": "",
+      "id": "season_Achievement18",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 2,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 1800
+        }
+      }
+    },
+    "zhubaoBP_Purchase_2": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_2",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 300
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 4,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement42": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 42,
+      "resetCron": "",
+      "id": "season_Achievement42",
+      "rewards": {
+        "1": {
+          "type": 1100006,
+          "count": 500
+        },
+        "2": {
+          "id": "item_Box_gem_50",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 6400
+        }
+      }
+    },
+    "zhubaoBP_free_7": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 7,
+      "resetCron": "",
+      "id": "zhubaoBP_free_7",
+      "rewards": {
+        "1": {
+          "id": "item_UseUp_workerRecruitCoin",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 14,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_9": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 9,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_9",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 600
+        },
+        "2": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 18,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_14": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 14,
+      "resetCron": "",
+      "id": "zhubaoBP_free_14",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 28,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_13": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 13,
+      "resetCron": "",
+      "id": "zhubaoBP_free_13",
+      "rewards": {
+        "1": {
+          "id": "item_equip_produce_materials_05",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 26,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_12": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 12,
+      "resetCron": "",
+      "id": "zhubaoBP_free_12",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 24,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part4_6": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_6",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 30,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part4_4": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_5",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 28,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_part4_2": {
+      "desc": "",
+      "sourceType": 20,
+      "sort": 2,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_part4_2",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_build_5m",
+          "count": 250,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000104",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 26,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part2_3": {
+      "desc": "",
+      "sourceType": 15,
+      "sort": 3,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part2_3",
+      "rewards": {
+        "1": {
+          "id": "item_Box_gem_100",
+          "count": 1,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 15,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_4": {
+      "desc": "",
+      "sourceType": 10,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_free_4",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 100
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 8,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement50": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 50,
+      "resetCron": "",
+      "id": "season_Achievement50",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 8000
+        }
+      }
+    },
+    "zhubaoBP_Purchase_6": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 6,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_6",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 500
+        },
+        "2": {
+          "id": "item_UseUp_recruitCoin",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 12,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_Purchase_12": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 12,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_12",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 800
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 2,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 24,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement25": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 25,
+      "resetCron": "",
+      "id": "season_Achievement25",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 20,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 3000
+        }
+      }
+    },
+    "zhubaoBP_Purchase_1": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 1,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_1",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 10000
+        },
+        "2": {
+          "id": "item_Material_universalFragment_5",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 2,
+          "param1": "1001"
+        }
+      }
+    },
+    "xinshou_worker_10069": {
+      "desc": "",
+      "sourceType": 1,
+      "sort": 0,
+      "resetCron": "",
+      "id": "xinshou_worker_10069",
+      "rewards": {
+        "1": {
+          "id": 10069,
+          "count": 1,
+          "type": 1100001
+        }
+      },
+      "conditions": {}
+    },
+    "zhubaoBP_Purchase_7": {
+      "desc": "",
+      "sourceType": 11,
+      "sort": 7,
+      "resetCron": "",
+      "id": "zhubaoBP_Purchase_7",
+      "rewards": {
+        "1": {
+          "type": 11,
+          "count": 500
+        },
+        "2": {
+          "id": "item_optionalBox_Resource4",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 110004,
+          "param2": "1",
+          "param1": "300000009",
+          "includeHistory": true
+        },
+        "2": {
+          "id": 20103,
+          "param2": 14,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part1_4": {
+      "desc": "",
+      "sourceType": 13,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part1_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 10,
+          "param1": "1001"
+        }
+      }
+    },
+    "zhubaoBP_free_part3_4": {
+      "desc": "",
+      "sourceType": 17,
+      "sort": 4,
+      "resetCron": "",
+      "id": "zhubaoBP_free_part3_4",
+      "rewards": {
+        "1": {
+          "id": "item_SpeedUp_general_5m",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 20103,
+          "param2": 22,
+          "param1": "1001"
+        }
+      }
+    },
+    "season_Achievement45": {
+      "desc": "",
+      "sourceType": 12,
+      "sort": 45,
+      "resetCron": "",
+      "id": "season_Achievement45",
+      "rewards": {
+        "1": {
+          "id": "item_Material_fragment_30003",
+          "count": 40,
+          "type": 99
+        },
+        "2": {
+          "type": 1100006,
+          "count": 500
+        }
+      },
+      "conditions": {
+        "1": {
+          "id": 41001002,
+          "param1": 7000
+        }
+      }
+    }
+  },
+  "key": "id"
+}

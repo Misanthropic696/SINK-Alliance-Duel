@@ -1,0 +1,529 @@
+{
+  "len": 40,
+  "key": "id",
+  "excelName": "L-领主专长",
+  "first": 1,
+  "isNeedTransform": false,
+  "data": {
+    "22": {
+      "seasonAge": 1,
+      "exp": 120000,
+      "id": 22,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 23760
+        }
+      }
+    },
+    "32": {
+      "seasonAge": 1,
+      "exp": 240000,
+      "id": 32,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 34560
+        }
+      }
+    },
+    "20": {
+      "seasonAge": 1,
+      "exp": 90000,
+      "id": 20,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 21600
+        }
+      }
+    },
+    "30": {
+      "seasonAge": 1,
+      "exp": 200000,
+      "id": 30,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 32400
+        }
+      }
+    },
+    "16": {
+      "seasonAge": 1,
+      "exp": 90000,
+      "id": 16,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 17280
+        }
+      }
+    },
+    "26": {
+      "seasonAge": 1,
+      "exp": 140000,
+      "id": 26,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 28080
+        }
+      }
+    },
+    "14": {
+      "seasonAge": 1,
+      "exp": 70000,
+      "id": 14,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 15120
+        }
+      }
+    },
+    "24": {
+      "seasonAge": 1,
+      "exp": 120000,
+      "id": 24,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 25920
+        }
+      }
+    },
+    "28": {
+      "seasonAge": 1,
+      "exp": 160000,
+      "id": 28,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 30240
+        }
+      }
+    },
+    "38": {
+      "seasonAge": 1,
+      "exp": 280000,
+      "id": 38,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 41040
+        }
+      }
+    },
+    "18": {
+      "seasonAge": 1,
+      "exp": 90000,
+      "id": 18,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 19440
+        }
+      }
+    },
+    "10": {
+      "seasonAge": 1,
+      "exp": 60000,
+      "id": 10,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 10800
+        }
+      }
+    },
+    "12": {
+      "seasonAge": 1,
+      "exp": 70000,
+      "id": 12,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 12960
+        }
+      }
+    },
+    "33": {
+      "seasonAge": 1,
+      "exp": 240000,
+      "id": 33,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 35640
+        }
+      }
+    },
+    "23": {
+      "seasonAge": 1,
+      "exp": 120000,
+      "id": 23,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 24840
+        }
+      }
+    },
+    "31": {
+      "seasonAge": 1,
+      "exp": 200000,
+      "id": 31,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 33480
+        }
+      }
+    },
+    "21": {
+      "seasonAge": 1,
+      "exp": 120000,
+      "id": 21,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 22680
+        }
+      }
+    },
+    "27": {
+      "seasonAge": 1,
+      "exp": 140000,
+      "id": 27,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 29160
+        }
+      }
+    },
+    "17": {
+      "seasonAge": 1,
+      "exp": 90000,
+      "id": 17,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 18360
+        }
+      }
+    },
+    "25": {
+      "seasonAge": 1,
+      "exp": 120000,
+      "id": 25,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 27000
+        }
+      }
+    },
+    "15": {
+      "seasonAge": 1,
+      "exp": 70000,
+      "id": 15,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 16200
+        }
+      }
+    },
+    "39": {
+      "seasonAge": 1,
+      "exp": 300000,
+      "id": 39,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 42120
+        }
+      }
+    },
+    "29": {
+      "seasonAge": 1,
+      "exp": 160000,
+      "id": 29,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 31320
+        }
+      }
+    },
+    "19": {
+      "seasonAge": 1,
+      "exp": 90000,
+      "id": 19,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 20520
+        }
+      }
+    },
+    "11": {
+      "seasonAge": 1,
+      "exp": 70000,
+      "id": 11,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 11880
+        }
+      }
+    },
+    "13": {
+      "seasonAge": 1,
+      "exp": 70000,
+      "id": 13,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 14040
+        }
+      }
+    },
+    "9": {
+      "seasonAge": 1,
+      "exp": 50000,
+      "id": 9,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 9720
+        }
+      }
+    },
+    "8": {
+      "seasonAge": 1,
+      "exp": 40000,
+      "id": 8,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 8640
+        }
+      }
+    },
+    "35": {
+      "seasonAge": 1,
+      "exp": 260000,
+      "id": 35,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 37800
+        }
+      }
+    },
+    "34": {
+      "seasonAge": 1,
+      "exp": 260000,
+      "id": 34,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 36720
+        }
+      }
+    },
+    "37": {
+      "seasonAge": 1,
+      "exp": 280000,
+      "id": 37,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 39960
+        }
+      }
+    },
+    "40": {
+      "seasonAge": 1,
+      "exp": 300000,
+      "id": 40,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 43200
+        }
+      }
+    },
+    "1": {
+      "seasonAge": 1,
+      "exp": 1000,
+      "id": 1,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 1080
+        }
+      }
+    },
+    "36": {
+      "seasonAge": 1,
+      "exp": 280000,
+      "id": 36,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 38880
+        }
+      }
+    },
+    "3": {
+      "seasonAge": 1,
+      "exp": 10000,
+      "id": 3,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 3240
+        }
+      }
+    },
+    "2": {
+      "seasonAge": 1,
+      "exp": 5000,
+      "id": 2,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 2160
+        }
+      }
+    },
+    "5": {
+      "seasonAge": 1,
+      "exp": 20000,
+      "id": 5,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 5400
+        }
+      }
+    },
+    "4": {
+      "seasonAge": 1,
+      "exp": 15000,
+      "id": 4,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 4320
+        }
+      }
+    },
+    "7": {
+      "seasonAge": 1,
+      "exp": 40000,
+      "id": 7,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 7560
+        }
+      }
+    },
+    "6": {
+      "seasonAge": 1,
+      "exp": 30000,
+      "id": 6,
+      "skillExp": 1,
+      "benefits": {
+        "1": {
+          "Type": 3000026,
+          "Source": 100004,
+          "Value": 6480
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "2": {
+      "id": 2,
+      "desc1": "Train {0} Soldier(s)"
+    },
+    "1": {
+      "id": 1,
+      "desc1": "Top Up once"
+    },
+    "4": {
+      "id": 4,
+      "desc1": "Donate to Alliance Tech 6 times"
+    },
+    "3": {
+      "id": 3,
+      "desc1": "Complete Falcon Quest once"
+    }
+  },
+  "len": 4,
+  "key": "id",
+  "source_format": "locale rows"
+}

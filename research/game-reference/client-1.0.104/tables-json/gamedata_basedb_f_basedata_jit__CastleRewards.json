@@ -1,0 +1,201 @@
+{
+  "data": {
+    "10": {
+      "id": 10,
+      "receiveTime": 0,
+      "receiveLv": 25,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 990,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 6000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day6"
+    },
+    "7": {
+      "id": 7,
+      "receiveTime": 0,
+      "receiveLv": 18,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 993,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 2000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day3"
+    },
+    "6": {
+      "id": 6,
+      "receiveTime": 0,
+      "receiveLv": 16,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 994,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1600
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day3"
+    },
+    "5": {
+      "id": 5,
+      "receiveTime": 0,
+      "receiveLv": 14,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 995,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1400
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day2"
+    },
+    "4": {
+      "id": 4,
+      "receiveTime": 0,
+      "receiveLv": 12,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 996,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1400
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day2"
+    },
+    "3": {
+      "id": 3,
+      "receiveTime": 0,
+      "receiveLv": 10,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 997,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1200
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day1"
+    },
+    "2": {
+      "id": 2,
+      "receiveTime": 0,
+      "receiveLv": 8,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 998,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1200
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day1"
+    },
+    "1": {
+      "id": 1,
+      "receiveTime": 0,
+      "receiveLv": 6,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 999,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 1200
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day1"
+    },
+    "9": {
+      "id": 9,
+      "receiveTime": 0,
+      "receiveLv": 23,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 991,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 4000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day5"
+    },
+    "8": {
+      "id": 8,
+      "receiveTime": 0,
+      "receiveLv": 21,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 992,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 3000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day4"
+    },
+    "11": {
+      "id": 11,
+      "receiveTime": 0,
+      "receiveLv": 28,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 989,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 9000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day7"
+    },
+    "12": {
+      "id": 12,
+      "receiveTime": 0,
+      "receiveLv": 30,
+      "rewardName": "",
+      "rewardConditionType": 1,
+      "displaySort": 988,
+      "item": {
+        "1": {
+          "type": 11,
+          "count": 18000
+        }
+      },
+      "welfareConfigID": 10070,
+      "rewardIcon": "FinancialPlan_Icon_Day8"
+    }
+  },
+  "isNeedTransform": true,
+  "excelName": "Gift_礼包表",
+  "len": 12,
+  "first": 1,
+  "key": "id"
+}

@@ -1,0 +1,184 @@
+{
+  "excelName": "ReportCompare_战报对比",
+  "first": 1,
+  "key": "id",
+  "len": 14,
+  "data": {
+    "2": {
+      "title2": "",
+      "functionId": "",
+      "id": 2,
+      "faq": "",
+      "title": "",
+      "type": 1,
+      "condition": 1,
+      "repel": {
+        "1": 1
+      },
+      "order": 8000,
+      "icon": ""
+    },
+    "1": {
+      "title2": "",
+      "functionId": "",
+      "id": 1,
+      "faq": "",
+      "title": "",
+      "type": 1,
+      "condition": 1,
+      "repel": {
+        "1": 2,
+        "2": 3
+      },
+      "order": 10000,
+      "icon": ""
+    },
+    "18": {
+      "title2": "",
+      "functionId": "",
+      "id": 18,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 9000,
+      "icon": ""
+    },
+    "17": {
+      "title2": "",
+      "functionId": "",
+      "id": 17,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 7000,
+      "icon": ""
+    },
+    "4": {
+      "title2": "",
+      "functionId": "",
+      "id": 4,
+      "faq": "",
+      "title": "",
+      "type": 1,
+      "condition": 1,
+      "repel": {},
+      "order": 5000,
+      "icon": ""
+    },
+    "3": {
+      "title2": "",
+      "functionId": "",
+      "id": 3,
+      "faq": "",
+      "title": "",
+      "type": 1,
+      "condition": 1,
+      "repel": {
+        "1": 1
+      },
+      "order": 5000,
+      "icon": ""
+    },
+    "22": {
+      "title2": "",
+      "functionId": "",
+      "id": 22,
+      "faq": "",
+      "title": "",
+      "type": 3,
+      "condition": 1,
+      "repel": {},
+      "order": 900,
+      "icon": ""
+    },
+    "21": {
+      "title2": "",
+      "functionId": "",
+      "id": 21,
+      "faq": "",
+      "title": "",
+      "type": 3,
+      "condition": 1,
+      "repel": {},
+      "order": 1000,
+      "icon": ""
+    },
+    "16": {
+      "title2": "",
+      "functionId": "",
+      "id": 16,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 8000,
+      "icon": ""
+    },
+    "15": {
+      "title2": "",
+      "functionId": "",
+      "id": 15,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 7000,
+      "icon": ""
+    },
+    "12": {
+      "title2": "",
+      "functionId": "",
+      "id": 12,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 7000,
+      "icon": ""
+    },
+    "11": {
+      "title2": "",
+      "functionId": "",
+      "id": 11,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 7000,
+      "icon": ""
+    },
+    "13": {
+      "title2": "",
+      "functionId": "",
+      "id": 13,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 6000,
+      "icon": ""
+    },
+    "14": {
+      "title2": "",
+      "functionId": "",
+      "id": 14,
+      "faq": "",
+      "title": "",
+      "type": 2,
+      "condition": 1,
+      "repel": {},
+      "order": 5000,
+      "icon": ""
+    }
+  },
+  "isNeedTransform": true
+}

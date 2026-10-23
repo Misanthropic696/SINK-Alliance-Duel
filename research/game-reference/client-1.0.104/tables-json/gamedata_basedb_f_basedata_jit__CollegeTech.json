@@ -1,0 +1,8000 @@
+{
+  "data": {
+    "4003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 4003,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 3003,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "2003": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 2003,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "1003": {
+      "maxValue": 0.025,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 1003,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "7013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_15",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 7013,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "8013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_15",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 8013,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "5013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_15",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 5013,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "6013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_15",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 6013,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "3013": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 3013,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "4013": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_1",
+      "battleType": 1,
+      "id": 4013,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "1013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 1013,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "17001": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 17001,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "1031": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 1031,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "1001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 1001,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "4001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 4001,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 3001,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3020": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 3020,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "2020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 2020,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 1020,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "12008": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 12008,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "1011": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 1011,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 2011,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "11013": {
+      "maxValue": 0.25,
+      "maxLevel": 10,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 11013,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "1015": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 1015,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "18015": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 18015,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "8020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_20",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 8020,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "8003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 8003,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 7003,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "11015": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_2"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 11015,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "18012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 18012,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "2036": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 2036,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "12016": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 12016,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "2024": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_1"
+        },
+        "2": {
+          "pos": "1_6_3"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 2024,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1024": {
+      "maxValue": 0.025,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 1024,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "2028": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_1",
+      "battleType": 1,
+      "id": 2028,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1028": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 1028,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "5014": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 5014,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "6014": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 6014,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "16001": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 16001,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "4014": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_3",
+      "battleType": 1,
+      "id": 4014,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "1014": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_1"
+        },
+        "2": {
+          "pos": "1_10_3"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 1014,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "16011": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 16011,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "17023": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_2"
+        }
+      },
+      "pos": "1_13_2",
+      "battleType": 1,
+      "id": 17023,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "6008": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 6008,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "5008": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 5008,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "8008": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 8008,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7008": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 7008,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "2008": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 2008,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "1008": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 1008,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "4008": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 4008,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3008": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 3008,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "10005": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 10005,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "2021": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 2021,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "3021": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 3021,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "1029": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 1029,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "12015": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 12015,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "18010": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 18010,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "4019": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_13_1"
+        },
+        "2": {
+          "pos": "13_3_3"
+        }
+      },
+      "pos": "1_14_2",
+      "battleType": 1,
+      "id": 4019,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3019": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 3019,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "13016": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 13016,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "13009": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 13009,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "8010": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 8010,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7010": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 7010,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "2019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 2019,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 1019,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "17011": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 17011,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "7019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_19",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 7019,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "2038": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 2038,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "10008": {
+      "maxValue": 3,
+      "maxLevel": 1,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_1",
+      "battleType": 1,
+      "id": 10008,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "13013": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 13013,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "10006": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 10006,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "18014": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 18014,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "16012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 16012,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "6006": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 6006,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "7006": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 7006,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "12009": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 12009,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "5006": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 5006,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "8006": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 8006,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "9006": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 9006,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "2030": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_1"
+        },
+        "2": {
+          "pos": "1_10_3"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 2030,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1030": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 1030,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "16020": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 16020,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "13008": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 13008,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "12013": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 12013,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "4010": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 4010,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3010": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 3010,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "6010": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 6010,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "12005": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 12005,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "16010": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 16010,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "3006": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 3006,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "1025": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 1025,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "1006": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 1006,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "3009": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 3009,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "4009": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 4009,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "5009": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 5009,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "6009": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 6009,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "13001": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        },
+        "2": {
+          "pos": "1_1_2"
+        },
+        "3": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 13001,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "1009": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 1009,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2009": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 2009,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "16008": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 16008,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "17018": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 17018,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "7009": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 7009,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "11011": {
+      "maxValue": 2.39,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 11011,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "9009": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_3",
+      "battleType": 1,
+      "id": 9009,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "11005": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 11005,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "10003": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 10003,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "12001": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        },
+        "2": {
+          "pos": "1_1_2"
+        },
+        "3": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 12001,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "11008": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_2"
+        },
+        "3": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 11008,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17007": {
+      "maxValue": 0.005,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 17007,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "1016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 1016,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "16018": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 16018,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "12011": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 12011,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "7016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_14",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 7016,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "8016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_14",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 8016,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "16017": {
+      "maxValue": 0.015,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 16017,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "3016": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_1"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 3016,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "4016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 4016,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "13006": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 13006,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "6016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_14",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 6016,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "17009": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 17009,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "11003": {
+      "maxValue": 0.48,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 11003,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "2026": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 2026,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1026": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 1026,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "12012": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 12012,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "11001": {
+      "maxValue": 300,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 11001,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17019": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_1",
+      "battleType": 1,
+      "id": 17019,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "18007": {
+      "maxValue": 0.005,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 18007,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "7002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 7002,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "8002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 8002,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "5002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 5002,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "6002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 6002,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "3002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 3002,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "11018": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_2"
+        },
+        "3": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_3",
+      "battleType": 1,
+      "id": 11018,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "18021": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_3",
+      "battleType": 1,
+      "id": 18021,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "6018": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_18",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 6018,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "13010": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 13010,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "8018": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_18",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 8018,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "1018": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 1018,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "2018": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 2018,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "3018": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_2"
+        },
+        "3": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 3018,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "13005": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 13005,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "2012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 2012,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "1012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 1012,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2035": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 2035,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "16009": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 16009,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "12003": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 12003,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "1002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 1002,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2002": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 2002,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "8012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 8012,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 7012,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "6012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 6012,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "5012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 5012,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "16019": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_1",
+      "battleType": 1,
+      "id": 16019,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "10001": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 10001,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "17008": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 17008,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "11012": {
+      "maxValue": 0.48,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 11012,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17021": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_3",
+      "battleType": 1,
+      "id": 17021,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "12010": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 12010,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "1022": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 1022,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "1034": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_1",
+      "battleType": 1,
+      "id": 1034,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2022": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_1",
+      "battleType": 1,
+      "id": 2022,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "1007": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 1007,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "11016": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_2"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 11016,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "5007": {
+      "maxValue": 0.15,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 5007,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "4007": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 4007,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3007": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 3007,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "13003": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 13003,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "11009": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 11009,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17006": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 17006,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "17004": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 17004,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "12002": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 12002,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "11010": {
+      "maxValue": 300,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 11010,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "9007": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 9007,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "8007": {
+      "maxValue": 0.15,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 8007,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7007": {
+      "maxValue": 0.15,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 7007,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "6007": {
+      "maxValue": 0.15,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 6007,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "12014": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 12014,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "12006": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 12006,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "10009": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_3",
+      "battleType": 1,
+      "id": 10009,
+      "des": "",
+      "techType": 10,
+      "previewReward": {
+        "1": {
+          "type": 1,
+          "count": 6092000
+        },
+        "2": {
+          "type": 2,
+          "count": 6092000
+        },
+        "3": {
+          "type": 3,
+          "count": 3888000
+        },
+        "4": {
+          "id": "item_Resource_allianceCoin_2500",
+          "type": 99,
+          "count": 1
+        },
+        "5": {
+          "id": "item_decorations_randomBox_1",
+          "type": 99,
+          "count": 1
+        },
+        "6": {
+          "id": "item_equipment_equipmentBox_rare",
+          "type": 99,
+          "count": 1
+        },
+        "7": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 1
+        },
+        "8": {
+          "id": "item_Material_universalFragment_5",
+          "type": 99,
+          "count": 1
+        },
+        "9": {
+          "id": "item_optionalBox_Resource",
+          "type": 99,
+          "count": 100
+        },
+        "10": {
+          "id": "item_SpeedUp_general_5m",
+          "type": 99,
+          "count": 20
+        }
+      }
+    },
+    "16004": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 16004,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "13002": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 13002,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "18005": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 18005,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "1032": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 1032,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "13007": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 13007,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "18013": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 18013,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "13014": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 13014,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "18011": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 18011,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "10002": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_1",
+      "battleType": 1,
+      "id": 10002,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "17005": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 17005,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "18008": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 18008,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "1027": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 1027,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "2027": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 2027,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "3027": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_15",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_3",
+      "battleType": 1,
+      "id": 3027,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "11019": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_1"
+        },
+        "2": {
+          "pos": "1_10_3"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 11019,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "9014": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 9014,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "9013": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 9013,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "9012": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 9012,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "9011": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 9011,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "18006": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 18006,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "11002": {
+      "maxValue": 2.39,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 11002,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "9010": {
+      "maxValue": 0,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_1"
+        },
+        "2": {
+          "pos": "1_6_3"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 9010,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "9008": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_1",
+      "battleType": 1,
+      "id": 9008,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "11014": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_2"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 11014,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "6020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_20",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 6020,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "4002": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 4002,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "9003": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 9003,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "9002": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 9002,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "16003": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 16003,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "9001": {
+      "maxValue": 0.5,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 9001,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "8019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_19",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 8019,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "18009": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 18009,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "8015": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_16",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 8015,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "8014": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 8014,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "8011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 8011,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "18017": {
+      "maxValue": 0.015,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 18017,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "8009": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 8009,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "6019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_19",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 6019,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "4006": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 4006,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "8001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 8001,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_20",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 7020,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "7018": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_18",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 7018,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "18004": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 18004,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "7015": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_16",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 7015,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "7014": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 7014,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "7011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 7011,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "13004": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 13004,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "7001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 7001,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "7004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 7004,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "3005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 3005,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "2005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 2005,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "5005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 5005,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "4005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_1",
+      "battleType": 1,
+      "id": 4005,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "7005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 7005,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "17020": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 17020,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "9005": {
+      "maxValue": 1,
+      "maxLevel": 20,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 9005,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "8005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 8005,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "18003": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 18003,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "6015": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_16",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 6015,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "17003": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 17003,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "1023": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 1023,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "2023": {
+      "maxValue": 0.2,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_2"
+        }
+      },
+      "pos": "1_6_3",
+      "battleType": 1,
+      "id": 2023,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "16007": {
+      "maxValue": 0.005,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 16007,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "1005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_1"
+        },
+        "2": {
+          "pos": "1_3_2"
+        },
+        "3": {
+          "pos": "1_3_3"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 1005,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "6011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 6011,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "6005": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 6005,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "6004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 6004,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "6003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 6003,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "16014": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 16014,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "6001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 6001,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "5020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_20",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 5020,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5019": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_19",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 5019,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5018": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_18",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 5018,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5017": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_17",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 5017,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5016": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_14",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 5016,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5015": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_16",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 5015,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 5011,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "5010": {
+      "maxValue": 0.5,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 5010,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "4011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 4011,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "12004": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 12004,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "5003": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 5003,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "16006": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 16006,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "5001": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 5001,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "16016": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 16016,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "4020": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_14_2"
+        }
+      },
+      "pos": "1_15_2",
+      "battleType": 1,
+      "id": 4020,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "18020": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 18020,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "4018": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_2"
+        }
+      },
+      "pos": "1_13_3",
+      "battleType": 1,
+      "id": 4018,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "18002": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 18002,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "4015": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_1"
+        },
+        "2": {
+          "pos": "1_10_3"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 4015,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "4012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_2"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 4012,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "1004": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 1004,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 2004,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "3004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        }
+      },
+      "pos": "1_2_1",
+      "battleType": 1,
+      "id": 3004,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "4004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 4004,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "5004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 5004,
+      "des": "",
+      "techType": 5,
+      "previewReward": {}
+    },
+    "16015": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 16015,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "17002": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 17002,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "8004": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 8004,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "9004": {
+      "maxValue": 0,
+      "maxLevel": 1,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_AllianceShowdown_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 9004,
+      "des": "",
+      "techType": 9,
+      "previewReward": {}
+    },
+    "17014": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_hp",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 17014,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "3028": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_16",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_1",
+      "battleType": 1,
+      "id": 3028,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3026": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_14",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 3026,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3025": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_13",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_1"
+        },
+        "2": {
+          "pos": "1_10_3"
+        }
+      },
+      "pos": "1_11_2",
+      "battleType": 1,
+      "id": 3025,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3024": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_3"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 3024,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3023": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_3",
+      "battleType": 1,
+      "id": 3023,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3022": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_2"
+        },
+        "3": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 3022,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "17022": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_1"
+        },
+        "2": {
+          "pos": "1_11_2"
+        },
+        "3": {
+          "pos": "1_11_3"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 17022,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "3015": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        }
+      },
+      "pos": "1_6_1",
+      "battleType": 1,
+      "id": 3015,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "3014": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_2"
+        },
+        "3": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_1",
+      "battleType": 1,
+      "id": 3014,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "11020": {
+      "maxValue": 400,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_1",
+      "battleType": 1,
+      "id": 11020,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "1021": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 1021,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "3012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 3012,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "11004": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 11004,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "3011": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 3011,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "2039": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 2039,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "11023": {
+      "maxValue": 0,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_13_2"
+        }
+      },
+      "pos": "1_14_2",
+      "battleType": 1,
+      "id": 11023,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17016": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 17016,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "2037": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_10",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_1",
+      "battleType": 1,
+      "id": 2037,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2034": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 2034,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "10007": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_1"
+        },
+        "2": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 10007,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "18023": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_2"
+        }
+      },
+      "pos": "1_13_2",
+      "battleType": 1,
+      "id": 18023,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "2010": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 2010,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2032": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 2032,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2031": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_1",
+      "battleType": 1,
+      "id": 2031,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2029": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_11",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_3",
+      "battleType": 1,
+      "id": 2029,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "2025": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_1",
+      "battleType": 1,
+      "id": 2025,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "2017": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_1"
+        },
+        "2": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 2017,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "2016": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_3",
+      "battleType": 1,
+      "id": 2016,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "2015": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 2015,
+      "des": "",
+      "techType": 15,
+      "previewReward": {}
+    },
+    "2014": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 2014,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "10004": {
+      "maxValue": 0.25,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_IntercityTrains_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 10004,
+      "des": "",
+      "techType": 10,
+      "previewReward": {}
+    },
+    "1033": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_3",
+      "battleType": 1,
+      "id": 1033,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    },
+    "2013": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_3"
+        }
+      },
+      "pos": "1_5_3",
+      "battleType": 1,
+      "id": 2013,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "13015": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 13015,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "2033": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_3",
+      "battleType": 1,
+      "id": 2033,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2007": {
+      "maxValue": 1,
+      "maxLevel": 1,
+      "typeBaseFrame": 2,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_1"
+        },
+        "2": {
+          "pos": "1_2_2"
+        },
+        "3": {
+          "pos": "1_2_3"
+        }
+      },
+      "pos": "1_3_2",
+      "battleType": 1,
+      "id": 2007,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2006": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_3"
+        }
+      },
+      "pos": "1_2_3",
+      "battleType": 1,
+      "id": 2006,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "2001": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_resource_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 2001,
+      "des": "",
+      "techType": 2,
+      "previewReward": {}
+    },
+    "18022": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_1"
+        },
+        "2": {
+          "pos": "1_11_2"
+        },
+        "3": {
+          "pos": "1_11_3"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 18022,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "18019": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_1",
+      "battleType": 1,
+      "id": 18019,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "11021": {
+      "maxValue": 3.18,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_2"
+        }
+      },
+      "pos": "1_12_3",
+      "battleType": 1,
+      "id": 11021,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "6017": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_17",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 6017,
+      "des": "",
+      "techType": 6,
+      "previewReward": {}
+    },
+    "18001": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_12",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_1",
+      "battleType": 1,
+      "id": 18001,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "8017": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_17",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 8017,
+      "des": "",
+      "techType": 8,
+      "previewReward": {}
+    },
+    "7017": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_17",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_3",
+      "battleType": 1,
+      "id": 7017,
+      "des": "",
+      "techType": 7,
+      "previewReward": {}
+    },
+    "18016": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warlock_def",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_3",
+      "battleType": 1,
+      "id": 18016,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "1017": {
+      "maxValue": 0.025,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 1017,
+      "des": "",
+      "techType": 14,
+      "previewReward": {}
+    },
+    "4017": {
+      "maxValue": 0.075,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_soldier_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_2"
+        }
+      },
+      "pos": "1_13_1",
+      "battleType": 1,
+      "id": 4017,
+      "des": "",
+      "techType": 4,
+      "previewReward": {}
+    },
+    "3017": {
+      "maxValue": 0.1,
+      "maxLevel": 5,
+      "typeBaseFrame": 1,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_1"
+        },
+        "2": {
+          "pos": "1_7_2"
+        },
+        "3": {
+          "pos": "1_7_3"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 3017,
+      "des": "",
+      "techType": 3,
+      "previewReward": {}
+    },
+    "17017": {
+      "maxValue": 0.015,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_hurt",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_8_1"
+        },
+        "2": {
+          "pos": "1_8_2"
+        },
+        "3": {
+          "pos": "1_8_3"
+        }
+      },
+      "pos": "1_9_2",
+      "battleType": 1,
+      "id": 17017,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "11007": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_3",
+      "battleType": 1,
+      "id": 11007,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "17015": {
+      "maxValue": 0.02,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_archer_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_7_2"
+        }
+      },
+      "pos": "1_8_2",
+      "battleType": 1,
+      "id": 17015,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "17013": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 17013,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "17012": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_5",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 17012,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "17010": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_4_2"
+        }
+      },
+      "pos": "1_5_2",
+      "battleType": 1,
+      "id": 17010,
+      "des": "",
+      "techType": 17,
+      "previewReward": {}
+    },
+    "16023": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_2"
+        }
+      },
+      "pos": "1_13_2",
+      "battleType": 1,
+      "id": 16023,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "16022": {
+      "maxValue": 0.05,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_11_1"
+        },
+        "2": {
+          "pos": "1_11_2"
+        },
+        "3": {
+          "pos": "1_11_3"
+        }
+      },
+      "pos": "1_12_2",
+      "battleType": 1,
+      "id": 16022,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "16021": {
+      "maxValue": 0.075,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_10_2"
+        }
+      },
+      "pos": "1_11_3",
+      "battleType": 1,
+      "id": 16021,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "16002": {
+      "maxValue": 0.025,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_hero_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {},
+      "pos": "1_1_2",
+      "battleType": 1,
+      "id": 16002,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "16005": {
+      "maxValue": 0.01,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_warrior_atk",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_1_2"
+        }
+      },
+      "pos": "1_2_2",
+      "battleType": 1,
+      "id": 16005,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "11022": {
+      "maxValue": 0.64,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_2",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_12_1"
+        },
+        "2": {
+          "pos": "1_12_3"
+        }
+      },
+      "pos": "1_13_2",
+      "battleType": 1,
+      "id": 11022,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "16013": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_garage_4",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 16013,
+      "des": "",
+      "techType": 16,
+      "previewReward": {}
+    },
+    "13012": {
+      "maxValue": 0.05,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_9",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 13012,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "13011": {
+      "maxValue": 0.25,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_DefendAgainstSieges_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_5_1"
+        },
+        "2": {
+          "pos": "1_5_2"
+        },
+        "3": {
+          "pos": "1_5_3"
+        }
+      },
+      "pos": "1_6_2",
+      "battleType": 1,
+      "id": 13011,
+      "des": "",
+      "techType": 13,
+      "previewReward": {}
+    },
+    "12007": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_SiegeTheCity_7",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_2_2"
+        }
+      },
+      "pos": "1_3_3",
+      "battleType": 1,
+      "id": 12007,
+      "des": "",
+      "techType": 12,
+      "previewReward": {}
+    },
+    "18018": {
+      "maxValue": 10,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_6",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_2"
+        }
+      },
+      "pos": "1_10_2",
+      "battleType": 1,
+      "id": 18018,
+      "des": "",
+      "techType": 18,
+      "previewReward": {}
+    },
+    "11017": {
+      "maxValue": 0.1,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_8",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_9_1"
+        },
+        "2": {
+          "pos": "1_9_2"
+        },
+        "3": {
+          "pos": "1_9_3"
+        }
+      },
+      "pos": "1_10_1",
+      "battleType": 1,
+      "id": 11017,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "11006": {
+      "maxValue": 0.15,
+      "maxLevel": 10,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_commando_1",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_3_2"
+        }
+      },
+      "pos": "1_4_2",
+      "battleType": 1,
+      "id": 11006,
+      "des": "",
+      "techType": 11,
+      "previewReward": {}
+    },
+    "1010": {
+      "maxValue": 0.025,
+      "maxLevel": 5,
+      "typeBaseFrame": 0,
+      "desUnderline": "",
+      "des2": "",
+      "icon": "Icon_Science_develop_3",
+      "des3": "",
+      "name": "",
+      "underline_tips": "",
+      "preLine": {
+        "1": {
+          "pos": "1_6_2"
+        }
+      },
+      "pos": "1_7_2",
+      "battleType": 1,
+      "id": 1010,
+      "des": "",
+      "techType": 1,
+      "previewReward": {}
+    }
+  },
+  "first": 1001,
+  "isNeedTransform": true,
+  "excelName": "CollegeTech_科学院",
+  "len": 348,
+  "key": "id"
+}

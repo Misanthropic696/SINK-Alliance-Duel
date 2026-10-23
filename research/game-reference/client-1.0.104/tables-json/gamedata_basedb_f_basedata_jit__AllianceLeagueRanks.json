@@ -1,0 +1,1934 @@
+{
+  "key": "id",
+  "len": 42,
+  "data": {
+    "1011002": {
+      "minRanking": 2,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 5500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 215,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 2,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1011002,
+      "type": 3
+    },
+    "1012009": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 34,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1650,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1012009,
+      "type": 2
+    },
+    "1012001": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_4",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 5500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 250,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 1,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1012001,
+      "type": 2
+    },
+    "1011011": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2380,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 15,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1011011,
+      "type": 3
+    },
+    "1011006": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_30d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 60,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 3120,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 30,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 48,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1011006,
+      "type": 3
+    },
+    "1011005": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1400,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 60,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 30,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1011005,
+      "type": 3
+    },
+    "1012011": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 26,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1400,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 10,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1012011,
+      "type": 2
+    },
+    "1011010": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 45,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2550,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1011010,
+      "type": 3
+    },
+    "1011003": {
+      "minRanking": 3,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 4000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 175,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 3,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1011003,
+      "type": 3
+    },
+    "1013007": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 20,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1050,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 11,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1013007,
+      "type": 1
+    },
+    "1013003": {
+      "minRanking": 3,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 120,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 3,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1013003,
+      "type": 1
+    },
+    "1011014": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 15,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1011014,
+      "type": 3
+    },
+    "1011004": {
+      "minRanking": 4,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2600,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 115,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 10,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1011004,
+      "type": 3
+    },
+    "1011007": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_30d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 56,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2980,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 30,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1011007,
+      "type": 3
+    },
+    "1013014": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cross_league_silver_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 8,
+          "type": 99
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 750,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource3",
+          "count": 10,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1013014,
+      "type": 1
+    },
+    "1013005": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 40,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 30,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1013005,
+      "type": 1
+    },
+    "1013006": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 23,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 17,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1013006,
+      "type": 1
+    },
+    "1013013": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cross_league_silver_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 10,
+          "type": 99
+        },
+        "3": {
+          "id": "item_research_info",
+          "count": 800,
+          "type": 99
+        },
+        "4": {
+          "id": "item_optionalBox_Resource3",
+          "count": 16,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1013013,
+      "type": 1
+    },
+    "1011009": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_30d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 50,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2760,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 48,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1011009,
+      "type": 3
+    },
+    "1011001": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_4",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 7000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 300,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 1,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1011001,
+      "type": 3
+    },
+    "1012014": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 18,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 10,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1012014,
+      "type": 2
+    },
+    "1013012": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 13,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 900,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource3",
+          "count": 22,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1013012,
+      "type": 1
+    },
+    "1013010": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 15,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 950,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 11,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1013010,
+      "type": 1
+    },
+    "1012013": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 22,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1250,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 16,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1012013,
+      "type": 2
+    },
+    "1011012": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 40,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2380,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 48,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1011012,
+      "type": 3
+    },
+    "1013011": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_3d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 13,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 900,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 5,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1013011,
+      "type": 1
+    },
+    "1013009": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 18,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 17,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1013009,
+      "type": 1
+    },
+    "1012005": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 100,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 1200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 50,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 4,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 30,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1012005,
+      "type": 2
+    },
+    "1012003": {
+      "minRanking": 3,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 140,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 16,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 3,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1012003,
+      "type": 2
+    },
+    "1012012": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 26,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1400,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 5,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 22,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1012012,
+      "type": 2
+    },
+    "1011013": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_7d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 35,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2250,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 16,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 4,
+      "id": 1011013,
+      "type": 3
+    },
+    "1013004": {
+      "minRanking": 4,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 80,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 10,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1013004,
+      "type": 1
+    },
+    "1013002": {
+      "minRanking": 2,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 3500,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 150,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 2,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1013002,
+      "type": 1
+    },
+    "1013001": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 400,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_4",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 5000,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 200,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 20,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 1,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1013001,
+      "type": 1
+    },
+    "1013008": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_silver_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 18,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1000,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 5,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1013008,
+      "type": 1
+    },
+    "1012002": {
+      "minRanking": 2,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 300,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 2,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 4200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 170,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 18,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 2,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1012002,
+      "type": 2
+    },
+    "1012008": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 34,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1650,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 10,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1012008,
+      "type": 2
+    },
+    "1011008": {
+      "minRanking": 31,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_30d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_diamond_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 52,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2760,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 30,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 15,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 5,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 100,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1011008,
+      "type": 3
+    },
+    "1012006": {
+      "minRanking": 1,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 43,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 2100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 32,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 15,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 10,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1012006,
+      "type": 2
+    },
+    "1012004": {
+      "minRanking": 4,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_research_info",
+          "count": 200,
+          "type": 99
+        },
+        "2": {
+          "id": "item_drone_componentBox_3",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_equipment_enhanceStone",
+          "count": 2200,
+          "type": 99
+        },
+        "4": {
+          "id": "item_equip_produce_materials_04",
+          "count": 100,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource",
+          "count": 8,
+          "type": 99
+        }
+      },
+      "rankingType": 1,
+      "maxRanking": 10,
+      "maxAllianceRanking": 0,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 0,
+      "id": 1012004,
+      "type": 2
+    },
+    "1012010": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_7d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_15d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 30,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1500,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 10,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 21,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 3,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 2,
+      "id": 1012010,
+      "type": 2
+    },
+    "1012007": {
+      "minRanking": 11,
+      "activityRewardEffect": {},
+      "leaderBoardID": 996010101,
+      "reward": {
+        "1": {
+          "id": "item_cityskin_league_15d",
+          "count": 1,
+          "type": 99
+        },
+        "2": {
+          "id": "item_cross_league_gold_permanent_30d",
+          "count": 1,
+          "type": 99
+        },
+        "3": {
+          "id": "item_Resource_allianceCoin_2500",
+          "count": 38,
+          "type": 99
+        },
+        "4": {
+          "id": "item_research_info",
+          "count": 1950,
+          "type": 99
+        },
+        "5": {
+          "id": "item_optionalBox_Resource4",
+          "count": 20,
+          "type": 99
+        },
+        "6": {
+          "id": "item_optionalBox_Resource3",
+          "count": 21,
+          "type": 99
+        },
+        "7": {
+          "id": "item_optionalBox_Resource",
+          "count": 10,
+          "type": 99
+        }
+      },
+      "rankingType": 2,
+      "maxRanking": 30,
+      "maxAllianceRanking": 1,
+      "rankingRate": 0,
+      "text": "",
+      "minAllianceRanking": 1,
+      "id": 1012007,
+      "type": 2
+    }
+  },
+  "isNeedTransform": true,
+  "first": 1011001,
+  "excelName": "AllianceLeague_公会联赛"
+}

@@ -1,0 +1,39 @@
+{
+  "key": "id",
+  "len": 5,
+  "data": {
+    "4": {
+      "rate": 0.1,
+      "buffCount": 4,
+      "id": 4,
+      "failCount": 4
+    },
+    "5": {
+      "rate": 0.1,
+      "buffCount": 5,
+      "id": 5,
+      "failCount": 5
+    },
+    "1": {
+      "rate": 0.1,
+      "buffCount": 1,
+      "id": 1,
+      "failCount": 1
+    },
+    "2": {
+      "rate": 0.1,
+      "buffCount": 2,
+      "id": 2,
+      "failCount": 2
+    },
+    "3": {
+      "rate": 0.1,
+      "buffCount": 3,
+      "id": 3,
+      "failCount": 3
+    }
+  },
+  "isNeedTransform": false,
+  "first": 1,
+  "excelName": "BlackMine_燃霜矿场"
+}

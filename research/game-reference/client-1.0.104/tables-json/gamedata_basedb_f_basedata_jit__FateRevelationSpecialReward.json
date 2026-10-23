@@ -1,0 +1,45 @@
+{
+  "first": 1,
+  "data": {
+    "2": {
+      "rewards": {},
+      "weight": 95000,
+      "id": 2,
+      "poolId": 1
+    },
+    "3": {
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_decor_1007",
+          "type": 99
+        }
+      },
+      "weight": 5000,
+      "id": 3,
+      "poolId": 2
+    },
+    "4": {
+      "rewards": {},
+      "weight": 95000,
+      "id": 4,
+      "poolId": 2
+    },
+    "1": {
+      "rewards": {
+        "1": {
+          "count": 1,
+          "id": "item_decor_1007",
+          "type": 99
+        }
+      },
+      "weight": 5000,
+      "id": 1,
+      "poolId": 1
+    }
+  },
+  "excelName": "Activity_FateRevelation_命运启示",
+  "key": "id",
+  "len": 4,
+  "isNeedTransform": false
+}

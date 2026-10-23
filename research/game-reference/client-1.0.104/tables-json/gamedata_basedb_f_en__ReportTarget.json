@@ -1,0 +1,43 @@
+{
+  "data": {
+    "1": {
+      "name": "Avatar",
+      "id": 1
+    },
+    "4": {
+      "name": "Translation Error",
+      "id": 4
+    },
+    "5": {
+      "name": "Alliance Name",
+      "id": 5
+    },
+    "2": {
+      "name": "Nickname",
+      "id": 2
+    },
+    "3": {
+      "name": "Chat",
+      "id": 3
+    },
+    "8": {
+      "name": "Group Chat Name",
+      "id": 8
+    },
+    "9": {
+      "name": "Contestant's Declaration",
+      "id": 9
+    },
+    "6": {
+      "name": "Alliance Abbreviation",
+      "id": 6
+    },
+    "7": {
+      "name": "Alliance Declaration",
+      "id": 7
+    }
+  },
+  "len": 9,
+  "key": "id",
+  "source_format": "locale rows"
+}
