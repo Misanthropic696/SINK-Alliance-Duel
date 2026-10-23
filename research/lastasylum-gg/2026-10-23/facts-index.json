@@ -1,0 +1,522 @@
+{
+  "captured_on": "2026-10-23",
+  "count": 86,
+  "pages": [
+    {
+      "file": "extracted-facts/home.json",
+      "source_url": "https://lastasylum.gg/en",
+      "title": "Last Asylum: Plague Wiki - Database, Calculators, Rankings",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/heroes.json",
+      "source_url": "https://lastasylum.gg/en/heroes",
+      "title": "All Heroes: Skills, Stats & Stars · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/heroes__squad.json",
+      "source_url": "https://lastasylum.gg/en/heroes/squad",
+      "title": "Squad Builder: Faction Bonus · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/heroes__arthur.json",
+      "source_url": "https://lastasylum.gg/en/heroes/arthur",
+      "title": "Arthur: Skills, Stats & Star Upgrades · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/heroes__marlena.json",
+      "source_url": "https://lastasylum.gg/en/heroes/marlena",
+      "title": "Marlena: Skills, Stats & Star Upgrades · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/gear.json",
+      "source_url": "https://lastasylum.gg/en/gear",
+      "title": "Gear: Crafting Cost & Upgrades · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/gear__ssr.json",
+      "source_url": "https://lastasylum.gg/en/gear/ssr",
+      "title": "SSR - Gear · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/gear__sr.json",
+      "source_url": "https://lastasylum.gg/en/gear/sr",
+      "title": "SR - Gear · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/gear__r.json",
+      "source_url": "https://lastasylum.gg/en/gear/r",
+      "title": "R - Gear · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/raven.json",
+      "source_url": "https://lastasylum.gg/en/raven",
+      "title": "Raven: Levels, Evolve & Gear Cost · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/raven__levels.json",
+      "source_url": "https://lastasylum.gg/en/raven/levels",
+      "title": "Levels - Raven · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/raven__evolution.json",
+      "source_url": "https://lastasylum.gg/en/raven/evolution",
+      "title": "Raven Evolve - Raven · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/raven__gear.json",
+      "source_url": "https://lastasylum.gg/en/raven/gear",
+      "title": "Gear - Raven · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/troops.json",
+      "source_url": "https://lastasylum.gg/en/troops",
+      "title": "Troops T1-T10: Stats & Training Cost · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/buildings.json",
+      "source_url": "https://lastasylum.gg/en/buildings",
+      "title": "Buildings: Upgrade Cost & Requirements · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/buildings__planner.json",
+      "source_url": "https://lastasylum.gg/en/buildings/planner",
+      "title": "Building Upgrade Calculator · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/buildings__epigraph-workshop.json",
+      "source_url": "https://lastasylum.gg/en/buildings/epigraph-workshop",
+      "title": "Epigraph Workshop Upgrade Cost & Requirements · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/buildings__sanctuary.json",
+      "source_url": "https://lastasylum.gg/en/buildings/sanctuary",
+      "title": "Sanctuary Upgrade Cost & Requirements · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/research.json",
+      "source_url": "https://lastasylum.gg/en/research",
+      "title": "Research Tree: Cost & Time · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/research__planner.json",
+      "source_url": "https://lastasylum.gg/en/research/planner",
+      "title": "Research Cost Calculator · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/research__alliance.json",
+      "source_url": "https://lastasylum.gg/en/research/alliance",
+      "title": "Alliance Tech: Cost & Effects · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/research__alliance__war.json",
+      "source_url": "https://lastasylum.gg/en/research/alliance/war",
+      "title": "War - Alliance Tech · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/power.json",
+      "source_url": "https://lastasylum.gg/en/power",
+      "title": "Power Cost Calculator · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/survivors.json",
+      "source_url": "https://lastasylum.gg/en/survivors",
+      "title": "Survivors: Bonuses & Star Cost · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/survivors__farmer.json",
+      "source_url": "https://lastasylum.gg/en/survivors/farmer",
+      "title": "Farmer · Survivors · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/survivors__lumberjack.json",
+      "source_url": "https://lastasylum.gg/en/survivors/lumberjack",
+      "title": "Lumberjack · Survivors · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/survivors__herbalist.json",
+      "source_url": "https://lastasylum.gg/en/survivors/herbalist",
+      "title": "Herbalist · Survivors · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/curios.json",
+      "source_url": "https://lastasylum.gg/en/curios",
+      "title": "Curios: Bonuses & Upgrade Cost · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/curios__ssr.json",
+      "source_url": "https://lastasylum.gg/en/curios/ssr",
+      "title": "SSR - Curios · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/curios__sr.json",
+      "source_url": "https://lastasylum.gg/en/curios/sr",
+      "title": "SR - Curios · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/clinic.json",
+      "source_url": "https://lastasylum.gg/en/clinic",
+      "title": "Clinic: Star Rewards & Upgrades · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/clinic__doctor.json",
+      "source_url": "https://lastasylum.gg/en/clinic/doctor",
+      "title": "Doctor upgrades - Clinic · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/lord.json",
+      "source_url": "https://lastasylum.gg/en/lord",
+      "title": "Lord Specialty: Skills & EXP · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/lord__legion-commander.json",
+      "source_url": "https://lastasylum.gg/en/lord/legion-commander",
+      "title": "Legion Commander - Lord Specialty · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/lord__season.json",
+      "source_url": "https://lastasylum.gg/en/lord/season",
+      "title": "Season skills - Lord Specialty · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/lord__levels.json",
+      "source_url": "https://lastasylum.gg/en/lord/levels",
+      "title": "Specialty levels - Lord Specialty · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/virus.json",
+      "source_url": "https://lastasylum.gg/en/virus",
+      "title": "Virus Resistance (RES): All Levels · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/virus__levels.json",
+      "source_url": "https://lastasylum.gg/en/virus/levels",
+      "title": "Levels - Virus Resistance · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/vip.json",
+      "source_url": "https://lastasylum.gg/en/vip",
+      "title": "VIP Levels: EXP & Privileges · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/vip__levels.json",
+      "source_url": "https://lastasylum.gg/en/vip/levels",
+      "title": "VIP levels - VIP · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/vip__login.json",
+      "source_url": "https://lastasylum.gg/en/vip/login",
+      "title": "Daily login points - VIP · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/skins.json",
+      "source_url": "https://lastasylum.gg/en/skins",
+      "title": "Skins: All Bonuses · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/skins__special-effects.json",
+      "source_url": "https://lastasylum.gg/en/skins/special-effects",
+      "title": "Special Effects - Skins · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/skins__avatar-frame.json",
+      "source_url": "https://lastasylum.gg/en/skins/avatar-frame",
+      "title": "Avatar Frame - Skins · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/skins__nameplate.json",
+      "source_url": "https://lastasylum.gg/en/skins/nameplate",
+      "title": "Nameplate - Skins · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/campaign.json",
+      "source_url": "https://lastasylum.gg/en/campaign",
+      "title": "Campaign: All Stages & Rewards · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/campaign__1.json",
+      "source_url": "https://lastasylum.gg/en/campaign/1",
+      "title": "Campaign: stage 1 · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/campaign__2.json",
+      "source_url": "https://lastasylum.gg/en/campaign/2",
+      "title": "Campaign: stage 2 · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/campaign__3.json",
+      "source_url": "https://lastasylum.gg/en/campaign/3",
+      "title": "Campaign: stage 3 · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/monsters.json",
+      "source_url": "https://lastasylum.gg/en/monsters",
+      "title": "Monsters & Bosses: Power & Rewards · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/monsters__season.json",
+      "source_url": "https://lastasylum.gg/en/monsters/season",
+      "title": "Season monsters - Monsters & Bosses · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/monsters__weekend.json",
+      "source_url": "https://lastasylum.gg/en/monsters/weekend",
+      "title": "Demon Kings - Monsters & Bosses · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/monsters__alliance-boss.json",
+      "source_url": "https://lastasylum.gg/en/monsters/alliance-boss",
+      "title": "Cheese Thief - Monsters & Bosses · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/bestiary.json",
+      "source_url": "https://lastasylum.gg/en/bestiary",
+      "title": "Bestiary: Bosses & Monsters · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/bestiary__rat-king.json",
+      "source_url": "https://lastasylum.gg/en/bestiary/rat-king",
+      "title": "Rat King: Stats & Recommended Power · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/bestiary__fang-guard.json",
+      "source_url": "https://lastasylum.gg/en/bestiary/fang-guard",
+      "title": "Fang Guard: Stats & Recommended Power · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/bestiary__rat-plague.json",
+      "source_url": "https://lastasylum.gg/en/bestiary/rat-plague",
+      "title": "Rat Plague: Stats & Recommended Power · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/arena.json",
+      "source_url": "https://lastasylum.gg/en/arena",
+      "title": "Arenas: Season & Rank Rewards · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/arena__apex-arena.json",
+      "source_url": "https://lastasylum.gg/en/arena/apex-arena",
+      "title": "Apex Arena - Arenas · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/arena__arena-of-fate.json",
+      "source_url": "https://lastasylum.gg/en/arena/arena-of-fate",
+      "title": "Arena of Fate - Arenas · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/arena__triangular-arena.json",
+      "source_url": "https://lastasylum.gg/en/arena/triangular-arena",
+      "title": "Triangular Arena - Arenas · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/shops.json",
+      "source_url": "https://lastasylum.gg/en/shops",
+      "title": "Shops: Goods, Prices & Limits · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/shops__vip-shop.json",
+      "source_url": "https://lastasylum.gg/en/shops/vip-shop",
+      "title": "VIP Shop - Shops · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/shops__alliance-shop.json",
+      "source_url": "https://lastasylum.gg/en/shops/alliance-shop",
+      "title": "Alliance Shop - Shops · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/shops__honor-shop.json",
+      "source_url": "https://lastasylum.gg/en/shops/honor-shop",
+      "title": "Honor Shop - Shops · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/alliance-chests.json",
+      "source_url": "https://lastasylum.gg/en/alliance-chests",
+      "title": "Alliance Chests: Rewards & Chest Levels · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/era.json",
+      "source_url": "https://lastasylum.gg/en/era",
+      "title": "Era of Revival: Season Days & Boosts · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/expedition.json",
+      "source_url": "https://lastasylum.gg/en/expedition",
+      "title": "Expedition Battle: Enemy Power & Rewards · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/packs.json",
+      "source_url": "https://lastasylum.gg/en/packs",
+      "title": "Pack Value: Which Packs to Buy · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/packs__24h-copper-coin-pack.json",
+      "source_url": "https://lastasylum.gg/en/packs/24h-copper-coin-pack",
+      "title": "24h Copper Coin Pack: Contents & Value · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/packs__2nd-lab.json",
+      "source_url": "https://lastasylum.gg/en/packs/2nd-lab",
+      "title": "2nd Lab: Contents & Value · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/packs__30-day-monthly-pass.json",
+      "source_url": "https://lastasylum.gg/en/packs/30-day-monthly-pass",
+      "title": "30-Day Monthly Pass: Contents & Value · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/events.json",
+      "source_url": "https://lastasylum.gg/en/events",
+      "title": "Events: Rules, Rewards & Calculators · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/events__category__alliance.json",
+      "source_url": "https://lastasylum.gg/en/events/category/alliance",
+      "title": "Alliance events - Events · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/events__category__pve.json",
+      "source_url": "https://lastasylum.gg/en/events/category/pve",
+      "title": "Bosses and PvE - Events · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/events__category__draw.json",
+      "source_url": "https://lastasylum.gg/en/events/category/draw",
+      "title": "Wheels, markets and festivals - Events · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/codes.json",
+      "source_url": "https://lastasylum.gg/en/codes",
+      "title": "Last Asylum gift codes (October 2026) · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/guides.json",
+      "source_url": "https://lastasylum.gg/en/guides",
+      "title": "Guides & Tips · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/guides__faq.json",
+      "source_url": "https://lastasylum.gg/en/guides/faq",
+      "title": "Last Asylum FAQ: game modes · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/guides__communities.json",
+      "source_url": "https://lastasylum.gg/en/guides/communities",
+      "title": "Last Asylum communities · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/guides__faq__elixir-scramble.json",
+      "source_url": "https://lastasylum.gg/en/guides/faq/elixir-scramble",
+      "title": "Elixir Scramble: Last Asylum FAQ · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/changelog.json",
+      "source_url": "https://lastasylum.gg/en/changelog",
+      "title": "What's new on the site · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/items.json",
+      "source_url": "https://lastasylum.gg/en/items",
+      "title": "Items: Where to Get & Uses · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/items__category__resource.json",
+      "source_url": "https://lastasylum.gg/en/items/category/resource",
+      "title": "Resources - Items · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/items__category__box.json",
+      "source_url": "https://lastasylum.gg/en/items/category/box",
+      "title": "Chests - Items · Last Asylum Wiki",
+      "numeric_fields": 0
+    },
+    {
+      "file": "extracted-facts/items__category__material.json",
+      "source_url": "https://lastasylum.gg/en/items/category/material",
+      "title": "Materials - Items · Last Asylum Wiki",
+      "numeric_fields": 0
+    }
+  ]
+}
