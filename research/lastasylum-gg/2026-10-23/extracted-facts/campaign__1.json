@@ -1,7 +1,6 @@
 {
-  "source_url": "https://lastasylum.gg/en/campaign/1",
+  "source": "https://lastasylum.gg/en/campaign/1",
   "title": "Campaign: stage 1 · Last Asylum Wiki",
-  "source_capture_sha256": "d15496d37a0765890a3f74ffccdfa875316f5181464c7070bcb161b1f21f4cc5",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

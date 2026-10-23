@@ -1,7 +1,79 @@
 {
-  "source_url": "https://lastasylum.gg/en/guides",
+  "source": "https://lastasylum.gg/en/guides",
   "title": "Guides & Tips · Last Asylum Wiki",
-  "source_capture_sha256": "37f47076df6120922991f61c9f3b6f7820bd989686fb834000589553666a721e",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Watch",
+      "value": "· 5:15"
+    },
+    {
+      "field": "Watch",
+      "value": "· 3:06"
+    },
+    {
+      "field": "Watch",
+      "value": "· 14:26"
+    },
+    {
+      "field": "Watch",
+      "value": "· 9:03"
+    },
+    {
+      "field": "Watch",
+      "value": "· 10:53"
+    },
+    {
+      "field": "Watch",
+      "value": "· 15:11"
+    },
+    {
+      "field": "Watch",
+      "value": "· 13:27"
+    },
+    {
+      "field": "Watch",
+      "value": "· 5:48"
+    },
+    {
+      "field": "Watch",
+      "value": "· 12:35"
+    },
+    {
+      "field": "Watch",
+      "value": "· 11:59"
+    },
+    {
+      "field": "Watch",
+      "value": "· 6:39"
+    },
+    {
+      "field": "Watch",
+      "value": "· 3:39"
+    },
+    {
+      "field": "Watch",
+      "value": "· 5:42"
+    },
+    {
+      "field": "Watch",
+      "value": "· 19:02"
+    },
+    {
+      "field": "Watch",
+      "value": "· 17:01"
+    },
+    {
+      "field": "Watch",
+      "value": "· 7:32"
+    },
+    {
+      "field": "Watch",
+      "value": "· 5:43"
+    },
+    {
+      "field": "Watch",
+      "value": "· 8:06"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

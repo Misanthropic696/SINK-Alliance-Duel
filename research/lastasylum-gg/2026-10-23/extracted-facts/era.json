@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/era",
+  "source": "https://lastasylum.gg/en/era",
   "title": "Era of Revival: Season Days & Boosts · Last Asylum Wiki",
-  "source_capture_sha256": "264a7de3d4e5c66990a22825cc173d293e6103cd425d0fb94c8591ce85a70c8d",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "What opens",
+      "value": "1-56"
+    },
+    {
+      "field": "Era Competition",
+      "value": "1-7"
+    },
+    {
+      "field": "Eliminate Threats",
+      "value": "1-55"
+    },
+    {
+      "field": "Expedition League",
+      "value": "1-7"
+    },
+    {
+      "field": "Marlena Awakens",
+      "value": "1-56"
+    },
+    {
+      "field": "Era Covenant",
+      "value": "1-56"
+    },
+    {
+      "field": "Era Weekly Pass",
+      "value": "1-56"
+    },
+    {
+      "field": "Lord's Specialty",
+      "value": "1-56"
+    },
+    {
+      "field": "RES",
+      "value": "1-56"
+    },
+    {
+      "field": "Era Bonus",
+      "value": "8-14"
+    },
+    {
+      "field": "Daskal's Exclusive Weapon",
+      "value": "8-56"
+    },
+    {
+      "field": "Hero Ascension",
+      "value": "15-21"
+    },
+    {
+      "field": "Cynthia Awakens",
+      "value": "22-28"
+    },
+    {
+      "field": "Louis's Exclusive Weapon",
+      "value": "29-35"
+    },
+    {
+      "field": "Annie Awakens",
+      "value": "36-42"
+    },
+    {
+      "field": "RES",
+      "value": "100"
+    },
+    {
+      "field": "DMG to Monsters↑",
+      "value": "5%"
+    },
+    {
+      "field": "DMG to Monsters↑",
+      "value": "5%"
+    },
+    {
+      "field": "DMG to Monsters↑",
+      "value": "5%"
+    },
+    {
+      "field": "DMG to Monsters↑",
+      "value": "5%"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

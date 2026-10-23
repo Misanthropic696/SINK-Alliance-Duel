@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/gear/ssr",
+  "source": "https://lastasylum.gg/en/gear/ssr",
   "title": "SSR - Gear · Last Asylum Wiki",
-  "source_capture_sha256": "269c9444def4e5f2106b29bf6061ccec583bac10c0f8ec24909889e2c2dcd16b",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Enhancement",
+      "value": "0"
+    },
+    {
+      "field": "Gearstone",
+      "value": "1,192,200"
+    },
+    {
+      "field": "Power",
+      "value": "0"
+    },
+    {
+      "field": "Herb",
+      "value": "200"
+    },
+    {
+      "field": "Herb",
+      "value": "209"
+    },
+    {
+      "field": "Herb",
+      "value": "217"
+    },
+    {
+      "field": "Herb",
+      "value": "227"
+    },
+    {
+      "field": "Herb",
+      "value": "237"
+    },
+    {
+      "field": "Herb",
+      "value": "246"
+    },
+    {
+      "field": "Herb",
+      "value": "255"
+    },
+    {
+      "field": "Herb",
+      "value": "269"
+    },
+    {
+      "field": "Herb",
+      "value": "275"
+    },
+    {
+      "field": "Herb",
+      "value": "284"
+    },
+    {
+      "field": "Herb",
+      "value": "295"
+    },
+    {
+      "field": "Herb",
+      "value": "307"
+    },
+    {
+      "field": "Herb",
+      "value": "315"
+    },
+    {
+      "field": "Herb",
+      "value": "323"
+    },
+    {
+      "field": "Herb",
+      "value": "332"
+    },
+    {
+      "field": "Herb",
+      "value": "342"
+    },
+    {
+      "field": "Herb",
+      "value": "351"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

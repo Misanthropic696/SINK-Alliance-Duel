@@ -1,7 +1,39 @@
 {
-  "source_url": "https://lastasylum.gg/en/raven/evolution",
+  "source": "https://lastasylum.gg/en/raven/evolution",
   "title": "Raven Evolve - Raven · Last Asylum Wiki",
-  "source_capture_sha256": "1c5f974f99a6b3ecefcae4a42e4a0f78494122164d51667ade91bb9414ab6e9d",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Raven Evolve",
+      "value": "1"
+    },
+    {
+      "field": "Power",
+      "value": "1"
+    },
+    {
+      "field": "Unlock Epigraph Plan 1",
+      "value": "50"
+    },
+    {
+      "field": "Epigraph System Boost reaches +1",
+      "value": "200"
+    },
+    {
+      "field": "Epigraph System Boost reaches +2",
+      "value": "350"
+    },
+    {
+      "field": "Epigraph System Boost reaches +3",
+      "value": "500"
+    },
+    {
+      "field": "Epigraph System Boost reaches +4",
+      "value": "650"
+    },
+    {
+      "field": "Epigraph System Boost reaches +5",
+      "value": "800"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

@@ -1,7 +1,19 @@
 {
-  "source_url": "https://lastasylum.gg/en/monsters/weekend",
+  "source": "https://lastasylum.gg/en/monsters/weekend",
   "title": "Demon Kings - Monsters & Bosses · Last Asylum Wiki",
-  "source_capture_sha256": "0c4e81c4374871d0395efb1e545eb5686900444a0b8575c24908dfdd9d2a2826",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Warrior Hero DMG",
+      "value": "+50%"
+    },
+    {
+      "field": "Warlock Hero DMG",
+      "value": "+50%"
+    },
+    {
+      "field": "Ranger Hero DMG",
+      "value": "+50%"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

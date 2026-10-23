@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/buildings/epigraph-workshop",
+  "source": "https://lastasylum.gg/en/buildings/epigraph-workshop",
   "title": "Epigraph Workshop Upgrade Cost & Requirements · Last Asylum Wiki",
-  "source_capture_sha256": "dfd881417cf3efac2ecf4626a8dbb7cd693054868e2ca05b4e958fc1fe919037",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Power",
+      "value": "1"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:02"
+    },
+    {
+      "field": "Server day 78+",
+      "value": "600"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:11"
+    },
+    {
+      "field": "Lv.5",
+      "value": "1,200"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:50"
+    },
+    {
+      "field": "Lv.5",
+      "value": "2,000"
+    },
+    {
+      "field": "Timber",
+      "value": "00:01:55"
+    },
+    {
+      "field": "Lv.5",
+      "value": "2,600"
+    },
+    {
+      "field": "Timber",
+      "value": "00:05:51"
+    },
+    {
+      "field": "Lv.5",
+      "value": "3,500"
+    },
+    {
+      "field": "Timber",
+      "value": "00:11:42"
+    },
+    {
+      "field": "Lv.6",
+      "value": "4,000"
+    },
+    {
+      "field": "Timber",
+      "value": "00:23:24"
+    },
+    {
+      "field": "Lv.7",
+      "value": "4,900"
+    },
+    {
+      "field": "Timber",
+      "value": "00:46:48"
+    },
+    {
+      "field": "Lv.8",
+      "value": "5,600"
+    },
+    {
+      "field": "Herb",
+      "value": "01:05:32"
+    },
+    {
+      "field": "Lv.9",
+      "value": "6,200"
+    },
+    {
+      "field": "Herb",
+      "value": "01:25:11"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

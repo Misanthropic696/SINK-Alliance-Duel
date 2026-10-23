@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/vip/levels",
+  "source": "https://lastasylum.gg/en/vip/levels",
   "title": "VIP levels - VIP · Last Asylum Wiki",
-  "source_capture_sha256": "a8bebe02568a49845b5a71ddbc01df64023dfdaffc54ed2fc443198c0e5d16e5",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "VIP",
+      "value": "1"
+    },
+    {
+      "field": "Daily free pack",
+      "value": "1"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "2"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "3"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "4"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "5"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "6"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "7"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "8"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "9"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "10"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "11"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "12"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "13"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "14"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "15"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "16"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "17"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "18"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "19"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

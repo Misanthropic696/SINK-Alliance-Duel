@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/survivors/lumberjack",
+  "source": "https://lastasylum.gg/en/survivors/lumberjack",
   "title": "Lumberjack · Survivors · Last Asylum Wiki",
-  "source_capture_sha256": "42d354414447f745f36ce2629c8b7a9909e1374f409091f9f90a796a41be424b",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Survivor Token",
+      "value": "54%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "56%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "58%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "60%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "74%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "76%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "78%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "80%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "82%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "97%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "99%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "101%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "103%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "105%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "119%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "121%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "123%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "125%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "127%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "143%"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

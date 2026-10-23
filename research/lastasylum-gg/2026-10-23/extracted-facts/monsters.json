@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/monsters",
+  "source": "https://lastasylum.gg/en/monsters",
   "title": "Monsters & Bosses: Power & Rewards · Last Asylum Wiki",
-  "source_capture_sha256": "96b5b06c2edae8133456e3b84484b9d5de55f772ab9cc4d42bb5490c8cd03776",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Reward",
+      "value": "1"
+    },
+    {
+      "field": "96.6K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "460"
+    },
+    {
+      "field": "Grain",
+      "value": "2"
+    },
+    {
+      "field": "105K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "470"
+    },
+    {
+      "field": "Grain",
+      "value": "3"
+    },
+    {
+      "field": "120K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "480"
+    },
+    {
+      "field": "Grain",
+      "value": "4"
+    },
+    {
+      "field": "143K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "490"
+    },
+    {
+      "field": "Grain",
+      "value": "5"
+    },
+    {
+      "field": "200K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "500"
+    },
+    {
+      "field": "Grain",
+      "value": "6"
+    },
+    {
+      "field": "270K",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "520"
+    },
+    {
+      "field": "Grain",
+      "value": "7"
+    },
+    {
+      "field": "360K",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

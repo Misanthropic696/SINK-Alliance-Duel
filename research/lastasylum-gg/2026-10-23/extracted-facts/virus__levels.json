@@ -1,7 +1,11 @@
 {
-  "source_url": "https://lastasylum.gg/en/virus/levels",
+  "source": "https://lastasylum.gg/en/virus/levels",
   "title": "Levels - Virus Resistance · Last Asylum Wiki",
-  "source_capture_sha256": "a1a67e260e6db3c93a670c4e1d7b3aef8f946d7fd690c2b286502ff57c12ffbe",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Total EXP",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

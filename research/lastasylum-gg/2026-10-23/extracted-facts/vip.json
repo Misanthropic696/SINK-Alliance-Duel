@@ -1,7 +1,15 @@
 {
-  "source_url": "https://lastasylum.gg/en/vip",
+  "source": "https://lastasylum.gg/en/vip",
   "title": "VIP Levels: EXP & Privileges · Last Asylum Wiki",
-  "source_capture_sha256": "75146728be6e8faed83b53dd1ec31153c4bd9ff84ad2653b0d84c8678c96de76",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Privilege",
+      "value": "1"
+    },
+    {
+      "field": "Grain Output↑",
+      "value": "3%"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

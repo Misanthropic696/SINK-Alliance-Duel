@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/arena/arena-of-fate",
+  "source": "https://lastasylum.gg/en/arena/arena-of-fate",
   "title": "Arena of Fate - Arenas · Last Asylum Wiki",
-  "source_capture_sha256": "4111e2d735a25f8b2f8e7cc67d6d3af57bf8d57c65dce995a8da46d11849ddda",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Rewards",
+      "value": "1"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "1"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "2"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "2"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "3"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "3"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "4 - 10"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "4 - 10"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "11 - 20"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "11 - 20"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "21 - 50"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "21 - 50"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "51 - 100"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "51 - 100"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "101 - 200"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "101 - 200"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "201 - 400"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "201 - 400"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "401 - 700"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "401 - 700"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

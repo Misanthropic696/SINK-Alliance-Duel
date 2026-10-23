@@ -1,7 +1,15 @@
 {
-  "source_url": "https://lastasylum.gg/en/alliance-chests",
+  "source": "https://lastasylum.gg/en/alliance-chests",
   "title": "Alliance Chests: Rewards & Chest Levels · Last Asylum Wiki",
-  "source_capture_sha256": "437e4b1d71f8f562fae4a3912ea5489590366150b0e9a2e0e72ee60ac9698873",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Chest level",
+      "value": "1"
+    },
+    {
+      "field": "Total",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

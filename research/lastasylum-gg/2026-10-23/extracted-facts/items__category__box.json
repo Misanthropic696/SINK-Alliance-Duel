@@ -1,7 +1,43 @@
 {
-  "source_url": "https://lastasylum.gg/en/items/category/box",
+  "source": "https://lastasylum.gg/en/items/category/box",
   "title": "Chests - Items · Last Asylum Wiki",
-  "source_capture_sha256": "9ca2a21400a85e543834ed182bd66b72ab3f9ae66966647d467d99a02e47034f",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Speedups",
+      "value": "40"
+    },
+    {
+      "field": "Resources",
+      "value": "73"
+    },
+    {
+      "field": "Chests",
+      "value": "150"
+    },
+    {
+      "field": "Materials",
+      "value": "66"
+    },
+    {
+      "field": "Gear",
+      "value": "16"
+    },
+    {
+      "field": "Raven",
+      "value": "138"
+    },
+    {
+      "field": "Consumables",
+      "value": "48"
+    },
+    {
+      "field": "Event items",
+      "value": "72"
+    },
+    {
+      "field": "Skins and decor",
+      "value": "174"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

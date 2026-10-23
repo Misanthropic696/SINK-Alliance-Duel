@@ -1,7 +1,51 @@
 {
-  "source_url": "https://lastasylum.gg/en/monsters/alliance-boss",
+  "source": "https://lastasylum.gg/en/monsters/alliance-boss",
   "title": "Cheese Thief - Monsters & Bosses · Last Asylum Wiki",
-  "source_capture_sha256": "f86d6eb6de0b0d852c8b707f8289902994d0202ddb5613cb8f58ea27e6975471",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Damage for next level",
+      "value": "1"
+    },
+    {
+      "field": "44.0M",
+      "value": "3"
+    },
+    {
+      "field": "170M",
+      "value": "4"
+    },
+    {
+      "field": "530M",
+      "value": "5"
+    },
+    {
+      "field": "1.4B",
+      "value": "6"
+    },
+    {
+      "field": "3.8B",
+      "value": "7"
+    },
+    {
+      "field": "8.0B",
+      "value": "8"
+    },
+    {
+      "field": "14.0B",
+      "value": "9"
+    },
+    {
+      "field": "25.0B",
+      "value": "10"
+    },
+    {
+      "field": "42.0B",
+      "value": "11"
+    },
+    {
+      "field": "60.0B",
+      "value": "12"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

@@ -1,7 +1,6 @@
 {
-  "source_url": "https://lastasylum.gg/en/bestiary",
+  "source": "https://lastasylum.gg/en/bestiary",
   "title": "Bestiary: Bosses & Monsters · Last Asylum Wiki",
-  "source_capture_sha256": "05cc3bebc7dbfca9ce177fae073b1ede1d06f1d0b721848240c78845a7fd4824",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

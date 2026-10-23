@@ -1,7 +1,47 @@
 {
-  "source_url": "https://lastasylum.gg/en/heroes/marlena",
+  "source": "https://lastasylum.gg/en/heroes/marlena",
   "title": "Marlena: Skills, Stats & Star Upgrades · Last Asylum Wiki",
-  "source_capture_sha256": "17e3b01787c4b1865081611ab5a285cf1c58a1546a951f0b9c20028b2e870339",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Hero EXP",
+      "value": "1,746,800"
+    },
+    {
+      "field": "Skill Badge",
+      "value": "975"
+    },
+    {
+      "field": "Marlena Shard",
+      "value": "2,920"
+    },
+    {
+      "field": "CMD",
+      "value": "1"
+    },
+    {
+      "field": "Unleash a sword wind, dealing",
+      "value": "91.35% → 261%"
+    },
+    {
+      "field": "ATK, HP, and DEF",
+      "value": "+20%"
+    },
+    {
+      "field": "; skill cooldown speed",
+      "value": "+10%"
+    },
+    {
+      "field": "DEF",
+      "value": "1"
+    },
+    {
+      "field": "In battle, Energy DMG dealt +",
+      "value": "16.2% → 24%"
+    },
+    {
+      "field": "Power",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

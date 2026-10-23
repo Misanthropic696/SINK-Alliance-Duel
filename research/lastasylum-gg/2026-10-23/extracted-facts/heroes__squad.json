@@ -1,7 +1,6 @@
 {
-  "source_url": "https://lastasylum.gg/en/heroes/squad",
+  "source": "https://lastasylum.gg/en/heroes/squad",
   "title": "Squad Builder: Faction Bonus · Last Asylum Wiki",
-  "source_capture_sha256": "fff73c548ee0db36ec647d61be87c243c3640223de647a08e99ede1b9ddfad45",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

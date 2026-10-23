@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/monsters/season",
+  "source": "https://lastasylum.gg/en/monsters/season",
   "title": "Season monsters - Monsters & Bosses · Last Asylum Wiki",
-  "source_capture_sha256": "37958a6e6d37c377b6fe1e3b65cacb0269b6c2f1755178d630efdf36510ef214",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Reward",
+      "value": "1"
+    },
+    {
+      "field": "Grain",
+      "value": "470"
+    },
+    {
+      "field": "Grain",
+      "value": "2"
+    },
+    {
+      "field": "5.7M",
+      "value": "150"
+    },
+    {
+      "field": "Grain",
+      "value": "480"
+    },
+    {
+      "field": "Grain",
+      "value": "3"
+    },
+    {
+      "field": "5.8M",
+      "value": "250"
+    },
+    {
+      "field": "Grain",
+      "value": "480"
+    },
+    {
+      "field": "Grain",
+      "value": "4"
+    },
+    {
+      "field": "6.0M",
+      "value": "400"
+    },
+    {
+      "field": "Grain",
+      "value": "490"
+    },
+    {
+      "field": "Grain",
+      "value": "5"
+    },
+    {
+      "field": "6.2M",
+      "value": "550"
+    },
+    {
+      "field": "Grain",
+      "value": "490"
+    },
+    {
+      "field": "Grain",
+      "value": "6"
+    },
+    {
+      "field": "6.4M",
+      "value": "700"
+    },
+    {
+      "field": "Grain",
+      "value": "490"
+    },
+    {
+      "field": "Grain",
+      "value": "7"
+    },
+    {
+      "field": "6.5M",
+      "value": "850"
+    },
+    {
+      "field": "Grain",
+      "value": "500"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

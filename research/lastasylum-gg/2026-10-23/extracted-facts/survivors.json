@@ -1,7 +1,79 @@
 {
-  "source_url": "https://lastasylum.gg/en/survivors",
+  "source": "https://lastasylum.gg/en/survivors",
   "title": "Survivors: Bonuses & Star Cost · Last Asylum Wiki",
-  "source_capture_sha256": "9516a2df719657a4af467f580dd4de5b5755916bf91a15b9835b7e3a98bb15fe",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Farm",
+      "value": "36"
+    },
+    {
+      "field": "Lumberyard",
+      "value": "36"
+    },
+    {
+      "field": "Herb Garden",
+      "value": "36"
+    },
+    {
+      "field": "Granary",
+      "value": "20"
+    },
+    {
+      "field": "Lumber Depot",
+      "value": "20"
+    },
+    {
+      "field": "Herb Storage",
+      "value": "20"
+    },
+    {
+      "field": "Training Grounds",
+      "value": "32"
+    },
+    {
+      "field": "Infirmary",
+      "value": "32"
+    },
+    {
+      "field": "Barracks",
+      "value": "33"
+    },
+    {
+      "field": "Research Lab",
+      "value": "24"
+    },
+    {
+      "field": "Builder's Hut",
+      "value": "20"
+    },
+    {
+      "field": "Tavern",
+      "value": "16"
+    },
+    {
+      "field": "Gear Workshop",
+      "value": "20"
+    },
+    {
+      "field": "Alliance Hall",
+      "value": "12"
+    },
+    {
+      "field": "Explorer's Camp",
+      "value": "20"
+    },
+    {
+      "field": "Sanctuary",
+      "value": "1"
+    },
+    {
+      "field": "Sanctuary",
+      "value": "1"
+    },
+    {
+      "field": "Tavern",
+      "value": "4"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

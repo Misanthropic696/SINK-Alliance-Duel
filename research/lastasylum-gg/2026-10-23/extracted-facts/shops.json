@@ -1,7 +1,39 @@
 {
-  "source_url": "https://lastasylum.gg/en/shops",
+  "source": "https://lastasylum.gg/en/shops",
   "title": "Shops: Goods, Prices & Limits · Last Asylum Wiki",
-  "source_capture_sha256": "26f642c4d135aebfd70ff37eb49106df3445c09837fd91da58ed28ffcac0c1fd",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Limit",
+      "value": "1"
+    },
+    {
+      "field": "Survivor Recruit Ticket",
+      "value": "398"
+    },
+    {
+      "field": "Recruit Ticket",
+      "value": "398"
+    },
+    {
+      "field": "10K Grain",
+      "value": "10"
+    },
+    {
+      "field": "10K Timber",
+      "value": "10"
+    },
+    {
+      "field": "6K Herbs",
+      "value": "10"
+    },
+    {
+      "field": "Trade Agreement",
+      "value": "100"
+    },
+    {
+      "field": "Alliance Relocate",
+      "value": "500"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

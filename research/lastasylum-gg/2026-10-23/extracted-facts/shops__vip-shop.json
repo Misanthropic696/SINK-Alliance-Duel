@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/shops/vip-shop",
+  "source": "https://lastasylum.gg/en/shops/vip-shop",
   "title": "VIP Shop - Shops · Last Asylum Wiki",
-  "source_capture_sha256": "1f456920ef6d5d8667362928e111657ab658bfbb2432ece05c0cc57be6c8a000",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Limit",
+      "value": "1"
+    },
+    {
+      "field": "Grain Level Supply (SR)",
+      "value": "40"
+    },
+    {
+      "field": "Diamond",
+      "value": "100"
+    },
+    {
+      "field": "Timber Level Supply (SR)",
+      "value": "40"
+    },
+    {
+      "field": "Diamond",
+      "value": "100"
+    },
+    {
+      "field": "Herb Level Supply (SR)",
+      "value": "40"
+    },
+    {
+      "field": "Diamond",
+      "value": "100"
+    },
+    {
+      "field": "Universal Curio Shard",
+      "value": "99"
+    },
+    {
+      "field": "Diamond",
+      "value": "50"
+    },
+    {
+      "field": "10 Stamina",
+      "value": "12"
+    },
+    {
+      "field": "Diamond",
+      "value": "24"
+    },
+    {
+      "field": "Brass",
+      "value": "5"
+    },
+    {
+      "field": "Diamond",
+      "value": "100"
+    },
+    {
+      "field": "Direct Relocate",
+      "value": "598"
+    },
+    {
+      "field": "Diamond",
+      "value": "4"
+    },
+    {
+      "field": "Exclusive Weapon Omni Shard",
+      "value": "298"
+    },
+    {
+      "field": "Diamond",
+      "value": "10"
+    },
+    {
+      "field": "Raven Essence",
+      "value": "398"
+    },
+    {
+      "field": "Diamond",
+      "value": "50"
+    },
+    {
+      "field": "Skill Badge",
+      "value": "4"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

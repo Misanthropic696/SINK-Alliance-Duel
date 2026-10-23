@@ -1,7 +1,6 @@
 {
-  "source_url": "https://lastasylum.gg/en/heroes",
+  "source": "https://lastasylum.gg/en/heroes",
   "title": "All Heroes: Skills, Stats & Stars · Last Asylum Wiki",
-  "source_capture_sha256": "ae1fc3c29b14b7b28d3b05022a26aef69b9bc4217dea170435f42b24ea28bc5b",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

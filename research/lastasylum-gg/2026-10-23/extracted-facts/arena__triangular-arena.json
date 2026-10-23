@@ -1,7 +1,75 @@
 {
-  "source_url": "https://lastasylum.gg/en/arena/triangular-arena",
+  "source": "https://lastasylum.gg/en/arena/triangular-arena",
   "title": "Triangular Arena - Arenas · Last Asylum Wiki",
-  "source_capture_sha256": "c8d9c919d86bc8457c276298966947aeca6bf157f966aaad7cd900389eb57f0b",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Rewards",
+      "value": "1"
+    },
+    {
+      "field": "Diamond",
+      "value": "2"
+    },
+    {
+      "field": "Diamond",
+      "value": "3"
+    },
+    {
+      "field": "Diamond",
+      "value": "4 - 10"
+    },
+    {
+      "field": "Diamond",
+      "value": "11 - 20"
+    },
+    {
+      "field": "Diamond",
+      "value": "21 - 40"
+    },
+    {
+      "field": "Diamond",
+      "value": "41 - 70"
+    },
+    {
+      "field": "Diamond",
+      "value": "71 - 100"
+    },
+    {
+      "field": "Diamond",
+      "value": "101 - 150"
+    },
+    {
+      "field": "Diamond",
+      "value": "151 - 200"
+    },
+    {
+      "field": "Rewards",
+      "value": "1"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "2"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "3"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "4 - 10"
+    },
+    {
+      "field": "Rewards",
+      "value": "1"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "3"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "5"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

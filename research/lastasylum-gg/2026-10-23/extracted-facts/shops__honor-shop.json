@@ -1,7 +1,67 @@
 {
-  "source_url": "https://lastasylum.gg/en/shops/honor-shop",
+  "source": "https://lastasylum.gg/en/shops/honor-shop",
   "title": "Honor Shop - Shops · Last Asylum Wiki",
-  "source_capture_sha256": "1919c6606d8bce06b41dfaa2ef4b3bb143fd490306ed95bd69a5d0a31a908cec",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Limit",
+      "value": "1"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "50"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "1"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "1"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "10"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "10"
+    },
+    {
+      "field": "Universal Curio Shard",
+      "value": "200"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "150"
+    },
+    {
+      "field": "Raven Essence",
+      "value": "800"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "100"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "25"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "100"
+    },
+    {
+      "field": "Refined Iron",
+      "value": "200"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "400"
+    },
+    {
+      "field": "Fame Medal",
+      "value": "100"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

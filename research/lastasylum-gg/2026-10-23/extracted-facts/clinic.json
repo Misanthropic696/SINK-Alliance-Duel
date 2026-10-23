@@ -1,7 +1,63 @@
 {
-  "source_url": "https://lastasylum.gg/en/clinic",
+  "source": "https://lastasylum.gg/en/clinic",
   "title": "Clinic: Star Rewards & Upgrades · Last Asylum Wiki",
-  "source_capture_sha256": "c21bf33c7cd4392fd6aa59d9620fc03e957bde0304d98b43f01bb74f96f52764",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Reward",
+      "value": "7"
+    },
+    {
+      "field": "Unlock Lv.3 Sanctuary",
+      "value": "18"
+    },
+    {
+      "field": "Unlock Lv.4 Sanctuary",
+      "value": "21"
+    },
+    {
+      "field": "Unlock Lv.5 Sanctuary",
+      "value": "31"
+    },
+    {
+      "field": "Unlock Lv.6 Sanctuary",
+      "value": "50"
+    },
+    {
+      "field": "Unlock Lv.7 Sanctuary",
+      "value": "65"
+    },
+    {
+      "field": "Unlock Lv.8 Sanctuary",
+      "value": "83"
+    },
+    {
+      "field": "Unlock Lv.9 Sanctuary",
+      "value": "100"
+    },
+    {
+      "field": "Unlock Lv.10 Sanctuary",
+      "value": "116"
+    },
+    {
+      "field": "Unlock Lv.11 Sanctuary",
+      "value": "149"
+    },
+    {
+      "field": "Unlock Lv.12 Sanctuary",
+      "value": "159"
+    },
+    {
+      "field": "Unlock Lv.13 Sanctuary",
+      "value": "180"
+    },
+    {
+      "field": "Unlock Lv.14 Sanctuary",
+      "value": "195"
+    },
+    {
+      "field": "Unlock Lv.15 Sanctuary",
+      "value": "215"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

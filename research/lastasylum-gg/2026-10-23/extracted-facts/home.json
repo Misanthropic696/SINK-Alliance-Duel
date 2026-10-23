@@ -1,7 +1,19 @@
 {
-  "source_url": "https://lastasylum.gg/en",
+  "source": "https://lastasylum.gg/en",
   "title": "Last Asylum: Plague Wiki - Database, Calculators, Rankings",
-  "source_capture_sha256": "c35f3d88cbc55748035931ae262a5aa65199ff54b8962900edb08f0525ba43b5",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Oct 22",
+      "value": "1.0.774"
+    },
+    {
+      "field": "Oct 22",
+      "value": "1.0.772-1.0.773"
+    },
+    {
+      "field": "Oct 22",
+      "value": "1.0.771"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

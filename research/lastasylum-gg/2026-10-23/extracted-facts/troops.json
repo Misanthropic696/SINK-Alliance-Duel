@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/troops",
+  "source": "https://lastasylum.gg/en/troops",
   "title": "Troops T1-T10: Stats & Training Cost · Last Asylum Wiki",
-  "source_capture_sha256": "677bffbc1874eabf57dfb2f1af0cf6e71e32d24c1d70d7b14d2c421bef3b974f",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Training speed bonus, %",
+      "value": "7,027,000"
+    },
+    {
+      "field": "Grain",
+      "value": "7,027,000"
+    },
+    {
+      "field": "Training time",
+      "value": "1,650,000"
+    },
+    {
+      "field": "T1",
+      "value": "116"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:40"
+    },
+    {
+      "field": "T2",
+      "value": "174"
+    },
+    {
+      "field": "Timber",
+      "value": "00:01:00"
+    },
+    {
+      "field": "T3",
+      "value": "417"
+    },
+    {
+      "field": "Timber",
+      "value": "00:01:20"
+    },
+    {
+      "field": "T4",
+      "value": "1,077"
+    },
+    {
+      "field": "Timber",
+      "value": "00:01:40"
+    },
+    {
+      "field": "T5",
+      "value": "2,082"
+    },
+    {
+      "field": "Timber",
+      "value": "00:02:00"
+    },
+    {
+      "field": "T6",
+      "value": "2,939"
+    },
+    {
+      "field": "Timber",
+      "value": "00:02:20"
+    },
+    {
+      "field": "T7",
+      "value": "3,960"
+    },
+    {
+      "field": "Timber",
+      "value": "00:02:40"
+    },
+    {
+      "field": "T8",
+      "value": "5,409"
+    },
+    {
+      "field": "Timber",
+      "value": "00:03:00"
+    },
+    {
+      "field": "T9",
+      "value": "6,881"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

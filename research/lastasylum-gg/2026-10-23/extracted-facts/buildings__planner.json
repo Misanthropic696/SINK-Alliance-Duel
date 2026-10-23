@@ -1,7 +1,75 @@
 {
-  "source_url": "https://lastasylum.gg/en/buildings/planner",
+  "source": "https://lastasylum.gg/en/buildings/planner",
   "title": "Building Upgrade Calculator · Last Asylum Wiki",
-  "source_capture_sha256": "62cd4ef76919bf4489b9d97008deb2a546ce45fd9ffb8d8342b76ab6e6e0ed01",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Training Grounds",
+      "value": "0"
+    },
+    {
+      "field": "Research Lab",
+      "value": "0"
+    },
+    {
+      "field": "Alliance Hall",
+      "value": "0"
+    },
+    {
+      "field": "Barracks",
+      "value": "0"
+    },
+    {
+      "field": "Warrior Statue",
+      "value": "0"
+    },
+    {
+      "field": "Walls",
+      "value": "0"
+    },
+    {
+      "field": "Infirmary",
+      "value": "0"
+    },
+    {
+      "field": "Antitoxin Workshop",
+      "value": "0"
+    },
+    {
+      "field": "Lumberyard",
+      "value": "0"
+    },
+    {
+      "field": "Farm",
+      "value": "0"
+    },
+    {
+      "field": "Herb Garden",
+      "value": "0"
+    },
+    {
+      "field": "Lumber Depot",
+      "value": "0"
+    },
+    {
+      "field": "Granary",
+      "value": "0"
+    },
+    {
+      "field": "Herb Storage",
+      "value": "0"
+    },
+    {
+      "field": "Falcon Tower",
+      "value": "0"
+    },
+    {
+      "field": "720 Grain · 720 Timber",
+      "value": "00:00:02"
+    },
+    {
+      "field": "Sanctuary",
+      "value": "0"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

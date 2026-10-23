@@ -1,7 +1,83 @@
 {
-  "source_url": "https://lastasylum.gg/en/research/planner",
+  "source": "https://lastasylum.gg/en/research/planner",
   "title": "Research Cost Calculator · Last Asylum Wiki",
-  "source_capture_sha256": "ce0b4f2e31e41103ccd38b75317fedd81a5e5e199af137a3314fadf5900660bf",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Research Lab",
+      "value": "16"
+    },
+    {
+      "field": "Rapid Construction I",
+      "value": "5"
+    },
+    {
+      "field": "Research Upgrade I",
+      "value": "5"
+    },
+    {
+      "field": "Barracks Expansion I",
+      "value": "5"
+    },
+    {
+      "field": "Training Grounds Expansion I",
+      "value": "5"
+    },
+    {
+      "field": "Infirmary Expansion I",
+      "value": "5"
+    },
+    {
+      "field": "Training Specialization I",
+      "value": "5"
+    },
+    {
+      "field": "Quick Bandage I",
+      "value": "5"
+    },
+    {
+      "field": "Construction Master",
+      "value": "5"
+    },
+    {
+      "field": "Rapid Construction II",
+      "value": "5"
+    },
+    {
+      "field": "Barracks Expansion II",
+      "value": "5"
+    },
+    {
+      "field": "Training Grounds Expansion II",
+      "value": "5"
+    },
+    {
+      "field": "Infirmary Expansion II",
+      "value": "5"
+    },
+    {
+      "field": "Training Specialization II",
+      "value": "5"
+    },
+    {
+      "field": "Quick Bandage II",
+      "value": "5"
+    },
+    {
+      "field": "Research Upgrade II",
+      "value": "5"
+    },
+    {
+      "field": "Training Specialization III",
+      "value": "5"
+    },
+    {
+      "field": "Quick Bandage III",
+      "value": "5"
+    },
+    {
+      "field": "Extra Training Grounds",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

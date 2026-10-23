@@ -1,7 +1,11 @@
 {
-  "source_url": "https://lastasylum.gg/en/lord/levels",
+  "source": "https://lastasylum.gg/en/lord/levels",
   "title": "Specialty levels - Lord Specialty · Last Asylum Wiki",
-  "source_capture_sha256": "a9cbfbf5476acf479aa6f6e553a4a42f794ad915fcaf7529e1f16280991f99b0",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Bonus",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

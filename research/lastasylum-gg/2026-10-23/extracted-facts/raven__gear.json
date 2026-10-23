@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/raven/gear",
+  "source": "https://lastasylum.gg/en/raven/gear",
   "title": "Gear - Raven · Last Asylum Wiki",
-  "source_capture_sha256": "701cfef6bf5809831fd57ca7c0d6dad389ca44342bc224759c5a48455a4fe3ca",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Power",
+      "value": "1"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "9,324"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "13,653"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "30,636"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "64,935"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "188,145"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "533,133"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "1,351,647"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "2,133,531"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "3,362,920"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "4,680,598"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "6,513,107"
+    },
+    {
+      "field": "Heart of Wisdom",
+      "value": "8,995,299"
+    },
+    {
+      "field": "Power",
+      "value": "1"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "4,662"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "6,993"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "15,318"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "39,960"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "105,228"
+    },
+    {
+      "field": "Feather of the Night",
+      "value": "283,050"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

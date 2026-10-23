@@ -1,7 +1,31 @@
 {
-  "source_url": "https://lastasylum.gg/en/bestiary/fang-guard",
+  "source": "https://lastasylum.gg/en/bestiary/fang-guard",
   "title": "Fang Guard: Stats & Recommended Power · Last Asylum Wiki",
-  "source_capture_sha256": "bb88cbef9349648335aec24e1d5cf4e7be33e474bf0c4a2184cbf4866cee803d",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Boss",
+      "value": "206,000 - 1,000,000"
+    },
+    {
+      "field": "Recommended power",
+      "value": "400"
+    },
+    {
+      "field": "Attack range",
+      "value": "300"
+    },
+    {
+      "field": "Squad",
+      "value": "206,000"
+    },
+    {
+      "field": "Paired Rats",
+      "value": "785,650"
+    },
+    {
+      "field": "Paired Rats",
+      "value": "1,000,000"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

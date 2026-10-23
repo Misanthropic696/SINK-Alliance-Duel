@@ -1,7 +1,23 @@
 {
-  "source_url": "https://lastasylum.gg/en/curios/sr",
+  "source": "https://lastasylum.gg/en/curios/sr",
   "title": "SR - Curios · Last Asylum Wiki",
-  "source_capture_sha256": "352491304d59b7d0ee6b452b7fa5d79e47e0015acec1f128cd16cbdb0dc6fb82",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

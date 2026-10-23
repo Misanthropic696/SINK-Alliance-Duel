@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/campaign",
+  "source": "https://lastasylum.gg/en/campaign",
   "title": "Campaign: All Stages & Rewards · Last Asylum Wiki",
-  "source_capture_sha256": "5379b51477d8d136b86c179a82b835792feabe65f2942353c32be1ff40a20380",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Go to stage",
+      "value": "1"
+    },
+    {
+      "field": "Troops",
+      "value": "1"
+    },
+    {
+      "field": "Infected T4 ×151",
+      "value": "2"
+    },
+    {
+      "field": "Infected T4 ×152",
+      "value": "3"
+    },
+    {
+      "field": "Infected T4 ×153",
+      "value": "4"
+    },
+    {
+      "field": "Infected T4 ×154",
+      "value": "5"
+    },
+    {
+      "field": "Infected T4 ×155",
+      "value": "6"
+    },
+    {
+      "field": "Infected T4 ×156",
+      "value": "7"
+    },
+    {
+      "field": "Infected T4 ×157",
+      "value": "8"
+    },
+    {
+      "field": "Infected T4 ×158",
+      "value": "9"
+    },
+    {
+      "field": "Infected T4 ×159",
+      "value": "10"
+    },
+    {
+      "field": "Infected T4 ×160",
+      "value": "11"
+    },
+    {
+      "field": "Infected T4 ×161",
+      "value": "12"
+    },
+    {
+      "field": "Infected T4 ×162",
+      "value": "13"
+    },
+    {
+      "field": "Infected T4 ×163",
+      "value": "14"
+    },
+    {
+      "field": "Infected T4 ×164",
+      "value": "15"
+    },
+    {
+      "field": "Infected T4 ×165",
+      "value": "16"
+    },
+    {
+      "field": "Infected T4 ×166",
+      "value": "17"
+    },
+    {
+      "field": "Infected T4 ×167",
+      "value": "18"
+    },
+    {
+      "field": "Infected T4 ×168",
+      "value": "19"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

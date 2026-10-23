@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/buildings/sanctuary",
+  "source": "https://lastasylum.gg/en/buildings/sanctuary",
   "title": "Sanctuary Upgrade Cost & Requirements · Last Asylum Wiki",
-  "source_capture_sha256": "699034546bd3f8e7a37f593f089cd76990334378cb6d9e797d0b6cead62e13d7",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Power",
+      "value": "1"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:02"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:02"
+    },
+    {
+      "field": "Timber",
+      "value": "00:00:03"
+    },
+    {
+      "field": "Clinic ★17",
+      "value": "5"
+    },
+    {
+      "field": "Timber",
+      "value": "00:05:00"
+    },
+    {
+      "field": "Clinic ★19",
+      "value": "15"
+    },
+    {
+      "field": "Timber",
+      "value": "00:10:58"
+    },
+    {
+      "field": "Clinic ★28",
+      "value": "25"
+    },
+    {
+      "field": "Timber",
+      "value": "00:34:23"
+    },
+    {
+      "field": "Clinic ★47",
+      "value": "30"
+    },
+    {
+      "field": "Timber",
+      "value": "01:30:40"
+    },
+    {
+      "field": "Clinic ★61",
+      "value": "35"
+    },
+    {
+      "field": "Timber",
+      "value": "03:01:35"
+    },
+    {
+      "field": "Clinic ★80",
+      "value": "40"
+    },
+    {
+      "field": "Herb",
+      "value": "04:16:50"
+    },
+    {
+      "field": "Clinic ★96",
+      "value": "45"
+    },
+    {
+      "field": "Herb",
+      "value": "05:35:23"
+    },
+    {
+      "field": "Clinic ★112",
+      "value": "50"
+    },
+    {
+      "field": "Herb",
+      "value": "07:14:03"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

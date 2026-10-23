@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/shops/alliance-shop",
+  "source": "https://lastasylum.gg/en/shops/alliance-shop",
   "title": "Alliance Shop - Shops · Last Asylum Wiki",
-  "source_capture_sha256": "4e70960d8a66af8360ea1fef54b1b4e9eda79007ad29f8f5ba8bbf1b5a112ebe",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Limit",
+      "value": "10"
+    },
+    {
+      "field": "Free",
+      "value": "1"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "5"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "5"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "30"
+    },
+    {
+      "field": "Bella Shard",
+      "value": "990"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "30"
+    },
+    {
+      "field": "Claire Shard",
+      "value": "990"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "30"
+    },
+    {
+      "field": "Raven Essence",
+      "value": "990"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "10"
+    },
+    {
+      "field": "Lv.1 Raven Gear Chest",
+      "value": "990"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "20"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "5"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "5"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "7"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "2"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "3"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "1"
+    },
+    {
+      "field": "Alliance Coin",
+      "value": "10"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

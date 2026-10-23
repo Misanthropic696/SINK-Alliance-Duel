@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/curios",
+  "source": "https://lastasylum.gg/en/curios",
   "title": "Curios: Bonuses & Upgrade Cost · Last Asylum Wiki",
-  "source_capture_sha256": "9d352e3b0af49d78ac2e530e44332311ca94c19fef44f4b1037f84624cb25a5b",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    },
+    {
+      "field": "Bonus",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

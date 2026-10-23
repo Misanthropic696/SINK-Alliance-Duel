@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/arena",
+  "source": "https://lastasylum.gg/en/arena",
   "title": "Arenas: Season & Rank Rewards · Last Asylum Wiki",
-  "source_capture_sha256": "432618be02eda3c3267fd34767bfbf7fd8ca46ee73b7eac3d02dee06ab7d4ec1",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Rewards",
+      "value": "1"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "2"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "3"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "4 - 10"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "11 - 20"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "21 - 40"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "41 - 60"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "61 - 80"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "81 - 100"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "101 - 120"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "121 - 140"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "141 - 160"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "161 - 180"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "181 - 200"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "201 - 240"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "241 - 280"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "281 - 320"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "321 - 360"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "361 - 400"
+    },
+    {
+      "field": "Resource Supply (General)",
+      "value": "401 - 450"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

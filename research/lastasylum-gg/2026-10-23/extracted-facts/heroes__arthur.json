@@ -1,7 +1,39 @@
 {
-  "source_url": "https://lastasylum.gg/en/heroes/arthur",
+  "source": "https://lastasylum.gg/en/heroes/arthur",
   "title": "Arthur: Skills, Stats & Star Upgrades · Last Asylum Wiki",
-  "source_capture_sha256": "9c057099833b8bd96b95af8fbe66897e1b70d7de4926fd3545484b61714907fd",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Hero EXP",
+      "value": "680,800"
+    },
+    {
+      "field": "Skill Badge",
+      "value": "975"
+    },
+    {
+      "field": "CMD",
+      "value": "1"
+    },
+    {
+      "field": "Swings the shield, dealing",
+      "value": "105% → 250%"
+    },
+    {
+      "field": "Grants a shield equal to",
+      "value": "5.25% → 12.5%"
+    },
+    {
+      "field": "ATK, HP, and DEF",
+      "value": "+20%"
+    },
+    {
+      "field": "; skill cooldown speed",
+      "value": "+10%"
+    },
+    {
+      "field": "DEF",
+      "value": "1"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

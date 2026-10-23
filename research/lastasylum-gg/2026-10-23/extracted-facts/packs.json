@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/packs",
+  "source": "https://lastasylum.gg/en/packs",
   "title": "Pack Value: Which Packs to Buy · Last Asylum Wiki",
-  "source_capture_sha256": "15578beacb1c36883d80389fed19e7e222d7f821091607df50f0f469f9b85cf6",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$19.99 - $49.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$9.99 - $19.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$9.99 - $19.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$9.99 - $19.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$9.99 - $19.99"
+    },
+    {
+      "field": "2 options",
+      "value": "$9.99 - $19.99"
+    },
+    {
+      "field": "UR Hero",
+      "value": "$0.99"
+    },
+    {
+      "field": "Lv.13 Sanctuary Pack",
+      "value": "$9.99"
+    },
+    {
+      "field": "VIP 16 Special Offer",
+      "value": "$99.99"
+    },
+    {
+      "field": "VIP 20 Special Offer",
+      "value": "$99.99"
+    },
+    {
+      "field": "Lv.10 Sanctuary Pack",
+      "value": "$4.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    },
+    {
+      "field": "3 options",
+      "value": "$19.99 - $99.99"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

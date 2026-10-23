@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/research/alliance",
+  "source": "https://lastasylum.gg/en/research/alliance",
   "title": "Alliance Tech: Cost & Effects · Last Asylum Wiki",
-  "source_capture_sha256": "8dbf3f45c466957a46cf72470ce8a49fb490f1cfe641ef1d3246d3763040a962",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Auto Rally",
+      "value": "1"
+    },
+    {
+      "field": "Construction Speed",
+      "value": "1"
+    },
+    {
+      "field": "Herb",
+      "value": "02:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "04:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "06:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "08:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "10:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "12:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "14:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "16:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "18:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "20:00:00"
+    },
+    {
+      "field": "Auto Rally",
+      "value": "1"
+    },
+    {
+      "field": "Time Reduced",
+      "value": "1"
+    },
+    {
+      "field": "Herb",
+      "value": "02:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "04:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "06:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "08:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "10:00:00"
+    },
+    {
+      "field": "Herb",
+      "value": "12:00:00"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

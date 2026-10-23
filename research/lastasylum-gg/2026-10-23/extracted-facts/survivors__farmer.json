@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/survivors/farmer",
+  "source": "https://lastasylum.gg/en/survivors/farmer",
   "title": "Farmer · Survivors · Last Asylum Wiki",
-  "source_capture_sha256": "6d8f4de527eef556ec373b01ac76524b8478789225e59d1e157dbe49a884cdbd",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Survivor Token",
+      "value": "54%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "56%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "58%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "60%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "74%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "76%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "78%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "80%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "82%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "97%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "99%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "101%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "103%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "105%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "119%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "121%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "123%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "125%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "127%"
+    },
+    {
+      "field": "Survivor Token",
+      "value": "143%"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

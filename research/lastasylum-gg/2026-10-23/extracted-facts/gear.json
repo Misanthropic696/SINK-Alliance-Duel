@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/gear",
+  "source": "https://lastasylum.gg/en/gear",
   "title": "Gear: Crafting Cost & Upgrades · Last Asylum Wiki",
-  "source_capture_sha256": "b388e38bad7badf5352ab88bb81325b0f836fe01efdc10524ccde112e2fcee7f",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Enhancement",
+      "value": "0"
+    },
+    {
+      "field": "Promotion to MR",
+      "value": "0"
+    },
+    {
+      "field": "Gearstone",
+      "value": "779,880,000"
+    },
+    {
+      "field": "Herb",
+      "value": "6,000"
+    },
+    {
+      "field": "Tempered Steel",
+      "value": "50"
+    },
+    {
+      "field": "Gear Blueprint (UR)",
+      "value": "10"
+    },
+    {
+      "field": "Power",
+      "value": "0"
+    },
+    {
+      "field": "Herb",
+      "value": "933"
+    },
+    {
+      "field": "Herb",
+      "value": "974"
+    },
+    {
+      "field": "Herb",
+      "value": "1,021"
+    },
+    {
+      "field": "Herb",
+      "value": "1,064"
+    },
+    {
+      "field": "Herb",
+      "value": "1,109"
+    },
+    {
+      "field": "Herb",
+      "value": "1,155"
+    },
+    {
+      "field": "Herb",
+      "value": "1,199"
+    },
+    {
+      "field": "Herb",
+      "value": "1,240"
+    },
+    {
+      "field": "Herb",
+      "value": "1,288"
+    },
+    {
+      "field": "Herb",
+      "value": "1,329"
+    },
+    {
+      "field": "Herb",
+      "value": "1,373"
+    },
+    {
+      "field": "Herb",
+      "value": "1,417"
+    },
+    {
+      "field": "Herb",
+      "value": "1,465"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

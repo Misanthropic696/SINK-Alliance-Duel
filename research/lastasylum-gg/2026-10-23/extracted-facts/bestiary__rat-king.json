@@ -1,7 +1,23 @@
 {
-  "source_url": "https://lastasylum.gg/en/bestiary/rat-king",
+  "source": "https://lastasylum.gg/en/bestiary/rat-king",
   "title": "Rat King: Stats & Recommended Power · Last Asylum Wiki",
-  "source_capture_sha256": "b6b3e4e4a5bedd1db446af9145735c0769dc8c4a265c3a901846441a3a42ec2c",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Boss",
+      "value": "76,600"
+    },
+    {
+      "field": "Recommended power",
+      "value": "400"
+    },
+    {
+      "field": "Attack range",
+      "value": "500"
+    },
+    {
+      "field": "Squad",
+      "value": "76,600"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

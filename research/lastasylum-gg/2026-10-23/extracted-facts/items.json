@@ -1,7 +1,43 @@
 {
-  "source_url": "https://lastasylum.gg/en/items",
+  "source": "https://lastasylum.gg/en/items",
   "title": "Items: Where to Get & Uses · Last Asylum Wiki",
-  "source_capture_sha256": "50dbb17c561c729f314a62a1d7669dcfc9544add2f8f77b9004861a24f9e8a15",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Speedups",
+      "value": "40"
+    },
+    {
+      "field": "Resources",
+      "value": "73"
+    },
+    {
+      "field": "Chests",
+      "value": "150"
+    },
+    {
+      "field": "Materials",
+      "value": "66"
+    },
+    {
+      "field": "Gear",
+      "value": "16"
+    },
+    {
+      "field": "Raven",
+      "value": "138"
+    },
+    {
+      "field": "Consumables",
+      "value": "48"
+    },
+    {
+      "field": "Event items",
+      "value": "72"
+    },
+    {
+      "field": "Skins and decor",
+      "value": "174"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

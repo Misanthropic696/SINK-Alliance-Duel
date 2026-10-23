@@ -1,7 +1,11 @@
 {
-  "source_url": "https://lastasylum.gg/en/virus",
+  "source": "https://lastasylum.gg/en/virus",
   "title": "Virus Resistance (RES): All Levels · Last Asylum Wiki",
-  "source_capture_sha256": "c6e0f465ba68d8c7cde462567f1cee8dfe233b4dc9d5657156ea97bb7fa5acd8",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Damage taken",
+      "value": "≤ 0"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }

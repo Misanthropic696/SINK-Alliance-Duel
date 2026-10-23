@@ -1,7 +1,87 @@
 {
-  "source_url": "https://lastasylum.gg/en/raven/levels",
+  "source": "https://lastasylum.gg/en/raven/levels",
   "title": "Levels - Raven · Last Asylum Wiki",
-  "source_capture_sha256": "4e5d97c476975f1fb74bfb1ad3427811eafd9d720a20926bc0ac88d0015ccd4a",
-  "observed_numeric_fields": [],
-  "note": "Numerical field observations from a sampled public page; labels may be ambiguous. Verify against linked source and client tables."
+  "numeric_observations": [
+    {
+      "field": "Levels",
+      "value": "1"
+    },
+    {
+      "field": "Raven Fruit",
+      "value": "117,045"
+    },
+    {
+      "field": "Hero DEF",
+      "value": "1"
+    },
+    {
+      "field": "11.3K",
+      "value": "5"
+    },
+    {
+      "field": "15.0K",
+      "value": "10"
+    },
+    {
+      "field": "18.8K",
+      "value": "20"
+    },
+    {
+      "field": "22.5K",
+      "value": "30"
+    },
+    {
+      "field": "26.3K",
+      "value": "40"
+    },
+    {
+      "field": "30.0K",
+      "value": "50"
+    },
+    {
+      "field": "37.5K",
+      "value": "60"
+    },
+    {
+      "field": "37.5K",
+      "value": "80"
+    },
+    {
+      "field": "37.5K",
+      "value": "100"
+    },
+    {
+      "field": "37.5K",
+      "value": "120"
+    },
+    {
+      "field": "45.0K",
+      "value": "140"
+    },
+    {
+      "field": "45.0K",
+      "value": "160"
+    },
+    {
+      "field": "45.0K",
+      "value": "180"
+    },
+    {
+      "field": "45.0K",
+      "value": "200"
+    },
+    {
+      "field": "52.5K",
+      "value": "250"
+    },
+    {
+      "field": "52.5K",
+      "value": "300"
+    },
+    {
+      "field": "52.5K",
+      "value": "350"
+    }
+  ],
+  "caution": "Machine-extracted labels may be ambiguous; check original page."
 }
