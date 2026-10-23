@@ -1,19 +1,21 @@
-# SINK — Direct Data Access for AI Assistants
+# SINK Game Knowledge — Start Here
 
-This repository is PUBLIC. GitHub folder browsing may fail in some AI clients. Open these **direct raw file links** instead:
+This is the public, browsable source of truth for SINK game research and Alliance Duel data.
 
-## Alliance Duel Monday–Thursday, 19–22 October 2026
+**AI retrieval instructions:** Read this document, then fetch the relevant raw JSON/CSV/Markdown files by their direct URLs. Do not infer that a folder listing, a ZIP, or an index means its underlying content was read. Read only the files needed for the question, cite their paths, and report unavailable sources.
 
-- [Rankings JSON](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/data/2026-10-19/SINK_Daily_Rankings_2026-10-19_to_2026-10-22.json)
-- [Rankings CSV](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/data/2026-10-19/SINK_Daily_Rankings_2026-10-19_to_2026-10-22.csv)
-- [Analysis notes](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/data/2026-10-19/SINK_Alliance_Duel_AI_Data_2026-10-19_MIDWEEK.md)
+## Source entry points
 
-## Game reference
+- [Game reference index](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/game-reference/client-1.0.104/index.json) — individual static game tables.
+- [Game analysis](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/game-reference/client-1.0.104/findings/Last-Asylum-Report.md) — conclusions and limits.
+- [Hero dossiers](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/game-reference/client-1.0.104/findings/UR-hero-dossiers.json) — static client hero reference.
+- [Website research index](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/lastasylum-gg/2026-10-23/facts-index.json) — 86 sampled public website URLs and JSON observations.
+- [Website coverage report](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/lastasylum-gg/2026-10-23/COVERAGE.md) — what was and was not collected.
+- [Alliance Duel rankings](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/data/2026-10-19/SINK_Daily_Rankings_2026-10-19_to_2026-10-22.json) — provisional OCR scores, not verified final rankings.
 
-- [750 extracted game tables ZIP](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/combined-game-reference/2026-10-23/game-tables-750.zip)
-- [Game findings](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/combined-game-reference/2026-10-23/game-findings.md)
-- [LastAsylum.gg page index](https://raw.githubusercontent.com/Misanthropic696/SINK-Alliance-Duel/main/research/combined-game-reference/2026-10-23/lastasylum-gg-index.json)
+## Important limits
 
-**Read the actual JSON/CSV content.** Rankings are provisional OCR records and should not be described as manually verified. The extracted game tables come from client version 1.0.104, not live server data. The website index covers a sample of 86 pages.
-
-If a browsing assistant cannot open ZIP files, download the ZIP and upload it as an attachment, or clone the repository with Git.
+- Client version: 1.0.104. Static client tables are not current live-server records.
+- Website facts are limited to 86 sampled pages and automatically identified numeric observations; some labels are ambiguous. Verify against linked pages.
+- The full LastAsylum.gg website, live rankings, server-side game logic, private account data, and screenshots are not in this public research set.
+- The repository does not give an AI unlimited context or guarantee that every file was read.
