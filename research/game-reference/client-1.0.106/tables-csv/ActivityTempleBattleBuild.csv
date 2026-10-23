@@ -1,0 +1,6 @@
+id,AdjacentCities,animatorPath,area,benefit,cityBlockId,coordinate,desc,id,info,level,modelConfigId,name,occupyBuff,reward,type,uiPic
+5,{},Tower/tower_rightup_animator.overrideController,0,{},0,"{'1': 509, '2': 509}",,5,,7,40005,,0,{},2,
+2,{},Tower/tower_rightdown_animator.overrideController,0,{},0,"{'1': 509, '2': 491}",,2,,7,40002,,0,{},2,
+1,"{'1': 6001, '2': 6002, '3': 6003}",,87,"{'1': {'Type': 10101, 'Source': 905, 'Value': 0.1}}",9999,"{'1': 500, '2': 500}",,1,,7,40001,,0,"{'1': {'count': 3000, 'type': 11}, '2': {'type': 99, 'id': 'item_UseUp_recruitCoin', 'count': 50}, '3': {'type': 99, 'id': 'item_food_50k', 'count': 180}, '4': {'type': 99, 'id': 'item_wood_50k', 'count': 180}, '5': {'type': 99, 'id': 'item_steel_30k', 'count': 180}, '6': {'type': 99, 'id': 'item_optionalBox_Resource', 'count': 300}}",1,
+4,{},Tower/tower_leftdown_animator.overrideController,0,{},0,"{'1': 491, '2': 491}",,4,,7,40004,,0,{},2,
+3,{},Tower/tower_leftup_animator.controller,0,{},0,"{'1': 491, '2': 509}",,3,,7,40003,,0,{},2,

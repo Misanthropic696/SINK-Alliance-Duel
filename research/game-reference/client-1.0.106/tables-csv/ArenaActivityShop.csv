@@ -1,0 +1,19 @@
+id,GoToTarget,activitySortID,coin,desc,display,displayCoin,displayCondition,exchangeType,iconFuncType,id,shopBannerPath,shopName,shopRefreshType,shopStyle,sort,subshopName,type,typeID
+1,,UI_Sprite/Banner/K3Banner/Banner_VIP.png,{'1': {'type': 11}},,1,1,{},1,2,1,UI_Sprite/Banner/Shop/grocer_diamond_shop_banner.png,,0,1,101,,1,101
+18,,,"{'1': {'id': 'item_activity_shop_market', 'type': 99}}",,0,1,{},1,2,18,,,0,1,0,,4,902
+2,,Pic_Entrance_VipShop,{'1': {'type': 11}},,1,1,{},1,2,2,UI_Sprite/Banner/Shop/grocer_vip_shop_banner.png,,2,1,201,,2,201
+5,,UI_Sprite/Banner/K3Banner/Banner_VIP.png,"{'1': {'id': 'item_Activity_dualCommander', 'type': 99}}",,1,1,{},1,1,5,UI_Sprite/Banner/Shop/grocer_honor_shop_banner.png,,3,1,303,,3,303
+6,,UI_Sprite/Banner/K3Banner/Banner_VIP.png,"{'1': {'id': 'item_activity_expedition', 'type': 99}}",,1,1,{},1,1,6,UI_Sprite/Banner/Shop/grocer_espedition_shop_banner.png,,2,1,501,,5,501
+20,,,"{'1': {'id': 'item_activity_shop_invasion', 'type': 99}}",,0,1,{},1,2,20,,,0,1,0,,4,904
+21,,,"{'1': {'id': 'item_activity_shop_prepare', 'type': 99}}",,0,1,{},1,2,21,,,0,1,0,,4,9032
+22,,,"{'1': {'id': 'item_activity_shop_prepare', 'type': 99}}",,0,1,{},1,2,22,,,0,1,0,,4,9033
+23,,,"{'1': {'id': 'item_activity_shop_prepare', 'type': 99}}",,0,1,{},1,2,23,,,0,1,0,,4,9034
+25,,,"{'1': {'id': 'halloween_market_money', 'type': 99}}",,0,1,{},1,2,25,,,0,1,0,,4,9036
+15,,UI_Sprite/Banner/K3Banner/Banner_alliance.png,{'1': {'type': 9}},,1,1,{},1,1,15,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,,2,2,250,,7,701
+17,,,{'1': {'type': 11}},,0,1,{},2,0,17,,,0,1,0,,4,901
+100,,,"{'1': {'id': 'item_activity_airDrop', 'type': 99}}",,0,1,{},1,2,100,,,0,1,0,,100,10001
+97,,UI_Sprite/Banner/K3Banner/Banner_alliance.png,"{'1': {'id': 'season_item_badge', 'type': 99}}",,1,1,"{'1': {'id': 100012, 'param1': '1', 'param2': '0', 'param3': '1'}}",1,1,97,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,,0,1,502,,99,801
+99,,,{'1': {'type': 1043}},,1,1,{},1,1,99,,,2,1,503,,99,9901
+98,goto_season_skincoin,UI_Sprite/Banner/K3Banner/Banner_alliance.png,"{'1': {'id': 'season_item_skincoin', 'type': 99}}",,1,1,"{'1': {'id': 100012, 'param1': '1', 'param2': '0', 'param3': '1'}}",1,2,98,UI_Sprite/Banner/Shop/grocer_alliance_shop_banner.png,,0,1,502,,99,802
+24,,,"{'1': {'id': 'easter_golden_ticket', 'type': 99}}",,0,1,{},1,2,24,,,0,1,0,,4,9035
+19,,,"{'1': {'id': 'item_activity_shop_prepare', 'type': 99}}",,0,1,{},1,2,19,,,0,1,0,,4,9031

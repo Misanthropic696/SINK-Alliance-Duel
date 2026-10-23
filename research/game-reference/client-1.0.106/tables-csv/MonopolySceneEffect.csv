@@ -1,0 +1,89 @@
+id,Tips,assetPath,clearCondition,id,param,position,rotation,scale,showCondition,tipsPostion,type
+43,0,CityMap/Prefab_new/Floor/zoneFloor1.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",43,0,"23.99,-18.29,10",,1,"{'1': {'id': 80035, 'param1': '1', 'param2': '1'}}",,7
+53,0,CityMap/Prefab_new/Floor/zoneFloor11.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",53,0,"10.6,-5.95,10",,1,"{'1': {'id': 80035, 'param1': '11', 'param2': '1'}}",,7
+23,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_20.prefab,"{'1': {'id': 80030, 'param1': '21001'}}",23,0,"0,0,0",,1,{},,6
+93,2,CityMap/Prefab_new/k3_City_NPC/k3_FirstBUY_Hero.prefab,"{'1': {'id': 80030, 'param1': '4001'}}",93,0,"30.6,-11.33,0",,0.8,"{'1': {'id': 80029, 'param1': '2004'}}",,8
+107,0,CityMap/Prefab/MonopolyModels/k3_Zombie/k3_Zombie_Fat_city.prefab,"{'1': {'id': 201002, 'param1': '5', 'param2': '9930001'}}",107,9930001,"4.89,-19.50,0","-74.2,98.2,-97.4",0.6,"{'1': {'id': 201001, 'param1': '5', 'param2': '2'}}","0,1.8",5
+73,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Zombie3.prefab,"{'1': {'id': 80029, 'param1': '104'}}",73,0,"21,-11.5,0",,0.5,{},,2
+13,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_10.prefab,"{'1': {'id': 80030, 'param1': '11001'}}",13,0,"0,0,0",,1,{},,6
+4,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_03.prefab,"{'1': {'id': 80030, 'param1': '4001'}}",4,0,"0,0,0",,1,{},,6
+3,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_02.prefab,"{'1': {'id': 80030, 'param1': '3001'}}",3,0,"0,0,0",,1,{},,6
+6,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_04.prefab,"{'1': {'id': 80030, 'param1': '5001'}}",6,0,"0,0,0",,1,{},,6
+5,1,CityMap/Prefab/MonopolyModels/k3_Hero/k3_hero20.prefab,"{'1': {'id': 80030, 'param1': '3001'}}",5,0,"28.07,-13.57,0","66.949,100.022,280.273",0.59,"{'1': {'id': 80029, 'param1': '2001'}}",,2
+109,0,CityMap/Prefab/MonopolyModels/k3_Boss/k3_Boss1_red.prefab,"{'1': {'id': 201002, 'param1': '5', 'param2': '9930003'}}",109,9930003,"8.06,-21.97,0","-34.2,98.2,-97.4",0.8,"{'1': {'id': 201001, 'param1': '5', 'param2': '2'}}","0,1.8",5
+2,0,CityMap/Prefab_new/k3_City_NPC/k3_FirstBUY_Hero.prefab,"{'1': {'id': 80030, 'param1': '2001'}}",2,0,"24.8,-17.73,0",,1,"{'1': {'id': 80014, 'param1': '20013'}}",,6
+1,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_01.prefab,"{'1': {'id': 80030, 'param1': '2001'}}",1,0,"0,0,0",,1,{},,6
+57,0,CityMap/Prefab_new/Floor/zoneFloor15.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",57,0,"17.5,6.93,10",,1,"{'1': {'id': 80035, 'param1': '15', 'param2': '1'}}",,7
+67,0,CityMap/Prefab_new/Floor/zoneFloor25.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",67,0,"29.47,-18.75,10",,1,"{'1': {'id': 80035, 'param1': '25', 'param2': '1'}}",,7
+47,0,CityMap/Prefab_new/Floor/zoneFloor5.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",47,0,"29.41,-4.96,10",,1,"{'1': {'id': 80035, 'param1': '5', 'param2': '1'}}",,7
+17,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_14.prefab,"{'1': {'id': 80030, 'param1': '15001'}}",17,0,"0,0,0",,1,{},,6
+27,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_24.prefab,"{'1': {'id': 80030, 'param1': '24001'}}",27,0,"0,0,0",,1,{},,6
+105,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero3_idle.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '2'}}",105,0,"21.28,-8.16,0","345.72,90,270",0.4,"{'1': {'id': 80014, 'param1': '20009'}}",,2
+36,0,CityMap/Prefab_new/Lock/K3_Lock_Tree.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",36,0,"23.4,-10.4,0",,1,{},,4
+26,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_23.prefab,"{'1': {'id': 80030, 'param1': '23001'}}",26,0,"0,0,0",,1,{},,6
+56,0,CityMap/Prefab_new/Floor/zoneFloor14.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",56,0,"14.56,3.99,10",,1,"{'1': {'id': 80035, 'param1': '14', 'param2': '1'}}",,7
+46,0,CityMap/Prefab_new/Floor/zoneFloor4.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",46,0,"32.89,-8.41,10",,1,"{'1': {'id': 80035, 'param1': '4', 'param2': '1'}}",,7
+22,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_19.prefab,"{'1': {'id': 80030, 'param1': '20001'}}",22,0,"0,0,0",,1,{},,6
+12,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_09.prefab,"{'1': {'id': 80030, 'param1': '10001'}}",12,0,"0,0,0",,1,{},,6
+42,0,CityMap/Prefab_new/Floor/InitialFloor.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",42,0,"20.5,-8.91,10",,1,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",,7
+86,0,CityMap/Prefab/MonopolyModels/k3_NPC/Defense_Zombie.prefab,"{'1': {'id': 20103, 'param1': '5013', 'param2': '1'}}",86,0,"2.34,1.49,0",,1,"{'1': {'id': 80014, 'param1': '20003'}}",,2
+103,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero4_Idle.prefab,"{'1': {'id': 80014, 'param1': '20009'}}",103,0,"21.21,-7.93,0","315,90,270",0.4,"{'1': {'id': 30801, 'param1': '9900007'}}",,2
+16,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_13.prefab,"{'1': {'id': 80030, 'param1': '14001'}}",16,0,"0,0,0",,1,{},,6
+68,0,CityMap/Prefab_new/Floor/zoneFloor26.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",68,0,"26.51,-21.71,10",,1,"{'1': {'id': 80035, 'param1': '26', 'param2': '1'}}",,7
+58,0,CityMap/Prefab_new/Floor/zoneFloor16.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",58,0,"20.98,9.4,10",,1,"{'1': {'id': 80035, 'param1': '16', 'param2': '1'}}",,7
+48,0,CityMap/Prefab_new/Floor/zoneFloor6.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",48,0,"26.43,-1.99,10",,1,"{'1': {'id': 80035, 'param1': '6', 'param2': '1'}}",,7
+111,0,CityMap/Prefab/MonopolyModels/k3_NPC/K3_CityMap_Pika_01.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",111,0,"1.65,-9.34,-0.08","315.57,95.66,261.66",1,"{'1': {'id': 80014, 'param1': '20025'}}",,2
+28,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_25.prefab,"{'1': {'id': 80030, 'param1': '25001'}}",28,0,"0,0,0",,1,{},,6
+18,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_15.prefab,"{'1': {'id': 80030, 'param1': '16001'}}",18,0,"0,0,0",,1,{},,6
+110,0,CityMap/Prefab/MonopolyModels/k3_NPC/K3_CityMap_Pika_01.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",110,0,"1.1,-8.66,-0.06","315.57,95.66,261.66",1,"{'1': {'id': 80014, 'param1': '20025'}}",,2
+61,0,CityMap/Prefab_new/Floor/zoneFloor19.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",61,0,"30.39,-0.01,10",,1,"{'1': {'id': 80035, 'param1': '19', 'param2': '1'}}",,7
+45,0,CityMap/Prefab_new/Floor/zoneFloor3.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",45,0,"30.42,-11.87,10",,1,"{'1': {'id': 80035, 'param1': '3', 'param2': '1'}}",,7
+55,0,CityMap/Prefab_new/Floor/zoneFloor13.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",55,0,"11.58,1,10",,1,"{'1': {'id': 80035, 'param1': '13', 'param2': '1'}}",,7
+11,0,CityMap/Prefab/MonopolyModels/k3_Hero/k3_Hero9.prefab,"{'1': {'id': 80030, 'param1': '6001'}}",11,0,"31.35,-5.07,0","45,89.99,269.99",0.58,"{'1': {'id': 80014, 'param1': '20013'}}",,2
+21,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_18.prefab,"{'1': {'id': 80030, 'param1': '19001'}}",21,0,"0,0,0",,1,{},,6
+106,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero4_Idle.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '2'}}",106,0,"21.94,-8.79,0","290.29,90.12,269.90",0.4,"{'1': {'id': 80014, 'param1': '20009'}}",,2
+41,0,CityMap/Prefab_new/Lock/K3_Lock_Tree_5.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",41,0,"27.35,-11.2,0",,1,{},,4
+102,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero3_idle.prefab,"{'1': {'id': 80014, 'param1': '20009'}}",102,0,"21.57,-8.29,0","315,90,270",0.4,"{'1': {'id': 30801, 'param1': '9900007'}}",,2
+99,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Hero4_low_TimelinePostP.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",99,0,"20.61,-9.33,0","36.38,90,270",0.4,"{'1': {'id': 80014, 'param1': '20011'}}",,2
+98,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero1_Idle.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",98,0,"21.20,-8.69,0","48.66,90,270",0.4,"{'1': {'id': 80014, 'param1': '20011'}}",,2
+15,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_12.prefab,"{'1': {'id': 80030, 'param1': '13001'}}",15,0,"0,0,0",,1,{},,6
+97,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Soldier1_Story_New.prefab,"{'1': {'id': 80014, 'param1': '20013'}}",97,0,"20.20,-7.56,0","67.97,90,270",0.376,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",,2
+96,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Soldier1_Story_New.prefab,"{'1': {'id': 80014, 'param1': '20013'}}",96,0,"22.12,-9.71,0","293.28,270,90",0.376,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",,2
+95,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Soldier1_Story_New.prefab,"{'1': {'id': 80014, 'param1': '20013'}}",95,0,"20.93,-6.92,-2.98","80.25,90,270",0.376,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",,2
+94,2,CityMap/Prefab_new/k3_City_NPC/k3_FirstBUY_Hero.prefab,"{'1': {'id': 80030, 'param1': '5001'}}",94,0,"32.2,-8.3,0",,0.8,"{'1': {'id': 80029, 'param1': '4001'}}",,9
+104,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero1_Idle.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '2'}}",104,0,"21.93,-8.08,0","39.96,270,90",0.4,"{'1': {'id': 80014, 'param1': '20009'}}",,2
+90,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Soldier1_STOLY.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",90,0,"22.88,-6.83,0","72.61,90,270",0.4,"{'1': {'id': 80014, 'param1': '20011', 'param2': '2'}}",,2
+9,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_07.prefab,"{'1': {'id': 80030, 'param1': '8002'}}",9,0,"0,0,0",,1,{},,6
+89,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Soldier1_STOLY.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",89,0,"21.64,-7.42,0","67.24,90,270",0.4,"{'1': {'id': 80014, 'param1': '20011', 'param2': '2'}}",,2
+39,0,CityMap/Prefab_new/Lock/K3_Lock_Tree_4.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",39,0,"28.8,-9.4,0",,1,{},,4
+49,0,CityMap/Prefab_new/Floor/zoneFloor7.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",49,0,"23.5,0.99,10",,1,"{'1': {'id': 80035, 'param1': '7', 'param2': '1'}}",,7
+59,0,CityMap/Prefab_new/Floor/zoneFloor17.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",59,0,"24.451,5.93,10",,1,"{'1': {'id': 80035, 'param1': '17', 'param2': '1'}}",,7
+69,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Boss1.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",69,9900008,"23.64,-11.4,0","316.68,269.06,91.37",0.8,"{'1': {'id': 80014, 'param1': '20011'}}",,5
+8,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_06.prefab,"{'1': {'id': 80030, 'param1': '7001'}}",8,0,"0,0,0",,1,{},,6
+7,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_05.prefab,"{'1': {'id': 80030, 'param1': '6001'}}",7,0,"0,0,0",,0.85,{},,6
+100,0,CityMap/Prefab/MonopolyModels/k3_Hero/k3_Hero3.prefab,"{'1': {'id': 30801, 'param1': '9900008'}}",100,0,"20.16,-10.29,0","22.71,90,270",0.4,"{'1': {'id': 80014, 'param1': '20011'}}",,2
+108,0,CityMap/Prefab/MonopolyModels/k3_Boss/k3_Boss_Tank_city.prefab,"{'1': {'id': 201002, 'param1': '5', 'param2': '9930002'}}",108,9930002,"11.87,-25.82,0","-74.2,98.2,-97.4",0.55,"{'1': {'id': 201001, 'param1': '5', 'param2': '2'}}","0,1.8",5
+54,0,CityMap/Prefab_new/Floor/zoneFloor12.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",54,0,"8.12,-2.48,10",,1,"{'1': {'id': 80035, 'param1': '12', 'param2': '1'}}",,7
+44,0,CityMap/Prefab_new/Floor/zoneFloor2.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",44,0,"27.44,-14.83,10",,1,"{'1': {'id': 80035, 'param1': '2', 'param2': '1'}}",,7
+60,0,CityMap/Prefab_new/Floor/zoneFloor18.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",60,0,"27.41,2.95,10",,1,"{'1': {'id': 80035, 'param1': '18', 'param2': '1'}}",,7
+24,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_21.prefab,"{'1': {'id': 80030, 'param1': '22001'}}",24,0,"0,0,0",,1,{},,6
+40,0,CityMap/Prefab_new/Lock/K3_Lock_Tree_4.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",40,0,"16.75,-3.6,0",,1,{},,4
+101,0,CityMap/Prefab/MonopolyModels/k3_Hero_idle/k3_Hero1_Idle.prefab,"{'1': {'id': 80014, 'param1': '20009'}}",101,0,"21.6,-7.9,0","315,90,270",0.4,"{'1': {'id': 30801, 'param1': '9900007'}}",,2
+20,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_17.prefab,"{'1': {'id': 80030, 'param1': '18001'}}",20,0,"0,0,0",,1,{},,6
+10,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_08.prefab,"{'1': {'id': 80030, 'param1': '9001'}}",10,0,"0,0,0",,1,{},,6
+88,0,CityMap/Prefab/MonopolyModels/k3_Building/k3_Xiaoche_01_STOLY_empty.prefab,"{'1': {'id': 80014, 'param1': '20009'}}",88,0,"18.23,-9.85,0","30,270,90",0.45,"{'1': {'id': 30801, 'param1': '9900005'}}",,6
+87,0,CityMap/Prefab/MonopolyModels/k3_NPC/Defense_Zombie.prefab,"{'1': {'id': 20103, 'param1': '5013', 'param2': '1'}}",87,0,"12.8,-9,0",,1,"{'1': {'id': 80014, 'param1': '20003'}}",,2
+76,0,CityMap/Prefab/MonopolyModels/k3_NPC/k3_Zombie6.prefab,"{'1': {'id': 80029, 'param1': '104'}}",76,0,"14.5,-8.5,0",,0.5,{},,2
+66,0,CityMap/Prefab_new/Floor/zoneFloor24.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",66,0,"32.45,-15.79,10",,1,"{'1': {'id': 80035, 'param1': '24', 'param2': '1'}}",,7
+14,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_11.prefab,"{'1': {'id': 80030, 'param1': '12001'}}",14,0,"0,0,0",,1,{},,6
+65,0,CityMap/Prefab_new/Floor/zoneFloor23.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",65,0,"35.42,-12.81,10",,1,"{'1': {'id': 80035, 'param1': '23', 'param2': '1'}}",,7
+64,0,CityMap/Prefab_new/Floor/zoneFloor22.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",64,0,"38.88,-9.36,10",,1,"{'1': {'id': 80035, 'param1': '22', 'param2': '1'}}",,7
+63,0,CityMap/Prefab_new/Floor/zoneFloor21.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",63,0,"36.36,-5.95,10",,1,"{'1': {'id': 80035, 'param1': '21', 'param2': '1'}}",,7
+62,0,CityMap/Prefab_new/Floor/zoneFloor20.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",62,0,"33.365,-2.98,10",,1,"{'1': {'id': 80035, 'param1': '20', 'param2': '1'}}",,7
+52,0,CityMap/Prefab_new/Floor/zoneFloor10.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",52,0,"13.57,-2.97,10",,1,"{'1': {'id': 80035, 'param1': '10', 'param2': '1'}}",,7
+51,0,CityMap/Prefab_new/Floor/zoneFloor9.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",51,0,"16.52,0,10",,1,"{'1': {'id': 80035, 'param1': '9', 'param2': '1'}}",,7
+50,0,CityMap/Prefab_new/Floor/zoneFloor8.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '31'}}",50,0,"19.99,3.45,10",,1,"{'1': {'id': 80035, 'param1': '8', 'param2': '1'}}",,7
+38,0,CityMap/Prefab_new/Lock/K3_Lock_Tree_3.prefab,"{'1': {'id': 20103, 'param1': '1001', 'param2': '1'}}",38,0,"22.7,-2.6,0",,1,{},,4
+29,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_26.prefab,"{'1': {'id': 80030, 'param1': '26001'}}",29,0,"0,0,0",,1,{},,6
+25,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_22.prefab,"{'1': {'id': 80030, 'param1': '23001'}}",25,0,"0,0,0",,1,{},,6
+19,0,CityMap/Prefab_new/k3_Monopoly/k3_Monopoly_16.prefab,"{'1': {'id': 80030, 'param1': '17001'}}",19,0,"0,0,0",,1,{},,6

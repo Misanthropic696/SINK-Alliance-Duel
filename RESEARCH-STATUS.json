@@ -1,12 +1,30 @@
 {
   "date": "2026-10-23",
-  "game_client_version": "1.0.104",
-  "game_csv_files": 751,
-  "game_json_files": 1003,
+  "game_client_versions": {
+    "latest": "1.0.106",
+    "previous": "1.0.104"
+  },
+  "game_csv_files": {
+    "v1.0.104": 751,
+    "v1.0.106": 790
+  },
+  "game_json_files": {
+    "v1.0.104": 1003,
+    "v1.0.106": 790
+  },
   "website_sampled_pages": 86,
   "website_sitemap_urls": 6677,
   "website_numeric_observations_unverified": 803,
   "live_leaderboards_included": false,
   "all_game_files_included": false,
-  "source_of_truth": "AI-START-HERE.md"
+  "source_of_truth": "AI-START-HERE.md",
+  "version_comparison": {
+    "v104_to_v106": {
+      "new_tables": 40,
+      "removed_tables": 0,
+      "tables_with_changes": 34,
+      "total_differing_rows": 10347,
+      "new_content_categories": ["ActivitySquadBattle (17)", "Monopoly (7)", "Volcano (16)", "ConditionReward (1)"]
+    }
+  }
 }

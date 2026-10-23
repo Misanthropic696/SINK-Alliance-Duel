@@ -1,0 +1,9 @@
+id,additionRewards,changeQueue,icon,id,name,unlockCondition,unlockReward,unlockSpend
+4,{},{},icon_zs_xinquyu,4,,"{'1': {'level': 5, 'roomupgrade': 16040101}}",2,"{'1': {'type': 1043, 'count': 800}, '2': {'type': 2, 'count': 800}}"
+5,{},{},icon_zs_xinquyu,5,,"{'1': {'level': 6, 'roomupgrade': 2011002}}",2,"{'1': {'type': 1043, 'count': 1000}, '2': {'type': 2, 'count': 1000}}"
+6,{},"{'1': {}, '2': {}, '3': {'npcType': 13, 'roomType': 64, 'prefab': 'Role/NPC_F/hugong_02/hugong_02.prefab'}}",icon_zs_xinquyu,6,,"{'1': {'level': 7, 'roomupgrade': 2011302}}",2,"{'1': {'type': 1043, 'count': 1500}, '2': {'type': 2, 'count': 1500}}"
+7,{},{},icon_zs_xinquyu,7,,"{'1': {'level': 8, 'roomupgrade': 2011602}}",2,"{'1': {'type': 1043, 'count': 3000}, '2': {'type': 2, 'count': 3000}}"
+8,{},{},icon_zs_xinquyu,8,,"{'1': {'level': 9, 'roomupgrade': 2012002}}",2,"{'1': {'type': 1043, 'count': 5000}, '2': {'type': 2, 'count': 3000}}"
+1,{},{},icon_zs_xinquyu,1,,{},0,{}
+2,{},{},icon_zs_xinquyu,2,,"{'1': {'level': 2, 'roomupgrade': 2010302}}",2,"{'1': {'type': 2, 'count': 100}}"
+3,"{'1': {'type': 1100003, 'id': '16040101', 'count': 1}}",{},icon_zs_xinquyu,3,,"{'1': {'level': 4, 'roomupgrade': 2010602}}",2,"{'1': {'type': 1043, 'count': 500}, '2': {'type': 2, 'count': 500}}"

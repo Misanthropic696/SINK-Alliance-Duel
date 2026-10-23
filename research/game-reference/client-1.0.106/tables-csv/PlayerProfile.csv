@@ -1,0 +1,11 @@
+id,Gender,benefit,des1,des2,effect,goTo,grade,head,id,initWear,model,name,pic,picAtlas,sort,timeType,type,unlockItem,unlockType,unlockValue
+2001,0,{},,,,,0,,2001,1,,,pic_touxiangkuang0,,999,0,2,{},1,0
+2008,0,"{'1': {'Value': 0.025, 'Type': 10006, 'Source': 101}}",,,,Activity,0,,2008,0,,,icon_item_headframe_colonel,SpriteAtlas/UI_PlayerHead.spriteatlas,8,1,2,"{'1': {'count': 1, 'id': 'item_headframe_colonel_7d', 'type': 99}}",4,0
+2005,0,"{'1': {'Value': 0.05, 'Type': 10006, 'Source': 101}}",,,,Activity,0,,2005,0,,,icon_item_headframe_general,SpriteAtlas/UI_PlayerHead.spriteatlas,5,1,2,"{'1': {'count': 1, 'id': 'item_headframe_general_7d', 'type': 99}}",4,0
+90002,2,{},,,,,0,pic_lz_touxiang02,90002,0,,,pic_lz_touxiang02,PLAYER_HEAD_ICON,998,0,1,{},1,0
+2007,0,"{'1': {'Value': 0.03, 'Type': 10006, 'Source': 101}}",,,,Activity,0,,2007,0,,,icon_item_headframe_majorGeneral,SpriteAtlas/UI_PlayerHead.spriteatlas,7,1,2,"{'1': {'count': 1, 'id': 'item_headframe_majorGeneral_7d', 'type': 99}}",4,0
+2009,0,"{'1': {'Value': 0.02, 'Type': 10006, 'Source': 101}}",,,,Activity,0,,2009,0,,,icon_item_headframe_lieutenantColonel,SpriteAtlas/UI_PlayerHead.spriteatlas,9,1,2,"{'1': {'count': 1, 'id': 'item_headframe_lieutenantColonel_7d', 'type': 99}}",4,0
+2006,0,"{'1': {'Value': 0.04, 'Type': 10006, 'Source': 101}}",,,,Activity,0,,2006,0,,,icon_item_headframe_lieutenantGeneral,SpriteAtlas/UI_PlayerHead.spriteatlas,6,1,2,"{'1': {'count': 1, 'id': 'item_headframe_lieutenantGeneral_7d', 'type': 99}}",4,0
+2010,0,{},,,,,0,,2010,0,,,pic_touxiangkuang1,,996,1,2,"{'1': {'count': 1, 'id': 'item_headframe_monthCard_30d', 'type': 99}}",4,0
+92018,0,{},,,,,0,pic_lz_touxiang02,92018,0,,,xiaoguai_13,MONSTER_HEAD_ICON,998,0,5,{},1,0
+90001,1,{},,,,,0,pic_lz_touxiang01,90001,1,,,pic_lz_touxiang01,PLAYER_HEAD_ICON,999,0,1,{},1,0

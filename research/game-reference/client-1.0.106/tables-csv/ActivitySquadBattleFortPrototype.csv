@@ -1,0 +1,5 @@
+id,desc,effectparam1,effectparam2,icon,iconAtlas,id,miniIcon,miniIconAtlas,name,personalIntegralAirDrop,personalIntegralBreak,personalIntegralDefend,shieldTime,typeIndex,unionIntegralAirDrop,unionIntegralCanPlunder,unionIntegralCannotPlunder
+1,winter_building_des_01,"[0,0,0,0.8]","[0,0,0,1]",Icon_Build_Arena_yaosai_01,SpriteAtlas/UI_BuildingIcon.spriteatlas,1,Arena_5V5_icon_silo,SpriteAtlas/UI_SquadBattle.spriteatlas,winter_building_name_01,0,100,500,180000,5001,0,40,60
+2,winter_building_des_02,"[0,0,0,0.9]","[0,0,0,1]",Icon_Build_Arena_dianchang_01,SpriteAtlas/UI_BuildingIcon.spriteatlas,2,Arena_5V5_icon_refinery,SpriteAtlas/UI_SquadBattle.spriteatlas,winter_building_name_02,0,100,500,0,5002,0,12,18
+3,winter_building_des_03,"[0,0,0,0.9]","[0,0,0,1]",Icon_Build_Arena_dapao_01,SpriteAtlas/UI_BuildingIcon.spriteatlas,3,Arena_5V5_icon_turret,SpriteAtlas/UI_SquadBattle.spriteatlas,winter_building_name_03,0,100,500,0,5003,0,4,6
+4,winter_building_des_04,,,Icon_Build_Arena_box_01,SpriteAtlas/UI_BuildingIcon.spriteatlas,4,Arena_5V5_icon_airdrop,SpriteAtlas/UI_SquadBattle.spriteatlas,winter_building_name_04,100000,0,2000,0,5004,1000,0,0

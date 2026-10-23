@@ -1,0 +1,19 @@
+id,displayCondition,id,name,pic,picPath,precondition,recommend,sort,troopIndex
+1,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",1,,Icon_Science_develop_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",False,1,0
+17,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}}",17,,Icon_Science_archer,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}, '2': {'id': 20205, 'param2': '80', 'param1': '11'}}",True,17,0
+18,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}}",18,,Icon_Science_warlock,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}, '2': {'id': 20205, 'param2': '80', 'param1': '11'}}",True,18,0
+15,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",15,,Icon_Science_resource_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '13', 'param1': '7'}}",False,6,0
+14,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",14,,Icon_Science_develop_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '13', 'param1': '7'}}",False,5,0
+13,"{'1': {'id': 20107, 'param2': '19', 'param1': '7'}}",13,,Icon_Science_DefendAgainstSieges_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '21', 'param1': '7'}, '2': {'id': 20205, 'param2': '40', 'param1': '11'}}",True,15,0
+12,"{'1': {'id': 20107, 'param2': '19', 'param1': '7'}}",12,,Icon_Science_SiegeTheCity_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '21', 'param1': '7'}, '2': {'id': 20205, 'param2': '40', 'param1': '11'}}",True,14,0
+9,"{'1': {'id': 20107, 'param2': '13', 'param1': '7'}}",9,,Icon_Science_AllianceShowdown_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '15', 'param1': '7'}}",False,10,0
+8,"{'1': {'id': 20107, 'param2': '6', 'param1': '7'}}",8,,Icon_Science_garage_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '8', 'param1': '7'}}",True,9,4
+16,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}}",16,,Icon_Science_warrior,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '30', 'param1': '7'}, '2': {'id': 20205, 'param2': '80', 'param1': '11'}}",True,16,0
+5,"{'1': {'id': 20107, 'param2': '6', 'param1': '7'}}",5,,Icon_Science_garage_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '8', 'param1': '7'}}",True,7,1
+4,"{'1': {'id': 20107, 'param2': '5', 'param1': '7'}}",4,,Icon_Science_soldier_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '7', 'param1': '7'}}",True,4,0
+3,"{'1': {'id': 20107, 'param2': '3', 'param1': '7'}}",3,,Icon_Science_hero_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '5', 'param1': '7'}}",True,3,0
+2,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",2,,Icon_Science_resource_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '1', 'param1': '7'}}",False,2,0
+10,"{'1': {'id': 20107, 'param2': '15', 'param1': '7'}}",10,,Icon_Science_IntercityTrains_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '15', 'param1': '7'}}",False,11,0
+11,"{'1': {'id': 20107, 'param2': '17', 'param1': '7'}}",11,,Icon_Science_commando_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '17', 'param1': '7'}}",True,12,0
+7,"{'1': {'id': 20107, 'param2': '18', 'param1': '7'}}",7,,Icon_Science_garage_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '20', 'param1': '7'}, '2': {'id': 20205, 'param2': '25', 'param1': '6'}}",True,13,3
+6,"{'1': {'id': 20107, 'param2': '13', 'param1': '7'}}",6,,Icon_Science_garage_A,SpriteAtlas/UI_Tech.spriteatlas,"{'1': {'id': 20107, 'param2': '15', 'param1': '7'}, '2': {'id': 20205, 'param2': '25', 'param1': '5'}}",True,8,2

@@ -1,0 +1,6333 @@
+{
+  "game": "Last Asylum: Plague",
+  "client_version": "1.0.106",
+  "static_reference": true,
+  "note": "Static client tables, not live server state. Excludes personal captures, accounts and reconstructed source code. Extracted from APKMirror APKM com.phs.global_1.0.106.",
+  "file_count": 1581,
+  "files": [
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbTestConfigs.json",
+      "bytes": 93
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbTestConfigs.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ABTestGroup.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ABTestGroup.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ABTestLabel.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ABTestLabel.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssBoss.json",
+      "bytes": 1547
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssBoss.csv",
+      "bytes": 830
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssBossDamageReward.json",
+      "bytes": 5167
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssBossDamageReward.csv",
+      "bytes": 5312
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssBossTask.json",
+      "bytes": 35687
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssBossTask.csv",
+      "bytes": 28317
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssDoorBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssDoorBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssRaid.json",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssRaid.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AbyssRaidRecommendInfo.json",
+      "bytes": 188
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AbyssRaidRecommendInfo.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActiveRewardPersonBox.json",
+      "bytes": 1956
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActiveRewardPersonBox.csv",
+      "bytes": 1817
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Activity_TotalRecharge.json",
+      "bytes": 334
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Activity_TotalRecharge.csv",
+      "bytes": 175
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityBase.json",
+      "bytes": 108829
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityBase.csv",
+      "bytes": 25218
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityBuilding.json",
+      "bytes": 121
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityBuilding.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityDailyScoreTask.json",
+      "bytes": 5973
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityDailyScoreTask.csv",
+      "bytes": 3930
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityDailyScoreTaskStyle.json",
+      "bytes": 999
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityDailyScoreTaskStyle.csv",
+      "bytes": 645
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityDisplay.json",
+      "bytes": 199418
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityDisplay.csv",
+      "bytes": 30911
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityGetItem.json",
+      "bytes": 4975
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityGetItem.csv",
+      "bytes": 2597
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityGetItemLimit.json",
+      "bytes": 630
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityGetItemLimit.csv",
+      "bytes": 311
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMagicBox.json",
+      "bytes": 4603
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMagicBox.csv",
+      "bytes": 3286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMagicBoxPointReward.json",
+      "bytes": 6412
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMagicBoxPointReward.csv",
+      "bytes": 3527
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMagicBoxTurntable.json",
+      "bytes": 12849
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMagicBoxTurntable.csv",
+      "bytes": 7405
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandCoordinate.json",
+      "bytes": 2166
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandCoordinate.csv",
+      "bytes": 958
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandDescription.json",
+      "bytes": 441
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandDescription.csv",
+      "bytes": 108
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandFort.json",
+      "bytes": 5114
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandFort.csv",
+      "bytes": 2845
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandFortPrototype.json",
+      "bytes": 5345
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandFortPrototype.csv",
+      "bytes": 2689
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandMessage.json",
+      "bytes": 194
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandMessage.csv",
+      "bytes": 37
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandOilWell.json",
+      "bytes": 22517
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandOilWell.csv",
+      "bytes": 12206
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandParameter.json",
+      "bytes": 5475
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandParameter.csv",
+      "bytes": 4175
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandPlayerReward.json",
+      "bytes": 2553
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandPlayerReward.csv",
+      "bytes": 2342
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandPointSource.json",
+      "bytes": 639
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandPointSource.csv",
+      "bytes": 232
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandStage.json",
+      "bytes": 155
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandStage.csv",
+      "bytes": 22
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandTime.json",
+      "bytes": 267
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandTime.csv",
+      "bytes": 74
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMainlandUnionReward.json",
+      "bytes": 2653
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMainlandUnionReward.csv",
+      "bytes": 2581
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityMonsterRefresh.json",
+      "bytes": 2521
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityMonsterRefresh.csv",
+      "bytes": 2408
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityNpc.json",
+      "bytes": 121
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityNpc.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityPlayerMonsterLevelChangeRule.json",
+      "bytes": 282
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityPlayerMonsterLevelChangeRule.csv",
+      "bytes": 80
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityRally.json",
+      "bytes": 3304
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityRally.csv",
+      "bytes": 3116
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityRallyMonsterRefresh.json",
+      "bytes": 6742
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityRallyMonsterRefresh.csv",
+      "bytes": 2364
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityRallyReward.json",
+      "bytes": 137
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityRallyReward.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityRedemptionInfo.json",
+      "bytes": 246
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityRedemptionInfo.csv",
+      "bytes": 113
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleBlock.json",
+      "bytes": 394
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleBlock.csv",
+      "bytes": 165
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleCoordinate.json",
+      "bytes": 946
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleCoordinate.csv",
+      "bytes": 396
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleDescription.json",
+      "bytes": 481
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleDescription.csv",
+      "bytes": 121
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleFort.json",
+      "bytes": 6785
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleFort.csv",
+      "bytes": 3965
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleFortPrototype.json",
+      "bytes": 2166
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleFortPrototype.csv",
+      "bytes": 1151
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleMessage.json",
+      "bytes": 219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleMessage.csv",
+      "bytes": 52
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleParameter.json",
+      "bytes": 3393
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleParameter.csv",
+      "bytes": 2593
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattlePersonalAchievement.json",
+      "bytes": 4684
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattlePersonalAchievement.csv",
+      "bytes": 2067
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattlePersonalReward.json",
+      "bytes": 1751
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattlePersonalReward.csv",
+      "bytes": 1599
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattlePlayerIntegralSource.json",
+      "bytes": 565
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattlePlayerIntegralSource.csv",
+      "bytes": 174
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleProhibit.json",
+      "bytes": 1168
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleProhibit.csv",
+      "bytes": 718
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleRank.json",
+      "bytes": 742
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleRank.csv",
+      "bytes": 468
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleRankNew.json",
+      "bytes": 5542
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleRankNew.csv",
+      "bytes": 3580
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleRecord.json",
+      "bytes": 834
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleRecord.csv",
+      "bytes": 241
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleStage.json",
+      "bytes": 115
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleStage.csv",
+      "bytes": 12
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleTime.json",
+      "bytes": 251
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleTime.csv",
+      "bytes": 72
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadBattleZone.json",
+      "bytes": 2028
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadBattleZone.csv",
+      "bytes": 1317
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadMatchTime.json",
+      "bytes": 235
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadMatchTime.csv",
+      "bytes": 59
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySquadMatchWinRate.json",
+      "bytes": 193
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySquadMatchWinRate.csv",
+      "bytes": 42
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySummary.json",
+      "bytes": 1854
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySummary.csv",
+      "bytes": 1454
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivitySummonRallyBase.json",
+      "bytes": 132
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivitySummonRallyBase.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTabShow.json",
+      "bytes": 873
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTabShow.csv",
+      "bytes": 314
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTarget.json",
+      "bytes": 253069
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTarget.csv",
+      "bytes": 38451
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleBase.json",
+      "bytes": 209
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleBase.csv",
+      "bytes": 88
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleBuff.json",
+      "bytes": 456
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleBuff.csv",
+      "bytes": 188
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleBuild.json",
+      "bytes": 1805
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleBuild.csv",
+      "bytes": 1030
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleGroup.json",
+      "bytes": 285
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleGroup.csv",
+      "bytes": 69
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleKingDecree.json",
+      "bytes": 2147
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleKingDecree.csv",
+      "bytes": 866
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleLeaderBoard.json",
+      "bytes": 4600
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleLeaderBoard.csv",
+      "bytes": 4192
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleLv.json",
+      "bytes": 1419
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleLv.csv",
+      "bytes": 549
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleParameter.json",
+      "bytes": 5064
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleParameter.csv",
+      "bytes": 3750
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleRule.json",
+      "bytes": 594
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleRule.csv",
+      "bytes": 275
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleStateReward.json",
+      "bytes": 4090
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleStateReward.csv",
+      "bytes": 3297
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleTargetReward.json",
+      "bytes": 2484
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleTargetReward.csv",
+      "bytes": 1955
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ActivityTempleBattleTitle.json",
+      "bytes": 6236
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ActivityTempleBattleTitle.csv",
+      "bytes": 4677
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArena.json",
+      "bytes": 2680
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArena.csv",
+      "bytes": 961
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaAchievement.json",
+      "bytes": 28892
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaAchievement.csv",
+      "bytes": 28003
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaBattleCountReward.json",
+      "bytes": 4231
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaBattleCountReward.csv",
+      "bytes": 3306
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaBattleReward.json",
+      "bytes": 631
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaBattleReward.csv",
+      "bytes": 513
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaCost.json",
+      "bytes": 3644
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaCost.csv",
+      "bytes": 1831
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaGroup.json",
+      "bytes": 3262
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaGroup.csv",
+      "bytes": 1087
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaMatch.json",
+      "bytes": 7487
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaMatch.csv",
+      "bytes": 6472
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaNpc.json",
+      "bytes": 61711
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaNpc.csv",
+      "bytes": 18767
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaSeasonReward.json",
+      "bytes": 50858
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaSeasonReward.csv",
+      "bytes": 44467
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaSeasonRewardDisplay.json",
+      "bytes": 1010
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaSeasonRewardDisplay.csv",
+      "bytes": 611
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AEArenaSeasonUnionReward.json",
+      "bytes": 5607
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AEArenaSeasonUnionReward.csv",
+      "bytes": 4554
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeConfig.json",
+      "bytes": 168
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeConfig.csv",
+      "bytes": 56
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeFunctionShow.json",
+      "bytes": 1148
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeFunctionShow.csv",
+      "bytes": 383
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeGain.json",
+      "bytes": 1496
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeGain.csv",
+      "bytes": 844
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeMain.json",
+      "bytes": 4564
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeMain.csv",
+      "bytes": 1267
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeRule.json",
+      "bytes": 876
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeRule.csv",
+      "bytes": 172
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AgeWeekCard.json",
+      "bytes": 882
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AgeWeekCard.csv",
+      "bytes": 755
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AircraftCenterBase.json",
+      "bytes": 5028
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AircraftCenterBase.csv",
+      "bytes": 1020
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDrop.json",
+      "bytes": 296
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDrop.csv",
+      "bytes": 162
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropBasic.json",
+      "bytes": 922
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropBasic.csv",
+      "bytes": 707
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropBasicNew.json",
+      "bytes": 926
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropBasicNew.csv",
+      "bytes": 707
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropBouns.json",
+      "bytes": 842
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropBouns.csv",
+      "bytes": 416
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropBox.json",
+      "bytes": 66855
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropBox.csv",
+      "bytes": 51647
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropBoxNew.json",
+      "bytes": 1428
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropBoxNew.csv",
+      "bytes": 1133
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AirDropNew.json",
+      "bytes": 238
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AirDropNew.csv",
+      "bytes": 107
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceBoss.json",
+      "bytes": 4356
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceBoss.csv",
+      "bytes": 1511
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceBossDonate.json",
+      "bytes": 820
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceBossDonate.csv",
+      "bytes": 441
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceBossJobBenefit.json",
+      "bytes": 1221
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceBossJobBenefit.csv",
+      "bytes": 832
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceBossRewardTimes.json",
+      "bytes": 9717
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceBossRewardTimes.csv",
+      "bytes": 3290
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceCompetitionParameters.json",
+      "bytes": 309
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceCompetitionParameters.csv",
+      "bytes": 159
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceCompetitionReward.json",
+      "bytes": 1609
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceCompetitionReward.csv",
+      "bytes": 1307
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceCompetitionStage.json",
+      "bytes": 11485
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceCompetitionStage.csv",
+      "bytes": 6851
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceLeague.json",
+      "bytes": 3884
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceLeague.csv",
+      "bytes": 3941
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceLeagueParameter.json",
+      "bytes": 281
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceLeagueParameter.csv",
+      "bytes": 139
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceLeagueRanks.json",
+      "bytes": 25102
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceLeagueRanks.csv",
+      "bytes": 19933
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AllianceTargetGroup.json",
+      "bytes": 21168
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AllianceTargetGroup.csv",
+      "bytes": 19591
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AntitoxinBase.json",
+      "bytes": 1791
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AntitoxinBase.csv",
+      "bytes": 602
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AreaBox.json",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AreaBox.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ArenaActivityShop.json",
+      "bytes": 6701
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ArenaActivityShop.csv",
+      "bytes": 2472
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ArenaBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ArenaBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ArmyRaceDailyReward.json",
+      "bytes": 873
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ArmyRaceDailyReward.csv",
+      "bytes": 684
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ArmyRaceDailyRewardSeasonGroup.json",
+      "bytes": 615
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ArmyRaceDailyRewardSeasonGroup.csv",
+      "bytes": 533
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ArmyTypeAttr.json",
+      "bytes": 388
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ArmyTypeAttr.csv",
+      "bytes": 161
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AssemblyInfo.json",
+      "bytes": 276
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AssemblyInfo.csv",
+      "bytes": 74
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AttackBoss.json",
+      "bytes": 215
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AttackBoss.csv",
+      "bytes": 88
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AttackBossAttack.json",
+      "bytes": 232
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AttackBossAttack.csv",
+      "bytes": 120
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AttackBossBox.json",
+      "bytes": 1619
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AttackBossBox.csv",
+      "bytes": 1402
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AttackBossMonster.json",
+      "bytes": 582
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AttackBossMonster.csv",
+      "bytes": 489
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/AuditoriumBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/AuditoriumBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Badge.json",
+      "bytes": 681
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Badge.csv",
+      "bytes": 329
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BarBase.json",
+      "bytes": 3294
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BarBase.csv",
+      "bytes": 997
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BarracksBase.json",
+      "bytes": 1763
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BarracksBase.csv",
+      "bytes": 457
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattlePass.json",
+      "bytes": 33211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattlePass.csv",
+      "bytes": 18090
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattlePassCrit.json",
+      "bytes": 655
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattlePassCrit.csv",
+      "bytes": 354
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattlePassReward.json",
+      "bytes": 419312
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattlePassReward.csv",
+      "bytes": 298508
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattlePassTask.json",
+      "bytes": 247786
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattlePassTask.csv",
+      "bytes": 143051
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattlePosTemplate.json",
+      "bytes": 956
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattlePosTemplate.csv",
+      "bytes": 293
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BattleSpeedStart.json",
+      "bytes": 203
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BattleSpeedStart.csv",
+      "bytes": 50
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BenefitSource.json",
+      "bytes": 1710
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BenefitSource.csv",
+      "bytes": 436
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFAircraftCenter.json",
+      "bytes": 4195
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFAircraftCenter.csv",
+      "bytes": 801
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFBar.json",
+      "bytes": 2220
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFBar.csv",
+      "bytes": 657
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFCastleBase.json",
+      "bytes": 5545
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFCastleBase.csv",
+      "bytes": 1215
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFCityWallInfo.json",
+      "bytes": 2874
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFCityWallInfo.csv",
+      "bytes": 729
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFCollegeTech.json",
+      "bytes": 1260
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFCollegeTech.csv",
+      "bytes": 395
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFDroneCompFactory.json",
+      "bytes": 3742
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFDroneCompFactory.csv",
+      "bytes": 1736
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFEmbassyBase.json",
+      "bytes": 1491
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFEmbassyBase.csv",
+      "bytes": 392
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFEquipSmelter.json",
+      "bytes": 3616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFEquipSmelter.csv",
+      "bytes": 1610
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFFarm.json",
+      "bytes": 2477
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFFarm.csv",
+      "bytes": 794
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFGranary.json",
+      "bytes": 1308
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFGranary.csv",
+      "bytes": 443
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFHospitalBaseInfo.json",
+      "bytes": 1043
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFHospitalBaseInfo.csv",
+      "bytes": 352
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFInfantryBattalion.json",
+      "bytes": 2157
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFInfantryBattalion.csv",
+      "bytes": 534
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFIronMine.json",
+      "bytes": 2471
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFIronMine.csv",
+      "bytes": 788
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFLord.json",
+      "bytes": 180
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFLord.csv",
+      "bytes": 64
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFMaterialWorkshop.json",
+      "bytes": 3730
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFMaterialWorkshop.csv",
+      "bytes": 1724
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFMetalWareHouse.json",
+      "bytes": 1308
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFMetalWareHouse.csv",
+      "bytes": 443
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFMissileCenter.json",
+      "bytes": 4315
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFMissileCenter.csv",
+      "bytes": 805
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFParadeGround.json",
+      "bytes": 1080
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFParadeGround.csv",
+      "bytes": 360
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFPowerStorage.json",
+      "bytes": 1291
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFPowerStorage.csv",
+      "bytes": 426
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFSawmill.json",
+      "bytes": 2477
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFSawmill.csv",
+      "bytes": 794
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFScounts.json",
+      "bytes": 1227
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFScounts.csv",
+      "bytes": 362
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFSoldierShelter.json",
+      "bytes": 3096
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFSoldierShelter.csv",
+      "bytes": 976
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFSoldierShelterBase.json",
+      "bytes": 3515
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFSoldierShelterBase.csv",
+      "bytes": 1015
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFSoulStoneFactory.json",
+      "bytes": 2496
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFSoulStoneFactory.csv",
+      "bytes": 813
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFSquad.json",
+      "bytes": 1380
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFSquad.csv",
+      "bytes": 399
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFTankCenter.json",
+      "bytes": 4195
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFTankCenter.csv",
+      "bytes": 801
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFWatchTower.json",
+      "bytes": 2403
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFWatchTower.csv",
+      "bytes": 458
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BFWorkerCabin.json",
+      "bytes": 992
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BFWorkerCabin.csv",
+      "bytes": 330
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineAreaRefresh.json",
+      "bytes": 615
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineAreaRefresh.csv",
+      "bytes": 204
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineBuff.json",
+      "bytes": 171
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineBuff.csv",
+      "bytes": 76
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineBurstVeinRefresh.json",
+      "bytes": 463
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineBurstVeinRefresh.csv",
+      "bytes": 116
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineCollectReward.json",
+      "bytes": 9251
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineCollectReward.csv",
+      "bytes": 8955
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineCollectZoneReward.json",
+      "bytes": 32184
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineCollectZoneReward.csv",
+      "bytes": 29746
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineCollectZoneRewardSeasonGroup.json",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineCollectZoneRewardSeasonGroup.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineFort.json",
+      "bytes": 172
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineFort.csv",
+      "bytes": 58
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineFortOccRankReward.json",
+      "bytes": 2695
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineFortOccRankReward.csv",
+      "bytes": 791
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineFortOccRankZoneReward.json",
+      "bytes": 22233
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineFortOccRankZoneReward.csv",
+      "bytes": 7675
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineHeapInfo.json",
+      "bytes": 600
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineHeapInfo.csv",
+      "bytes": 152
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineIntegralRankReward.json",
+      "bytes": 8399
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineIntegralRankReward.csv",
+      "bytes": 7805
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineIntegralRankZoneReward.json",
+      "bytes": 30861
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineIntegralRankZoneReward.csv",
+      "bytes": 28908
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineIntegralZoneRewardSeasonGroup.json",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineIntegralZoneRewardSeasonGroup.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineLeagueTime.json",
+      "bytes": 258
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineLeagueTime.csv",
+      "bytes": 66
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineMoveCost.json",
+      "bytes": 405
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineMoveCost.csv",
+      "bytes": 98
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMinePatrol.json",
+      "bytes": 285
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMinePatrol.csv",
+      "bytes": 107
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineRestrictBuff.json",
+      "bytes": 360
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineRestrictBuff.csv",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineSkill.json",
+      "bytes": 1107
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineSkill.csv",
+      "bytes": 286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineSkillLearn.json",
+      "bytes": 348
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineSkillLearn.csv",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineStage.json",
+      "bytes": 348
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineStage.csv",
+      "bytes": 100
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineVein.json",
+      "bytes": 1811
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineVein.csv",
+      "bytes": 706
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BlackMineZone.json",
+      "bytes": 1086
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BlackMineZone.csv",
+      "bytes": 908
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BoxItemPreviewDesc.json",
+      "bytes": 830
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BoxItemPreviewDesc.csv",
+      "bytes": 467
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BubbleLike.json",
+      "bytes": 169
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BubbleLike.csv",
+      "bytes": 66
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Building.json",
+      "bytes": 135065
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Building.csv",
+      "bytes": 32515
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingArea.json",
+      "bytes": 6312
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingArea.csv",
+      "bytes": 3119
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingAreaReward.json",
+      "bytes": 18340
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingAreaReward.csv",
+      "bytes": 16412
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingAreaSurvivor.json",
+      "bytes": 1955
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingAreaSurvivor.csv",
+      "bytes": 530
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingAttrsTranslates.json",
+      "bytes": 1180
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingAttrsTranslates.csv",
+      "bytes": 309
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingCountLimit.json",
+      "bytes": 7840
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingCountLimit.csv",
+      "bytes": 2098
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingDetails.json",
+      "bytes": 5986
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingDetails.csv",
+      "bytes": 3874
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingEffect.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingEffect.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingLevel.json",
+      "bytes": 539864
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingLevel.csv",
+      "bytes": 177818
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingNpcDialog.json",
+      "bytes": 8405
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingNpcDialog.csv",
+      "bytes": 5133
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingPos.json",
+      "bytes": 29068
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingPos.csv",
+      "bytes": 15714
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingProduction.json",
+      "bytes": 151
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingProduction.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingQueueGift.json",
+      "bytes": 215
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingQueueGift.csv",
+      "bytes": 58
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingRandomPool.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingRandomPool.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingSynthetic.json",
+      "bytes": 181
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingSynthetic.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/BuildingUpgrade.json",
+      "bytes": 341320
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/BuildingUpgrade.csv",
+      "bytes": 235386
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CanChooseBoxItem.json",
+      "bytes": 32914
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CanChooseBoxItem.csv",
+      "bytes": 27818
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CastleBase.json",
+      "bytes": 3351
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CastleBase.csv",
+      "bytes": 967
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CastleBox.json",
+      "bytes": 112006
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CastleBox.csv",
+      "bytes": 83965
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CastleRewards.json",
+      "bytes": 2533
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CastleRewards.csv",
+      "bytes": 1117
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CGCaption.json",
+      "bytes": 412
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CGCaption.csv",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelActivitySeason.json",
+      "bytes": 162
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelActivitySeason.csv",
+      "bytes": 39
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelFirework.json",
+      "bytes": 3465
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelFirework.csv",
+      "bytes": 2934
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelFireworkDonate.json",
+      "bytes": 391
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelFireworkDonate.csv",
+      "bytes": 286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelIntroduction.json",
+      "bytes": 2244
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelIntroduction.csv",
+      "bytes": 819
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelMottoTemplate.json",
+      "bytes": 226
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelMottoTemplate.csv",
+      "bytes": 42
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelPartakeReward.json",
+      "bytes": 8076
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelPartakeReward.csv",
+      "bytes": 6545
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelPredictTier.json",
+      "bytes": 425
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelPredictTier.csv",
+      "bytes": 263
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChampionDuelRankReward.json",
+      "bytes": 10522
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChampionDuelRankReward.csv",
+      "bytes": 10286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChapterInfo.json",
+      "bytes": 5598
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChapterInfo.csv",
+      "bytes": 4151
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChapterTask.json",
+      "bytes": 90
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChapterTask.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChargedShieldBase.json",
+      "bytes": 211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChargedShieldBase.csv",
+      "bytes": 88
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChatFunction.json",
+      "bytes": 610
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChatFunction.csv",
+      "bytes": 289
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChatParameter.json",
+      "bytes": 446
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChatParameter.csv",
+      "bytes": 290
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChatSetting.json",
+      "bytes": 640
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChatSetting.csv",
+      "bytes": 247
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChatTemplate.json",
+      "bytes": 8053
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChatTemplate.csv",
+      "bytes": 1857
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChatTrigger.json",
+      "bytes": 1286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChatTrigger.csv",
+      "bytes": 718
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/chatUI.json",
+      "bytes": 229
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/chatUI.csv",
+      "bytes": 76
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ChiefTreasureAct.json",
+      "bytes": 1365
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ChiefTreasureAct.csv",
+      "bytes": 1355
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CityMapStaticDecoration.json",
+      "bytes": 3595
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CityMapStaticDecoration.csv",
+      "bytes": 1806
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CityTips.json",
+      "bytes": 2604
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CityTips.csv",
+      "bytes": 1371
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CityTipsGroup.json",
+      "bytes": 362
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CityTipsGroup.csv",
+      "bytes": 262
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CityTipsObject.json",
+      "bytes": 541
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CityTipsObject.csv",
+      "bytes": 257
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CityWall.json",
+      "bytes": 189
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CityWall.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicAction.json",
+      "bytes": 576
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicAction.csv",
+      "bytes": 321
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicArea.json",
+      "bytes": 1989
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicArea.csv",
+      "bytes": 1279
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicCommonTrigger.json",
+      "bytes": 218
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicCommonTrigger.csv",
+      "bytes": 115
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicDialogue.json",
+      "bytes": 10681
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicDialogue.csv",
+      "bytes": 1962
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicDialogueParameter.json",
+      "bytes": 2851
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicDialogueParameter.csv",
+      "bytes": 758
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicEffect.json",
+      "bytes": 4069
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicEffect.csv",
+      "bytes": 2331
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicEvent.json",
+      "bytes": 915
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicEvent.csv",
+      "bytes": 778
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicItem.json",
+      "bytes": 806
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicItem.csv",
+      "bytes": 331
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicNpcEvent.json",
+      "bytes": 2753
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicNpcEvent.csv",
+      "bytes": 1762
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicParameter.json",
+      "bytes": 7867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicParameter.csv",
+      "bytes": 5360
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicRebuild.json",
+      "bytes": 1369
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicRebuild.csv",
+      "bytes": 1182
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicRoom.json",
+      "bytes": 15509
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicRoom.csv",
+      "bytes": 6997
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicRoomItem.json",
+      "bytes": 1436
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicRoomItem.csv",
+      "bytes": 1196
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicRoomUpgrade.json",
+      "bytes": 175166
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicRoomUpgrade.csv",
+      "bytes": 101606
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicSkill.json",
+      "bytes": 1600
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicSkill.csv",
+      "bytes": 339
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicSpecialEvent.json",
+      "bytes": 6393
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicSpecialEvent.csv",
+      "bytes": 2829
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ClinicStar.json",
+      "bytes": 12475
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ClinicStar.csv",
+      "bytes": 5734
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CollectionHallBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CollectionHallBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CollegeBase.json",
+      "bytes": 2156
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CollegeBase.csv",
+      "bytes": 617
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CollegeTech.json",
+      "bytes": 110265
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CollegeTech.csv",
+      "bytes": 35081
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CollegeTechLevel.json",
+      "bytes": 911883
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CollegeTechLevel.csv",
+      "bytes": 743497
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CollegeTechType.json",
+      "bytes": 5224
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CollegeTechType.csv",
+      "bytes": 3688
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ComprehensiveIconCfg.json",
+      "bytes": 7665
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ComprehensiveIconCfg.csv",
+      "bytes": 3568
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ConditionGift.json",
+      "bytes": 40698
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ConditionGift.csv",
+      "bytes": 32929
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ConditionMail.json",
+      "bytes": 971
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ConditionMail.csv",
+      "bytes": 858
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ConditionReward.json",
+      "bytes": 29927
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ConditionReward.csv",
+      "bytes": 30337
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/constructionBase.json",
+      "bytes": 1292
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/constructionBase.csv",
+      "bytes": 708
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ConstructionLevelReward.json",
+      "bytes": 7692
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ConstructionLevelReward.csv",
+      "bytes": 6157
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CorpQueues.json",
+      "bytes": 100
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CorpQueues.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CorpseTide.json",
+      "bytes": 831
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CorpseTide.csv",
+      "bytes": 589
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CorpseTideTask.json",
+      "bytes": 1128
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CorpseTideTask.csv",
+      "bytes": 614
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CrystalRiddleActivity.json",
+      "bytes": 577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CrystalRiddleActivity.csv",
+      "bytes": 470
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CrystalRiddleGrid.json",
+      "bytes": 3789
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CrystalRiddleGrid.csv",
+      "bytes": 2114
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CrystalRiddleReward.json",
+      "bytes": 721
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CrystalRiddleReward.csv",
+      "bytes": 180
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/CrystalRiddleTask.json",
+      "bytes": 5560
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/CrystalRiddleTask.csv",
+      "bytes": 3970
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DailyBundle.json",
+      "bytes": 2714
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DailyBundle.csv",
+      "bytes": 2098
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DawnBreak.json",
+      "bytes": 3205
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DawnBreak.csv",
+      "bytes": 2895
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DawnBreakLevel.json",
+      "bytes": 1316
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DawnBreakLevel.csv",
+      "bytes": 563
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DecorateBuy.json",
+      "bytes": 5877
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DecorateBuy.csv",
+      "bytes": 3748
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DecorateQuality.json",
+      "bytes": 703
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DecorateQuality.csv",
+      "bytes": 395
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DecorateUpgrade.json",
+      "bytes": 123662
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DecorateUpgrade.csv",
+      "bytes": 88634
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DefineBenefit.json",
+      "bytes": 174801
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DefineBenefit.csv",
+      "bytes": 28231
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Dialog.json",
+      "bytes": 1286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Dialog.csv",
+      "bytes": 402
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DialogNpc.json",
+      "bytes": 50957
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DialogNpc.csv",
+      "bytes": 31103
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DroneCenterBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DroneCenterBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DroneCompFactoryBase.json",
+      "bytes": 1940
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DroneCompFactoryBase.csv",
+      "bytes": 691
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DropInfo.json",
+      "bytes": 259111
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DropInfo.csv",
+      "bytes": 192354
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/DropOpen.json",
+      "bytes": 463
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/DropOpen.csv",
+      "bytes": 247
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EffectConfig.json",
+      "bytes": 18136
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EffectConfig.csv",
+      "bytes": 11237
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EggClaimLimit.json",
+      "bytes": 227
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EggClaimLimit.csv",
+      "bytes": 59
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EightDaysActBoxShow.json",
+      "bytes": 735
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EightDaysActBoxShow.csv",
+      "bytes": 281
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EightDaysActGuideCfg.json",
+      "bytes": 1115
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EightDaysActGuideCfg.csv",
+      "bytes": 794
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EightDaysActTask.json",
+      "bytes": 33418
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EightDaysActTask.csv",
+      "bytes": 22560
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EliminateMasterAct.json",
+      "bytes": 1753
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EliminateMasterAct.csv",
+      "bytes": 1477
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EliminateMasterCard.json",
+      "bytes": 3590
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EliminateMasterCard.csv",
+      "bytes": 2141
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EliminateMasterPass.json",
+      "bytes": 1659
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EliminateMasterPass.csv",
+      "bytes": 1502
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EliminateMasterPassFloor.json",
+      "bytes": 31136
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EliminateMasterPassFloor.csv",
+      "bytes": 19303
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EliminateMasterShifting.json",
+      "bytes": 18926
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EliminateMasterShifting.csv",
+      "bytes": 4145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EmbassyBase.json",
+      "bytes": 2324
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EmbassyBase.csv",
+      "bytes": 611
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EmergencyDisplay.json",
+      "bytes": 467
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EmergencyDisplay.csv",
+      "bytes": 202
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EmergencyTaskGroup.json",
+      "bytes": 1994
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EmergencyTaskGroup.csv",
+      "bytes": 1253
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Emoji.json",
+      "bytes": 493
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Emoji.csv",
+      "bytes": 280
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EmptyActivity.json",
+      "bytes": 557
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EmptyActivity.csv",
+      "bytes": 459
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EnergyCost.json",
+      "bytes": 1002
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EnergyCost.csv",
+      "bytes": 529
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipmentBase.json",
+      "bytes": 6687
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipmentBase.csv",
+      "bytes": 3317
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipmentMaterialDecompose.json",
+      "bytes": 696
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipmentMaterialDecompose.csv",
+      "bytes": 509
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipmentMaterialSynthesis.json",
+      "bytes": 746
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipmentMaterialSynthesis.csv",
+      "bytes": 525
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipmentPromotion.json",
+      "bytes": 67476
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipmentPromotion.csv",
+      "bytes": 58689
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipmentStrengthen.json",
+      "bytes": 245095
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipmentStrengthen.csv",
+      "bytes": 210804
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EquipSmelterBase.json",
+      "bytes": 1697
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EquipSmelterBase.csv",
+      "bytes": 508
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortCartDetails.json",
+      "bytes": 3763
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortCartDetails.csv",
+      "bytes": 2422
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortCartPersonal.json",
+      "bytes": 13809
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortCartPersonal.csv",
+      "bytes": 4041
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortCartQuality.json",
+      "bytes": 4613
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortCartQuality.csv",
+      "bytes": 4123
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortCartUnion.json",
+      "bytes": 1429
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortCartUnion.csv",
+      "bytes": 417
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortConvoyDescription.json",
+      "bytes": 1219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortConvoyDescription.csv",
+      "bytes": 280
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortMarchModel.json",
+      "bytes": 2736
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortMarchModel.csv",
+      "bytes": 1549
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortParameter.json",
+      "bytes": 6681
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortParameter.csv",
+      "bytes": 5036
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortReward.json",
+      "bytes": 70023
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortReward.csv",
+      "bytes": 55978
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/EscortRewardScore.json",
+      "bytes": 581
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/EscortRewardScore.csv",
+      "bytes": 405
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExchangeShop.json",
+      "bytes": 135148
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExchangeShop.csv",
+      "bytes": 65722
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExchangeShopBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExchangeShopBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExpeditionBenefit.json",
+      "bytes": 397
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExpeditionBenefit.csv",
+      "bytes": 292
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExpeditionDifficult.json",
+      "bytes": 101569
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExpeditionDifficult.csv",
+      "bytes": 82810
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExpeditionLevel.json",
+      "bytes": 2360592
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExpeditionLevel.csv",
+      "bytes": 2143876
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonBasicConfig.json",
+      "bytes": 202
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonBasicConfig.csv",
+      "bytes": 100
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonChapter.json",
+      "bytes": 226
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonChapter.csv",
+      "bytes": 116
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonCollect.json",
+      "bytes": 213
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonCollect.csv",
+      "bytes": 125
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonElement.json",
+      "bytes": 423
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonElement.csv",
+      "bytes": 284
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonProduce.json",
+      "bytes": 92264
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonProduce.csv",
+      "bytes": 86814
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonResource.json",
+      "bytes": 199
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonResource.csv",
+      "bytes": 57
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonReward.json",
+      "bytes": 615
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonReward.csv",
+      "bytes": 598
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonRewardDrop.json",
+      "bytes": 203
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonRewardDrop.csv",
+      "bytes": 111
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonSecretChapter.json",
+      "bytes": 151538
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonSecretChapter.csv",
+      "bytes": 90061
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonStageReward.json",
+      "bytes": 19029
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonStageReward.csv",
+      "bytes": 19450
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ExploreDungeonTask.json",
+      "bytes": 319
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ExploreDungeonTask.csv",
+      "bytes": 221
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FacebookMission.json",
+      "bytes": 547
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FacebookMission.csv",
+      "bytes": 398
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FAQInformation.json",
+      "bytes": 608
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FAQInformation.csv",
+      "bytes": 185
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FAQInformationStep.json",
+      "bytes": 7773
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FAQInformationStep.csv",
+      "bytes": 2841
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FarmBase.json",
+      "bytes": 1776
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FarmBase.csv",
+      "bytes": 587
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FateRevelationAct.json",
+      "bytes": 193
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FateRevelationAct.csv",
+      "bytes": 64
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FateRevelationPool.json",
+      "bytes": 268
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FateRevelationPool.csv",
+      "bytes": 91
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FateRevelationReward.json",
+      "bytes": 3261
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FateRevelationReward.csv",
+      "bytes": 2193
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FateRevelationSpecialReward.json",
+      "bytes": 416
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FateRevelationSpecialReward.csv",
+      "bytes": 203
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FightSettle.json",
+      "bytes": 10213
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FightSettle.csv",
+      "bytes": 1943
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FightSettleShow.json",
+      "bytes": 812
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FightSettleShow.csv",
+      "bytes": 208
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FightUnitSpecial.json",
+      "bytes": 5609
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FightUnitSpecial.csv",
+      "bytes": 1950
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FirstCharge.json",
+      "bytes": 645
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FirstCharge.csv",
+      "bytes": 549
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FirstChargeReward.json",
+      "bytes": 3448
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FirstChargeReward.csv",
+      "bytes": 3276
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FlipBasicRewards.json",
+      "bytes": 2577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FlipBasicRewards.csv",
+      "bytes": 1860
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FlipCard.json",
+      "bytes": 18820
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FlipCard.csv",
+      "bytes": 6162
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FlipCardTask.json",
+      "bytes": 1003
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FlipCardTask.csv",
+      "bytes": 633
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FlipOptionalRewards.json",
+      "bytes": 561
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FlipOptionalRewards.csv",
+      "bytes": 358
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FlyBuilding.json",
+      "bytes": 93
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FlyBuilding.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Fog.json",
+      "bytes": 4040
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Fog.csv",
+      "bytes": 3088
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Formula.json",
+      "bytes": 8564
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Formula.csv",
+      "bytes": 5019
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FunctionGuide.json",
+      "bytes": 103
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FunctionGuide.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/FunctionUnlock.json",
+      "bytes": 71932
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/FunctionUnlock.csv",
+      "bytes": 31431
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GetSource.json",
+      "bytes": 25324
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GetSource.csv",
+      "bytes": 17667
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GiftBase.json",
+      "bytes": 1981534
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GiftBase.csv",
+      "bytes": 890498
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GiftBaseLimit.json",
+      "bytes": 6786
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GiftBaseLimit.csv",
+      "bytes": 4061
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GiftLuckyDrawBase.json",
+      "bytes": 499
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GiftLuckyDrawBase.csv",
+      "bytes": 248
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GiftUltimatePrizeBase.json",
+      "bytes": 1199
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GiftUltimatePrizeBase.csv",
+      "bytes": 569
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GoldenEgg.json",
+      "bytes": 6057
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GoldenEgg.csv",
+      "bytes": 3022
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GoToTarget.json",
+      "bytes": 397636
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GoToTarget.csv",
+      "bytes": 181619
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GrabOtherCoef.json",
+      "bytes": 200
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GrabOtherCoef.csv",
+      "bytes": 55
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GranaryBase.json",
+      "bytes": 2142
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GranaryBase.csv",
+      "bytes": 663
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GrothBook.json",
+      "bytes": 3755
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GrothBook.csv",
+      "bytes": 2720
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GrowthBook.json",
+      "bytes": 33131
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GrowthBook.csv",
+      "bytes": 22505
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideBuilding.json",
+      "bytes": 2278
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideBuilding.csv",
+      "bytes": 613
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideDialog.json",
+      "bytes": 50146
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideDialog.csv",
+      "bytes": 16569
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideDialogModle.json",
+      "bytes": 2893
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideDialogModle.csv",
+      "bytes": 1071
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideFight.json",
+      "bytes": 2331
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideFight.csv",
+      "bytes": 1289
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideStep.json",
+      "bytes": 58978
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideStep.csv",
+      "bytes": 33568
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideTaskStep.json",
+      "bytes": 659
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideTaskStep.csv",
+      "bytes": 399
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideUIType.json",
+      "bytes": 382
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideUIType.csv",
+      "bytes": 198
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideVideoCaption.json",
+      "bytes": 357
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideVideoCaption.csv",
+      "bytes": 219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/GuideWar.json",
+      "bytes": 394
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/GuideWar.csv",
+      "bytes": 250
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HangUpLevelReward.json",
+      "bytes": 104616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HangUpLevelReward.csv",
+      "bytes": 97335
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HermitMerchantAct.json",
+      "bytes": 430
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HermitMerchantAct.csv",
+      "bytes": 307
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HermitMerchantGiftBase.json",
+      "bytes": 343
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HermitMerchantGiftBase.csv",
+      "bytes": 163
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HermitMerchantPool.json",
+      "bytes": 11862
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HermitMerchantPool.csv",
+      "bytes": 8409
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroAwakenBreak.json",
+      "bytes": 164786
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroAwakenBreak.csv",
+      "bytes": 116744
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroAwakenLevel.json",
+      "bytes": 161897
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroAwakenLevel.csv",
+      "bytes": 144450
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroAwakenShow.json",
+      "bytes": 17609
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroAwakenShow.csv",
+      "bytes": 6232
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroBackgroundReward.json",
+      "bytes": 4893
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroBackgroundReward.csv",
+      "bytes": 2190
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroBenefitDisplay.json",
+      "bytes": 54923
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroBenefitDisplay.csv",
+      "bytes": 20123
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroBenefitDisplayShow.json",
+      "bytes": 640
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroBenefitDisplayShow.csv",
+      "bytes": 577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroCamp.json",
+      "bytes": 489
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroCamp.csv",
+      "bytes": 148
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroCampAttr.json",
+      "bytes": 1101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroCampAttr.csv",
+      "bytes": 618
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroCampScore.json",
+      "bytes": 300
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroCampScore.csv",
+      "bytes": 88
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroChange.json",
+      "bytes": 416
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroChange.csv",
+      "bytes": 344
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroGrowth.json",
+      "bytes": 3577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroGrowth.csv",
+      "bytes": 2181
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroGrowthTask.json",
+      "bytes": 71055
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroGrowthTask.csv",
+      "bytes": 67602
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroHelp.json",
+      "bytes": 543
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroHelp.csv",
+      "bytes": 182
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroInfo.json",
+      "bytes": 596434
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroInfo.csv",
+      "bytes": 206484
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroLevel.json",
+      "bytes": 81527
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroLevel.csv",
+      "bytes": 80861
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroModel.json",
+      "bytes": 8021
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroModel.csv",
+      "bytes": 4799
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadBase.json",
+      "bytes": 1274
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadBase.csv",
+      "bytes": 421
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadConfig.json",
+      "bytes": 310
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadConfig.csv",
+      "bytes": 216
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadHelpCost.json",
+      "bytes": 2207
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadHelpCost.csv",
+      "bytes": 1129
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadPersonalDifficult.json",
+      "bytes": 46503
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadPersonalDifficult.csv",
+      "bytes": 16030
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadPersonalReward.json",
+      "bytes": 19974
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadPersonalReward.csv",
+      "bytes": 18837
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroRoadUnionBoss.json",
+      "bytes": 7205
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroRoadUnionBoss.csv",
+      "bytes": 5401
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroSkillBase.json",
+      "bytes": 903127
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroSkillBase.csv",
+      "bytes": 244954
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroSkillShow.json",
+      "bytes": 496
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroSkillShow.csv",
+      "bytes": 124
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroSkillUpgrade.json",
+      "bytes": 36960
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroSkillUpgrade.csv",
+      "bytes": 22052
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroStar.json",
+      "bytes": 21285
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroStar.csv",
+      "bytes": 18576
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroUniqueEquipment.json",
+      "bytes": 29432
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroUniqueEquipment.csv",
+      "bytes": 28606
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HeroUniqueEquipmentSmelt.json",
+      "bytes": 74617
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HeroUniqueEquipmentSmelt.csv",
+      "bytes": 49943
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HomeCircularMenuList.json",
+      "bytes": 5009
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HomeCircularMenuList.csv",
+      "bytes": 2660
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HonorWall.json",
+      "bytes": 120071
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HonorWall.csv",
+      "bytes": 107408
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HonourExpedition.json",
+      "bytes": 1267
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HonourExpedition.csv",
+      "bytes": 668
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HospitalBase.json",
+      "bytes": 1877
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HospitalBase.csv",
+      "bytes": 572
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HqBenefitDefault.json",
+      "bytes": 308
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HqBenefitDefault.csv",
+      "bytes": 167
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HqBenefitInfo.json",
+      "bytes": 5464
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HqBenefitInfo.csv",
+      "bytes": 1528
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HuntWarBox.json",
+      "bytes": 17402
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HuntWarBox.csv",
+      "bytes": 17064
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HuntWarDifficulty.json",
+      "bytes": 665
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HuntWarDifficulty.csv",
+      "bytes": 143
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/HuntWarMonster.json",
+      "bytes": 21982
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/HuntWarMonster.csv",
+      "bytes": 10910
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Item.json",
+      "bytes": 1285606
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Item.csv",
+      "bytes": 383942
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemBenefit.json",
+      "bytes": 867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemBenefit.csv",
+      "bytes": 639
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemChange.json",
+      "bytes": 102
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemChange.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemChangeBuilding.json",
+      "bytes": 102
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemChangeBuilding.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemGetSource.json",
+      "bytes": 79458
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemGetSource.csv",
+      "bytes": 45616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemIcon.json",
+      "bytes": 11648
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemIcon.csv",
+      "bytes": 5151
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemLimit.json",
+      "bytes": 325
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemLimit.csv",
+      "bytes": 222
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemPackType.json",
+      "bytes": 4862
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemPackType.csv",
+      "bytes": 2551
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ItemSynthesis.json",
+      "bytes": 108
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ItemSynthesis.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/KingdomBuffTimeQueue.json",
+      "bytes": 210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/KingdomBuffTimeQueue.csv",
+      "bytes": 50
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Language.json",
+      "bytes": 3258
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Language.csv",
+      "bytes": 1186
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LanguageDisplay.json",
+      "bytes": 1064
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LanguageDisplay.csv",
+      "bytes": 428
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LeaderBoard.json",
+      "bytes": 130805
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LeaderBoard.csv",
+      "bytes": 98802
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LeaderBoardSeasonGroup.json",
+      "bytes": 6972
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LeaderBoardSeasonGroup.csv",
+      "bytes": 6561
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LeaderImpeachment.json",
+      "bytes": 2928
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LeaderImpeachment.csv",
+      "bytes": 842
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LightHope.json",
+      "bytes": 24488
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LightHope.csv",
+      "bytes": 5214
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Like.json",
+      "bytes": 1409
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Like.csv",
+      "bytes": 431
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LoadingTips.json",
+      "bytes": 532
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LoadingTips.csv",
+      "bytes": 125
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LoginBattlePass.json",
+      "bytes": 96
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LoginBattlePass.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LoginBattlePassReward.json",
+      "bytes": 96
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LoginBattlePassReward.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LoginTranslate.json",
+      "bytes": 683
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LoginTranslate.csv",
+      "bytes": 171
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJob.json",
+      "bytes": 693
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJob.csv",
+      "bytes": 531
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobLevel.json",
+      "bytes": 4804
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobLevel.csv",
+      "bytes": 3150
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobSkilFearlessDefense.json",
+      "bytes": 9288
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobSkilFearlessDefense.csv",
+      "bytes": 2550
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobSkill.json",
+      "bytes": 8315
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobSkill.csv",
+      "bytes": 1993
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobSkillItem.json",
+      "bytes": 176
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobSkillItem.csv",
+      "bytes": 87
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobSkillLevelEffect.json",
+      "bytes": 34348
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobSkillLevelEffect.csv",
+      "bytes": 20261
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordJobSkilRandomVisitor.json",
+      "bytes": 864
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordJobSkilRandomVisitor.csv",
+      "bytes": 642
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordSeasonBase.json",
+      "bytes": 298
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordSeasonBase.csv",
+      "bytes": 89
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LordSeasonSkill.json",
+      "bytes": 1903
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LordSeasonSkill.csv",
+      "bytes": 1055
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawAct.json",
+      "bytes": 484
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawAct.csv",
+      "bytes": 352
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawBoxType.json",
+      "bytes": 150
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawBoxType.csv",
+      "bytes": 24
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawReward.json",
+      "bytes": 932
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawReward.csv",
+      "bytes": 661
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenBase.json",
+      "bytes": 1321
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenBase.csv",
+      "bytes": 1162
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenBox.json",
+      "bytes": 1672
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenBox.csv",
+      "bytes": 482
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenCell.json",
+      "bytes": 5877
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenCell.csv",
+      "bytes": 2795
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenElem.json",
+      "bytes": 1071
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenElem.csv",
+      "bytes": 502
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenProgress.json",
+      "bytes": 1506
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenProgress.csv",
+      "bytes": 1071
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/LuckyDrawSevenReward.json",
+      "bytes": 8160
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/LuckyDrawSevenReward.csv",
+      "bytes": 5977
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MailTab.json",
+      "bytes": 3835
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MailTab.csv",
+      "bytes": 1508
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MailTemplate.json",
+      "bytes": 230854
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MailTemplate.csv",
+      "bytes": 62998
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MailTypeScan.json",
+      "bytes": 1173
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MailTypeScan.csv",
+      "bytes": 325
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MailUrlTrans.json",
+      "bytes": 436
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MailUrlTrans.csv",
+      "bytes": 227
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MainInterfaceRecommendPosition.json",
+      "bytes": 1024
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MainInterfaceRecommendPosition.csv",
+      "bytes": 440
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MainLandDecoration.json",
+      "bytes": 9142
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MainLandDecoration.csv",
+      "bytes": 4144
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MainLandLeagueDecoration.json",
+      "bytes": 3755
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MainLandLeagueDecoration.csv",
+      "bytes": 1867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MapEmoji.json",
+      "bytes": 7264
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MapEmoji.csv",
+      "bytes": 4534
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MapLimitLevel.json",
+      "bytes": 3224
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MapLimitLevel.csv",
+      "bytes": 759
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MapRefreshDay.json",
+      "bytes": 328
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MapRefreshDay.csv",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MapSkinInfo.json",
+      "bytes": 44797
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MapSkinInfo.csv",
+      "bytes": 20327
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchCoefficient.json",
+      "bytes": 4329
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchCoefficient.csv",
+      "bytes": 1073
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchItem.json",
+      "bytes": 253
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchItem.csv",
+      "bytes": 92
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchSkin.json",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchSkin.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchZoomAsset.json",
+      "bytes": 2189
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchZoomAsset.csv",
+      "bytes": 1068
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchZoomSwitch.json",
+      "bytes": 5029
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchZoomSwitch.csv",
+      "bytes": 1867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarchZoomUILike.json",
+      "bytes": 404
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarchZoomUILike.csv",
+      "bytes": 122
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MarkType.json",
+      "bytes": 410
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MarkType.csv",
+      "bytes": 221
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchChapter.json",
+      "bytes": 21124
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchChapter.csv",
+      "bytes": 4787
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchLevelData.json",
+      "bytes": 1354361
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchLevelData.csv",
+      "bytes": 456219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchLevelDataTest.json",
+      "bytes": 2632
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchLevelDataTest.csv",
+      "bytes": 1724
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchSkill.json",
+      "bytes": 94861
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchSkill.csv",
+      "bytes": 22560
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchSkillDesc.json",
+      "bytes": 15815
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchSkillDesc.csv",
+      "bytes": 4179
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchSkillImpact.json",
+      "bytes": 200385
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchSkillImpact.csv",
+      "bytes": 39392
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchSkillState.json",
+      "bytes": 25756
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchSkillState.csv",
+      "bytes": 5972
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MatchStageReward.json",
+      "bytes": 8382
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MatchStageReward.csv",
+      "bytes": 8498
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MaterialWorkshopBase.json",
+      "bytes": 1698
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MaterialWorkshopBase.csv",
+      "bytes": 509
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MdMonopolyEvent.json",
+      "bytes": 274802
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MdMonopolyEvent.csv",
+      "bytes": 139772
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MechCity.json",
+      "bytes": 42770
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MechCity.csv",
+      "bytes": 20750
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MechCityLevel.json",
+      "bytes": 1896
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MechCityLevel.csv",
+      "bytes": 1047
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MechCityReward.json",
+      "bytes": 4784
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MechCityReward.csv",
+      "bytes": 4548
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MechCityServerLevel.json",
+      "bytes": 603
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MechCityServerLevel.csv",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MechCityWarTask.json",
+      "bytes": 5948
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MechCityWarTask.csv",
+      "bytes": 5361
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MetalRecyclingBase.json",
+      "bytes": 1776
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MetalRecyclingBase.csv",
+      "bytes": 587
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MetalWarehouseBase.json",
+      "bytes": 2142
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MetalWarehouseBase.csv",
+      "bytes": 663
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MileStone.json",
+      "bytes": 13502
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MileStone.csv",
+      "bytes": 6022
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MiniEliminateMasterAct.json",
+      "bytes": 1633
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MiniEliminateMasterAct.csv",
+      "bytes": 1196
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MiniEliminateMasterCard.json",
+      "bytes": 2517
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MiniEliminateMasterCard.csv",
+      "bytes": 1285
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MiniEliminateMasterPass.json",
+      "bytes": 11517
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MiniEliminateMasterPass.csv",
+      "bytes": 10624
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MiniEliminateMasterPassFloor.json",
+      "bytes": 31882
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MiniEliminateMasterPassFloor.csv",
+      "bytes": 11650
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MiniEliminateMasterShifting.json",
+      "bytes": 9527
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MiniEliminateMasterShifting.csv",
+      "bytes": 2157
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MissileCenterBase.json",
+      "bytes": 5148
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MissileCenterBase.csv",
+      "bytes": 1024
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MixCost.json",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MixCost.csv",
+      "bytes": 524
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigBase.json",
+      "bytes": 82580
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigBase.csv",
+      "bytes": 38543
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv1.json",
+      "bytes": 70849
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv1.csv",
+      "bytes": 44700
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv2.json",
+      "bytes": 122948
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv2.csv",
+      "bytes": 71219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv3.json",
+      "bytes": 117381
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv3.csv",
+      "bytes": 67102
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv4.json",
+      "bytes": 96834
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv4.csv",
+      "bytes": 51559
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv5.json",
+      "bytes": 77970
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv5.csv",
+      "bytes": 40430
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelConfigLv6.json",
+      "bytes": 19226
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelConfigLv6.csv",
+      "bytes": 11289
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ModelDecorate.json",
+      "bytes": 987
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ModelDecorate.csv",
+      "bytes": 601
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Money.json",
+      "bytes": 120
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Money.csv",
+      "bytes": 31
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyAreaEffect.json",
+      "bytes": 158
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyAreaEffect.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyBase.json",
+      "bytes": 553
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyBase.csv",
+      "bytes": 439
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyBoardEvent.json",
+      "bytes": 838
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyBoardEvent.csv",
+      "bytes": 348
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyCell.json",
+      "bytes": 3206
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyCell.csv",
+      "bytes": 1310
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyCellLevel.json",
+      "bytes": 11847
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyCellLevel.csv",
+      "bytes": 7534
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyDrawWeightShow.json",
+      "bytes": 758
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyDrawWeightShow.csv",
+      "bytes": 683
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyEvent.json",
+      "bytes": 277276
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyEvent.csv",
+      "bytes": 138025
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyEventGift.json",
+      "bytes": 3709
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyEventGift.csv",
+      "bytes": 3028
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyEventGiftGroup.json",
+      "bytes": 2154
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyEventGiftGroup.csv",
+      "bytes": 1482
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolyRoleImage.json",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolyRoleImage.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolySceneEffect.json",
+      "bytes": 25306
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolySceneEffect.csv",
+      "bytes": 15065
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolySceneEffectTips.json",
+      "bytes": 1210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolySceneEffectTips.csv",
+      "bytes": 634
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonopolySpecialTreasure.json",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonopolySpecialTreasure.csv",
+      "bytes": 416
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonsterKillBurnRally.json",
+      "bytes": 19744
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonsterKillBurnRally.csv",
+      "bytes": 12038
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonsterProfile.json",
+      "bytes": 4862
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonsterProfile.csv",
+      "bytes": 2197
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonsterRefresh.json",
+      "bytes": 3349
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonsterRefresh.csv",
+      "bytes": 1807
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonsterSpawnLogic.json",
+      "bytes": 667
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonsterSpawnLogic.csv",
+      "bytes": 198
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonthCard.json",
+      "bytes": 961
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonthCard.csv",
+      "bytes": 845
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MonumentBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MonumentBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/MultiSoundConfig.json",
+      "bytes": 510
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/MultiSoundConfig.csv",
+      "bytes": 345
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewCardsDraw.json",
+      "bytes": 5108
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewCardsDraw.csv",
+      "bytes": 3215
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewCardsPool.json",
+      "bytes": 5450
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewCardsPool.csv",
+      "bytes": 3589
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewCardsPoolInfo.json",
+      "bytes": 144382
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewCardsPoolInfo.csv",
+      "bytes": 108760
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewHeroSkill.json",
+      "bytes": 673
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewHeroSkill.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewHeroSkillEffect.json",
+      "bytes": 1092
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewHeroSkillEffect.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewHeroSkillLevel.json",
+      "bytes": 149
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewHeroSkillLevel.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NewWeekCard.json",
+      "bytes": 289
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NewWeekCard.csv",
+      "bytes": 201
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/NpcAnimation.json",
+      "bytes": 54603
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/NpcAnimation.csv",
+      "bytes": 20591
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OilTankBase.json",
+      "bytes": 2125
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OilTankBase.csv",
+      "bytes": 646
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OilWellBase.json",
+      "bytes": 1770
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OilWellBase.csv",
+      "bytes": 581
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OnlineReward.json",
+      "bytes": 2414
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OnlineReward.csv",
+      "bytes": 2397
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OnlineRewardTip.json",
+      "bytes": 262
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OnlineRewardTip.csv",
+      "bytes": 85
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OptionalWeight.json",
+      "bytes": 326
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OptionalWeight.csv",
+      "bytes": 111
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/OriginalBuilding.json",
+      "bytes": 20663
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/OriginalBuilding.csv",
+      "bytes": 5315
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Parameter.json",
+      "bytes": 63250
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Parameter.csv",
+      "bytes": 48030
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PatrolTextTips.json",
+      "bytes": 155
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PatrolTextTips.csv",
+      "bytes": 44
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PersonalTargetGroup.json",
+      "bytes": 22730
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PersonalTargetGroup.csv",
+      "bytes": 21026
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PickOneGiftAct.json",
+      "bytes": 427
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PickOneGiftAct.csv",
+      "bytes": 305
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PickOneGiftReward.json",
+      "bytes": 2990
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PickOneGiftReward.csv",
+      "bytes": 2770
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerBenefitDisplay.json",
+      "bytes": 34193
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerBenefitDisplay.csv",
+      "bytes": 9256
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerExterior.json",
+      "bytes": 87253
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerExterior.csv",
+      "bytes": 15392
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerInfo.json",
+      "bytes": 95
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerInfo.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerOffLineGrabSupply.json",
+      "bytes": 192
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerOffLineGrabSupply.csv",
+      "bytes": 37
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerProfile.json",
+      "bytes": 3676
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerProfile.csv",
+      "bytes": 1828
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerProfileBenefit.json",
+      "bytes": 1215
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerProfileBenefit.csv",
+      "bytes": 448
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerStrengthenInfo.json",
+      "bytes": 95
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerStrengthenInfo.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayerUpgrade.json",
+      "bytes": 95
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayerUpgrade.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlayGroundBase.json",
+      "bytes": 1912
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlayGroundBase.csv",
+      "bytes": 578
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PlunderCoefficient.json",
+      "bytes": 374
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PlunderCoefficient.csv",
+      "bytes": 143
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PointCoin.json",
+      "bytes": 1000
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PointCoin.csv",
+      "bytes": 710
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PointSource.json",
+      "bytes": 149407
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PointSource.csv",
+      "bytes": 53574
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PopUp.json",
+      "bytes": 168
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PopUp.csv",
+      "bytes": 34
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PopUpGroup.json",
+      "bytes": 219
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PopUpGroup.csv",
+      "bytes": 50
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PopUpList.json",
+      "bytes": 1718
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PopUpList.csv",
+      "bytes": 431
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PreCorps.json",
+      "bytes": 100
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PreCorps.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Present.json",
+      "bytes": 457
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Present.csv",
+      "bytes": 177
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Presenteffect.json",
+      "bytes": 885
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Presenteffect.csv",
+      "bytes": 491
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Presentlevel.json",
+      "bytes": 1060
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Presentlevel.csv",
+      "bytes": 492
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Product.json",
+      "bytes": 8734
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Product.csv",
+      "bytes": 3502
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ProgressGroup.json",
+      "bytes": 163
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ProgressGroup.csv",
+      "bytes": 66
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ProgressReward.json",
+      "bytes": 668
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ProgressReward.csv",
+      "bytes": 327
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PromotionShow.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PromotionShow.csv",
+      "bytes": 36
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Push.json",
+      "bytes": 1759
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Push.csv",
+      "bytes": 377
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PvpBattleTestBase.json",
+      "bytes": 2150
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PvpBattleTestBase.csv",
+      "bytes": 1223
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PvpDroneTestBase.json",
+      "bytes": 432
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PvpDroneTestBase.csv",
+      "bytes": 210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/PvpHeroTestBase.json",
+      "bytes": 74804
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/PvpHeroTestBase.csv",
+      "bytes": 29207
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/QuarryBase.json",
+      "bytes": 1370
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/QuarryBase.csv",
+      "bytes": 415
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/QueueGift.json",
+      "bytes": 862
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/QueueGift.csv",
+      "bytes": 745
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/QuickAccount.json",
+      "bytes": 1410
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/QuickAccount.csv",
+      "bytes": 813
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/QuickAccount_Equip.json",
+      "bytes": 786
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/QuickAccount_Equip.csv",
+      "bytes": 454
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarChallengeLv.json",
+      "bytes": 1207
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarChallengeLv.csv",
+      "bytes": 342
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarDigSpeed.json",
+      "bytes": 5720
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarDigSpeed.csv",
+      "bytes": 2095
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarLevel.json",
+      "bytes": 10617
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarLevel.csv",
+      "bytes": 7124
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarTask.json",
+      "bytes": 1146475
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarTask.csv",
+      "bytes": 641009
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarTowerBase.json",
+      "bytes": 2733
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarTowerBase.csv",
+      "bytes": 585
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarTreasure.json",
+      "bytes": 21809
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarTreasure.csv",
+      "bytes": 13937
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarTypeInfo.json",
+      "bytes": 2214
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarTypeInfo.csv",
+      "bytes": 762
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RadarWorker.json",
+      "bytes": 3222
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RadarWorker.csv",
+      "bytes": 1742
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RallyRefresh.json",
+      "bytes": 2969
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RallyRefresh.csv",
+      "bytes": 1587
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RallyTargets.json",
+      "bytes": 281
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RallyTargets.csv",
+      "bytes": 98
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RandomEmojis.json",
+      "bytes": 986
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RandomEmojis.csv",
+      "bytes": 741
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RankUnionGroup.json",
+      "bytes": 1982
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RankUnionGroup.csv",
+      "bytes": 1553
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ReconnaissanceBase.json",
+      "bytes": 2056
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ReconnaissanceBase.csv",
+      "bytes": 577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RegularBattlePassReward.json",
+      "bytes": 4778
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RegularBattlePassReward.csv",
+      "bytes": 3126
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ReportCompare.json",
+      "bytes": 1797
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ReportCompare.csv",
+      "bytes": 423
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ReportContent.json",
+      "bytes": 352
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ReportContent.csv",
+      "bytes": 82
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ReportTarget.json",
+      "bytes": 547
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ReportTarget.csv",
+      "bytes": 207
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RescueNode.json",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RescueNode.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RescueNpc.json",
+      "bytes": 414
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RescueNpc.csv",
+      "bytes": 129
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ResourceInfo.json",
+      "bytes": 27897
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ResourceInfo.csv",
+      "bytes": 8483
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ResourceLoad.json",
+      "bytes": 603
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ResourceLoad.csv",
+      "bytes": 284
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ResourceSearch.json",
+      "bytes": 10619
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ResourceSearch.csv",
+      "bytes": 7869
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RPGSceneConfig.json",
+      "bytes": 178
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RPGSceneConfig.csv",
+      "bytes": 72
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RpgSkillDesc.json",
+      "bytes": 99
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RpgSkillDesc.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/RPGWaveData.json",
+      "bytes": 177
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/RPGWaveData.csv",
+      "bytes": 68
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ScoreItem.json",
+      "bytes": 1469
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ScoreItem.csv",
+      "bytes": 505
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ScoutAuth.json",
+      "bytes": 1767
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ScoutAuth.csv",
+      "bytes": 443
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SeasonBlackInfo.json",
+      "bytes": 1895
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SeasonBlackInfo.csv",
+      "bytes": 832
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SeasonConfig.json",
+      "bytes": 121
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SeasonConfig.csv",
+      "bytes": 25
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SeasonSlgMonsterInfo.json",
+      "bytes": 149933
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SeasonSlgMonsterInfo.csv",
+      "bytes": 119921
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SeasonSlgRallyInfo.json",
+      "bytes": 71048
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SeasonSlgRallyInfo.csv",
+      "bytes": 62651
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SeasonVirusResistance.json",
+      "bytes": 6051
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SeasonVirusResistance.csv",
+      "bytes": 1327
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretCenterBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretCenterBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretHero.json",
+      "bytes": 22152
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretHero.csv",
+      "bytes": 2309
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretLevel.json",
+      "bytes": 3949
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretLevel.csv",
+      "bytes": 2848
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretTask.json",
+      "bytes": 72857
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretTask.csv",
+      "bytes": 62542
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretTaskShow.json",
+      "bytes": 470
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretTaskShow.csv",
+      "bytes": 113
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretTreasureDraw.json",
+      "bytes": 334
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretTreasureDraw.csv",
+      "bytes": 193
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretTreasurePool.json",
+      "bytes": 2734
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretTreasurePool.csv",
+      "bytes": 1749
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SecretTreasureProgress.json",
+      "bytes": 807
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SecretTreasureProgress.csv",
+      "bytes": 544
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SelfChooseGift.json",
+      "bytes": 93
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SelfChooseGift.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SelfWeekCard.json",
+      "bytes": 6268
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SelfWeekCard.csv",
+      "bytes": 3751
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SettingReport.json",
+      "bytes": 757
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SettingReport.csv",
+      "bytes": 186
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SettingUI.json",
+      "bytes": 537
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SettingUI.csv",
+      "bytes": 140
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SevenDaySignAct.json",
+      "bytes": 293
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SevenDaySignAct.csv",
+      "bytes": 120
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SevenDaySignReward.json",
+      "bytes": 1915
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SevenDaySignReward.csv",
+      "bytes": 1495
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SevenDayVipReward.json",
+      "bytes": 664
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SevenDayVipReward.csv",
+      "bytes": 482
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ShopBase.json",
+      "bytes": 7690
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ShopBase.csv",
+      "bytes": 2288
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ShopPage.json",
+      "bytes": 104
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ShopPage.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Sidebar.json",
+      "bytes": 2361
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Sidebar.csv",
+      "bytes": 1182
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Skill.json",
+      "bytes": 695278
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Skill.csv",
+      "bytes": 129038
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SkillEffect.json",
+      "bytes": 455812
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SkillEffect.csv",
+      "bytes": 98302
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SkillEffectState.json",
+      "bytes": 99
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SkillEffectState.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SkillState.json",
+      "bytes": 30789
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SkillState.csv",
+      "bytes": 5690
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgArmyAttr.json",
+      "bytes": 1001846
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgArmyAttr.csv",
+      "bytes": 938724
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgMonsterAttr.json",
+      "bytes": 2080381
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgMonsterAttr.csv",
+      "bytes": 1996754
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgMonsterInfo.json",
+      "bytes": 457207
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgMonsterInfo.csv",
+      "bytes": 199134
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgNpcHeroConfig.json",
+      "bytes": 15090
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgNpcHeroConfig.csv",
+      "bytes": 3512
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgRallyFindReward.json",
+      "bytes": 20762
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgRallyFindReward.csv",
+      "bytes": 21446
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SlgRallyInfo.json",
+      "bytes": 520337
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SlgRallyInfo.csv",
+      "bytes": 396408
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SmartContestBase.json",
+      "bytes": 351
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SmartContestBase.csv",
+      "bytes": 233
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SmartContestQuestion.json",
+      "bytes": 15704
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SmartContestQuestion.csv",
+      "bytes": 7382
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SmartContestReward.json",
+      "bytes": 1844
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SmartContestReward.csv",
+      "bytes": 1635
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SoldierAttr.json",
+      "bytes": 35753
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SoldierAttr.csv",
+      "bytes": 19932
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SoldierPvpShow.json",
+      "bytes": 257
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SoldierPvpShow.csv",
+      "bytes": 77
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SoldierRestraint.json",
+      "bytes": 449
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SoldierRestraint.csv",
+      "bytes": 147
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SoldierType.json",
+      "bytes": 197
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SoldierType.csv",
+      "bytes": 71
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SoundConfig.json",
+      "bytes": 162543
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SoundConfig.csv",
+      "bytes": 68143
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SpecialMissionChapter.json",
+      "bytes": 538
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SpecialMissionChapter.csv",
+      "bytes": 257
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SpecialMissionLevel.json",
+      "bytes": 5152
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SpecialMissionLevel.csv",
+      "bytes": 1827
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SpecialMissionMiniGame.json",
+      "bytes": 210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SpecialMissionMiniGame.csv",
+      "bytes": 54
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SpecificLikeTarget.json",
+      "bytes": 2746
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SpecificLikeTarget.csv",
+      "bytes": 1567
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Squad_1Base.json",
+      "bytes": 2211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Squad_1Base.csv",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Squad_2Base.json",
+      "bytes": 2211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Squad_2Base.csv",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Squad_3Base.json",
+      "bytes": 2211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Squad_3Base.csv",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SquadBase.json",
+      "bytes": 2211
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SquadBase.csv",
+      "bytes": 616
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SquadBattleDecoration.json",
+      "bytes": 4051
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SquadBattleDecoration.csv",
+      "bytes": 1953
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StoryChapter.json",
+      "bytes": 1041
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StoryChapter.csv",
+      "bytes": 837
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StoryTask.json",
+      "bytes": 1980
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StoryTask.csv",
+      "bytes": 1213
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StringParameter.json",
+      "bytes": 21852
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StringParameter.csv",
+      "bytes": 17799
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StrongerAbilityCastleLevel.json",
+      "bytes": 1338
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StrongerAbilityCastleLevel.csv",
+      "bytes": 457
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StrongerAbilityItem.json",
+      "bytes": 654
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StrongerAbilityItem.csv",
+      "bytes": 291
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/StrongerAbilitySource.json",
+      "bytes": 9749
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/StrongerAbilitySource.csv",
+      "bytes": 9440
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SyntheticFormula.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SyntheticFormula.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/SyntheticOrderFormula.json",
+      "bytes": 94
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/SyntheticOrderFormula.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TankCenterBase.json",
+      "bytes": 5028
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TankCenterBase.csv",
+      "bytes": 1020
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TargetReward.json",
+      "bytes": 377683
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TargetReward.csv",
+      "bytes": 218421
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TargetRewardGroup.json",
+      "bytes": 4210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TargetRewardGroup.csv",
+      "bytes": 4208
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TargetRewardSeasonGroup.json",
+      "bytes": 11298
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TargetRewardSeasonGroup.csv",
+      "bytes": 11129
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Task.json",
+      "bytes": 927939
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Task.csv",
+      "bytes": 473284
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TaskBanner.json",
+      "bytes": 441
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TaskBanner.csv",
+      "bytes": 289
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TeamWaiting.json",
+      "bytes": 551
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TeamWaiting.csv",
+      "bytes": 155
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TechBenefitDisplay.json",
+      "bytes": 13288
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TechBenefitDisplay.csv",
+      "bytes": 5881
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TempleBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TempleBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TimelineHide.json",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TimelineHide.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TowerAuth.json",
+      "bytes": 1116
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TowerAuth.csv",
+      "bytes": 374
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TreasureBoxPoint.json",
+      "bytes": 737
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TreasureBoxPoint.csv",
+      "bytes": 206
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TreasureBoxShow.json",
+      "bytes": 835
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TreasureBoxShow.csv",
+      "bytes": 516
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TreasureMap.json",
+      "bytes": 1337
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TreasureMap.csv",
+      "bytes": 1172
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TrialBoxReward.json",
+      "bytes": 1935
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TrialBoxReward.csv",
+      "bytes": 1872
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TrialTask.json",
+      "bytes": 23533
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TrialTask.csv",
+      "bytes": 21242
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/TriggerGift.json",
+      "bytes": 129266
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/TriggerGift.csv",
+      "bytes": 69710
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavActive.json",
+      "bytes": 1443
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavActive.csv",
+      "bytes": 1416
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavAdvance.json",
+      "bytes": 274559
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavAdvance.csv",
+      "bytes": 183665
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavAdvanceIncreaseSkill.json",
+      "bytes": 28265
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavAdvanceIncreaseSkill.csv",
+      "bytes": 6674
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavComponent.json",
+      "bytes": 906462
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavComponent.csv",
+      "bytes": 526990
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavComponentSuit.json",
+      "bytes": 6795
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavComponentSuit.csv",
+      "bytes": 4955
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavLevel.json",
+      "bytes": 764196
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavLevel.csv",
+      "bytes": 546745
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavModuleStar.json",
+      "bytes": 45008
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavModuleStar.csv",
+      "bytes": 10399
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavModuleSynthesis.json",
+      "bytes": 8583
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavModuleSynthesis.csv",
+      "bytes": 5178
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavPreview.json",
+      "bytes": 2328
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavPreview.csv",
+      "bytes": 499
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavSkillDes.json",
+      "bytes": 456
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavSkillDes.csv",
+      "bytes": 139
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UavSkin.json",
+      "bytes": 3572
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UavSkin.csv",
+      "bytes": 2294
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UltimatePrizeAct.json",
+      "bytes": 444
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UltimatePrizeAct.csv",
+      "bytes": 179
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UltimatePrizeFreeReward.json",
+      "bytes": 5072
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UltimatePrizeFreeReward.csv",
+      "bytes": 4771
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UltimatePrizeReward.json",
+      "bytes": 885
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UltimatePrizeReward.csv",
+      "bytes": 558
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionAuth.json",
+      "bytes": 8088
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionAuth.csv",
+      "bytes": 1611
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionBadges.json",
+      "bytes": 925
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionBadges.csv",
+      "bytes": 276
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionBossMarchModel.json",
+      "bytes": 241
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionBossMarchModel.csv",
+      "bytes": 113
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionBuilding.json",
+      "bytes": 108
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionBuilding.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionBuildingBuff.json",
+      "bytes": 108
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionBuildingBuff.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionCityColor.json",
+      "bytes": 805
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionCityColor.csv",
+      "bytes": 275
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionConst.json",
+      "bytes": 12208
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionConst.csv",
+      "bytes": 7703
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionContributeCrits.json",
+      "bytes": 152
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionContributeCrits.csv",
+      "bytes": 27
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionContributeRankReward.json",
+      "bytes": 855
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionContributeRankReward.csv",
+      "bytes": 653
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionDelate.json",
+      "bytes": 1969
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionDelate.csv",
+      "bytes": 535
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionDiamondContribute.json",
+      "bytes": 2064
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionDiamondContribute.csv",
+      "bytes": 1218
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionExpeditionAct.json",
+      "bytes": 417
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionExpeditionAct.csv",
+      "bytes": 313
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionExpeditionHurtBonus.json",
+      "bytes": 721
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionExpeditionHurtBonus.csv",
+      "bytes": 442
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionExpeditionTriple.json",
+      "bytes": 2046
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionExpeditionTriple.csv",
+      "bytes": 1615
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarBattleReward.json",
+      "bytes": 4461
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarBattleReward.csv",
+      "bytes": 4093
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarRule.json",
+      "bytes": 314
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarRule.csv",
+      "bytes": 175
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarStage.json",
+      "bytes": 5602
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarStage.csv",
+      "bytes": 5272
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarStageConfig.json",
+      "bytes": 358
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarStageConfig.csv",
+      "bytes": 125
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarStageReward.json",
+      "bytes": 11705
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarStageReward.csv",
+      "bytes": 10659
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionFlagWarZoneConfig.json",
+      "bytes": 380
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionFlagWarZoneConfig.csv",
+      "bytes": 97
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionGiftCfg.json",
+      "bytes": 1552
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionGiftCfg.csv",
+      "bytes": 577
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionGiftLevelCfg.json",
+      "bytes": 2697
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionGiftLevelCfg.csv",
+      "bytes": 983
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionGiftRewardCfg.json",
+      "bytes": 183157
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionGiftRewardCfg.csv",
+      "bytes": 142637
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionHelp.json",
+      "bytes": 206
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionHelp.csv",
+      "bytes": 48
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionJudgePoint.json",
+      "bytes": 167
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionJudgePoint.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionLanguage.json",
+      "bytes": 1290
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionLanguage.csv",
+      "bytes": 387
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionMark.json",
+      "bytes": 3210
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionMark.csv",
+      "bytes": 1736
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionMilestoneTaskCfg.json",
+      "bytes": 5449
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionMilestoneTaskCfg.csv",
+      "bytes": 4446
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionQuit.json",
+      "bytes": 429
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionQuit.csv",
+      "bytes": 225
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionRankJob.json",
+      "bytes": 1510
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionRankJob.csv",
+      "bytes": 540
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionRankReward.json",
+      "bytes": 1938
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionRankReward.csv",
+      "bytes": 1572
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionRecommendArea.json",
+      "bytes": 141
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionRecommendArea.csv",
+      "bytes": 22
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionRecommendPoint.json",
+      "bytes": 325
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionRecommendPoint.csv",
+      "bytes": 101
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionScoreActTarget.json",
+      "bytes": 277
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionScoreActTarget.csv",
+      "bytes": 110
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionShop.json",
+      "bytes": 103
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionShop.csv",
+      "bytes": 0
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionTech.json",
+      "bytes": 6461
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionTech.csv",
+      "bytes": 2886
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionTechType.json",
+      "bytes": 191
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionTechType.csv",
+      "bytes": 36
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionTechUpgrade.json",
+      "bytes": 71844
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionTechUpgrade.csv",
+      "bytes": 42438
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnionUpgrade.json",
+      "bytes": 374
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnionUpgrade.csv",
+      "bytes": 142
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/UnlockSystem.json",
+      "bytes": 859
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/UnlockSystem.csv",
+      "bytes": 279
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ViewPermissions.json",
+      "bytes": 6944
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ViewPermissions.csv",
+      "bytes": 2671
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VipInfo.json",
+      "bytes": 6862
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VipInfo.csv",
+      "bytes": 6116
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VipLogin.json",
+      "bytes": 318
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VipLogin.csv",
+      "bytes": 91
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VipPrivilege.json",
+      "bytes": 5931
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VipPrivilege.csv",
+      "bytes": 1496
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VipRadarWorkerInfo.json",
+      "bytes": 2861
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VipRadarWorkerInfo.csv",
+      "bytes": 2834
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VipSpecialFree.json",
+      "bytes": 308
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VipSpecialFree.csv",
+      "bytes": 228
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VirusResistanceLevel.json",
+      "bytes": 4274
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VirusResistanceLevel.csv",
+      "bytes": 3051
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VirusResistanceLevelOpen.json",
+      "bytes": 150
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VirusResistanceLevelOpen.csv",
+      "bytes": 51
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoActivityReward.json",
+      "bytes": 1151
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoActivityReward.csv",
+      "bytes": 681
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoConfig.json",
+      "bytes": 281
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoConfig.csv",
+      "bytes": 198
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoGteItem.json",
+      "bytes": 728
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoGteItem.csv",
+      "bytes": 287
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoGuide.json",
+      "bytes": 746
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoGuide.csv",
+      "bytes": 353
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoModelConfig.json",
+      "bytes": 6939
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoModelConfig.csv",
+      "bytes": 3265
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoRankingReward.json",
+      "bytes": 2192
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoRankingReward.csv",
+      "bytes": 1225
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoResource.json",
+      "bytes": 347
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoResource.csv",
+      "bytes": 124
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoResourceRefresh.json",
+      "bytes": 412
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoResourceRefresh.csv",
+      "bytes": 110
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoResourceTime.json",
+      "bytes": 2778
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoResourceTime.csv",
+      "bytes": 773
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoServerGroup.json",
+      "bytes": 199
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoServerGroup.csv",
+      "bytes": 61
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoStage.json",
+      "bytes": 294
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoStage.csv",
+      "bytes": 81
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/VolcanoSystemDesc.json",
+      "bytes": 982
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/VolcanoSystemDesc.csv",
+      "bytes": 340
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WakeShow.json",
+      "bytes": 1365
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WakeShow.csv",
+      "bytes": 539
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WallBase.json",
+      "bytes": 1974
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WallBase.csv",
+      "bytes": 611
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WanderBossTask.json",
+      "bytes": 10765
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WanderBossTask.csv",
+      "bytes": 8864
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WanderMarchModel.json",
+      "bytes": 2576
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WanderMarchModel.csv",
+      "bytes": 1982
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Warfrenzy.json",
+      "bytes": 285
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Warfrenzy.csv",
+      "bytes": 183
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WarZoneConf.json",
+      "bytes": 2174
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WarZoneConf.csv",
+      "bytes": 450
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeaponWorkshopBase.json",
+      "bytes": 1372
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeaponWorkshopBase.csv",
+      "bytes": 417
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeekCard.json",
+      "bytes": 867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeekCard.csv",
+      "bytes": 494
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeekendBoss.json",
+      "bytes": 15624
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeekendBoss.csv",
+      "bytes": 6323
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeekendBossLeaderBoard.json",
+      "bytes": 2546
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeekendBossLeaderBoard.csv",
+      "bytes": 2096
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeekendBossTalk.json",
+      "bytes": 274
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeekendBossTalk.csv",
+      "bytes": 51
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeekendBossTask.json",
+      "bytes": 40327
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeekendBossTask.csv",
+      "bytes": 31663
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WeeklyShow.json",
+      "bytes": 218
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WeeklyShow.csv",
+      "bytes": 138
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WelfareCenter.json",
+      "bytes": 9118
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WelfareCenter.csv",
+      "bytes": 3562
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/Worker.json",
+      "bytes": 150738
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/Worker.csv",
+      "bytes": 53971
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorkerBase.json",
+      "bytes": 1821
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorkerBase.csv",
+      "bytes": 545
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorkerCenterBase.json",
+      "bytes": 145
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorkerCenterBase.csv",
+      "bytes": 32
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorkerExt.json",
+      "bytes": 20012
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorkerExt.csv",
+      "bytes": 6539
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorkerStar.json",
+      "bytes": 2602716
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorkerStar.csv",
+      "bytes": 2436697
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldBattleDistance.json",
+      "bytes": 396
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldBattleDistance.csv",
+      "bytes": 109
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldBossTalk.json",
+      "bytes": 344
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldBossTalk.csv",
+      "bytes": 69
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldCircularMenuList.json",
+      "bytes": 11171
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldCircularMenuList.csv",
+      "bytes": 7466
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldGiftGather.json",
+      "bytes": 401
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldGiftGather.csv",
+      "bytes": 188
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldMapDecoration.json",
+      "bytes": 3832
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldMapDecoration.csv",
+      "bytes": 1512
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldMapDecorationZoomLevels.json",
+      "bytes": 676
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldMapDecorationZoomLevels.csv",
+      "bytes": 204
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldMapLegend.json",
+      "bytes": 1695
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldMapLegend.csv",
+      "bytes": 740
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldMapUIFilter.json",
+      "bytes": 546
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldMapUIFilter.csv",
+      "bytes": 281
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldMapZoomLevels.json",
+      "bytes": 512
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldMapZoomLevels.csv",
+      "bytes": 150
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldObjects.json",
+      "bytes": 12476
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldObjects.csv",
+      "bytes": 5049
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldPlayerBirth.json",
+      "bytes": 19038
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldPlayerBirth.csv",
+      "bytes": 14302
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldRandomBox.json",
+      "bytes": 399
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldRandomBox.csv",
+      "bytes": 111
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldWanderBoss.json",
+      "bytes": 3466
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldWanderBoss.csv",
+      "bytes": 1042
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/WorldWanderBossRefresh.json",
+      "bytes": 477
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/WorldWanderBossRefresh.csv",
+      "bytes": 200
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZombieAttCityMonsterSkill.json",
+      "bytes": 18370
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZombieAttCityMonsterSkill.csv",
+      "bytes": 6685
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZombieAttCityReward.json",
+      "bytes": 45016
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZombieAttCityReward.csv",
+      "bytes": 39307
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZombieAttCityStage.json",
+      "bytes": 3867
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZombieAttCityStage.csv",
+      "bytes": 1790
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZombieAttCityWave.json",
+      "bytes": 50960
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZombieAttCityWave.csv",
+      "bytes": 11778
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestReward.json",
+      "bytes": 6634
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestReward.csv",
+      "bytes": 6385
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestScore.json",
+      "bytes": 1316
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestScore.csv",
+      "bytes": 552
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestSeasonReward.json",
+      "bytes": 26415
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestSeasonReward.csv",
+      "bytes": 27764
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestSeasonServerReward.json",
+      "bytes": 2270
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestSeasonServerReward.csv",
+      "bytes": 2262
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestTask.json",
+      "bytes": 2287
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestTask.csv",
+      "bytes": 2286
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestTaskSeasonGroup.json",
+      "bytes": 3123
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestTaskSeasonGroup.csv",
+      "bytes": 3115
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-json/ZoneContestUnionScore.json",
+      "bytes": 1571
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/ZoneContestUnionScore.csv",
+      "bytes": 608
+    },
+    {
+      "path": "research/game-reference/client-1.0.106/tables-csv/00-TABLE-INDEX.csv",
+      "bytes": 67860
+    }
+  ]
+}

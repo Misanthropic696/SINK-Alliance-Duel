@@ -1,0 +1,4 @@
+id,WorldBossBenefitIcon,WorldBossMenuBenefitDes,WorldBossMenuIcon,WorldBossTalk,activityId,attackBossCount,benefitDes,benefitIcon,benefitIconAtlas,benefitType,benefitValue,boardReward,damageReward,id,maxMarchTime,monsterId,taskGroupID,visableTime
+4400101,pic_sjboss_zy1,,pic_sjboss_banner2,"{'1': 1, '2': 2, '3': 3}",440010101,10,,ico_yx_zyy3,SpriteAtlas/UI_Hero.spriteatlas,10022,0.5,4400101,1004,4400101,15,9001,10001,"{'1': 0, '2': 24}"
+5400101,pic_sjboss_zy3,,pic_sjboss_banner1,"{'1': 7, '2': 8, '3': 9}",440010201,10,,ico_yx_zyy2,SpriteAtlas/UI_Hero.spriteatlas,10021,0.5,5400101,1005,5400101,15,9002,10002,"{'1': 0, '2': 24}"
+6400101,pic_sjboss_zy2,,pic_sjboss_banner3,"{'1': 4, '2': 5, '3': 6}",440010301,10,,ico_yx_zyy1,SpriteAtlas/UI_Hero.spriteatlas,10020,0.5,6400101,1006,6400101,15,9003,10003,"{'1': 0, '2': 24}"

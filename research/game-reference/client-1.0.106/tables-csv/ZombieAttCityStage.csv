@@ -1,0 +1,11 @@
+id,activityID,cdTime,cityState,eliteBossAssetPath,eliteMonsterAssetPath,exp,id,ifShow,maxLevel,minLevel,mondel,preparaTionTime,stageLevel,stagePower,unlockCondition,unlockLv,unlockNumber
+3,520010101,172800,1,,,300000,3,1,17,15,60015,180,3,4229772,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 42, 'id': 100004}}",2,20
+4,520010101,172800,2,,,300000,4,1,20,17,60015,180,4,6088213,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",3,20
+1,520010101,172800,1,,,300000,1,0,15,13,60015,180,1,2414269,{},0,0
+2,520010101,172800,1,,,300000,2,1,16,14,60015,180,2,3293051,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 28, 'id': 100004}}",1,20
+10,520010101,172800,3,UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance01.png,UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance02.png,300000,10,1,30,27,60015,180,10,24471960,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",9,20
+9,520010101,172800,3,UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance01.png,UI_Sprite/Others/Activity/ZombieAttCity/Zombiehorde_img_ambulance02.png,300000,9,1,29,26,60015,180,9,20155943,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",8,20
+7,520010101,172800,2,,,300000,7,1,26,23,60015,180,7,14019948,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",6,20
+8,520010101,172800,2,,,300000,8,1,28,25,60015,180,8,17411540,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",7,20
+5,520010101,172800,2,,,300000,5,1,22,19,60015,180,5,8014806,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",4,20
+6,520010101,172800,2,,,300000,6,1,24,21,60015,180,6,11522865,"{'1': {'isClientAddOne': 1, 'param2': 1, 'param1': 56, 'id': 100004}}",5,20

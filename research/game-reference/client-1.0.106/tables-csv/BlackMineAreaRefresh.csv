@@ -1,0 +1,6 @@
+id,centerX,centerY,excludedRegion,height,id,rhombus,width
+5,128,128,1,256,5,False,256
+4,128,128,1|2|3,256,4,False,256
+3,128,128,1|2,155,3,False,155
+2,128,128,1,85,2,False,85
+1,128,128,,15,1,True,15

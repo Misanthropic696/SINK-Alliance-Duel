@@ -1,0 +1,5 @@
+id,atlas,boxType,icon,id,random,reward,rewardCrit,rewardItem
+205,SpriteAtlas/UI_Activity.spriteatlas,Z_piaoliubaoxiang_blue,icon_bjzhicon_jxqyng03,205,"{'1': {'id': 205, 'weight': 12}}","{'1': {'count': 1, 'id': 'item_airDrop_showBox_green', 'type': 99}}",5,"{'1': {'count': 10, 'id': 'item_drone_data_10k', 'type': 99}}"
+206,SpriteAtlas/UI_Activity.spriteatlas,Z_piaoliubaoxiang_blue,icon_bjzhicon_jxqyng03,206,"{'1': {'id': 206, 'weight': 12}}","{'1': {'count': 1, 'id': 'item_airDrop_showBox_green', 'type': 99}}",5,"{'1': {'count': 20, 'id': 'item_SpeedUp_general_5m', 'type': 99}}"
+203,SpriteAtlas/UI_Activity.spriteatlas,Z_piaoliubaoxiang_blue,icon_bjzhicon_jxqyng03,203,"{'1': {'id': 203, 'weight': 12}}","{'1': {'count': 1, 'id': 'item_airDrop_showBox_green', 'type': 99}}",5,"{'1': {'count': 1, 'id': 'item_Material_universalFragment_5', 'type': 99}}"
+204,SpriteAtlas/UI_Activity.spriteatlas,Z_piaoliubaoxiang_blue,icon_bjzhicon_jxqyng03,204,"{'1': {'id': 204, 'weight': 12}}","{'1': {'count': 1, 'id': 'item_airDrop_showBox_green', 'type': 99}}",5,"{'1': {'count': 1, 'id': 'item_optionalBox_Resource4', 'type': 99}}"

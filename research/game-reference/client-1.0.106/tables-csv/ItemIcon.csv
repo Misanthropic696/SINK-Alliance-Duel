@@ -1,0 +1,32 @@
+id,backpackStatisticsTypeArray,desc,description,frame,getSourceId,giftGroupId,icon,iconAtlas,id,lastGiftId,name,quality,resourceitems,selectableResourcelitems,sortType,typeArray
+3,"{'1': 'steel', '2': 'boxCastleResource'}",,,9,{'1': 300323},"{'1': 900902001, '2': 900902002, '3': 900902003, '4': 900902004, '5': 900902011, '6': 900902012, '7': 900902013, '8': 900902014, '9': 900902015, '10': 900902016, '11': 900902017, '12': 900902018, '13': 900902019, '14': 900902020, '15': 900902021, '16': 900902022, '17': 900902023, '18': 900902024, '19': 900902025, '20': 900902026, '21': 900902027, '22': 900902028, '23': 910901101, '24': 910901106, '25': 900903010, '26': 900903011, '27': 900901001, '28': 900901006}",icon_power,SpriteAtlas/UI_Icon.spriteatlas,3,910901105,,1,"{'1': 'steel', '2': 'boxCastleResource'}",{'1': 'boxOneResource'},6,"{'1': 'steel', '2': 'boxResource', '3': 'boxOne', '4': 'boxCastleResource', '5': 'boxOneResource'}"
+2,"{'1': 'wood', '2': 'boxCastleResource'}",,,9,{'1': 300322},"{'1': 900902001, '2': 900902002, '3': 900902003, '4': 900902004, '5': 900902011, '6': 900902012, '7': 900902013, '8': 900902014, '9': 900902015, '10': 900902016, '11': 900902017, '12': 900902018, '13': 900902019, '14': 900902020, '15': 900902021, '16': 900902022, '17': 900902023, '18': 900902024, '19': 900902025, '20': 900902026, '21': 900902027, '22': 900902028, '23': 910901091, '24': 910901096, '25': 900903010, '26': 900903011, '27': 900901001, '28': 900901006}",icon_wood,SpriteAtlas/UI_Icon.spriteatlas,2,910901095,,1,"{'1': 'wood', '2': 'boxCastleResource'}",{'1': 'boxOneResource'},5,"{'1': 'wood', '2': 'boxResource', '3': 'boxOne', '4': 'boxCastleResource', '5': 'boxOneResource'}"
+1,"{'1': 'food', '2': 'boxCastleResource'}",,,6,{'1': 300321},"{'1': 900902001, '2': 900902002, '3': 900902003, '4': 900902004, '5': 900902011, '6': 900902012, '7': 900902013, '8': 900902014, '9': 900902015, '10': 900902016, '11': 900902017, '12': 900902018, '13': 900902019, '14': 900902020, '15': 900902021, '16': 900902022, '17': 900902023, '18': 900902024, '19': 900902025, '20': 900902026, '21': 900902027, '22': 900902028, '23': 910901081, '24': 910901086, '25': 900903010, '26': 900903011, '27': 900901001, '28': 900901006}",icon_food,SpriteAtlas/UI_Icon.spriteatlas,1,910901085,,1,"{'1': 'food', '2': 'boxCastleResource'}",{'1': 'boxOneResource'},4,"{'1': 'food', '2': 'boxResource', '3': 'boxOne', '4': 'boxCastleResource', '5': 'boxOneResource'}"
+99,{},,,0,{},{},,,99,0,,0,{},{},1,{}
+6,{'1': 'strength'},,,0,{},{},icon_tili,SpriteAtlas/UI_Icon.spriteatlas,6,0,,0,{},{},7,{'1': 'strength'}
+5,"{'1': 'heroExp', '2': 'boxCastleEXP'}",,,6,{'1': 1},"{'1': 900902403, '2': 900900001, '3': 900900101, '4': 900900201, '5': 900900301, '6': 900900401, '7': 900900501, '8': 900900601, '9': 900900701, '10': 900900801, '11': 900900901, '12': 900901101, '13': 900901201, '14': 900901301, '15': 900901401, '16': 900901501, '17': 900904031, '18': 900901041}",icon_herojingyan,SpriteAtlas/UI_Icon.spriteatlas,5,900904035,,2,{},{},3,"{'1': 'heroExp', '2': 'boxCastleEXP'}"
+98,{},,,0,{'1': 14},{},pic_sb_01,SpriteAtlas/UI_SoldierIcon.spriteatlas,98,0,,0,{},{},26,{}
+52,{},,,0,{},{},icon_yszdz_heishuguhai,SpriteAtlas/UI_Icon.spriteatlas,52,0,,0,{},{},42,{}
+205,{},,,0,{'1': 97},{},icon_shrjinhua,,205,900903004,,0,{},{},33,{}
+9,{},,,1,{'1': 2000001},{},icon_lianmenggongxiandian,SpriteAtlas/UI_Icon.spriteatlas,9,0,,3,{},{},10,{}
+1100006,{},,,0,{'1': 400003},{},icon_lz_lingzhuzyjy,,1100006,0,,5,{},{},0,{'1': 'SEASON_0'}
+51,{},,,0,{},{},icon_yszdz_wuranyaodai,SpriteAtlas/UI_Icon.spriteatlas,51,0,,0,{},{},43,{}
+103,{},,,0,{},{},Icon_Alliance_Milestone,,103,0,,0,{},{},28,{}
+21,{},,,0,{},{},icon_wangguojinquan,SpriteAtlas/UI_Icon.spriteatlas,21,0,,5,{},{},0,{}
+206,{},,,0,{'1': 97},{},icon_shrjinhua,,206,900903004,,0,{},{},33,{}
+11,{'1': 'boxDiamond'},,,7,{'1': 2000006},{},icon_zuanshi,SpriteAtlas/UI_Icon.spriteatlas,11,0,,4,{},{},2,{'1': 'boxDiamond'}
+211,{},,,0,{},{},icon_shrjinhua,,211,0,,0,{},{},0,{}
+13,{},,,7,{},{},icon_zuanshi,SpriteAtlas/UI_Icon.spriteatlas,13,0,,4,{},{},13,{}
+12,{},,,7,{},{},icon_zuanshi,SpriteAtlas/UI_Icon.spriteatlas,12,0,,4,{},{},12,{}
+102,{},,,0,{},{},Icon_Item_Activity_DualCommander,,102,0,,0,{},{},27,{}
+1043,{},,,6,{},{},icon_tongbi,,1043,0,,1,{},{},0,{}
+53,{},,,0,{},{},icon_yszdz_fubaimianju,SpriteAtlas/UI_Icon.spriteatlas,53,0,,0,{},{},41,{}
+1100007,{},,,0,{'1': 400001},{},icon_lz_kangxingjy,,1100007,0,,5,{},{},30,{'1': 'SEASON_0'}
+202,{},,,0,{'1': 96},"{'1': 910901001, '2': 910901006}",icon_xinshou_005,SpriteAtlas/UI_SoldierIcon.spriteatlas,202,0,,0,{},{},30,{}
+1100002,{},,,0,"{'1': 500000, '2': 500001, '3': 500002, '4': 500003}",{},icon_star,,1100002,0,,0,{},{},0,{}
+203,{},,,0,{},{},icon_rw_jifen,,203,0,,3,{},{},31,{}
+18,{},,,0,{},{},,,18,0,,3,{},{},18,{}
+104,{},,,0,{},{},Icon_Item_Activity_Gift,,104,0,,0,{},{},29,{}
+204,"{'1': 'boxUavEquipDrop', '2': 'boxUavEquipOne'}",,,0,{'1': 98},{},,,204,910901032,,0,{},{},32,"{'1': 'boxUavEquipDrop', '2': 'boxUavEquipOne'}"
+20,{},,,0,{},{},,,20,0,,3,{},{},20,{}
+17,{},,,0,{},{},,SpriteAtlas/UI_Icon.spriteatlas,17,0,,0,{},{},17,{}

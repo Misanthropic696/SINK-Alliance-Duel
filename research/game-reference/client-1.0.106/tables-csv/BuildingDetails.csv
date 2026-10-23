@@ -1,0 +1,43 @@
+id,attrs,attrsTranslate,buildDes,cfgName,id
+5024,"{'1': 'protectCapacity', '2': 'ability'}","{'1': 10, '2': 1}",,MetalWarehouseBase,5024
+5045,"{'1': 'mediumHeroSoldierLoadAddValue', '2': 'mediumHeroHpAddValue', '3': 'mediumHeroAttackAddValue', '4': 'mediumHeroDefendAddValue', '5': 'ability'}","{'1': 18, '2': 19, '3': 20, '4': 21, '5': 1}",,MissileCenterBase,5045
+1016,"{'1': 'speed', '2': 'ability'}","{'1': 5, '2': 1}",,FarmBase,1016
+5014,"{'1': 'commonMarchSpeedAdd', '2': 'ability'}","{'1': 9, '2': 1}",,Squad_1Base,5014
+5013,"{'1': 'commonMarchSpeedAdd', '2': 'ability'}","{'1': 9, '2': 1}",,SquadBase,5013
+1010,"{'1': 'helpMaxCount', '2': 'helpTime', '3': 'ability'}","{'1': 28, '2': 29, '3': 1}",,EmbassyBase,1010
+5053,{'1': 'ability'},{'1': 1},,TempleBase,5053
+5010,{'1': 'ability'},{'1': 1},,ArenaBase,5010
+5044,"{'1': 'heavyHeroSoldierLoadAddValue', '2': 'heavyHeroHpAddValue', '3': 'heavyHeroAttackAddValue', '4': 'heavyHeroDefendAddValue', '5': 'ability'}","{'1': 14, '2': 15, '3': 16, '4': 17, '5': 1}",,TankCenterBase,5044
+5008,"{'1': 'heroFreeRecruitCD', '2': 'workerFreeRecruitCD', '3': 'ability'}","{'1': 7, '2': 8, '3': 1}",,BarBase,5008
+1001,"{'1': 'heroLvCap', '2': 'heroLife', '3': 'heroAttack', '4': 'heroDefend', '5': 'ability'}","{'1': 30, '2': 31, '3': 32, '4': 33, '5': 1}",,CastleBase,1001
+5025,"{'1': 'protectCapacity', '2': 'ability'}","{'1': 10, '2': 1}",,OilTankBase,5025
+1004,"{'1': 'cureCount', '2': 'ability'}","{'1': 3, '2': 1}",,HospitalBase,1004
+5035,{'1': 'ability'},{'1': 1},,QuarryBase,5035
+5034,"{'1': 'speed', '2': 'ability'}","{'1': 34, '2': 1}",,DroneCompFactoryBase,5034
+1008,{'1': 'ability'},{'1': 1},,WeaponWorkshopBase,1008
+5033,"{'1': 'speedAddPercent', '2': 'ability'}","{'1': 12, '2': 1}",,ReconnaissanceBase,5033
+5016,"{'1': 'commonMarchSpeedAdd', '2': 'ability'}","{'1': 9, '2': 1}",,Squad_3Base,5016
+1027,"{'1': 'speed', '2': 'ability'}","{'1': 5, '2': 1}",,AntitoxinBase,1027
+5029,{'1': 'ability'},{'1': 1},,SecretCenterBase,5029
+5006,"{'1': 'soldierCap', '2': 'ability'}","{'1': 6, '2': 1}",,PlayGroundBase,5006
+5043,"{'1': 'speed', '2': 'ability'}","{'1': 13, '2': 1}",,MaterialWorkshopBase,5043
+1006,{'1': 'ability'},{'1': 1},,RadarBase,1006
+5055,"{'1': 'shelterPercent', '2': 'shelterLimit', '3': 'coolDown', '4': 'helpNum', '5': 'ability'}","{'1': 36, '2': 37, '3': 38, '4': 39, '5': 1}",,BFSoldierShelterBase,5055
+5015,"{'1': 'commonMarchSpeedAdd', '2': 'ability'}","{'1': 9, '2': 1}",,Squad_2Base,5015
+1020,"{'1': 'lockTip', '2': 'ability'}","{'1': 35, '2': 1}",,BarracksBase,1020
+5046,"{'1': 'lightHeroSoldierLoadAddValue', '2': 'lightHeroHpAddValue', '3': 'lightHeroAttackAddValue', '4': 'lightHeroDefendAddValue', '5': 'ability'}","{'1': 22, '2': 23, '3': 24, '4': 25, '5': 1}",,AircraftCenterBase,5046
+5054,{'1': 'ability'},{'1': 1},,AuditoriumBase,5054
+1007,"{'1': 'speedAddPercent', '2': 'ability'}","{'1': 4, '2': 1}",,CollegeBase,1007
+5049,"{'1': 'counterRecoProb', '2': 'counterRecoHideCount', '3': 'ability'}","{'1': 26, '2': 27, '3': 1}",,RadarTowerBase,5049
+1002,"{'1': 'defendValue', '2': 'ability'}","{'1': 2, '2': 1}",,WallBase,1002
+1019,"{'1': 'speed', '2': 'ability'}","{'1': 5, '2': 1}",,OilWellBase,1019
+5042,"{'1': 'speed', '2': 'ability'}","{'1': 13, '2': 1}",,EquipSmelterBase,5042
+5036,{'1': 'ability'},{'1': 1},,DroneCenterBase,5036
+5002,{'1': 'ability'},{'1': 1},,AbyssDoorBase,5002
+5040,{'1': 'ability'},{'1': 1},,ExchangeShopBase,5040
+5038,{'1': 'ability'},{'1': 1},,MonumentBase,5038
+1017,"{'1': 'speed', '2': 'ability'}","{'1': 5, '2': 1}",,MetalRecyclingBase,1017
+5039,{'1': 'ability'},{'1': 1},,CollectionHallBase,5039
+5031,"{'1': 'freeTime', '2': 'ability'}","{'1': 11, '2': 1}",,WorkerBase,5031
+5023,"{'1': 'protectCapacity', '2': 'ability'}","{'1': 10, '2': 1}",,GranaryBase,5023
+5021,{'1': 'ability'},{'1': 1},,WorkerCenterBase,5021

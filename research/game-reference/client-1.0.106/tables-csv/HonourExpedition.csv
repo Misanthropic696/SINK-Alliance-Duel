@@ -1,0 +1,4 @@
+id,GoToTargets,bannerPath,campType,desc,difficultLimit,difficultNum,durationSeconds,heroUpRate,id,name,needCastleLevel,prevCampType,prevDifficult,refreshWeekDay,unlockIds,vipLimit
+2,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",pic_yz_peitu2,1,,20,60,172800,1,2,,16,1,8,"{'1': 7, '2': 2, '3': 4}","202,207,208",8
+3,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",pic_yz_peitu3,2,,20,60,172800,1,3,,16,1,12,"{'1': 7, '2': 2, '3': 4}","202,207,208",8
+1,"goto_become_stronger_01,goto_become_stronger_05,goto_become_stronger_11",pic_yz_peitu1,3,,20,60,172800,1,1,,16,0,0,"{'1': 7, '2': 2, '3': 4}","202,207,208",8

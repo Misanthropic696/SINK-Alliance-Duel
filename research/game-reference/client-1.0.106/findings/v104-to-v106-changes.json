@@ -1,0 +1,1784 @@
+{
+  "source_version_from": "1.0.104",
+  "source_version_to": "1.0.106",
+  "extraction_date": "2026-10-23",
+  "summary": {
+    "base_tables_v104": 750,
+    "base_tables_v106": 790,
+    "new_tables": 40,
+    "removed_tables": 0,
+    "tables_with_changes": 67,
+    "total_differing_rows": 10347
+  },
+  "new_tables_by_category": {
+    "ActivitySquadBattle": [
+      "ActivitySquadBattleBlock",
+      "ActivitySquadBattleCoordinate",
+      "ActivitySquadBattleDescription",
+      "ActivitySquadBattleFort",
+      "ActivitySquadBattleFortPrototype",
+      "ActivitySquadBattleMessage",
+      "ActivitySquadBattleParameter",
+      "ActivitySquadBattlePersonalAchievement",
+      "ActivitySquadBattlePersonalReward",
+      "ActivitySquadBattlePlayerIntegralSource",
+      "ActivitySquadBattleProhibit",
+      "ActivitySquadBattleRank",
+      "ActivitySquadBattleRankNew",
+      "ActivitySquadBattleRecord",
+      "ActivitySquadBattleStage",
+      "ActivitySquadBattleTime",
+      "ActivitySquadBattleZone"
+    ],
+    "Monopoly": [
+      "MonopolyBase",
+      "MonopolyBoardEvent",
+      "MonopolyCell",
+      "MonopolyCellLevel",
+      "MonopolyDrawWeightShow",
+      "MonopolyEventGift",
+      "MonopolyEventGiftGroup",
+      "MonopolySpecialTreasure"
+    ],
+    "Volcano": [
+      "VolcanoActivityReward",
+      "VolcanoConfig",
+      "VolcanoGteItem",
+      "VolcanoGuide",
+      "VolcanoModelConfig",
+      "VolcanoRankingReward",
+      "VolcanoResource",
+      "VolcanoResourceRefresh",
+      "VolcanoResourceTime",
+      "VolcanoServerGroup",
+      "VolcanoStage",
+      "VolcanoSystemDesc"
+    ],
+    "Other": [
+      "ActivitySquadMatchTime",
+      "ActivitySquadMatchWinRate",
+      "ConditionReward"
+    ]
+  },
+  "new_tables_detail": [
+    {
+      "table": "ActivitySquadBattleBlock",
+      "rows": 4,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleCoordinate",
+      "rows": 20,
+      "sample_keys": [
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleDescription",
+      "rows": 7,
+      "sample_keys": [
+        "101",
+        "102",
+        "103",
+        "104",
+        "201"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleFort",
+      "rows": 15,
+      "sample_keys": [
+        "1",
+        "11",
+        "12",
+        "13",
+        "14"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleFortPrototype",
+      "rows": 4,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleMessage",
+      "rows": 9,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleParameter",
+      "rows": 40,
+      "sample_keys": [
+        "squad_battle_achievement_show_max",
+        "squad_battle_achievement_tips_circulate",
+        "squad_battle_achievement_tips_space",
+        "squad_battle_achievement_tips_start",
+        "squad_battle_add_targetMove_cd"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattlePersonalAchievement",
+      "rows": 18,
+      "sample_keys": [
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattlePersonalReward",
+      "rows": 6,
+      "sample_keys": [
+        "1001",
+        "1002",
+        "1003",
+        "2001",
+        "2002"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattlePlayerIntegralSource",
+      "rows": 20,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleProhibit",
+      "rows": 14,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleRank",
+      "rows": 5,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleRankNew",
+      "rows": 13,
+      "sample_keys": [
+        "1001",
+        "1002",
+        "1003",
+        "1004",
+        "1005"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleRecord",
+      "rows": 7,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleStage",
+      "rows": 1,
+      "sample_keys": [
+        "1"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleTime",
+      "rows": 3,
+      "sample_keys": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "table": "ActivitySquadBattleZone",
+      "rows": 11,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "2",
+        "3"
+      ]
+    },
+    {
+      "table": "ActivitySquadMatchTime",
+      "rows": 10,
+      "sample_keys": [
+        "1",
+        "10",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "table": "ActivitySquadMatchWinRate",
+      "rows": 7,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "ConditionReward",
+      "rows": 72,
+      "sample_keys": [
+        "100101",
+        "100102",
+        "100103",
+        "100201",
+        "100202"
+      ]
+    },
+    {
+      "table": "MonopolyBase",
+      "rows": 1,
+      "sample_keys": [
+        "820050101"
+      ]
+    },
+    {
+      "table": "MonopolyBoardEvent",
+      "rows": 5,
+      "sample_keys": [
+        "100102",
+        "100103",
+        "100104",
+        "100105",
+        "100106"
+      ]
+    },
+    {
+      "table": "MonopolyCell",
+      "rows": 26,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "MonopolyCellLevel",
+      "rows": 76,
+      "sample_keys": [
+        "10021",
+        "10022",
+        "10023",
+        "10024",
+        "10031"
+      ]
+    },
+    {
+      "table": "MonopolyDrawWeightShow",
+      "rows": 2,
+      "sample_keys": [
+        "2",
+        "3"
+      ]
+    },
+    {
+      "table": "MonopolyEventGift",
+      "rows": 24,
+      "sample_keys": [
+        "101012",
+        "101013",
+        "101022",
+        "101023",
+        "101032"
+      ]
+    },
+    {
+      "table": "MonopolyEventGiftGroup",
+      "rows": 12,
+      "sample_keys": [
+        "100101",
+        "100102",
+        "100103",
+        "100104",
+        "100105"
+      ]
+    },
+    {
+      "table": "MonopolySpecialTreasure",
+      "rows": 4,
+      "sample_keys": [
+        "1001",
+        "1002",
+        "1003",
+        "1004"
+      ]
+    },
+    {
+      "table": "VolcanoActivityReward",
+      "rows": 9,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "VolcanoConfig",
+      "rows": 1,
+      "sample_keys": [
+        "1"
+      ]
+    },
+    {
+      "table": "VolcanoGteItem",
+      "rows": 4,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "table": "VolcanoGuide",
+      "rows": 4,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    {
+      "table": "VolcanoModelConfig",
+      "rows": 15,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "VolcanoRankingReward",
+      "rows": 15,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "VolcanoResource",
+      "rows": 3,
+      "sample_keys": [
+        "80102",
+        "80103",
+        "80104"
+      ]
+    },
+    {
+      "table": "VolcanoResourceRefresh",
+      "rows": 5,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "VolcanoResourceTime",
+      "rows": 57,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "12",
+        "13"
+      ]
+    },
+    {
+      "table": "VolcanoServerGroup",
+      "rows": 6,
+      "sample_keys": [
+        "105",
+        "106",
+        "180",
+        "181",
+        "420"
+      ]
+    },
+    {
+      "table": "VolcanoStage",
+      "rows": 5,
+      "sample_keys": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "table": "VolcanoSystemDesc",
+      "rows": 11,
+      "sample_keys": [
+        "1",
+        "10",
+        "11",
+        "2",
+        "3"
+      ]
+    }
+  ],
+  "removed_tables_detail": [],
+  "top_changed_tables": [
+    {
+      "table": "SlgMonsterAttr",
+      "rows_v104": 4879,
+      "rows_v106": 4879,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 4879,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "SlgArmyAttr",
+      "rows_v104": 2254,
+      "rows_v106": 2254,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 2254,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "GiftBase",
+      "rows_v104": 1626,
+      "rows_v106": 1732,
+      "added_keys": 106,
+      "removed_keys": 0,
+      "diff_rows": 1626,
+      "added_examples": [
+        "311000002",
+        "900903321",
+        "900903322",
+        "900903323",
+        "900903324",
+        "900903325",
+        "900903331",
+        "900903332",
+        "900903333",
+        "900903334"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "Item",
+      "rows_v104": 1600,
+      "rows_v106": 1618,
+      "added_keys": 18,
+      "removed_keys": 0,
+      "diff_rows": 389,
+      "added_examples": [
+        "halloween_battlepass_point",
+        "halloween_lucky_box1",
+        "halloween_lucky_box2",
+        "halloween_lucky_box3",
+        "halloween_lucky_box3_shell",
+        "halloween_lucky_box4",
+        "halloween_lucky_box5",
+        "halloween_market_money",
+        "halloween_market_money_shell",
+        "halloween_party"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "CollegeTech",
+      "rows_v104": 348,
+      "rows_v106": 348,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 348,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterPassFloor",
+      "rows_v104": 234,
+      "rows_v106": 468,
+      "added_keys": 234,
+      "removed_keys": 0,
+      "diff_rows": 234,
+      "added_examples": [
+        "102001",
+        "102002",
+        "102003",
+        "102004",
+        "102005",
+        "102006",
+        "102007",
+        "102008",
+        "102009",
+        "102010"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityDisplay",
+      "rows_v104": 210,
+      "rows_v106": 220,
+      "added_keys": 10,
+      "removed_keys": 0,
+      "diff_rows": 210,
+      "added_examples": [
+        "3110001",
+        "5300101",
+        "8200501",
+        "8200502",
+        "8200503",
+        "8200504",
+        "8200505",
+        "8200506",
+        "8200507",
+        "8200508"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "WorldPlayerBirth",
+      "rows_v104": 100,
+      "rows_v106": 100,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 64,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "MapSkinInfo",
+      "rows_v104": 63,
+      "rows_v106": 67,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 63,
+      "added_examples": [
+        "1021",
+        "2009",
+        "3020",
+        "7011"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BattlePass",
+      "rows_v104": 46,
+      "rows_v106": 48,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 46,
+      "added_examples": [
+        "3110001",
+        "8200502"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "LordJobSkill",
+      "rows_v104": 44,
+      "rows_v106": 44,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 44,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "RadarTreasure",
+      "rows_v104": 37,
+      "rows_v106": 37,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 37,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "BuildingLevel",
+      "rows_v104": 1318,
+      "rows_v106": 1332,
+      "added_keys": 14,
+      "removed_keys": 0,
+      "diff_rows": 31,
+      "added_examples": [
+        "11018001",
+        "11018002",
+        "11018003",
+        "11018004",
+        "11018005",
+        "11018006",
+        "11018007",
+        "11019001",
+        "11019002",
+        "11019003"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "DropInfo",
+      "rows_v104": 1720,
+      "rows_v106": 1802,
+      "added_keys": 82,
+      "removed_keys": 0,
+      "diff_rows": 21,
+      "added_examples": [
+        "10051001",
+        "10051002",
+        "10051003",
+        "10051004",
+        "10051005",
+        "10051006",
+        "10051007",
+        "10051008",
+        "10051009",
+        "10051010"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterPass",
+      "rows_v104": 20,
+      "rows_v106": 40,
+      "added_keys": 20,
+      "removed_keys": 0,
+      "diff_rows": 20,
+      "added_examples": [
+        "10201",
+        "10202",
+        "10203",
+        "10204",
+        "10205",
+        "10206",
+        "10207",
+        "10208",
+        "10209",
+        "10210"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ArenaActivityShop",
+      "rows_v104": 18,
+      "rows_v106": 18,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 18,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ExchangeShop",
+      "rows_v104": 294,
+      "rows_v106": 293,
+      "added_keys": 0,
+      "removed_keys": 1,
+      "diff_rows": 14,
+      "added_examples": [],
+      "removed_examples": [
+        "9903006"
+      ]
+    },
+    {
+      "table": "WarZoneConf",
+      "rows_v104": 11,
+      "rows_v106": 11,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 11,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityGetItem",
+      "rows_v104": 39,
+      "rows_v106": 39,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "Parameter",
+      "rows_v104": 836,
+      "rows_v106": 841,
+      "added_keys": 5,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [
+        "volcano_activity_move_cd",
+        "volcano_bg_guide_arrow_time",
+        "volcano_clear_delay_time",
+        "volcano_clear_window_time",
+        "volcano_scatter_range"
+      ],
+      "removed_examples": []
+    }
+  ],
+  "all_changed_tables": [
+    {
+      "table": "ActivityBase",
+      "rows_v104": 284,
+      "rows_v106": 294,
+      "added_keys": 10,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "31100001",
+        "530010101",
+        "820050101",
+        "820050102",
+        "820050103",
+        "820050104",
+        "820050105",
+        "820050106",
+        "820050107",
+        "820050108"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityDailyScoreTask",
+      "rows_v104": 16,
+      "rows_v106": 23,
+      "added_keys": 7,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "820050101",
+        "820050102",
+        "820050103",
+        "820050104",
+        "820050105",
+        "820050106",
+        "820050107"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityDailyScoreTaskStyle",
+      "rows_v104": 2,
+      "rows_v106": 3,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "820050108"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityDisplay",
+      "rows_v104": 210,
+      "rows_v106": 220,
+      "added_keys": 10,
+      "removed_keys": 0,
+      "diff_rows": 210,
+      "added_examples": [
+        "3110001",
+        "5300101",
+        "8200501",
+        "8200502",
+        "8200503",
+        "8200504",
+        "8200505",
+        "8200506",
+        "8200507",
+        "8200508"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityGetItem",
+      "rows_v104": 39,
+      "rows_v106": 39,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityGetItemLimit",
+      "rows_v104": 6,
+      "rows_v106": 6,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ActivityTarget",
+      "rows_v104": 137,
+      "rows_v106": 142,
+      "added_keys": 5,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "3110001",
+        "4600102",
+        "8200502",
+        "8200505",
+        "8200507"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ArenaActivityShop",
+      "rows_v104": 18,
+      "rows_v106": 18,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 18,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "BattlePass",
+      "rows_v104": 46,
+      "rows_v106": 48,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 46,
+      "added_examples": [
+        "3110001",
+        "8200502"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BattlePassReward",
+      "rows_v104": 986,
+      "rows_v106": 1014,
+      "added_keys": 28,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "3110011",
+        "3110012",
+        "3110013",
+        "3110014",
+        "3110015",
+        "3110016",
+        "3110017",
+        "82005001",
+        "82005002",
+        "82005003"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BattlePassTask",
+      "rows_v104": 689,
+      "rows_v106": 696,
+      "added_keys": 7,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "82005001",
+        "82005002",
+        "82005003",
+        "82005004",
+        "82005005",
+        "82005006",
+        "82005007"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BattlePosTemplate",
+      "rows_v104": 10,
+      "rows_v106": 12,
+      "added_keys": 3,
+      "removed_keys": 1,
+      "diff_rows": 4,
+      "added_examples": [
+        "1001",
+        "1002",
+        "11"
+      ],
+      "removed_examples": [
+        "6"
+      ]
+    },
+    {
+      "table": "Building",
+      "rows_v104": 84,
+      "rows_v106": 86,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "11018",
+        "11019"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BuildingCountLimit",
+      "rows_v104": 119,
+      "rows_v106": 121,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "322",
+        "323"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BuildingLevel",
+      "rows_v104": 1318,
+      "rows_v106": 1332,
+      "added_keys": 14,
+      "removed_keys": 0,
+      "diff_rows": 31,
+      "added_examples": [
+        "11018001",
+        "11018002",
+        "11018003",
+        "11018004",
+        "11018005",
+        "11018006",
+        "11018007",
+        "11019001",
+        "11019002",
+        "11019003"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BuildingPos",
+      "rows_v104": 123,
+      "rows_v106": 125,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "126",
+        "127"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "BuildingUpgrade",
+      "rows_v104": 1632,
+      "rows_v106": 1664,
+      "added_keys": 32,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "11018010",
+        "11018020",
+        "11018030",
+        "11018040",
+        "11018041",
+        "11018042",
+        "11018043",
+        "11018050",
+        "11018051",
+        "11018052"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ChatTemplate",
+      "rows_v104": 115,
+      "rows_v106": 118,
+      "added_keys": 3,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "96",
+        "97",
+        "98"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "CollegeTech",
+      "rows_v104": 348,
+      "rows_v106": 348,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 348,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ComprehensiveIconCfg",
+      "rows_v104": 26,
+      "rows_v106": 28,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "1007",
+        "12"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ConstructionLevelReward",
+      "rows_v104": 15,
+      "rows_v106": 20,
+      "added_keys": 5,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "82005051",
+        "82005052",
+        "82005053",
+        "82005054",
+        "82005055"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "DecorateBuy",
+      "rows_v104": 38,
+      "rows_v106": 40,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "11018",
+        "11019"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "DecorateUpgrade",
+      "rows_v104": 540,
+      "rows_v106": 572,
+      "added_keys": 32,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "11018010",
+        "11018020",
+        "11018030",
+        "11018040",
+        "11018041",
+        "11018042",
+        "11018043",
+        "11018050",
+        "11018051",
+        "11018052"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "DropInfo",
+      "rows_v104": 1720,
+      "rows_v106": 1802,
+      "added_keys": 82,
+      "removed_keys": 0,
+      "diff_rows": 21,
+      "added_examples": [
+        "10051001",
+        "10051002",
+        "10051003",
+        "10051004",
+        "10051005",
+        "10051006",
+        "10051007",
+        "10051008",
+        "10051009",
+        "10051010"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ExchangeShop",
+      "rows_v104": 294,
+      "rows_v106": 293,
+      "added_keys": 0,
+      "removed_keys": 1,
+      "diff_rows": 14,
+      "added_examples": [],
+      "removed_examples": [
+        "9903006"
+      ]
+    },
+    {
+      "table": "GiftBase",
+      "rows_v104": 1626,
+      "rows_v106": 1732,
+      "added_keys": 106,
+      "removed_keys": 0,
+      "diff_rows": 1626,
+      "added_examples": [
+        "311000002",
+        "900903321",
+        "900903322",
+        "900903323",
+        "900903324",
+        "900903325",
+        "900903331",
+        "900903332",
+        "900903333",
+        "900903334"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "GoToTarget",
+      "rows_v104": 1385,
+      "rows_v106": 1386,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "goto_activity_halloween"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "GuideDialog",
+      "rows_v104": 404,
+      "rows_v106": 409,
+      "added_keys": 5,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "10000105008",
+        "10000105009",
+        "10000105010",
+        "10000105011",
+        "10000105012"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "Item",
+      "rows_v104": 1600,
+      "rows_v106": 1618,
+      "added_keys": 18,
+      "removed_keys": 0,
+      "diff_rows": 389,
+      "added_examples": [
+        "halloween_battlepass_point",
+        "halloween_lucky_box1",
+        "halloween_lucky_box2",
+        "halloween_lucky_box3",
+        "halloween_lucky_box3_shell",
+        "halloween_lucky_box4",
+        "halloween_lucky_box5",
+        "halloween_market_money",
+        "halloween_market_money_shell",
+        "halloween_party"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ItemIcon",
+      "rows_v104": 27,
+      "rows_v106": 31,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "211",
+        "51",
+        "52",
+        "53"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ItemLimit",
+      "rows_v104": 2,
+      "rows_v106": 2,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "LeaderBoard",
+      "rows_v104": 265,
+      "rows_v106": 271,
+      "added_keys": 6,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "85007001",
+        "85007002",
+        "85007003",
+        "85007004",
+        "85007005",
+        "85007006"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "Like",
+      "rows_v104": 11,
+      "rows_v106": 12,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "11"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "LordJobSkill",
+      "rows_v104": 44,
+      "rows_v106": 44,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 44,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "MailTemplate",
+      "rows_v104": 595,
+      "rows_v106": 601,
+      "added_keys": 6,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "12101",
+        "13001",
+        "13002",
+        "13003",
+        "13004",
+        "13614"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MailUrlTrans",
+      "rows_v104": 1,
+      "rows_v106": 5,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MapEmoji",
+      "rows_v104": 16,
+      "rows_v106": 17,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "17"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MapSkinInfo",
+      "rows_v104": 63,
+      "rows_v106": 67,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 63,
+      "added_examples": [
+        "1021",
+        "2009",
+        "3020",
+        "7011"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterAct",
+      "rows_v104": 1,
+      "rows_v106": 2,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [
+        "2"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterCard",
+      "rows_v104": 16,
+      "rows_v106": 32,
+      "added_keys": 16,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterPass",
+      "rows_v104": 20,
+      "rows_v106": 40,
+      "added_keys": 20,
+      "removed_keys": 0,
+      "diff_rows": 20,
+      "added_examples": [
+        "10201",
+        "10202",
+        "10203",
+        "10204",
+        "10205",
+        "10206",
+        "10207",
+        "10208",
+        "10209",
+        "10210"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterPassFloor",
+      "rows_v104": 234,
+      "rows_v106": 468,
+      "added_keys": 234,
+      "removed_keys": 0,
+      "diff_rows": 234,
+      "added_examples": [
+        "102001",
+        "102002",
+        "102003",
+        "102004",
+        "102005",
+        "102006",
+        "102007",
+        "102008",
+        "102009",
+        "102010"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "MiniEliminateMasterShifting",
+      "rows_v104": 48,
+      "rows_v106": 96,
+      "added_keys": 48,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "101",
+        "102",
+        "103",
+        "104",
+        "105",
+        "106",
+        "107",
+        "108",
+        "109",
+        "110"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ModelConfigBase",
+      "rows_v104": 186,
+      "rows_v106": 190,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [
+        "221",
+        "80102",
+        "80103",
+        "80104"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ModelConfigLv1",
+      "rows_v104": 171,
+      "rows_v106": 175,
+      "added_keys": 4,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [
+        "221",
+        "80102",
+        "80103",
+        "80104"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "Parameter",
+      "rows_v104": 836,
+      "rows_v106": 841,
+      "added_keys": 5,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [
+        "volcano_activity_move_cd",
+        "volcano_bg_guide_arrow_time",
+        "volcano_clear_delay_time",
+        "volcano_clear_window_time",
+        "volcano_scatter_range"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "PointCoin",
+      "rows_v104": 7,
+      "rows_v106": 8,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "8"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "PointSource",
+      "rows_v104": 498,
+      "rows_v106": 541,
+      "added_keys": 43,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "2201",
+        "2301",
+        "2302",
+        "2303",
+        "2304",
+        "2305",
+        "2306",
+        "2307",
+        "2308",
+        "2309"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "RadarTreasure",
+      "rows_v104": 37,
+      "rows_v106": 37,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 37,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ResourceInfo",
+      "rows_v104": 167,
+      "rows_v106": 170,
+      "added_keys": 3,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "80102",
+        "80103",
+        "80104"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "ScoreItem",
+      "rows_v104": 5,
+      "rows_v106": 11,
+      "added_keys": 6,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [
+        "1",
+        "10",
+        "11",
+        "7",
+        "8",
+        "9"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "SecretHero",
+      "rows_v104": 31,
+      "rows_v106": 32,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "50020"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "SecretLevel",
+      "rows_v104": 5,
+      "rows_v106": 5,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 5,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "SlgArmyAttr",
+      "rows_v104": 2254,
+      "rows_v106": 2254,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 2254,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "SlgMonsterAttr",
+      "rows_v104": 4879,
+      "rows_v106": 4879,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 4879,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "SquadBattleDecoration",
+      "rows_v104": 43,
+      "rows_v106": 18,
+      "added_keys": 18,
+      "removed_keys": 43,
+      "diff_rows": 0,
+      "added_examples": [
+        "40001",
+        "40002",
+        "40003",
+        "40004",
+        "40005",
+        "40006",
+        "40007",
+        "40008",
+        "40009",
+        "40010"
+      ],
+      "removed_examples": [
+        "20108",
+        "20109",
+        "20110",
+        "20111",
+        "20112",
+        "20211",
+        "20212",
+        "20213",
+        "20214",
+        "20215"
+      ]
+    },
+    {
+      "table": "StringParameter",
+      "rows_v104": 207,
+      "rows_v106": 209,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 2,
+      "added_examples": [
+        "volcano_effect_location",
+        "volcano_forbid_range"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "TargetReward",
+      "rows_v104": 671,
+      "rows_v106": 690,
+      "added_keys": 19,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "520000001",
+        "520000002",
+        "520000003",
+        "520000004",
+        "520000005",
+        "520000006",
+        "820050701",
+        "820050702",
+        "820050703",
+        "820050704"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "TreasureMap",
+      "rows_v104": 1,
+      "rows_v106": 2,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [
+        "2"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "UavSkin",
+      "rows_v104": 7,
+      "rows_v106": 7,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 4,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "ViewPermissions",
+      "rows_v104": 27,
+      "rows_v106": 28,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "29"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "WarZoneConf",
+      "rows_v104": 11,
+      "rows_v106": 11,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 11,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "Warfrenzy",
+      "rows_v104": 1,
+      "rows_v106": 1,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 1,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "WorldGiftGather",
+      "rows_v104": 1,
+      "rows_v106": 2,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "1002"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "WorldObjects",
+      "rows_v104": 69,
+      "rows_v106": 71,
+      "added_keys": 2,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "16",
+        "9001"
+      ],
+      "removed_examples": []
+    },
+    {
+      "table": "WorldPlayerBirth",
+      "rows_v104": 100,
+      "rows_v106": 100,
+      "added_keys": 0,
+      "removed_keys": 0,
+      "diff_rows": 64,
+      "added_examples": [],
+      "removed_examples": []
+    },
+    {
+      "table": "constructionBase",
+      "rows_v104": 3,
+      "rows_v106": 4,
+      "added_keys": 1,
+      "removed_keys": 0,
+      "diff_rows": 0,
+      "added_examples": [
+        "8200505"
+      ],
+      "removed_examples": []
+    }
+  ]
+}

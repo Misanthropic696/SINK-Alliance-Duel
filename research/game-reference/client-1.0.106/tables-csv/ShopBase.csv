@@ -1,0 +1,18 @@
+id,condition,conditionGiftId,id,isGemShop,loginPupMinLv,openLevel,progressGroupID,redDotShowType,redDotType,sellOutSort,shopBannerPic,shopLabel,shopLabelIcon,shopLabelName,shopName,shopPrefab,shopSlogan,shopSort,shopType,subShop,subShopCount,switchTime,welfare
+90210,{},{},90210,0,0,8,0,2,32000,1,,90210,,,,s_MallFirstFloor_15,,900,1,{},0,-1,0
+90050,{},{},90050,1,0,2,0,2,0,0,,90050,,,,s_mallFirstFloor_2,,50,1,{},0,-1,0
+90130,"{'1': {'param2': '1', 'id': 20107, 'param1': '7'}}",{},90130,0,0,7,0,2,0,1,,90130,,,,s_MallFirstFloor_13,,992,1,{},0,-1,0
+90060,{},{},90060,0,0,2,0,2,24000,0,,90060,,,,s_MallFirstFloor_5,,995,1,{},0,-1,10060
+90110,{},"{'1': 10, '2': 11}",90110,0,0,5,0,2,26000,1,,90040,,,,s_MallFirstFloor_11,,99,1,{},0,-1,10080
+90070,{},{},90070,0,0,2,0,2,23000,0,,90070,,,,s_MallFirstFloor_6,,994,1,{},0,-1,10050
+90030,{},{},90030,0,0,5,0,2,0,0,,90030,,,,s_MallFirstFloor_3,,97,1,{},0,-1,0
+90020,{},{},90020,0,0,2,0,2,21000,2,,90020,,,,s_MallFirstFloor_4,,998,1,{},0,-1,10040
+90160,"{'1': {'includeHistory': True, 'param2': '1', 'id': 110004, 'param1': '300000102'}, '2': {'id': 1001, 'param1': 16}}","{'1': 17, '2': 18}",90160,0,0,18,0,2,29000,1,,90040,,,,s_MallFirstFloor_14,,100,1,{},0,-1,10080
+90120,{},{},90120,0,0,4,0,2,0,1,,90120,,,,s_MallFirstFloor_12,,993,1,{},0,-1,0
+90040,{},{},90040,0,0,5,0,2,22000,1,,90040,,,,s_MallFirstFloor_9,,98,1,{},0,-1,10070
+90090,{},{},90090,0,0,8,0,2,0,0,,90090,,,,s_MallFirstFloor_8,,996,1,{},0,0serverDayAfter_Every1Week_Circle,0
+90080,{},{},90080,0,0,6,2,2,25000,0,,90080,,,,s_MallFirstFloor_7,,997,2,{},0,-1,0
+90170,"{'1': {'includeHistory': True, 'param2': '1', 'id': 110004, 'param1': '300000103'}, '2': {'id': 1001, 'param1': 18}}","{'1': 19, '2': 20}",90170,0,0,24,0,2,31000,1,,90040,,,,s_MallFirstFloor_14,,100,1,{},0,-1,10080
+90150,"{'1': {'includeHistory': True, 'param2': '1', 'id': 110004, 'param1': '300000101'}, '2': {'id': 1001, 'param1': 14}}","{'1': 15, '2': 16}",90150,0,0,12,0,2,28000,1,,90040,,,,s_MallFirstFloor_14,,100,1,{},0,-1,10080
+90100,{},{},90100,0,0,2,0,2,0,0,,90100,,,,s_mallFirstFloor_10,,40,1,{},0,-1,0
+90140,"{'1': {'includeHistory': 'TRUE', 'param2': 99999, 'id': 100001, 'param1': 2}}","{'1': 13, '2': 14}",90140,0,0,6,0,2,27000,1,,90040,,,,s_MallFirstFloor_14,,100,1,{},0,-1,10080

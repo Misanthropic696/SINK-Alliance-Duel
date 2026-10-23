@@ -1,0 +1,24 @@
+id,activityId,desc,functionId,id,preTaskId,rewards,score,scoreType,taskType
+820030104,820030108,,goto_activity_pirate,820030104,820030103,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",5,2,2
+820040105,820040108,,goto_activity_pirate,820040105,820040104,"{'1': {'type': 99, 'count': 2, 'id': 'mid_autumn_lucky_box1'}}",10,4,2
+820030102,820030108,,goto_activity_pirate,820030102,820030101,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",5,6,2
+820040101,820040108,,goto_activity_pirate,820040101,0,"{'1': {'type': 99, 'count': 2, 'id': 'mid_autumn_lucky_box1'}}",5,5,2
+820050104,820050108,,goto_activity_halloween,820050104,820050103,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box3'}, '2': {'type': 99, 'count': 1, 'id': 'halloween_party'}, '3': {'type': 99, 'count': 100, 'id': 'halloween_submit'}}",5000,101,3
+820040102,820040108,,goto_activity_pirate,820040102,820040101,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",5,6,2
+820040108,820040108,,goto_activity_pirate,820040108,820040107,"{'1': {'type': 99, 'count': 30, 'id': 'mid_autumn_market_money'}}",10,3,2
+820040103,820040108,,goto_activity_pirate,820040103,820040102,"{'1': {'type': 99, 'count': 2, 'id': 'mid_autumn_lucky_box1'}}",5,3,2
+820040104,820040108,,goto_activity_pirate,820040104,820040103,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",5,2,2
+820040107,820040108,,goto_activity_pirate,820040107,820040106,"{'1': {'type': 99, 'count': 2, 'id': 'mid_autumn_lucky_box1'}}",10,6,2
+820040106,820040108,,goto_activity_pirate,820040106,820040105,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",10,5,2
+820050107,820050108,,goto_activity_halloween,820050107,820050106,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box3'}, '2': {'type': 99, 'count': 1, 'id': 'halloween_party'}, '3': {'type': 99, 'count': 100, 'id': 'halloween_submit'}}",5000,101,3
+820030105,820030108,,goto_activity_pirate,820030105,820030104,"{'1': {'type': 99, 'count': 2, 'id': 'pirate_box1'}}",10,4,2
+820050105,820050108,,goto_activity_halloween,820050105,820050104,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box3'}, '2': {'type': 99, 'count': 1, 'id': 'halloween_party'}, '3': {'type': 99, 'count': 100, 'id': 'halloween_submit'}}",5000,101,3
+820050103,820050108,,goto_activity_halloween,820050103,820050102,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box3'}, '2': {'type': 99, 'count': 1, 'id': 'halloween_party'}, '3': {'type': 99, 'count': 100, 'id': 'halloween_submit'}}",5000,101,3
+820030106,820030108,,goto_activity_pirate,820030106,820030105,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",10,5,2
+820030103,820030108,,goto_activity_pirate,820030103,820030102,"{'1': {'type': 99, 'count': 2, 'id': 'pirate_box1'}}",5,3,2
+820030107,820030108,,goto_activity_pirate,820030107,820030106,"{'1': {'type': 99, 'count': 2, 'id': 'pirate_box1'}}",10,6,2
+820030108,820030108,,goto_activity_pirate,820030108,820030107,"{'1': {'type': 99, 'count': 2, 'id': 'item_Material_universalFragment_5'}}",10,3,2
+820050102,820050108,,goto_activity_halloween,820050102,820050101,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box2'}, '2': {'type': 99, 'count': 30, 'id': 'halloween_submit'}}",1600,101,3
+820030101,820030108,,goto_activity_pirate,820030101,0,"{'1': {'type': 99, 'count': 2, 'id': 'pirate_box1'}}",5,5,2
+820050101,820050108,,goto_activity_halloween,820050101,0,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box2'}, '2': {'type': 99, 'count': 30, 'id': 'halloween_submit'}}",1000,101,3
+820050106,820050108,,goto_activity_halloween,820050106,820050105,"{'1': {'type': 99, 'count': 1, 'id': 'halloween_lucky_box3'}, '2': {'type': 99, 'count': 1, 'id': 'halloween_party'}, '3': {'type': 99, 'count': 100, 'id': 'halloween_submit'}}",5000,101,3
