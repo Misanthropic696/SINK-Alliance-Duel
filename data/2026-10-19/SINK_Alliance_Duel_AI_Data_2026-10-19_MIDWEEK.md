@@ -241,38 +241,38 @@ OCR aliases consolidated (identical scores; inspect local screenshots for spelli
 | 45 | valeria | 9,194,150 |
 | 46 | Frolx | 9,123,609 |
 | 47 | Ank1e | 9,073,350 |
-| 48 | Kalinera | 8,973,070 |
-| 49 | 6aBOBH9TKO | 8,877,500 |
-| 50 | Gelbrus | 8,557,200 |
-| 51 | saw11c | 8,541,550 |
-| 52 | melisamrt2 | 8,522,738 |
-| 53 | Mrazota | 8,405,600 |
-| 54 | JikapManiok | 8,349,809 |
-| 55 | Hoodhunter | 8,292,600 |
-| 56 | TH3KING | 8,256,150 |
-| 57 | Jericko | 8,210,700 |
-| 58 | DoctorDamaal | 8,018,350 |
-| 59 | EliMiller | 8,001,400 |
-| 60 | Kenward | 7,896,895 |
-| 61 | Jalt40 | 7,884,138 |
-| 62 | FayBae | 7,704,900 |
-| 63 | Fetagallina | 7,568,750 |
-| 64 | 'Skye | 7,552,300 |
-| 65 | Selytson | 7,538,900 |
-| 66 | -Pro- | 7,533,600 |
-| 67 | patopmp | 7,531,100 |
-| 68 | izya | 7,516,700 |
-| 69 | Mariza | 7,485,508 |
-| 70 | 08Zlyuka96 | 7,483,850 |
-| 71 | NidraDevi | 7,414,786 |
-| 72 | DoctorDaVida | 7,315,995 |
-| 73 | Kraz | 6,025,300 |
-| 74 | BeardedTrouble | 5,653,282 |
-| 75 | DrYuuki | 4,940,800 |
-| 76 | KuSTaH | 3,938,040 |
-| 77 | sergrety | 2,806,055 |
-| 78 | PipsBers1999 | 2,049,140 |
-| 79 | MISAN | 6 |
+| 48 | MISAN | 9,003,000 |
+| 49 | Kalinera | 8,973,070 |
+| 50 | 6aBOBH9TKO | 8,877,500 |
+| 51 | Gelbrus | 8,557,200 |
+| 52 | saw11c | 8,541,550 |
+| 53 | melisamrt2 | 8,522,738 |
+| 54 | Mrazota | 8,405,600 |
+| 55 | JikapManiok | 8,349,809 |
+| 56 | Hoodhunter | 8,292,600 |
+| 57 | TH3KING | 8,256,150 |
+| 58 | Jericko | 8,210,700 |
+| 59 | DoctorDamaal | 8,018,350 |
+| 60 | EliMiller | 8,001,400 |
+| 61 | Kenward | 7,896,895 |
+| 62 | Jalt40 | 7,884,138 |
+| 63 | FayBae | 7,704,900 |
+| 64 | Fetagallina | 7,568,750 |
+| 65 | 'Skye | 7,552,300 |
+| 66 | Selytson | 7,538,900 |
+| 67 | -Pro- | 7,533,600 |
+| 68 | patopmp | 7,531,100 |
+| 69 | izya | 7,516,700 |
+| 70 | Mariza | 7,485,508 |
+| 71 | 08Zlyuka96 | 7,483,850 |
+| 72 | NidraDevi | 7,414,786 |
+| 73 | DoctorDaVida | 7,315,995 |
+| 74 | Kraz | 6,025,300 |
+| 75 | BeardedTrouble | 5,653,282 |
+| 76 | DrYuuki | 4,940,800 |
+| 77 | KuSTaH | 3,938,040 |
+| 78 | sergrety | 2,806,055 |
+| 79 | PipsBers1999 | 2,049,140 |
 
 OCR aliases consolidated (identical scores; inspect local screenshots for spelling):
 - 12,879,350: 60HM / 60HW
@@ -371,4 +371,4 @@ OCR aliases consolidated (identical scores; inspect local screenshots for spelli
 - 15,062,000: 'Skye? / 'Skye
 - 10,254,413: Jericko / Jerickoo
 
-Original screenshots are retained locally and intentionally not uploaded. Score-based alias consolidation is provisional and could merge genuine ties; audit before treating as final.
+Audit correction: Wednesday MISAN was misread as 6; restored 9,003,000 based on two separate earlier captures. This is a confirmed OCR failure. Remaining OCR names and scores are not guaranteed error-free. Original screenshots are retained locally and intentionally not uploaded. Score-based alias consolidation is provisional and could merge genuine ties; audit before treating as final.
