@@ -1,10 +1,10 @@
-# SINK Alliance Duel — 16 November–21 November 2026
+﻿# SINK Alliance Duel — 16 November–21 November 2026
 
 **Captured:** 2026-11-22 04:43 Singapore time | **Source:** Last Asylum Rank screen, unfiltered (My Alliance unchecked)
 **PRE-RESET BACKUP SNAPSHOT: not a finalized weekly total. Saturday can still gain points before settlement.**
 
 ## AI interpretation
-This is one self-contained SINK performance file. Rank captures included both alliances; only rows visibly tagged [SINK] were retained. Opponent [ECHO] rows were excluded.
+This is one self-contained SINK performance file. Rank captures included both alliances; only rows visibly tagged [SINK] were retained. All opponent rows, including [HE11] Hell Bound Angels, were excluded. Only [SINK] player scores are included.
 **Not ranked** is an in-game position label, NOT evidence of zero points; a numerical score can be present despite that label.
 **Not observed** means OCR or coverage did not establish a numerical score. NEVER silently treat it as zero. Daily points and weekly game totals may differ due to scan errors.
 Daily ranking order is not necessarily official rank; points are from visible in-game rows. Weekly positions below are SINK-only order derived from captured points, not enemy-inclusive game ranks.
